@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-08-06
 
 # Partie législative
 
@@ -2896,6 +2896,22 @@ instance du lieu de la situation de l'immeuble.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L210-1 (V)
+
+
+###### Article L212-16
+
+Un décret en Conseil d'Etat déterminera la date d'effet et les conditions dans lesquelles les dispositions des sections
+précédentes seront appliquées aux sociétés constituées antérieurement au 31 décembre 1972.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
 
 
 ###### Article L212-17
