@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-11-13
+Version Consolidée au 1998-11-15
 
 # Partie législative
 
@@ -69621,6 +69621,28 @@ conventions ou arrêtés visés à l'article R. 441-11 doit être motivé.
 
 ##### Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré.
 
+###### Article *R441-20
+
+Le montant mensuel du supplément de loyer est égal au produit de la surface habitable du logement par le coefficient de
+dépassement du plafond de ressources et par le supplément de loyer de référence mensuel par mètre carré habitable.
+
+Aucun supplément de loyer n'est exigible lorsque le dépassement du plafond de ressources est inférieur à 20 p. 100.
+
+Le montant annuel du supplément de loyer, cumulé avec le montant annuel du loyer principal, est plafonné à 25 p. 100 des
+ressources de l'ensemble des personnes vivant au foyer. Ces ressources sont appréciées comme il est dit à l'article R.
+441-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°98-1028 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+
 ###### Article *R441-23
 
 Le dépassement du plafond de ressources est déterminé au cours de l'année civile en fonction :
@@ -69945,32 +69967,6 @@ spécial chargé de prononcer les attributions de logements.
 
 ##### Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré.
 
-###### Article R441-20
-
-Le montant mensuel du supplément de loyer est égal au produit de la surface habitable du logement par le coefficient de
-dépassement du plafond de ressources et par le supplément de loyer de référence mensuel par mètre carré habitable.
-
-Aucun supplément de loyer n'est exigible lorsque le dépassement du plafond de ressources est inférieur à 10 p. 100.
-
-Le montant annuel du supplément de loyer, cumulé avec le montant annuel du loyer principal, est plafonné à 25 p. 100 des
-ressources de l'ensemble des personnes vivant au foyer. Ces ressources sont appréciées comme il est dit à l'article R.
-441-23.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R441-23 (Ab)
-
-
 ###### Article R441-21
 
 En l'absence de délibération exécutoire fixant les modalités de calcul du supplément de loyer de solidarité applicables aux
@@ -70021,25 +70017,35 @@ les zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-Fra
 ###### Article R441-22
 
 La délibération fixant les modalités de calcul du supplément de loyer de solidarité applicables aux logements de l'organisme
-d'habitations à loyer modéré dans le département détermine :
+d'habitations à loyer modéré détermine pour chaque département où se situent ces logements :
 
-1° Le seuil de dépassement du plafond de ressources, compris entre 10 p. 100 et 40 p. 100, en deçà duquel le supplément de
-loyer n'est pas exigible ;
+1° Le seuil de dépassement du plafond de ressources, en deçà duquel le supplément de loyer n'est pas exigible ;
 
-2° Le coefficient de dépassement du plafond de ressources dont la valeur, librement fixée dans les conditions prévues à
-l'article L. 441-5 lorsque le dépassement est compris entre 10 p. 100 et 40 p. 100, est au moins égale à celle fixée selon
-les cas au 1° de l'article R. 441-21, lorsque le dépassement est égal ou supérieur à 40 p. 100 ;
+2° Le coefficient de dépassement du plafond de ressources, fixé dans les conditions prévues à l'article L. 441-5, dont la
+valeur :
+
+- ne peut excéder 0,75 lorsque le dépassement est au moins égal à 20 % et inférieur à 30 % ;
+
+- ne peut excéder 1 lorsque le dépassement est au moins égal à 30 % et inférieur à 40 % ;
+
+- est au moins égale aux valeurs fixées au 1° de l'article R. 441-21, lorsque le dépassement est au moins égal à 40 %, sans
+pouvoir excéder 1,50 si le dépassement des plafonds de ressources est au moins égal à 40 % et inférieur à 60 %, et sans
+pouvoir excéder 2 si le dépassement des plafonds de ressources est au moins égal à 60 % et inférieur à 80 % ;
 
 3° Le supplément de loyer de référence mensuel par mètre carré habitable de chaque immeuble ou groupe d'immeubles ainsi que
-l'identification de ces immeubles et groupes d'immeubles. Pour les logements de l'organisme d'habitations à loyer modéré
-situés dans une même zone géographique du département au sens du 2° de l'article R. 441-21, la moyenne des suppléments de
-loyer de référence est au moins égale au supplément de loyer de référence fixé au 2° de ce même article. Cette moyenne est
-égale à la somme des suppléments de loyer de référence des logements rapportée à la somme de leurs surfaces habitables.
+l'identification de ces immeubles ou groupes d'immeubles ; pour les logements de l'organisme d'habitations à loyer modéré
+situés dans une même zone géographique du département au sens du 2° de l'article R. 441-21, le supplément de loyer de
+référence ne peut être supérieur au triple du montant du supplément de loyer de référence par mètre carré habitable fixé au
+2° de l'article R. 441-21.
+
+La moyenne des suppléments de loyer de référence doit être au moins égale au supplément de loyer de référence fixé au 2° de
+ce même article. Cette moyenne est égale à la somme des suppléments de loyer de référence des logements rapportée à la somme
+de leurs surfaces habitables.
 
 Sont annexés à cette délibération :
 
-- le nombre de logements et la surface habitable de chaque immeuble ou groupe d'immeubles situés dans une même zone
-géographique du département ;
+- l'indication du nombre de logements et de la surface habitable de chaque immeuble ou groupe d'immeubles situés dans une
+même zone géographique du département ;
 
 - le calcul de la moyenne des suppléments de loyer de référence dans chaque zone géographique du département, faisant
 apparaître les divers niveaux de suppléments de loyer de référence entrant dans ce calcul.
@@ -70050,9 +70056,13 @@ apparaître les divers niveaux de suppléments de loyer de référence entrant d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
+	  - Décret n°98-1028 du 13 novembre 1998 - art. 2 () JORF 15 novembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1028 du 13 novembre 1998 - art. 3 (V)
 
 	**Cité par**:
 
@@ -73161,6 +73171,223 @@ chargé de la construction et de l'habitation et du ministre chargé de la sant�
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 329
+
+
+#### Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière.
+
+###### Article R623-1
+
+L'aide forfaitaire prévue à l'article 40 de la loi n° 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les
+exclusions ne peut être accordée qu'aux associations, centres communaux ou intercommunaux d'action sociale, organismes à but
+non lucratif ou unions d'économie sociale pratiquant la sous-location ou la gestion immobilière de logements destinés à des
+personnes défavorisées, préalablement agréés à ce titre par le préfet et qui ont conclu avec l'Etat une convention, dans les
+conditions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+
+###### Article R623-2
+
+L'agrément est délivré sans limitation de durée aux associations, centres communaux ou intercommunaux d'action sociale,
+organismes à but non lucratif ou unions d'économie sociale qui présentent les garanties nécessaires en matière de compétences
+sociales, techniques et financières.
+
+Pour les associations, centres communaux ou intercommunaux d'action sociale, organismes à but non lucratif ou unions
+d'économie sociale pratiquant des activités de gestion immobilière, l'agrément ne peut être délivré que lorsque cette gestion
+est exercée dans les conditions prévues par la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des
+activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce, notamment par son article 3
+relatif à la possession d'une carte professionnelle.
+
+L'agrément peut être retiré à tout moment par le préfet, en cas de manquements graves et après mise en demeure restée
+infructueuse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+
+###### Article R623-3
+
+La demande d'aide est déposée par l'association, le centre communal ou intercommunal d'action sociale, l'organisme à but non
+lucratif ou l'union d'économie sociale pratiquant la sous-location ou la gestion, auprès du préfet de département et
+instruite par ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+
+###### Article R623-4
+
+La convention est conclue entre l'association, le centre communal ou intercommunal d'action sociale, l'organisme à but non
+lucratif ou l'union d'économie sociale pratiquant la sous-location ou la gestion immobilière et le préfet de département.
+Elle prend effet le premier jour du mois suivant sa signature.
+
+La convention peut également être signée par les personnes morales, notamment collectivités locales et bailleurs, qui
+apportent un concours financier.
+
+La convention précise les conditions d'attribution des logements faisant l'objet de l'aide.
+
+Elle fixe, pour une période de trois années à compter de sa date d'entrée en vigueur, le nombre maximum de logements
+concernés par l'aide forfaitaire et le montant prévisionnel de l'aide pour la première année d'application. En début de
+chaque période annuelle, un avenant détermine le montant annuel prévisionnel de l'aide.
+
+La convention prévoit la production d'un bilan annuel d'occupation de ces logements et précise la nature des données qui
+devront y figurer. La signature de l'avenant financier annuel ou d'une nouvelle convention triennale est subordonnée à la
+production de ce bilan annuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R623-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. R623-7 (Ab)
+
+
+###### Article R623-5
+
+Dans la limite du montant prévisionnel prévu dans la convention et dans ses avenants annuels, l'aide attribuée chaque année
+est calculée en fonction du nombre de logements pris à bail ou en gestion immobilière et mis à disposition de personnes
+remplissant les conditions d'attribution fixées par la convention.
+
+Un acompte représentant 30 % du montant prévisionnel de l'aide peut être versé à la signature de la convention et de
+l'avenant annuel au bénéficiaire de l'aide si ce dernier gère déjà un nombre de logements supérieur à 30 % du nombre maximum
+de logements fixé au quatrième alinéa de l'article R. 623-4 sous forme de bail ou de mandat de gestion et que ceux-ci soient
+mis à la disposition de personnes remplissant les conditions d'attribution fixées par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R623-4
+
+
+###### Article R623-6
+
+Le montant forfaitaire annuel de l'aide par logement est fixé à :
+
+3 200 F en Ile-de-France ;
+
+2 900 F sur le reste du territoire.
+
+Il est actualisé au 1er janvier de chaque année, par arrêté des ministres chargés du budget, des affaires sociales et du
+logement, en fonction de la variation annuelle de l'indice du coût de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 13 mars 2000
+	  - TXT_ASSOCIE: Arrêté du 13 mars 2000 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 27 décembre 2000 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 2000 - art. 1 (V)
+	  - Arrêté du 27 décembre 2000 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+
+###### Article R623-7
+
+La convention peut être résiliée par l'une des parties avec un préavis de trois mois.
+
+Toutefois, en cas de non-respect de la convention ou d'absence de production du bilan mentionné au dernier alinéa de
+l'article R. 623-4, le préfet peut résilier la convention dans le délai d'un mois après une mise en demeure par lettre
+recommandée, avec avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-1029 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R623-4
 
 
 ### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.
