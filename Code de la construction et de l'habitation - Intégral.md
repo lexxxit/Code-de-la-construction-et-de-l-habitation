@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-03-10
+Version Consolidée au 1979-04-13
 
 # Partie législative
 
@@ -35924,6 +35924,65 @@ passibles de l'impôt sur le revenu.
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 
 
+##### Sous-section 7 : Dispositions diverses.
+
+##### SECTION IV : Dispositions particulières aux logements-foyers
+
+##### SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif.
+
+###### Article R351-55
+
+Sont considérés comme logements-foyers pour l'application du titre V du livre III de la première partie du code de la
+construction et de l'habitation des établissements à caractère social qui assurent le logement dans des immeubles comportant
+à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations annexes telles
+que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance [*définition*].
+
+Toutefois, la présente sous-section ne s'applique qu'aux logements-foyers hébergeant à titre principal des jeunes
+travailleurs, des travailleurs migrants, des personnes handicapées ou des personnes âgées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*234-10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-24 (V)
+	  - Code de la construction et de l'habitation. - art. R129-13 (V)
+	  - Code de la construction et de l'habitation. - art. R323-7 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-21-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-4 (V)
+	  - Code de la construction et de l'habitation. - art. R331-8 (V)
+	  - Code de la construction et de l'habitation. - art. R351-58 (V)
+	  - Code de la construction et de l'habitation. - art. R351-59 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-159 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-165 (V)
+	  - Code de la construction et de l'habitation. - art. R381-4 (V)
+	  - Code de la construction et de l'habitation. - art. R442-4 (V)
+	  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
+
+
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-59
+
+Le droit à l'aide personnalisée est ouvert à la personne isolée ou au ménage résidant effectivement dans une unité
+d'habitation située dans un logement-foyer à compter du premier mois au titre duquel elle acquitte la redevance mensuelle
+prévue par le titre d'occupation [*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
 ##### Section 1 : Aide personnalisée
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
@@ -36480,6 +36539,88 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
+
+
+##### Section 4 : Dispositions particulières aux logements-foyers
+
+##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.
+
+###### Article R351-57
+
+Sont assimilés à des logements locatifs en application du 5. de l'article L. 351-2, les logements-foyers qui répondent à
+l'une des conditions fixées à l'article R. 351-56 et font l'objet d'une convention passée dans les conditions prévues au
+titre V, chapitre III, section VII du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-58 (M)
+
+
+##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-63
+
+L'aide personnalisée est versée au gestionnaire du logement-foyer selon les modalités techniques prévues par un avenant à la
+convention conclue entre le fonds national de l'habitation, d'une part, la caisse nationale des allocations familiales et la
+caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R351-65
+
+L'abattement prévu à l'article R. 351-11 est applicable aux ressources prises en considération pour le calcul de l'aide
+personnalisée due à compter de la date d'ouverture du droit ou de son renouvellement aux personnes isolées résidant en
+logement-foyer lorsqu'elles apportent la preuve qu'elles assument ou contribuent à assumer financièrement des charges
+familiales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-11 (M)
+
+
+##### Section 4 : Dispositions particulières aux logements-foyers.
+
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-66
+
+Les articles R. 351-4 à R. 351-10, R. 351-12 à R. 351-17, R. 351-22 à R. 351-26, R. 351-28, R. 351-29 et R. 351-32 sont
+applicables aux personnes résidant dans un logement-foyer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-4 à R351-10, R351-12 à R351-17, R351-22 à R351-26, R351-28, R351-29, R351-32
+	  - Code de la construction et de l'habitation. - art. R351-28 (M)
+	  - Code de la construction et de l'habitation. - art. R351-29 (M)
+	  - Code de la construction et de l'habitation. - art. R351-32 (M)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
@@ -39357,6 +39498,331 @@ l'INSEE selon des modalités fixées par les conventions.
 	  - Code de la construction et de l'habitation. - art. R353-134 (M)
 
 
+##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°).
+
+###### Article R353-154
+
+Les articles L. 353-1 à L. 353-13 du code de l'urbanisme et de l'habitation sont applicables aux logements-foyers assimilés à
+des logements à usage locatif en application du 5 de l'article L. 351-2 dudit code et de la section IV du chapitre 1er du
+présent titre, sous réserve des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-297 1979-04-11 JORF 13 AVRIL 1979 Rectificatif JORF 13 JUIN 1979
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+
+
+###### Article R353-155
+
+Pour l'application de l'article L. 353-2 du code de la construction et de l'habitation :
+
+1. Sont assimilés au bailleur le propriétaire du logement-foyer s'il en assure la gestion et, dans le cas contraire, le
+propriétaire et le gestionnaire, qui a conclu avec le propriétaire un contrat de location des locaux ;
+
+2. Est assimilée au locataire et dénommée occupant, toute personne physique résidant dans un logement-foyer, titulaire d'un
+titre d'occupation.
+
+Ce titre est consenti par le gestionnaire dans les conditions définies à l'article R. 353-165 ci-dessous ; il ne peut être
+accessoire à un contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-165 (M)
+
+
+###### Article R353-156
+
+La convention prévue à l'article L. 353-2 du code précité régit la part de la redevance qui, contrepartie de l'occupation du
+logement, est assimilable au loyer et aux charges locatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L342-1 (M)
+	  - Code de l'action sociale et des familles - art. R314-182 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+	  - Code de la construction et de l'habitation. - art. R353-157 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+
+
+###### Article R353-157
+
+La part de la redevance définie à l'article R. 353-156 ci-dessus est seule prise en compte pour l'application du barème de
+l'aide personnalisée au logement [*occupation*].
+
+Elle est calculée sur la base de deux éléments équivalents l'un au loyer, l'autre au charges locatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+
+
+###### Article R353-158
+
+L'élément équivalent au loyer tient compte :
+
+1. Des frais financiers annuels afférents à l'immeuble qui recouvrent le remboursement ;
+
+Des charges afférant à l'ensemble des emprunts contractés pour la construction, l'amélioration ou l'acquisition-amélioration
+du logement-foyer ;
+
+Des frais généraux du propriétaire ;
+
+De la provision pour grosses réparations au sens de l'article 606 du code civil ;
+
+Du montant de la prime d'assurance de l'immeuble ;
+
+2. Des frais de fonctionnement du logement-foyer, à l'exclusion de ceux qui concernent l'amortissement du mobilier, l'action
+socio-éducative, le fonctionnement du centre de soins et les dépenses de blanchissage, à savoir :
+
+Frais de siège du gestionnaire ;
+
+Frais fixes de personnel administratif ;
+
+Provision pour gros entretien en application des articles 1719, 1720 et 1721 du code civil et frais de personnel et de
+fournitures afférents à ces travaux ainsi que toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code
+civil [*calcul redevance occupation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1719 (M)
+	  - Code civil - art. 1720 (V)
+	  - Code civil - art. 1721 (V)
+	  - Code civil - art. 1754 (V)
+	  - Code civil - art. 1755 (V)
+	  - Code civil - art. 606 (V)
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+
+
+###### Article R353-159
+
+L'élément équivalent aux charges locatives englobe les taxes locatives et fournitures individuelles au sens de l'article 38
+de la loi susvisée du 1er septembre 1948, à l'exclusion des dépenses relatives à l'amortissement du mobilier, à l'action
+socio-éducative, au fonctionnement du centre de soins et au service de blanchissage [*calcul redevance occupation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+	  - Loi   1948-09-01 ART. 38
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R353-160 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165 (V)
+
+
+###### Article R353-160
+
+Dans la mesure où le gestionnaire ne peut justifier par la comptabilité de l'établissement les éléments entrant dans le
+calcul du montant de l'équivalence de loyer et des charges locatives, la convention peut prévoir qu'à titre transitoire ce
+montant est établi en appliquant à la redevance [*occupation*] un abattement forfaitaire dont elle précise le taux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+
+
+###### Article R353-161
+
+La durée de la convention ne peut être inférieure à un an. La convention est renouvelable par tacite reconduction pour la
+même durée sous réserve de dénonciation expresse par l'une ou l'autre partie dans les conditions fixées par la convention.
+
+La convention conclue par application de l'article L. 353-2 du code de la construction et de l'habitation doit être conforme
+à l'une des conventions types annexées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+
+
+###### Article R353-162
+
+L'article L. 353-3 du code précité n'est pas applicable aux conventions conclues en application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-3 (V)
+
+
+###### Article R353-163
+
+Les logements-foyers faisant l'objet d'une convention conclue dans les conditions de la présente section doivent, jusqu'à la
+date prévue pour son expiration, être mis à la disposition des occupants conformément à ladite convention et dès la date de
+signature de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+
+
+###### Article R353-164
+
+En cas de résiliation par l'Etat aux torts du bailleur de la convention conclue en application de la présente section, sous
+réserve du respect par l'occupant des obligations prévues par le titre d'occupation, il n'est rien changé aux stipulations de
+ce titre.
+
+Toutefois, à compter de la date à laquelle la résiliation est devenue définitive, l'aide personnalisée au logement n'est plus
+applicable aux logements-foyers concernés et la redevance exigible déterminée dans les conditions fixées par la convention
+est diminuée du montant de l'aide qui aurait été due au titre de l'occupation de ces logements, prise en charge par le
+bailleur.
+
+Cette disposition ne fait pas obstacle à la signature d'une nouvelle convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+
+
+###### Article R353-165
+
+Pour l'application des articles L. 353-7 et L. 353-8 du code de la construction et de l'habitation, lorsque, à la date
+d'entrée en vigueur de la convention, le logement-foyer est occupé, le bailleur doit proposer aux occupants un titre
+d'occupation conforme aux stipulations de la convention. Il doit également proposer ce titre d'occupation à tout nouvel
+occupant.
+
+Ce titre doit reproduire obligatoirement les dispositions relatives :
+
+A la durée minimale du titre d'occupation et aux modalités selon lesquelles ce titre peut être résilié ou reconduit à la
+volonté de l'occupant pendant la durée de la convention, sous réserve des règles spécifiques d'accueil propres au logement-
+foyer ;
+
+Aux modalités de mise en oeuvre de la clause résolutoire du titre d'occupation ;
+
+Au montant de la part de la redevance assimilable aux loyers et aux charges locatives, des cautionnements et les modalités de
+leur évolution ;
+
+A la détermination de l'équivalence de loyer et de charges locatives ;
+
+Aux conditions de relogement provisoire pendant la durée des travaux.
+
+Ce titre doit également préciser le montant de la redevance.
+
+L'occupant dispose d'un délai d'un mois pour accepter le titre d'occupation ; au terme de ce délai les dispositions de la
+convention s'appliquent de plein droit, sous réserve des contrats en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 5
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+	  - Code de la construction et de l'habitation. - art. L353-7 (M)
+	  - Code de la construction et de l'habitation. - art. L353-8 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-155 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R353-164-1 (Ab)
+
+
 ### Titre V : Aide personnalisée au logement.
 
 #### Chapitre Ier : Dispositions générales
@@ -39425,6 +39891,67 @@ laquelle ledit bailleur a fait opposition.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-27 (M)
+
+
+##### Sous-section 7 : Dispositions diverses.
+
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-58
+
+L'aide personnalisée est attribuée aux personnes résidant dans un logement-foyer répondant aux conditions fixées par les
+articles R. 351-55 à R. 351-57 [*bénéficiaire*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-57 (M)
+
+
+###### Article R351-60
+
+Le montant de l'aide personnalisée est obtenu par application de la formule : A. P. L. = K (E - E0) dans laquelle :
+
+a) A. P. L. représente le montant mensuel de l'aide personnalisée ;
+
+b) K représente le coefficient de prise en charge défini à l'article R. 351-61 ;
+
+c) E représente l'équivalence de loyer et de charges locatives telle que définie aux articles R. 353-156 à R. 353-160, prise
+en compte dans la limite d'une équivalence de loyer et de charges locatives de référence fixée par arrêté conjoint des
+ministres chargés de la sécurité sociale, de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la
+construction et de l'habitation et de l'agriculture ;
+
+d) E0 représente l'équivalence de loyer et de charges locatives minima, telle que définie à l'article R. 351-62, prise en
+compte pour le calcul de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-298 1979-04-11 jorf 13 avril 1979
+
+	**Cite**:
+
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R351-61, R353-156 à R353-160, R351-62
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+	  - Code de la construction et de l'habitation. - art. R351-62 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 ##### Section 2 : Fonds national de l'habitation
@@ -40499,6 +41026,146 @@ fonds national de l'habitation.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
+
+
+##### Dispositions particulières aux logements-foyers
+
+##### Conditions d'assimilation des logements-foyers aux logements à usage locatif.
+
+###### Article R351-56
+
+Peuvent être assimilés, à des logements à usage locatif en application du 5. de l'article L. 351-2 :
+
+1. Les logements-foyers existants dont la construction a été financée :
+
+Soit dans les conditions prévues par les articles L. 313-1, L. 411-1, R. 311-1 et R. 431-49 ; lorsque des crédits collectés
+au titre de la participation des employeurs à l'effort de construction ont constitué le seul financement entrant dans le
+champ d'application des articles précités, le montant de ces crédits doit représenter au moins 20 p. 100 du coût de la
+construction ;
+
+Soit au moyen des subventions accordées sur le budget du ministère chargé de la santé, représentant au moins 20 p. 100 du
+coût de la construction.
+
+2. Les logements-foyers existants dont l'amélioration ou l'acquisition suivie d'une amélioration est financée :
+
+Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre ;
+
+Soit dans les conditions prévues par le titre II, chapitre III, section I, du présent livre ;
+
+Soit au moyen de crédits collectés au titre de la participation des employeurs à l'effort de construction dans les conditions
+prévues par l'article L. 313-1 (alinéa 3) dans le cadre d'une opération ayant fait l'objet d'un agrément des ministres
+chargés du logement et des travailleurs immigrés ;
+
+Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
+des travaux d'amélioration subventionnables ou du coût de l'opération d'acquisition-amélioration.
+
+3. Les logements-foyers neufs dont la construction est financée :
+
+Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre.
+
+Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
+de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R311-1
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. R431-49 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-57 (V)
+	  - Code de la construction et de l'habitation. - art. R351-58 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+
+
+##### Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-61
+
+Le coefficient K est déterminé par la formule :
+
+K = 0,95 - (R / CM x N)        dans laquelle        R représente les ressources déterminées conformément aux articles R.
+351-5, R351-6 et R. 351-7, arrondies jusqu'à 5000 F au multiple de 500 F immédiatement inférieur ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, de l'action
+sociale, des travailleurs immigrés, du Trésor, du budget, de la construction et de l'habitation et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+Bénéficiaire isolé                              1,60        Ménage sans personne à charge                   2
+Bénéficiaire isolé ou ménage ayant une        personne à charge résidant dans l'unité        d'habitation [*calcul aide
+personnalisée*]        2,50.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-6 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+
+
+###### Article R351-62
+
+L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
+ressources dont les limites inférieures et supérieures sont affectées des coefficients prévus à l'article R. 351-61. Le
+résultat est divisé par douze.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la construction et de l'habitation, et de
+l'agriculture.
+
+Pour l'application du présent article, ces ressources sont arrondies dans les conditions prévues à l'article R. 351-61.
+
+L'équivalence de loyer et de charges locatives minima mensuelle est arrondie au franc inférieur [*calcul aide
+personnalisée*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
