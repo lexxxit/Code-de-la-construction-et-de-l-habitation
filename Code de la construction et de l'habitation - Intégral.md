@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-03-27
+Version Consolidée au 1999-05-05
 
 # Partie législative
 
@@ -73744,11 +73744,9 @@ sont réputées faites à la date de la réception du pli recommandé par le pr�
 	  - Code de la construction et de l'habitation. - art. R631-7 (M)
 
 
-### Titre IV : Logement d'office 
+### Titre IV : Mise en oeuvre du droit au logement par la réquisition.
 
-#### Chapitre unique 
-
-##### Section 1 : Locaux d'habitation.
+#### Chapitre Ier : Réquisition.
 
 ###### Article R641-1
 
@@ -73760,13 +73758,13 @@ présomption.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-2
@@ -73784,13 +73782,13 @@ Le maintien sans titre dans les lieux de tout occupant ne fait pas perdre au loc
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-3
@@ -73803,24 +73801,24 @@ Sont considérés comme inoccupés :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-4
 
 Sont considérés comme insuffisamment occupés les locaux comportant un nombre de pièces habitables, au sens de l'article 28 de
-la loi n. 48-1360 du 1er septembre 1948 modifiée, non compris les cuisines, supérieur de plus de deux au nombre de personnes
-qui y ont effectivement leur résidence principale.
+la loi n° 48-1360 du 1er septembre 1948 modifiée, non compris les cuisines, supérieur de plus de deux au nombre de personnes
+qui y ont effectivement leur résidence principale. 
 
 Ne sont pas considérées comme pièces habitables pour l'application du présent article les pièces effectivement utilisées pour
 l'exercice d'une fonction publique élective ou d'une profession et indispensables à l'exercice de cette fonction ou
-profession.
+profession. 
 
 Pour la détermination des conditions d'occupation prévues au présent article, peuvent seuls être compris au nombre des
 personnes ayant effectivement leur résidence principale dans le local considéré :
@@ -73840,19 +73838,19 @@ familiales ;
 
 	**Cite**:
 
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 28 (V)
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 28 (V)
 
 	**Cité par**:
 
 	  - Loi n°54-781 du 2 août 1954 - art. 2 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-5
@@ -73866,13 +73864,13 @@ Cette déclaration peut être exigée périodiquement sur décision du préfet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-6
@@ -73887,13 +73885,13 @@ logement, pour les autres locaux, dans les huit jours qui suivent le congé ou u
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-7
@@ -73909,26 +73907,26 @@ et à l'usage en commun, dans la mesure indispensable, des annexes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-8
 
 Les conclusions de toute enquête proposant une attribution d'office font l'objet, à la diligence du maire, d'un affichage à
 la porte du local considéré. La décision d'attribution d'office est prise, au plus tard, dans le délai d'un mois à dater de
-l'affichage.
+l'affichage. 
 
 Les conditions de vacance ou d'inoccupation du local doivent être appréciées au moment de l'affichage ou de la notification
-de la décision d'attribution d'office au cas de défaut d'affichage ou d'inobservation du délai prévu à l'alinéa précédent.
+de la décision d'attribution d'office au cas de défaut d'affichage ou d'inobservation du délai prévu à l'alinéa précédent. 
 
 Les maires des communes où il n'existe pas de service municipal ou intercommunal du logement sont autorisés à faire
-assermenter, dans les conditions prévues à l'article 19 de la loi n. 52-432 du 28 avril 1952, un ou plusieurs agents
+assermenter, dans les conditions prévues à l'article 19 de la loi n° 52-432 du 28 avril 1952, un ou plusieurs agents
 communaux qui jouissent des prérogatives et sont soumis aux obligations mentionnées aux articles L. 651-6 et L. 651-7.
 
 **Liens relatifs à cet article**
@@ -73936,14 +73934,19 @@ communaux qui jouissent des prérogatives et sont soumis aux obligations mention
 	**Cite**:
 
 	  - Loi n°52-432 du 28 avril 1952 - art. 19 (V)
+	  - Code de la construction et de l'habitation. - art. L651-6 (V)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 du 31 mai 1978, v. init.
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme (V)
+	  - Code de l'urbanisme 342-1
 
 
 ###### Article R641-9
@@ -73959,13 +73962,13 @@ d'une proposition de réquisition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-10
@@ -74004,13 +74007,13 @@ représentant ou au gérant de l'immeuble, lequel est réputé avoir qualité po
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cité par**:
 
@@ -74030,13 +74033,13 @@ du logement ou, à défaut de service du logement, au maire ou à son représent
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cité par**:
 
@@ -74047,35 +74050,35 @@ du logement ou, à défaut de service du logement, au maire ou à son représent
 
 En cas d'opposition ou d'absence du prestataire à la tentative amiable d'exécution ou si le propriétaire (ou son représentant
 ou le gérant) élève une contestation sérieuse, le préfet est immédiatement saisi par le service du logement ou par le maire ;
-il rapporte son ordre de réquisition ou en poursuit l'exécution.
+il rapporte son ordre de réquisition ou en poursuit l'exécution. 
 
 Dans ce dernier cas, la date de prise de possession est fixée et notifiée au bénéficiaire et au prestataire dans les
 conditions prévues à l'article R. 641-10. A défaut d'adresse connue du prestataire, la date de prise de possession est
-publiée ainsi qu'il est prévu à l'article R. 641-10, alinéa 6.
+publiée ainsi qu'il est prévu à l'article R. 641-10, alinéa 6. 
 
 La prise de possession est effectuée en présence d'un agent du service du logement ou, à défaut de service du logement, du
-maire ou de son représentant et avec l'assistance du commissaire de police ou de l'autorité qui en tient lieu.
+maire ou de son représentant et avec l'assistance du commissaire de police ou de l'autorité qui en tient lieu. 
 
 En cas d'absence du prestataire ou de son représentant ou de désaccord des parties, il est obligatoirement procédé, par
 ministère d'huissier, aux frais du bénéficiaire, à la constatation de l'état des lieux et, s'il y a lieu, à la confection de
-l'inventaire descriptif des biens mobiliers.
+l'inventaire descriptif des biens mobiliers. 
 
 L'exécution forcée de l'ordre de réquisition ne peut intervenir avant l'expiration d'un délai de dix jours francs à dater de
 la tentative amiable de prise de possession.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R641-10 (M)
+	  - Code de la construction et de l'habitation. - art. R641-10 (V)
 
 	**Cité par**:
 
@@ -74092,13 +74095,13 @@ occupants du fait de ceux-ci en cas de levée de réquisition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-14
@@ -74125,13 +74128,13 @@ appartiennent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-15
@@ -74147,13 +74150,13 @@ ordonnance sur requête, les conditions d'exercice de ce droit de retrait ou de 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-16
@@ -74168,17 +74171,13 @@ Les frais de procédure sont à la charge du bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de procédure civile LIVRE II TITRES III ET IV
-
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 16
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-17
@@ -74189,24 +74188,24 @@ location au titre de la législation sur les habitations à loyer modéré et qu
 relogement sera assuré avant l'expiration du délai de prorogation soit par la réalisation d'une promesse de location, soit
 par l'achèvement d'une opération de construction ou l'exercice d'un droit de reprise ou qui établissent l'existence d'un
 local de repli dont l'occupation est subordonnée à la mise à la retraite de l'intéressé, devant intervenir avant l'expiration
-du délai de prorogation.
+du délai de prorogation. 
 
 Peuvent également bénéficier de cette prorogation, aux mêmes conditions de ressources, les attributaires qui s'engagent à
 accepter le relogement qui leur serait proposé avant l'expiration du délai de prorogation, par quelque organisme que ce soit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L641-1 AL. 4
+	  - Code de la construction et de l'habitation. - art. L641-1 (V)
 
 
 ###### Article R641-18
@@ -74216,13 +74215,13 @@ justifications utiles, dans un délai minimum de six mois avant la date d'expira
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 17 bis
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-19
@@ -74232,18 +74231,18 @@ lorsque le propriétaire notifie qu'il entre dans une des catégories prévues �
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 17 ter
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L641-1 AL. 4
-	  - Code de la construction et de l'habitation. - art. L641-2 (M)
+	  - Code de la construction et de l'habitation. - art. L641-1 (V)
+	  - Code de la construction et de l'habitation. - art. L641-2 (V)
 
 
 ###### Article R641-20
@@ -74258,7 +74257,7 @@ par le ou les locataires et attributaires d'office, à faire exécuter, aux frai
 strictement indispensables, et, si besoin est, à faire assurer la garde de l'immeuble.
 
 Au cas où l'immeuble en cause aurait préalablement fait l'objet de travaux de remise en état d'habitabilité sommaire ou
-d'aménagements provisoires, au titre de l'ordonnance n. 45-609 du 10 avril 1945 relative aux travaux préliminaires à la
+d'aménagements provisoires, au titre de l'ordonnance n° 45-609 du 10 avril 1945 relative aux travaux préliminaires à la
 reconstruction, l'administrateur provisoire a également qualité pour verser au Trésor, en remboursement du coût des travaux
 mentionnés ci-dessus, les sommes demeurant entre ses mains après acquit du coût des dépenses prévues à l'alinéa précédent.
 
@@ -74268,22 +74267,22 @@ mentionnés ci-dessus, les sommes demeurant entre ses mains après acquit du co�
 
 	  - Ordonnance 45-609 1945-04-10
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 18
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 
 ###### Article R641-21
 
 Les levées de réquisition sont notifiées par lettre recommandée, aux frais du bénéficiaire, par le préfet au prestataire, au
-bénéficiaire et au propriétaire ou à son représentant ou au gérant de l'immeuble.
+bénéficiaire et au propriétaire ou à son représentant ou au gérant de l'immeuble. 
 
 Les levées de réquisition peuvent éventuellement être limitées aux meubles réquisitionnés, notamment lorsque le prestataire a
-donné congé au propriétaire des locaux réquisitionnés dont il était locataire.
+donné congé au propriétaire des locaux réquisitionnés dont il était locataire. 
 
 Lorsque l'ancien bénéficiaire de la réquisition se maintient dans les lieux à l'expiration de la période pour laquelle la
 réquisition a été émise, ou après notification de la levée de celle-ci, le prestataire et, s'il le juge utile, le préfet
@@ -74293,23 +74292,23 @@ des sanctions édictées audit alinéa.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 19
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-9 (M)
+	  - Code de la construction et de l'habitation. - art. L641-9 (V)
 
 
 ###### Article R641-22
 
 Il est dressé, en fin de réquisition, aux frais du bénéficiaire, un état des lieux réquisitionnés et, le cas échéant, un
-inventaire selon les modalités prévues à l'article R. 641-12, alinéa 4.
+inventaire selon les modalités prévues à l'article R. 641-12, alinéa 4. 
 
 Au cas où les dispositions des articles R. 641-11 ou R. 641-12 et de l'alinéa précédent concernant l'établissement d'un
 inventaire et d'un état des lieux n'ont pas été observées, les dommages qui pourraient être constatés dans les locaux faisant
@@ -74317,48 +74316,46 @@ l'objet de la réquisition sont, à défaut de preuve contraire, présumés avoi
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-933 1955-07-11 art. 19 bis
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R641-11 (M)
-	  - Code de la construction et de l'habitation. - art. R641-12 (M)
+	  - Code de la construction et de l'habitation. - art. R641-11 (V)
+	  - Code de la construction et de l'habitation. - art. R641-12 (V)
 
-
-##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.
 
 ###### Article R641-23
 
-Les locaux et logements accessoires indiqués à l'article L. 641-12 sont considérés comme, vacants lorsque :
+Les locaux et logements accessoires indiqués à l'article L. 641-12 sont considérés comme, vacants lorsque : 
 
 1. Le bail est expiré, non reconduit ou non renouvelé, et que les occupants ne bénéficient pas du droit au maintien dans les
-lieux ;
+lieux ; 
 
-2. Le bail est résilié par accord amiable ou décision de justice ;
+2. Le bail est résilié par accord amiable ou décision de justice ; 
 
-3. Les occupants ont été condamnés à vider les lieux.
+3. Les occupants ont été condamnés à vider les lieux. 
 
 Le maintien sans titre dans les lieux de tout occupant ne fait pas perdre au local sa qualité de local vacant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°56-999 1956-10-05 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-12 (M)
+	  - Code de la construction et de l'habitation. - art. L641-12 (V)
 
 	**Cité par**:
 
@@ -74379,13 +74376,13 @@ inutilisation ainsi que ceux qui constituent pour leur détenteur une résidence
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°56-999 1956-10-05 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cité par**:
 
@@ -74400,18 +74397,382 @@ sur l'ensemble des locaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°56-999 1956-10-05 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R641-23 (M)
-	  - Code de la construction et de l'habitation. - art. R641-24 (M)
+	  - Code de la construction et de l'habitation. - art. R641-23 (V)
+
+
+#### Chapitre II : Réquisition avec attributaire.
+
+##### Section 1 : Principes généraux.
+
+###### Article R*642-1
+
+Les normes minimales de confort et d'habitabilité que l'attributaire des locaux doit respecter lorsqu'il engage des travaux
+conformément aux dispositions de l'article L. 642-1 sont celles prévues par le décret n° 87-149 du 6 mars 1987 fixant les
+conditions minimales de confort et d'habitabilité auxquelles doivent répondre les locaux mis en location.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°87-149 du 6 mars 1987 (V)
+	  - Code de la construction et de l'habitation. - art. L642-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+
+###### Article R*642-2
+
+La déclaration prévue au cinquième alinéa de l'article L. 642-1 permettant aux locaux affectés avant la réquisition à un
+autre usage que l'habitation de retrouver leur affectation antérieure est adressée au préfet par lettre recommandée avec
+demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-1 (V)
+
+
+###### Article R*642-3
+
+Pour être agréé, l'attributaire mentionné au 5° de l'article L. 642-3 doit satisfaire aux conditions suivantes : 
+
+a) Avoir pour objet principal l'insertion, l'hébergement, le logement ou l'amélioration des conditions de logement des
+personnes défavorisées ; 
+
+b) Justifier d'une compétence dans le domaine de l'action sociale ainsi que dans celui de la gestion locative et d'une
+expérience en matière d'insertion sociale ou de logement des personnes défavorisées ; 
+
+c) Offrir des garanties suffisantes pour exercer cette activité, par le nombre et la qualité de ses responsables et de son
+personnel salarié ou bénévole, par sa capacité financière ainsi que par son implantation locale. 
+
+En cas de manquement de l'attributaire à l'une de ces conditions, l'agrément peut être retiré par le préfet, après une mise
+en demeure non suivie d'effet, dans les conditions prévues par l'article 8 du décret n° 83-1025 du 28 novembre 1983
+concernant les relations entre l'administration et les usagers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°83-1025 du 28 novembre 1983 - art. 8 (Ab)
+	  - Code de la construction et de l'habitation. - art. L642-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+
+###### Article R*642-4
+
+Le projet de convention notifié au titulaire du droit d'usage en application de l'article L. 642-4 comporte les indications
+suivantes :
+
+- la dénomination, la forme juridique et le siège du titulaire du droit d'usage ;
+
+- la désignation des locaux ;
+
+- la durée de la réquisition ;
+
+- la nature et le montant détaillé des travaux à réaliser, pour les parties communes et pour chaque logement ;
+
+- le montant mensuel de l'amortissement des travaux ;
+
+- les règles de calcul des frais de gestion ;
+
+- la surface habitable des locaux et le prix de base du loyer au mètre carré de surface habitable ;
+
+- le mode de calcul de l'indemnité mensuelle versée au titulaire du droit d'usage pendant la durée de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-4 (V)
+
+
+##### Section 2 : Procédure.
+
+###### Article R*642-5
+
+Les agents de l'Etat nommés par le préfet pour l'assister dans la procédure de réquisition en application de l'article L.
+642-7 prêtent le serment suivant devant le tribunal de grande instance du chef-lieu du département : " Je jure de bien et
+fidèlement remplir mes missions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur
+exercice. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-7 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*642-6 (V)
+
+
+###### Article R*642-6
+
+Les agents mentionnés à l'article R. 642-5 qui effectuent, dans les conditions prévues par l'article L. 642-7, la visite des
+locaux susceptibles d'être réquisitionnés établissent un procès-verbal décrivant la consistance et l'état des lieux. 
+
+A la demande du préfet, un procès-verbal peut également être dressé par un huissier de justice aux frais de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-5 (V)
+
+
+###### Article R*642-7
+
+La demande du préfet par laquelle celui-ci sollicite l'avis du maire sur un projet de réquisition, en application des
+dispositions de l'article L. 642-9, comporte toutes les informations qui lui paraissent susceptibles de fonder la réquisition
+dans sa commune et notamment : l'importance respective de l'offre et de la demande de logements pour personnes à revenus
+modestes ou défavorisées, les éléments permettent d'apprécier la réalité de la vacance, la localisation et le nombre de
+locaux dont la réquisition est envisagée, le titulaire du droit d'usage concerné et la liste des éventuels attributaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-9 (V)
+
+
+###### Article R*642-8
+
+A la réception de la réponse du maire ou, à défaut, à l'expiration d'un délai d'un mois à compter de la date de notification
+de la demande d'avis, le préfet, s'il décide de réquisitionner les locaux, notifie sa décision au titulaire du droit
+d'usage. 
+
+La notification reproduit les articles L. 642-9 à L. 642-12 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-9 (V)
+
+
+##### Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition.
+
+###### Article R*642-9
+
+Pour le calcul de l'indemnité versée par l'attributaire au titulaire du droit d'usage, conformément aux dispositions de
+l'article L. 642-15, les travaux sont amortis sur la durée totale de la réquisition ; l'amortissement mensuel est égal au
+montant des travaux divisé par le nombre de mois de la réquisition, le cas échéant déduction faite du montant des subventions
+dont a pu bénéficier l'attributaire. 
+
+Le montant des frais de gestion est fixé en tenant compte du coût réel de gestion de ces logements dans la limite de 8 % du
+montant des loyers perçus par l'attributaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-15 (V)
+
+
+###### Article R*642-10
+
+Pour exercer son droit de reprise, le titulaire du droit d'usage envoie le préavis prévu à l'article L. 642-18 par lettre
+recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-340 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-18 (V)
+
+
+##### Section 4 : Plafonds de ressources et loyers.
+
+###### Article R642-11
+
+Le plafond de ressources prévu à l'article L. 642-5 est fixé à 60 % du plafond de ressources exigé pour l'attribution d'un
+logement d'habitation à loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-341 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-5 (V)
+
+
+###### Article R642-12
+
+Le prix de base mensuel au mètre carré de surface habitable utilisé pour calculer le loyer d'un logement réquisitionné en
+application de l'article L. 642-1 est :
+
+35 F/m2 à Paris et dans les communes limitrophes de Paris ;
+
+30 F/m2 dans le reste de l'agglomération parisienne ;
+
+25 F/m2 sur le reste du territoire.
+
+Les prix de base au mètre carré ci-dessus sont révisés chaque année au 1er janvier par arrêté du ministre chargé du logement,
+en fonction de la variation de la moyenne de l'indice au coût de la construction et des indices des trois trimestres qui
+précèdent. La date de référence est le deuxième trimestre de 1998.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-999 1956-10-05 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-341 du 29 avril 1999 - art. 1 () JORF 5 mai 1999
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 31 décembre 2003
+	  - TXT_SOURCE: Arrêté du 31 décembre 2003 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-1 (V)
 
 
 ### Titre V : Sanctions et dispositions diverses.
