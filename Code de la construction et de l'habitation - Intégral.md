@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-05-16
+Version Consolidée au 1991-05-17
 
 # Partie législative
 
@@ -8946,8 +8946,8 @@ Une aide personnalisée au logement est instituée.
 L'aide personnalisée au logement est accordée au titre de la résidence principale, quel que soit le lieu de son implantation
 sur le territoire national. Son domaine d'application comprend :
 
-1. Les logements occupés par leurs propriétaires, construits, améliorés, ou acquis et améliorés, à compter du 5 janvier 1977,
-au moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont fixées
+1. Les logements occupés par leurs propriétaires, construits, améliorés, acquis ou améliorés, à compter du 5 janvier 1977, au
+moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont fixées
 par décret ;
 
 2. Les logements à usage locatif appartenant à des organismes d'habitations à loyer modéré ou gérés par eux ou appartenant à
@@ -9277,7 +9277,7 @@ caractéristiques et les conditions d'octroi sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 18 () JORF 2 juin 1990
+	  - Loi n°91-457 du 15 mai 1991 - art. 8 () JORF 17 mai 1991
 
 
 ###### Article L351-3
@@ -11633,25 +11633,43 @@ comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
 
 ###### Article L422-4
 
-Les sociétés anonymes de crédit immobilier ont pour objet, dans les conditions fixées par leurs statuts [*attributions*] :
+Les sociétés anonymes de crédit immobilier sont habilitées, dans les conditions fixées par leurs statuts, à réaliser les
+opérations prévues par le présent article.
 
-a) De consentir des prêts hypothécaires destinés à la construction, l'acquisition, l'aménagement, l'assainissement et la
-réparation d'habitations répondant aux conditions prévues à l'article L. 411-1. Toutefois, peuvent être consentis sans
-hypothèque les prêts accordés pour l'acquisition, l'aménagement, l'assainissement et la réparation d'habitations lorsqu'ils
-répondent à des conditions fixées par décision de l'autorité administrative, ainsi que les prêts individuels consentis à
-titre complémentaire à l'aide de fonds autres que ceux qui proviennent du concours financier de l'Etat ;
+" I. - Ces sociétés ont pour objet :
 
-b) De réaliser des constructions destinées à l'accession à la propriété ;
+" a) De consentir aux personnes physiques des prêts ouvrant droit à l'aide personnalisée au logement ;
 
-c) D'accorder des prêts aux sociétés d'habitations à loyer modéré dans des conditions fixées par décret.
+" b) De consentir des prêts complémentaires aux prêts mentionnés au a ci-dessus ;
 
-d) De réaliser des lotissements.
+" c) D'accorder, aux fins mentionnées à l'article L. 411-1, tout prêt qu'elles seront habilitées à distribuer par arrêté
+conjoint du ministre chargé du Trésor et du ministre chargé du logement ;
 
-e) D'effectuer, pour le compte des organismes d'habitations à loyer modéré, le recouvrement des sommes dues par les
-acquéreurs d'un logement d'habitation à loyer modéré, dans les conditions prévue à l'article l.443-13.
+" d) D'effectuer, pour le compte d'organismes d'habitations à loyer modéré, le recouvrement des sommes dues par les
+acquéreurs de logements cédés dans les conditions prévues à l'article L. 443-13.
 
-Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L.
-421-1.
+" II. - Ces sociétés sont également habilitées, nonobstant les dispositions de l'article 7 de la loi n° 84-46 du 24 janvier
+1984 relative à l'activité et au contrôle des établissements de crédit :
+
+" a) A réaliser des constructions destinées à l'accession à la propriété, susceptibles d'être financées à l'aide de prêts
+ouvrant droit à l'aide personnalisée au logement ;
+
+" b) A réaliser des lotissements ;
+
+" c) A réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
+
+" d) A réaliser des opérations de prestation de services liées aux activités visées aux I et II du présent article, dans des
+conditions fixées par les clauses types mentionnées au deuxième alinéa de l'article L. 422-5.
+
+" III. - Les sociétés anonymes de crédit immobilier peuvent, en dehors des cas prévus au I et au II, soit directement à titre
+accessoire, soit par l'intermédiaire des filiales visées à l'article L. 422-4-2, réaliser toutes opérations de prêts
+immobiliers, de construction, de maîtrise d'ouvrage et de prestation de services, liées à la propriété de l'habitat, sans que
+ces opérations aient pour objet la constitution d'un patrimoine locatif pour ces sociétés ou leurs filiales, dans les
+conditions et limites précisées par les clauses types prévues audit article L. 422-4-2.
+
+" Elles peuvent également, selon les mêmes modalités et dans les mêmes conditions et limites, réaliser pour leur compte ou
+pour le compte de tiers, toutes les opérations d'aménagement définies par le code de l'urbanisme, avec l'accord de la ou des
+collectivités concernées. "
 
 **Liens relatifs à cet article**
 
@@ -11679,13 +11697,137 @@ Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation soci
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 77 () JORF 24 décembre 1986
+	  - Loi n°91-457 du 15 mai 1991 - art. 1 () JORF 17 mai 1991
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-13 (M)
+
+
+###### Article L422-4-1
+
+Les sociétés anonymes de crédit immobilier, les établissements de crédit qu'elles contrôlent ensemble ou séparément,
+directement ou indirectement, et leur caisse centrale sont affiliés à un réseau doté d'un organe central.
+
+" L'organe central du réseau des sociétés anonymes de crédit immobilier est régi par les articles 21 et 22 de la loi n° 84-46
+du 24 janvier 1984 précitée. Il exerce les pouvoirs de contrôle prévus auxdits articles sans préjudice des dispositions de
+l'article L. 451-1 du présent code. Il a la forme d'une association de la loi du 1er juillet 1901 relative au contrat
+d'association et prend le nom de "chambre syndicale des sociétés anonymes de crédit immobilier".
+
+" La chambre syndicale des sociétés anonymes de crédit immobilier constitue un fonds de garantie et d'intervention.
+
+" Les dirigeants de chacun des établissements de crédit, membres du réseau, mentionnés à l'article 17 de la loi n° 84-46 du
+24 janvier 1984 précitée doivent être agréés par la chambre syndicale, qui s'assure que ces dirigeants possèdent
+l'honorabilité nécessaire et l'expérience adéquate à leurs fonctions. Lorsque les conditions d'honorabilité ne sont plus
+remplies, l'agrément est retiré.
+
+" La chambre syndicale des sociétés anonymes de crédit immobilier peut prononcer à l'égard d'un établissement du réseau les
+sanctions disciplinaires de l'avertissement, du blâme et de la radiation de l'affiliation au réseau ; elle peut prononcer à
+l'égard des dirigeants les sanctions disciplinaires de l'avertissement, du blâme et du retrait d'agrément.
+
+" Le président de la chambre syndicale est de droit président de la caisse centrale des sociétés anonymes de crédit
+immobilier, dont le capital est détenu majoritairement par les sociétés anonymes de crédit immobilier.
+
+" Un décret en Conseil d'Etat approuve les statuts de la chambre syndicale et précise, en tant que de besoin, les modalités
+d'application du présent article, notamment les conditions de mise en oeuvre des sanctions disciplinaires. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+	  - Loi n°84-46 du 24 janvier 1984 - art. 17 (M)
+	  - Loi n°84-46 du 24 janvier 1984 - art. 21 (M)
+	  - Loi n°84-46 du 24 janvier 1984 - art. 22 (Ab)
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°91-457 du 15 mai 1991 - art. 2 () JORF 17 mai 1991
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+	  - Code de la construction et de l'habitation. - art. L422-4-2 (AbD)
+	  - Code de la construction et de l'habitation. - art. L422-4-3 (AbD)
+
+
+###### Article L422-4-2
+
+Les clauses types prévues à l'article L. 422-5, auxquelles doivent se conformer les statuts des sociétés anonymes de crédit
+immobilier, précisent notamment les conditions dans lesquelles celles-ci peuvent prendre des participations ou constituer des
+sociétés pour effectuer les opérations visées au III de l'article L. 422-4 et les limites apportées, le cas échéant, à
+l'objet social de ces sociétés.
+
+" Les clauses types précisent, en outre, les conditions d'exercice du droit d'agrément et de préemption de l'organe central
+du réseau mentionné à l'article L. 422-4-1 ; le droit d'agrément porte sur les augmentations de capital et les cessions de
+parts ou d'actions des établissements de crédit membres dudit réseau, sur les fusions et scissions ainsi que sur les prises
+de participation de ces établissements ; les refus d'agrément doivent être motivés ; le droit de préemption porte sur les
+cessions de parts ou d'actions des établissements de crédit membres du réseau. L'organe central ne peut détenir que
+temporairement les parts ou actions ainsi préemptées. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°91-457 du 15 mai 1991 - art. 3 () JORF 17 mai 1991
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+	  - Code de la construction et de l'habitation. - art. L422-4 (AbD)
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-4-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-5 (M)
+
+
+###### Article L422-4-3
+
+En cas de cessation d'affiliation d'une société anonyme de crédit immobilier, pour quelque cause que ce soit, au réseau
+mentionné à l'article L. 422-4-1, cette société est dissoute de plein droit et sa liquidation est réalisée conformément aux
+dispositions de l'article L. 422-11.
+
+**Nota:**
+
+Décret n° 2006-665 art. 61 : Spécificités d'application.  La présente version de cet article est en vigueur jusqu'au 1er
+janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°91-457 du 15 mai 1991 - art. 3 () JORF 17 mai 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-11 (M)
+	  - Code de la construction et de l'habitation. - art. L422-4-1 (M)
 
 
 ##### Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré.
@@ -11896,24 +12038,36 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article L422-11
 
-A la dissolution d'une société d'habitations à loyer modéré ou de crédit immobilier, l'assemblée générale appelée à statuer
-sur la liquidation ne peut, après paiement du passif et remboursement du capital social, attribuer la portion d'actif qui
-excéderait la moitié du capital social qu'à un ou plusieurs organismes d'habitations à loyer modéré ou à l'une des
-fédérations d'organismes d'habitations à loyer modéré, sous réserve de l'approbation administrative donnée dans des
-conditions précisées par décret.
+A la dissolution d'une société d'habitations à loyer modéré, l'assemblée générale appelée à statuer sur la liquidation ne
+peut, après paiement du passif et remboursement du capital social, attribuer la portion d'actif qui excéderait la moitié du
+capital social qu'à un ou plusieurs organismes d'habitations à loyer modéré ou à l'une des fédérations d'organismes
+d'habitations à loyer modéré, sous réserve de l'approbation administrative donnée dans des conditions précisées par décret.
 
 Lorsqu'il s'agit d'une société anonyme coopérative, le remboursement du capital porte sur la part du capital effectivement
 versée.
 
+En cas de dissolution d'une société anonyme de crédit immobilier, la portion d'actif qui excéderait la moitié du capital
+social, après paiement du passif et remboursement du capital social, est attribuée au fonds de garantie mentionné à l'article
+L. 422-4-1.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation l422-4-1
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 184
+	  - Loi n°91-457 1991-05-15 art. 5 I, II JORF 17 mai 1991
+	  - Loi n°91-457 du 15 mai 1991 - art. 5 () JORF 17 mai 1991
 
 	**Cité par**:
 
@@ -14527,18 +14681,23 @@ Ce taux s'applique aux contrats en cours, nonobstant toute clause contraire.
 
 ###### Article L451-1
 
-Les organismes d'habitations à loyer modéré, les sociétés civiles constituées sous l'égide des sociétés de crédit immobilier
-et les sociétés coopératives de construction bénéficiant de prêts accordés dans le cadre de la législation sur les
-habitations à loyer modéré sont soumis au contrôle de l'administration.
+Sous réserve des dispositions du deuxième alinéa de l'article L312-2 du présent code, les organismes d'habitations à loyer
+modéré, les sociétés civiles constituées sous l'égide des sociétés de crédit immobilier et les sociétés coopératives de
+construction bénéficiant de prêts accordés dans le cadre de la législation sur les habitations à loyer modéré sont soumis au
+contrôle de l'administration.
 
 Les organismes mentionnés au chapitre II du titre III, sont soumis au même contrôle en ce qui concerne les opérations pour
 lesquelles ils ont obtenu un prêt de l'Etat, de la caisse de prêts aux organismes d'habitations à loyer modéré ou de la
-caisse des dépôts et consignations en application du 3° de l'article L. 351-2
+caisse des dépôts et consignations en application du 3° de l'article L. 351-2.
 
 Il en est de même pour les groupements d'intérêt économique constitués en application de l'ordonnance n. 67-821 du 23
 septembre 1967, qui comprennent au moins un organisme d'habitations à loyer modéré parmi leurs membres et pour les personnes
 privées mandataires d'organismes d'habitations à loyer modéré dans le cadre du contrat de promotion immobilière prévu au
 livre II, titre II, du présent code relatif à la promotion immobilière.
+
+A l'occasion de l'inspection d'une société anonyme de crédit immobilier, et pour les besoins de cette inspection,
+l'administration peut étendre ses investigations aux filiales de la société visées à l'article L. 422-4-2 et se faire
+communiquer toutes les pièces relatives auxdites filiales nécessaires à sa mission.
 
 **Liens relatifs à cet article**
 
@@ -14546,6 +14705,7 @@ livre II, titre II, du présent code relatif à la promotion immobilière.
 
 	  - Ordonnance 67-821 1967-09-23
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-4-2 (M)
 
 	**Codifié par**:
 
@@ -14553,7 +14713,7 @@ livre II, titre II, du présent code relatif à la promotion immobilière.
 
 	**Modifié par**:
 
-	  - Loi n°85-695 1985-07-11 art. 21 V JORF 12 Juillet Rectificatif JORF 13 juillet 1985
+	  - Loi n°91-457 du 15 mai 1991 - art. 6 () JORF 17 mai 1991
 
 	**Cité par**:
 
@@ -14586,7 +14746,7 @@ livre II, titre II, du présent code relatif à la promotion immobilière.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 233 AL. 1, 2 ET 3 (LOI 71-580 1971-07-16 ART. 23)
+	  - Code de l'urbanisme 233 AL. 1, 2 ET 3 (LOI 71-580 1971-07-16 art. 23)
 
 
 ###### Article L451-2
