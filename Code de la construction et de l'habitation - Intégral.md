@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -2652,6 +2652,254 @@ réglementaire.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L128-1 (V)
+
+
+#### Chapitre IX : Sécurité des immeubles collectifs à usage principal d'habitation.
+
+###### Article L129-1
+
+Lorsque, du fait de la carence du ou des propriétaires, des équipements communs d'un immeuble collectif à usage principal
+d'habitation présentent un fonctionnement défectueux ou un défaut d'entretien de nature à créer des risques sérieux pour la
+sécurité des occupants ou à compromettre gravement leurs conditions d'habitation, le maire peut, par arrêté, prescrire leur
+remise en état de fonctionnement ou leur remplacement, en fixant le délai imparti pour l'exécution de ces mesures.
+
+L'arrêté est notifié aux propriétaires et aux titulaires de droits réels immobiliers sur les locaux tels qu'ils figurent au
+fichier immobilier de la conservation des hypothèques. Lorsque l'immeuble est la propriété d'une société civile dont les
+parts donnent droit ou non à l'attribution ou à la jouissance en propriété des locaux, la notification est faite au gérant
+tel qu'il figure au registre du commerce où la société est immatriculée. Lorsque les mesures prescrites ne portent que sur
+les parties communes d'un immeuble soumis aux dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
+copropriété des immeubles bâtis, la notification aux copropriétaires est valablement faite au syndicat des copropriétaires.
+
+A défaut de connaître l'adresse actuelle des personnes mentionnées à l'alinéa précédent ou de pouvoir les identifier, la
+notification les concernant est valablement effectuée par affichage à la mairie de la commune ou, à Paris, Marseille et Lyon,
+de l'arrondissement où est situé l'immeuble ainsi que par affichage sur la façade de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 1965-07-10
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 10-1 (V)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 25-1 A (V)
+	  - Arrêté du 24 mai 2013 - art. 2 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 83 (V)
+	  - Arrêté du 10 octobre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L129-2 (V)
+	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L129-5 (V)
+	  - Code de la construction et de l'habitation. - art. L129-7 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L615-6 (V)
+	  - Code de la construction et de l'habitation. - art. L731-5 (VD)
+	  - Code de la construction et de l'habitation. - art. R*129-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*129-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-15 (V)
+	  - Code général des collectivités territoriales - art. L2512-13 (VD)
+	  - Code général des collectivités territoriales - art. L3642-2 (V)
+	  - Code général des collectivités territoriales - art. L5211-9-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+
+###### Article L129-2
+
+Si les propriétaires contestent les motifs de l'arrêté ou les mesures prescrites, ils peuvent demander à un expert de
+procéder, contradictoirement et au jour fixé par l'arrêté, à la constatation de l'état des équipements et d'établir un
+rapport.
+
+Si, au terme du délai imparti, les mesures prescrites n'ont pas été exécutées et si les propriétaires n'ont pas cru devoir
+désigner d'expert, il est procédé à la visite par l'expert désigné par le maire.
+
+Le tribunal administratif, après avoir convoqué les parties, statue, le cas échéant, sur le litige d'expertise et décide des
+mesures à réaliser et du délai pour leur exécution. Il peut autoriser le maire à y faire procéder d'office et aux frais des
+propriétaires si cette exécution n'a pas eu lieu au terme prescrit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 10-1 (V)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 24-8 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 122 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 83 (V)
+	  - Arrêté du 1er août 2014 - art. Annexe (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 169 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 170 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 171 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 172 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 173 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 174 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 175 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 30 (V)
+	  - Code civil - art. 2384-1 (V)
+	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L541-1 (M)
+	  - Code de la construction et de l'habitation. - art. L541-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L541-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L541-6 (V)
+	  - Code de la construction et de l'habitation. - art. L711-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-2 (M)
+	  - Code de la construction et de l'habitation. - art. R*129-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R129-11-1 (V)
+	  - Code de la construction et de l'habitation. - art. R321-18 (V)
+	  - Code de la construction et de l'habitation. - art. R511-20 (V)
+	  - Code des marchés publics - art. 35 (VT)
+	  - Code général des collectivités territoriales - art. Rubrique 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+
+###### Article L129-3
+
+En cas d'urgence ou de menace grave et imminente, le maire, après en avoir informé les personnes visées au deuxième alinéa de
+l'article L. 129-1, selon les modalités prévues à cet article, demande au juge d'instance de désigner un expert chargé
+d'examiner l'état des équipements communs dans un délai de vingt-quatre heures suivant sa désignation.
+
+Si le rapport de l'expert constate l'urgence ou la menace grave et imminente, le maire ordonne les mesures provisoires
+permettant de garantir la sécurité des occupants et, si nécessaire, l'évacuation de l'immeuble.
+
+Dans le cas où ces mesures provisoires ne sont pas exécutées dans le délai imparti par l'arrêté, le maire peut les faire
+exécuter d'office et aux frais des propriétaires et des titulaires de droits réels immobiliers concernés.
+
+Il est ensuite procédé conformément à l'article L. 129-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 169 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 170 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 171 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 172 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 173 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 174 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 175 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 30 (V)
+	  - Code de justice administrative - art. R556-1 (V)
+	  - Code de la construction et de l'habitation. - art. L129-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-4 (V)
+	  - Code des marchés publics - art. 35 (VT)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L129-2 (M)
+
+
+###### Article L129-4
+
+Le montant des frais afférents à l'exécution d'office des mesures prescrites est avancé par la commune et recouvré comme en
+matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code civil - art. 2374 (V)
+
+
+###### Article L129-5
+
+A Paris, les compétences du maire prévues aux articles L. 129-1 à L. 129-4 sont exercées par le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L129-1 à L129-4
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2512-13 (VD)
+
+
+###### Article L129-6
+
+Le maire exerce les compétences visées au présent chapitre au nom de l'Etat. En cas de carence du maire, le représentant de
+l'Etat peut se substituer dans les conditions visées au 1° de l'article L. 2215-1 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2215-1 (M)
+
+
+###### Article L129-7
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre et établit la liste des équipements
+communs visés à l'article L. 129-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L129-1 (M)
 
 
 ### Titre III : Chauffage et ravalement des immeubles
@@ -8989,23 +9237,23 @@ l'article L. 302-5, à l'exception de celles qui bénéficient de la dotation de
 2334-15 du code général des collectivités territoriales lorsque le nombre des logements sociaux y excède 15 % des résidences
 principales.
 
-Ce prélèvement est égal à 1 000 F multipliés par la différence entre 20 % des résidences principales au sens du I de
+Ce prélèvement est égal à 152,45 euros multipliés par la différence entre 20 % des résidences principales au sens du I de
 l'article 1411 du code général des impôts et le nombre de logements sociaux existant dans la commune l'année précédente,
 comme il est dit à l'article L. 302-5, sans pouvoir excéder 5 % du montant des dépenses réelles de fonctionnement de la
 commune constatées dans le compte administratif afférent au pénultième exercice.
 
 Pour toutes les communes dont le potentiel fiscal par habitant défini à l'article L. 2334-4 du code général des collectivités
-territoriales est supérieur à 5 000 F l'année de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la
-solidarité et au renouvellement urbains, ce prélèvement est fixé à 20 % du potentiel fiscal par habitant multipliés par la
+territoriales est supérieur à 762,25 euros l'année de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à
+la solidarité et au renouvellement urbains, ce prélèvement est fixé à 20 % du potentiel fiscal par habitant multipliés par la
 différence entre 20 % des résidences principales au sens du I de l'article 1411 du code général des impôts et le nombre de
 logements sociaux existant dans la commune l'année précédente, comme il est dit à l'article L. 302-5, sans pouvoir excéder 5
 % du montant des dépenses réelles de fonctionnement de la commune constatées dans le compte administratif afférent au
 pénultième exercice.
 
-Le seuil de 5 000 F est actualisé chaque année suivante en fonction du taux moyen de progression du potentiel fiscal par
+Le seuil de 762,25 euros est actualisé chaque année suivante en fonction du taux moyen de progression du potentiel fiscal par
 habitant de l'ensemble des communes de plus de 1 500 habitants.
 
-Le prélèvement n'est pas effectué s'il est inférieur à la somme de 25 000 F.
+Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811,23 euros.
 
 Le prélèvement est diminué du montant des dépenses exposées par la commune, pendant le pénultième exercice, au titre des
 subventions foncières mentionnées à l'article L. 2254-1 du code général des collectivités territoriales, des travaux de
@@ -9034,8 +9282,8 @@ renouvellement et de requalification urbains.
 A défaut, et hors Ile-de-France, elle est versée à l'établissement public foncier créé en application de l'article L. 324-1
 du code de l'urbanisme, si la commune appartient à un tel établissement.
 
-A défaut, elle est versée à un fonds d'aménagement urbain destiné aux communes et aux établissements publics de coopération
-intercommunale pour des actions foncières et immobilières en faveur du logement social.
+A défaut, elle est versée à un fonds d'aménagement urbain, institué dans chaque région, destiné aux communes et aux
+établissements publics de coopération intercommunale pour des actions foncières et immobilières en faveur du logement social.
 
 **Liens relatifs à cet article**
 
@@ -9052,10 +9300,6 @@ intercommunale pour des actions foncières et immobilières en faveur du logemen
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-1194 du 13 décembre 2001
@@ -9064,6 +9308,10 @@ intercommunale pour des actions foncières et immobilières en faveur du logemen
 	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-31 (T)
 	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-32 (T)
 	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-33 (T)
+
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 59 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -10241,8 +10489,8 @@ sociale pour lesquelles des règles spéciales ont été édictées en applicati
 des sommes représentant 0,45 % au moins du montant, entendu au sens des règles prévues aux chapitres Ier et II du titre IV du
 livre II du code de la sécurité sociale, des rémunérations versées par eux au cours de l'exercice écoulé au financement :
 
-a) De construction ou d'acquisition de logements, d'aménagement ou de remise en état de logements anciens, d'acquisition et
-d'aménagement de terrains destinés exclusivement à la construction de logements sociaux ;
+a) De construction, d'acquisition ou de démolition de logements, d'aménagement ou de remise en état de logements anciens,
+d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux ;
 
 b) De prise en charge temporaire, en cas de difficultés exceptionnelles des emprunteurs, d'une partie des remboursements de
 prêts immobiliers destinés à l'accession sociale à la propriété ;
@@ -10253,6 +10501,8 @@ logement locatif, de garanties de loyer et charges apportées aux bailleurs ;
 d) De dépenses d'accompagnement social dans le domaine du logement ;
 
 e) D'aides à des organismes agréés d'information du public sur le logement.
+
+f) De subventions à l'Agence nationale pour la rénovation urbaine.
 
 Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux
 organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même caractère.
@@ -10274,10 +10524,14 @@ alinéa bénéficient de cette dispense jusqu'au 31 décembre 1999.
 Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
 de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
 
-Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
+Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dès l'année
 au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231
 
 	**Cité par**:
 
@@ -10381,14 +10635,9 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Cite**:
-
-	  - CGI 231
-
 	**Modifié par**:
 
-	  - Loi n°98-1164 1998-12-18 art. 1 I, II JORF 22 décembre 1998
-	  - Loi n°98-1164 du 18 décembre 1998 - art. 1 () JORF 22 décembre 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 13 () JORF 2 août 2003
 
 	**Anciens textes**:
 
@@ -10790,7 +11039,7 @@ articles L. 612-1 et L. 612-2.
 ###### Article L313-9
 
 En application des orientations définies annuellement par le Gouvernement, l'Agence nationale établit le programme d'emploi
-annuel des fonds mentionnés au neuvième alinéa de l'article L. 313-1.
+annuel des fonds mentionnés au dixième alinéa de l'article L. 313-1.
 
 A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
@@ -10802,11 +11051,15 @@ A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
 	**Modifié par**:
 
-	  - Loi n°98-1164 du 18 décembre 1998 - art. 1 () JORF 22 décembre 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 13 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L313-1
 
 	**Cité par**:
 
@@ -11374,12 +11627,24 @@ les modalités d'emploi des fonds issus de la participation des employeurs à l'
 associations départementales d'information sur le logement qui ont signé une convention avec l'Etat, à l'information sur le
 logement des salariés et d'améliorer la gestion des associés collecteurs ;
 
-2° bis. Assure, à compter d'une date fixée par décret et dans des conditions fixées par convention avec l'Etat, le
-financement des aides prévues au b de l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis par le
-fonds de garantie de l'accession sociale à la propriété mentionné au troisième alinéa de l'article L. 312-1 ;.
+2° bis Assure, à compter d'une date fixée par décret et dans des conditions fixées par convention avec l'Etat, le financement
+des aides prévues au b de l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis par le fonds de
+garantie de l'accession sociale à la propriété mentionné au troisième alinéa de l'article L. 312-1 ;
 
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne
 peuvent déroger aux conventions ci-dessus mentionnées ;
+
+3° bis Adresse aux associés des recommandations visant à la bonne application, dans les sociétés mentionnées à l'article L.
+422-2 dont ils sont actionnaires de référence au sens de l'article L. 422-2-1, de la politique nationale de l'habitat et du
+renouvellement urbain qu'expriment les conventions conclues par l'Etat avec l'union regroupant les fédérations d'organismes
+d'habitations à loyer modéré ou conjointement avec cette union et l'Union d'économie sociale du logement ;
+
+3° ter Adresse aux associés des recommandations visant à permettre le regroupement des actions des sociétés mentionnées à
+l'article L. 422-2 détenues par les associés collecteurs sans pouvoir organiser de concentration nationale, à donner des
+consignes de vote sur les décisions prises en assemblée des actionnaires ou des administrateurs de ces mêmes sociétés
+lorsqu'elles portent sur des opérations liées à leur capital et à assurer, dans les sociétés dont ils sont actionnaires de
+référence au sens de l'article L. 422-2-1, le respect des principes déontologiques qu'elle fixe. Ces recommandations ne
+peuvent déroger aux conventions conclues entre l'Etat et l'Union d'économie sociale du logement sur les mêmes objets ;
 
 4° Donne, en considération des intérêts communs que l'union représente et des objectifs définis dans les conventions
 mentionnées au 2°, un avis conforme préalablement aux opérations par lesquelles les associés collecteurs :
@@ -11472,11 +11737,13 @@ Les statuts de l'union sont approuvés par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 83 () JORF 3 juillet 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 52 () JORF 2 août 2003 rectificatif JORF 20 septembre 2003
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
 
 
 ###### Article L313-20
@@ -15536,7 +15803,8 @@ Les organismes d'habitations à loyer modéré comprennent :
 
 - les sociétés anonymes d'habitations à loyer modéré ;
 
-- les sociétés anonymes coopératives de production d'habitations à loyer modéré ;
+- les sociétés anonymes coopératives de production et les sociétés anonymes coopératives d'intérêt collectif d'habitations à
+loyer modéré ;
 
 - les sociétés anonymes de crédit immobilier ;
 
@@ -15721,7 +15989,11 @@ services prévues par les textes qui les régissent.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 145
+	  - Loi n°2003-710 2003-08-01 art. 53 1° JORF 2 août 2003
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 159
 
 
 ###### Article L411-3
@@ -16548,24 +16820,77 @@ cette association, dans des conditions fixées par décret en Conseil d'Etat.
 
 ###### Article L422-2-1
 
-Les conseils d'administration ou les conseils de surveillance des sociétés anonymes d'habitations à loyer modéré comprennent
-des représentants de leurs locataires. A cet effet et par dérogation aux articles L. 225-17 et L. 225-69 du code de commerce,
-le nombre des membres du conseil d'administration ou du conseil de surveillance peut excéder de deux le nombre
-d'administrateurs ou de membres du conseil de surveillance fixé par ces articles.
+I. - Le capital des sociétés anonymes d'habitations à loyer modéré est réparti entre quatre catégories d'actionnaires :
 
-Les représentants des locataires au conseil d'administration ou au conseil de surveillance ont les mêmes droits et
-obligations que les autres membres du conseil et sont soumis à toutes les dispositions applicables à ces derniers, à
-l'exception de celles prévues aux articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 du code de commerce.
+1° Un actionnaire de référence détenant la majorité du capital ;
 
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
+2° Lorsqu'ils n'ont pas la qualité d'actionnaire de référence, les communautés de communes de plus de 50 000 habitants
+comprenant au moins une commune de plus de 15 000 habitants, les communautés urbaines, les communautés d'agglomération, les
+syndicats d'agglomération nouvelle, les départements et les régions sur le territoire desquels la société anonyme
+d'habitations à loyer modéré possède des logements ;
 
-Les représentants des locataires sont élus sur des listes de candidats présentés par des associations oeuvrant dans le
-domaine du logement.
+3° Les représentants des locataires, élus sur des listes de candidats présentés par des associations oeuvrant dans le domaine
+du logement, indépendantes de tout parti politique ou organisation philosophique, confessionnelle, ethnique ou raciale, et ne
+poursuivant pas des intérêts collectifs contraires aux objectifs du logement social fixés par le présent code, notamment par
+les articles L. 411 et L. 441, et par le droit à la ville défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour
+la ville ;
 
-Ces associations doivent être indépendantes de tout parti politique ou organisation philosophique, confessionnelle, ethnique
-ou raciale et ne pas poursuivre des intérêts collectifs qui seraient en contradiction avec les objectifs du logement social
-fixés par le code de la construction et de l'habitation, et notamment par les articles L. 411 et L. 441, ou du droit à la
-ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville.
+4° Les personnes morales autres que l'actionnaire de référence et les personnes physiques.
+
+Aux fins d'application des dispositions du présent article, des actions sont cédées à un prix symbolique par l'actionnaire de
+référence, dans des conditions prévues par décret en Conseil d'Etat, aux établissements publics et collectivités
+territoriales mentionnés au 2° et aux locataires élus dans les conditions définies au 3°.
+
+Chaque catégorie d'actionnaires est représentée aux assemblées générales des actionnaires, sans qu'il y ait nécessairement
+proportionnalité entre la quotité de capital détenu et le nombre de droits de vote, selon les modalités prévues par les
+statuts, dans des conditions fixées par décret en Conseil d'Etat.
+
+II. - L'actionnaire de référence peut être constitué d'un groupe de deux ou trois actionnaires, liés entre eux par un pacte
+emportant les effets prévus à l'article 1134 du code civil et s'exprimant d'une seule voix dans les assemblées générales de
+la société anonyme d'habitations à loyer modéré. Le pacte d'actionnaires est communiqué dès sa conclusion à chacun des
+actionnaires de la société anonyme d'habitations à loyer modéré ainsi qu'au préfet de la région dans laquelle celle-ci a son
+siège. Il prévoit notamment les modalités de règlement des litiges qui pourraient survenir entre les signataires.
+
+En cas de rupture du pacte ou en cas de modification de la composition du capital ayant un effet sur l'actionnaire de
+référence, les instances statutaires de la société anonyme d'habitations à loyer modéré demandent un renouvellement de
+l'agrément mentionné à l'article L. 422-5.
+
+Les associés de l'Union d'économie sociale du logement sont considérés comme un seul actionnaire. Il en va de même des
+organismes à but non lucratif ayant pour objet l'insertion des personnes en difficulté.
+
+III. - L'actionnaire de référence mentionné au 1° du I détient la majorité des droits de vote aux assemblées générales
+d'actionnaires, sans que la proportion des droits de vote qu'il détient puisse être supérieure à la part de capital dont il
+dispose.
+
+Les établissements publics et collectivités territoriales mentionnés au 2° du I détiennent au moins 10 % des droits de vote,
+indépendamment de la quotité de capital détenu. Les droits de vote sont répartis entre les régions, d'une part, les
+départements et établissements publics, d'autre part, selon des modalités prévues par les statuts, dans des conditions
+définies par décret en Conseil d'Etat. Au sein de chacun de ces deux groupes, les droits de vote sont répartis par les
+établissements publics et collectivités territoriales concernés, en tenant compte de l'implantation géographique du
+patrimoine de la société anonyme d'habitations à loyer modéré. Pour les départements, sont seuls pris en compte les immeubles
+situés hors du territoire des communes regroupées dans un des établissements publics mentionnés au 2° du I.
+
+Les représentants des locataires mentionnés au 3° du I détiennent au moins 10 % des droits de vote indépendamment de la
+quotité de capital détenu.
+
+Le total des droits de vote des établissements publics et collectivités territoriales mentionnés au 2° du I et des
+représentants des locataires mentionnés au 3° du I est égal au tiers des voix plus une.
+
+Les personnes physiques et les organismes de placement collectif en valeurs mobilières dont la majorité des parts est détenue
+par des salariés de la société anonyme d'habitations à loyer modéré ne peuvent pas avoir la qualité d'actionnaire de
+référence. Les personnes physiques ne peuvent détenir au total plus de 5 % du capital. La répartition des droits de vote
+résiduels entre les actionnaires mentionnés au 4° du I s'effectue en proportion de la quotité de capital qu'ils détiennent.
+
+Les statuts prévoient, dans des conditions fixées par décret en Conseil d'Etat, les modalités du rachat par l'actionnaire de
+référence des actions détenues par les actionnaires mentionnés au 4° du I.
+
+IV. - Les membres du conseil d'administration ou du conseil de surveillance sont nommés par l'assemblée générale sur
+proposition de chaque catégorie d'actionnaires. Trois d'entre eux sont nommés sur proposition des établissements publics et
+collectivités territoriales mentionnés au 2° du I.
+
+Les représentants des locataires mentionnés au 3° du I, au nombre de trois, sont membres du conseil d'administration.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -16576,18 +16901,14 @@ ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pou
 	**Cite**:
 
 	  - Loi n°91-662 1991-07-13
-	  - Code de commerce. - art. L225-17 (M)
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-26 (M)
-	  - Code de commerce. - art. L225-69 (M)
-	  - Code de commerce. - art. L225-72 (M)
-	  - Code de commerce. - art. L225-73 (V)
+	  - Code civil - art. 1134 (V)
 	  - Code de la construction et de l'habitation. - art. L411 (V)
+	  - Code de la construction et de l'habitation. - art. L422-5 (M)
 	  - Code de la construction et de l'habitation. - art. L441 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -16741,13 +17062,9 @@ statuts.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 149 8° JORF 14 décembre 2000
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 149
+	  - Loi n°2003-710 2003-08-01 art. 53 2° JORF 2 août 2003
 
 	**Cité par**:
 
@@ -16757,6 +17074,46 @@ statuts.
 	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-7-4 (M)
+
+
+###### Article L422-3-2
+
+Les sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré exercent les compétences mentionnées à
+l'article L. 422-3.
+
+Lorsqu'elles exercent une activité locative, les conseils d'administration ou les conseils de surveillance desdites sociétés
+comprennent des représentants des locataires dans les conditions définies par leurs statuts.
+
+Les sociétés anonymes coopératives mentionnées aux articles L. 422-3 et L. 422-13 peuvent décider de se transformer en
+société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré. Cette décision n'entraîne pas la création d'une
+personne morale nouvelle. A peine de nullité, la décision de transformation doit être agréée par le ministre chargé de la
+construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 24 (V)
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. L422-12 (V)
+	  - Code de la construction et de l'habitation. - art. L422-13 (V)
+	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 2003-08-01 art. 53 2°, 3° JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
 
 
 ##### Section 4 : Sociétés anonymes de crédit immobilier.
@@ -17351,8 +17708,10 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 ###### Article L422-12
 
 Les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération sont applicables aux sociétés
-anonymes coopératives d'habitations à loyer modéré mentionnées aux articles L. 422-3 et L. 422-13, à l'exception des
-dispositions des troisième et quatrième alinéas de son article 16 et de son article 18.
+anonymes coopératives d'habitations à loyer modéré mentionnées aux articles L. 422-3, L. 422-3-2 et L. 422-13, à l'exception
+des dispositions des troisième et quatrième alinéas de son article 16 et de son article 18. Les dispositions du dernier
+alinéa de l'article 19 septies, du troisième alinéa de l'article 19 nonies et de l'article 19 terdecies ne sont pas
+applicables aux sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
 
 Pour l'application de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 précitée, les associés ayant qualité
 d'organismes d'habitation à loyer modéré énumérés à l'article L. 411-2 bénéficient des dispositions fixées par le troisième
@@ -17370,6 +17729,7 @@ ces réserves doit être attribuée conformément à l'article L. 422-11.
 	  - Loi n°47-1775 1947-09-10 art. 16, art. 3 bis, art. 25
 	  - Loi n°47-1775 du 10 septembre 1947 - art. 16 (M)
 	  - Loi n°47-1775 du 10 septembre 1947 - art. 25 (M)
+	  - Code de la construction et de l'habitation 19 septies, 19 nonies, 19 terdecies, L411-2, L422-11
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - Code de la construction et de l'habitation. - art. L422-11 (M)
 
@@ -17379,7 +17739,11 @@ ces réserves doit être attribuée conformément à l'article L. 422-11.
 
 	**Modifié par**:
 
-	  - Loi n°92-643 du 13 juillet 1992 - art. 49 () JORF 14 juillet 1992
+	  - Loi n°2003-710 2003-08-01 art. 53 4° JORF 2 août 2003
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 178 bis
 
 
 ##### Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré.
@@ -17729,16 +18093,16 @@ ramené à deux.
 
 Les conseils d'administration ou les conseils de surveillance des sociétés créées en application de l'article L. 423-1-1
 comprennent des représentants des locataires des logements gérés par elles et appartenant à leurs actionnaires, élus selon
-les dispositions communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré prévues aux quatrième
-et cinquième alinéas de l'article L. 422-2-1.
+les dispositions communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré prévues au quatrième
+alinéa de l'article L. 422-2-1. 
 
 A cet effet et par dérogation aux articles L. 225-17 et L. 225-69 du code de commerce, le nombre des membres du conseil
 d'administration ou du conseil de surveillance peut excéder de deux le nombre d'administrateurs ou de membres du conseil de
-surveillance fixé par ces articles.
+surveillance fixé par ces articles. 
 
 Les représentants des locataires au conseil d'administration ou au conseil de surveillance ont les mêmes droits et
 obligations que les autres membres du conseil et sont soumis à toutes les dispositions applicables à ces derniers, à
-l'exception de celles prévues aux articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 du code de commerce.
+l'exception de celles prévues aux articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 du code de commerce. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -17748,20 +18112,18 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 49 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-17 (M)
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-26 (M)
-	  - Code de commerce. - art. L225-69 (M)
-	  - Code de commerce. - art. L225-72 (M)
-	  - Code de commerce. - art. L225-73 (V)
-	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
-	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+	  - Code de commerce - art. L225-17 (V)
+	  - Code de commerce - art. L225-25 (V)
+	  - Code de commerce - art. L225-69 (V)
+	  - Code de commerce - art. L225-72 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (VT)
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (V)
 
 	**Cité par**:
 
@@ -19157,15 +19519,14 @@ Elle se réunit au moins une fois par an.
 ###### Article L441-2
 
 Il est créé, dans chaque organisme d'habitations à loyer modéré, une commission d'attribution chargée d'attribuer
-nominativement chaque logement locatif composée de six membres qui élisent en leur sein un président qui dispose d'une voix
-prépondérante.
+nominativement chaque logement locatif composée de six membres qui élisent en leur sein un président.
 
 Dans les mêmes conditions, une commission d'attribution est créée sur demande d'un établissement public de coopération
 intercommunale compétent ou, le cas échéant, d'une commune lorsque sur le territoire de celui-ci ou, le cas échéant, de
 celle-ci, un même organisme dispose de plus de 2 000 logements locatifs sociaux.
 
 En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit des
-commissions d'attribution.
+commissions d'attribution. Il dispose d'une voix prépondérante en cas d'égalité des voix.
 
 Le représentant de l'Etat dans le département, ou l'un de ses représentants membre du corps préfectoral, assiste, sur sa
 demande, à toute réunion de la commission d'attribution.
@@ -19222,9 +19583,7 @@ de la commission d'attribution de l'organisme gérant.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 153 IV, V, art. 158 JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 153 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 158 () JORF 14 décembre 2000
+	  - Loi n°2003-710 du 1 août 2003 - art. 58 () JORF 2 août 2003
 
 	**Liens**:
 
@@ -22253,8 +22612,16 @@ La Caisse de garantie du logement locatif social est un établissement public na
 fonds de garantie de prêts au logement social. Elle est substituée de plein droit dans les droits et obligations de la Caisse
 de garantie du logement social visée à l'article L. 431-1, à compter du 1er janvier 2001.
 
-S'agissant de leur activité locative sociale, elle contribue, notamment par des concours financiers, à la prévention des
-difficultés financières et au redressement des organismes d'habitations à loyer modéré et des sociétés d'économie mixte.
+Elle contribue, notamment par des concours financiers, à la prévention des difficultés financières et au redressement des
+organismes d'habitations à loyer modéré et des sociétés d'économie mixte pour ce qui concerne leur activité locative sociale,
+pour leur permettre en particulier d'assurer la qualité de l'habitat.
+
+Elle accorde également des concours financiers destinés à favoriser la réorganisation des organismes d'habitations à loyer
+modéré et leur regroupement. Elle finance des actions de formation ou de soutien technique au profit des organismes
+d'habitations à loyer modéré pour leur permettre de mener des actions ou opérations de renouvellement urbain.
+
+Elle contribue, dans les conditions prévues à l'article L. 452-4-1, au financement de l'Agence nationale pour la rénovation
+urbaine.
 
 Elle concourt, par ses participations aux frais de l'union et des fédérations groupant les organismes d'habitations à loyer
 modéré et aux frais de la fédération groupant les sociétés d'économie mixte, à assurer leur meilleur fonctionnement, la
@@ -22277,11 +22644,7 @@ logement social.
 	  - Loi n°86-1290 1986-12-23 art. 41 ter
 	  - Code de la construction et de l'habitation. - art. L366-1 (V)
 	  - Code de la construction et de l'habitation. - art. L431-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
 
 	**Cité par**:
 
@@ -22306,14 +22669,18 @@ logement social.
 	  - Code de la construction et de l'habitation. - art. R452-20 (V)
 	  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+
 
 ###### Article L452-2
 
 La caisse est administrée par un conseil d'administration composé à parts égales de représentants de l'Etat, d'une part, et
 de représentants de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré et de la fédération des
-sociétés d'économie mixte, d'autre part, ainsi que d'une personnalité qualifiée, désignée par le ministre chargé du logement
-après avis des représentants des organismes d'habitations à loyer modéré, à raison de ses compétences dans le domaine du
-logement.
+sociétés d'économie mixte, d'autre part, ainsi que d'un représentant de l'Agence nationale pour la rénovation urbaine et
+d'une personnalité qualifiée, désignée par le ministre chargé du logement après avis des représentants des organismes
+d'habitations à loyer modéré, à raison de ses compétences dans le domaine du logement.
 
 Le conseil d'administration élit en son sein un président parmi les représentants des organismes d'habitations à loyer
 modéré.
@@ -22324,16 +22691,45 @@ modéré.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
-
 	**Cité par**:
 
 	  - Décret n°2003-424 du 7 mai 2003 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. L452-2-1 (V)
 	  - Code de la construction et de l'habitation. - art. R452-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+
+
+###### Article L452-2-1
+
+Une commission placée auprès du conseil d'administration de la caisse visée à l'article L. 452-2 et composée majoritairement
+de représentants de l'union des habitations à loyer modéré regroupant les fédérations d'organismes d'habitations à loyer
+modéré et comprenant au moins un représentant de l'Agence nationale pour la rénovation urbaine statue sur les concours
+financiers précisés au troisième alinéa de l'article L. 452-1 dans des conditions définies par le décret mentionné à
+l'article L. 452-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-2 (M)
+	  - Code de la construction et de l'habitation. - art. L452-7 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R452-12 (V)
+	  - Code de la construction et de l'habitation. - art. R452-14 (V)
 
 
 ###### Article L452-3
@@ -22381,11 +22777,9 @@ f) Du produit des emprunts qu'elle contracte avec l'autorisation du ministre cha
 Au titre de leur activité locative sociale, les organismes d'habitations à loyer modéré et les sociétés d'économie mixte
 versent, au premier trimestre de chaque année, une cotisation à la Caisse de garantie du logement locatif social.
 
-La cotisation des organismes d'habitations à loyer modéré a pour assiette les loyers appelés au cours du dernier exercice
-clos pour les logements à usage locatif et les logements-foyers leur appartenant, construits, acquis ou améliorés avec le
-concours financier de l'Etat ou ayant bénéficié de prêts accordés en contrepartie de conditions de ressources des occupants
-ou faisant l'objet des conventions régies par le chapitre III du titre V du livre III. Pour les logements-foyers, la
-cotisation a pour assiette l'élément de la redevance équivalent au loyer.
+La cotisation des organismes d'habitations à loyer modéré a pour assiette les loyers ou redevances appelés au cours du
+dernier exercice à raison des logements à usage locatif et des logements-foyers sur lesquels ils sont titulaires d'un droit
+réel. Pour les logements-foyers, la cotisation a pour assiette l'élément de la redevance équivalent au loyer.
 
 La cotisation des sociétés d'économie mixte a pour assiette les loyers appelés au cours du dernier exercice clos pour les
 logements à usage locatif et les logements-foyers leur appartenant et conventionnés dans les conditions définies à l'article
@@ -22399,24 +22793,21 @@ La cotisation est également réduite d'un montant proportionnel au nombre de lo
 quartiers mentionnés au I de l'article 1466 A du code général des impôts. Ce nombre s'apprécie au 31 décembre du dernier
 exercice clos.
 
+La cotisation est également réduite d'un montant proportionnel au nombre des logements à usage locatif et des logements-
+foyers ayant fait l'objet au cours de l'année écoulée d'une première mise en service par l'organisme et d'une convention en
+application du 3° ou du 5° de l'article L. 351-2. Dans le cas des logements-foyers, le nombre retenu est celui des unités
+ouvrant droit à redevance.
+
 Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction par allocataire et celui de la réduction par
-logement ou logement-foyer situé dans les quartiers mentionnés au cinquième alinéa sont fixés par arrêtés des ministres
-chargés du logement, de l'économie et des finances.
+logement ou logement-foyer situé dans les quartiers mentionnés au cinquième alinéa ainsi que celui de la réduction par
+logement ou logement-foyer nouvellement conventionnés sont fixés par arrêtés des ministres chargés du logement, de l'économie
+et des finances.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
-
-	**Modifié par**:
-
-	  - Loi - art. 40 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 40 I, III finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -22457,6 +22848,10 @@ chargés du logement, de l'économie et des finances.
 	  - Code de la construction et de l'habitation. - art. R452-25-6 (V)
 	  - Code de la construction et de l'habitation. - art. R452-25-7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+
 	**Cite**:
 
 	  - CGI 1466 A
@@ -22464,9 +22859,72 @@ chargés du logement, de l'économie et des finances.
 	  - Code de la sécurité sociale. - art. L831-1 (M)
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-7 (M)
+###### Article L452-4-1
+
+Les organismes d'habitations à loyer modéré versent, au premier trimestre de chaque année, une cotisation additionnelle à la
+Caisse de garantie du logement locatif social. La cotisation additionnelle comprend :
+
+a) Une part égale au produit d'une somme forfaitaire par le nombre de logements à usage locatif sur lesquels l'organisme est
+titulaire d'un droit réel au 31 décembre de l'avant-dernier exercice clos, augmenté du nombre d'unités de logements-foyers
+ouvrant droit à redevance. La somme forfaitaire est fixée chaque année, sans pouvoir excéder 10 euros, par arrêté des
+ministres chargés du logement, de la ville, de l'économie et des finances après avis de l'union des habitations à loyer
+modéré regroupant les fédérations d'organismes d'habitations à loyer modéré ;
+
+b) Une part variable qui a pour assiette l'autofinancement net de l'organisme établi à partir des comptes annuels de l'avant-
+dernier exercice clos. L'autofinancement net est calculé en déduisant les remboursements d'emprunts liés à l'activité
+locative, à l'exception des remboursements anticipés, de la différence entre les produits et les charges de l'exercice. Pour
+le calcul de cette différence, ne sont pas pris en compte les dotations pour amortissements et provisions et leurs reprises
+ainsi que certains produits ou charges exceptionnels ou de transfert définis par décret en Conseil d'Etat. Le montant de
+l'autofinancement net fait l'objet d'une réfaction en fonction du montant des produits locatifs, dont le pourcentage, qui ne
+peut être inférieur à 5 %, est fixé par un arrêté des ministres chargés du logement, de la ville, de l'économie et des
+finances, pris après avis de l'Union des habitations à loyer modéré regroupant les fédérations d'organismes d'habitations à
+loyer modéré. Le montant de la part variable est calculé en appliquant à la base ainsi déterminée un taux fixé, dans les
+limites de 15 %, par un arrêté pris dans les mêmes formes.
+
+Les dispositions des articles L. 452-5 et L. 452-6 sont applicables à la cotisation additionnelle.
+
+Une fraction des cotisations additionnelles perçues par la Caisse de garantie du logement locatif social est affectée au
+versement d'une contribution à l'Agence nationale pour la rénovation urbaine. Un arrêté des ministres chargés du logement, de
+la ville, de l'économie et des finances fixe, après avis du conseil d'administration de la Caisse de garantie du logement
+locatif social, la proportion, comprise entre 40 % et 50 %, des cotisations additionnelles affectées à cette contribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. Annexe 1 (Ab)
+	  - Loi n°2003-710 du 1 août 2003 - art. 12 (V)
+	  - Arrêté du 19 septembre 2008 - art. 1 (V)
+	  - Arrêté du 19 septembre 2008 - art. 2 (V)
+	  - Arrêté du 25 août 2009 (V)
+	  - Arrêté du 25 août 2009 - art. 2 (V)
+	  - Arrêté du 20 juillet 2010 - art. 2 (Ab)
+	  - Arrêté du 27 décembre 2012 - art. 2 (Ab)
+	  - Arrêté du 12 novembre 2015 - art. 1 (V)
+	  - Arrêté du 12 novembre 2015 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L452-1 (V)
+	  - Code de la construction et de l'habitation. - art. L452-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-3 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
+	  - Code de la construction et de l'habitation. - art. R452-25-3 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-6 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-5 (V)
+	  - Code de la construction et de l'habitation. - art. L452-6 (M)
 
 
 ###### Article L452-5
@@ -24461,6 +24919,89 @@ Un décret en Conseil d'Etat précise les modalités d'application des articles 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+
+
+###### Article L615-6
+
+Lorsque, dans un immeuble collectif à usage principal d'habitation, le propriétaire, la société civile immobilière, le
+syndicat des copropriétaires, la société d'attribution ou la société coopérative de construction est, en raison de graves
+difficultés financières ou de gestion et de l'importance des travaux à mettre en oeuvre, dans l'incapacité d'exercer ses
+missions de gestion et d'assurer la conservation de l'immeuble ou que la sécurité des occupants est gravement menacée, le
+président du tribunal de grande instance, statuant comme en matière de référé ou sur requête, peut, sur saisine du maire ou
+du président de l'établissement public de coopération intercommunale compétent en matière de logement sur le territoire
+duquel est implanté l'immeuble, désigner un expert chargé de constater la nature et l'importance des travaux à mettre en
+oeuvre ainsi que le déséquilibre financier du propriétaire, du syndicat ou de la société assurant la gestion de l'immeuble.
+La saisine peut être également effectuée, après accord du maire ou du président de l'établissement public, par le préfet, le
+syndic, l'administrateur provisoire défini à l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
+copropriété des immeubles bâtis ou des copropriétaires représentant 15 % au moins des voix du syndicat.
+
+Les résultats de l'expertise sont notifiés au propriétaire, au syndicat des copropriétaires ou, s'il y a lieu, à
+l'administrateur provisoire défini à l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 précitée ou au représentant légal
+de la société d'attribution, de la société civile immobilière ou de la société coopérative de construction, avec mention du
+délai dans lequel un rapport de contre-expertise peut être présenté.
+
+Le président du tribunal de grande instance peut, au vu des conclusions de l'expertise et après avoir entendu les parties
+dûment convoquées, déclarer l'état de carence du propriétaire, de la société civile immobilière, du syndicat des
+copropriétaires, de la société d'attribution ou de la société coopérative de construction.
+
+La décision du président du tribunal de grande instance est notifiée au propriétaire, au syndicat des copropriétaires, à
+l'administrateur provisoire ou au représentant légal de la société d'attribution, de la société civile immobilière ou de la
+société coopérative de construction, à l'auteur de la saisine, à chacun des copropriétaires et au maire de la commune ou au
+président de l'établissement public de coopération intercommunale compétent en matière de logement.
+
+A défaut de connaître l'adresse actuelle des personnes mentionnées à l'alinéa précédent ou de pouvoir les identifier, la
+notification les concernant est valablement effectuée par affichage à la mairie de la commune ou, à Paris, Marseille et Lyon,
+de l'arrondissement où est situé l'immeuble ainsi que par affichage sur la façade de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-1 (M)
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 55 (VD)
+	  - Arrêté du 10 octobre 2016 - art. (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L615-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L615-10 (VD)
+	  - Code de la construction et de l'habitation. - art. L615-7 (V)
+	  - Code de la construction et de l'habitation. - art. L615-8 (VD)
+	  - Code de la construction et de l'habitation. - art. L711-2 (V)
+	  - Code de la construction et de l'habitation. - art. L721-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 20 () JORF 2 août 2003
+
+
+###### Article L615-7
+
+Lorsque l'état de carence a été déclaré, l'expropriation de l'immeuble est poursuivie, dans les conditions fixées par le code
+de l'expropriation pour cause d'utilité publique, au profit de la commune ou de l'établissement public de coopération
+intercommunale compétent en matière de logement afin de mettre en oeuvre des actions ou opérations concourant à la
+réalisation d'objectifs de rénovation urbaine et de politique locale de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 20 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L615-10 (VD)
+	  - Code de la construction et de l'habitation. - art. L615-6 (V)
+	  - Code de la construction et de l'habitation. - art. L615-8 (VD)
 
 
 #### Chapitre VI : Dispositions applicables en matière de saisie immobilière du logement principal.
