@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-09-10
+Version Consolidée au 2004-10-15
 
 # Partie législative
 
@@ -68500,14 +68500,15 @@ immédiatement remplacé dans les conditions fixées au 4°.
 	  - Décret n°2004-943 du 2 septembre 2004 - art. 11 () JORF 7 septembre 2004
 
 
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
 
 ###### Article R*422-6
 
-Pour l'application de l'article L. 422-3, les sociétés anonymes coopératives de production d'habitations à loyer modéré sont
-régies par les dispositions ci-après.
+Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent contenir des clauses
+conformes aux clauses types reproduites en annexe au présent code.
 
-Leur objet est défini par les clauses types mentionnées à l'article R. 422-9.
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
 **Liens relatifs à cet article**
 
@@ -68517,12 +68518,27 @@ Leur objet est défini par les clauses types mentionnées à l'article R. 422-9.
 
 	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 1 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 2 () JORF 15 octobre 2004
 
-	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L422-3 (M)
-	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
+###### Article R*422-7
+
+Les statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré doivent contenir des clauses
+conformes aux clauses types reproduites en annexe au présent code.
+
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 3 () JORF 15 octobre 2004
 
 
 ###### Article R*422-8
@@ -68540,7 +68556,7 @@ demande dans un délai de quatre mois à compter de sa réception, l'autorisatio
 
 	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 4 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
 
 	**Cite**:
 
@@ -68549,9 +68565,10 @@ demande dans un délai de quatre mois à compter de sa réception, l'autorisatio
 
 ###### Article R*422-8-1
 
-L'activité des sociétés anonymes coopératives de production d'habitations à loyer modéré s'exerce sur le territoire de la
-région où est situé leur siège social. Elles ont également compétence pour intervenir sur le territoire des départements
-limitrophes à la région de leur siège, après accord de la commune d'implantation de l'opération.
+L'activité des sociétés anonymes coopératives de production d'habitations à loyer modéré et des sociétés anonymes
+coopératives d'intérêt collectif d'habitations à loyer modéré s'exerce sur le territoire de la région où est situé leur siège
+social. Elles ont également compétence pour intervenir sur le territoire des départements limitrophes à la région de leur
+siège, après accord de la commune d'implantation de l'opération.
 
 Le ministre chargé de la construction et du logement peut, après avis du conseil supérieur des habitations à loyer modéré,
 agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
@@ -68570,7 +68587,8 @@ qualité de la gestion a été constatée dans les conditions précisées à l'a
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 6 () JORF 24 avril 1991
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 5 () JORF 15 octobre 2004
 
 	**Cite**:
 
@@ -68579,57 +68597,14 @@ qualité de la gestion a été constatée dans les conditions précisées à l'a
 
 ###### Article R*422-9
 
-Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent contenir des clauses
-conformes aux clauses types reproduites en annexe au présent code.
+Le préfet du département du siège de la société peut, après avis du conseil départemental de l'habitat, agréer spécialement
+les sociétés anonymes coopératives de production d'habitations à loyer modéré et les sociétés anonymes coopératives d'intérêt
+collectif d'habitations à loyer modéré dont la qualité de gestion sur les plans technique et financier a été appréciée à
+l'occasion du contrôle prévu à l'article L. 451-1 pour leur permettre de réaliser pour le compte de tiers les actions ou
+opérations d'aménagement visées au 7° de l'article L. 422-3.
 
-La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
-assemblée générale extraordinaire tenue après la publication desdites dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°93-749 du 27 mars 1993 - art. 5 () JORF 30 mars 1993
-
-
-###### Article R422-7-3
-
-L'autorisation prévue à l'article L. 422-3-2 intervient après avis du conseil supérieur des habitations à loyer modéré.
-
-Le contrôle visé à l'article L. 422-3-2 doit porter au moins sur les gestions technique et financière de l'avant-dernière
-année sociale précédant l'année de la réception, par le préfet du département, de la demande d'extension de compétence si
-celle-ci est parvenue avant le premier juillet de ladite année, ou sur celles de la dernière année si elle a été reçue après
-cette date.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 4 () JORF 15 octobre 2004
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
-
-
-###### Article R422-7-4
-
-L'autorisation mentionnée à l'article L. 422-3-2 peut être retirée si, à l'occasion du contrôle [*de l'administration*] prévu
-aux articles L. 451-1 et R. 451-2, il est constaté que la société bénéficiaire n'est plus en mesure, du point de vue
-technique ou financier, d'assurer sa mission de façon satisfaisante. Ce retrait est prononcé après que la société a été
-invitée à présenter ses observations et selon la même procédure que celle qui a été utilisée pour accorder l'autorisation.
+Cet agrément peut être limité dans le temps ou limité à certaines catégories d'opérations en raison de leur importance ou à
+une ou plusieurs opérations déterminées.
 
 **Liens relatifs à cet article**
 
@@ -68639,24 +68614,23 @@ invitée à présenter ses observations et selon la même procédure que celle q
 
 	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 3 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 6 () JORF 15 octobre 2004
 
 	**Abrogé par**:
 
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 4 () JORF 15 octobre 2004
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 4
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-	  - Code de la construction et de l'habitation. - art. R451-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3
+	  - Code de la construction et de l'habitation. - art. L451-1
 
 
 ###### Article R422-9-1
 
-La commission prévue à l'article L. 441-2, qui attribue nominativement chaque logement mis ou remis en location, est, dans
-les sociétés ayant obtenu l'agrément mentionné à l'article L. 422-3-2, composée et fonctionne conformément à l'article R.
-441-9.
+La commission prévue à l'article L. 441-2, qui attribue nominativement chaque logement mis ou remis en location, est composée
+et fonctionne conformément à l'article R. 441-9.
 
 **Liens relatifs à cet article**
 
@@ -68666,11 +68640,11 @@ les sociétés ayant obtenu l'agrément mentionné à l'article L. 422-3-2, comp
 
 	**Modifié par**:
 
-	  - Décret n°99-836 du 22 septembre 1999 - art. 3 () JORF 25 septembre 1999
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 7 () JORF 15 octobre 2004
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
 	  - Code de la construction et de l'habitation. - art. L441-2 (M)
 
 	**Cité par**:
@@ -68693,13 +68667,17 @@ Elle est mise en oeuvre à la demande de la société coopérative.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 4
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3
 
 	**Anciens textes**:
 
@@ -68718,9 +68696,13 @@ l'un des organismes précités s'oblige solidairement avec lui envers la sociét
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 4
 
 	**Anciens textes**:
 
@@ -68743,9 +68725,13 @@ notification.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 4
 
 	**Anciens textes**:
 
@@ -68767,9 +68753,13 @@ opérations dès lors qu'une ou plusieurs opérations antérieures ont été ent
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-749 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 4
 
 	**Anciens textes**:
 
@@ -68818,7 +68808,6 @@ annexées à l'article R. 422-1.
 	**Cite**:
 
 	  - Loi n°47-1775 du 10 septembre 1947 - art. 25 (M)
-	  - Code de la construction et de l'habitation
 
 	**Codifié par**:
 
@@ -68830,7 +68819,7 @@ annexées à l'article R. 422-1.
 
 	**Modifié par**:
 
-	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
 
 
 ##### Section 4 : Sociétés anonymes de crédit immobilier.
@@ -71659,11 +71648,11 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 ###### Article R423-75
 
 En dehors des opérations prévues par la législation en vigueur, les sociétés anonymes d'habitations à loyer modéré et les
-sociétés coopératives de production ou de location-attribution d'habitations à loyer modéré ne peuvent effectuer que des
-achats de titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord
-sur l'Espace économique européen, ou de parts ou actions d'organismes de placement collectif en valeurs mobilières gérant
-exclusivement des titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres Etats parties à
-l'accord sur l'Espace économique européen, libellés en euros.
+sociétés coopératives de production, d'intérêt collectif ou de location-attribution d'habitations à loyer modéré ne peuvent
+effectuer que des achats de titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres Etats
+parties à l'accord sur l'Espace économique européen, ou de parts ou actions d'organismes de placement collectif en valeurs
+mobilières gérant exclusivement des titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres
+Etats parties à l'accord sur l'Espace économique européen, libellés en euros.
 
 **Liens relatifs à cet article**
 
@@ -71673,7 +71662,7 @@ l'accord sur l'Espace économique européen, libellés en euros.
 
 	**Modifié par**:
 
-	  - Décret n°2004-641 du 1 juillet 2004 - art. 7 () JORF 3 juillet 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 8 () JORF 15 octobre 2004
 
 	**Cité par**:
 
@@ -71682,11 +71671,12 @@ l'accord sur l'Espace économique européen, libellés en euros.
 
 ###### Article R423-75-1
 
-Les sociétés anonymes d'habitations à loyer modéré, les sociétés anonymes de crédit immobilier et les sociétés anonymes
-coopératives de production d'habitations à loyer modéré peuvent souscrire ou acquérir des actions ou des parts d'autres
-sociétés d'habitations à loyer modéré, de sociétés anonymes de coordination d'organismes d'habitations à loyer modéré, ou de
-sociétés d'économie mixte, ou de sociétés ou d'organismes à caractère mutualiste ou coopératif susceptibles de faciliter leur
-action dans le cadre de la réglementation sur les HLM.
+Les sociétés anonymes d'habitations à loyer modéré, les sociétés anonymes de crédit immobilier, les sociétés anonymes
+coopératives d'intérêt collectif d'habitations à loyer modéré et les sociétés anonymes coopératives de production
+d'habitations à loyer modéré peuvent souscrire ou acquérir des actions ou des parts d'autres sociétés d'habitations à loyer
+modéré, de sociétés anonymes de coordination d'organismes d'habitations à loyer modéré, ou de sociétés d'économie mixte, ou
+de sociétés ou d'organismes à caractère mutualiste ou coopératif susceptibles de faciliter leur action dans le cadre de la
+réglementation sur les HLM.
 
 **Liens relatifs à cet article**
 
@@ -71696,7 +71686,7 @@ action dans le cadre de la réglementation sur les HLM.
 
 	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 2 () JORF 7 septembre 2004
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 9 () JORF 15 octobre 2004
 
 	**Anciens textes**:
 
@@ -90440,108 +90430,123 @@ L'article 6 du décret n° 2005-1416 du 16 novembre 2005 reporte cette date au 3
 	  - Décret n°2004-641 du 1 juillet 2004 - art. 10 () JORF 3 juillet 2004
 
 
-## Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.
+## Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
-###### Article Annexe à l'article R422-9
+###### Article Annexe à l'article R422-6
 
 1. Forme.
 
-Il est formé entre les propriétaires des actions créées ci-après et de toutes celles qui le seraient ultérieurement une
-société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable régie par les dispositions
-du livre IV du code de la construction et de l'habitation, par la loi du 24 juillet 1966 modifiée sur les sociétés, par la
-loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, ainsi que par les dispositions du code civil
-et de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales.
+Il est formé entre les propriétaires des parts sociales créées ci-après et de toutes celles qui le seraient ultérieurement
+une société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable régie par les
+dispositions du livre IV du code de la construction et de l'habitation, ainsi que les dispositions non contraires de la loi
+n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, du code civil et du code de commerce, notamment
+des articles L. 231-1 à L. 231-8, et celles du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales.
 
 2. Dénomination.
 
-La dénomination de la société est :
-
-Société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable.
+La dénomination de la société est : ... Société anonyme coopérative de production d'habitations à loyer modéré, société à
+capital variable.
 
 3. Objet social.
 
-1° A titre principal, et dans le cadre de l'article L. 411-1 du code de la construction et de l'habitation, la société a pour
-objet :
+La société a pour objet :
 
-- d'assister, à titre de prestataires de services, des personnes physiques et des sociétés de construction, constituées en
-application du titre Ier du livre II du code de la construction et de l'habitation, pour la réalisation et la gestion de
-programmes de construction en accession à la propriété ;
+1° D'assister, à titre de prestataire de services, des personnes physiques et des sociétés de construction constituées en
+application du titre Ier du livre II du code de la construction et de l'habitation, pour la réalisation et la gestion
+d'immeubles d'habitation ou à usage professionnel et d'habitation ou destinés à cet usage en accession à la propriété ainsi
+que pour la réalisation de travaux portant sur des immeubles existants et destinés à un usage d'habitation ou à un usage
+professionnel et d'habitation ;
 
-- en vue de l'accession à la propriété, de construire, acquérir, réaliser des travaux, vendre et gérer des immeubles à usage
-d'habitation ou à usage professionnel ou d'habitation ou destinés à cet usage, soit en qualité de maître d'ouvrage, soit par
-l'intermédiaire de sociétés civiles de construction ayant pour objet l'accession sociale à la propriété ;
-
-- d'assister, à titre de prestataires de services, des personnes physiques ou morales en vue de la réalisation de tous
-travaux portant sur des immeubles existants et destinés à un usage d'habitation ou à un usage professionnel et d'habitation ;
-
-- de réaliser des lotissements ;
-
-- de réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L. 421-1 du code de la
+2° De réaliser ou d'acquérir et d'améliorer, soit en qualité de maître d'ouvrage, soit par l'intermédiaire de sociétés
+civiles de construction mentionnées au précédent alinéa, en vue de leur vente à des personnes physiques, à titre de résidence
+principale, et de gérer, notamment en qualité de syndic, des immeubles à usage d'habitation ou à usage professionnel et
+d'habitation respectant les prix de vente maxima fixés en application du III de l'article R. 443-34 du code précité. Toute
+opération réalisée en application du présent alinéa doit faire l'objet d'une garantie de financement et d'une garantie
+d'acquisition des locaux non vendus dans les conditions fixées aux articles R. 422-9-2 à R. 422-9-5 du code de la
 construction et de l'habitation ;
 
-- de consentir des prêts aidés par l'Etat au profit de ses membres personnes physiques et des membres personnes physiques de
-sociétés coopératives de construction et, en complément du prêt principal ci-dessus défini, de consentir un prêt
-complémentaire à ces mêmes personnes physiques ;
+3° En vue de leur location-accession dans les conditions fixées par la loi n° 84-595 du 12 juillet 1984 modifiée définissant
+la location-accession à la propriété immobilière, de construire, acquérir, réaliser des travaux et gérer des immeubles à
+usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III
+de l'article R. 443-34 du code de la construction et de l'habitation ;
 
-- de réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
-gestion ou pour les populations logées dans le patrimoine d'autres organismes de logement social.
+4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L. 421-1 du code de la
+construction et de l'habitation ;
 
-Toute opération réalisée en application du troisième tiret de la présente clause 3-1° doit faire l'objet d'une garantie de
-financement et d'une garantie d'acquisition des locaux non vendus, dans les conditions fixées aux articles R. 422-9-2 à R.
-422-9-5 du code de la construction et de l'habitation.
+5° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire des personnes en difficulté et les donner en
+location à des organismes agréés par le préfet de département du lieu de situation de ces hôtels ;
 
-2° La société a également pour objet, à titre accessoire :
+6° En vue de leur location, de construire, acquérir, améliorer, aménager, assainir, réparer et gérer, dans les conditions
+prévues par les livres III et IV du code de la construction et de l'habitation, des habitations collectives ou individuelles
+avec leurs jardins, dépendances ou annexes et, éventuellement, lorsque ces habitations forment un ensemble, des locaux à
+usage commun ou des installations nécessaires à la vie économique et sociale de cet ensemble ;
 
-- de gérer les sociétés coopératives de construction jusqu'au complet remboursement des emprunts non transférables aux
-associés et les programmes de construction qu'elles ont réalisés ;
+7° De gérer les immeubles à usage principal d'habitation appartenant à d'autres organismes d'habitations à loyer modéré ;
 
-- de gérer les sociétés anonymes d'habitations à loyer modéré de location-attribution, ainsi que les programmes de
-construction qu'elles ont réalisés ;
+8° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un
+groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux,
+à des organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
+association ;
 
-- d'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
+9° D'être syndic de copropriété d'immeubles bâtis, construits ou acquis par un autre organisme d'habitations à loyer modéré,
+une collectivité locale, une société d'économie mixte, un organisme sans but lucratif, une société civile coopérative de
+construction placée sous son égide ou sous celle d'un autre organisme d'habitations à loyer modéré, et d'exécuter des
+fonctions d'administrateur de biens pour les mêmes immeubles ;
+
+10° De réaliser des lotissements ;
+
+11° De réaliser, pour son compte en vertu d'une convention passée avec une collectivité territoriale ou un établissement
+public de coopération intercommunale compétent en matière d'aménagement, les actions ou opérations d'aménagement définies par
+le code de l'urbanisme ;
+
+12° De réaliser les actions ou opérations d'aménagement définies par le code de l'urbanisme pour le compte de tiers
+lorsqu'elle y a été autorisée dans les conditions prévues à l'article R. 422-9 du code de la construction et de l'habitation.
+Dans ce cas, les dispositions des articles L. 443-14 et L. 451-5 de ce code ne sont pas applicables aux cessions d'immeubles
+rendues nécessaires par la réalisation de ces actions ou opérations ;
+
+13° De réaliser des prestations de services pour le compte d'associations ou d'organismes oeuvrant dans le domaine du
+logement ou de personnes physiques ;
+
+14° Avec l'accord du maire de la commune d'implantation et celui du préfet donnés dans les conditions fixées à l'article R.
+442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
+dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ;
+
+15° D'acquérir des lots dans des copropriétés mentionnées au 13° ci-dessus qui font l'objet d'un plan de sauvegarde en
+application de l'article L. 615-1 du code de la construction et de l'habitation. La revente de ces lots n'est pas soumise aux
+dispositions du chapitre III du titre IV du livre IV de ce code mais requiert l'avis préalable du service des domaines. La
+location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du livre IV du même code,
+soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
+et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du loyer ne peut excéder les
+plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts. En
+outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux contrats de location
+qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur ;
+
+16° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
+
+17° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
+gestion ou pour les populations logées dans le patrimoine d'autres organismes d'habitations à loyer modéré ;
+
+18° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
+
+19° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
+fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
+
+20° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
 et l'aménagement de terrains qu'elle pourra ultérieurement céder à ces personnes ;
 
-- d'être syndic de copropriété d'immeubles bâtis, construits ou acquis, soit par la société, soit par un autre organisme
-d'habitations à loyer modéré, soit par une collectivité locale, soit par une société d'économie mixte, soit par un organisme
-sans but lucratif, soit par une société civile coopérative de construction placée sous son égide ou sous celle d'un autre
-organisme d'habitations à loyer modéré, et d'exécuter des fonctions d'administrateur de biens pour les mêmes immeubles.
+21° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
+construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001), ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
+association, des immeubles à usage principal d'habitation destinés à la location ;
 
-- de réaliser pour son compte ou pour celui des sociétés visées ci-dessus, à titre d'accessoire à un programme d'habitations
-à loyer modéré, des locaux à usage commun et toutes opérations de construction nécessaires à la vie économique et sociale de
-ce programme ;
+22° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
+finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
+association ;
 
-- de réaliser pour le compte de ses membres, à titre de prestataire de services, toutes opérations de restauration,
-d'amélioration ou d'agrandissement d'immeuble à usage principal d'habitation ;
-
-- de remplir les missions de mandataire ou de conducteur d'opération qui lui sont autorisées par la loi n° 85-704 du 12
-juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'ouvrage privée, pour le compte
-des collectivités locales, leurs établissements publics, leurs groupements ou les syndicats mixtes, dans la limite des
-compétences définies à l'article L. 411-1 du code de la construction et de l'habitation ;
-
-- de servir de prestataire de service, le cas échéant dans les conditions définies par la loi du 12 juillet 1985 précitée,
-aux organismes d'habitations à loyer modéré, ainsi qu'à leurs groupements ou leurs filiales, aux organismes du secteur de
-l'économie sociale visés par la loi du 20 juillet 1983 précitée, aux collectivités territoriales, à leurs groupements et aux
-sociétés d'économie mixte locales, et à toute personne physique ou morale réalisant des constructions nécessaires à la vie
-économique et sociale accessoires à un programme d'habitations visé au dernier alinéa de l'article L. 411-1 du code de la
-construction et de l'habitation ;
-
-- de réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer modéré
-sont ou seront habilitées par les textes législatifs ou réglementaires s'y rapportant.
-
-- acquérir des lots dans les copropriétés mentionnées au onzième alinéa de l'article L. 422-3. La revente de ces lots n'est
-pas soumise aux dispositions du chapitre III du titre IV du livre IV du présent code mais requiert l'avis préalable du
-service des domaines. La location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du
-livre IV du présent code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989 tendant à
-améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du
-loyer ne peut excéder les plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de l'article 31 du code
-général des impôts. En outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux
-contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur.
-
-3° Lorsque la société est titulaire de l'agrément prévu à l'article L. 422-3-2 du code de la construction et de l'habitation,
-elle a également pour objet, à titre accessoire :
-
-- de construire, d'acquérir, d'aménager, de restaurer, d'agrandir, d'améliorer et de gérer des immeubles à usage d'habitation
-ou à usage professionnel et d'habitation, en vue de la location.
+23° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
+modéré sont ou seront habilitées par les textes législatifs s'y rapportant.
 
 4. Compétence territoriale - Siège social.
 
@@ -90558,7 +90563,7 @@ Le siège social de la société est fixé à : ....
 
 Le capital est variable, et entièrement libéré lors de la souscription de parts.
 
-Le capital statutaire est fixé à la somme de ... F.
+Le capital statutaire est fixé à la somme de ... euros.
 
 Il ne peut être inférieur à celui exigé par la loi du 10 septembre 1947 précitée (art. 27 et 27 bis), ni supérieur au plafond
 d'émission fixé par l'assemblée générale extraordinaire.
@@ -90568,8 +90573,10 @@ travail, qui doivent détenir, en application de l'article 3 bis de la loi n° 4
 cas, au moins 65 ou au moins 51 p. 100 des droits de vote aux assemblées générales de la société, ne peuvent être que les
 suivantes :
 
-- les personnes physiques ayant recours aux services de la société, dans le cadre des activités qu'elle exerce en application
-des clauses 3 (1°) et 3 (3°) ;
+- les personnes physiques ayant recours aux services de la société ;
+
+- les accédants à la propriété qui acquièrent leur logement auprès d'une société constituée en application du titre Ier du
+livre II du code de la construction et de l'habitation ;
 
 - les sociétés civiles coopératives de construction ;
 
@@ -90616,33 +90623,48 @@ présents statuts.
 Les actionnaires ou associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les
 tiers de toutes les obligations existant au jour de leur retrait ou de leur exclusion.
 
-7. Cession d'actions.
+7. Cession de parts sociales.
 
-Le prix de cession des actions ne peut dépasser celui qui est fixé pour les sociétés d'habitations à loyer modéré en
-application de l'article L. 423-4 du code de la construction et de l'habitation, sauf dérogation accordée dans les conditions
-prévues par cet article.
+Le prix de cession des parts sociales ne peut dépasser celui qui est fixé en application de l'article L. 423-4 du code de la
+construction et de l'habitation, sauf dérogation accordée dans les conditions prévues par cet article.
 
 Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
-ascendant ou à un descendant, le transfert d'actions à un tiers, à quelque titre que ce soit, doit être autorisé par le
-conseil d'administration qui n'est pas tenu de faire connaître les motifs de son agrément ou de son refus.
+ascendant ou à un descendant, le transfert de parts sociales à un tiers, à quelque titre que ce soit, doit être autorisé par
+(le conseil d'administration) (le conseil de surveillance) (1) qui n'est pas tenu de faire connaître les motifs de son
+agrément ou de son refus.
 
 Le refus d'agrément peut résulter soit d'une décision expresse, soit d'un défaut de réponse dans un délai de trois mois à
 compter de la date de réception de la demande.
 
-En cas de refus d'agrément, le conseil d'administration est tenu, dans un délai de trois mois à compter de son refus, de
-faire acquérir les actions par une ou plusieurs personnes qu'il aura lui-même désignées. En ce cas, le prix ne peut être
-inférieur à celui de la cession non autorisée.
+En cas de refus d'agrément, (le conseil d'administration) (le directoire) (1) est tenu, dans un délai de trois mois à compter
+de son refus, de faire acquérir les parts sociales par une ou plusieurs personnes qu'il aura lui-même désignées. En ce cas,
+le prix ne peut être inférieur à celui de la cession non autorisée.
 
 Si, à l'expiration du délai sus-indiqué, l'achat n'est pas réalisé, l'agrément est considéré comme donné, sauf prorogation du
 délai par décision de justice à la demande de la société.
 
+(1) Rayer la mention inutile.
+
 8. Organes dirigeants de la société.
 
-La société est administrée par un conseil d'administration ou par un directoire et un conseil de surveillance.
+Version applicable aux sociétés dotées d'un conseil d'administration (1) :
 
-Lorsque la société exerce une activité de gestion locative telle que prévue à l'article L. 422-3, le conseil d'administration
-ou le conseil de surveillance comprend au moins un représentant des coopérateurs locataires désigné par l'assemblée
-générale ; la perte de la qualité de locataire met un terme au mandat de l'administrateur nommé en cette qualité.
+La société est administrée par un conseil d'administration.
+
+Lorsque la société exerce une activité de gestion locative telle que prévue à l'article L. 422-3 du code de la construction
+et de l'habitation, le conseil d'administration comprend au moins un représentant des coopérateurs locataires désigné par
+l'assemblée générale. La perte de la qualité de locataire met un terme au mandat de l'administrateur nommé en cette qualité.
+
+Version applicable aux sociétés dotées d'un directoire et d'un conseil de surveillance (1) :
+
+La société est administrée par un directoire et un conseil de surveillance.
+
+Lorsque la société exerce une activité de gestion locative telle que prévue à l'article L. 422-3 du code de la construction
+et de l'habitation, le conseil de surveillance comprend au moins un représentant des coopérateurs locataires désigné par
+l'assemblée générale. La perte de la qualité de locataire met un terme au mandat de membre du conseil de surveillance nommé
+en cette qualité.
+
+(1) La société devra opter pour l'une de ces deux versions.
 
 9. Situation des administrateurs et membres du conseil de surveillance.
 
@@ -90672,20 +90694,20 @@ Trésor.
 
 13. Documents transmis à l'administration.
 
-Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article 157 de la loi
-du 24 juillet 1966 précitée, la société adresse au préfet du département de son siège, à la Caisse des dépôts et
-consignations et au ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée
-générale des actionnaires, ainsi que le compte rendu de celle-ci.
+Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article L. 225-100 du
+code de commerce, la société adresse au préfet du département de son siège, à la Caisse des dépôts et consignations et au
+ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale des
+actionnaires, ainsi que le compte rendu de celle-ci.
 
 En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
 adressée dans les même conditions.
 
 14. Résultats de l'exercice.
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 347 de la loi du 24 juillet 1966 précitée, il peut
-être distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14
-de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur
-d'un premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être
+distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la
+loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un
+premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
 
 15. Réserves.
 
@@ -90726,9 +90748,9 @@ construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conf
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation annexe à l'article R422-6
+	  - Code de la construction et de l'habitation annexe à l'article R422-9
 
 	**Codifié par**:
 
@@ -90736,17 +90758,134 @@ construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conf
 
 	**Créé par**:
 
-	  - Décret n°91-385 1991-04-23 annexe JORF 24 avril 1991
-
-	**Modifié par**:
-
-	  - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 7 () JORF 14 septembre 2002
-	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
-
-	**Transféré par**:
-
 	  - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
+
+
+## Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
+
+###### Article Annexe à l'article R422-7
+
+Les clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré sont
+identiques à celles des statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré, à l'exception
+des clauses suivantes :
+
+2° Dénomination.
+
+La dénomination de la société est : ...  société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré,
+société à capital variable.
+
+5° Capital social.
+
+Le capital est variable et entièrement libéré lors de la souscription de parts sociales.
+
+Le capital statutaire est fixé à la somme de ... euros. Il ne peut être inférieur à celui exigé par la loi du 10 septembre
+1947 précitée (article 27 et 27 bis), ni supérieur au plafond d'émission fixé par l'assemblée générale extraordinaire.
+
+Les associés sont répartis entre, au moins, les trois catégories d'associés suivantes :
+
+- les salariés de la coopérative regroupant les salariés de la société et les fonds communs de placement de valeurs
+mobilières qui leur sont réservés ;
+
+- les personnes bénéficiant habituellement à titre gratuit ou onéreux des activités de la coopérative, regroupant notamment
+les personnes physiques ayant recours aux services de la société dans le cadre des activités qu'elle exerce en application de
+la clause type 3 "Objet social", les sociétés civiles de construction, les sociétés de construction constituées en
+application du titre Ier du livre II du code de la construction et de l'habitation, ainsi que, sur leur demande, les
+accédants à la propriété qui acquièrent leur logement auprès d'une société de construction constituée, en application des
+dispositions précitées, sous l'égide de la société ;
+
+- les collectivités publiques et leurs groupements.
+
+Les réductions de capital effectuées dans les cas prévus au dernier alinéa de l'article L. 423-5 du code de la construction
+et de l'habitation doivent être réalisées dans le respect des conditions fixées par cet article.
+
+La société ne peut procéder à l'amortissement de son capital.
+
+6° Retraits - Exclusions.
+
+Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou
+l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni
+en dessous du seuil fixé à l'article 13 de la loi du 10 septembre 1947 précitée. Il ne peut en outre avoir pour effet de
+réduire le nombre des associés à moins de 7.
+
+Le retrait d'associés n'ayant pas recours aux services de la société ou dont la société n'utilise pas le travail ne peut être
+réalisé qu'à l'issue d'un délai d'un an après que (le conseil d'administration) (le conseil de surveillance) de la société en
+ait été informé par pli recommandé avec avis de réception.
+
+L'exclusion d'associés ne peut être prononcée que par une décision d'assemblée générale prise dans les conditions de quorum
+et de majorité d'une assemblée générale extraordinaire.
+
+L'exclusion est notifiée à l'intéressé par la société, par pli recommandé avec demande d'avis de réception ; il dispose d'un
+délai de six mois à compter de cette notification pour céder ses parts sociales dans les conditions fixées par la clause 7
+des présents statuts.
+
+Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes
+les obligations existant au jour de leur retrait ou de leur exclusion.
+
+9° Situation des administrateurs et membres du conseil de surveillance.
+
+Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
+conditions prévues à l'article R. 421-56 du code de la construction et de l'habitation. Toutefois, tout associé salarié de la
+société peut être nommé en qualité de membre du conseil d'administration ou du conseil de surveillance sans perdre le
+bénéfice de son contrat de travail.
+
+10° Expression des voix aux assemblées.
+
+A chaque catégorie d'associés correspond un même collège d'associés. Les associés d'un même collège peuvent être répartis en
+sections délibérant séparément.
+
+Aux assemblées générales, le droit de vote s'exprime par l'intermédiaire des délégués des collèges dans les conditions
+prévues à l'article 19 octies de la loi du 10 septembre 1947 précitée.
+
+Le nombre de voix attribuées à chaque collège est fixé dans les conditions suivantes :
+
+- collège des salariés : ... (1) ;
+
+- collège des personnes bénéficiant habituellement à titre gratuit ou onéreux des activités de la coopérative : ... (1) ;
+
+- collège des collectivités publiques et leurs groupements :
+
+... (1) ;
+
+- collège ... : ... (1).
+
+Le collège des salariés ne peut détenir plus de 15 % des droits de vote.
+
+(1) A compléter par la société.
+
+15° Réserves.
+
+Conformément à l'article L. 423-5 du code de la construction et de l'habitation et sous réserve des exceptions prévues par
+cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporés au capital.
+
+Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au
+profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation propre aux
+sociétés coopératives d'HLM, et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des
+présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la
+société et à parer aux éventualités.
+
+16° Attribution de l'actif.
+
+Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur
+la liquidation décidera, après extinction du passif et remboursement du capital effectivement versé, d'attribuer l'actif net
+subsistant soit à d'autres coopératives ou unions de coopératives, soit à des oeuvres d'intérêt général ou professionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 1947-09-10 art. 27, art. 13, art. 19 octies
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 13 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 27 (M)
+	  - Code de la construction et de l'habitation L423-5, R421-56
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 11 () JORF 15 octobre 2004
 
 
 ## Statuts types des sociétés anonymes de crédit immobilier.
@@ -91219,9 +91358,9 @@ Il est formé entre les souscripteurs des actions émises dans les conditions pr
 de location-attribution d'habitations à loyer modéré.
 
 Cette société est constituée sous la forme de société anonyme coopérative à capital variable, régie par les dispositions du
-livre IV du code de la construction et de l'habitation, par la loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de
-la coopération, ainsi que par les dispositions du code civil et par la loi n° 66-537 du 24 juillet 1966 modifiée sur les
-sociétés commerciales.
+livre IV du code de la construction et de l'habitation ainsi que par les dispositions non contraires de la loi n° 47-1775 du
+10 septembre 1947 modifiée portant statut de la coopération, du code civil et du code de commerce, notamment des articles L.
+231-1 à L. 231-8 de ce même code, et par celles du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales.
 
 2. Dénomination.
 
@@ -91247,9 +91386,9 @@ Le siège social de la société est fixé à : ....
 
 Le capital social est variable.
 
-Le capital initial à souscrire est fixé à la somme de ... F.
+Le capital initial à souscrire est fixé à la somme de ... euros.
 
-Il est divisé en ... actions de chacune ... F.
+Il est divisé en ... actions de chacune ... euros.
 
 Les associés qui n'utilisent pas les services de la société ne peuvent détenir plus de 35 p. 100 du total des droits de vote.
 Ces associés disposent ensemble d'un nombre de voix proportionnel au capital qu'ils détiennent. Ils répartissent ces voix
@@ -91293,7 +91432,8 @@ attribution.
 La société est administrée par un conseil d'administration.
 
 Les membres du conseil d'administration, même ceux qui exercent les fonctions de directeur général de la société, exercent
-leurs fonctions à titre gratuit.
+leurs fonctions à titre gratuit dans les conditions prévues à l'article R. 421-56 du code de la construction et de
+l'habitation.
 
 8. Retraits et exclusions - Résiliation du contrat de location-attribution.
 
@@ -91370,20 +91510,20 @@ Nota : La clause 11 est obligatoire pour les sociétés qui ont constitué des u
 
 12. Documents transmis à l'administration.
 
-Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article 157 de la loi
-du 24 juillet 1966 précitée, la société adresse au préfet du département de son siège, à la Caisse des dépôts et
-consignations et au ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée
-générale des actionnaires, ainsi que le compte rendu de celle-ci.
+Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article L. 225-100 du
+code de commerce, la société adresse au préfet du département de son siège, à la Caisse des dépôts et consignations et au
+ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale des
+actionnaires, ainsi que le compte rendu de celle-ci.
 
 En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
 adressée dans les mêmes conditions.
 
 13. Résultats de l'exercice.
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 347 de la loi du 24 juillet 1966 précitée, il peut
-être distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14
-de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur
-d'un premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être
+distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la
+loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un
+premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
 
 14. Réserves.
 
@@ -91415,13 +91555,9 @@ Les statuts de la société sont transmis au préfet du département du siège d
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°91-385 1991-04-23 annexe JORF 24 avril 1991
-
 	**Modifié par**:
 
-	  - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 12 () JORF 15 octobre 2004
 
 
 ## Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.
