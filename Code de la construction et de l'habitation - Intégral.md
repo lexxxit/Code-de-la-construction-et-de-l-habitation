@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-10-26
+Version Consolidée au 1984-12-05
 
 # Partie législative
 
@@ -37278,6 +37278,284 @@ La présente section n'est pas applicable aux départements d'outre-mer.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+### Titre III : Prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
+
+#### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.
+
+##### Régime des opérations d'accession à la propriété aidée comportant un contrat de location-accession à la propriété immobilière régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière.
+
+###### Article R331-59-8
+
+Dans les limites et conditions fixées par la présente section, sauf dispositions contraires expresses prévues par la présente
+sous-section, les prêts aidés par l'Etat destinés à l'accession à la propriété définis à l'article R. 331-32 peuvent être
+accordés pour financer des logements faisant l'objet d'un contrat régi par les dispositions de la loi n° 84-595 du 12 juillet
+1984 prévoyant un paiement fractionné du prix et dont la durée n'excède pas huit ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation R331-32 à R331-62
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-10 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-11 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-13 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-15 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-9 (V)
+	  - Code de la construction et de l'habitation. - art. R351-2-1 (V)
+
+
+###### Article R331-59-9
+
+Peuvent bénéficier des prêts visés à l'article R. 331-59-8 les personnes physiques ou morales qui construisent ou acquièrent
+et améliorent des logements dont le transfert de propriété est prévu au profit de personnes physiques dans les conditions
+prévues audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-13 (V)
+
+
+###### Article R331-59-10
+
+Les prêts visés à l'article R. 331-59-8 ne peuvent être attribués [*condition*] que pour les logements n'ayant pas fait
+l'objet d'occupation depuis l'achèvement des travaux de construction ou d'amélioration.
+
+Toutefois, cette disposition ne s'applique pas aux logements ayant fait l'objet d'une première occupation au titre d'un
+contrat conforme aux dispositions de l'article R. 331-59-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+
+
+###### Article R331-59-11
+
+Les prêts prévus à l'article R. 331-59-8 sont attribués pour des logements destinés à être occupés par des personnes dont
+l'ensemble des ressources [*conditions*], à la date du contrat de location-accession, est au plus égal à un montant déterminé
+par arrêté des ministres chargés de la construction et de l'habitation et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 1980 - art. 1 (V)
+	  - Arrêté du 31 décembre 1980 - art. 2 (V)
+	  - Arrêté du 31 décembre 1980 - art. 3 (V)
+	  - Arrêté du 15 juin 1993 - art. 4 (V)
+	  - Arrêté du 21 décembre 1993 - art. 1 (V)
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+
+
+###### Article R331-59-12
+
+Le prêt [*montant*] accordé est au plus égal à 90 p. 100 du prix de vente prévisionnel défini à l'article R. 331-52 (1°)
+majoré, selon les dispositions prévues au 5° dudit article, entre la date de la demande de décision favorable et la date de
+la décision de maintien prévue à l'article R. 331-59-13.
+
+Toutefois, lorsque la vente du logement est soumise à la taxe sur la valeur ajoutée et que le vendeur exerce le droit à
+déduction prévu à l'article 271-1 du code général des impôts, le prêt accordé est au plus égal à 90 p. 100 du prix visé à
+l'alinéa précédent majoré du montant de la taxe sur la valeur ajoutée grevant la différence entre, d'une part, le prix
+déterminé :
+
+- soit pour la date à compter de laquelle l'indemnité majorée prévue par l'article 11 (alinéa 3) de la loi n° 84-595 du 12
+juillet 1984 est susceptible d'être demandée ;
+
+- soit pour la date d'expiration du délai de cinq ans mentionné à l'article 257-7-2° du code général des impôts ;
+
+- soit pour la date correspondant au terme du contrat si elle est antérieure,
+
+et, d'autre part, le prix visé au premier alinéa.
+
+Dans ce cas, le prêt est versé en deux fractions successives. La première, versée au moment de la décision de maintien, est
+au plus égale à 90 p. 100 du prix visé au premier alinéa, diminué du montant de la taxe sur la valeur ajoutée effectivement
+déduite en application de l'article 271-1 du code général des impôts. La seconde, versée :
+
+- soit à la date de la levée d'option ;
+
+- soit à la date de laquelle l'indemnité majorée prévue à l'article 11 de la loi n° 84-595 du 12 juillet 1984 est susceptible
+d'être demandée ;
+
+- soit au plus tard le 25 du mois suivant celui de l'expiration du délai de cinq ans mentionné à l'article 257-7-2° du code
+général des impôts,
+
+est au plus égale à 90 p. 100 du montant de la taxe sur la valeur ajoutée effectivement payée par le vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12 art. 11
+	  - Code général des impôts 257-7-2°
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-13 (V)
+
+
+###### Article R331-59-13
+
+Par dérogation aux dispositions de l'article R. 331-59 et sur autorisation du commissaire de la République, le préfinancement
+relatif aux logements visés à l'article R. 331-59-8 est maintenu aux bénéficiaires des prêts visés à l'article R. 331-59-9.
+
+L'attribution du prêt [*condition*] est subordonnée à la production, à l'appui de la demande de maintien susvisée, d'un
+tableau indiquant le prix définitif du logement toutes taxes comprises à chaque date anniversaire du contrat et figurant dans
+le contrat de location-accession visé à l'article R. 331-59-8. Ce prix [*calcul*] est au plus égal au prix visé au premier
+alinéa de l'article R. 331-59-12 corrigé selon des modalités fixées par le ministre chargé de la construction et de
+l'habitation destinées à tenir compte des conditions financières de réalisation de l'opération. Il ne pourra être rectifié
+qu'en application de dispositions modifiant le taux de la taxe sur la valeur ajoutée applicable à l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-9 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-12 (V)
+
+
+###### Article R331-59-14
+
+Lors de la levée d'option par l'accédant ou du transfert de propriété à un autre acquéreur, le prêt est soit transféré pour
+le montant du capital restant dû à l'accédant ou l'acquéreur, soit maintenu à l'organisme s'il en assure la gestion.
+
+Toutefois, le montant du prêt transféré au bénéfice de l'accédant ou maintenu à l'organisme ne peut excéder la différence
+entre, d'une part, le prix du logement à la date de la levée d'option et, d'autre part, le montant de la fraction de la
+redevance imputable sur le prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-15 (V)
+
+
+###### Article R331-59-15
+
+Si le prêt n'est pas transféré ou maintenu conformément aux dispositions de l'article R. 331-59-14, il peut être maintenu au
+bénéficiaire initial.
+
+Celui-ci est alors tenu soit de consentir un nouveau contrat conforme aux dispositions de l'article R. 331-59-8, soit de
+louer le logement sous réserve de la passation d'une convention conforme à la convention type annexée à l'article R. 353-200
+du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation R331-58-14
+	  - Code de la construction et de l'habitation. - art. R353-200 (M)
+
+
+###### Article R331-59-16
+
+La redevance prévue au contrat comporte une partie correspondant au droit de l'accédant à la jouissance du logement et une
+partie correspondant au paiement anticipé du prix. Elle peut être révisée à chaque date anniversaire du contrat dans la
+limite des variations constatées de l'indice prévu à l'article 7 de la loi n° 84-595 du 12 juillet 1984.
+
+La partie de la redevance correspondant à la jouissance du logement ne peut, pour la première année d'occupation, dépasser
+les valeurs fixées par le ministre chargé de la construction et de l'habitation. Son montant peut être révisé à chaque date
+anniversaire du contrat dans la limite des variations constatée de l'indice visé au premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 du 12 juillet 1984 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-2-1 (V)
+
+
+###### Article R331-59-17
+
+Les dispositions des articles R. 331-39 (1° et 3°), R. 331-48, R. 331-53, R. 331-55, R. 331-59-1 à R. 331-59-7 et, pour ce
+qui concerne la période précédant le transfert de propriété, les dispositions de l'article R. 331-41 ne sont pas applicables
+aux logements visés par la présente sous-section.
+
+Il en est de même des dispositions de l'article R. 331-42, à l'exception du cas où le transfert de propriété du logement
+intervient au bénéfice d'un acquéreur autre que l'accédant titulaire du contrat de location-accession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation R331-59-1 à R331-59-7
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+	  - Code de la construction et de l'habitation. - art. R331-53 (M)
+	  - Code de la construction et de l'habitation. - art. R331-55 (M)
 
 
 ### Titre V : Aide personnalisée au logement
