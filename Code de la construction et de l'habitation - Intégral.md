@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-11-01
+Version Consolidée au 1995-12-31
 
 # Partie législative
 
@@ -7938,7 +7938,7 @@ résidences principales au sens du II de l'article 1411 du code général des im
 logements construits sur la commune au cours des dix années qui ont précédé l'engagement.
 
 Les communes qui ont pris au cours de l'année 1995 l'engagement triennal mentionné ci-dessus et qui ne sont pas dotées d'un
-programme local de l'habitat au 1er janvier 1996 redeviennent à cette date redevables de la contribution prévue à l'article
+programme local de l'habitat au 1er juillet 1996 redeviennent à cette date redevables de la contribution prévue à l'article
 L. 302-7.
 
 Sont considérés comme logements sociaux pour l'application du présent article :
@@ -7993,7 +7993,7 @@ commençant le 1er janvier 1995.
 
 	**Modifié par**:
 
-	  - Loi n°95-74 du 21 janvier 1995 - art. 8 () JORF 24 janvier 1995
+	  - Loi - art. 35 () JORF 31 décembre 1995
 
 	**Cité par**:
 
@@ -15147,10 +15147,16 @@ qu'elle a prises en charge à compter du 1er janvier 1966.
 
 La caisse de garantie du logement social est substituée à la caisse de prêts aux organismes d'habitations à loyer modéré à
 compter du 1er janvier 1986 pour la gestion des prêts et la bonne fin des financements consentis par cette dernière jusqu'au
-31 décembre 1985 dans des conditions fixées par décret en Conseil d'Etat
+31 décembre 1985 dans des conditions fixées par décret en Conseil d'Etat.
 
 La caisse de garantie du logement social est substituée de plein droit dans les droits et obligations de la caisse de prêts
 aux organismes d'habitations à loyer modéré à compter du 1er janvier 1986.
+
+A compter du 1er janvier 1996, la Caisse des dépôts et consignations est substituée à la Caisse de garantie du logement
+social pour la gestion des prêts et la bonne fin des financements consentis par la Caisse de prêts aux organismes
+d'habitations à loyer modéré jusqu'au 31 décembre 1985. La Caisse des dépôts et consignations (section des fonds d'épargne)
+est substituée de plein droit dans les droits et obligations de la Caisse de garantie du logement social relatifs à ces
+financements à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -15164,7 +15170,7 @@ aux organismes d'habitations à loyer modéré à compter du 1er janvier 1986.
 
 	**Modifié par**:
 
-	  - Loi n°85-695 1985-07-11 art. 21 II jorf 12 juillet Rectificatif JORF 13 juillet 1985
+	  - Loi - art. 3 (V) JORF 31 décembre 1995
 
 	**Cité par**:
 
