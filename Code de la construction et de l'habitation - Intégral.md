@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-02-05
+Version Consolidée au 1981-05-15
 
 # Partie législative
 
@@ -25926,30 +25926,46 @@ collectivités locales intéressées les rapports de contrôle accompagnés de s
 Pour l'application de l'article L. 313-1 sont considérés comme occupant au minimum dix salariés, les employeurs qui ont
 occupé des salariés dont le nombre mensuel moyen a été au moins égal à dix pendant l'année civile écoulée.
 
-Toutefois, ceux de ces employeurs qui ont occupé des salariés à temps incomplet ou d'une manière intermittente, ou
-travaillant à domicile, ne sont soumis à l'obligation de participer à l'effort de construction que si le montant total des
-salaires versés pendant l'année a été au moins égal à 180 fois le salaire mensuel minimum interprofessionnel de croissance
-moyen. En cas de début d'exploitation, ce chiffre est réduit, pour l'année considérée, au prorata du nombre de mois pendant
-lesquels l'activité a été exercée.
+Toutefois, ceux de ces employeurs qui ont occupé des salariés d'une manière intermittente, ou travaillant à domicile, ne sont
+soumis à l'obligation de participer à l'effort de construction que si le montant total des salaires versés pendant l'année a
+été au moins égal à 180 fois le salaire mensuel minimum interprofessionnel de croissance moyen. En cas de début
+d'exploitation, ce chiffre est réduit, pour l'année considérée, au prorata du nombre de mois pendant lesquels l'activité a
+été exercée.
+
+Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
+personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
+travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie
+d'établissement où il est employé.
+
+**Nota:**
+
+Décret 81-540 1981-05-12 art. 4 : " Les dispositions ci-dessus s'appliquent aux investissements qui doivent être réalisés à
+compter du 1er janvier 1983 en fonction des salaires payés au cours de l'année 1982. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°81-540 1981-05-12
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 art. 4 : champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°81-540 du 12 mai 1981 - art. 4 () JORF 15 MAI 1981
 
 	**Cité par**:
 
 	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (M)
 	  - Code de la consommation - art. R315-4 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L313-1 (M)
 
 
 ###### Article R*313-2
