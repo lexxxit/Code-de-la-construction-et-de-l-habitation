@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-02-12
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -1348,8 +1348,8 @@ types prévues par l'article L. 310-7 du code des assurances.
 ###### Article L111-34
 
 Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux articles L.
-111-28 à L. 111-30 sera puni d'un emprisonnement de dix jours à six mois et d'une amende de 2000 F à 500000 F ou de l'une de
-ces deux peines seulement.
+111-28 à L. 111-30, sera puni d'un emprisonnement de six mois et d'une amende de 500 000 F ou de l'une de ces deux peines
+seulement. 
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
 elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
@@ -1364,6 +1364,19 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code des assurances L241-1 à L242-1
+	  - Code de la construction et de l'habitation L111-28 à L111-30
 
 
 ##### Section 9 : Dispositions communes.
@@ -2247,14 +2260,22 @@ article. Dans ce cas, le préfet reçoit, au lieu et place du maire, les avis et
 ###### Article L152-3
 
 En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, une amende de
-[*montant*] 1500 à 300000 F et un emprisonnement de [*durée*] quinze jours à trois mois, ou l'une de ces deux peines
-seulement, sont prononcés par le tribunal contre les personnes mentionnées à l'article L. 152-4 (2e alinéa).
+300 000 F et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
+les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -2267,52 +2288,47 @@ seulement, sont prononcés par le tribunal contre les personnes mentionnées à 
 
 ###### Article L152-4
 
-L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4
-[*construction et sécurité*], L. 111-7, L. 111-8, L. 111-9 [*caractéristiques thermiques*], L. 125-1, L. 125-3 et L. 131-4
-[*équipement, fonctionnement et contrôle des installations consommant de l'énergie*], par les règlements pris pour leur
-application ou par les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 1500 F à
-300000 F. En cas de récidive, la peine d'amende sera de 3000 F à 500000 F et un emprisonnement d'un mois à six mois pourra en
-outre être prononcé. Le tribunal peut en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits de
-sa décision et, éventuellement, la diffusion d'un message, dont il fixe les termes, informant le public des motifs et du
-contenu de sa décision, dans un ou plusieurs journaux qu'il désigne. "
+L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4, L.
+111-7, L. 111-8, L. 111-9, L. 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par les
+autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 300 000 F. En cas de récidive, la
+peine d'amende sera à 500 000 F et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
+ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la diffusion
+d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs
+journaux qu'il désigne.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
 
 Ces peines sont également applicables :
 
-1. En cas d'inexécution, dans les délais prescrits, de tous travaux accessoires d'aménagement ou de démolition imposés par
+1° En cas d'inexécution, dans les délais prescrits, de tous travaux accessoires d'aménagement ou de démolition imposés par
 les autorisations visées au premier alinéa ;
 
-2. En cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des
+2° En cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des
 délais impartis pour le rétablissement des lieux dans leur état antérieur ou la réaffectation du sol à son ancien usage.
 
 Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
-Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 6000 F à
-15000 F [*montant (1)*].
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 25 000 F.
 
-En outre, un emprisonnement de onze jours à un mois [*durée*] pourra être prononcé.
-
-**Nota:**
-
-[*(1) taux maximum résultant de la loi 85-835 du 7 aôut 1985*]
+En outre, un emprisonnement d'un mois pourra être prononcé.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction L152-2
-	  - TXT_ASSOCIE: Code de la construction L152-5
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 	**Modifié par**:
 
-	  - Loi n°91-663 du 13 juillet 1991 - art. 8 ()
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 148 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -2328,9 +2344,10 @@ En outre, un emprisonnement de onze jours à un mois [*durée*] pourra être pro
 
 	**Cite**:
 
-	  - Code pénal 209 à 233 ]
+	  - Code pénal - art. 433-7 (M)
+	  - Code pénal - art. 433-8 (M)
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L131-4, L460-1, L125-1, L125-3
+	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L125-1, L125-3, L131-4, L460-1
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
@@ -2470,9 +2487,9 @@ de grande instance qui ordonnera, le cas échéant, l'expulsion de tous occupant
 
 ###### Article L152-10
 
-Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 151-1 sera puni d'une amende de 600 F à
-15000 F. En outre un emprisonnement de onze jours à un mois pourra être prononcé.
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 151-1 sera puni d'une amende de 25 000 F. En
+outre un emprisonnement d'un mois pourra être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -2480,13 +2497,20 @@ quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 149 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
-	  - Code pénal 209 A 233
+	  - Code pénal - art. 433-7 (M)
+	  - Code pénal - art. 433-8 (M)
 	  - Code de la construction et de l'habitation. - art. L151-1 (M)
 
 	**Anciens textes**:
@@ -2503,13 +2527,22 @@ quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article
 ###### Article L152-11
 
 Le propriétaire qui n'aura pas exécuté les travaux de ravalement dans les délais prévus aux articles L. 132-3 à L. 132-5 est
-puni d'une amende de 1000 F à 20000 F. En cas de récidive, l'amende sera de 5000 F à 30000 F.
+puni d'une amende de 25 000 F. En cas de récidive, l'amende sera de 50 000 F.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -5278,8 +5311,8 @@ articles L. 231-8, L. 231-9 et L. 231-13 sont applicables au contrat prévu au p
 ###### Article L241-1
 
 Toute personne qui aura exigé ou accepté un versement, un dépôt de fonds, une souscription ou une acceptation d'effets de
-commerce en violation des dispositions des articles L. 212-10, L. 212-11, L. 213-9, L. 222-5 et L. 231-4 sera punie d'un
-emprisonnement de deux mois à deux ans et d'une amende de 2000 F à 60000 F ou de l'une de ces deux peines seulement
+commerce en violation des dispositions des articles L. 212-10, L. 212-11, L. 213-9, L. 222-5 et du paragraphe II de l'article
+L. 231-4 sera punie d'un emprisonnement de deu x ans et d'une amende de 60 000 F ou de l'une de ces deux peines seulement
 [*sanction*].
 
 **Liens relatifs à cet article**
@@ -5301,7 +5334,7 @@ emprisonnement de deux mois à deux ans et d'une amende de 2000 F à 60000 F ou 
 
 	**Modifié par**:
 
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 3 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -5316,7 +5349,8 @@ emprisonnement de deux mois à deux ans et d'une amende de 2000 F à 60000 F ou 
 
 Toute personne qui, ayant reçu ou accepté un ou plusieurs versements, dépôts, souscriptions d'effets de commerce, à
 l'occasion d'un contrat de société ou de promotion immobilière soumis aux dispositions des titres Ier et II du présent livre,
-aura détourné tout ou partie de ces sommes sera punie des peines prévues à l'article 408 du code pénal [*sanction*].
+aura détourné tout ou partie de ces sommes sera punie des peines de l'abus de confiance prévues par les articles 314-1 et
+314-10 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -5334,9 +5368,14 @@ aura détourné tout ou partie de ces sommes sera punie des peines prévues à l
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 150 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
-	  - Code pénal 408
+	  - Code pénal - art. 314-1 (V)
+	  - Code pénal - art. 314-10 (V)
 
 
 ###### Article L241-3
@@ -5482,10 +5521,8 @@ n° 2000-912 du 18 septembre 2000.
 
 ###### Article L241-5
 
-Toute personne qui contreviendra à l'interdiction [*de participer à la fondation et la gestion de sociétés de construction ou
-de promotion immobilière, à la conclusion d'un contrat de promotion immobilière ou de construction d'une maison
-individuelle*] résultant des articles L. 241-3 et L. 241-4 sera punie d'un emprisonnement de six mois au moins de deux ans au
-plus et d'une amende de 2000 F à 150000 F [*sanction*] ou de l'une de ces deux peines seulement.
+Toute personne qui contreviendra à l'interdiction résultant des articles L. 241-3 et L. 241-4 sera punie d'un emprisonnement
+de deux ans et d'une amende de 150 000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -5496,6 +5533,10 @@ plus et d'une amende de 2000 F à 150000 F [*sanction*] ou de l'une de ces deux 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -5508,8 +5549,8 @@ plus et d'une amende de 2000 F à 150000 F [*sanction*] ou de l'une de ces deux 
 
 ###### Article L241-6
 
-Seront punies d'un emprisonnement d'un mois à cinq ans et d'une amende de 100 à 120000 F, ou de l'une de ces deux peines
-seulement [*sanction*], les infractions aux dispositions des articles L. 214-6 à L. 214-9.
+Seront punies d'un emprisonnement de cinq ans et d'une amende de 120 000 F, ou de l'une de ces deux peines seulement
+[*sanction*], les infractions aux dispositions des articles L. 214-6 à L. 214-9.
 
 Seront punis des mêmes peines :
 
@@ -5532,6 +5573,7 @@ Seront punies des mêmes peines les tentatives d'infractions prévues au présen
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la construction L261-20
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cite**:
 
@@ -5545,6 +5587,10 @@ Seront punies des mêmes peines les tentatives d'infractions prévues au présen
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -5609,35 +5655,34 @@ III  - Les dispositions du présent article ne font pas obstacle à l'exécution
 
 ###### Article L241-8
 
-Sera puni [*sanction*] d'un emprisonnement de deux mois à deux ans et d'une amende de 15 000 F à 250 000 F, ou de l'une de
-ces deux peines seulement, quiconque, tenu à la conclusion d'un contrat par application de l'article L. 231-1 ou de l'article
-L. 232-1, aura entrepris l'exécution des travaux sans avoir conclu un contrat écrit ou sans avoir obtenu la garantie de
-livraison définie à l'article L. 231-6.
+Sera puni [*sanction*] d'un emprisonnement de deux ans et d'une amende 250 000 F, ou de l'une de ces deux peines seulement,
+quiconque, tenu à la conclusion d'un contrat par application de l'article L. 231-1 ou de l'article L. 232-1, aura entrepris
+l'exécution des travaux sans avoir conclu un contrat écrit ou sans avoir obtenu la garantie de livraison définie à l'article
+L. 231-6.
 
-" Ces infractions peuvent être constatées et poursuivies dans les conditions fixées par les articles 45, premier et troisième
+Ces infractions peuvent être constatées et poursuivies dans les conditions fixées par les articles 45, premier et troisième
 alinéa, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation l232-1, l231-6
-	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 52
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Ordonnance 86-1243 1986-12-01
+	  - Code de la construction et de l'habitation L232-1, L231-6, 45
+	  - Code de la construction et de l'habitation. - art. L231-6 (M)
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 5 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -5646,9 +5691,9 @@ alinéa, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative
 
 ###### Article L241-9
 
-Sera puni [*sanction*] d'un emprisonnement de deux mois à deux ans et d'une amende de 8 000 F à 125 000 F, ou de l'une de ces
-deux peines seulement, quiconque, chargé de l'une des opérations mentionnées à l'article L. 241-8, n'aura pas conclu par
-écrit un contrat de sous-traitance avant l'exécution des travaux de chacun des lots de l'immeuble [*infraction*]. "
+Sera puni [*sanction*] d'un emprisonnement de deux ans et d'une amende de 125 000 F, ou de l'une de ces deux peines
+seulement, quiconque, chargé de l'une des opérations mentionnées à l'article L. 241-8, n'aura pas conclu par écrit un contrat
+de sous-traitance avant l'exécution des travaux de chacun des lots de l'immeuble [*infraction*].
 
 **Liens relatifs à cet article**
 
@@ -5658,11 +5703,11 @@ deux peines seulement, quiconque, chargé de l'une des opérations mentionnées 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 5 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -6857,8 +6902,7 @@ L. 261-6 peuvent être tenues de se prémunir contre les conséquences pécuniai
 ###### Article L261-17
 
 Toute personne qui exige ou accepte un versement en violation des dispositions des articles L. 261-12 et L. 261-15 est punie
-d'un emprisonnement de deux mois à deux ans et d'une amende de 2000 F à 60000 F ou de l'une de ces deux peines seulement
-[*sanction*].
+d'un emprisonnement de deux ans et d'une amende de 60 000 F ou de l'une de ces deux peines seulement [*sanction*].
 
 Ne sont pas considérés comme des versements au sens du présent article, les dépôts de fonds effectués dans un compte bancaire
 ouvert au nom du déposant et dont celui-ci peut à tout moment disposer sans restriction d'aucune sorte.
@@ -6879,6 +6923,15 @@ ouvert au nom du déposant et dont celui-ci peut à tout moment disposer sans re
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Ordonnance n°98-774 du 2 septembre 1998 - art. 5 ()
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L261-12 (M)
@@ -6887,9 +6940,9 @@ ouvert au nom du déposant et dont celui-ci peut à tout moment disposer sans re
 
 ###### Article L261-18
 
-Toute personne qui ayant reçu ou accepté un ou plusieurs versements, dépôts, souscription d'effets de commerce, à l'occasion
-d'une vente soumise aux dispositions du présent titre, détourne tout ou partie de ces sommes, est punie des peines prévues à
-l'article 408 du code pénal [*sanction*].
+Toute personne qui, ayant reçu ou accepté un ou plusieurs versements, dépôts, souscription d'effets de commerce, à l'occasion
+d'une vente soumise aux dispositions du présent titre, détourne tout ou partie de ces sommes, est punie des peines de l'abus
+de confiance prévues aux articles 314-1 et 314-10 du code pénal [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -6899,11 +6952,20 @@ l'article 408 du code pénal [*sanction*].
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 150 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 80 () JORF 16 juillet 2006
 
 	**Cite**:
 
-	  - Code pénal 408
+	  - Code pénal - art. 314-1 (M)
+	  - Code pénal - art. 314-10 (V)
 
 	**Cité par**:
 
@@ -8055,7 +8117,7 @@ primes sont versées, être transformés en locaux commerciaux ni affectés à l
 Le propriétaire est tenu de [*obligation*] déclarer l'existence des interdictions prévues à l'alinéa précédent dans tout acte
 entraînant mutation ou location de l'immeuble.
 
-Toute personne contrevenant aux dispositions du présent article est punie d'une amende de 300 F à 300000 F.
+Toute personne contrevenant aux dispositions du présent article est punie d'une amende de 300 000 F.
 
 Les primes perçues depuis la transformation sont, en outre, sujettes à répétition [*sanction*].
 
@@ -8063,11 +8125,15 @@ Les primes perçues depuis la transformation sont, en outre, sujettes à répét
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme 261
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -8096,13 +8162,21 @@ logements qu'ils construisent.
 ###### Article L311-5
 
 Quiconque tente de bénéficier des primes au moyen de fausses déclarations ou de manoeuvres frauduleuses est puni d'une amende
-de 300 à 300000 F [*sanction*].
+de 300 000 F [*sanction*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -8122,13 +8196,13 @@ Les personnes ou les sociétés qui construisent pour des tiers, avec le bénéf
 immeubles à usage d'habitation peuvent être obligées par décret, pris après avis conforme de la commission des finances et de
 la commission de la production et des échanges de l'Assemblée nationale et avis de la commission correspondante du Sénat, à
 déposer en consignation les fonds qu'elles reçoivent de ces tiers préalablement à toute acquisition de terrain ou exécution
-de travaux.
+de travaux. 
 
 Les personnes et les sociétés mentionnées à l'alinéa précédent peuvent obtenir la disposition des fonds consignés dans la
-mesure où elles justifient de leur affectation pour les constructions prévues.
+mesure où elles justifient de leur affectation pour les constructions prévues. 
 
-L'inobservation des dispositions du présent article et des textes d'application subséquents est punie des peines prévues aux
-trois premiers alinéas de l'article 408 du code pénal [*sanction*].
+L'inobservation des dispositions du présent article et des textes d'application subséquents est punie des peines de l'abus de
+confiance prévues par les articles 314-1 et 314-10 du code pénal
 
 **Liens relatifs à cet article**
 
@@ -8142,9 +8216,18 @@ trois premiers alinéas de l'article 408 du code pénal [*sanction*].
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 151 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
-	  - Code pénal 408
+	  - Code pénal - art. 314-1 (V)
+	  - Code pénal - art. 314-10 (V)
 
 	**Anciens textes**:
 
@@ -8346,9 +8429,10 @@ cessionnaire a eu connaissance de la réalisation de la condition.
 Est interdite toute publicité concernant les primes et prêts à la construction, prévus par le présent livre, avant
 l'intervention des décisions accordant ces primes et prêts.
 
-Les infractions aux dispositions du présent article sont punies d'un emprisonnement de deux mois à deux ans et d'une amende
-de 2000 F à 60000 F ou de l'une de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double
-[*sanction*].
+Les infractions aux dispositions du présent article sont punies d'un emprisonnement de deux ans et d'une amende de 60000 F ou
+de l'une de ces deux peines seulement.
+
+En cas de récidive, ces peines peuvent être portées au double [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -8359,6 +8443,14 @@ de 2000 F à 60000 F ou de l'une de ces deux peines seulement. En cas de récidi
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -9131,8 +9223,8 @@ disciplinaire.
 
 ###### Article L313-3
 
-Les infractions aux dispositions de l'article L. 313-2 sont punies d'un emprisonnement de six mois à deux ans et d'une amende
-de 2000 F à 120000 F, ou de l'une de ces deux peines seulement [*sanction*].
+Les infractions aux dispositions de l'article L. 313-2 sont punies d'un emprisonnement de deux ans et d'une amende de 120000
+F, ou de l'une de ces deux peines seulement [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -9201,9 +9293,13 @@ de 2000 F à 120000 F, ou de l'une de ces deux peines seulement [*sanction*].
 	  - Code des assurances - art. R426-3 (V)
 	  - Code général des impôts, CGI. - art. 200 nonies (Ab)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme 272-2
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -9211,6 +9307,7 @@ de 2000 F à 120000 F, ou de l'une de ces deux peines seulement [*sanction*].
 
 	**Nouveaux textes**:
 
+	  - Code de la construction et de l'habitation. - art. L313-30 (M)
 	  - Code de la construction et de l'habitation. - art. L313-30 (V)
 
 
@@ -9318,10 +9415,10 @@ Ces agents sont astreints au secret professionnel dans les conditions et sous le
 
 ###### Article L313-7
 
-L'Agence nationale pour la participation des employeurs à l'effort de construction [*définition*] est un établissement public
-industriel et commercial. Elle est chargée [*attributions*] d'une mission générale d'élaboration des règles régissant les
-conditions d'activité des associations à caractère professionnel ou interprofessionnel agréées aux fins de participer à la
-collecte des sommes définies à l'article L. 313-1 et de contrôle de leur gestion.
+L'Agence nationale pour la participation des employeurs à l'effort de construction est un établissement public industriel et
+commercial. Elle est chargée d'une mission générale d'élaboration des règles régissant les conditions d'activité des
+associations à caractère professionnel ou interprofessionnel agréées aux fins de participer à la collecte des sommes définies
+à l'article L. 313-1 et de contrôle de leur gestion.
 
 A ce titre, elle propose aux ministres intéressés :
 
@@ -9355,8 +9452,16 @@ c) Elle peut demander la communication de tous documents comptables ;
 
 d) Elle propose au ministre chargé du logement la désignation de ceux de ses agents habilités à exercer les contrôles
 nécessaires à l'accomplissement des missions définies aux alinéas précédents. Ces agents sont astreints au secret
-professionnel dans les conditions et sous les peines prévues à l'article 378 du code pénal. Ce secret ne peut leur être
+professionnel dans les conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret ne peut leur être
 opposé, sauf par les auxiliaires de justice.
+
+A la demande du ministre chargé du logement, l'Agence nationale pour la participation des employeurs à l'effort de
+construction peut contrôler les opérations réalisées à l'aide de fonds provenant de la participation des employeurs à
+l'effort de construction par les organismes qui n'ont pas le statut d'organisme agréé pour collecter cette participation. A
+ce titre, elle a accès à tous les livres, pièces, documents et justifications nécessaires à l'exercice de son contrôle.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas aux organismes d'habitations à loyer modéré et aux sociétés
+d'économie mixte exerçant à titre principal une activité de construction, d'acquisition ou de gestion de logements sociaux.
 
 L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des sommes investies au titre de la participation
 des employeurs à l'effort de construction et propose aux ministres intéressés les éventuelles adaptations du taux visé au
@@ -9366,7 +9471,7 @@ premier alinéa de l'article L. 313-1.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -9395,11 +9500,13 @@ premier alinéa de l'article L. 313-1.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 68 () JORF 30 janvier 1993
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L313-17 (M)
 
 
 ###### Article L313-7-1
@@ -10664,8 +10771,8 @@ l'institut national de la statistique et des études économiques.
 
 ###### Article L322-3
 
-Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir la prime et quiconque aura volontairement méconnu
-les dispositions des articles L. 322-1 et L. 322-2 sera puni d'une amende de 2000 à 30000 F [*sanction*].
+Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir ou faire obtenir la prime et quiconque aura
+volontairement méconnu les dispositions des articles L. 322-1 et L. 322-2 sera puni d'une amende de 30 000 F.
 
 En cas de non-respect par le bailleur des conditions de location fixées par l'article L. 322-1, sous réserve des obligations
 prévues à l'article 1728 du code civil, les locataires et les occupants des logements n'ayant pas fait l'objet d'une décision
@@ -10677,11 +10784,23 @@ conditions fixées par le décret prévu audit article.
 
 	**Anciens textes**:
 
-	  - Loi n°76-1232 1976-12-29 art. 48 IV al. 2, al. 3
+	  - Loi n°76-1232 1976-12-29 ART. 48 IV AL. 2 ET 3 (LOI 77-1468 1977-12-30 ART. 16)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 185 () JORF 14 décembre 2000
 
 	**Cite**:
 
@@ -11581,12 +11700,11 @@ par le décret n° 81-859. L'article L. 160 a été abrogé par la loi n° 98-12
 ###### Article L351-13
 
 Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, faire obtenir, ou tenter d'obtenir ou de faire
-obtenir l'aide personnalisée au logement est puni d'une amende de 2.000 F à 30.000 F pouvant être portée au double en cas de
-récidive. Le tribunal ordonne, en outre, le remboursement des sommes indûment versées.
+obtenir l'aide personnalisée au logement est puni d'une amende de 30000 F pouvant être portée au double en cas de récidive.
+Le tribunal ordonne, en outre, le remboursement des sommes indûment versées.
 
-S'il s'agit d'un administrateur de biens, les peines applicables sont un emprisonnement de deux à six mois et une amende de
-20.000 F à 120.000 F ou l'une de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double
-[*sanction*].
+S'il s'agit d'un administrateur de biens, les peines applicables sont un emprisonnement de six mois et une amende de 120 000
+F ou l'un de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double [*sanction*].
 
 Le tribunal peut, en outre, dans les cas prévus aux deux alinéas qui précèdent, prononcer, pour une durée n'excédant pas deux
 ans, l'interdiction de passer les conventions prévues au chapitre III.
@@ -11600,6 +11718,14 @@ ans, l'interdiction de passer les conventions prévues au chapitre III.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -12100,8 +12226,8 @@ Il est ultérieurement révisé chaque année dans les conditions fixées à cet
 
 Toute personne qui, à l'aide soit d'une dissimulation, soit de tout autre moyen frauduleux, impose ou tente d'imposer au
 locataire ou à l'occupant d'un logement ayant fait l'objet d'une convention un loyer dépassant le prix fixé par cette
-convention est punie d'une amende de 2000 F à 30000 F pouvant être portée au double en cas de récidive [*sanction*]. Le
-tribunal ordonne en outre le reversement des sommes indûment versées.
+convention est punie d'une amende de 30 000 F pouvant être portée au double en cas de récidive [*sanction*]. Le tribunal
+ordonne en outre le reversement des sommes indûment versées.
 
 **Liens relatifs à cet article**
 
@@ -12112,6 +12238,14 @@ tribunal ordonne en outre le reversement des sommes indûment versées.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L353-11
@@ -14471,7 +14605,7 @@ Il est interdit, dans les mêmes conditions, aux personnes physiques et morales 
 l'article L. 411-2, de faire usage, dans leurs contrats, prospectus, affiches et tous autres documents, de toute appellation
 susceptible de faire naître une confusion avec les organismes ci-dessus indiqués.
 
-Les contrevenants au présent article sont passibles d'une amende de 2000 F à 30000 F et d'un emprisonnement d'un à trois mois
+Les contrevenants au présent article sont passibles d'une amende de 30 000 F et d'un emprisonnement de trois mois
 [*sanction*].
 
 Les tribunaux peuvent ordonner l'insertion et l'affichage des jugements et la suppression des appellations interdites, à
@@ -14482,6 +14616,14 @@ peine d'une astreinte pour chaque jour de retard.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -14500,14 +14642,22 @@ prêts avec hypothèque, de passer avec ces organismes ou avec leur clients des 
 d'imposer le choix d'un fournisseur, entrepreneur ou prestataire de service déterminé pour la réalisation d'une de ces
 opérations prévues au présent livre.
 
-La contravention à ces interdictions est punie d'une amende de 3600 F à 30000 F [*sanction*]. La peine sera doublée en cas de
-récidive.
+La contravention à ces interdictions [*délit*] est punie d'une amende de 30 000 F [*sanction*]. La peine sera doublée en cas
+de récidive.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -14529,14 +14679,22 @@ d'immeubles réalisés avec les organismes précités ou avec leurs clients, ain
 entrepreneurs qui exécutent des travaux pour le compte de ces organismes ou de leurs clients et, d'une façon générale, de la
 part de tout fournisseur.
 
-La contravention aux interdictions qui précèdent est punie d'une amende de 18000 à 60000 F et d'un emprisonnement de six mois
-à trois ans [*sanction*]. La peine est doublée en cas de récidive.
+La contravention aux interdictions qui précèdent est punie d'une amende de 60 000 F et d'un emprisonnement de trois ans
+[*sanction*]. La peine est doublée en cas de récidive.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -15656,7 +15814,7 @@ mois.
 
 Dans tous les immeubles destinés à la location et construits au moyen de crédits ouverts par le présent livre, il est
 interdit de louer en meublé ou de sous-louer un logement en meublé ou non meublé sous quelque forme que ce soit, sous peine
-d'une amende de 7200 F à 60000 F [*sanction*].
+d'une amende de 60000 F [*sanction*].
 
 Les contrevenants sont exclus de tous les avantages et bénéfices concédés par le présent livre.
 
@@ -15674,11 +15832,15 @@ l'occasion des locations en meublé.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme 223
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -16861,13 +17023,21 @@ Les fonctionnaires chargés du contrôle prévu à l'article précédent peuvent
 consulter, dans les bureaux des architectes ou entrepreneurs ayant traité avec des organismes soumis à ce même contrôle, tous
 documents comptables, copies de lettres, pièces de recettes et de dépenses.
 
-Tout refus de communication dûment constaté entraîne à la charge de son auteur une amende de 3.600 F à 60.000 F [*sanction*].
+Tout refus de communication dûment constaté entraîne à la charge de son auteur une amende de 60 000 F [*sanction*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -18999,12 +19169,12 @@ locaux des maisons de tolérance fermées par l'application de la loi n. 46-685 
 
 Les fonctionnaires et agents des administrations publiques qui ont sollicité ou agréé des offres ou promesses, sollicité ou
 reçu des dons ou présents à l'occasion de l'application des titres Ier (chapitre II), II (chapitre Ier), III et IV, à
-l'exclusion des articles L. 612-1, L. 631-1 à L. 631-6 et L. 641-14, sont punis conformément aux articles 177 et 178 du code
-pénal.
+l'exclusion des articles L. 612-1, L. 631-1 à L. 631-6, L. 641-12 et L. 641-14, sont punis conformément à l'article 432-11 du
+code pénal. 
 
-Le corrupteur est puni conformément à l'article 179 du code pénal.
+Le corrupteur est puni conformément à l'article 433-1 du code pénal. 
 
-Est punie des mêmes peines toute personne qui a provoqué ou facilité ces fraudes ou y a participé.
+Est punie des mêmes peines toute personne qui a provoqué ou facilité ces fraudes ou y a participé. 
 
 Les mêmes peines sont applicables aux intermédiaires, agents de location ou toutes autres personnes qui, à l'occasion de
 l'application des titres Ier, II, III et IV du présent livre, à l'exclusion des articles L. 612-1, L. 631-1 à L. 631-6, L.
@@ -19017,13 +19187,22 @@ la profession.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 152 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
-	  - Code pénal 178
-	  - Code de la construction et de l'habitation L631-1 à L631-6
+	  - Code pénal - art. 432-11 (V)
+	  - Code pénal - art. 433-1 (V)
 	  - Code de la construction et de l'habitation. - art. L612-1 (V)
-	  - Code de la construction et de l'habitation. - art. L641-12 (M)
-	  - Code de la construction et de l'habitation. - art. L641-14 (M)
+	  - Code de la construction et de l'habitation. - art. L631-1 (V)
+	  - Code de la construction et de l'habitation. - art. L641-12 (V)
+	  - Code de la construction et de l'habitation. - art. L641-14 (V)
 
 	**Anciens textes**:
 
@@ -19077,21 +19256,25 @@ l'exécution des travaux nécessaires.
 Quiconque a, pour l'une quelconque des déclarations prévues aux titres Ier (chapitre II), II (chapitre Ier), III et IV du
 présent livre, à l'exclusion des articles L. 612-1, L. 631-1 à L. 631-6, L. 641-12 et L. 641-14, ou par les textes pris pour
 leur application, sciemment fait de fausses déclarations, quiconque a, à l'aide de manoeuvres frauduleuses, dissimulé ou
-tenté de dissimuler les locaux soumis à déclaration, est passible d'un emprisonnement d'un mois à un an et d'une amende de 60
-F à 40000 F ou de l'une de ces deux peines seulement.
+tenté de dissimuler les locaux soumis à déclaration, est passible d'un emprisonnement d'un an et d'une amende de 40 000 F ou
+de l'une de ces deux peines seulement.
 
-En cas de récidive, l'amende est portée de 90 à 80000 F. Le tribunal correctionnel prononce, en outre, la résiliation du bail
-et l'expulsion des locataires irrégulièrement installés.
+En cas de récidive, l'amende est portée de 80 000 F. Le tribunal correctionnel prononce, en outre, la résiliation du bail et
+l'expulsion des locataires irrégulièrement installés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme 352
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -19137,8 +19320,8 @@ lieu de l'immeuble, statuant en référé.
 
 Quiconque a sciemment perçu ou tenté de percevoir indûment une prime de déménagement ou de réinstallation ou de faire fixer
 cette prime à un taux supérieur à l'un de ceux fixés par l'arrêté prévu à l'article L. 631-4, est puni d'un emprisonnement de
-quinze jours à trois mois et d'une amende de 1500 à 20000 F ou de l'une de ces peines seulement. L'intéressé est, en outre,
-déchu de plein droit du bénéfice des articles L. 631-1 à L. 631-6.
+trois mois et d'une amende de 20 000 F ou de l'une de ces deux peines seulement. L'intéressé est, en outre, déchu de plein
+droit du bénéfice des articles L. 631-1 à L. 631-6.
 
 **Liens relatifs à cet article**
 
@@ -19146,14 +19329,17 @@ déchu de plein droit du bénéfice des articles L. 631-1 à L. 631-6.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 354
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L631-4, L631-1 à L631-6
-	  - Code de la construction et de l'habitation. - art. L631-4 (M)
 
 
 ###### Article L651-6
@@ -20970,12 +21156,11 @@ coordonner l'ensemble des missions de contrôle.
 
 ###### Article R*111-42
 
-Sera puni d'une amende de 3000 à 6000 F [*montant (1)*] et d'un emprisonnement dix jours à un mois ou de l'une de ces deux
-peines seulement [*sanctions*] le maître de l'ouvrage ou son mandataire qui aura entrepris ou poursuivi des travaux sans
-avoir fait procéder au contrôle technique dans le cas où celui-ci est obligatoire.
+Sera puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe
+[*sanction*] le maître de l'ouvrage ou son mandataire qui aura entrepris ou poursuivi des travaux sans avoir fait procéder au
+contrôle technique dans le cas où celui-ci est obligatoire.
 
-En cas de récidive, la peine d'amende sera portée de 6000 à 12000 F. et l'emprisonnement de un à deux mois au plus. [*(1)
-Taux résultant du décret 89-989 du 29 décembre 1989.*]
+En cas de récidive, la peine d'amende sera portée à 20 000 F..
 
 **Liens relatifs à cet article**
 
@@ -20983,14 +21168,13 @@ Taux résultant du décret 89-989 du 29 décembre 1989.*]
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
-
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (M)
 
 
 ### Titre II : Sécurité et protection contre l'incendie.
@@ -25363,29 +25547,29 @@ maxima des différentes catégories de personnels du centre scientifique et tech
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
 code de l'urbanisme et L. 152-1 à L. 152-9 du présent code, toute infraction aux dispositions des articles R. 122-7, R.
-122-8, R. 122-14 à R. 122-18 et R. 122-20 est punie d'une amende de 3000 à 6000 F et, en cas de récidive, d'un emprisonnement
-de un mois à deux mois.
+122-8, R. 122-14 à R. 122-18 et R. 122-20 est punie de la peine d'amende prévue pour les contraventions de la cinquième
+classe.
 
 Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-22. Dans ce cas, l'amende est appliquée
 autant de fois qu'il y a eu de journées d'occupation de l'immeuble sans autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1063 1967-11-15 art. 29
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Transféré par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
+	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme L480-2 à L480-9
 	  - Code de la construction et de l'habitation R122-7, R122-8, R122-14 à R122-18, R122-20, R122-22
 	  - Code de la construction et de l'habitation. - art. R122-20 (V)
@@ -25398,49 +25582,50 @@ autant de fois qu'il y a eu de journées d'occupation de l'immeuble sans autoris
 	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
 	  - Code de la construction et de l'habitation. - art. R152-2 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+
 
 ###### Article R152-2
 
 Toute infraction à celles des dispositions des articles R. 122-23 et R. 122-28 qui sont relatives à l'obligation pour le
-propriétaire d'assister aux visites de contrôle est punie d'une amende de 3000 à 6000 F. En cas de récidive, la peine
-d'amende peut être portée de 6000 à 12000 F.
+propriétaire d'assister aux visites de contrôle est punie de l'amende prévue au 5° de l'article 131-13 du code pénal. En cas
+de récidive, la peine d'amende est celle prévue pour les contravantions de 5e classe en récidive.
 
 Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-29.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1063 1967-11-15 art. 30
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
-	**Cité par**:
+	**Transféré par**:
 
-	  - Code de la construction et de l'habitation. - art. R*161-2 (V)
-	  - Code de la construction et de l'habitation. - art. R152-3 (T)
-	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
+	  - Code pénal - art. 131-13 (M)
 	  - Code de la construction et de l'habitation. - art. R122-23 (V)
 	  - Code de la construction et de l'habitation. - art. R122-28 (V)
 	  - Code de la construction et de l'habitation. - art. R122-29 (V)
 
 	**Nouveaux textes**:
 
+	  - Code de la construction et de l'habitation. - art. R*152-4 (M)
 	  - Code de la construction et de l'habitation. - art. R152-4 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (V)
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+	  - Code de la construction et de l'habitation. - art. R152-5 (V)
 
 
 ##### Section 2 : Immeubles de grande hauteur.
@@ -25486,8 +25671,7 @@ la protection civile et à ceux de la commission technique interministérielle d
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
 code de l'urbanisme et L. 152-2 à L. 152-9 du présent code, tout constructeur, propriétaire, exploitant d'un établissement
 soumis aux dispositions du présent chapitre qui contrevient aux dispositions des articles R. 123-21, 3e alinéa, R. 123-23, R.
-123-25, R. 123-43 et R. 123-44, est puni d'une amende de 3000 à 6000 F et, en cas de récidive, d'un emprisonnement de un à
-deux mois.
+123-25, R. 123-43 et R. 123-44, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 Est puni des mêmes peines tout constructeur, propriétaire, exploitant qui ouvre un établissement au public sans les visites
 de contrôle prévues à l'article R. 123-45, 2e alinéa, sans l'autorisation d'ouverture prévue à l'article R. 123-46. Dans ces
@@ -25501,68 +25685,72 @@ Est puni des mêmes peines quiconque contrevient aux obligations définies à l'
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Transféré par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
+	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme L480-2 à L480-9
 	  - Code de la construction et de l'habitation R123-21, R123-45, R123-46, R123-7, R123-8, R123-9, R123-11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation R152-6
+	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*111-1-1 (V)
 	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
 
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
-
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation. - art. R152-2 (T)
-	  - Décret n°73-1007 1973-10-31 art. 53
 
 
 ###### Article R*152-5
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal et à
 l'article L. 480-12 du code de l'urbanisme et l'article L. 152-10 du présent code, quiconque a mis obstacle à l'exercice du
-droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni d'une amende de 3000 à 6000 F. En cas de récidive, la
-peine d'amende peut être portée à 6000 à 12000 F.
+droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni de la peine d'amende prévue pour les contraventions de la
+5è classe. En cas de récidive, la peine d'amende est celle prévue pour les contraventions de la 5è classe en récidive.
 
 Est puni des mêmes peines tout propriétaire ou exploitant qui contrevient aux dispositions des articles R. 123-49, 1er
 alinéa, et R. 123-51.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-1007 1973-10-31 art. 54
-	  - Code de la construction et de l'habitation. - art. R152-3 (T)
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Transféré par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal 209 à 233
+	  - Code pénal - art. 131-13 (M)
+	  - Code pénal 209 à 233, 131-13
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L152-10, R123-45, R123-48, R123-49
+	  - Code de la construction et de l'habitation L152-10, R123-45, R123-48, R123-49, 1
 	  - Code de la construction et de l'habitation. - art. L152-10 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de la construction et de l'habitation R152-7
 	  - Code de la construction et de l'habitation. - art. R*152-7 (V)
 
 	**Cité par**:
@@ -25570,34 +25758,43 @@ alinéa, et R. 123-51.
 	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+
 
 ##### Section 3 : Chauffage.
 
 ###### Article R*152-6
 
-Les infractions aux dispositions des articles R. 131-19 à R. 131-23 sont punies d'une amende de 3000 à 6000 F qui peut être
+Les infractions aux dispositions des articles R. 131-19 à R. 131-23 [*limitation de la température du chauffage*] sont punies
+de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe qui peut être
 portée au double en cas de récidive.
 
 Est punie de la même peine l'opposition à l'exercice des fonctions des agents chargés de constater les infractions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 6 bis
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Transféré par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
+	  - Code pénal - art. 131-13 (M)
 	  - Code de la construction et de l'habitation R131-19 à R131-23
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation R152-8
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer.
