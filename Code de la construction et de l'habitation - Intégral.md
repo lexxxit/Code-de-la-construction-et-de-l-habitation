@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-03-10
+Version Consolidée au 1987-07-01
 
 # Partie législative
 
@@ -13173,45 +13173,43 @@ et le recouvrement des prêts par le décret du 28 février 1852 et la loi du 10
 	  - Loi n°83-953 1983-11-02 art. 2 JORF 3 novembre 1983
 
 
-##### Section 2 : Dispositions applicables aux cessions d'éléments du patrimoine immobilier.
+##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.
 
 ###### Article L443-7
 
-Les personnes physiques locataires de façon continue d'un même organisme d'habitations à loyer modéré depuis plus de cinq ans
-peuvent devenir propriétaires du logement qu'elles occupent si ce logement est situé dans un immeuble collectif construit ou
-acquis par l'organisme depuis plus de dix ans.
+Les organismes d'habitations à loyer modéré peuvent aliéner aux bénéficiaires prévus à l'article L."443-11 des logements
+construits ou acquis depuis plus de dix ans par un organisme d'habitations à loyer modéré. Ces logements doivent répondre à
+des normes d'habitabilité minimale fixées par décret en Conseil d'Etat.
 
-Les maisons individuelles construites ou acquises par un organisme d'habitations à loyer modéré depuis plus de vingt ans
-peuvent être vendues aux locataires qui les occupent de façon continue depuis plus de cinq ans.
+La décision d'aliéner est prise par l'organisme propriétaire. Elle ne peut porter sur des logements et immeubles
+insuffisamment entretenus. Elle ne doit pas avoir pour effet de réduire de manière excessive le parc de logements sociaux
+locatifs existant sur le territoire de la commune ou de l'agglomération concernée.
 
-Les logements et les immeubles visés aux alinéas précédents ne peuvent être cédés que s'ils satisfont à des normes minima
-fixées par décret en Conseil d'Etat.
+La décision d'aliéner est transmise au représentant de l'Etat dans le département qui consulte la commune d'implantation
+ainsi que les collectivités publiques qui ont accordé leur garantie aux emprunts contractés pour la construction,
+l'acquisition ou l'amélioration des logements. A défaut d'opposition motivée du représentant de l'Etat dans le département
+dans un délai de deux mois, la décision est exécutoire pour une durée de cinq ans.
 
-Lorsqu'ils ont fait l'objet de travaux d'amélioration financés avec l'aide de l'Etat ou d'une collectivité publique, ces
-logements ne peuvent être cédés qu'à l'expiration d'un délai de cinq ans à compter de l'exécution de ces travaux.
-
-L'initiative de la vente provient de l'organisme propriétaire. Celui-ci peut, avec l'accord de la commune d'implantation,
-conserver la propriété des sols en consentant un bail d'une durée d'au moins cinquante ans dans des conditions fixées par
-décret en Conseil d'Etat.
-
-Toutefois, lorsque 80 p. 100 des locataires d'un même immeuble collectif ce sont portés acquéreurs de leur logement,
-l'organisme est tenu de saisir de cette demande les autorités visées à l'article L. 443-9.
-
-Les dispositions du présent article ne sont pas applicables aux logements-foyers et aux ateliers d'artistes.
+Toutefois, lorsque le logement est affecté à la location saisonnière, la décision d'aliéner ne peut être prise qu'après
+accord de la commune d'implantation.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 1
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13257,26 +13255,29 @@ Les dispositions du présent article ne sont pas applicables aux logements-foyer
 
 ###### Article L443-8
 
-Lorsque des immeubles collectifs appartenant à un organisme d'habitations à loyer modéré comportent de façon durable un
-nombre important de logements libres à la location, l'organisme propriétaire peut procéder à la vente de ces logements au
-profit des personnes physiques ne disposant pas de ressources supérieures à celles qui sont fixées pour l'octroi des prêts
-aidés par l'Etat pour la construction de logements en accession à la propriété. Les locataires de l'organisme disposent d'un
-droit de priorité pour l'acquisition de ces logements. Un décret en Conseil d'Etat précise les conditions d'application du
-présent article.
+Lorsque des circonstances économiques ou sociales particulières le justifient, la vente de logements locatifs ne répondant
+pas aux conditions d'ancienneté définies à l'article L. 443-7 peut ^etre autorisée par décision du ministre chargé de la
+construction et de l'habitation et du ministre chargé de l'économie et des finances, après consultation de la commune
+d'implantation. La décision fixe les conditions de remboursement de tout ou partie des aides accordées par l'Etat pour la
+construction, l'acquisition ou l'amélioration de ce logement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 1
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13296,39 +13297,37 @@ présent article.
 	  - Code général des collectivités territoriales - art. L5218-2 (V)
 	  - Code général des collectivités territoriales - art. L5219-1 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+
 
 ###### Article L443-9
 
-La décision d'aliéner les logements visés aux articles L. 443-7 et L. 443-8 est prise par accord entre l'organisme
-d'habitations à loyer modéré propriétaire, la commune du lieu d'implantation et le représentant de l'Etat dans le
-département. A défaut de réponse favorable, à l'expiration d'un délai de quatre mois à compter de sa saisine, la commune est
-réputée s'opposer à la vente. Le représentant de l'Etat s'oppose à toute vente qui aurait pour effet de réduire excessivement
-le patrimoine locatif de l'organisme ou le parc de logements sociaux locatifs existant sur le territoire de la commune ou de
-l'agglomération concernée. Il tient compte dans son appréciation des programmes locaux de l'habitat qui ont pu être élaborés
-par les communes ou leurs groupements et des difficultés particulières de reconstitution d'un patrimoine de logements sociaux
-locatifs, notamment en centre-ville. Le refus motivé du représentant de l'Etat doit intervenir dans un délai de quatre mois à
-compter de sa saisine. A défaut, le représentant de l'Etat est réputé donner son accord à la vente.
-
-L'avis de la collectivité locale qui a contribué au financement du programme ou accordé sa garantie aux emprunts contractés
-pour la construction de ces logements est également sollicité, lorsque cette collectivité n'est pas la commune
-d'implantation. Cet avis est réputé favorable lorsqu'il n'a pas été émis dans un délai de quatre mois à compter de la saisine
-de la collectivité.
-
-La décision d'aliéner mentionne le prix de vente arrêté dans les conditions fixées par l'article L. 443-10.
+Les logements répondant aux conditions prévu aux articles L. 443-7 et L. 443-8 et réservés par convention au profit d'une
+personne morale peuvent ^etre vendus. Dans ce cas, l'organisme vendeur est tenu, à moins que les parties n'en décident
+autrement, de mettre à la disposition du réservataire, au moment de la vente, un logement équivalent. A défaut de pouvoir y
+procéder immédiatement, il doit indiquer au réservataire la date à laquelle il sera en mesure de satisfaire à cette
+obligation. Le logement de remplacement sera par priorité situé dans le même ensemble immobilier ou, à défaut, dans la m^eme
+commune que celui qui est aliéné, sauf accord du réservataire pour une localisation différente.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 1
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13342,35 +13341,32 @@ La décision d'aliéner mentionne le prix de vente arrêté dans les conditions 
 	  - Code de la construction et de l'habitation. - art. R443-12 (M)
 	  - Code général des collectivités territoriales - art. L5218-2 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L443-10 (M)
-
 
 ###### Article L443-10
 
-Le prix de vente du logement est fixé par l'organisme propriétaire. Il est compris entre la valeur du logement déterminée par
-le service des domaines en prenant pour base le prix d'un logement comparable libre d'occupation et la valeur résultant de
-l'actualisation du coût initial de construction par référence à l'indice du coût de la construction publié par l'Institut
-national de la statistique et des études économiques.
-
-Avant la vente, tout acheteur peut demander que lui soit communiquée par l'organisme d'habitations à loyer modéré vendeur un
-dossier comportant des informations complètes et précises sur l'état de l'immeuble dans lequel est situé le logement mis en
-vente et sur les aménagements envisagés dans son environnement immédiat par les collectivités locales ou l'Etat.
+Les dispositions des articles L. 443-7 à L. 443-9 s'appliquent nonobstant toutes stipulations contraires.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 ART. 2
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L443-7 à L443-9
 
 	**Cité par**:
 
@@ -13381,72 +13377,42 @@ vente et sur les aménagements envisagés dans son environnement immédiat par l
 	  - Code de la construction et de l'habitation. - art. R443-14 (M)
 
 
-###### Article L443-10-1
-
-L'acheteur peut payer le prix de vente au comptant ou se libérer par des versements échelonnés dans le temps, dont les
-modalités, qui tiennent compte de sa situation familiale et de ses ressources, sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 Art. 1 JORF 3 NOVEMBRE 1983
-
-	**Abrogé par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF 24 décembre 1986  entrée en vigueur le 1er juillet 1987
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-15 (M)
-	  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R443-17-2 (Ab)
-
-
-###### Article L443-10-2
-
-Lorsque l'acheteur se libère du paiement du prix de vente par des versements échelonnés dans le temps, il peut bénéficier de
-l'aide personnalisée au logement dans des conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 Art. 1 JORF 3 NOVEMBRE 1983
-
-	**Abrogé par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 ()
-
-
 ###### Article L443-11
 
-Les sommes perçues par les organismes d'habitations à loyer modéré au titre des ventes ainsi consenties sont affectées au
-remboursement des emprunts éventuellement contractés pour la la construction des logements vendus et des aides publiques qui
-y sont attachées, ainsi qu'à l'amélioration de leur patrimoine et au financement de programmes nouveaux de construction de
-logements.
+Un logement occupé ne peut être vendu qu'à sonlocataire.    Lorsque l'organisme d'habitations à loyer modéré met en vente un
+logement vacant, il doit l'offrir en priorité à l'ensemble des locataires de l'organisme dans le département par voie d'une
+publicité dont les modalités sont fixées par décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le logement peut
+^etre offert à toute autre personne physique.
+
+L'acquéreur doit occuper le logement à titre principal pendant une durée minimale de cinq ans. Toutefois, à titre
+exceptionnel, cette durée n'est pas opposable à l'acquéreur dont la situation personnelle, notamment professionnelle, aura
+connu, postérieurement à l'acquisition du logement, un changement fondamental.
+
+Nonobstant les dispositions du premier ou du deuxième alinéa du présent article, les logements peuvent ^etre vendus à un
+autre organisme d'habitations à loyer modéré ou à une société d'économie mixte sans qu'il soit fait application des
+conditions d'ancienneté et d'habitabilité prévues à l'article L. 443-7. Les locataires en place continuent à bénéficier des
+conditions antérieures de location.
+
+Afin d'assurer l'équilibre économique et social d'un ou plusieurs ensembles d'habitations ou d'un quartier connaissant des
+difficultés particulières, l'organisme d'habitations à loyer modéré propriétaire peut, après accord du représentant de l'Etat
+dans le département, qui consulte la commune d'implantation, vendre des logements vacants à toute personne physique ou
+morale, ou les louer à ces m^emes personnes pour des usages autres que l'habitation.
+
+Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne s'appliquent pas.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13472,35 +13438,34 @@ logements.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L443-2 (M)
+	  - Code de la construction et de l'habitation. - art. L311-3 (M)
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
 
 ###### Article L443-12
 
-Pendant une période de quinze ans à compter de l'acte de cession, toute aliénation volontaire d'un logement acquis dans les
-conditions définies aux articles L. 443-7 et L. 443-8 doit, à peine de nullité, être précédée d'une déclaration d'intention à
-l'organisme d'habitations à loyer modéré vendeur, assortie du prix et des conditions de l'aliénation envisagée. Pendant cette
-période, et sans préjudice de l'exercice d'un droit de préemption éventuel de la commune, l'organisme vendeur dispose d'un
-droit de rachat préférentiel dans les limites de prix prévues à l'article L. 443-10. Il ne peut faire usage de ce droit de
-rachat que pendant un délai de deux mois à compter de la date de la notification de la déclaration d'intention susmentionnée.
-
-La déclaration d'intention doit être simultanément notifiée à la commune concernée ; dans l'hypothèse où l'organisme renonce
-à l'exercice de son droit de rachat préférentiel, ce droit appartient à la commune qui peut l'utiliser dans les mêmes
-conditions que l'organisme précité.
+Le prix de vente est fixé par l'organisme propriétaire. Sauf en cas de vente à un organisme d'habitations à loyer modéré ou à
+une société d'économie mixte, il ne peut être inférieur à l'évaluation faite par le service des domaines. Cette évaluation
+doit intervenir dans un délai d'un mois à compter de la demande. A titre exceptionnel, le représentant de l'Etat dans le
+département peut autoriser l'organisme à vendre à un prix inférieur.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 4
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13512,38 +13477,53 @@ conditions que l'organisme précité.
 	  - Code de la construction et de l'habitation. - art. R443-19 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L443-10 (M)
-	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
-
 
 ###### Article L443-13
 
-Jusqu'à l'acquittement total du prix de vente, et en tout état de cause pendant le délai de quinze ans visé à l'article L.
-443-12, l'acquéreur doit, sauf circonstances économiques ou familiales graves, occuper personnellement le logement à titre
-principal. Pendant ce délai, tout changement d'affectation, toute location partielle ou totale, meublée ou non est, à peine
-de nullité, subordonnée à l'autorisation de l'organisme vendeur.
+En cas de cession d'un élément de patrimoine immobilier d'un organisme d'habitations à loyer modéré, la fraction
+correspondante des emprunts éventuellement contractés pour la construction, l'acquisition ou l'amélioration de l'ensemble
+auquel appartient le bien vendu devient immédiatement exigible.
 
-En tout état de cause, le candidat locataire doit remplir les conditions de ressources fixées à l'article L. 443-8.
+Toutefois, lorsqu'un organisme d'habitations à loyer modéré vend un logement à un de ses locataires, il peut continuer à
+rembourser les pr^ets comportant une aide de l'Etat selon l'échéancier initialement prévu sous réserve que les remboursements
+continuent à ^etre garantis. L'acquéreur peut se libérer d'une partie du prix de vente par des versements échelonnés dans le
+temps selon des modalités fixées par décret en Conseil d'Etat. Les dispositions du présent alinéa s'appliquent également
+lorsque l'acquéreur est une personne physique ne disposant pas de ressources supérieures à celles qui sont fixées pour
+l'octroi des pr^ets aidés par l'Etat pour la construction de logements en accession à la propriété.
 
-Le prix de location ne peut excéder les maxima fixés par voie réglementaire dans le cadre de la réglementation sur les prêts
-aidés par l'Etat pour la construction de logements en accession à la propriété.
+Toutefois, dans le cas d'une vente à un autre organisme d'habitations à loyer modéré ou à une société d'économie mixte, les
+emprunts sont transférés avec maintien des garanties y afférentes consenties par des collectivités territoriales, par leurs
+groupements ou par des chambres de commerce et d'industrie, sauf opposition des créanciers ou des garants dans les trois mois
+qui suivent la notification du projet de transfert du pr^et lié à la vente.
+
+Le surplus des sommes perçues est affecté en priorité au financement de programmes nouveaux de construction, à des travaux
+destinés à améliorer de façon substantielle un ensemble déterminé d'habitations ou à des acquisitions de logements en vue
+d'un usage locatif.
+
+Dans le cas d'une vente réalisée en application de l'avant-dernier alinéa de l'article L."443-11, l'organisme est tenu de
+verser à l'Etat une somme équivalente au montant des aides financières accordées par l'Etat pour la construction,
+l'acquisition ou l'amélioration du bien vendu, dans des conditions fixées par décret en Conseil d'Etat.
+
+En cas de vente d'un logement ayant fait l'objet de travaux d'amélioration financés avec l'aide de l'Etat depuis moins de
+cinq ans, l'organisme vendeur est tenu de rembourser cette aide.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 5
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
+	  - Décret n°78-621 1978-05-31
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13560,48 +13540,36 @@ aidés par l'Etat pour la construction de logements en accession à la propriét
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L443-12 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Code de la construction et de l'habitation. - art. L443-11 (M)
 
 
 ###### Article L443-14
 
-Toute décision d'aliénation d'un élément du patrimoine immobilier d'un organisme d'habitations à loyer modéré, exception
-faite des cas visés aux articles L. 443-7 et L. 443-8, est prise par accord entre cet organisme, la commune du lieu
-d'implantation et le représentant de l'Etat dans le département. Il en est de même pour les décisions visant à concéder des
-baux de plus de douze ans ou relatives à des échanges d'un élément du patrimoine immobilier.
+Toute décision d'aliénation d'un élément du patrimoine immobilier d'un organisme d'habitations à loyer modéré autre que les
+logements est notifiée au représentant de l'Etat dans le département dans le délai d'un mois à compter de la date de l'acte
+la constatant.
 
-Le prix de vente de ces éléments du patrimoine immobilier ne peut être inférieur à l'évaluation faite par les services des
-domaines. Toutefois, en cas de vente d'un logement à son occupant, ce prix ne peut être inférieur à l'évaluation faite par
-les services des domaines sur la base du prix d'un logement comparable libre d'occupation. A titre exceptionnel, les cessions
-entre organismes d'habitations à loyer modéré ou à une collectivité publique peuvent se faire sur une base différente.
-
-Le paiement doit se faire au comptant. Les sommes perçues par les organismes d'habitations à loyer modéré au titre des ventes
-ainsi consenties reçoivent les affectations prévues à l'article L. 443-11.
-
-Lorsqu'il s'agit de ventes de logements à des personnes physiques, celles-ci ne doivent pas disposer de ressources
-supérieures à celles fixées pour l'octroi de prêts aidés par l'Etat pour la construction de logements en accession à la
-propriété.
-
-Tout acte conclu en infraction aux dispositions du présent article est nul. L'action en nullité se prescrit par dix ans à
-compter de la date de l'acte.
-
-Les dispositions qui précèdent ne sont pas applicables aux opérations entreprises en vue de l'accession à la propriété ni aux
-cessions gratuites de terrains imposées par l'autorité compétente.
+Toutefois, lorsque le prix de cession de ladite aliénation est supérieur à un montant déterminé par arrêté du ministre chargé
+de la construction et de l'habitation et du ministre chargé de l'économie et des finances, la décision d'aliéner est soumise
+à la procédure prévue à l'article L. 443-7.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
@@ -13620,18 +13588,19 @@ cessions gratuites de terrains imposées par l'autorité compétente.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L443-11 (M)
 	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
 
 
 ###### Article L443-15
 
-Lorsqu'une vente conclue en application des articles L. 443-7, L. 443-8 ou L. 443-14 concerne un logement ayant fait l'objet
-d'une réservation conventionnelle au profit d'une personne morale, celle-ci peut, dans des conditions fixées par décret en
-Conseil d'Etat, obtenir de l'organisme vendeur qu'il lui réserve en contrepartie un autre logement dans son patrimoine.
+Sauf s'il y renonce, les fonctions de syndic de la copropriété sont assurées, en cas de vente conclue en application de la
+présente section, par l'organisme vendeur tant que celui-ci y demeure propriétaire de logements.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-556 1965-07-10 art. 18
 
 	**Cité par**:
 
@@ -13641,35 +13610,27 @@ Conseil d'Etat, obtenir de l'organisme vendeur qu'il lui réserve en contreparti
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
 
-	**Cite**:
-
-	  - Loi n°70-9 du 2 janvier 1970 - art. 18 (M)
-	  - Code de la construction et de l'habitation. - art. L443-14 (M)
-	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 
 ###### Article L443-15-1
 
-Sauf s'il y renonce, les fonctions de syndic de la copropriété sont assurées, en cas de vente conclue en application des
-dispositions des articles L. 443-7, L. 443-8 ou L. 443-14, par l'organisme vendeur tant que celui-ci y demeure propriétaire
-de logements. Dans cette hypothèse, la rémunération du syndic est fixée par le ministre chargé de la construction et de
-l'habitation.
+Sans préjudice des dispositions du titre III du livre IV du code de l'urbanisme, un bâtiment à usage d'habitation appartenant
+à un organisme d'habitations à loyer modéré et construit avec l'aide de l'Etat ne peut être démoli sans l'accord préalable du
+représentant de l'Etat dans le département, de la commune d'implantation et des garants des prêts.
 
-Quand l'organisme n'assure pas lui-même les fonctions de syndic de la copropriété, la constitution d'un conseil syndical est
-obligatoire et l'organisme vendeur en est membre de droit tant qu'il demeure propriétaire de logements.
+Un décret en Conseil d'Etat fixe les conditions de remboursement des emprunts et des aides de l'Etat en cas de démolition
+totale ou partielle.
 
 **Liens relatifs à cet article**
 
@@ -13688,58 +13649,113 @@ obligatoire et l'organisme vendeur en est membre de droit tant qu'il demeure pro
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. L443-14 (M)
-	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 
 ###### Article L443-15-2
 
-Les acquisitions prévues aux articles L. 443-7, L. 443-8 et
-
-L. 443-14 ci-dessus ne peuvent donner lieu à des versements de commissions, ristournes ou rémunérations quelconques au profit
-d'intermédiaires.
-
-Toute infraction à ces dispositions entraîne la répétition des sommes perçues et l'application des peines prévues à l'article
-18 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations
-portant sur les immeubles et les fonds de commerce [*sanctions*].
+Les dispositions de la présente section s'appliquent à l'aliénation des logements acquis par des sociétés d'économie mixte en
+application du quatrième alinéa de l'article L. 443-11.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Loi n°70-9 du 2 janvier 1970 - art. 18 (M)
-	  - Code de la construction et de l'habitation. - art. L443-14 (M)
-	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Loi n°65-556 1965-07-10 art. 18
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°83-953 1983-11-02 ART. 1 JORF 3 NOVEMBRE 1983
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. *R443-12-1 (V)
 	  - Code de la construction et de l'habitation. - art. R362-2 (V)
 	  - Code de la construction et de l'habitation. - art. R481-8-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-11 (M)
+
+
+###### Article L443-15-3
+
+Les dispositions de la présente section ne sont applicables ni aux opérations entreprises en vue de l'accession à la
+propriété, ni aux cessions gratuites de terrains imposées par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
+
+
+###### Article L443-15-4
+
+Dans le cas où le terrain sur lequel un immeuble ou un groupe d'immeubles est édifié a été donné à bail à construction à un
+organisme d'habitations à loyer modéré par une collectivité publique, le bailleur et le preneur peuvent, préalablement à
+toute cession de logements prévue à l'article L. 443-7 du présent code, convenir d'une vente du terrain d'assiette au profit
+de ce dernier. Dans ce cas, l'organisme d'habitations à loyer modéré peut, en accord avec le vendeur, se libérer d'une partie
+du prix de vente, par des versements échelonnés sur plusieurs années.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  1er juillet 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+
+
+###### Article L443-15-5
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 
 ##### Section 3 : Dispositions particulières aux pensionnés de guerre.
