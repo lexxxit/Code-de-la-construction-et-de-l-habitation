@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-04-27
+Version Consolidée au 1996-04-27 00:00:01 +0200
 
 # Partie législative
 
@@ -65793,7 +65793,7 @@ selon les modalités fixées par l'arrêté mentionné au 1° ci-dessus.
 	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
 
 
-###### Article R*441-24
+###### Article *R441-24
 
 La délibération fixant les modalités de calcul du supplément de loyer de solidarité applicables aux logements de l'organisme
 d'habitations à loyer modéré dans le département devient exécutoire dans les conditions fixées par l'article L. 441-7.
@@ -65801,15 +65801,44 @@ d'habitations à loyer modéré dans le département devient exécutoire dans le
 La seconde délibération devient exécutoire dès que le préfet du département du lieu de situation des logements en a reçu
 communication.
 
+**Nota:**
+
+Décret n° 2008-825 du 21 août 2008 art. 3 : A défaut de l'adoption ou de la conclusion et de l'entrée en vigueur des
+programmes ou conventions mentionnés aux deuxième et troisième alinéas avant le 1er janvier 2010, les dispositions de
+l'article *R441-24 ne sont plus en vigueur à cette date.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°2008-825 du 21 août 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
+	  - Code de la construction et de l'habitation. - art. L441-7 (Ab)
+
+
+###### Article *R441-25
+
+Lorsqu'en application des dispositions de l'alinéa 2 de l'article L. 441-9 l'organisme d'habitations à loyer modéré liquide
+provisoirement le supplément de loyer, la valeur du coefficient de dépassement du plafond de ressources retenu est celle du
+coefficient maximal adopté par l'organisme ou, à défaut, est égale à deux.
+
+**Nota:**
+
+Décret n° 2008-825 du 21 août 2008 art. 3 : A défaut de l'adoption ou de la conclusion et de l'entrée en vigueur des
+programmes ou conventions mentionnés aux deuxième et troisième alinéas avant le 1er janvier 2010, les dispositions de
+l'article *R441-25 ne sont plus en vigueur à cette date.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2008-825 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-9 (V)
 
 
 ###### Article R441-19
@@ -65839,23 +65868,6 @@ mentionnés au premier alinéa de l'article L. 441-1, à l'exception des logemen
 
 	  - Code de la construction et de l'habitation. - art. *R441-31 (V)
 	  - Code de la construction et de l'habitation. - art. L441-1 (V)
-
-
-###### Article R441-25
-
-Lorsqu'en application des dispositions de l'alinéa 2 de l'article L. 441-9 l'organisme d'habitations à loyer modéré liquide
-provisoirement le supplément de loyer, la valeur du coefficient de dépassement du plafond de ressources retenu est celle du
-coefficient maximal adopté par l'organisme ou, à défaut, est égale à deux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978)
-
-	**Créé par**:
-
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
 
 
 ###### Article R441-26
