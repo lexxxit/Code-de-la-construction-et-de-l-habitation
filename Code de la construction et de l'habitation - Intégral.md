@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-04-29
+Version Consolidée au 1995-05-02
 
 # Partie législative
 
@@ -64833,6 +64833,36 @@ conformément à l'article L. 442-9 est donnée par arrêté du ministre chargé
 	  - Code de la construction et de l'habitation. - art. L442-9 (M)
 
 
+###### Article R442-5-1
+
+Les logements-foyers mentionnés au troisième alinéa de l'article L. 442-8 sont les résidences sociales prévues au 2 de
+l'article R. 351-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-496 du 19 avril 1995 - art. 1 () JORF 2 mai 1995
+
+	**Transféré par**:
+
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L442-8 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R442-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R442-4 (V)
+
+
 ##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.
 
 ###### Article R442-6
@@ -65369,24 +65399,23 @@ alinéas 2 et 3 du présent article.
 
 ###### Article R443-13
 
-Lorsque, dans les cas prévus au deuxième alinéa de l'article L. 443-13, l'acquéreur demande à se libérer d'une partie du prix
-de vente par des versements échelonnés dans le temps, l'organisme doit proposer ces facilités pour un montant compris entre
-20 p. 100 et 80 p. 100 du prix de vente et à un taux effectif global dont le plafond est fixé par arrêté conjoint du ministre
-chargé de l'économie et des finances et du ministre chargé de la construction et de l'habitation.
+Préalablement à toute acquisition d'un logement vacant d'un organisme d'habitations à loyer modéré par un organisme à but non
+lucratif prévu au deuxième alinéa de l'article L. 443-11, l'organisme acquéreur, en justifiant notamment de sa capacité à
+mener à bien l'opération envisagée, doit obtenir l'agrément du représentant de l'Etat dans le département où se situe le
+logement.
 
-L'organisme vendeur peut proposer à l'acquéreur différentes formules de versements échelonnés, mais l'acquéreur doit pouvoir
-opter en tout état de cause pour des versements constants échelonnés sur 240 mensualités.
+A la demande d'agrément est joint l'engagement de l'organisme de mettre le logement pendant au moins quinze ans à la
+disposition de personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en
+oeuvre du droit au logement. Ce délai court à compter de la date du transfert de propriété.
+
+A peine de nullité de la vente, l'acte authentique doit reproduire les textes de cet engagement et de la décision portant
+agrément.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
-	  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 	**Cité par**:
 
@@ -65395,7 +65424,35 @@ opter en tout état de cause pour des versements constants échelonnés sur 240 
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L443-13 (M)
+	  - Loi n°90-449 1990-05-31 art. 1
+	  - Code de la construction et de l'habitation. - art. L443-11 (M)
+
+	**Modifié par**:
+
+	  - Décret n°95-496 du 19 avril 1995 - art. 2 () JORF 2 mai 1995
+
+
+###### Article R443-13-1
+
+Aux indications prévues au dernier alinéa de l'article L. 443-7, l'organisme d'habitations à loyer modéré doit joindre un
+document précisant à l'acquéreur personne physique qu'il sera redevable, chaque année, de la taxe foncière sur les propriétés
+bâties, à compter de la première année suivant celle où a eu lieu le transfert de propriété. Il lui adresse en outre, si
+l'immeuble est soumis aux dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
+immeubles bâtis, un exemplaire de l'état descriptif de division et du règlement de copropriété.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 1965-07-10
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-496 du 19 avril 1995 - art. 2 () JORF 2 mai 1995
 
 
 ###### Article R443-14
@@ -65531,6 +65588,30 @@ prévu.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
+
+
+###### Article R443-18
+
+Les dispositions de la présente section sont applicables aux logements locatifs des sociétés d'économie mixte acquis d'un
+organisme d'habitations à loyer modéré.
+
+Ces dispositions s'appliquent également aux logements locatifs faisant l'objet des conventions conclues en application de
+l'article L. 351-2 et, dans les départements d'outre-mer, aux logements locatifs sociaux des sociétés d'économie mixte
+construits, acquis ou améliorés à l'aide de prêts aidés par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-496 du 19 avril 1995 - art. 3 () JORF 2 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
