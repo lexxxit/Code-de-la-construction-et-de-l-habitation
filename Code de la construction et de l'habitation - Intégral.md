@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-09-30
+Version Consolidée au 1990-10-10
 
 # Partie législative
 
@@ -41737,6 +41737,28 @@ la sécurité sociale et de l'agriculture.
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 
+##### Sous-section 5 : Prime de déménagement.
+
+###### Article R351-25
+
+Le montant de la prime de déménagement à laquelle ouvre droit l'aide personnalisée est fixé dans la double limite des
+dépenses justifiées réellement engagées par le bénéficiaire et d'un plafond fixé, en fonction de la composition de la
+famille, par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et
+de la sécurité sociale.
+
+Le montant de cette prime est arrondi au franc le plus proche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 1 () JORF 10 octobre 1990
+
+
 ##### Sous-section 7 : Dispositions diverses.
 
 ###### Article R*351-30
@@ -42028,6 +42050,102 @@ Le coefficient K est arrondi à deux décimales par défaut.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+
+
+###### Article R351-61-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter de la parution du présent décret, en application du
+5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient K est
+déterminé par la formule :
+
+" K = 0,9 -( R /(CM X N))
+
+" dans laquelle :
+
+" R représente les ressources déterminées conformément à l'article R. 351-61 ;
+
+" CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+" N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
+charge, 2,3 si le ménage ou la personne isolée a une personne à charge.
+
+" Le coefficient K est arrondi à deux décimales par défaut. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 4 () JORF 10 octobre 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
+###### Article R351-62-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter de la parution du présent décret, en application du
+5° de l'article L. 351-2, à l'exception de ceux qui sont mentionnés aux 2° et 3° de l'article R. 351-56, l'équivalence de
+loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches dont les limites
+inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61-1.
+
+" Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés du logement, du budget,
+de la sécurité sociale et de l'agriculture.
+
+" L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
+arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
+
+" Le résultat est divisé par douze et arrondi au franc immédiatement inférieur. Pour le calcul de cette équivalence de loyer
+et de charges minima, les ressources à prendre en considération sont déterminées dans les conditions prévues à l'article R.
+351-61. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 6 () JORF 10 octobre 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 ##### Sous-section 7 : Dispositions diverses.
@@ -43315,6 +43433,64 @@ titre V, chapitre III, section VII du présent livre.
 
 ##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
 
+###### Article R351-58
+
+L'aide personnalisée au logement est attribuée aux personnes résidant dans les logements-foyers visés au 5° de l'article L.
+351-2 qui répondent aux conditions prévues à l'article R. 351-55 et font l'objet d'une convention passée dans les conditions
+prévues au titre V, chapitre III, section VII du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 2 () JORF 10 octobre 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
+###### Article R351-62-2
+
+La dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges locatives prise en compte (E) le
+montant mensuel de l'aide personnalisée obtenu par l'application de la formule prévue à l'article R. 351-60, doit être au
+moins égale à un minimum forfaitaire (M) dont le montant est fixé par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture. Lorsque la dépense nette de logement est inférieure au minimum
+forfaitaire, il est appliqué au montant mensuel de l'aide personnalisée un abattement égal à la différence constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 5 () JORF 10 octobre 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-60 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
+
+
 ###### Article R351-63
 
 L'aide personnalisée est versée au gestionnaire du logement-foyer selon les modalités techniques prévues par un avenant à la
@@ -43349,6 +43525,45 @@ familiales.
 ##### Section 4 : Dispositions particulières aux logements-foyers.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-60
+
+Le montant de l'aide personnalisée est obtenu par application de la formule : A. P. L. = K (E - E0) dans laquelle :
+
+a) A. P. L. représente le montant mensuel de l'aide personnalisée ;
+
+b) K représente le coefficient de prise en charge défini à l'article R. 351-61 ou R. 351-61-1 ;
+
+c) E représente l'équivalence de loyer et de charges locatives telle que définie aux articles R. 353-156 à R. 353-160, prise
+en compte dans la limite d'une équivalence de loyer et de charges locatives de référence fixée par arrêté conjoint des
+ministres chargés de la sécurité sociale, de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la
+construction et de l'habitation et de l'agriculture ;
+
+d) E0 représente l'équivalence de loyer et de charges locatives minima, telle que définie à l'article R. 351-62 ou R.
+351-62-1, prise en compte pour le calcul de l'aide personnalisée.
+
+Le montant de l'aide personnalisée au logement est arrondi au franc le plus proche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-906 du 1 octobre 1990 - art. 3 () JORF 10 octobre 1990
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
+
 
 ###### Article R351-62
 
@@ -48307,86 +48522,9 @@ application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
 
 ##### Section 1 : Aide personnalisée
 
-##### Sous-section 5 : Prime de déménagement.
-
-###### Article R351-25
-
-Le montant de la prime de déménagement à laquelle ouvre droit l'aide personnalisée est fixé dans la double limite des
-dépenses justifiées réellement engagées par le bénéficiaire et d'un plafond fixé, en fonction de la composition de la
-famille, par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et
-de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
 ##### Sous-section 7 : Dispositions diverses.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-58
-
-L'aide personnalisée est attribuée aux personnes résidant dans un logement-foyer répondant aux conditions fixées par les
-articles R. 351-55 à R. 351-57 [*bénéficiaire*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-57 (M)
-
-
-###### Article R351-62-1
-
-" La dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges locatives prise en compte (E) le
-montant mensuel de l'aide personnalisée obtenu par l'application de la formule prévue à l'article R. 351-60, doit être au
-moins égale à un minimum forfaitaire (M) dont le montant est fixé par arrêté conjoint des ministres chargés du logement, du
-budget, de la sécurité sociale et de l'agriculture. Lorsque la dépense nette de logement est inférieure au minimum
-forfaitaire, il est appliqué au montant mensuel de l'aide personnalisée un abattement égal à la différence constatée. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
-	  - SPEC_APPLI: Décret n°88-966 1988-10-13 art. 8
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
-	  - Arrêté du 30 juin 1979 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-60 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°88-966 du 10 octobre 1988 - art. 7 () JORF 13 octobre 1988 en vigueur le 1er juillet 1988
-
 
 ###### Article R351-64
 
@@ -48432,49 +48570,6 @@ de ses obligations.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-30 (M)
-
-
-### Titre V : Aide personnalisée au logement
-
-#### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-60
-
-Le montant de l'aide personnalisée est obtenu par application de la formule : A. P. L. = K (E - E0) dans laquelle :
-
-a) A. P. L. représente le montant mensuel de l'aide personnalisée ;        b) K représente le coefficient de prise en charge
-défini à l'article R. 351-61 ;        c) E représente l'équivalence de loyer et de charges locatives telle que définie aux
-articles R. 353-156 à R. 353-160, prise en compte dans la limite d'une équivalence de loyer et de charges locatives de
-référence fixée par arrêté conjoint des ministres chargés de la sécurité sociale, de l'action sociale, des travailleurs
-immigrés, du Trésor, du budget, de la construction et de l'habitation et de l'agriculture ;        d) E0 représente
-l'équivalence de loyer et de charges locatives minima, telle que définie à l'article R. 351-62, prise en compte pour le
-calcul de l'aide personnalisée.    " Le montant de l'aide personnalisée au logement est arrondi au franc le plus proche. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°89-843 du 15 novembre 1989 - art. 4 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
-
-	**Cite**:
-
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R351-61, R353-156 à R353-160, R351-62
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-	  - Code de la construction et de l'habitation. - art. R351-62 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-22 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 ### Titre VI : Organismes consultatifs.
