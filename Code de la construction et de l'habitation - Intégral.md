@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-07-08
+Version Consolidée au 1983-07-21
 
 # Partie législative
 
@@ -10570,6 +10570,114 @@ individuelles destinées à être vendues en l'état futur d'achèvement à des 
 	  - Code de l'urbanisme 173
 
 
+###### Article L422-3-1
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré ayant construit au moins cinquante logements au
+cours des trois années précédant la date de publication de la loi n° 83-657 du 20 juillet 1983 relative au développement de
+certaines activités d'économie sociale peuvent être autorisées par le ministre chargé de la construction et de l'habitation
+à : 
+
+a) Construire, acquérir, aménager, restaurer, agrandir, améliorer en vue de l'accession à la propriété et gérer des immeubles
+collectifs ou individuels à usage d'habitation ou à usage professionnel et d'habitation ou destinés à cet usage ;
+
+b) Assister, à titre de prestataire de services, des personnes physiques ou morales en vue de la réalisation de toutes
+opérations d'aménagement, de restauration, d'agrandissement et d'aménagement d'immeubles existants et destinés à usage
+d'habitation ou à usage professionnel et d'habitation ;
+
+c) Réaliser des lotissements ;
+
+Les sociétés ne remplissant pas la condition énoncée au premier alinéa du présent article devront avoir construit au moins
+cent logements au cours d'une période de trois ans avant de pouvoir bénéficier de l'autorisation susvisée.
+
+L'autorisation ministérielle ne peut intervenir qu'après décision d'une assemblée générale extraordinaire prise à la majorité
+des deux tiers des voix dont disposent les associés présents ou représentés.
+
+Cette autorisation peut être retirée à la suite d'un contrôle fait dans les conditions prévues à l'article L. 451-1 et
+portant sur la qualité de la gestion technique et financière de la société.
+
+Toute opération réalisée en application de l'alinéa a ci-dessus doit faire l'objet d'une garantie de financement et d'une
+garantie d'acquisition des locaux non vendus.
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré mentionnées au présent article font procéder
+périodiquement à l'examen analytique de leur situation financière et de leur gestion.
+
+Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de la coopération, détermine les modalités de mise en
+oeuvre de la procédure, dite de révision coopérative, définie à l'alinéa précédent ainsi que les conditions d'agrément
+garantissant le pluralisme de son exercice et le respect des principes coopératifs.
+
+Un décret détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°83-657 1983-07-20
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-657 du 20 juillet 1983 - art. 66 () JORF 21 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 53 () JORF 14 juillet 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-4 (M)
+
+
+###### Article L422-3-2
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré dont la qualité de la gestion sur les plans
+technique et financier a été constatée à l'occasion du contrôle prévu à l'article L. 451-1 peuvent, par décision du ministre
+chargé de la construction et de l'habitation et du ministre de l'économie et des finances, être autorisées, dans des
+conditions fixées par décret, à construire, acquérir, aménager, restaurer, agrandir, améliorer et gérer des immeubles en vue
+de la location et destinés à usage d'habitation ou à usage professionnel et d'habitation à la condition que les locataires,
+par dérogation au deuxième alinéa de l'article 3 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
+ne soient pas associés de la société coopérative.
+
+Ces sociétés doivent faire procéder, sous le nom de révision coopérative, à l'examen analytique et périodique de leurs
+comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 1947-09-10 ART. 3 AL. 2
+	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°83-657 du 20 juillet 1983 - art. 66 () JORF 21 JUILLET 1983
+
+	**Cité par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 24 (V)
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. L422-12 (V)
+	  - Code de la construction et de l'habitation. - art. L422-13 (V)
+	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-7-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+
+
 ##### Section 4 : Sociétés anonymes de crédit immobilier.
 
 ###### Article L422-4
@@ -10911,23 +11019,34 @@ coopératives d'habitations à loyer modéré existant au 16 juillet 1971 et tou
 
 ###### Article L422-14
 
-La décision des sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution, prise avant le 30
-décembre 1976, de se transformer en sociétés anonymes coopératives de production d'habitations à loyer modéré entraîne une
-réduction du capital telle que doit être limité à une le nombre des actions dont chaque associé locataire-attributaire est
-propriétaire.
+Les sociétés anonymes coopératives d'habitation à loyer modéré de location-attribution peuvent, pendant un délai d'un an à
+compter de la date de publication de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités
+d'économie sociale, décider de se transformer en sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
 A peine de nullité, la décision de transformation doit être agréée par le ministre chargé de la construction et de
 l'habitation.
+
+La transformation d'une société anonyme coopérative d'habitation à loyer modéré de location-attribution ou la fusion d'une
+telle société avec une société anonyme coopérative de production d'habitations à loyer modéré est subordonnée à une réduction
+du capital telle que doit être limité à un le nombre des actions dont chaque associé locataire-attributaire est propriétaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-1255 1975-12-27 art. 2
+	  - Loi n°75-1255 1975-12-27 ART. 2
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°83-657 1983-07-20
+
+	**Modifié par**:
+
+	  - Loi n°83-657 du 20 juillet 1983 - art. 64 () JORF 21 JUILLET 1983
 
 	**Cité par**:
 
@@ -10941,15 +11060,23 @@ A compter de la publication de l'arrêté d'agrément prévu à l'article L. 422
 réels sur les biens faisant l'objet des contrats de location-attribution, sans l'accord des locataires-attributaires ; ces
 biens ne peuvent être saisis en raison des créances postérieures à cette date.
 
+En cas de fusion entre une société anonyme coopérative d'habitations à loyer modéré de location-attribution et une société
+anonyme coopérative de production d'habitations à loyer modéré, les mêmes dispositions s'appliquent à compter de la
+publication de l'arrêté approuvant cette fusion.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-1255 1975-12-27 art. 3
+	  - Loi n°75-1255 1975-12-27 ART. 3
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°83-657 du 20 juillet 1983 - art. 65 () JORF 21 JUILLET 1983
 
 	**Cite**:
 
