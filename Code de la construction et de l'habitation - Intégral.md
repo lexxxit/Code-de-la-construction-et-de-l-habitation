@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-07-17
+Version Consolidée au 1992-07-30
 
 # Partie législative
 
@@ -52557,7 +52557,9 @@ département ;
 
 " g) Sur toute modification intervenant dans la compétence des offices publics d'habitations à loyer modéré, des offices
 publics d'aménagement et de construction, des sociétés anonymes d'habitations à loyer modéré et des sociétés coopératives
-d'habitations à loyer modéré exerçant leur activité dans le département. "
+d'habitations à loyer modéré exerçant leur activité dans le département. Dans ce cas, l'avis du conseil départemental de
+l'habitat est réputé favorable s'il n'est pas formulé dans un délai de trois mois à compter de la date à laquelle le conseil
+est saisi par le préfet. "
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
@@ -52582,7 +52584,7 @@ ter de la même loi dans les conditions définies par l'article R. 362-20. "
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 1 () JORF 19 juin 1992
+	  - Décret n°92-726 du 29 juillet 1992 - art. 1 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -52633,7 +52635,9 @@ bénéficiaires d'aide à la personne défaillante.
 
 Le conseil départemental de l'habitat [*attributions*] est substitué au comité départemental des habitations à loyer modéré.
 Il est notamment saisi pour avis de toute création, dissolution, modification de compétences des organismes d'habitations à
-loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département.
+loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département. Ces avis sont réputés
+favorables s'ils ne sont pas formulés dans un délai de trois mois à compter de la date à laquelle le conseil est saisi par le
+préfet. "
 
 **Liens relatifs à cet article**
 
@@ -52643,7 +52647,7 @@ loyer modéré exerçant ou demandant d'être autorisés à exercer leur activit
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+	  - Décret n°92-726 du 29 juillet 1992 - art. 2 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -53341,6 +53345,28 @@ d'offices publics d'habitations à loyer modéré, sont régis par les dispositi
 	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
 
 
+###### Article R*421-6
+
+L'activité des offices publics d'aménagement et de construction s'exerce sur le territoire de la région où est situé leur
+collectivité locale ou leur établissement public de rattachement. Ils ont également compétence pour intervenir sur le
+territoire des départements limitrophes à cette région, après accord de la commune d'implantation de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 4 () JORF 30 juillet 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+
+
 ###### Article R*421-7
 
 Les offices publics d'aménagement et de construction sont administrés par un conseil d'administration de vingt et un
@@ -53388,6 +53414,34 @@ vacant parmi les administrateurs de ces institutions.
 
 	  - Code de la construction et de l'habitation. - art. R*421-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+
+
+###### Article R*421-9
+
+Les membres du conseil d'administration, à l'exception de ceux représentant les locataires, font l'objet d'une nouvelle
+désignation après chaque renouvellement partiel de l'organe délibérant de la collectivité ou de l'établissement public de
+rattachement de l'office. En cas de suspension ou de dissolution de cet organe, leur mandat est prolongé jusqu'à la
+désignation de leur successeur par les autorités habilitées à procéder à cette désignation.
+
+Les membres sortants du conseil peuvent être désignés à nouveau.
+
+Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son mandat,
+il est procédé immédiatement à son remplacement. Les fonctions du nouveau membre expirent à la date où auraient normalement
+cessé celles du membre qu'il a remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 6 () JORF 30 juillet 1992
+
+	**Cité par**:
+
 	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
 
@@ -54192,6 +54246,50 @@ Aucun des administrateurs ne peut être membre du personnel de l'office.
 	  - Code de la construction et de l'habitation. - art. R*421-57 (Ab)
 
 
+###### Article R*421-57
+
+Les membres du conseil d'administration, à l'exception de ceux représentant les locataires, font l'objet d'une nouvelle
+désignation après chaque renouvellement partiel de l'organe délibérant de la collectivité ou de l'établissement public de
+rattachement de l'office. En cas de suspension ou de dissolution de cet organe, leur mandat est prolongé jusqu'à la
+désignation de leur successeur par l'autorité habilitée à procéder à cette désignation. 
+
+Les membres sortants du conseil peuvent être désignés à nouveau. Si, après une mise en demeure du préfet non suivie d'effet
+dans la quinzaine, l'union départementale des associations familiales n'a pas établi la liste de trois noms prévue à
+l'article R. 421-55 2°, le préfet procède directement au choix d'un administrateur de cette institution. 
+
+Si, après une mise en demeure du préfet non suivie d'effet dans la quinzaine, les caisses d'allocations familiales ou les
+organismes collecteurs de la participation des employeurs à la construction, lorsqu'ils sont appelés à désigner directement
+un administrateur, n'ont pas désigné leur représentant, le conseil d'administration de l'office se complète lui-même en
+pourvoyant aux postes vacants parmi les administrateurs de ces institutions. 
+
+Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son mandat,
+il est procédé immédiatement à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles
+du membre qu'il a remplacé. 
+
+Ne peuvent être désignés comme administrateurs ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans
+un cas d'incapacité ou d'indignité prévu par les lois électorales, à l'exception des incapacités relatives à la nationalité
+ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-55 (Ab)
+
+
 ###### Article R*421-59
 
 En cas d'irrégularités, de faute grave ou de carence, le conseil d'administration des offices publics peut être dissout ou
@@ -54405,30 +54503,29 @@ fonctionnement du service comptable.
 
 ###### Article R*421-67
 
-/A/L'office public d'habitations à loyer modéré interdépartemental de la région parisienne, issu de l'office public
-d'habitations à loyer modéré du département de la Seine/A/DECR. 935 du 15 octobre 1981//, l'office public d'habitations à
-loyer modéré de la ville de Paris et l'office public d'habitations à loyer modéré interdépartemental de l'Essonne, du Val-
-d'Oise et des Yvelines, issu de l'office public d'habitations à loyer modéré du département de Seine-et-Oise, ont compétence
-pour réaliser dans l'ensemble de la région d'Ile-de-France les opérations prévues aux articles R. 421-51 à R. 421-53 et R.
-421-73 [*attributions*].
+L'office public d'aménagement et de construction de la ville de Paris et l'office public d'habitations à loyer modéré
+interdépartemental de l'Essonne, du Val-d'Oise et des Yvelines, issu de l'office public d'habitations à loyer modéré du
+département de Seine-et-Oise, ont compétence pour réaliser dans l'ensemble de la région d'Ile-de-France les opérations
+prévues aux articles R. 421-51 à R. 421-53 et R. 421-73.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1223 1967-12-22 art. 2, art. 3, art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°81-935 du 15 octobre 1981 - art. 15 () JORF 16 octobre 1981
+	  - Décret n°92-726 du 29 juillet 1992 - art. 12 () JORF 30 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R421-52
+	  - Code de l'éducation - art. R421-51 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-73 (Ab)
 
 	**Cité par**:
 
@@ -54465,33 +54562,32 @@ chambre de commerce et d'industrie.
 
 Dans tous les cas où les textes législatifs ou réglementaires prévoient que les délibérations du conseil d'administration
 d'un office public d'habitations à loyer modéré sont soumises à l'approbation préfectorale, cette tutelle est exercée, sans
-qu'il y ait lieu de recueillir l'avis d'une collectivité locale sur le budget de l'office [*autorité compétente*] :
+qu'il y ait lieu de recueillir l'avis d'une collectivité locale sur le budget de l'office :
 
-- par le préfet de Paris, en ce qui concerne l'office public d'habitations à loyer modéré de la ville de Paris /A/et l'office
-public d'habitations à loyer modéré interdépartemental de la région parisienne ;/A/DECR. 935 du 15 octobre 1981// ;
+- par le préfet de Paris, en ce qui concerne l'office public d'aménagement et de construction de la ville de Paris ;
 
-- par le préfet des Yvelines, en ce qui concerne l'office public d'habitations à loyer modéré interdépartemental de
-l'Essonne, du Val-d'Oise et des Yvelines.
+- par le représentant de l'Etat dans le département des Yvelines, en ce qui concerne l'office public d'habitations à loyer
+modéré interdépartemental de l'Essonne, du Val-d'Oise et des Yvelines. 
 
 Ces mêmes préfets assurent le contrôle prévu à l'article R. 451-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1223 1967-12-22 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°81-935 du 15 octobre 1981 - art. 17 () JORF 16 octobre 1981
+	  - Décret n°92-726 du 29 juillet 1992 - art. 12 () JORF 30 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R451-4 (M)
+	  - Code de la construction et de l'habitation. - art. R451-4 (V)
 
 
 ###### Article R*421-72
@@ -54734,17 +54830,17 @@ Les offices publics d'aménagement et de construction peuvent :
 1° Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1, ainsi que
 les opérations financées au moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat dans les cas
 prévus à l'article L. 351-2 et assurer la gestion des immeubles, acquis, construits ou aménagés aux mêmes fins, notamment en
-qualité de syndic.
+qualité de syndic;
 
 2° Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux collectivités locales, à d'autres organismes
 d'habitations à loyer modéré sous réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés d'économie
-mixte ou à des organismes à but non lucratif.
+mixte ou à des organismes à but non lucratif;
 
 3° Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention ou
 d'un traité de concession passé avec les collectivités locales, les établissements publics regroupant des communes ayant
-compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
-l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du
-présent code ;
+compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues aux articles L. 300-1 et
+suivants du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du présent
+code ;
 
 4° Réaliser directement ou à titre de prestataires de services, les opérations de restauration immobilière prévues aux
 articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
@@ -54754,7 +54850,7 @@ arrêté du ministre chargé de la construction et de l'habitation, du ministre 
 et du ministre de l'intérieur, après avis du conseil supérieur des habitations à loyer modéré, aux études de tout programme
 de construction de logements neufs ou de remise en état et d'amélioration de logements anciens, à la préparation des appels à
 la concurrence et des marchés, au contrôle et à la surveillance de l'exécution des travaux, à la préparation des règlements
-aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux.
+aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux;
 
 6° Réaliser, dans les conditions définies à l'article L. 421-1, des hébergements de loisirs à vocation sociale tels que des
 villages de vacances, des maisons familiales de vacances, des terrains aménagés de camping et de caravanage à usage locatif,
@@ -54765,25 +54861,23 @@ associations de jeunesse et d'éducation populaire.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cite**:
 
 	  - Décret n°80-694 1980-09-04
+	  - Code de l'urbanisme - art. L300-1 (M)
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L321-1 AL. 1
+	  - Code de la construction et de l'habitation L411-1, L351-2, L442-9, L423-4 à L423-6, L421-1
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
 	  - Code de la construction et de l'habitation. - art. L442-9 (M)
 
 	**Modifié par**:
 
-	  - Décret n°87-158 du 9 mars 1987 - art. 1 ()
+	  - Décret n°92-726 du 29 juillet 1992 - art. 3 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -54796,76 +54890,60 @@ associations de jeunesse et d'éducation populaire.
 	  - Code de la construction et de l'habitation. - art. R421-4-1 (Ab)
 
 
-###### Article R*421-6
-
-Les offices publics d'aménagement et de construction ont compétence sur le territoire de leur collectivité territoriale ou de
-leur établissement public de rattachement. Ils ont également compétence pour intervenir sur le territoire de la région de
-leur siège et des départements limitrophes, après accord de la commune d'implantation de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
-
-
 ###### Article R*421-8
 
-Les représentants des locataires sont élus pour trois ans dans les conditions ci-après :
+Les représentants des locataires élus dans les offices d'habitations à loyer modéré avant leur transformation en office
+public d'aménagement et de construction demeurent en fonctions, jusqu'à la fin normale de leur mandat, après ladite
+transformation. A la première échéance de leur mandat après leur transformation, ainsi qu'à chacune des échéances de mandats
+suivantes, ils sont élus pour trois ans dans les conditions ci-après :
 
 1° Sont électeurs les personnes physiques et morales qui ont conclu avec l'office un contrat de location d'un local à usage
-d'habitation au plus tard six semaines avant la date de l'élection et ont toujours la qualité de cet office. Les personnes
-morales participent au scrutin par l'intermédiaire d'un mandataire dûment habilité ; chaque contrat de location ne donne
-droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix ;
+d'habitation au plus tard six semaines avant la date de l'élection et ont toujours la qualité de locataire de l'office ; les
+personnes morales participent au scrutin par l'intermédiaire d'un mandataire dûment habilité ; chaque contrat de location ne
+donne droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix ;
 
 2° Sont éligibles les personnes physiques, âgées de dix-huit ans au minimum et ne tombant pas sous le coup des dispositions
-de l'article R. 421-11, qui sont locataires d'un local à usage d'habitation et peuvent produire soit la quittance
-correspondant à la période de location précédant l'acte de candidature, soit le récépissé visé à l'article 20 de la loi n°
-82-526 du 22 juin 1982, soit la décision de justice octroyant les délais de paiement du loyer ou des charges. Chaque contrat
-de location ne donne droit qu'à une seule candidature ;
+de l'article L. 423-12, qui sont locataires d'un local à usage d'habitation et peuvent produire soit la quittance
+correspondant à la période de location précédant l'acte de candidature, soit le reçu mentionné à l'article 21 de la loi n°
+89-462 du 6 juillet 1989, soit la décision de justice octroyant les délais de paiement du loyer ou des charges ; chaque
+contrat de location ne donne droit qu'à une seule candidature ;
 
-3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire fournissant toutes indications utiles sur la
-date des élections, la procédure électorale et les conditions requises des candidats est portée à la connaissance des
-locataires par voie d'affichage.
+3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire de l'office fournissant toutes indications
+utiles sur la date des élections, la procédure électorale et les conditions requises des candidats est portée à la
+connaissance des locataires par voie d'affichage.
 
-Les candidatures doivent parvenir à l'office six semaines au moins avant la date de l'élection ; un mois au moins avant cette
-même date, l'office porte la liste des candidats à la connaissance des locataires. Toute contestation relative à
-l'inscription sur cette liste est soumise au juge d'instance qui statue dans les conditions prévues par le code électoral ;
+Les listes de candidats doivent parvenir à l'office six semaines au moins avant la date de l'élection ; un mois au moins
+avant cette même date, l'office porte ces listes à la connaissance des locataires ; toute contestation relative à
+l'inscription sur ces listes est soumise au juge d'instance qui statue dans les conditions prévues par le code électoral ;
 huit jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à
 chacune des listes de candidats avec éventuellement pour chacune d'elles l'indication de son affiliation ;
 
-4° La date de l'élection, ainsi que les modalités pratiques de celle-ci sont arrêtées par le commissaire de la République,
-sur proposition du conseil d'administration. Le vote a lieu soit par correspondance, soit par dépôt des bulletins dans une
-urne, soit simultanément par les deux méthodes au scrutin secret de liste à un tour avec représentation proportionnelle au
+4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celle-ci
+sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des bulletins dans une
+urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation proportionnelle au
 plus fort reste, sans radiation ni panachage.
 
-Chaque liste doit comprendre six noms. Les sièges revenant à chaque liste en fonction des résultats du scrutin sont attribués
-dans l'ordre des noms figurant sur la liste. Les autres personnes figurant sur la liste sont qualifiées, en tant que
-suppléants, pour succéder, dans l'ordre où elles sont inscrites sur la liste, aux titulaires qui cessent leurs fonctions dans
-les conditions prévues au septième alinéa de l'article R. 421-9.
+Chaque liste doit comprendre six noms ; les sièges revenant à chaque liste en fonction des résultats du scrutin sont
+attribués dans l'ordre des noms figurant sur la liste ; les autres personnes figurant sur la liste succèdent, dans l'ordre où
+elles sont inscrites sur la liste, aux représentants qui cessent leurs fonctions, avant l'expiration de la durée normale de
+leur mandat, dans les conditions prévues au quatrième alinéa de l'article R. 421-9.
 
-Le dépouillement du scrutin a lieu au siège de l'office. Il est effectué par un bureau comprenant le président en exercice de
-l'office, un membre du conseil d'administration choisi parmi les administrateurs désignés par le commissaire de la République
-et un représentant de chaque liste de candidats. Les résultats sont affichés immédiatement dans tous les immeubles dépendant
-de l'office.    Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du
-siège de l'office dans la quinzaine qui suit le dépouillement. Le tribunal statue dans les conditions prévues par l'article
-R. 120 du code électoral ;
+Le dépouillement du scrutin a lieu au siège de l'office ; il est effectué, en présence d'au moins un représentant de chaque
+liste de candidats, par un bureau comprenant le président en exercice de l'office et un membre du conseil d'administration
+choisi parmi les administrateurs désignés par le préfet ; les résultats sont affichés immédiatement dans tous les immeubles
+dépendant de l'office.
 
-5° La perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
+Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du siège de l'office
+dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
+électoral ;
+
+5° Les représentants des locataires sont membres du conseil d'administration à compter de la clôture du dépouillement des
+élections ; la perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
 
 6° Au cas de création d'un nouvel office ou d'élections faisant suite à une dissolution, les attributions conférées par les
 dispositions du présent article aux offices existants ou à certains des membres de leur conseil d'administration sont
-exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration par le commissaire de la République ou par les
-fonctionnaires qu'il délègue à cet effet.
+exercées jusqu'à l'entrée en fonctions du nouveau conseil d'administration par le préfet ou par les fonctionnaires qu'il
+délègue à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -54875,14 +54953,13 @@ fonctionnaires qu'il délègue à cet effet.
 
 	**Cite**:
 
-	  - Loi n°82-526 1982-06-22 art. 20
-	  - Code électoral - art. R120 (M)
-	  - Code de l'urbanisme - art. R421-11 (M)
-	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Loi n°89-462 1989-07-06 art. 21
+	  - Code de la construction et de l'habitation L423-12, R421-9
+	  - Code de la construction et de l'habitation. - art. L423-12 (V)
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
+	  - Décret n°92-726 du 29 juillet 1992 - art. 5 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -54890,40 +54967,6 @@ fonctionnaires qu'il délègue à cet effet.
 	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
 	  - Code de la construction et de l'habitation. - art. R*421-11 (V)
 	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
-
-
-###### Article R*421-9
-
-La durée du mandat du conseil d'administration est de trois ans.
-
-Les membres désignés par la collectivité locale ou l'établissement public de rattachement font l'objet d'une nouvelle
-désignation après chaque renouvellement partiel ou total de l'organe délibérant qui les a élus. En cas de suspension ou de
-dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection de ses délégués par le nouvel organe.
-
-Les membres désignés par les conseils d'administration des caisses d'allocations familiales et par l'union départementale des
-associations familiales, ainsi que les membres désignés par le commissaire de la République, font l'objet d'une nouvelle
-désignation chaque fois que les collectivités locales ou les établissements publics doivent eux-mêmes procéder à une
-désignation de leurs représentants au conseil d'administration.
-
-Les membres sortants du conseil peuvent être désignés à nouveau.
-
-Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son fonctions
-avant l'expiration de la durée normale de son mandat, il est procédé immédiatement à son remplacement. Les fonctions du
-nouveau membre expirent à la date où auraient normalement cessé celles du membre qu'il a remplacé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
 
 ###### Article R*421-14
@@ -55034,32 +55077,8 @@ service, désigné par le conseil d'administration.
 
 ###### Article R*421-23
 
-Une commission désignée en son sein par le conseil d'administration se substitue à celui-ci pour l'attribution des logements.
-
-Elle est ainsi composée :
-
-- deux représentants de la collectivité locale ou de l'établissement public de rattachement de l'office ;
-
-- deux membres choisis parmi les administrateurs nommés par le commissaire de la République du département ;
-
-- un représentant des locataires ;
-
-- le représentant des caisses d'allocations familiales.
-
-Les six membres permanents mentionnés ci-dessus élisent en leur sein à la majorité absolue un président. En cas de partage
-des voix, le candidat le plus âgé est élu.
-
-Le président dispose d'une voix prépondérante en cas de partage égal des voix.
-
-Le maire de la commune où sont situés les immeubles dans lesquels des logements sont mis en location ou son représentant
-participe aux délibérations.
-
-Un représentant des bureaux d'aie sociale peut être appelé à siéger, à titre consultatif, par le président de la commission.
-En l'absence d'un bureau d'aide sociale, un représentant de la direction départementale de l'action sanitaire et sociale peut
-être appelé à siéger dans les mêmes conditions.
-
-La commission se substitue pour l'application des articles R. 441-2 à R. 441-31 et R. 441-36 à R. 441-38 au conseil
-d'administration de l'office public d'aménagement et de construction.
+La commission prévue à l'article L. 441-1-1, qui attribue nominativement chaque logement mis ou remis en location, est
+composée et fonctionne conformément à l'article R. 441-18.
 
 **Liens relatifs à cet article**
 
@@ -55069,27 +55088,12 @@ d'administration de l'office public d'aménagement et de construction.
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 11 () JORF 16 mars 1986
+	  - Décret n°92-726 du 29 juillet 1992 - art. 7 () JORF 30 juillet 1992
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R441-2 à R441-31, R441-36 à R441-38
-
-
-###### Article R*421-24
-
-Avant toute notification des attributions décidées, le procès-verbal des réunions de la commission est adressé au président
-du conseil d'administration qui peut demander une seconde délibération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 12 () JORF 16 mars 1986) A(Décret 92-726 1992-07-29 art. 8 JORF 30 juillet 1992
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
 
 
 ##### Section 2 : Offices publics d'habitations à loyer modéré
@@ -55190,105 +55194,57 @@ Les administrateurs fonctionnaires ou agents de l'Etat bénéficient du régime 
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 
 
-###### Article R*421-57
-
-Les membres [*administrateurs*] désignés par les collectivités locales et les établissements publics suivent le sort de
-l'organe délibérant qui les a élus. Ils font l'objet d'une nouvelle désignation après chaque renouvellement dudit organe. En
-cas de suspension ou de dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection de ses délégués par le
-nouvel organe.
-
-Les membres désignés par les caisses d'allocations familiales et les organismes collecteurs de la participation des
-employeurs à la construction, ainsi que les membres désignés par le commissaire de la République, font l'objet d'une nouvelle
-désignation chaque fois que les collectivités locales ou les établissements publics doivent eux-mêmes procéder à une
-désignation de leurs représentants au conseil d'administration. Toutefois, leur mandat [*durée*], éventuellement
-renouvelable, ne peut excéder trois ans.
-
-Les membres sortants du conseil peuvent être désignés à nouveau.
-
-Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, l'union départementale
-des associations familiales n'a pas établi la liste de trois noms prévue à l'article R. 421-55 2°, le commissaire de la
-République procède directement au choix d'un administrateur de cette institution.
-
-Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, les caisses d'allocations
-familiales ou les organismes collecteurs de la participation des employeurs à la construction, lorsqu'ils sont appelés à
-désigner directement un administrateur, n'ont pas désigné leur représentant, le conseil d'administration de l'office se
-complète lui-même en pourvoyant aux postes vacants parmi les administrateurs de ces institutions.
-
-Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son mandat,
-il est procédé immédiatement à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles
-du membre qu'il a remplacé.
-
-Ne peuvent être désignés comme administrateurs ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans
-un cas d'incapacité ou d'indignité prévu par les lois électorales, à l'exception des incapacités relatives à la nationalité
-ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-55 2°
-	  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-
 ###### Article R*421-58
 
-Les représentants des locataires sont élus pour trois ans dans les conditions suivantes :
+Les représentants des locataires sont élus pour trois ans dans les conditions ci-après :
 
 1° Sont électeurs les personnes physiques et morales qui ont conclu avec l'office un contrat de location d'un local à usage
-d'habitation au plus tard six semaines avant la date de l'élection, dans la mesure où elles sont toujours locataires de
-l'office à la date de l'élection ; les personnes morales participent au scrutin par l'intermédiaire d'un mandataire dûment
-habilité ; chaque contrat de location ne donne droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut
-prétendre à plusieurs voix ;
+d'habitation au plus tard six semaines avant la date de l'élection et ont toujours la qualité de locataire de l'office ; les
+personnes morales participent au scrutin par l'intermédiaire d'un mandataire dûment habilité ; chaque contrat de location ne
+donne droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix ;
 
-2° Sont éligibles les personnes physiques ne tombant pas sous le coup des dispositions du dernier alinéa de l'article R.
-421-57 ci-dessus, locataires d'un local à usage d'habitation et susceptibles de produire la quittance du mois précédant
-l'acte de candidature ou le récépissé visé à l'article 20 de la loi n° 82-526 du 22 juin 1982 ou la décision de justice
-octroyant des délais de paiement du loyer ou des charges, âgées de dix-huit ans au minimum : chaque contrat de location ne
-donne droit qu'à une seule candidature.
+2° Sont éligibles les personnes physiques, âgées de dix-huit ans au minimum et ne tombant pas sous le coup des dispositions
+de l'article L. 423-12, qui sont locataires d'un local à usage d'habitation et peuvent produire soit la quittance
+correspondant à la période de location précédant l'acte de candidature, soit le reçu mentionné à l'article 21 de la loi n°
+89-462 du 6 juillet 1989, soit la décision de justice octroyant les délais de paiement du loyer ou des charges ; chaque
+contrat de location ne donne droit qu'à une seule candidature ;
 
-3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire fournissant toutes indications utiles sur la
-date des élections, la procédure électorale et les conditions requises des candidats, est portée à la connaissance des
-locataires par voie d'affichage ;
+3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire de l'office fournissant toutes indications
+utiles sur la date des élections, la procédure électorale et les conditions requises des candidats est portée à la
+connaissances des locataires par voie d'affichage.
 
-Les candidatures doivent parvenir à l'office six semaines au moins avant la date de l'élection ; un mois au moins avant cette
-même date, l'office informe les locataires de la liste des candidats ; toute contestation relative à l'inscription sur cette
-liste est soumise au juge d'instance qui statue dans les conditions prévues par l'article L. 26 du code électoral ; huit
-jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à chacune
-des listes des candidats avec éventuellement pour chacune d'elles l'indication de son affiliation.
+Les listes des candidats doivent parvenir à l'office six semaines au moins avant la date de l'élection ; un mois au moins
+avant cette même date, l'office porte ces listes à la connaissance des locataires ; toute contestation relative à
+l'inscription sur ces listes est soumise au juge d'instance qui statue dans les conditions prévues par le code électoral ;
+huit jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à
+chacune des listes de candidats avec éventuellement pour chacune d'elles l'indication de son affiliation ;
 
-4° La date de l'élection qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celle-ci
-sont arrêtées par le commissaire de la République, sur proposition du conseil d'administration. Le vote a lieu soit par
-correspondance, soit par dépôt des bulletins dans une urne au scrutin secret de liste à un tour avec représentation
-proportionnelle au plus fort reste, sans radiation ni panachage.
+4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celles-
+ci sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des bulletins dans
+une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation proportionnelle
+au plus fort reste, sans radiation ni panachage.
 
-Chaque liste doit comprendre six noms. Les sièges revenant à chaque liste en fonction des résultats du scrutin sont attribués
-dans l'ordre des noms figurant sur la liste. Les autres personnes figurant sur la liste sont qualifiées, en tant que
-suppléants, pour succéder, dans l'ordre où elles sont inscrites sur la liste, aux titulaires qui cessent leurs fonctions dans
-les conditions prévues à l'avant-dernier alinéa de l'article R. 421-57.
+Chaque liste doit comprendre six noms ; les sièges revenant à chaque liste en fonction des résultats du scrutin sont
+attribués dans l'ordre des noms figurant sur la liste ; les autres personnes figurant sur la liste succèdent, dans l'ordre où
+elles sont inscrites sur la liste, aux représentants qui cessent leurs fonctions, avant l'expiration de la durée normale de
+leur mandat, dans les conditions prévues à l'avant-dernier alinéa de l'article R. 421-57.
 
-Le dépouillement du scrutin a lieu au siège de l'office. Il est effectué par un bureau comprenant le président en exercice de
-l'office, un membre du conseil d'administration choisi parmi les administrateurs désignés par le commissaire de la République
-et au moins un représentant de chaque liste de candidats. Les résultats sont affichés immédiatement dans tous les immeubles
+Le dépouillement du scrutin a lieu au siège de l'office ; il est effectué, en présence d'au moins un représentant de chaque
+liste de candidats, par un bureau comprenant le président en exercice de l'office et un membre du conseil d'administration
+choisi parmi les administrateurs désignés par le préfet. Les résultats sont affichés immédiatement dans tous les immeubles
 dépendant de l'office.
 
 Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du siège de l'office
 dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
-électoral.
+électoral ;
 
-5° La perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité.
+5° Les représentants des locataires sont membres du conseil d'administration à compter de la clôture du dépouillement des
+élections ; la perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
 
 6° Au cas de création d'un nouvel office ou d'élections faisant suite à une dissolution, les attributions conférées par les
 dispositions du présent article aux offices existants ou à certains des membres de leur conseil d'administration sont
-exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration par le commissaire de la République ou par les
-fonctionnaires qu'il délègue à cet effet.
+exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration par le préfet ou par les fonctionnaires qu'il
+délègue à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -55298,43 +55254,20 @@ fonctionnaires qu'il délègue à cet effet.
 
 	**Cite**:
 
-	  - Loi n°82-526 1982-06-22 ART. 20
+	  - Loi n°89-462 1989-07-06 art. 21
 	  - Code électoral - art. R120 (M)
-	  - Code électoral L26
-	  - Code de la construction et de l'habitation R421-57
+	  - Code de la construction et de l'habitation L423-12, R421-57
+	  - Code de la construction et de l'habitation. - art. L423-12 (V)
 
 	**Modifié par**:
 
-	  - Décret n°83-221 1983-03-22 ART. 1, ART. 13 rectificatif JORF 7 MAI 1983 JORF 24 MARS 1983
+	  - Décret n°92-726 du 29 juillet 1992 - art. 10 () JORF 30 juillet 1992
 
 
 ###### Article R*421-63
 
-Il est institué en son sein par le conseil d'administration de tout office public d'habitations à loyer modéré une commission
-d'attribution des logements composée de six membres, à savoir :
-
-Deux représentants de la collectivité locale ou de l'établissement public de rattachement de l'office ;
-
-Deux membres choisis parmi les administrateurs nommés par le commissaire de la République du département ;
-
-Un représentant des locataires ;
-
-Le représentant des caisses d'allocations familiales.
-
-Les six membres composant ainsi la commission d'attribution des logements élisent en leur sein à la majorité absolue un
-président. En cas de partage des voix, c'est le candidat le plus âgé qui est élu.
-
-Dans l'exercice de ses fonctions, le président dispose d'une voix prépondérante.
-
-Le maire de la commune où sont situés les immeubles dans lesquels des logements sont mis en location ou bien son représentant
-participe aux délibérations.
-
-Un représentant des bureaux d'aide sociale peut, en outre, être appelé à siéger, à titre consultatif, par le président de la
-commission ; en l'absence d'un bureau d'aide sociale, un représentant de la direction départementale de l'action sanitaire et
-sociale peut siéger dans les mêmes conditions.
-
-La commission se substitue pour l'application des articles R. 441-2, R. 441-3 et R. 441-36 à R. 441-38 au conseil
-d'administration de l'office public d'habitations à loyer modéré.
+La commission prévue à l'article L. 441-1-1, qui attribue nominativement chaque logement mis ou remis en location, est
+composée et fonctionne conformément à l'article R. 441-18.
 
 **Liens relatifs à cet article**
 
@@ -55344,12 +55277,12 @@ d'administration de l'office public d'habitations à loyer modéré.
 
 	**Modifié par**:
 
-	  - Décret n°83-221 1983-03-22 ART. 4 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+	  - Décret n°92-726 du 29 juillet 1992 - art. 11 () JORF 30 juillet 1992
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R441-2, R441-3 à R441-38
-	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
 
 	**Cité par**:
 
@@ -55365,6 +55298,9 @@ d'administration de l'office public d'habitations à loyer modéré.
 Les statuts des sociétés anonymes d'habitations à loyer modéré doivent contenir des clauses conformes aux clauses types
 reproduites en annexe au présent code.
 
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -55373,7 +55309,7 @@ reproduites en annexe au présent code.
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 2 () JORF 24 avril 1991
+	  - Décret n°92-726 du 29 juillet 1992 - art. 14 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -55383,8 +55319,8 @@ reproduites en annexe au présent code.
 
 ###### Article R*422-2
 
-La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
-assemblée générale extraordinaire tenue après la publication desdites dispositions.
+La commission prévue à l'article L. 441-1-1, qui attribue nominativement chaque logement mis ou remis en location, est
+composée et fonctionne conformément à l'article R. 441-18.
 
 **Liens relatifs à cet article**
 
@@ -55394,12 +55330,17 @@ assemblée générale extraordinaire tenue après la publication desdites dispos
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 3 () JORF 24 avril 1991
+	  - Décret n°92-726 du 29 juillet 1992 - art. 15 () JORF 30 juillet 1992
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
 
 
 ###### Article R*422-3
@@ -55438,19 +55379,15 @@ Le ministre chargé de la construction et de l'habitation peut, après avis du c
 modéré, agréer spécialement les sociétés anonymes d'habitations à loyer modéré pour leur permettre d'étendre leur activité à
 l'ensemble du territoire national [*extension compétence territoriale*].
 
-Peuvent solliciter le bénéfice des dispositions du présent alinéa les sociétés dont la qualité de gestion sur les plans
-technique et financier a été constatée à l'occasion du contrôle prévu par l'article L. 451-1 et qui, soit ont construit ou
-ont en gérance au moins 10000 logements au total, soit ont construit en moyenne au moins 1000 logements par an au cours des
-trois derniers exercices précédant la demande [*nombre*].
-
-Les sociétés ayant reçu un tel agrément doivent introduire dans leurs statuts une clause prévoyant l'institution d'un
-commissaire du Gouvernement.
+Peuvent solliciter le bénéfice des dispositions du précédent alinéa les sociétés dont la qualité de gestion, sur les plans
+technique et financier, a été constatée à l'occasion d'un contrôle prévu par l'article L. 451-1 et qui ont construit ou ont
+en gérance au moins 7 500 logements.
 
 Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé du Trésor peut, après avis
 du conseil supérieur des habitations à loyer modéré, agréer spécialement les sociétés anonymes d'habitations à loyer modéré
 dont la qualité de la gestion sur les plans technique et financier a été appréciée à l'occasion du contrôle prévu aux
 articles L. 451-1 et R. 451-2 pour permettre à ces sociétés de réaliser pour le compte de tiers toutes opérations
-d'aménagement [*zones d'habitation, zones industrielles*] prévues aux articles L. 300-1 et suivants du code de l'urbanisme.
+d'aménagement [*zones d'habitation, zones industrielles*] prévues aux articles L. 300-1 et suivvants du code de l'urbanisme.
 Cet agrément peut être limité dans le temps. Cet agrément n'est pas nécessaire pour les lotissements.
 
 Il peut également être limité à certaines catégories d'opérations en raison de leur nature ou de leur importance ou à une ou
@@ -55469,7 +55406,7 @@ Dans les cas visés aux deux alinéas précédents, les dispositions des article
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 5 () JORF 24 avril 1991
+	  - Décret n°92-726 du 29 juillet 1992 - art. 16 () JORF 30 juillet 1992
 
 	**Cite**:
 
@@ -55502,6 +55439,84 @@ observations, selon la même procédure que celle selon laquelle l'agrément a �
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R422-3, R422-4
+
+
+###### Article R422-2-1
+
+La représentation des locataires au conseil d'administration ou de surveillance des sociétés anonymes d'habitations à loyer
+modéré est assurée par l'appartenance audit conseil d'au moins un représentant des locataires lorsque ce conseil comprend
+moins de sept membres, compte non tenu de cette représentation, et d'au moins deux représentants des locataires dans les
+autres cas.
+
+Le ou les représentants des locataires sont élus pour trois ans dans les conditions ci-après :
+
+1° Sont électeurs les personnes physiques et morales qui ont conclu avec la société un contrat de location d'un local à usage
+d'habitation au plus tard six semaines avant la date de l'élection et ont toujours la qualité de locataire de la société ;
+les personnes morales participent au scrutin par l'intermédiaire d'un mandataire dûment habilité ; chaque contrat de location
+ne donne droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix ;
+
+2° Sont éligibles les personnes physiques, âgées de dix-huit ans au minimum et ne tombant pas sous le coup des dispositions
+de l'article L. 423-12, qui sont locataires d'un local à usage d'habitation et peuvent produire soit la quittance
+correspondant à la période de location précédant l'acte de candidature, soit le reçu mentionné à l'article 21 de la loi n°
+89-462 du 6 juillet 1989, soit la décision de justice octroyant les délais de paiement du loyer ou des charges ; chaque
+contrat de location ne donne droit qu'à une seule candidature ;
+
+3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire de la société fournissant toutes indications
+utiles sur la date des élections, la procédure électorale et les conditions requises des candidats est portée à la
+connaissance des locataires par voie d'affichage.
+
+Les listes des candidats doivent parvenir à la société six semaines au moins avant la date de l'élection ; un mois au moins
+avant cette même date, la société porte ces listes à la connaissance des locataires ; toute contestation relative à
+l'inscription sur ces listes est soumise au juge d'instance qui statue dans les conditions prévues par le code électoral ;
+huit jours au moins avant la date de l'élection, la société adresse à chaque locataire les bulletins de vote correspondant à
+chacune des listes de candidats avec, éventuellement pour chacune d'elles, l'indication de son affiliation ;
+
+4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celle-ci
+sont arrêtées par le conseil d'administration ou de surveillance ; le vote a lieu soit par correspondance, soit par dépôt des
+bulletins dans une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation
+proportionnelle au plus fort reste, sans radiation ni panachage.
+
+Chaque liste doit comprendre un nombre de candidats qui est le double de celui des sièges à pourvoir ; les sièges revenant à
+chaque liste en fonction des résultats du scrutin sont attribués dans l'ordre des noms figurant sur la liste ; les autres
+personnes figurant sur la liste succèdent, dans l'ordre où elles sont inscrites sur la liste, aux représentants qui cessent
+leurs fonctions avant l'expiration de la durée normale de leur mandat ; les fonctions du nouveau représentant des locataires
+expirent à la date où auraient normalement cessé celles du membre qu'il a remplacé.
+
+Le dépouillement du scrutin a lieu au siège de la société ; il est effectué, en présence d'au moins un représentant de chaque
+liste de candidats, par un bureau comprenant le président en exercice de la société et un membre du conseil d'administration
+ou de surveillance ne représentant pas les locataires ; les résultats sont affichés immédiatement dans tous les immeubles
+dépendant de la société.
+
+Les réclamations contre les opérations électorales sont portées devant le tribunal d'instance du lieu du siège de la société
+dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
+électoral ;
+
+5° Les représentants des locataires sont membres du conseil d'administration ou de surveillance à compter de la clôture du
+dépouillement des élections ; la perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette
+qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 1989-07-06 art. 21
+	  - Code de la construction et de l'habitation. - art. L423-12 (V)
+
+	**Créé par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 13 () JORF 30 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°95-357 du 4 avril 1995 - art. 2 (V)
+	  - Décret n°2004-641 du 1 juillet 2004 - art. 11 (V)
+	  - Code de l'organisation judiciaire - art. R221-32 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
 
 
 ###### Article R422-3-1
@@ -55846,6 +55861,33 @@ l'autorisation.
 	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 	  - Code de la construction et de l'habitation. - art. R451-2 (M)
+
+
+###### Article R422-9-1
+
+La commission prévue à l'article L. 441-1-1, qui attribue nominativement chaque logement mis ou remis en location, est, dans
+les sociétés ayant obtenu l'agrément mentionné à l'article L. 422-3-2, composée et fonctionne conformément à l'article R.
+441-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 17 () JORF 30 juillet 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
@@ -62826,8 +62868,7 @@ un refus.
 ###### Article R441-8
 
 L'organisme d'habitations à loyer modéré consulte le maire de la commune d'implantation des logements [*périodicité*] au
-moins une fois par an sur les principes régissant ces attributions et sur le résultat de leur application. Il lui communique
-également au moins une fois par an le nom et l'adresse des nouveaux locataires. "
+moins une fois par an sur les principes régissant ces attributions et sur le résultat de leur application.
 
 **Liens relatifs à cet article**
 
@@ -62837,7 +62878,7 @@ moins une fois par an sur les principes régissant ces attributions et sur le r�
 
 	**Modifié par**:
 
-	  - Décret n°87-902 1987-11-04 art. 4 jorf 10 novembre 1987
+	  - Décret n°92-726 du 29 juillet 1992 - art. 18 () JORF 30 juillet 1992
 
 
 ###### Article R441-9
@@ -63047,6 +63088,78 @@ présent code (deuxième partie).
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
+
+
+###### Article R441-18
+
+La composition et le fonctionnement de la commission prévue à l'article L. 441-1-1 et mentionnée aux articles R. 421-23, R.
+421-63, R. 422-2, R. 422-9-1 et R. 481-1 obéissent aux règles suivantes :
+
+I. - Le conseil d'administration ou de surveillance de l'organisme constitue une commission d'attribution des logements,
+comprenant six membres. Cette commission est composée :
+
+- s'il s'agit d'un office public d'aménagement et de construction ou d'un office public d'habitations à loyer modéré, de deux
+administrateurs représentant la collectivité locale ou l'établissement public de rattachement, de deux des administrateurs
+désignés par le préfet, d'un des administrateurs représentant les locataires et de l'administrateur désigné par les conseils
+d'administration des caisses d'allocations familiales ;
+
+- s'il s'agit d'une société anonyme d'habitations à loyer modéré, de cinq administrateurs ou membres du conseil de
+surveillance de la société, et d'un administrateur ou membre du conseil de surveillance représentant les locataires ;
+
+- s'il s'agit d'une société coopérative de production d'H.L.M. ou d'une société d'économie mixte, de membres du conseil
+d'administration ou de surveillance de la société.
+
+Si la dispersion géographique de son parc locatif le justifie, le conseil d'administration ou de surveillance peut décider de
+créer plusieurs commissions d'attribution, de chacune six membres, dont il fixe le nombre en même temps qu'il détermine le
+ressort de leur compétence. Ces commissions comprennent des représentants des différentes catégories de membres du conseil
+d'administration ou de surveillance visées aux alinéas précédents, en proportions identiques à celles mentionnées auxdits
+alinéas. Ces représentants sont désignés par le conseil d'administration ou de surveillance sur proposition, pour chaque
+catégorie d'entre eux, des membres correspondants dudit conseil. Ces représentants ne sont pas nécessairement membres de ce
+conseil.
+
+II. - Le conseil d'administration ou de surveillance de l'organisme définit les orientations qui guident l'attribution des
+logements et sont communes aux commissions s'il en est constitué plusieurs. Il établit également un règlement intérieur pour
+la ou les commissions. Le règlement fixe les règles d'organisation et de fonctionnement de la ou des commissions. Il précise
+en outre les règles de quorum applicables en matière de validité des délibérations de la ou des commissions.
+
+Les six membres de la commission, ainsi que ceux de chacune des commissions s'il en est constitué plusieurs, élisent en leur
+sein à la majorité absolue un président. En cas de partage des voix, le candidat le plus âgé est élu. Le président dispose,
+lors des séances, d'une voix prépondérante en cas de partage égal des voix.
+
+Le maire de la commune où sont situés les logements à attribuer, ou son représentant, participe avec voix délibérative aux
+séances pour ce qui concerne l'attribution de ces logements.
+
+Le président peut appeler à siéger, à titre consultatif, un représentant des bureaux d'aide sociale, ou un représentant du
+service chargé de l'action sanitaire et sociale du département du lieu d'implantation des logements.
+
+La commission d'attribution et chacune des commissions s'il en est
+
+constitué plusieurs se réunissent au moins une fois tous les deux mois.
+
+La ou les commissions rendent compte de leur activité au conseil d'administration de l'organisme, au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 19 () JORF 30 juillet 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L441-1-1, R421-23, R421-63, R422-2, R422-9-1, R481-1
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-23 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
+	  - Code de la construction et de l'habitation. - art. R*422-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*481-1 (M)
 
 
 #### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation
@@ -64817,6 +64930,52 @@ Réservé.
 	**Codifié par**:
 
 	  - Décret n°78-622 du 31 mai 1978, v. init.
+
+
+### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.
+
+###### Article R*481-1
+
+Dans les sociétés d'économie mixte gérant de s logements faisant l'objet de conventions régies par le chapitre III du titre V
+du livre III du présent code, la commission prévue à l'article L. 441-1-1, qui attribue nominativement chacun de ces
+logements lorsqu'ils sont mis ou remis en location, est composée et fonctionne conformément à l'article R. 441-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 20 () JORF 30 juillet 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+
+
+###### Article R*481-2
+
+Pour les sociétés d'économie mixte gérant des logements faisant l'objet de conventions régies par le chapitre III du titre V
+du livre III du présent code, les dispositions de la section 1 du chapitre Ier du titre IV du présent livre se substituent,
+en ce qui concerne ces logements conventionnés, aux dispositions ayant le même objet de la section III du chapitre III du
+titre V du livre III du présent code (deuxième partie).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°92-726 du 29 juillet 1992 - art. 21 () JORF 30 juillet 1992
 
 
 ## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.
