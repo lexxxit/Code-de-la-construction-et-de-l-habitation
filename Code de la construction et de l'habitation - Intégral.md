@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-11-15
+Version Consolidée au 1996-12-29
 
 # Partie législative
 
@@ -11927,17 +11927,27 @@ l'article L. 351-11, alinéa 3, in fine.
 
 L'aide personnalisée au logement n'est, ni comprise dans le montant des revenus du bénéficiaire passibles de l'impôt sur le
 revenu, ni prise en compte pour l'application de la condition de ressources en vue de l'attribution des prestations de
-vieillesse, des prestations familiales, des prestations d'aide sociale ou de l'allocation aux handicapés adultes.
+vieillesse, des prestations familiales autres que l'allocation de parent isolé dans les conditions prévues au deuxième alinéa
+de l'article L. 524-1 du code de la sécurité sociale, des prestations d'aide sociale ou de l'allocation aux handicapés
+adultes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°77-1 1977-01-03 art. 15
+	  - Loi n°77-1 1977-01-03 ART. 15
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°96-1160 du 27 décembre 1996 - art. 41 (V) JORF 29 décembre 1996
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L524-1 (M)
 
 
 ###### Article L351-11
@@ -67130,6 +67140,76 @@ d'habitations à loyer modéré et, notamment, à celles fixées par l'article L
 	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
+##### Section 3 : Enquêtes et statistiques relatives à la connaissance de l'occupation des logements.
+
+###### Article *R442-13
+
+Pour réaliser l'enquête prévue à l'article L. 442-5, l'organisme d'habitations à loyer modéré demande à chacun de ses
+locataires communication des avis d'imposition ou de non-imposition à l'impôt sur le revenu et des renseignements ci-après
+concernant l'ensemble des personnes vivant au foyer :
+
+- nom, prénom, âge et lien de parenté ;
+
+- renseignements permettant de calculer le plafond de ressources applicable ;
+
+- renseignements relatifs à la perception, directement ou en tiers payant, de l'aide personnalisée au logement ou de l'une
+des allocations de logement prévues par le code de la sécurité sociale, ainsi que du revenu minimum d'insertion, de
+l'allocation supplémentaire du Fonds national de solidarité, de l'allocation de parent isolé ou de l'allocation aux adultes
+handicapés ;
+
+- nature de l'activité professionnelle ou situation de demandeur d'emploi inscrit à l'Agence nationale pour l'emploi.
+
+Un arrêté du ministre chargé du logement fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°96-1163 du 26 décembre 1996 - art. 1 () JORF 29 décembre 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. *R442-14 (V)
+
+
+###### Article *R442-14
+
+Les renseignements statistiques à fournir par les organismes d'habitations à loyer modéré au préfet du département du lieu de
+situation des logements, en application de l'article L. 442-5, concernent :
+
+- les logements locatifs sociaux du bailleur, en distinguant notamment selon que les logements sont ou non conventionnés en
+application de l'article L. 351-2, selon qu'ils sont vacants ou occupés, selon qu'ils sont donnés en location ou en sous-
+location ;
+
+- les personnes physiques occupant ces logements, en distinguant notamment selon l'âge et les liens de parenté, selon la
+composition des ménages et leurs revenus rapportés au plafond de ressources, selon que sont perçues ou non les allocations
+mentionnées à l'article R. 442-13, selon la nature de l'activité professionnelle ou la situation de demandeur d'emploi
+inscrit à l'Agence nationale pour l'emploi ;
+
+- le nombre de ménages ayant répondu à l'enquête prévue à l'article R. 442-13.
+
+Ces renseignements statistiques sont établis par zone géographique dans le département en distinguant les zones urbaines
+sensibles et les zones de redynamisation rurale. Ils sont en outre établis en distinguant les ménages qui ont emménagé au
+cours des trois dernières années.
+
+Un arrêté du ministre chargé du logement fixe les modalités d'application du présent article, notamment la définition
+détaillée des renseignements statistiques, leurs modalités de présentation et la date de leur remise au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°96-1163 du 26 décembre 1996 - art. 1 () JORF 29 décembre 1996
+
+
 #### Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.
 
 ##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
@@ -68568,6 +68648,33 @@ logements prévus à l'article R. 441-31.
 	  - Arrêté du 11 février 2013 - art. Annexe (V)
 
 
+###### Article R472-2
+
+Les dispositions de la section III du chapitre II du titre IV du présent livre sont applicables dans les départements
+d'outre-mer aux organismes d'habitations à loyer modéré, aux sociétés d'économie mixte constituées en application de la loi
+n° 46-860 du 30 avril 1946 et aux sociétés d'économie mixte locales pour les logements à usage locatif leur appartenant ou
+gérés par eux et construits, acquis ou améliorés avec le concours financier de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-860 1946-04-30
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°96-1163 du 26 décembre 1996 - art. 2 () JORF 29 décembre 1996
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 2016 (V)
+	  - Arrêté du 8 mars 2016 - art. 1 (V)
+
+
 ### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.
 
 ###### Article R*481-1
@@ -68632,6 +68739,23 @@ des articles R. 433-5 à R. 433-23, dans les conditions fixées par ces articles
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
+
+
+###### Article R*481-5
+
+Les dispositions de la section III du chapitre II du titre IV du présent livre sont applicables aux sociétés d'économie mixte
+pour les logements à usage locatif leur appartenant et ouvrant droit à l'aide personnalisée au logement, en application des
+2° et 3° de l'article L. 351-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°96-1163 du 26 décembre 1996 - art. 3 () JORF 29 décembre 1996
 
 
 ###### Article R481-4
