@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-11-09
+Version Consolidée au 1996-11-15
 
 # Partie législative
 
@@ -7439,10 +7439,11 @@ défavorisées.
 
 ###### Article L301-3-1
 
-Dans les communes où l'ensemble des logements locatifs sociaux, tels que définis au 2° du III de l'article L. 234-12 du code
-des communes, représente plus de 40 p. 100 des résidences principales, la surface de plancher des logements locatifs
-bénéficiant au cours de l'année d'un concours financier de l'Etat, pour leur construction, ne peut excéder 80 p. 100 de la
-surface de plancher des logements commencés l'année précédente dans la commune et ne bénéficiant d'aucun concours de l'Etat.
+Dans les communes où l'ensemble des logements locatifs sociaux, tels que définis à l'article L. 2334-17 du code général des
+collectivités territoriales, représente plus de 35 p. 100 des résidences principales, la surface de plancher des logements
+locatifs bénéficiant au cours de l'année d'un concours financier de l'Etat, pour leur construction, ne peut excéder 80 p. 100
+de la surface de plancher des logements commencés l'année précédente dans la commune et ne bénéficiant d'aucun concours de
+l'Etat.
 
 Il ne peut être dérogé aux dispositions de l'alinéa précédent que sur décision motivée du représentant de l'Etat dans le
 département, prise après avis du maire de la commune concernée.
@@ -7457,13 +7458,13 @@ département, prise après avis du maire de la commune concernée.
 
 	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 44 () JORF 15 novembre 1996
+
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L234-12 (M)
-
-	**Créé par**:
-
-	  - Loi n°95-740 1995-01-21 Art. 13 JORF 24 janvier 1995
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
 
 
 ###### Article L301-4
@@ -7543,8 +7544,8 @@ d'une agglomération ou pour un ensemble de communes qui entendent par leur coop
 matière d'habitat.
 
 Le programme local de l'habitat définit, pour une durée au moins égale à cinq ans, les objectifs et les principes d'une
-politique visant à répondre aux besoins en logements et à assurer entre les communes et entre les quartiers d'une même
-commune une répartition équilibrée et diversifiée de l'offre de logements.
+politique visant à répondre aux besoins en logements et à favoriser la mixité sociale en assurant entre les communes et entre
+les quartiers d'une même commune une répartition équilibrée et diversifiée de l'offre de logements.
 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et économique, de l'évaluation des besoins des
 habitants actuels et futurs, de la desserte en transports et des options d'aménagement déterminées par le schéma directeur ou
@@ -7596,9 +7597,9 @@ coopération intercommunale compétents en matière d'urbanisme pour parvenir au
 	  - Code général des impôts, CGI. - art. 1407 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 13 ()
+	  - Loi n°96-987 du 14 novembre 1996 - art. 29 () JORF 15 novembre 1996
 
 
 ###### Article L302-2
@@ -8043,6 +8044,52 @@ celles nécessitées par la situation particulière des départements d'outre-me
 	**Cite**:
 
 	  - code de la construction et de l'habitation livre III titre préliminaire chapitre II
+
+
+##### Section 3 : Plan départemental de l'habitat.
+
+###### Article L302-10
+
+Toute commune comprenant sur son territoire tout ou partie d'une zone urbaine sensible définie au 3 de l'article 42 de la loi
+n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire doit être dotée d'un programme
+local de l'habitat dans un délai de deux ans.
+
+Ce délai court soit à compter du 1er janvier 1997 si la zone urbaine sensible est inscrite à cette date sur la liste prévue
+au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, soit à compter de la date de l'inscription de la zone
+urbaine sensible sur cette liste lorsque celle-ci est postérieure.
+
+Le délai de deux ans prévu au premier alinéa est porté à trois ans lorsque l'établissement du programme local de l'habitat
+relève d'un établissement public de coopération intercommunale en application de l'article L. 302-1.
+
+Lorsqu'au terme des délais ci-dessus mentionnés aucun programme local de l'habitat n'a été adopté, le préfet se substitue à
+la commune concernée ou à l'établissement public de coopération intercommunale. Les dépenses afférentes à son élaboration
+sont obligatoires pour la commune au sens de l'article L. 2321-1 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - décret 78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code général des collectivités territoriales - art. L2321-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 30 () JORF 15 novembre 1996
+
+	**Abrogé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 81
+	  - Code de l'action sociale et des familles - art. L149-1 (V)
 
 
 #### Chapitre III : Opérations programmées d'amélioration de l'habitat
@@ -13757,7 +13804,13 @@ Elles ont également pour objet :
 l'urbanisme, soit pour leur compte avec l'accord de la ou des collectivités locales concernées, soit pour le compte de tiers
 lorsqu'elles ont été agréées à cet effet. Dans le cas où elles interviennent pour le compte de tiers, les dispositions de
 l'article L. 443-14 du présent code ne sont pas applicables aux cessions de terrains non bâtis rendues nécessaires par la
-réalisation de ces opérations ;
+réalisation de ces opérations. Lorsqu'elles se voient confier par convention la réalisation d'une opération de
+restructuration urbaine, celle-ci comprend toutes opérations ou actions ou tous aménagements ou équipements de nature à
+favoriser une politique de développement social urbain telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre
+1996 relative à la mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la convention peut inclure des actions
+d'insertion professionnelle et sociale en faveur des habitants des grands ensembles ou des quartiers d'habitat dégradé
+mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire ;
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
 rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires.
@@ -13812,19 +13865,21 @@ fonctionnement ou être syndics de ces copropriétés ;
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 41 () JORF 24 juillet 1994
+	  - Loi n°96-987 du 14 novembre 1996 - art. 18 () JORF 15 novembre 1996
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 172
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. L443-14 (M)
 
 
 ###### Article L422-2-1
@@ -15844,6 +15899,85 @@ conventions régulièrement signées.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+
+
+###### Article L441-2-1
+
+Toute commune comprenant sur son territoire une ou plusieurs zones urbaines sensibles définies au 3 de l'article 42 de la loi
+n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire doit créer une conférence
+communale du logement. Lorsque la zone urbaine sensible est située sur le territoire de plusieurs communes, celles-ci doivent
+créer une conférence intercommunale du logement.
+
+La conférence du logement doit être créée dans le délai d'un an commençant à courir soit à compter du 1er janvier 1997 si la
+zone urbaine sensible est inscrite à cette date sur la liste prévue au 3 de l'article 42 de la loi n° 95-115 du 4 février
+1995 précitée, soit à compter de la date de l'inscription de la zone urbaine sensible sur cette liste lorsque celle-ci est
+postérieure. Lorsque la conférence du logement n'a pas été créée dans ce délai par le ou les maires concernés, le
+représentant de l'Etat dans le département prend l'initiative de la créer.
+
+La conférence du logement rassemble, outre le maire de la ou des communes concernées, le représentant de l'Etat, les
+bailleurs sociaux possédant ou gérant des logements dans la ou les communes, les représentants des associations agréées dont
+l'un des objets est l'insertion ou le logement des personnes défavorisées et, lorsqu'ils sont titulaires de droits de
+réservation dans la ou les communes, les organismes collecteurs de la participation des entreprises à l'effort de
+construction et le conseil général représenté par un de ses membres.
+
+Elle est présidée par le maire ou le représentant des maires des communes intéressées désigné par ceux-ci.
+
+La conférence élabore la charte communale ou intercommunale des attributions de logements et veille à son application. La
+charte fixe notamment les objectifs généraux d'attribution, le cas échéant quantifiés, visant à l'amélioration de l'équilibre
+résidentiel au sein des communes concernées et, en premier lieu, dans la zone urbaine sensible. Les dispositions de la charte
+doivent être compatibles avec celles du règlement départemental prévu à l'article L. 441-2.
+
+La charte doit être élaborée dans le délai de deux ans commençant à courir soit à compter du 1er janvier 1997 si la zone
+urbaine sensible visée au premier alinéa est inscrite à cette date sur la liste prévue au 3 de l'article 42 de la loi n°
+95-115 du 4 février 1995 précitée, soit à compter de l'inscription de la zone urbaine sensible sur cette liste dans le cas
+contraire.
+
+Lorsqu'au terme du délai mentionné à l'alinéa précédent aucune charte n'a été élaborée, le représentant de l'Etat dans le
+département assure, nonobstant les dispositions du troisième alinéa du présent article, la présidence de la conférence du
+logement jusqu'à la publication de la charte.
+
+Les bailleurs sociaux informent, deux fois par an, la conférence du logement des caractéristiques des attributions de
+logements effectuées au cours du semestre écoulé, des demandes en attente, des logements vacants, du niveau et de l'évolution
+des loyers dans les zones urbaines sensibles concernées et dans chaque commune de la conférence. Ils rendent compte dans le
+même temps de la politique d'entretien, de réhabilitation et d'aménagement de leur patrimoine. Le président du conseil
+général et le préfet informent deux fois par an la conférence du logement des garanties et aides accordées par le fonds de
+solidarité pour le logement dans les zones urbaines sensibles concernées et dans chaque commune de la conférence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 3 (VD)
+	  - Loi n°90-449 du 31 mai 1990 - art. 4 (VD)
+	  - Loi n°2007-290 du 5 mars 2007 - art. 25 (V)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 11 (VD)
+	  - Arrêté du 7 mars 2008 - art. 1 (Ab)
+	  - Décret n°2013-670 du 24 juillet 2013 - art. 6 (V)
+	  - Décret n°2014-1737 du 29 décembre 2014 (V)
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+	  - Code de la construction et de l'habitation. - art. L435-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. L452-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L472-3 (V)
+	  - Code de la construction et de l'habitation. - art. R302-14 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R461-16 (V)
+	  - Code de la construction et de l'habitation. - art. R461-20 (V)
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 31 () JORF 15 novembre 1996
 
 
 ##### Section 2 : Supplément de loyer de solidarité.
@@ -19185,6 +19319,210 @@ dans le mois du jour où il a été sollicité.
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
+#### Chapitre V : Mesures de sauvegarde.
+
+###### Article L615-1
+
+Le représentant de l'Etat dans le département peut confier à une commission qu'il constitue à cet effet le soin de proposer
+un plan de sauvegarde visant à restaurer le cadre de vie des occupants d'un groupe d'immeubles bâtis ou d'un ensemble
+immobilier déterminé, à usage d'habitation ou à usage mixte professionnel, commercial et d'habitation, situé dans les zones
+urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire ou dans le périmètre d'une opération programmée d'amélioration de l'habitat défini à l'article L.
+303-1, limitée à un groupe d'immeubles bâtis en société d'attribution ou en société coopérative de construction donnant
+vocation à l'attribution d'un lot ou soumis au régime de la copropriété.
+
+Le projet de plan est soumis à l'avis du maire de la commune et à l'approbation du représentant de l'Etat dans le
+département.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas aux immeubles appartenant en totalité aux organismes d'habitation
+à loyer modéré mentionnés à l'article L. 411-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-10 (V)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-14 (V)
+	  - Décret n°67-223 du 17 mars 1967 - art. 61-1-2 (V)
+	  - Loi n°90-449 du 31 mai 1990 - art. 6 (M)
+	  - Loi n°91-647 du 10 juillet 1991 - art. 2 (V)
+	  - Arrêté du 24 mai 2013 - art. 2 (V)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Arrêté du 29 décembre 2014 - art. 3-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L21-1 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+	  - Code de la construction et de l'habitation. - art. L421-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-3 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (V)
+	  - Code de la construction et de l'habitation. - art. L615-2 (V)
+	  - Code de la construction et de l'habitation. - art. L615-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L615-4-2 (V)
+	  - Code de la construction et de l'habitation. - art. L615-5 (V)
+	  - Code de la construction et de l'habitation. - art. L741-1 (V)
+	  - Code de la construction et de l'habitation. - art. L741-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-13 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. R321-14 (V)
+	  - Code de la construction et de l'habitation. - art. R321-16 (V)
+	  - Code de la construction et de l'habitation. - art. R322-2 bis (Ab)
+	  - Code de la construction et de l'habitation. - art. R615-1 (V)
+	  - Code de la construction et de l'habitation. - art. R615-2 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 1594 F quinquies (VD)
+	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+	  - Code général des impôts, CGI. - art. 261 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+
+###### Article L615-2
+
+Le plan de sauvegarde fixe les mesures nécessaires pour, dans un délai de deux ans, sur la base des engagements souscrits par
+les collectivités publiques, les organismes publics ou les personnes privées concernées :
+
+- clarifier et simplifier les règles de structure et d'administration du groupe d'immeubles bâtis ou de l'ensemble
+immobilier ;
+
+- clarifier et adapter le statut de biens et équipements collectifs à usage public ;
+
+- réaliser des travaux de conservation de l'immeuble ou tendant à la réduction des charges de fonctionnement ;
+
+- assurer l'information et la formation des occupants de l'immeuble pour restaurer les relations sociales ;
+
+- organiser la mise en place de mesures d'accompagnement.
+
+Il précise l'échéancier de ces mesures ainsi que les conditions de leur financement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L615-4 (V)
+
+
+###### Article L615-3
+
+La commission mentionnée à l'article L. 615-1 est présidée par le représentant de l'Etat dans le département et comprend
+notamment le président du conseil général et le maire de la commune dans laquelle sont situés des immeubles ou ensembles
+immobiliers concernés par le plan de sauvegarde, ou leurs représentants.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R615-1 (V)
+
+
+###### Article L615-4
+
+Il est procédé à la suppression des aides correspondant aux mesures mentionnées à l'article L. 615-2 et au recouvrement,
+comme en matière de contributions directes, des aides financières accordées aux personnes qui, après mise en demeure, n'ont
+pas respecté les engagements qui leur incombent, dans le délai prévu au plan de sauvegarde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-2 (V)
+
+
+###### Article L615-4-1
+
+Pour l'application des dispositions du présent chapitre, les occupants sont les propriétaires occupants, les locataires, les
+occupants de bonne foi maintenus dans les lieux et les preneurs de baux professionnels ou commerciaux.
+
+Les propriétaires occupants sont les personnes copropriétaires, les associés de sociétés d'attribution ou de sociétés
+coopératives de construction donnant vocation à l'attribution d'un lot, qui occupent l'immeuble dont elles ont la propriété
+ou la jouissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 6 (V)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 18 (Ab)
+	  - Code de la construction et de l'habitation. - art. R615-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+
+###### Article L615-5
+
+Un décret en Conseil d'Etat précise les modalités d'application des articles L. 615-1 à L. 615-4-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 32 () JORF 15 novembre 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+
+
 ### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants et dispositions diverses
 
 #### Chapitre Ier : Service municipal du logement.
@@ -19731,6 +20069,27 @@ l'autorité administrative prise après avis du maire.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+
+
+###### Article L631-10
+
+Les dispositions de l'article L. 631-7 ne sont pas applicables dans les zones franches urbaines définies au B du 3 de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 33 () JORF 15 novembre 1996
 
 
 ### Titre IV : Logement d'office.
