@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-12-30
+Version Consolidée au 1999-12-31
 
 # Partie législative
 
@@ -12682,19 +12682,24 @@ L'aide personnalisée au logement est attribuée dans les conditions fixées par
 française et aux personnes de nationalité étrangère titulaires d'un des titres de séjour ou documents justifiant de la
 régularité du séjour et prévus en application de l'article L. 512-2 du code de la sécurité sociale.
 
+L'aide personnalisée au logement n'est pas attribuée aux personnes qui sont locataires d'un logement appartenant à l'un de
+leurs ascendants ou descendants, ou ceux de leur conjoint ou concubin ou de toute personne liée à elles par un contrat conclu
+en application de l'article 515-1 du code civil.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 40 () JORF 29 août 1993
-
 	**Cite**:
 
+	  - Code civil - art. 515-1 (AbD)
 	  - Code de la sécurité sociale. - art. L512-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-1173 1999-12-31 art. 50 finances rectificative pour 1999 JORF 31 décembre 1999
 
 
 ###### Article L351-2-2
