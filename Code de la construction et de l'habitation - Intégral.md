@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-07-21
+Version Consolidée au 1984-07-24
 
 # Partie législative
 
@@ -11390,6 +11390,51 @@ prêts pendant la période de dix ans qui précède immédiatement la date de la
 	  - Code de la construction et de l'habitation. - art. R423-75 (M)
 	  - Code général des impôts, CGI. - art. 1461 (V)
 	  - Code général des impôts, CGI. - art. 207 (VD)
+
+
+###### Article L423-1-2
+
+Les dispositions de l'article L. 423-1-1 ne s'appliquent pas :
+
+a) En cas de cession soit au conjoint, soit a un ascendant ou à un descendant ou à ceux du conjoint ;
+
+b) En cas de cession, à une personne physique nommée administrateur, du nombre d'actions exigé statutairement pour occuper
+ces fonctions ;
+
+c) En cas de cession à des collectivités locales ou à leurs établissements publics ;
+
+d) En cas de cession à une personne morale figurant sur une liste arrêtée par le ministre chargé des habitations à loyer
+modéré après avis du conseil supérieur des habitations à loyer modéré ;
+
+e) En cas de cession à une autre personne morale ou physique lorsque la cession aura été autorisée par le ministre chargé des
+habitations à loyer modéré après avis du préfet et du [*comité départemental des habitations à loyer modéré*] conseil
+départemental de l'habitat du lieu du siège social de l'organisme.
+
+Ne sont pas considérés comme cessions les transferts d'actions consécutifs à l'ouverture d'une succession ou à la liquidation
+d'une communauté de biens entre époux [*sociétés anonymes crédit immobilier*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
 
 
 ###### Article L423-1-3
@@ -36365,13 +36410,14 @@ Des prêts conventionnés peuvent être accordés [*définition, objet*], dans l
 financer [*opérations*] :
 
 1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
-logements ou leur acquisition ; est assimilée à la construction de logements l'aménagement à usage de logement de locaux non
-destinés à l'habitation.    2. L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
+logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
+destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation.    2. L'amélioration de
+logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
 3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
 
 4. Les travaux destinés à réduire les dépenses d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait
-l'objet, avant cette date, d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
+l'objet avant cete date d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
 garantissant contractuellement l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
 
 Un arrêté du ministre chargé de la construction et de l'habitation précise les conditions d'application du 4., notamment les
@@ -36420,6 +36466,10 @@ finances et du logement fixe le montant minimal de ces travaux.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-703 1984-07-17 ART. 1 JORF 24 JUILLET 1984 rectificatif JORF 3 AOUT 1984
 
 	**Liens**:
 
@@ -36615,32 +36665,28 @@ construction et de l'habitation.
 ###### Article R331-69
 
 Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1°) doivent respecter des
-normes minimales de surface.
+normes minimales de surface, les opérations d'agrandissement de logements existants, par extension ou surélévation, doivent
+conduire à une création de surface habitable minimale fixée par arrêté du ministre chargé de la construction et de
+l'habitation.
 
 Dans le cas des opérations prévues à l'article R. 331-63 (2° et 3°), les travaux d'amélioration doivent avoir pour effet de
 mettre en conformité à des normes minimales d'habitabilité des logements qui ne le sont pas.
 
 Les normes de surface et d'habitabilité sont fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
-//DECR. 90 du 26 janvier 1982 :
-
 Dans le cas des opérations prévues à l'article R. 331-63 (4°), les travaux doivent satisfaire à des caractéristiques
 techniques. Un arrêté du ministre chargé de la construction et de l'habitation précise notamment la nature des travaux et les
-économies d'énergie minimales qui doivent en résulter.//
+économies d'énergie minimales qui doivent en résulter.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-1287 1977-11-22 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°82-90 1982-01-26 art. 3 JORF 27 janvier 1982
+	  - Décret n°84-703 1984-07-17 ART. 2 JORF 24 JUILLET 1984
 
 	**Cité par**:
 
@@ -36651,7 +36697,7 @@ techniques. Un arrêté du ministre chargé de la construction et de l'habitatio
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+	  - Code de la construction et de l'habitation R331-63 1
 
 
 ###### Article R331-70
@@ -37887,6 +37933,121 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
+
+
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
+
+###### Article R351-50
+
+Les recours contre les décisions [*des organismes payeurs*] mentionnées à l'article R. 351-49 sont adressés à la [*commission
+départementale*] section des aides publiques au logement du conseil départemental de l'habitat dans le ressort de laquelle
+est situé le logement au titre duquel la décision est prise, par lettre recommandée avec demande d'avis de réception
+[*condition de forme*], ou déposés, contre récépissé, au secrétariat de ladite commission.
+
+Ils sont rédigés sur papier libre et accompagnés d'un exemplaire de la décision contestée ; ils comportent un exposé sommaire
+des motifs invoqués à leur appui.
+
+La commission départementale doit être saisie dans le délai de deux mois à compter de la notification de la décision contre
+laquelle l'intéressé entend former sa réclamation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-813 1977-07-18 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-47 (M)
+	  - Code de la construction et de l'habitation. - art. R351-51 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-49 (M)
+
+
+###### Article R351-51
+
+La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat, saisie en
+vertu de l'article R. 351-50, peut, avant de statuer et après avoir entendu un rapporteur désigné par le directeur
+départemental de l'équipement, demander toute enquête ou supplément d'information nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-813 1977-07-18 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-47 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+
+
+###### Article R351-53
+
+La décision de la [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat
+est notifiée au requérant par lettre recommandée avec demande d'avis de réception [*condition de forme*] comportant
+l'indication de la possibilité d'un recours contentieux devant le tribunal administratif dans le ressort duquel est situé le
+logement ayant donné lieu à la décision et du délai dans lequel ce recours doit être exercé.
+
+Lorsque la décision de la commission départementale n'a pas été portée à la connaissance du requérant dans un délai de deux
+mois, l'intéressé peut considérer sa réclamation comme rejetée et se pourvoir devant le tribunal administratif.
+
+Le délai de deux mois prévu à l'alinéa précédent court à compter de la réception de la réclamation par le secrétariat du
+conseil départemental de l'habitat. Toutefois, si des documents sont produits par le requérant après le dépôt de sa
+réclamation, le délai ne court qu'à dater de la réception de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-813 1977-07-18 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 
 
 ##### Section 4 : Dispositions particulières aux logements-foyers
@@ -42451,6 +42612,44 @@ de la sécurité sociale.
 
 ##### Sous-section 7 : Dispositions diverses.
 
+###### Article R351-30
+
+Lorsque le bénéficiaire ne règle pas la part de loyer ou de mensualité restant à sa charge, le paiement de l'aide
+personnalisée au bailleur ou à l'établissement habilité percevant cette aide est suspendu, sauf si ces derniers apportent la
+preuve qu'ils ont poursuivi par tous les moyens le recouvrement de leur créance. La validité des preuves produites doit être
+appréciée par la [*commission départementale de l'aide personnalisée au logement*] section des aides publiques au logement du
+conseil départemental de l'habitat.
+
+A défaut de ces justifications, l'organisme payeur est habilité à exiger du bailleur ou de l'établissement habilité le
+reversement de l'aide personnalisée qui lui a été réglée depuis la date de la défaillance du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-784 1977-07-13 art. 26
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 5 (Ab)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 24 (Ab)
+	  - Arrêté du 5 août 2016 - art. 1 (VD)
+	  - Code de la construction et de l'habitation. - art. R*351-31 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-36 (V)
+	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-64 (VD)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
 ###### Article R351-31
 
 Dans le cas où l'aide personnalisée est versée directement au locataire en application de l'article R. 351-27, à défaut de
@@ -43434,76 +43633,90 @@ celles prévues par les différents contrats de prêts.
 
 ##### Section 3 : Commission départementale de l'aide personnalisée.
 
-###### Article R351-47
+###### Article R351-48
 
-La commission départementale de l'aide personnalisée au logement est chargée [*attributions*] :
+La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat est présidée
+par le préfet.
 
-a) De prendre des décisions sur les contestations qui lui sont soumises en application de l'article L. 351-14 ;
-
-b) D'examiner les questions relatives à la mise en oeuvre, sur le plan local, du titre préliminaire et des titres IV, V et VI
-du présent livre, 1er partie, et de l'article L. 431-6 et des dispositions prises pour leur application, notamment celles de
-l'article R. 351-30 ainsi que d'émettre des avis, dans les conditions fixées par l'article R. 351-54.
-
-Le secrétariat de la commission départementale est assuré par la direction départementale de l'équipement.
+Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du directeur régional du travail
+et de la protection sociale agricoles compétent, du directeur régional de la sécurité sociale compétent, du président du
+conseil d'administration de la caisse d'allocations familiales concernée, du président du conseil d'administration de la
+caisse de mutualité sociale agricole compétente ou de leurs représentants respectifs et de deux représentants des usagers
+désignés par le préfet sur proposition des organisations les plus représentatives au niveau du département.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°77-813 1977-07-18 art. 1
+	  - Décret n°77-813 1977-07-18 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-30 (M)
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
-	  - Code de la construction et de l'habitation. - art. R351-54 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-37 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
-###### Article R351-54
+###### Article R351-49
 
-Lorsque la commission départementale examine les questions prévues par l'article R. 351-47 b, sa composition est élargie à
-des personnes choisies en raison de leur compétence et qui comprennent obligatoirement des représentants des bailleurs et des
-établissements habilités. Ces personnes sont nommées par arrêté préfectoral. Le fonctionnement de la commission
-départementale pour l'examen des questions précitées est également fixé par arrêté préfectoral.
+Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
+intéressée.
 
-Les avis qu'elle émet au niveau des principes généraux sont transmis par le préfet au président du conseil de gestion du
-fonds national de l'habitation.
+Cette notification comporte [*contenu*] la mention du délai dans lequel elles peuvent faire l'objet d'un recours gracieux
+ainsi que la désignation et l'adresse du secrétariat de la [*commission départementale*] section des aides publiques au
+logement du conseil départemental de l'habitat compétente. Elle précise en outre la forme que doit revêtir ce recours et le
+délai au terme duquel celui-ci est rejeté tacitement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°77-813 1977-07-18 art. 8
+	  - Décret n°77-813 1977-07-18 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
+	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
-	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
+###### Article R351-52
+
+La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat ne délibère
+valablement, en matière de recours gracieux, que si quatre membres, dont le président, sont présents [*quorum*].
+
+La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-813 1977-07-18 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
 ##### Dispositions particulières aux logements-foyers
@@ -43692,6 +43905,36 @@ personnalisée un abattement égal à la différence constatée.
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
+
+
+###### Article R351-64
+
+Lorsque le bénéficiaire ne règle pas la part de la redevance mensuelle restant à sa charge pendant deux mois consécutifs, le
+gestionnaire est tenu d'en informer l'organisme payeur dans les quinze jours qui suivent la seconde échéance impayée, en
+apportant la preuve des moyens mis en oeuvre pour le recouvrement de la créance. La validité des preuves produites doit être
+appréciée par la [*commission départementale de l'aide personnalisée au logement*] section des aides publiques au logement du
+conseil départemental de l'habitat.
+
+Si cette commission n'admet pas la validité des preuves produites par le gestionnaire, le paiement de l'aide personnalisée
+est suspendu à compter du premier jour du mois suivant l'émission de l'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
@@ -44439,6 +44682,696 @@ l'habitation.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+#### Chapitre II : Conseil départemental de l'habitat.
+
+##### Section 1 : Compétences.
+
+###### Article R362-1
+
+Le conseil départemental de l'habitat procède à toutes concertations propres à permettre de répondre aux besoins en matière
+d'habitat et à assurer la meilleure efficacité aux aides publiques dans le département [*attributions*].
+
+Il émet un avis sur la situation et les perspectives de l'habitat dans le département en ce qui concerne notamment la
+satisfaction des besoins en logements des différentes catégories de population, l'état du patrimoine, l'activité du secteur
+du bâtiment et la qualité de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (V)
+	  - Code de la construction et de l'habitation. - art. R362-15 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1 (V)
+	  - Code de la construction et de l'habitation. - art. R421-32 (M)
+
+
+###### Article R362-2
+
+Le conseil départemental de l'habitat, dans les conditions fixées aux articles R. 362-3 à R. 362-8, a vocation à émettre un
+avis 
+
+[*attributions*].
+
+a) Sur la satisfaction des besoins en logements des différentes catégories de population ;
+
+b) Sur la programmation annuelle des aides de l'Etat au logement et des interventions de l'Agence nationale pour
+l'amélioration de l'habitat ;
+
+c) Sur la coordination des financements contribuant aux opérations de construction et d'amélioration bénéficiant de l'aide de
+l'Etat ;
+
+d) Sur les modalités d'application des principes nationaux pour l'attribution des logements locatifs sociaux ;
+
+e) Sur les programmes d'actions en faveur du logement des immigrés et des populations défavorisées ;
+
+f) Sur les modalités selon lesquelles les aides à la personne en matière de logement sont mises en oeuvre dans le
+département ;
+
+g) Sur toute modification intervenant dans les compétences des organismes d'habitations à loyer modéré exerçant leur activité
+dans le département.
+
+Il exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation en matière d'aide
+personnalisée au logement dans les conditions fixées à l'article R. 362-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
+	  - Code de la construction et de l'habitation. - art. R362-4 (M)
+	  - Code de la construction et de l'habitation. - art. R362-5 (M)
+	  - Code de la construction et de l'habitation. - art. R362-6 (M)
+	  - Code de la construction et de l'habitation. - art. R362-7 (M)
+	  - Code de la construction et de l'habitation. - art. R362-8 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-51-1 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
+	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R371-1 (V)
+
+
+###### Article R362-3
+
+Au plus tard le 15 novembre de chaque année [*date limite*], le conseil départemental de l'habitat [*attributions*] prend
+connaissance d'un rapport du commissaire de la République portant sur l'état d'avancement des programmes de construction et
+d'amélioration de l'habitat financés avec l'aide de l'Etat ou de l'Agence nationale pour l'amélioration de l'habitat, au
+titre des années antérieures et de l'année en cours et sur les programmes locaux de l'habitat définis par les communes ou
+groupements de communes du département [*information*]. Il émet un avis sur les orientations et les critères de choix à
+prendre en compte dans la programmation des aides de l'Etat et des interventions de l'Agence nationale pour l'amélioration de
+l'habitat pour l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (V)
+	  - Code de la construction et de l'habitation. - art. R362-11 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R362-4 (V)
+	  - Code de la construction et de l'habitation. - art. R362-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R362-6 (V)
+	  - Code de la construction et de l'habitation. - art. R362-7 (V)
+
+
+###### Article R362-4
+
+Le conseil départemental de l'habitat [*attributions*] est tenu informé des financements autres que ceux de l'Etat ou de
+l'Agence nationale pour l'amélioration de l'habitat utilisés dans le département pour la construction et l'amélioration de
+l'habitat, notamment la participation des entreprises à l'effort de construction, les aides des collectivités territoriales
+et les prêts des caisses d'épargne [*information*]. Il est consulté sur la coordination des financements nécessaires à la
+réalisation du programme de construction et d'amélioration de l'habitat bénéficiant de prêts aidés et de subventions dans le
+secteur locatif et dans celui de l'accession à la propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+
+###### Article R362-5
+
+Le conseil départemental de l'habitat est informé au moins une fois par an [*périodicité - attributions*] des conditions de
+logement des différentes catégories de population dans le département au vu d'un état des besoins quantitatifs et qualitatifs
+dans le domaine du logement élaboré par le commissaire de la République.
+
+Il émet un avis sur les conditions du respect des principes définis pour l'attribution des logements contenues dans les
+programmes locaux de l'habitat élaborés par les communes ou groupements de communes du département. Il donne son avis au
+commissaire de la République sur leur cohérence et leur compatibilité avec les objectifs et les règles fixés dans le
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 ART. 37
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R362-6 (M)
+
+
+###### Article R362-6
+
+Dans le cadre des orientations générales fixées par la Commission nationale pour le logement des immigrés, le conseil
+départemental de l'habitat [*attributions*] fait toutes propositions utiles en matière de politique du logement des immigrés
+dans le département notamment au vu des éléments recueillis dans le cadre des dispositions de l'article R. 362-5.
+
+Il émet un avis sur les orientations et les critères de la programmation départementale des opérations pour lesquelles un
+financement est sollicité sur la fraction de la participation des employeurs à l'effort de construction réservée au logement
+des immigrés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-5 (M)
+
+
+###### Article R362-7
+
+Un bilan général annuel des aides à la personne attribuées dans le département est communiqué au conseil départemental de
+l'habitat. Celui-ci examine les questions relatives à l'application dans le département des textes qui régissent l'aide
+personnalisée au logement.
+
+Le conseil départemental de l'habitat en sa section des aides publiques au logement [*attributions*] :
+
+a) Exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation ;
+
+b) Examine les cas dans lesquels les bénéficiaires de l'aide personnalisée au logement ne règlent pas la part des dépenses de
+logement restant à leur charge ;
+
+c) Formule des recommandations concernant les mesures susceptibles de faciliter la régularisation de la situation des
+bénéficiaires d'aide à la personne défaillante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R371-1 (M)
+
+
+##### Section 2 : Composition et fonctionnement.
+
+###### Article R362-9
+
+Le président du conseil départemental de l'habitat est le commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-10
+
+Outre son président, le conseil départemental de l'habitat est composé :
+
+a) De trente-six membres [*nombre*] nommés par arrêté du commissaire de la République répartis en trois groupes de même
+importance, à savoir :
+
+1° Pour un tiers [*proportion*] de représentants du conseil général, des communes et des groupements de communes du
+département désignés dans les conditions fixées à l'article R. 362-12 ;
+
+2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
+mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14.
+
+3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés, de représentants des
+partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
+personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
+fixées à l'article R. 362-14.
+
+b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 362-19.
+
+Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-12 (M)
+	  - Code de la construction et de l'habitation. - art. R362-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+
+
+###### Article R362-11
+
+Le mandat des membres du conseil mentionnés au a) de l'article
+
+R. 362-10 est de trois ans [*durée*]. Il peut être renouvelé. Il prend fin si son titulaire perd la qualité au titre de
+laquelle il a été désigné. Celui-ci est alors remplacé dans un délai de trois mois pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (V)
+	  - Code de la construction et de l'habitation. - art. R362-15 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-12
+
+Les membres du conseil départemental de l'habitat mentionnés au a) 1° de l'article R. 362-10 sont désignés dans les
+conditions suivantes [*mode de désignation*] :
+
+1° A Paris, le conseil municipal désigne en son sein douze conseillers [*nombre*] ;
+
+2° Pour les autres départements, sont membres dans la limite de douze :
+
+a) Trois conseillers généraux élus par le conseil général ;
+
+b) Les présidents des communautés urbaines du département compétentes en matière de logement ;
+
+c) Le maire de la commune chef-lieu du département et, le cas échéant, le maire de la commune dont la population est la plus
+importante lorsqu'elle n'est pas le chef-lieu ;
+
+d) Un président d'établissement public de coopération intercommunale doté de la compétence en matière de logement désigné,
+dans les conditions arrêtées par le commissaire de la République, par les présidents d'établissements publics de coopération
+intercommunale dotés de cette compétence dans le département. En cas de partage des voix, le président de l'établissement
+public de coopération intercommunale dont la population est la plus importante est
+
+désigné ;
+
+e) Pour le reste des sièges à pourvoir, des maires ou conseillers municipaux de communes différentes.
+
+Les membres siégeant au titre du e) sont désignés, par l'association départementale des maires, ou à défaut élus par le
+collège des maires du département, à la représentation proportionnelle à la plus forte moyenne. Le vote peut avoir lieu par
+correspondance. Le collège des maires est convoqué par le commissaire de la République. Un arrêté du commissaire de la
+République règle dans chaque département les modalités d'application du présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a) 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-13
+
+Le commissaire de la République établit la liste des catégories de professionnels à représenter et le nombre de représentants
+par catégorie en fonction de la situation de l'habitat et de l'importance de l'activité exercée par ces professionnels dans
+le département.
+
+Sur proposition, le cas échéant, des organisations professionnelles correspondantes, il arrête la liste des membres du groupe
+des professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Décret n°2014-1369 du 14 novembre 2014 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R371-4 (T)
+
+
+###### Article R362-14
+
+Les membres du conseil départemental de l'habitat siégeant au titre du a) 3° de l'article R. 362-10 sont désignés par le
+commissaire de la République sur proposition des organisations les plus représentatives dont celui-ci établit la liste [*mode
+de désignation*]. En tant que de besoin pour porter à douze l'effectif de ce groupe, le commissaire de la République désigne
+des personnalités compétentes dans le domaine de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a) 3
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-15
+
+Dans les deux mois qui suivent la désignation de ses membres [*délai*], le conseil est réuni à l'initiative de son président
+et procède à la désignation de son bureau. Celui-ci comprend le commissaire de la République et six membres élus à raison de
+deux au sein de chacun des trois groupes définis à l'article R. 362-10 a.
+
+Le bureau organise les travaux du conseil et, le cas échéant, des commissions définies à l'article R. 362-18, fixe l'ordre du
+jour des réunions et propose au conseil un règlement intérieur [*attributions*].
+
+Le président ou le bureau du conseil départemental de l'habitat peut saisir le conseil de toute question entrant dans ses
+compétences définies à la section 1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a)
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-16
+
+Le secrétariat du conseil et de ses commissions est assuré par le directeur départemental de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+###### Article R362-17
+
+Le conseil départemental de l'habitat se réunit au moins deux fois par an [*périodicité des réunions*] sur convocation de son
+président.
+
+Le président peut inviter à assister à toute séance toute personne pouvant apporter des informations utiles au conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+
+###### Article R362-18
+
+Le conseil départemental de l'habitat peut créer en son sein des commissions spécialisées dont il fixe la durée, la
+composition et les attributions. Il peut leur déléguer tout ou partie des attributions mentionnées à l'article R. 362-2.
+
+Chaque commission comprend au moins deux membres de chacun des groupes définis à l'article R. 362-10 a et en outre, en tant
+que de besoin, un membre de la section prévue au b du même article [*composition*].
+
+Le président du conseil départemental de l'habitat peut décider d'associer aux travaux d'une commission des personnes
+étrangères au conseil dans la limite du quart [*proportion maximum*] des membres de ladite commission.
+
+La commission est présidée par le président du conseil départemental de l'habitat ou par une personne que celui-ci désigne au
+sein du bureau ou parmi les membres du conseil siégeant dans la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a), b)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-15 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R371-10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+###### Article R362-19
+
+La section des aides publiques au logement est substituée à la commission départementale de l'aide personnalisée au logement
+créée en application de l'article L. 351-14 du code de la construction et de l'habitation.
+
+Elle est constituée conformément à l'article R. 351-48.
+
+Toutefois, les représentants des usagers sont pris parmi ceux qui siègent au conseil au titre de l'article R. 362-10 (a, 3°).
+
+Au cas où la section se prononce sur l'application de l'article
+
+R. 351-30, elle est complétée à l'initiative du commissaire de la République par des représentants des bailleurs et des
+établissements habilités choisis parmi les membres du conseil siégeant au titre de l'article R. 362-10 a.
+
+La section est régie par les articles R. 351-49 à R. 351-53.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R362-10 a)
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-30 (M)
+	  - Code de la construction et de l'habitation. - art. R351-48 (M)
+	  - Code de la construction et de l'habitation. - art. R351-49 (M)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-51 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R351-53 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+### Titre VI : Reversement de l'aide de l'Etat.
+
+#### Chapitre II : Conseil départemental de l'habitat.
+
+##### Section 1 : Compétences.
+
+###### Article R362-8
+
+Le conseil départemental de l'habitat [*attributions*] est substitué au comité départemental des habitations à loyer modéré.
+Il est notamment saisi pour avis de toute création, transformation, dissolution, modification de compétences des organismes
+d'habitations à loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
 
 ## Livre IV : Habitations à loyer modéré
@@ -45239,6 +46172,91 @@ l'exercice de sa mission et sur l'activité de l'office.
 
 ##### SOUS-SECTION I : Création et gestion.
 
+###### Article R*421-51
+
+Les offices publics d'habitations à loyer modéré ont pour objet de réaliser, en vue de la location, les opérations prévues à
+l'article L. 411-1 ainsi que les opérations financées en application du livre III, titre V, et de l'article L. 431-6 du
+présent code.
+
+Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du [*comité départemental*] conseil départemental de
+l'habitat et du conseil supérieur des habitations à loyer modéré.
+
+Ils sont habilités à gérer les immeubles à usage principal d'habitations appartenant à l'Etat, aux collectivités locales, aux
+établissements publics groupant des collectivités locales et à d'autres organismes d'habitations à loyer modéré, à des
+sociétés d'économie mixte ou à des organismes à but non lucratif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation LIVRE III TITRE V
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-4 (M)
+	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
+
+
+###### Article R*421-52
+
+La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, ou rattachés à des établissements
+publics groupant des collectivités locales peut être étendue, à tout ou partie du département où se trouve leur siège.
+
+Cette extension de compétence est décidée, à la demande du conseil d'administration de l'office, sur avis conforme de la
+collectivité locale ou de l'établissement public de rattachement, et des autres collectivités locales intéressées et après
+avis du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat :
+
+Par arrêté du commissaire de la République du département si l'avis du comité départemental est favorable ;
+
+Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur après avis du
+conseil supérieur des habitations à loyer modéré dans le cas contraire.
+
+La compétence territoriale des offices publics d'habitations à loyer modéré départementaux peut être étendue à la demande des
+collectivités locales intéressées, à tout ou partie des départements limitrophes du département où se trouve leur siège.
+
+Cette extension de compétence est décidée, après avis des [*comités départementaux des habitations à loyer modéré*] conseils
+départementaux de l'habitat des départements concernés, sur avis conforme des collectivités locales intéressées :
+
+Par arrêté conjoint des commissaires de la République du département du siège et du ou des départements visés par l'extension
+du compétence si l'avis des [*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat
+est favorable ;    Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur,
+après avis du conseil supérieur des habitations à loyer modéré, dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
+
+
 ###### Article R*421-53
 
 Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
@@ -45803,6 +46821,48 @@ conditions définies par les articles R. 422-7-2 et R. 422-7-3 [*attributions*].
 	  - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
 
 
+###### Article R422-7-2
+
+L'autorisation prévue à l'article L. 422-3-1 intervient après avis du [*comité départemental*] conseil départemental de
+l'habitat et du conseil supérieur des habitations à loyer modéré.
+
+Cette autorisation est notifiée à la société par le ministre chargé de la construction et de l'habitation.
+
+Pour l'appréciation du nombre de logements construits, sont pris en compte les logements réalisés dans les conditions fixées
+par les articles L. 422-3, L. 422-3-2 et R. 422-7 ayant fait l'objet de la déclaration d'achèvement de travaux prévue à
+l'objet de la déclaration d'achèvement de travaux prévue à l'article R. 460-1 du code de l'urbanisme ou d'un procès-verbal de
+réception de travaux ou, à défaut, d'une mise en demeure du maître de l'ouvrage de procéder contradictoirement à la réception
+de travaux, ainsi que d'un certificat de conformité visé à l'article L. 460-2 du code précité délivré avant l'intervention de
+l'autorisation d'extension de compétence susvisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L460-2 (M)
+	  - Code de l'urbanisme - art. R460-1 (M)
+	  - Code de la construction et de l'habitation R422-7
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
+
+
 ###### Article R422-7-3
 
 L'autorisation prévue à l'article L. 422-3-2 intervient après avis du conseil supérieur des habitations à loyer modéré.
@@ -46037,6 +47097,90 @@ conditions fixées par arrêté du ministre chargé de la construction et de l'h
 
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L422-4 (M)
+
+
+##### Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré.
+
+###### Article R422-16
+
+Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modéré et de crédit immobilier doivent être agréées par
+le ministre chargé de la construction et de l'habitation après avis du [*comité départemental*] conseil départemental de
+l'habitat et du conseil supérieur des habitations à loyer modéré.
+
+Le décret en Conseil d'Etat approuvant les statuts-types est pris après avis du conseil supérieur des habitations à loyer
+modéré.
+
+Les conditions dans lesquelles sont approuvés les emprunts contractés par lesdites sociétés sont fixées par arrêté conjoint
+du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 9 novembre 2015 (V)
+	  - Code de la construction et de l'habitation. - art. R431-24 (V)
+	  - Code rural - art. R564-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 177
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-5 (M)
+
+
+###### Article R422-17
+
+La dissolution d'une société et la nomination d'un liquidateur prévues à l'article L. 422-9 sont prononcées par le ministre
+chargé de la construction et de l'habitation après avis du [*comité départemental des habitations à loyer modéré*] conseil
+départemental de l'habitat.
+
+L'approbation de l'autorité administrative prévue à l'article L. 422-11, alinéa 1, pour permettre à une assemblée générale
+d'attribuer, en cas de dissolution d'une société d'habitations à loyer modéré ou de crédit immobilier, la portion d'actif
+excédant la moitié du capital social à un ou plusieurs organismes d'habitations à loyer modéré ou à une fédération de ceux-ci
+est donnée par le ministre chargé de la construction et de l'habitation après avis du conseil supérieur des habitations à
+loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 14 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 182
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L422-11 AL. 1
+	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
 ##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
@@ -49626,6 +50770,35 @@ gérer les immeubles.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R432-3
+
+L'autorisation [*construction d'habitations pour familles nombreuses*] prévue à l'article L432-1 est donnée par décret en
+Conseil d'Etat pris sur le rapport du ministre de l'intérieur et du ministre chargé de la construction et de l'habitation
+après avis du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 192 al. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L432-1 (M)
+
+
 ##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.
 
 ###### Article R432-4
@@ -51504,6 +52677,48 @@ Peuvent seuls être compris au nombre des personnes occupant le local :
 	  - Code de la construction et de l'habitation. - art. R441-8 (M)
 
 
+###### Article R441-4
+
+Sans préjudice de l'application des articles R. 441-2 et R. 441-3, l'organisme établit par règlement spécial des critères
+auxquels sont subordonnées les attributions de logements destinés à la location.
+
+Ce règlement spécial tient compte notamment de la situation des foyers demandeurs du point de vue du logement (conditions
+d'habitat de la famille par rapport à ses besoins, occupation moyenne des pièces, cohabitation avec une ou plusieurs autres
+familles, séparation obligatoire des différents membres du foyer, éloignement du lieu de travail du chef de famille, etc.),
+de la composition de la famille et de l'ancienneté de la demande.
+
+Ce règlement spécial est communiqué par l'organisme au [*comité départemental d'habitations à loyer modéré*] conseil
+départemental de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-346 1954-03-27 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-49 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-6 (M)
+
+
 ###### Article R441-6
 
 Les candidats dont les ressources sont inférieures de 10 p. 100 et plus au plafond déterminé en application de l'article R.
@@ -52119,6 +53334,43 @@ du triple du loyer réglementaire maximum et détermine l'affectation du produit
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R442-9 (V)
+
+
+###### Article R*441-34
+
+Sur la proposition du préfet et, après avis du [*comité départemental des habitations à loyer modéré*] conseil départemental
+de l'habitat, le ministre chargé de la construction et de l'habitation peut décider, par arrêté, la réduction ou la
+suppression de l'indemnité d'occupation prévue à l'article R. 441-33 sur le territoire des circonscriptions administratives
+où des logements dépendant des organismes d'habitations à loyer modéré sont en nombre suffisant pour répondre aux besoins.
+
+Aucun programme nouveau ne peut alors être entrepris sur ce territoire tant que la mesure prise n'a pas été rapportée par un
+arrêté pris suivant la même procédure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1469 1958-12-31 art. 1 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R441-33
 
 
 ###### Article R*441-35
@@ -52804,6 +54056,53 @@ l'organisme.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R443-11 (M)
+
+
+###### Article R443-13
+
+Après avoir pris l'avis du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat, le
+préfet décide du caractère sérieux et légitime des motifs d'opposition invoqués par l'organisme.
+
+Peuvent notamment être considérées comme tels [*définition*] l'insolvabilité notoire du locataire, l'inexécution par lui de
+ses obligations, l'utilité de maintenir à usage locatif certains immeubles en raison de leur état ou de circonstances
+économiques locales impérieuses, l'existence de conventions passées par les organismes pour la réservation de logements
+telles que celles passées avec l'Etat au titre des articles R. 314-5 et R. 431-3 ou avec des entreprises au titre de la
+participation des employeurs à l'effort de construction.
+
+La décision du préfet est notifiée à l'organisme et au candidat acquéreur dans le délai de deux mois à compter de la
+notification d'opposition.
+
+Si cette décision rejette les motifs invoqués par l'organisme, celui-ci est tenu de consentir à la vente, sous réserve des
+dispositions de l'article R. 443-14, alinéa 2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-840 1966-11-14 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 1987 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R*423-12 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R443-14 AL. 2
+	  - Code de la construction et de l'habitation. - art. R314-5 (M)
+	  - Code de la construction et de l'habitation. - art. R431-3 (V)
 
 
 ###### Article R443-14
@@ -53534,6 +54833,161 @@ ministre chargé de la construction et de l'habitation [*autorité compétente*]
 
 ##### Section 1 : Conseil supérieur des habitations à loyer modéré.
 
+###### Article R461-1
+
+Un conseil supérieur des habitations à loyer modéré siège auprès du ministre chargé de la construction et de l'habitation. Il
+est appelé par le ministre à donner son avis sur toutes questions concernant les habitations prévues à l'article L. 411-1 et,
+notamment, sur les règlements à faire pour l'application du présent livre [*attributions*].
+
+Il établit chaque année un rapport d'ensemble sur ses activités, ainsi que sur l'activité des [*comités départementaux des
+habitations à loyer modéré*] conseils départementaux de l'habitat et sur celle des organismes d'habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 154
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+
+
+###### Article R461-2
+
+Le conseil supérieur des habitations à loyer modéré, placé sous la présidence du ministre chargé de la construction et de
+l'habitation, est composé comme suit :
+
+1. Membres désignés par le ministre chargé de la construction et de l'habitation :
+
+- six membres de l'Assemblée nationale et trois membres du Sénat ;
+
+- Un membre du Conseil économique et social ;
+
+- une personnalité choisie en raison de sa compétence ;
+
+2. Membres désignés par les corps auxquels ils appartiennent    - un membre du Conseil d'Etat désigné par l'assemblée
+générale du Conseil d'Etat ;
+
+- un membre de la Cour des comptes désigné par la Cour des comptes ;
+
+3. Membres de droit :
+
+- le directeur de la construction ;
+
+- le délégué à l'aménagement du territoire ;
+
+- le chef du service chargé des habitations à loyer modéré ;
+
+- le directeur du budget ;
+
+- le directeur du Trésor ;
+
+- le directeur général des collectivités locales ;
+
+- le directeur général de la caisse des dépôts et consignations ;
+
+- le gouvernement du Crédit foncier de France ;
+
+4. Membres désignés par le ministre dont ils relèvent :
+
+- un inspecteur général ou un inspecteur des finances ;
+
+- un représentant du ministre chargé de la santé ;
+
+- un représentant du ministre chargé de l'agriculture ;
+
+- un représentant du ministre chargé de la sécurité sociale    5. Membres désignés par les organismes intéressés :
+
+- un représentant des [*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat ;
+
+- deux représentants des offices publics d'habitations à loyer modéré ;
+
+- un représentant des sociétés anonymes ou fondations d'habitations à loyer modéré ;
+
+- un représentant des sociétés coopératives d'habitations à loyer modéré ;
+
+- un représentant des sociétés de crédit immobilier ;
+
+- un représentant de la caisse nationale des allocations familiales ;
+
+- un représentant de l'union nationale des associations familiales ;
+
+- deux représentants des comités interprofessionnels du logement ;
+
+- un membre du conseil supérieur de la mutualité ;
+
+- un membre du conseil national des assurances ;
+
+- un membre du comité national de l'habitat rural ;
+
+- un représentant de l'ordre des architectes ;
+
+- un représentant des caisses d'épargne désigné par la conférence générale des caisses d'épargne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°52-706 1952-06-18 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+
+###### Article R461-3
+
+Les membres du conseil supérieur des habitations à loyer modéré sont nommés pour trois ans [*mandat, durée*] ; leurs pouvoirs
+sont renouvelables. Les membres de droit peuvent se faire représenter.
+
+Les membres du conseil supérieur des habitations à loyer modéré qui perdent la qualité en raison de laquelle ils ont été
+désignés ou nommés sont remplacés immédiatement.
+
+Un arrêté du ministre chargé de la construction et de l'habitation fixe les conditions dans lesquelles les représentants des
+[*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat, des offices publics, sociétés
+anonymes, fondations, sociétés coopératives d'habitations à loyer modéré et des sociétés de crédit immobilier sont désignés
+par ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°52-706 1952-06-18 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+
 ###### Article R461-4
 
 Le conseil supérieur des habitations à loyer modéré désigne parmi ses membres deux vice-présidents.
@@ -53776,476 +55230,6 @@ Réservé.
 	  - Décret n°78-622 du 31 mai 1978, v. init.
 
 
-##### Section 3 : Comités départementaux des habitations à loyer modéré
-
-##### Sous-section 1 : Dispositions générales - Création - Rôle.
-
-###### Article R461-16
-
-Dans chaque département est institué, par arrêté du préfet pris après avis du conseil général, un comité des habitations à
-loyer modéré.
-
-Ce comité a pour mission d'encourager, de susciter et de coordonner toutes les initiatives en faveur de la construction, de
-l'entretien et de l'amélioration des logements.
-
-Les comités départementaux des habitations à loyer modéré adressent chaque année au conseil supérieur des habitations à loyer
-modéré un rapport détaillé sur leurs travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 155
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R461-18 (Ab)
-
-
-###### Article R461-17
-
-L'arrêté portant institution du comité fixe le nombre de ses membres dans les limites de dix-huit au moins et de vingt et un
-au plus. Pour Paris, ce nombre est porté à vingt-quatre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 156
-
-
-###### Article R461-18
-
-Le département subvient aux frais de fonctionnement du comité ainsi qu'aux frais de déplacement de ses membres dans les
-limites et conditions fixées par le conseil général.
-
-Ce comité peut recevoir, pour l'exécution et dans la limite de la mission qui lui est confiée par l'article R. 461-16, des
-subventions de l'Etat, des départements et des communes ainsi que des dons et legs aux conditions prescrites pour les
-établissements d'utilité publique.
-
-Il ne peut posséder d'autre immeuble que celui qui est nécessaire à son fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 157 al. 2, al. 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R461-16 (Ab)
-
-
-##### Sous-section 2 : Composition.
-
-###### Article R461-19
-
-Les comités départementaux des habitations à loyer modéré sont composés, pour un tiers, de membres nommés par le conseil
-général qui les choisit en son sein ou parmi les membres des municipalités et, pour le surplus, des membres suivants :
-
-- un administrateur d'un office public d'habitations à loyer modéré du département élu par les conseils d'administration des
-offices existant dans le département ;
-
-- un administrateur d'une société anonyme d'habitations à loyer modéré du département élu par les conseils d'administration
-des sociétés existant dans le département ;
-
-- un administrateur d'une société coopérative d'habitations à loyer modéré du département élu par les conseils
-d'administration des sociétés existant dans le département ;
-
-- un administrateur d'une société de crédit immobilier du département élu par les conseils d'administration des sociétés
-existant dans le département ;
-
-- un administrateur d'une caisse d'épargne du département élu par le ou les conseils d'administration des caisses d'épargne
-du département ;
-
-- un représentant de la chambre d'agriculture départementale désigné par le bureau de cette chambre ;
-
-- un représentant des familles désigné par l'union départementale des associations familiales ;
-
-- un représentant des caisses d'allocations familiales désigné par le conseil d'administration de la caisse d'allocations
-familiales ayant son siège au chef-lieu du département ;
-
-- un représentant des groupements professionnels ou inter-professionnels du logement existant dans le département, élu par
-les conseils d'administration de ces groupements ;
-
-- un représentant du conseil d'hygiène départemental choisi par le préfet ;
-
-- des personnalités désignées par le préfet en raison de leur compétence en matière de construction et d'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-20
-
-A défaut d'office public, de société anonyme d'habitations à loyer modéré, de société coopérative d'habitations à loyer
-modéré, de société de crédit immobilier, de caisse d'épargne, d'union des associations familiales ou de groupement
-professionnel ou interprofessionnel du logement existant dans le département, les membres prévus pour ces catégories sont
-remplacés par des membres choisis par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-21
-
-Le comité départemental de Paris est composé de la façon suivante :
-
-- huit membres nommés par le conseil de Paris qui les choisit en son sein ;
-
-- deux administrateurs d'offices publics d'habitations à loyer modéré du département élu par les conseils d'administration
-des offices existants ;
-
-- un administrateur d'une société anonyme d'habitations à loyer modéré du département élu par les conseils d'administration
-des sociétés existantes ;
-
-- un administrateur d'une société coopérative d'habitations à loyer modéré du département élu par les conseils
-d'administration des sociétés existantes ;
-
-- un administrateur d'une société de crédit immobilier du département élu par les conseils d'administration des sociétés
-existantes ;
-
-- un administrateur désigné par le conseil d'administration d'une caisse d'épargne de Paris ;
-
-- un représentant des familles désigné par l'union départementale des associations familiales ;
-
-- un membre désigné par le conseil d'administration de la caisse centrale d'allocations familiales de la région parisienne.
-
-- deux représentants des groupements professionnels ou interprofessionnels du logement existant dans le département élus par
-les conseils d'administration de ces groupements ;
-
-- un représentant du conseil d'hygiène départemental choisi par le préfet ;
-
-- cinq membres choisis par le préfet en raison de leur compétence en matière de construction et d'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-22
-
-Un arrêté du préfet fixe le délai et les modalités des élections qui ont lieu par correspondance.
-
-Si les organismes énumérés aux articles précédents n'élisent pas de représentant dans le délai imparti, le préfet procède
-d'office à cette désignation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-23
-
-Les membres des comités départementaux d'habitations à loyer modéré sont nommés ou élus pour une durée de trois ans.
-
-En cas de vacance ou lorsqu'un membre perd la qualité en considération de laquelle il avait été désigné, il est pourvu à son
-remplacement en la même forme, dans un délai maximum de trois mois.
-
-Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles du membres qu'il a remplacé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-24
-
-Dans sa première séance, le comité désigne son président, un vice-président, s'il y a lieu, et un secrétaire assisté d'un
-fonctionnaire désigné par arrêté du préfet.
-
-Le directeur départemental de l'équipement, le directeur départemental de l'agriculture, le directeur départemental de
-l'action sanitaire et sociale ou leur représentant assument les fonctions de rapporteurs permanents auprès du comité et
-assistent aux réunions avec voix consultative.
-
-Les procès-verbaux sont signés par le président et par le secrétaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-25
-
-Le comité délibère valablement lorsque la moitié plus un des membres qui le composent sont présents.
-
-Les délibérations sont prises à la majorité absolue des votants. S'il y a partage, la voix du président et prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-26
-
-Le comité se réunit sur convocation du président ou lorsque trois membres le demandent par écrit.
-
-En cas d'urgence, le préfet peut convoquer lui-même le comité. Tout membre qui s'abstient de se rendre à trois convocations
-successives, sans motif reconnu légitime par le comité, est déclaré démissionnaire par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-27
-
-En cas de démission simultanée de plus de la moitié des membres du comité, ou lorsqu'après deux convocations successives, la
-seconde par lettre recommandée, le comité ne se trouve pas en nombre pour délibérer, ou enfin si ce comité commet des abus
-graves dans l'exercice de ses fonctions, le préfet procède à la dissolution du comité et provoque la constitution d'un
-nouveau comité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R461-28 (Ab)
-
-
-###### Article R461-28
-
-Dans les cas prévus à l'article précédent, le préfet avise le ministre chargé de la construction et de l'habitation de
-l'impossibilité de produire un avis du comité départemental en lui communiquant son avis personnel sur les affaires en cours.
-
-Cet avis se substitue à celui du comité départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R461-27 (Ab)
-
-
-###### Article R461-29
-
-Le comité peut déléguer certaines de ses attributions à des commissions spéciales constituées dans son sein.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
-###### Article R461-30
-
-L'arrêté préfectoral instituant le comité départemental des habitations à loyer modéré règle la dévolution à son profit du
-patrimoine du ou des comités de patronage des habitations à loyer modéré et de la prévoyance sociale auxquels il est
-substitué.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-543 1956-06-06 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Abrogé par**:
-
-	  - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
-
-
 ## Livre IV : Habitations à loyer modéré.
 
 ### Titre II : Organismes d'habitations à loyer modéré.
@@ -54253,6 +55237,57 @@ substitué.
 #### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
+
+###### Article R*421-1
+
+Les offices publics d'habitations à loyer modéré peuvent demander à être transformés en offices publics d'aménagement et de
+construction. Cette transformation est prononcée par décret en Conseil d'Etat pris sur le rapport du ministre chargé de la
+construction et de l'habitation, du ministre chargé des finances et du ministre de l'intérieur, après avis de la collectivité
+locale ou de l'établissement public local qui a participé à leur dotation, du [*comité départemental des habitations à loyer
+modéré*] conseil départemental de l'habitat du département du siège, du conseil général, du préfet, du comité régional des
+habitations à loyer modéré, s'il a été constitué, du préfet de région et du conseil supérieur des habitations à loyer modéré.
+
+Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une même région  peuvent demander à se
+transformer par voie de fusion en un seul office public d'aménagement et de construction ; cette transformation est soumise
+aux règles fixées à l'alinéa précédent.
+
+Seuls peuvent obtenir la transformation mentionnée aux deux premiers alinéas les offices publics d'habitations à loyer modéré
+dont la compétence et la qualité de la gestion sur les plans administratif, financier, technique et social ont été
+constatées.
+
+A cet effet, ils doivent faire l'objet d'un contrôle opéré en vertu de l'article L. 451-1, à moins qu'un tel contrôle ait été
+effectué au cours de l'année précédant la demande de transformation.
+
+Ces offices doivent avoir des capacités administratives, techniques et financières qui leur permettent, au cours de chacune
+des trois années suivant la transformation, de réaliser au moins 500 logements ou des opérations d'aménagement nécessitant la
+mise en oeuvre de moyens d'une importance équivalente.
+
+L'office public d'aménagement et de construction est substitué dans les droits et obligations du ou des offices publics
+d'habitations à loyer modéré dont il est issu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-986 1973-10-22 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°2012-416  du 23 mars 2012 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
 
 ###### Article R*421-2
 
@@ -55005,36 +56040,6 @@ Les offices versent, à titre de participation, une contribution au fonctionneme
 
 ##### Sous-section 1 : Création et gestion.
 
-###### Article R*421-52
-
-La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, intercommunaux, de district ou de
-communauté urbaine qui gèrent plus de 1500 [*nombre*] logements et ont construit plus de 500 logements au cours des dix
-années précédant leur demande peut être étendue à tout ou partie du département où se trouve leur siège.
-
-Cette extension de compétence est décidée, à la demande du conseil d'administration de l'office, sur avis conforme de la
-commune ou de l'établissement public ayant participé à la dotation initiale de l'office et après avis du comité départemental
-des habitations à loyer modéré :
-
-- par arrêté préfectoral si l'avis du comité départemental est favorable ;
-
-- par arrêté du ministre chargé de la construction et de l'habitation et du ministre de l'intérieur, après avis du conseil
-supérieur des habitations à loyer modéré, dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 7 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
-
-
 ###### Article R*421-61
 
 Le conseil d'administration règle par ses délibérations les affaires de l'office [*attributions*].
@@ -55406,24 +56411,29 @@ ouverts pour l'ensemble du budget.
 
 ###### Article R423-49
 
-Le budget est présenté au conseil d'administration par l'administrateur délégué. Il est délibéré, voté et, avant le 1er
-novembre [*délai*] de l'année précédant l'exercice pour lequel il est voté, soumis à l'approbation du préfet [*tutelle*].
+Le budget est présenté au conseil d'administration par le président du conseil d'administration. Il est délibéré, voté et,
+avant le 1er novembre [*délai*] de l'année précédant l'exercice pour lequel il est voté, soumis à l'approbation du préfet
+[*tutelle*].
 
 Suivant le cas, il est pris l'avis du conseil municipal, du comité du syndicat de communes, de la commission départementale
-et, pour tous les offices, du comité départemental des habitations à loyer modéré.
-
+et, pour tous les offices, du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat.
 Des crédits additionnels peuvent être accordés en cours d'année suivant la procédure prévue pour le vote du budget et pour
 son approbation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 18
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
 
 	**Cité par**:
 
@@ -56330,6 +57340,97 @@ logements au profit de familles prioritaires.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R441-22 (VT)
+
+
+###### Article R441-22
+
+La liste de classement mentionnant le nom, l'adresse et la situation de famille des candidats retenus est notifiée au
+[*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat qui contrôle au moins une fois par
+an les conditions dans lesquelles l'organisme procède à l'établissement de la liste de classement et aux attributions.
+
+Si le nombre des organismes à contrôler le rend nécessaire, le préfet, sur proposition du comité départemental précité, peut
+installer une ou plusieurs commissions présidées par un membre du comité départemental désigné par le président de ce
+dernier.
+
+Cette ou ces commissions comprennent [*composition*] :
+
+- un administrateur des offices publics d'habitations à loyer modéré désigné par le comité ;
+
+- un administrateur des sociétés d'habitations à loyer modéré désigné par le comité ;
+
+- le représentant des caisses d'allocations familiales au comité ;
+
+- le représentant de l'union départementale des associations familiales au comité ;
+
+- le représentant du conseil départemental d'hygiène au comité.
+
+Le comité départemental désigne comme suppléant un administrateur d'office d'habitations à loyer modéré et un administrateur
+de société d'habitations à loyer modéré qui remplacent le titulaire correspondant lorsque celui-ci est empêché ou que des
+contestations concernant son organisme sont examinées par la commission.
+
+Le comité départemental adresse annuellement au préfet un rapport sur les organismes contrôlés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-346 1954-03-27 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°98-1028 du 13 novembre 1998 - art. 3 (V)
+
+
+###### Article R441-23
+
+Le ministre chargé de la construction et de l'habitation peut, s'il est nécessaire, exiger des organismes, après avis du
+[*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat, l'application d'un système de
+notation. Ce système est fixé par arrêté dudit ministre, du ministre de l'intérieur et du ministre chargé de la santé [*liste
+de classement des candidats*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-346 1954-03-27 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. *R441-20 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-24 (Ab)
+	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
 
 
 ###### Article R441-26
@@ -59121,6 +60222,802 @@ Autres : ....
 	**Créé par**:
 
 	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
+
+
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.
+
+###### Article Annexe 1 à l'article R353-161
+
+Entre les soussignés :
+
+Le ministre de l'environnement et du cadre de vie agissant au nom de l'Etat, en tant que ministre chargé de la construction
+et de l'habitation, et représenté par le préfet : ... (1) représenté(e) par son président M. ... autorisé à cet effet par
+délibération de son conseil d'administration, en date du ... dénommé ci-après le "propriétaire" ; ... (2) représenté(e) par
+son président M. ... autorisé à cet effet par délibération de son conseil d'administration, en date du ..., dénommé ci-après
+le "gestionnaire", et agissant à ce titre en application de la convention de location en date du ... conclue avec le
+propriétaire et mise en conformité avec les dispositions de la présente convention par avenant en date du ... qui lui sont
+annexés,
+
+il a été convenu de ce qui suit :
+
+(1)organisme d'habitations à loyer modéré ou société propriétaire du logement-foyer.
+
+(2) Association gestionnaire du logement-foyer
+
+Article 1er.
+
+Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles L. 353-154 à L.
+353-165 du code de la construction et de l'habitation, pour le programme de ... :
+
+Variante n° 1 : ayant bénéficié pour sa construction des financements définis à l'article R. 351-56 (1°) du code de la
+construction et de l'habitation.
+
+Variante n° 2 : amélioré ou acquis et amélioré après le 4 janvier 1977 dans les conditions définies à l'article R. 351-56
+(2°) du code précité.
+
+Variante n° 3 : construit après le 4 janvier 1977 dans les conditions définies à l'article R. 351-56 (3°) du code précité.
+
+La signature de la présente convention conditionne pendant sa durée l'ouverture du droit à l'aide personnalisée au logement
+dans les conditions définies dans le livre III, titre V (1ère partie) du code précité et ses décrets d'application.
+
+Article 2.
+
+Description du programme.
+
+La présente convention s'applique au programme répondant aux conditions suivantes :
+
+2.1. - Description du ou des immeubles.
+
+a) Locaux visés par la présente convention :
+
+Surface totale du foyer :
+
+Surface totale affectée à l'habitation :
+
+- parties privatives (3) ;
+
+- parties communes.
+
+Elément de confort, notamment :
+
+- modalités d'installation du chauffage ;
+
+- modalités de distribution de l'eau et de l'électricité.
+
+Garages et parkings (nombre et type).
+
+Dépendances : nombre ... ; surface : ...
+
+Locaux affectés à usage collectif spécifique.
+
+(3) Cf tableau annexé
+
+b) Locaux auxquels ne s'applique pas la convention.
+
+2.2. - Composition du programme.
+
+Le tableau ci-annexé donne la composition du programme avant et après réalisation des travaux.
+
+L'organisme s'engage à réaliser les travaux mentionnés à l'article 1er de la présente convention au plus tard le ... (1)
+
+(1) Dans le cas de la variante n° 2 uniquement.
+
+2.3. - Origine de propriété.
+
+2.4. - Renseignements administratifs.
+
+Date d'achèvement de la construction ou certificat de conformité.
+
+Nature et modalités de financement : échéances restant à courir.
+
+Article 2 bis (option) (1).
+
+(1) Dans le cas de la variante n° 2 uniquement.
+
+Les travaux concernant le logement-foyer faisant l'objet de la présente convention sont inscrits au programme annexé à la
+présente convention.
+
+Ces travaux doivent conduire à mettre le logement-foyer en conformité totale avec les normes minimales d'habitabilité
+définies par arrêté interministériel, sous réserve des impératifs techniques tenant à la structure de l'immeuble.
+
+Article 3.
+
+Durée de la convention.
+
+La présente convention prend effet à compter de sa signature. Elle est tenue à la disposition permanente des occupants dans
+un local du logement-foyer. Cette information est mentionnée par affichage et de façon très apparente dans les parties
+communes dudit logement-foyer dès la signature de la convention.
+
+Elle a une durée d'au moins un an et expire le 30 juin .....
+
+Elle est renouvelée par tacite reconduction pour des périodes annuelles sous réserve de dénonciation expresse par l'une ou
+l'autre partie, donnée par lettre recommandée avec avis de réception dans un délai de trois mois.
+
+Article 4.
+
+Obligation respectives du propriétaire et du bailleur relatives à la maintenance et à l'entretien des locaux loués.
+
+Variante n° 1 : si une convention de location a été conclue entre le propriétaire et le gestionnaire, les obligations
+respectives du propriétaire et du gestionnaire relatives à la maintenance et à l'entretien des locaux loués sont celles
+définies dans cette convention.
+
+Variante n° 2 : dans le cas où le propriétaire est gestionnaire direct, il est tenu en application des articles 606, 1719,
+1720 et 1721 du code civil de maintenir les locaux en bon état d'habitabilité et de faire exécuter toutes les réparations
+nécessaires qui sont à sa charge.
+
+Pour permettre le contrôle de l'exécution des obligations définies ci-dessus, le gestionnaire (ou le propriétaire) s'engage à
+tenir au plus tard le ... un carnet d'entretien dans lequel seront consignés tous les renseignements sur les interventions
+d'entretien, de réparation ou d'amélioration faites ou à faire par lui sur l'immeuble.
+
+Article 5.
+
+Conditions d'attribution et d'occupation permanente du logement foyer.
+
+Le logement-foyer doit être affecté au logement de personnes ou de ménages dits occupants.
+
+Le gestionnaire s'engage à loger en priorité les catégories de personnes suivantes : jeunes travailleurs ou handicapés ou
+travailleurs migrants.
+
+Il s'engage également à ce que le logement-foyer soit progressivement occupé, au moins pour 75 p. 100 des lits, par des
+personnes mentionnées ci-dessus dont les ressources n'excèdent pas les plafonds fixés par l'arrêté du 29 juillet 1977 pris en
+application de l'article R. 331-20 du code de la construction et de l'habitation. Pour atteindre ce pourcentage, le
+gestionnaire s'engage à réserver par priorité les lits vacants aux personnes susmentionnées.
+
+Titre d'occupation.
+
+Article 6.
+
+Le gestionnaire s'engage à proposer aux occupants dans les lieux, à la date d'entrée en vigueur de la présente convention, un
+titre d'occupation dans les conditions définies à l'article 8 ci-dessous.
+
+L'occupant dispose d'un délai d'un mois pour accepter ce titre d'occupation ; au terme de ce délai, les dispositions de la
+présente convention s'appliquent de plein droit, sous réserve des contrats en cours.
+
+Article 7.
+
+Le gestionnaire s'engage à proposer à tout candidat à un logement-foyer un titre d'occupation dans les conditions définies à
+l'article 8 ci-dessous.
+
+Article 8.
+
+Sous réserve des dispositions des articles 14 et 15 ci-dessous, le titre d'occupation est conclu pour une durée d'un mois,
+renouvelable par tacite reconduction pour de mêmes périodes à la volonté du seul occupant dans la mesure où ce dernier
+exécute toutes les obligations stipulées par le titre d'occupation, en particulier celle découlant de l'article 1728 du code
+civil reportée dans ledit titre, et les conditions d'accueil spécifiques du logement-foyer.
+
+Au cours de chaque période mensuelle, l'occupant peut mettre fin à tout moment à son titre d'occupation sous réserve d'un
+préavis de huit jours donné par écrit.
+
+Lorsque le titre d'occupation prévoit une clause résolutoire, il doit étre stipulé expressément dans ce titre que la clause
+résolutoire ne produit effet qu'un mois après la date de notification par lettre recommandée avec demande d'avis de
+réception. Pendant ce même mois, le gestionnaire, à la demande de l'occupant, peut lui accorder pour le paiement de sa dette
+des délais dans les conditions de l'article 1244 du code civil. Les effets de la clause résolutoire sont suspendus pendant le
+cours de ces délais.
+
+Article 9.
+
+A l'égard de l'occupant bénéficiaire de l'aide personnalisée au logement, le gestionnaire s'engage, après constat de deux
+échéances consécutives impayées, à notifier à l'occupant défaillant par lettre recommandée avec demande d'avis de réception
+la poursuite du recouvrement de sa créance, ainsi que les conditions de résiliation du titre d'occupation et le risque de
+suspension du versement de l'aide personnalisée au logement. Si le titre d'occupation comporte une clause résolutoire, la
+résiliation ne peut intervenir qu'après examen du dossier par la section des aides publiques au logement du conseil
+départemental de l'habitat.
+
+Article 10.
+
+Ce titre doit préciser le numéro de la chambre et/ou du lit attribué(s) à chaque occupant ainsi que toutes les informations
+sur les conditions de vie collective.
+
+Un inventaire des lieux doit être annexé au titre d'occupation :
+
+Variante n° 1 : Pour garantir l'exécution de ses obligations, l'occupant doit verser lors de l'entrée dans les lieux à titre
+de cautionnement une somme égale à un mois du montant de la redevance pratiquée. Cette somme lui sera restituée à son départ,
+après paiement de toutes les charges et prestations lui incombant et relevé de l'inventaire des lieux.
+
+Variante n° 2 (1) : Pour garantir l'exécution de ses obligations, l'occupant doit verser une somme égale au plus à un mois du
+montant de la redevance pratiquée. Cette somme lui sera restituée à son départ, après paiement de toutes les charges et
+prestations lui incombant et relevé de l'inventaire des lieux.
+
+(1) Uniquement pour les logements-foyers de jeunes travailleurs)
+
+Article 11.
+
+La part de la redevance mensuelle assimilable aux loyers et aux charges locatives acquittée par l'occupant ne doit pas
+excéder un maximum qui est fixé à ... euros (2)
+
+(2) par lit et par type de chambre du programme conventionné.
+
+Cette part de la redevance maximum évolue à compter du 1er juillet de chaque année en fonction des règles suivantes :
+
+a) A concurrence de ... p. 100 de son montant en fonction des variations de l'indice du coût de la construction publié par
+l'I.N.S.E.E..
+
+L'élément de référence est constitué par les variations de l'indice du coût de la construction publié par l'I.N.S.E.E. entre
+l'indice du quatrième trimestre précédant l'année de révision et l'indice du quatrième trimestre de l'année antérieure à
+l'année précédant l'année de révision.
+
+b) A concurrence de ... p. 100 de son montant en fonction des variations du sous-indice "combustible, énergie" intégré dans
+l'indice des prix à la consommation des ménages urbains (série France entière).
+
+c) A concurrence de ... p. 100 de son montant en fonction des variations du sous-indice "entretien logement".
+
+L'élément de référence pris en compte en b et en c est constitué par les variations de chacun de ces sous-indices publiés par
+l'I.N.S.E.E. entre le sous-indice du mois de décembre précédant l'année de révision et le sous-indice du mois de décembre de
+l'année antérieure à l'année précédant l'année de révision.
+
+La part de la redevance pratiquée est indexée sur ces bases dans la limite de la part de la redevance maximum.
+
+Elle peut, en outre, dans la limite de ce maximum, être réajustée chaque année le 1er juillet. Cette part de la redevance
+peut également être réajustée en cas de modification des prestations fournies. Dans ce cas, cette modification fait l'objet
+d'un avenant au titre d'occupation. L'avenant s'applique de plein droit, sous réserve des contrats en cours.
+
+Article 12.
+
+La part de la redevance qui, contrepartie de l'occupation du logement, est assimilable au loyer et aux charges locatives et
+seule prise en compte pour le calcul de l'aide personnalisée au logement, correspond aux éléments suivants :
+
+a) En ce qui concerne l'équivalence du loyer :
+
+Les frais financiers annuels afférents à l'immeuble qui recouvrent le remboursement :
+
+Des charges afférant à l'ensemble des emprunts contractés pour la construction, l'amélioration et l'acquisition amélioration
+du foyer ;
+
+Des frais généraux du propriétaire ;
+
+De la provision pour grosses réparations au sens de l'article 606 du code civil ;
+
+Du montant de la prime d'assurance de l'immeuble.
+
+Les frais de fonctionnement du foyer, à l'exclusion de ceux relatifs à l'amortissement du mobilier, à l'action socio-
+éducative, au service de soins et au blanchissage, à savoir :
+
+Frais de siège du gestionnaire ;
+
+Frais fixes de personnel administratif ;
+
+Provision pour gros entretien en application des articles 1719, 1720 et 1721 du code civil, et frais de personnel et de
+fourniture afférents à ces travaux, ainsi que toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code
+civil.
+
+b) En ce qui concerne l'équivalence de charges locatives : les charges récupérables correspondant à des prestations, taxes
+locatives et fournitures individuelles au sens de l'article 38 de la loi du 1er septembre 1948 prises en compte
+forfaitairement.
+
+Elle est calculée le 1er juillet de chaque année :
+
+Variante n° 1 : en appliquant à la redevance effective un abattement forfaitaire défini comme suit : ....
+
+Variante n° 2 : en prenant en compte à partir des éléments constitutifs de la redevance ceux correspondant au foyer et aux
+charges locatives tels que définis ci-dessus.
+
+Article 13.
+
+La redevance est payée par fraction mensuelle à terme échu. Le gestionnaire remet à l'occupant un document faisant clairement
+apparaître le montant de la redevance, le montant de l'équivalence de loyer et de charges locatives pris en compte pour le
+calcul de l'aide personnalisée au logement, ainsi que la montant de cette aide.
+
+Conditions d'exécution des travaux et relogement.
+
+Article 14.
+
+Lorsque le logement-foyer doit faire l'objet de travaux d'amélioration, le gestionnaire s'engage à en informer les occupants
+par voie d'affichage quinze jours avant le début des travaux.
+
+Lorsque l'exécution des travaux nécessite l'évacuation temporaire ou définitive des lieux le gestionnaire en informe chaque
+occupant concerné.
+
+Article 15.
+
+En cas d'évacuation temporaire des lieux, le gestionnaire s'engage à reloger les occupants pendant la durée des travaux dans
+un logement-foyer (ou dans des locaux adaptés à cet effet). Ces conditions de relogement provisoire seront déterminées en
+accord avec le préfet ou son représentant. A l'achèvement des travaux, l'occupant peut demander à réintégrer
+préférentiellement le logement-foyer amélioré.
+
+Le gestionnaire s'engage lorsque les travaux conduisent à une opération de desserrement ayant pour conséquence de réduire la
+capacité d'accueil du logement-foyer, à reloger les personnes évincées dans un local en bon état d'habitation correspondant
+au moins aux caractéristiques du logement-foyer avant travaux.
+
+Article 16.
+
+Obligations à l'égard des organismes chargés du service de l'aide personnalisée au logement.
+
+Le gestionnaire s'engage à l'égard du ou des organismes liquidateurs de l'aide personnalisée au logement :
+
+A adresser dès son entrée en vigueur une photocopie de la présente convention à laquelle sont annexés :
+
+D'une part, un tableau faisant apparaître la description des parties privatives (référence des lits et des chambres) ;
+
+D'autre part, un tableau mentionnant les redevances pratiquées au 1er juillet de chaque année et le montant de l'équivalence
+de loyer et de charges défini par lit selon le type de chambres.
+
+Ce tableau est valable pour chaque exercice allant du 1er juillet d'une année au 30 juin de l'année suivante.
+
+Un nouveau tableau doit être adressé avant le 15 mai de chaque année, il est établi sur la base du montant de la redevance
+pratiquée et de l'équivalence de loyer et de charges applicables chaque 1er juillet.
+
+A signaler immédiatement tout départ d'occupant bénéficiant de l'aide personnalisée au logement ;
+
+A prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes liquidateurs afin de faciliter
+l'établissement et le dépôt des dossiers de demande d'aide personnalisée au logement ;
+
+A fournir toute justification concernant le paiement de la redevance ; en cas de non-paiement de deux échéances consécutives,
+à en aviser immédiatement les organismes liquidateurs ainsi que la section des aides publiques au logement du conseil
+départemental de l'habitat en indiquant les démarches entreprises auprès de l'occupant défaillant.
+
+Article 17 (option)
+
+Contribution au F.N.H.
+
+Le gestionnaire s'engage à verser au fonds national de l'habitation, pendant la durée de la convention, une somme calculée
+selon les modalités suivantes : ....
+
+Article 18.
+
+Résiliation.
+
+En cas d'inexécution par le gestionnaire de ses engagements contractuels, telle que faute grave à l'égard des organismes
+liquidateurs de l'aide personnalisée au logement, l'administration, après mise en demeure par lettre recommandée avec avis de
+réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la résiliation de la présente
+convention.
+
+Il sera fait application des dispositions prévues à l'article R. 353-164 du code de la construction et de l'habitation.
+
+Pour les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée
+par la convention, diminuée de l'aide personnalisée au logement, prise en charge désormais par le gestionnaire.
+
+Article 19.
+
+Sanctions.
+
+En application de l'article R. 353-154 du code de la construction et de l'habitation, en cas de non-respect des obligations
+d'information à l'égard des occupants ainsi qu'à l'égard des organismes chargés de la liquidation de l'aide personnalisée au
+logement et après mise en demeure par lettre recommandée, demeurée sans effet pendant un délai de six mois, le gestionnaire
+s'engage à verser au fonds national de l'habitation une somme égale à ... p. 100 du montant des redevances annuelles dues au
+titre de la présente convention.
+
+Article 20.
+
+Contrôle.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le gestionnaire est tenu de
+fournir au ministre chargé de la construction et de l'habitation ou à son représentant, ou aux membres du corps de
+l'inspection générale de l'équipement, toutes les informations et tous les documents nécessaires au plein exercice de ce
+contrôle.
+
+Fait à ..., le ....
+
+Annexe de l'annexe 1 à l'article R. 353-161.
+
+Tableau descriptif des parties privatives du foyer de ... géré par ... et faisant l'objet de la présente convention.
+
+Nombre total de chambres : ...
+
+Nombre total de lits : ...
+
+Nombre de chambres/surface par chambre/numéro de chambre/numéro de lit :
+
+- chambres individuelles : ....
+
+- chambres à 2 ou 3 lits : ....
+
+- chambres à 3 ou 4 lits : ....
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1977-07-29
+	  - Loi n°48-1360 1948-09-01 art. 38
+	  - Code civil - art. 1244 (M)
+	  - Code civil - art. 1719 (M)
+	  - Code civil - art. 1720 (V)
+	  - Code civil - art. 1721 (V)
+	  - Code civil - art. 1728 (V)
+	  - Code civil - art. 1754 (V)
+	  - Code civil - art. 1755 (V)
+	  - Code civil - art. 606 (V)
+	  - Code de la construction et de l'habitation L353-13, L351-2, L353-154 à L353-165, R351-56, R331-20, R353-164, R353-154, R353-161
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-13 (V)
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R353-154 (M)
+	  - Code de la construction et de l'habitation. - art. R353-161 (M)
+	  - Code de la construction et de l'habitation. - art. R353-164 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
+
+
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.
+
+###### Article Annexe 2 à l'article R353-161
+
+Entre les soussignés :
+
+Le ministre de l'environnement et du cadre de vie agissant au nom de l'Etat, en tant que ministre chargé de la construction
+et de l'habitation, et représenté par le préfet ; ... (1) représenté(e) par son président M. ..., autorisé à cet effet par
+délibération de son conseil d'administration, en date du ..., dénommé ci-après "le propriétaire" ; ... (2) représenté(e) par
+son président M. ... autorisé à cet effet par délibération de son conseil d'administration, en date du ..., dénommé ci-après,
+le gestionnaire", et agissant à ce titre en application de la convention de location en date du ... conclue avec le
+propriétaire et mise en conformité avec les dispositions de la présente convention par avenant en date du ... qui lui sont
+annexés, il a été convenu de ce qui suit :
+
+(1) organisme d'habitation à loyer modéré ou société propriétaire du logement-foyer.
+
+(2) Association gestionnaire du logement-foyer.    Article 1er.
+
+Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles L. 353-154 à L.
+353-165 du code de la construction et de l'habitation, pour le programme de ... :
+
+Variante n° 1 : ayant bénéficié pour sa construction des financements définis à l'article R. 351-56 (1°) du code de la
+construction et de l'habitation.
+
+Variante n° 2 : amélioré ou acquis et amélioré après le 4 janvier 1977 dans les conditions définies à l'article R. 351-56
+(2°) du code précité.
+
+Variante n° 3 : construit après le 4 janvier 1977 dans les conditions définies à l'article R. 351-56 (3°) du code précité.
+
+La signature de la présente convention conditionne pendant sa durée l'ouverture du droit à l'aide personnalisée au logement
+dans les conditions définies dans le livre III, titre V (1ère partie) du code précité et ses décrets d'application.
+
+Article 2.
+
+Description du programme.
+
+La présente convention s'applique au programme répondant aux conditions suivantes :
+
+2.1. - Description du ou des immeubles.
+
+a) Locaux visés par la présente convention :
+
+Surface totale du foyer :
+
+Surface totale affectée à l'habitation :
+
+- parties privatives (3) ;
+
+- parties communes.
+
+Elément de confort, notamment :
+
+- modalités d'installation du chauffage ;
+
+- modalités de distribution de l'eau et de l'électricité.
+
+Garages et parkings (nombre et type).
+
+Dépendances : nombre : ... ; surface : ....
+
+Locaux affectés à usage collectif spécifique.
+
+(3) Cf tableau annexé
+
+b) Locaux auxquels ne s'appliquent pas la convention.
+
+2.2. - Composition du programme.
+
+Le tableau ci-annexé donne la composition du programme avant et après réalisation des travaux.
+
+L'organisme s'engage à réaliser les travaux mentionnés à l'article 1er de la présente convention au plus tard le ... (4)
+
+(4) Dans le cas de la variante n° 2 uniquement.
+
+2.3. - Origine de propriété.
+
+2.4. - Renseignements administratifs.
+
+Date d'achèvement de la construction ou certificat de conformité.
+
+Nature et modalités de financement : échéances restant à courir.
+
+Article 2 bis (option) (1)
+
+Ces travaux font l'objet d'un programme de réalisation qui se poursuit par ... tranche(s) annuelle(s) pendant ... mois ou
+année(s).
+
+Les travaux concernant le logement-foyer faisant l'objet de la présente convention sont inscrits au programme annexé à la
+présente convention.
+
+Ces travaux doivent conduire à mettre le logement-foyer en conformité totale avec les normes minimales d'habitabilité
+définies par arrêté interministériel, sous réserve des impératifs techniques tenant à la structure de l'immeuble.
+
+(4) Dans le cas de la variante n° 2 uniquement.
+
+Article 3.
+
+Durée de la convention.
+
+La présente convention prend effet à compter de sa signature. Elle est tenue à la disposition permanente des occupants dans
+un local ou logement-foyer. Cette information est mentionnée par affichage et de façon très apparente dans les parties
+communes dudit logement-foyer dès la signature de la convention.
+
+Elle a une durée d'au moins un an et expire le 30 juin ....
+
+Elle est renouvelée par tacite reconduction pour des périodes annuelles sous réserve de dénonciation expresse par l'une ou
+l'autre partie, donnée par lettre recommandée avec avis de réception dans un délai de trois mois.
+
+Article 4.
+
+Obligations respectives du propriétaire et du bailleur relatives à la maintenance et l'entretien des locaux loués.
+
+Variante n° 1 : si une convention de location a été conclue entre le propriétaire et le gestionnaire, les obligations
+respectives du propriétaire et du gestionnaire relatives à la maintenance et à l'entretien des locaux loués sont celles
+définies dans cette convention.
+
+Variante n° 2 : dans le cas où le propriétaire est gestionnaire direct, il est tenu en application des articles 606, 1719,
+1720 et 1721 du code civil de maintenir les locaux en bon état d'habitabilité et de faire exécuter toutes les réparations
+nécessaires qui sont à sa charge.
+
+Pour permettre le contrôle de l'exécution des obligations définies ci-dessus, le gestionnaire (ou le propriétaire) s'engage à
+tenir au plus tard le ... un carnet d'entretien dans lequel seront consignés tous les renseignements sur les interventions
+d'entretien, de réparation ou d'amélioration faites ou à faire par lui sur l'immeuble.
+
+Article 5.
+
+Conditions d'attribution et d'occupation permanente du logement foyer.
+
+Le gestionnaire s'engage à réserver le logement-foyer aux personnes âgées seules ou en ménage. Il s'engage également à ce que
+le logement-foyer soit progressivement occupé au moins pour ... p. 100 des lits par des personnes ou des ménages dont les
+ressources n'excèdent pas les plafonds fixés par l'arrêté du 29 juillet 1977 pris en application de l'article R. 331-20 du
+code de la construction et de l'habitation. Pour atteindre ce pourcentage, le gestionnaire s'engage à réserver par priorité
+les lits vacants aux personnes ou ménages susmentionnés.
+
+Titre d'occupation.
+
+Article 6.
+
+Le gestionnaire s'engage à proposer aux occupants dans les lieux, à la date d'entrée en vigueur de la présente convention, un
+titre d'occupation dans les conditions définies à l'article 8 ci-dessous.
+
+L'occupant dispose d'un délai d'un mois pour accepter ce titre d'occupation ; au terme de ce délai, les dispositions de la
+présente convention s'appliquent de plein droit, sous réserve des contrats en cours.
+
+Article 7.
+
+Le gestionnaire s'engage à proposer à tout candidat à un logement-foyer un titre d'occupation dans les conditions définies à
+l'article 8 ci-dessous.
+
+Article 8.
+
+Sous réserve des dispositions des articles 14 et 15 ci-dessous, le titre d'occupation est conclu pour une durée d'un mois,
+renouvelable par tacite reconduction, chaque fois pour une durée égale à ce qui est dessus indiqué, à la volonté du seul
+occupant dans la mesure où ce dernier exécute toutes les obligations stipulées par le titre d'occupation, en particulier
+celle de l'article 1728 du code civil et dans la mesure où son état de santé est compatible avec les conditions d'accueil
+spécifiques du logement-foyer.
+
+Au cours de chaque période mensuelle, l'occupant peut mettre fin à tout moment à son titre d'occupation sous réserve d'un
+préavis de huit jours donné par écrit. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le titre
+d'occupation produit effet jusqu'au dernier jour du mois.
+
+Dans la mesure où l'état de santé de l'occupant lui impose une inoccupation temporaire de son logement, le renouvellement de
+son titre d'occupation ne peut être remis en cause.
+
+Lorsque le titre d'occupation prévoit une clause résolutoire, il doit être stipulé expressément dans ce titre que la clause
+résolutoire ne produit effet qu'un mois après la date de notification, par lettre recommandée avec demande d'avis de
+réception. Pendant ce même mois, le gestionnaire, à la demande de l'occupant, peut lui accorder pour le paiement de sa dette
+des délais dans les conditions de l'article 1244 du code civil. Les effets de la clause résolutoire sont suspendus pendant le
+cours de ces délais.
+
+Article 9.
+
+A l'égard de l'occupant bénéficiaire de l'aide personnalisée au logement, le gestionnaire s'engage, après constat de deux
+échéances consécutives impayées, à notifier à l'occupant défaillant, par lettre recommandée avec demande d'avis de réception,
+la poursuite du recouvrement de sa créance, ainsi que les conditions de résiliation du titre d'occupation et le risque de
+suspension du versement de l'aide personnalisée au logement. Si le titre d'occupation comporte une clause résolutoire, la
+résiliation ne peut intervenir qu'après examen du dossier par la section des aides publiques au logement du conseil
+départemental de l'habitat.
+
+Article 10.
+
+Ce titre doit préciser le numéro du logement attribué à chaque occupant, ainsi que toutes informations sur les conditions de
+vie collective.
+
+Un inventaire des lieux doit être annexé au titre d'occupation.
+
+Pour garantir l'exécution de ses obligations, l'occupant doit verser lors de l'entrée dans les lieux à titre de cautionnement
+une somme égale à un mois du montant de la redevance pratiquée. Cette somme lui sera restituée à son départ, après paiement
+de toutes les charges et prestations lui incombant et relevé de l'inventaire des lieux.
+
+Article 11.
+
+La part de la redevance mensuelle assimilable aux loyers et aux charges locatives acquittée par l'occupant ne doit pas
+excéder un maximum fixé à ... euros (1)
+
+(1) par type de logement du programme conventionné.
+
+Cette part de la redevance maximum évolue à compter du 1er juillet de chaque année en fonction des règles suivantes :
+
+a) A concurrence de ... p. 100 de son montant en fonction des variations de l'indice du coût de la construction publié par
+l'I.N.S.E.E..
+
+L'élément de référence est constitué par les variations de l'indice du coût de la construction publié par l'I.N.S.E.E. entre
+l'indice du quatrième trimestre précédant l'année de révision et l'indice du quatrième trimestre de l'année antérieure à
+l'année précédant l'année de révision.
+
+b) A concurrence de ... p. 100 de son montant en fonction des variations du sous-indice "Combustible, énergie", intégré dans
+l'indice des prix à la consommation des ménages urbains (série France entière).
+
+c) A concurrence de ... p. 100 de son montant en fonction des variations du sous-indice "Entretien logement".
+
+L'élément de référence pris en compte en b et en c est constitué par les variations de chacun de ces sous-indices publiés par
+l'I.N.S.E.E. entre le sous-indice du mois de décembre précédant l'année de révision et le sous-indice du mois de décembre de
+l'année antérieure à l'année précédant l'année de révision.
+
+La part de la redevance pratiquée est indexée à la même date et sur les mêmes bases que la part de la redevance maximum.
+
+Elle peut, en outre, dans la limite de ce maximum être réajustée, chaque année le 1er juillet. Cette part de la redevance
+peut également être réajustée en cas de modification des prestations fournies. Dans ce cas, cette modification fait l'objet
+d'un avenant au titre d'occupation. L'avenant s'applique de plein droit, sous réserve des contrats en cours.
+
+Article 12.
+
+La part de la redevance qui, contrepartie de l'occupation du logement, est assimilable au loyer et aux charges locatives et
+seule prise en compte pour le calcul de l'aide personnalisée au logement, comporte les éléments suivants :
+
+a) En ce qui concerne l'équivalence de loyer :
+
+Les frais financiers annuels afférents à l'immeuble qui recouvrent le remboursement :
+
+Des charges afférant à l'ensemble des emprunts contractés pour la construction, l'amélioration ou l'acquisition-amélioration
+du foyer ;
+
+Des frais généraux du propriétaire ;
+
+De la provision pour grosses réparations au sens de l'article 606 du code civil ;
+
+Du montant de la prime d'assurance de l'immeuble.
+
+Les frais de fonctionnement du foyer, à l'exclusion de ceux relatifs à l'amortissement du mobilier et au fonctionnement du
+centre de soins et au blanchissage, à savoir :
+
+Frais de siège du gestionnaire ;
+
+Frais fixes de personnel administratif ;
+
+Provision pour gros entretien en application des articles 1719, 1720 et 1721 du code civil et frais de personnel et de
+fourniture afférents à ces travaux ainsi que toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code
+civil.
+
+b) En ce qui concerne l'équivalence de charges locatives : les charges récupérables correspondant à des prestations, taxes
+locatives et fournitures individuelles au sens de l'article 38 de la loi du 1er septembre 1948 prises en compte
+forfaitairement.
+
+Elle est calculée, le 1er juillet de chaque année, en prenant en compte à partir des éléments constitutifs de la redevance
+ceux correspondant au loyer et aux charges locatives tels que définis ci-dessus.
+
+Article 13.
+
+La redevance est payée par fraction mensuelle à terme échu. Le gestionnaire remet à l'occupant un document faisant clairement
+apparaître le montant de la redevance, le montant de l'équivalence de loyer et de charges locatives pris en compte pour le
+calcul de l'aide personnalisée au logement, ainsi que le montant de cette aide.
+
+Conditions d'exécution des travaux et relogement.
+
+Article 14.
+
+Lorsque le logement-foyer doit faire l'objet de travaux d'amélioration, le gestionnaire s'engage à en informer les occupants
+par voie d'affichage quinze jours avant le début des travaux.
+
+Lorsque l'exécution des travaux nécessite l'évacuation temporaire ou définitive des lieux, le gestionnaire en informe chaque
+occupant concerné.
+
+Article 15.
+
+En cas d'évacuation temporaire des lieux, le gestionnaire s'engage à mettre à la disposition des occupants, pendant la durée
+des travaux, un local correspondant à des conditions d'habitation au moins équivalentes.
+
+A l'achèvement des travaux, l'occupant peut demander à réintégrer préférentiellement le logement-foyer amélioré.
+
+Article 16.
+
+Obligations à l'égard des organismes chargés du service de l'aide personnalisée au logement.
+
+Afin de permettre la mise en place du tiers payant, le gestionnaire s'engage à l'égard du ou des organismes liquidateurs de
+l'aide personnalisée au logement :
+
+A adresser dès son entrée en vigueur une photocopie de la présente convention à laquelle sont annexés :
+
+D'une part, un tableau faisant apparaître la description des parties privatives (référence des lits et des chambres) ;
+
+D'autre part, un tableau mentionnant les redevances pratiquées au 1er juillet de chaque année et le montant de l'équivalence
+de loyer et de charges défini par lit selon le type de chambres.
+
+Ce tableau est valable pour chaque exercice allant du 1er juillet d'une année au 30 juin de l'année suivante.
+
+Un nouveau tableau doit être adressé avant le 15 mai de chaque année, il est établi sur la base du montant de la redevance
+pratiquée et de l'équivalence de loyer et de charges applicables chaque 1er juillet.
+
+A signaler immédiatement tout départ d'occupant bénéficiant de l'aide personnalisée au logement ;
+
+A prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes liquidateurs afin de faciliter
+l'établissement et le dépôt des dossiers de demande d'aide personnalisée au logement ;
+
+A fournir toute justification concernant le paiement de la redevance ; en cas de non-paiement de deux échéances consécutives,
+à en aviser immédiatement les organismes liquidateurs ainsi que la section des aides publiques au logement du conseil
+départemental de l'habitat en indiquant les démarches entreprises auprès de l'occupant défaillant.
+
+Article 17 (option).
+
+Contribution au F.N.H.
+
+Le gestionnaire s'engage à verser au fonds national de l'habitation, pendant la durée de la convention, une somme calculée
+selon les modalités suivantes :
+
+Article 18.
+
+Résiliation.
+
+En cas d'inexécution par le gestionnaire de ses engagements contractuels, telle que faute grave à l'égard des organismes
+liquidateurs de l'aide personnalisée au logement, l'administration, après mise en demeure par lettre recommandée avec avis de
+réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la résiliation de la présente
+convention.
+
+Il sera fait application des dispositions prévues à l'article R. 353-164 du code de la construction et de l'habitation.
+
+Pour les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée
+par la convention, diminuée de l'aide personnalisée au logement, prise en charge désormais par le gestionnaire.
+
+Article 19.
+
+Sanctions.
+
+En application de l'article R. 353-154 du code de la construction et de l'habitation, en cas de non-respect des obligations
+d'information à l'égard des occupants ainsi qu'à l'égard des organismes chargés de la liquidation de l'aide personnalisée au
+logement et après mise en demeure par lettre recommandée, demeurée sans effet pendant un délai de six mois, le gestionnaire
+s'engage à verser au fonds national de l'habitation une somme égale à ... p. 100 du montant des redevances annuelles dues au
+titre de la présente convention.
+
+Article 20.
+
+Contrôle.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le gestionnaire est tenu de
+fournir au ministre chargé de la construction et de l'habitation ou à son représentant, ou aux membres du corps de
+l'inspection générale de l'équipement, toutes les informations et tous les documents nécessaires au plein exercice de ce
+contrôle.
+
+Fait à ..., le ....
+
+Annexe de l'annexe 2 à l'article R. 353-161.
+
+Tableau descriptif des parties privatives du foyer de ... géré par ... et faisant l'objet de la présente convention.
+
+Nombre total de logements : ...
+
+Nombre de logements/surface par logement/numéro des logements :
+
+- logements de type I (1) : ....
+
+- logements de type I bis : ....
+
+- logements de type II : ....
+
+(1) Utilisés comme chambres de dépannage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
 ## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).
