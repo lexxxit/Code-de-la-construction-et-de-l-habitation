@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-02-12
+Version Consolidée au 1997-02-16
 
 # Partie législative
 
@@ -35865,18 +35865,98 @@ Ces logements doivent être financés à concurrence de 50 p. 100 au moins dans 
 
 ###### Article R*313-17
 
-Le ministre chargé de la construction et de l'habitation fixe par arrêté la nature des travaux susceptibles d'être financés
-avec la participation des employeurs en vue de l'amélioration de logements existants.
+I. - 1° La participation des employeurs peut être investie dans le financement, par des personnes morales, d'opérations à
+finalité locative :
+
+a) De construction ou d'acquisition de logements et d'équipements sociaux ou d'annexes à usage commun complémentaires, dans
+la limite, pour les équipements ou annexes complémentaires, de 3 p. 100 des sommes recueillies ;
+
+b) D'acquisition et d'aménagement de terrains destinés exclusivement à des opérations de construction de logements réalisées
+par elles-mêmes, à la condition que la construction intervienne dans les délais et conditions fixés par l'article 691-II du
+code général des impôts ;
+
+c) D'aménagement de logements locatifs pour des handicapés physiques ;
+
+d) De construction de centres d'hébergement occupés plus de huit mois par an et destinés à des salariés ou des stagiaires
+tenus, pour des raisons professionnelles ou de formation, de se loger hors de leur résidence principale, sous réserve que cet
+investissement ait bénéficié au préalable d'un agrément du ministre chargé du logement ;
+
+e) De construction ou d'acquisition de logements-foyers mentionnés au 5° de l'article L. 351-2 du présent code.
+
+2° La participation des employeurs ne peut être investie dans le financement de ces opérations que lorsque cet investissement
+intervient :
+
+a) Soit en complément des subventions ou prêts mentionnés aux articles R. 331-1, R. 331-59-2 et R. 331-67 ;
+
+b) Soit en complément des prêts mentionnés aux articles R. 331-32 et R. 331-67 du présent code, s'il s'agit d'opérations de
+construction ou d'acquisition suivie d'amélioration de logements ouvrant aux locataires une faculté d'accession à la
+propriété ;
+
+c) Soit sur autorisation du préfet, en complément de prêts dont le taux d'intérêt est inférieur aux taux maximaux prévus aux
+articles R. 331-74 et R. 331-75 et sous réserve que ces opérations respectent le prix de vente maximal ou, le cas échéant, le
+prix de revient maximal défini en application de l'article R. 331-68 ;
+
+d) Soit en contrepartie de l'engagement des propriétaires de louer des logements de catégorie intermédiaire pendant une durée
+minimale de neuf ans, en application d'une convention conclue avec l'Etat ou tout établissement financier agréé à cet effet
+par le ministre chargé de l'économie et fixant notamment les montants maximaux de loyer et de ressources des locataires dans
+la limite des plafonds prévus au III du présent article.
+
+3° Toutefois, le ministre chargé du logement peut :
+
+a) Accorder des dérogations aux dispositions prévues au 2° ci-dessus en ce qui concerne l'utilisation des fonds mentionnés à
+l'article R. 313-10, lorsqu'il s'agit d'opérations principalement caractérisées par leur objectif social et que l'équilibre
+financier de celles-ci le nécessite ;
+
+b) Autoriser à titre exceptionnel, par dérogation à l'article R. 313-12 et au 1° ci-dessus, l'emploi de la participation des
+employeurs dans le financement de programmes de logements provisoires.
+
+II. - La participation des employeurs peut également être investie dans des opérations d'amélioration de logements à usage
+locatif ou de logements-foyers.
+
+Pour les opérations mentionnées à l'alinéa précédent, le cumul avec une subvention mentionnée à l'article R. 321-4 est
+subordonné à la condition que le bailleur s'engage soit à respecter le loyer maximal et le plafond de ressources fixés dans
+la convention prévue au 4° de l'article L. 351-2, soit à respecter les plafonds de loyer et de ressources des locataires
+prévus au III du présent article. Dans ce dernier cas, ces plafonds sont expressément mentionnés dans le contrat de
+réservation prévu par l'article L. 313-26.
+
+III. - Pour l'application du présent article, les plafonds ou quotités de financement ainsi que les plafonds de loyer et de
+ressources des locataires sont fixés, selon la zone géographique, par arrêté conjoint des ministres chargés du logement et de
+l'économie.
+
+Les dispositions particulières à l'utilisation des fonds mentionnés à l'article R. 313-10 du présent code, notamment en ce
+qui concerne les logements-foyers, sont fixées par arrêté conjoint des ministres chargés du logement, des affaires sociales
+et de l'économie.
+
+Un décret peut fixer le taux d'intérêt maximal des prêts consentis en application du présent article.
+
+Un arrêté du ministre chargé du logement fixe la nature des travaux d'amélioration de logements susceptibles d'être financés
+avec la participation des employeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°75-1269 1975-12-27 art. 13
+	  - CGI 691
+	  - Code de la construction et de l'habitation L351-2, R331-1, R331-59-2, R331-67, R331-32, R331-74, R331-75, R331-68, R313-10, R313-12, R321-4, L313-26
+	  - Code de la construction et de l'habitation. - art. L313-26 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-67 (M)
+	  - Code de la construction et de l'habitation. - art. R331-68 (M)
+	  - Code de la construction et de l'habitation. - art. R331-74 (M)
+	  - Code de la construction et de l'habitation. - art. R331-75 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-240 du 16 mars 1992 - art. 6 () JORF 17 mars 1992
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cité par**:
 
@@ -36000,7 +36080,7 @@ finance également des travaux d'amélioration.
 ###### Article R313-35-1
 
 L'Agence nationale pour la participation des employeurs à l'effort de construction remplit les missions prévues aux articles
-L. 313-7 à L. 313-15. A ce titre, elle propose aux ministres chargés de la construction et de l'habitation et de l'économie :
+L. 313-7 à L. 313-16. A ce titre, elle propose aux ministres chargés de la construction et de l'habitation et de l'économie :
 
 a) Les dispositions relatives aux clauses type et aux obligations comptables de nature réglementaire des associations
 mentionnées à l'article L. 313-7 ;
@@ -36026,16 +36106,13 @@ Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes invest
 
 	**Modifié par**:
 
-	  - Décret n°93-748 1993-03-27 art. 6 I, II JORF 30 mars 1993
-	  - Décret n°93-748 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 1997-02-14 art. 3 II, III JORF 16 février 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L313-7 à L313-15, L313-7, L313-16, R313-9, L313-1
+	  - Code de la construction et de l'habitation L313-7 à L313-16, R313-9, L313-1
 	  - Code de la construction et de l'habitation. - art. L313-1 (M)
-	  - Code de la construction et de l'habitation. - art. L313-16 (M)
-	  - Code de la construction et de l'habitation. - art. L313-7 (M)
 
 	**Cité par**:
 
@@ -36047,7 +36124,7 @@ Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes invest
 
 Elle est administrée par un conseil d'administration dont la composition est la suivante :
 
-a) > Deux représentants du ministre chargé de la construction et de l'habitation ;
+a) Deux représentants du ministre chargé de la construction et de l'habitation ;
 
 - un représentant du ministre chargé des affaires sociales ;
 
@@ -36059,26 +36136,23 @@ nommés respectivement, ainsi que leur suppléant, par chacun des ministres int�
 
 b) Cinq représentants des salariés désignés respectivement par :
 
-- la confédération générale du travail (C.G.T.) ;
+- la confédération générale du travail (CGT) ;
 
-- la confédération française démocratique du travail (C.F.D.T.) ;
+- la confédération française démocratique du travail (CFDT) ;
 
-- la confédération générale du travail-force ouvrière (C.G.T.-F.O.) ;
+- la confédération générale du travail-force ouvrière (CGT-FO) ;
 
-- la confédération française des travailleurs chrétiens (C.F.T.C.) ;
+- la confédération française des travailleurs chrétiens (CFTC) ;
 
-- la confédération française de l'encadrement
-
-- confédération générale des cadres (C.F.E.-C.G.C.) ;
+- la confédération française de l'encadrement confédération générale des cadres (CFE-CGC) ;
 
 c) Cinq représentants des employeurs :
 
-- quatre désignés par le conseil national du patronat français (C.N.P.F.) ;
+- quatre désignés par le conseil national du patronat français (CNPF) ;
 
-- un désigné par la confédération générale des petites et moyennes entreprises (C.G.P.M.E.) ;
+- un désigné par la confédération générale des petites et moyennes entreprises (CGPME) ;
 
-d) Cinq représentants des associations et organismes mentionnés à l'article R. 313-9 2° (a, b et d), désignés par l'Union
-nationale interprofessionnelle du logement.
+d) Cinq représentants des associés collecteurs de l'Union d'économie sociale du logement désignés par elle.
 
 Les administrateurs mentionnés aux b, c et d ci-dessus sont, ainsi que leur suppléant désigné dans les mêmes conditions,
 nommés pour une période de trois ans renouvelable par arrêté du ministre chargé du logement. Les membres démissionnaires,
@@ -36092,11 +36166,7 @@ l'agence nationale.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°93-748 du 27 mars 1993 - art. 7 () JORF 30 mars 1993 rectificatif JORF 12 juin 1993
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -36105,9 +36175,13 @@ l'agence nationale.
 	  - Code de la construction et de l'habitation. - art. R313-35-5 (VT)
 	  - Code de la construction et de l'habitation. - art. R313-35-8 (V)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation R313-9
+	  - SPEC_APPLI: Décret n°97-143 1997-02-14 art 2 II
+
+	**Modifié par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 2 (V) JORF 16 février 1997
 
 
 ###### Article R313-35-3
@@ -36176,8 +36250,8 @@ Les autres délibérations sont exécutoires de plein droit.
 
 ###### Article R313-35-5
 
-Les règles et les normes proposées par l'agence nationale en application de l'article L. 313-7 et L. 313-7-1 et, notamment,
-les clauses statutaires type applicables aux associations mentionnées audit article, sont publiées au Bulletin officiel du
+Les règles et les normes proposées par l'agence nationale en application de l'article L. 313-7 et L. 313-16 et, notamment,
+les clauses statutaires types applicables aux associations mentionnées audit article, sont publiées au Bulletin officiel du
 ministère chargé de la construction et de l'habitation. Leur application est subordonnée à l'intervention d'un décret. Les
 ministres représentés au conseil d'administration peuvent demander à l'agence nationale de leur soumettre, sur des points
 qu'ils précisent et dans un délai qu'ils déterminent, des propositions portant sur les normes et les règles mentionnées ci-
@@ -36191,7 +36265,12 @@ dessus.
 
 	**Modifié par**:
 
-	  - Décret n°93-748 du 27 mars 1993 - art. 8 () JORF 30 mars 1993
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
 
 	**Cité par**:
 
@@ -36239,39 +36318,45 @@ Les administrateurs sont tenus au secret des délibérations.
 
 ###### Article R313-35-7
 
-Le président de l'agence nationale est élu pour trois ans [*durée, mandat*] par le conseil d'administration parmi les
-représentants des organisations d'employeurs. Sa nomination est soumise à l'approbation du ministre chargé de la construction
-et de l'habitation.
+Le président de l'agence nationale est élu pour trois ans par le conseil d'administration parmi les représentants des
+organisations d'employeurs. Sa nomination est soumise à l'approbation du ministre chargé de la construction et de
+l'habitation.
 
-" Le président représente l'agence en justice et dans les actes de la vie civile ; à ce titre, il a qualité pour signer les
+Le président représente l'agence en justice et dans les actes de la vie civile ; à ce titre, il a qualité pour signer les
 marchés et les contrats préparés par les services de l'agence. Il veille à la diffusion des informations de caractère général
 et statistiques recueillies par l'agence pour l'exécution de ses missions.
 
-" Il fixe l'ordre du jour des réunions du conseil d'administration.
+Il fixe l'ordre du jour des réunions du conseil d'administration.
 
-" Sans préjudice des missions de contrôle sur les associations mentionnées à l'article R. 313-9 (2°, a) que les ministres
+Sans préjudice des missions de contrôle sur les organismes mentionnés à l'article R. 313-9 (2°, a, b et d) que les ministres
 représentés au conseil d'administration peuvent à tout moment assigner à l'agence, le président du conseil d'administration
-soumet à l'agrément de ces ministres un programme annuel de contrôle desdites associations et présente, chaque année, le
-rapport qui rend compte aux mêmes ministres des résultats des contrôles effectués.
+soumet à l'agrément de ces ministres un programme annuel de contrôle desdits organismes et présente, chaque année, le rapport
+qui rend compte aux mêmes ministres des résultats des contrôles effectués.
 
-" Par délégation du conseil d'administration, le président est habilité, après consultation du comité permanent prévu à
+Par délégation du conseil d'administration, le président est habilité, après consultation du comité permanent prévu à
 l'article suivant, à exercer les attributions de l'agence nationale dans les cas prévus au premier et au dernier alinéa de
-l'article L. 313-13.
+l'article L. 313-13, dans le cas d'urgence prévu au deuxième alinéa de l'article L. 313-16, ainsi que dans le cas prévu à
+l'article L. 313-14.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+	  - Décret n°93-748 1993-03-27 art. 9 I, II JORF 30 mars 1993
+	  - Décret n°93-748 du 27 mars 1993 - art. 9 () JORF 30 mars 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, L313-13
+	  - Code de la construction et de l'habitation R313-9, L313-13, L313-16, L313-14
 	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-14 (M)
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
 
 	**Cité par**:
 
@@ -36543,17 +36628,16 @@ fixent.
 
 ###### Article R313-22
 
-Les organismes énumérés au 2° b et c de l'article R. 313-9 qui ne remplissent plus les conditions prévues aux articles
-R.313-28, R. 313-34, R. 313-35, ou qui ne peuvent justifier d'une utilisation des sommes recueillies conformément aux
-dispositions des sections I à V du présent chapitre ou qui n'ont pas fait diligence pour utiliser ces fonds peuvent, par
-décision du ministre chargé de la construction et de l'habitation, se voir interdire de recueillir cette participation
-[*contrôle*].
+Les organismes énumérés au 2° c de l'article R. 313-9 qui ne remplissent plus les conditions prévues aux articles R. 313-28,
+R. 313-34, R. 313-35, ou qui ne peuvent justifier d'une utilisation des sommes recueillies conformément aux dispositions des
+sections I à V du présent chapitre ou qui n'ont pas fait diligence pour utiliser ces fonds peuvent, par décision du ministre
+chargé de la construction et de l'habitation, se voir interdire de recueillir cette participation.
 
 Les versements qui seraient faits à ces organismes par des employeurs postérieurement à la date d'effet de cette décision ne
 seraient pas libératoires de l'obligation d'investir.
 
 Le ministre chargé de la construction et de l'habitation peut, en outre, en cas de défaillance grave, d'un organisme
-mentionné aux b et c du 2° de l'article R. 313-9  soit enjoindre à l'organisme intéressé de transférer à un autre organisme
+mentionné au c du 2° de l'article R. 313-9, soit enjoindre à l'organisme intéressé de transférer à un autre organisme
 collecteur désigné par lui la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre
 de la participation obligatoire, à charge pour ce dernier de l'utiliser aux fins prévues par la réglementation, soit confier
 à une personne physique ou morale qu'il désigne la mission de reconstituer les comptes au regard de la réglementation en
@@ -36562,18 +36646,19 @@ ainsi que les prélèvements réglementaires effectués au titre de l'article R.
 désignée par le ministre rend compte de sa mission dans le délai qui lui est imparti. L'acte arrêtant les comptes est
 approuvé par le ministre chargé de la construction et de l'habitation. Les conditions du transfert à un autre organisme
 collecteur de la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la
-participation obligatoire sont fixées par décision du ministre chargé de la construction et de l'habitation. Les décisions
-prises par le ministre chargé de la construction  l> et de l'habitation en application du présent article font l'objet d'une
-publicité dans les formes et conditions fixées par arrêté ministériel.
+participation obligatoire sont fixées par décision du ministre chargé de la construction et de l'habitation.
+
+Les décisions prises par le ministre chargé de la construction et de l'habitation en application du présent article font
+l'objet d'une publicité dans les formes et conditions fixées par arrêté ministériel.
 
 Les dispositions du présent article sont applicables aux organismes à la fondation ou à la gestion desquels participent les
-personnes désignées par l'article L. 313-2.
+personnes désignées par l'article L. 313-29.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -36602,14 +36687,14 @@ personnes désignées par l'article L. 313-2.
 
 	**Modifié par**:
 
-	  - Décret n°88-313 1988-03-28 art. 1, art. 3 I, II JORF 3 avril 1988
-	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
-	  - Décret n°88-313 du 28 mars 1988 - art. 3 () JORF 3 avril 1988
+	  - Décret n°93-748 du 27 mars 1993 - art. 3 () JORF 30 mars 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L313-2, R313-28, R313-34, R313-35, R313-9
-	  - Code de la construction et de l'habitation. - art. L313-2 (T)
+	  - Code de la construction et de l'habitation R313-9, R313-28, R313-34, R313-35, R313-33, L313-29
+	  - Code de la construction et de l'habitation. - art. L313-29 (M)
 
 
 ##### Sous-section 2 : Dispositions propres aux associations à caractère professionnel ou interprofessionnel.
@@ -36678,28 +36763,42 @@ séances des assemblées générales et du conseil d'administration et peut s'y 
 
 ###### Article R*313-27
 
-Celles des associations mentionnées à l'article précédent, créées postérieurement à l'entrée en vigueur du décret n° 75-1269
-du 27 décembre 1975, doivent, au moins trois mois avant de collecter la participation des employeurs, effectuer, dans les
-conditions prévues par un arrêté du ministre chargé de la construction et de l'habitation, une déclaration auprès du
-directeur départemental de l'équipement du lieu de leur siège social.
+L'agrément comme organisme collecteur des associations mentionnées à l'article précédent est subordonné au respect des
+conditions suivantes :
+
+1° Ces associations doivent grouper au moins cent employeurs assujettis à la participation ; ce minimum est réduit à trente
+si la majorité des membres de l'association est composée de syndicats professionnels ou interprofessionnels ;
+
+2° Elles ne doivent pas admettre parmi leurs administrateurs ou dirigeants une personne à laquelle sont applicables les
+dispositions de l'article L. 313-29 ou qui a appartenu à un conseil d'administration suspendu en application de l'article L.
+313-13 ;
+
+3° Leurs statuts comportent les clauses types prévues à l'article R. 313-30.
+
+L'arrêté d'agrément précise, s'il y a lieu, le domaine d'intervention particulier de l'association et les modalités
+d'utilisation des fonds recueillis qui en résultent.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-1269 1975-12-27
-
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 22
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 5 () JORF 3 avril 1988
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
 	**Cité par**:
 
 	  - Décret n°90-392 du 11 mai 1990 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-29, L313-13, R313-30
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-29 (M)
 
 
 ###### Article R*313-28
@@ -36812,6 +36911,9 @@ l'une ou plusieurs des formes suivantes :
 1° Prêts à des personnes physiques dans les conditions prévues à l'article R. 313-15. Ces prêts ne doivent pas constituer un
 accessoire du contrat de travail.
 
+1° bis Subventions à des personnes physiques pour la réalisation d'opérations mentionnées à l'article R. 313-15 et
+remplissant les conditions précisées par arrêté conjoint des ministres chargés du logement et de l'économie.
+
 2° Souscriptions de titres de sociétés immobilières dont les parts ou actions ne permettent pas l'attribution de logements en
 toute propriété ou en jouissance et qui réalisent des opérations prévues aux articles R. 313-16, R. 313-17 et R. 313-18.
 
@@ -36827,7 +36929,7 @@ jouissance et qui bénéficient de prêts prévus au 2° du I de l'article R. 31
 
 Lorsque ces sociétés bénéficient d'un prêt visé à l'article R. 331-67, elles doivent respecter les plafonds de loyer et de
 ressources des locataires prévus au III de l'article R. 313-17. Ces plafonds sont expressément mentionnés dans le contrat de
-réservation prévu par l'article L. 313-1-1.
+réservation prévu par l'article L. 313-26.
 
 2° ter Acquisition, à l'expiration de la durée prévue au premier alinéa de l'article R. 313-20, de titres des sociétés
 immobilières mentionnées aux 2° et 2° bis du présent article et réalisant des opérations prévues à l'article R. 313-17 ainsi
@@ -36850,9 +36952,8 @@ participation des employeurs à l'effort de construction.
 3° Prêts à des sociétés immobilières réalisant des opérations définies aux articles R. 313-16, R. 313-17 et R. 313-18.
 
 4° Prêts à des sociétés coopératives de construction régies par le livre II, titre Ier, chapitre III, du présent code, ou à
-des
-
-sociétés immobilières créées par des sociétés de crédit immobilier réalisant des opérations définies à l'article R. 313-16.
+des sociétés immobilières créées par des sociétés de crédit immobilier réalisant des opérations définies à l'article R.
+313-16.
 
 5° Prêts à des personnes physiques ou morales pour des opérations prévues au II de l'article R. 313-17.
 
@@ -36901,14 +37002,14 @@ concernés. Elles comprennent des clauses types approuvées par décret.
 
 	  - Décret n°46-1433 1946-06-14
 	  - Décret n°75-1269 1975-12-27
-	  - Code de la construction et de l'habitation R313-9, R313-25-1, R313-15, R313-16, R313-17, R313-18, R331-67, L313-1-1, R313-34, R313-35, R331-14
-	  - Code de la construction et de l'habitation. - art. L313-1-1 (T)
+	  - Code de la construction et de l'habitation R313-9, R313-25-1, R313-15, R313-16, R313-17, R313-18, R331-67, L313-26, R313-34, R313-35, R331-14
+	  - Code de la construction et de l'habitation. - art. L313-26 (V)
 	  - Code de la construction et de l'habitation. - art. R331-14 (M)
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -36918,8 +37019,9 @@ concernés. Elles comprennent des clauses types approuvées par décret.
 
 	**Modifié par**:
 
-	  - Décret n°93-748 1993-03-27 art. 4 I, II JORF 30 mars 1993
-	  - Décret n°93-748 du 27 mars 1993 - art. 4 () JORF 30 mars 1993
+	  - Décret n°94-1237 du 31 décembre 1994 - art. 2 () JORF 7 janvier 1995
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 
 ###### Article R*313-31-1
@@ -36970,6 +37072,78 @@ de conditions et de clauses types fixées par décret.
 
 	  - Code de la construction et de l'habitation.
 	  - Code de la construction et de l'habitation. - art. L313-1
+
+
+###### Article R*313-31-2
+
+Les clauses types mentionnées à l'article L. 313-28 figurent en annexes à la présente section. Ces annexes sont au nombre de
+six et sont respectivement relatives aux clauses que doivent insérer dans leurs statuts :
+
+1° Pour l'annexe I, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés
+anonymes  ; ces sociétés peuvent réaliser des opérations locatives prévues à l'article R. 313-17 et des opérations à finalité
+d'accession à la propriété prévues à l'article R. 313-16 financées dans les conditions dudit article.
+
+2° Pour l'annexe II, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de
+sociétés civiles et qui ne peuvent réaliser que des opérations locatives prévues à l'article R. 313-17.
+
+3° Pour l'annexe III, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de
+sociétés civiles et qui ne peuvent réaliser que des opérations à finalité d'accession à la propriété prévues à l'article R.
+313-16 et financées dans les conditions prévues audit article.
+
+4° Pour l'annexe IV, les sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 et qui bénéficient de prêts
+prévus au 2° du I de l'article R. 313-17 ; ces sociétés ne peuvent réaliser qu'une seule opération, à finalité locative,
+prévue au 1° du I de l'article R. 313-17.
+
+5° Pour l'annexe V, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations
+prévues au b de l'article R. 313-18.
+
+6° Pour l'annexe VI, les sociétés immobilières constituées à l'aide des fonds de la participation des employeurs à l'effort
+de construction et dont 50 p. 100 au moins du capital ont été souscrits ou acquis [*(1)*] au titre de la participation des
+employeurs à l'effort de construction par des employeurs ou par des organismes habilités ou agréés à collecter cette
+participation.
+
+Les clauses types mentionnées au 2° du présent article sont également applicables aux sociétés civiles immobilières existant
+à la date de publication du décret n° 93-750 du 27 mars 1993 qui réalisent à la fois des opérations à finalité locative
+prévues à l'article R. 313-17 et des opérations à finalité d'accession à la propriété prévue à l'article R. 313-16. Ces
+sociétés doivent procéder à la liquidation de leurs programmes d'accession à la propriété en cours à la date de la
+publication du décret n° 93-750 du 27 mars 1993 au plus tard au terme de la cinquième année suivant cette publication.
+
+**Nota:**
+
+NOTA : Selon un arrêt du Conseil d'Etat ( 1994-10-03 Société continentale foncière et mobilière) les mots ou acquis figurant
+au 6° inséré par l'article 1er du décret n° 93-750  du 27 mars 1993, et le deuxième alinéa du 3 de l"annexe VI du même décret
+sont annulés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Décret n°93-750 1993-03-27
+	  - Code de la construction et de l'habitation L313-28, R313-31, R313-17, R313-16, R313-18
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+
+	**Créé par**:
+
+	  - Décret n°93-750 du 27 mars 1993 - art. 1 () JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R313-31 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III aux articles R313-31, R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R313-31-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil d'Etat décision n°148349 du 3 octobre 1994 Société Continentale Foncière et immobilière
 
 
 ###### Article R*313-31-3
@@ -37196,15 +37370,15 @@ l'article R. 313-25 à l'une ou plusieurs des modalités [*utilisation fonds*] d
 conditions fixées par l'arrêté définissant ces organismes.
 
 L'agrément prévu à l'article R. 313-21 est subordonné à un minimum de sommes collectées fixé pour chaque catégorie
-d'organismes par arrêté conjoint des ministres intéressés.
+d'organismes par arrêté conjoint des ministres intéressés. En outre, en ce qui concerne les sociétés de crédit immobilier,
+l'agrément est également subordonné à la condition que la société ne comprenne pas aux postes d'administrateur ou de
+direction une personne à laquelle sont applicables les dispositions de l'article L. 313-29 ou qui a fait partie d'un conseil
+d'administration suspendu en application des dispositions de l'article L. 313-13.
 
-En outre, en ce qui concerne les sociétés de crédit immobilier, l'agrément est également subordonné à la condition que la
-société ne comprenne pas aux postes d'administrateur ou de direction une personne à laquelle sont applicables les
-dispositions de l'article L. 313-2 ou qui a fait partie d'un conseil d'administration suspendu en application des
-dispositions de l'article L. 313-13.
-
-Les frais de gestion de ces organismes ainsi que les cotisations dues à des organismes fédéraux peuvent être couverts dans
-les conditions définies à l'article R. 313-33.
+Les sommes dont les organismes énumérés au 2° (b et d) de l'article R. 313-9 sont redevables au titre des prélèvements prévus
+aux articles L. 313-10 et L. 313-12 ainsi que, dans les limites fixées par le ministre chargé du logement, leurs frais de
+gestion et leurs cotisations à des organismes fédéraux peuvent être imputés sur les fonds qu'ils ont collectés au titre de la
+participation des employeurs.
 
 **Liens relatifs à cet article**
 
@@ -37218,13 +37392,17 @@ les conditions définies à l'article R. 313-33.
 
 	**Modifié par**:
 
-	  - Décret n°92-240 du 16 mars 1992 - art. 12 () JORF 17 mars 1992
+	  - Décret n°93-748 du 27 mars 1993 - art. 5 () JORF 30 mars 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-25, R313-31, R313-21, L313-2, L313-13, R313-33
+	  - Code de la construction et de l'habitation R313-9, R313-25, R313-31, R313-21, L313-29, L313-13, L313-10, L313-12
+	  - Code de la construction et de l'habitation. - art. L313-10 (M)
+	  - Code de la construction et de l'habitation. - art. L313-12 (M)
 	  - Code de la construction et de l'habitation. - art. L313-13 (M)
-	  - Code de la construction et de l'habitation. - art. L313-2 (T)
+	  - Code de la construction et de l'habitation. - art. L313-29 (M)
 	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
 
 
@@ -37289,24 +37467,29 @@ logements existants par les organismes eux-mêmes, ou, sur autorisation spécial
 l'habitation, par des sociétés filiales de ces organismes. Ils peuvent participer au financement d'annexes sociales
 conformément à l'article R. 313-31 (7.).
 
-Les organismes comprenant aux postes d'administrateur ou de direction une personne ayant exercé l'une ou l'autre de ces
-fonctions dans un organisme habilité à collecter, dans les douze mois précédant une interdiction de collecte prévue à
-l'article R. 313-22, ne pourront pas être agréés ou conserver l'agrément prévu à l'article R. 313-21 [*incompatibilité*].
+Les organismes dans lesquels la fonction d'administrateur ou un emploi de direction a été confié à une personne à laquelle
+sont applicables les dispositions de l'article L. 313-29 ou qui a siégé au conseil d'administration d'une association
+suspendu en application de l'article L. 313-13, ne pourront pas être agréés ou conserver l'agrément prévu à l'article R.
+313-21 [*incompatibilité*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 11 JORF 25 janvier 1986
+	  - Décret n°88-313 du 28 mars 1988 - art. 12 () JORF 3 avril 1988
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 C, R313-31 7, r313-21, R313-22
-	  - Code de la construction et de l'habitation. - art. R*313-22 (M)
+	  - Code de la construction et de l'habitation R313-9, R313-31 7, R313-21, L313-13, L313-29
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-29 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
 
 	**Cité par**:
 
@@ -37537,6 +37720,51 @@ leurs dispositions ne sont pas incompatibles avec les dispositions de celui-ci.
 	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
 
 
+###### Article R*313-45-1
+
+Il est créé un Comité national de la participation des employeurs à l'effort de construction présidé par le ministre chargé
+de la construction et de l'habitation ou son représentant.
+
+Ce comité est consulté sur tous les projets de textes relatifs à la réglementation de la participation des employeurs à
+l'effort de construction, à l'exception de ceux pris en application des articles L. 313-7 à L. 313-16 et L313-33 ; il peut
+faire toute proposition relative à l'application de cette réglementation.
+
+Ce comité est composé :
+
+a) Des représentants des employeurs et des salariés désignés par leurs organisations représentatives au plan national ;
+
+b) Des représentants des organismes collecteurs désignés par l'organisme qui fédère ces organismes au plan national ;
+
+c) De représentants des ministères intéressés ;
+
+d) De personnes qualifiées.
+
+Les modalités d'application du présent article sont définies par arrêté conjoint du ministre chargé de l'économie et des
+finances, du ministre chargé des affaires sociales, du ministre chargé de l'industrie, du ministre chargé du logement et du
+ministre chargé du commerce et de l'artisanat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 16 () JORF 4 avril 1988
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-7 à L313-16, L313-33
+	  - Code de la construction et de l'habitation. - art. L313-33 (V)
+
+
 ##### Section 7 : Dispositions transitoires maintenues pour les opérations entreprises avant le 10 novembre 1966.
 
 ###### Article R*313-46
@@ -37748,6 +37976,311 @@ au nom desquels est établie éventuellement sous une cote unique la cotisation 
 	**Abrogé par**:
 
 	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
+
+
+###### Article R*313-53
+
+Les investissements prévus par les articles L. 313-1 à L. 313-6 et afférents aux salaires versés par la société nationale des
+entreprises de presse créée par la loi n° 46-994 du 11 mai 1946, en vue de gérer à titre provisoire et au profit
+d'entreprises de presse les biens transférés en attendant leur dévolution, sont à la charge des entreprises intéressées.
+
+**Nota:**
+
+NOTA : Décret 97-143 1997-02-14 art. 3 : Les renvois aux articles L. 313-1-1 à L. 313-2 sont respectivement remplacés par les
+articles L. 313-26 à L. 313-29 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-994 1946-05-11
+	  - Code de la construction et de l'habitation L313-1 à L313-6
+
+	**Anciens textes**:
+
+	  - Décret n°54-739 1954-07-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
+
+
+###### Article R*313-54
+
+Les investissements prévus par les articles L. 313-1 à L. 313-6 et afférents aux salaires versés par la société nationale des
+chemins de fer français peuvent être effectués sous forme de souscription d'actions ou d'obligations de la société
+immobilière des chemins de fer français ou de subventions ou de prêts à ladite société.
+
+**Nota:**
+
+Décret 97-143 1997-02-14 art. 3 : Les renvois aux articles L. 313-1-1 à L. 313-2 sont respectivement remplacés par les
+articles L. 313-26 à L. 313-29 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-739 1954-07-17 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+
+
+###### Article R*313-55
+
+Les investissements prévus par les articles L. 313-1 à L. 313-6 et afférents aux salaires versés par la société "Mines de
+potasse d'Alsace" peuvent être effectués sous forme de souscriptions d'actions ou d'obligations de la société auxiliaire des
+mines de potasse d'Alsace ou de subventions ou de prêts à ladite société.
+
+**Nota:**
+
+NOTA : Décret 97-143 1997-02-14 art. 3 : Les renvois aux articles L. 313-1-1 à L. 313-2 sont respectivement remplacés par les
+articles L. 313-26 à L. 313-29 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-739 1954-07-17 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-1 à L313-6
+
+
+###### Article R*313-56
+
+Les investissements prévus par les articles L. 313-1 à L. 313-6 et afférents aux salaires versés par la Régie nationale des
+usines Renault et les sociétés filiales dans lesquelles sa participation est majoritaire peuvent être effectués sous forme de
+souscription d'actions ou d'obligations de la société immobilière de la Régie nationale des usines Renault ou de subventions
+ou de prêts à ladite société.
+
+Les participations dans des sociétés de construction, sociétés immobilières et autres organismes doivent remplir les
+conditions prévues à l'article R. 313-31.
+
+La quotité de la participation de la Régie nationale des usines Renault dans ses sociétés filiales s'apprécie au premier jour
+de la période au cours de laquelle doivent être réalisés les investissements.
+
+Les prêts et obligations prévus au premier alinéa ne doivent pas comporter le paiement d'intérêts excédant 3 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-739 1954-07-17 art. 4 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+
+	**Modifié par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-1 à L313-6, R313-31
+
+
+##### Section 9 : Union d'économie sociale du logement.
+
+###### Article R313-57
+
+Lorsqu'elle est consultée par le ministre chargé du logement en application du quatrième alinéa de l'article L. 313-13 ou du
+troisième alinéa de l'article L. 313-16, l'Union d'économie sociale du logement rend son avis dans le délai d'un mois. A
+défaut d'avis rendu à l'expiration de ce délai, la sanction peut être prononcée par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-13
+	  - Code de la construction et de l'habitation. - art. L313-16
+
+
+###### Article R313-58
+
+Lorsqu'elle est consultée par un associé collecteur en application du 4° de l'article L. 313-19, l'Union d'économie sociale
+du logement doit notifier à celui-ci son avis ou sa demande de seconde délibération dans le délai de deux mois à compter de
+la réception par l'union du dossier de demande d'avis. L'union peut majorer ce délai, sans qu'il puisse excéder quatre mois
+au total, par décision qu'elle notifie à l'associé dans les deux mois de la réception du dossier.
+
+A défaut de notification de l'avis ou de la demande de seconde délibération dans le délai ci-dessus, l'avis de l'union est
+réputé rendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-19
+
+
+###### Article R313-59
+
+Les deux commissaires du Gouvernement représentant l'Etat auprès de l'Union d'économie sociale du logement sont désignés
+nominativement l'un par le ministre chargé de l'économie et des finances et l'autre par le ministre chargé du logement.
+
+Les deux commissaires du Gouvernement disposent d'un délai d'un mois pour notifier à l'Union d'économie sociale du logement
+qu'ils demandent conjointement une seconde délibération en application de l'article L. 313-23. Ce délai court à compter de la
+date du conseil d'administration ayant adopté la première délibération.
+
+Toutefois, les deux commissaires du Gouvernement peuvent, avant l'expiration du délai susmentionné, faire connaître à l'union
+qu'ils n'entendent pas demander une seconde délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-23
+
+
+###### Article R313-60
+
+Toute augmentation du capital de l'Union d'économie sociale du logement par incorporation des réserves, bénéfices ou primes
+d'émission est interdite, sauf dérogation accordée par le ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+
+###### Article R313-61
+
+Le plafond du montant annuel du prélèvement pour frais de fonctionnement prévu à l'article L. 313-25 est fixé par arrêté du
+ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-25
+
+
+###### Article R313-62
+
+Les disponibilités financières du fonds d'intervention de l'Union d'économie sociale du logement en attente de l'emploi fixé
+par les conventions prévues au 2° de l'article L. 313-19 sont déposées à un compte de chèques postaux ou auprès du Trésor, de
+la Caisse des dépôts et consignations, de la Banque de France ou d'un établissement de crédit agréé en application de la loi
+n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
+
+Ces disponibilités sont placées en bons du Trésor ou valeurs assimilées, en rentes sur l'Etat ou en valeurs garanties par
+l'Etat. Elles peuvent en outre être placées en parts d'organismes de placement collectif en valeurs mobilières dits court
+terme monétaire prévus par l'article R. 214-26 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°84-46 1984-01-24
+	  - Code monétaire et financier - art. R214-26 (M)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+
+	**Créé par**:
+
+	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
 
 
 #### Chapitre IV : Logement des fonctionnaires.
