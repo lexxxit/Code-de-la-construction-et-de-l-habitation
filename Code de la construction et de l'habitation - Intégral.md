@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-07-19
+Version Consolidée au 1990-09-06
 
 # Partie législative
 
@@ -49012,7 +49012,9 @@ g) Sur toute modification intervenant dans les compétences des organismes d'hab
 dans le département.
 
 Il exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation en matière d'aide
-personnalisée au logement dans les conditions fixées à l'article R. 362-7.
+personnalisée au logement dans les conditions fixées à l'article R. 362-7.    " La commission spécialisée des rapports
+locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41
+ter de la même loi dans les conditions définies par l'article R. 362-20. "
 
 **Liens relatifs à cet article**
 
@@ -49020,23 +49022,17 @@ personnalisée au logement dans les conditions fixées à l'article R. 362-7.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
 	**Cite**:
 
+	  - Loi n°86-1290 1986-12-23 art. 41 bis, art. 41 ter
+	  - Code de la construction et de l'habitation L351-14, R362-3 à R362-8, R362-7, R362-20
 	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R362-3 (M)
-	  - Code de la construction et de l'habitation. - art. R362-4 (M)
-	  - Code de la construction et de l'habitation. - art. R362-5 (M)
-	  - Code de la construction et de l'habitation. - art. R362-6 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 	  - Code de la construction et de l'habitation. - art. R362-7 (M)
-	  - Code de la construction et de l'habitation. - art. R362-8 (M)
+
+	**Modifié par**:
+
+	  - Décret n°90-779 du 31 août 1990 - art. 1 () JORF 6 septembre 1990
 
 	**Cité par**:
 
@@ -49628,6 +49624,57 @@ La section est régie par les articles R. 351-49 à R. 351-53.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+##### Section 2 : Composition et fonctionnement.
+
+###### Article R362-20
+
+Les représentants des organisations professionnelles de bailleurs, de locataires et de gestionnaires nommés au conseil
+départemental de l'habitat au titre des a, 2° et 3° de l'article R. 362-10, forment la commission spécialisée des rapports
+locatifs.
+
+Les deux derniers alinéas de l'article R. 362-18 s'appliquent à la commission. La conclusion des accords collectifs de
+location négociés par secteur locatif, entre une ou plusieurs organisations de bailleurs et de locataires, s'opère au sein de
+la commission spécialisée des rapports locatifs.
+
+**Nota:**
+
+NOTA : L'article 2 du décret n° 2005-260 énonce : "Dans chaque département, la commission spécialisée des rapports locatifs,
+dans sa composition existant au jour de l'entrée en vigueur du présent décret, demeure en fonction. Les dispositions de
+l'article R. 362-20, dans sa rédaction antérieure à l'entrée en vigueur du présent décret, lui demeurent applicables".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°90-779 du 31 août 1990 - art. 2 () JORF 6 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-14, R351-30, R351-48, R351-49, R351-50, R351-51, R351-52, R351-53 R362-10, R362-10, R362-18
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-30 (M)
+	  - Code de la construction et de l'habitation. - art. R351-48 (M)
+	  - Code de la construction et de l'habitation. - art. R351-49 (M)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-51 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
