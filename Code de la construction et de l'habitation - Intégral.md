@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-15
 
 # Partie législative
 
@@ -28269,21 +28269,19 @@ d'agrandissement est déterminé en fonction des caractéristiques techniques de
 les limites fixées par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de
 l'économie. Lorsque le logement financé est destiné à la résidence principale  d'un des ascendants ou descendants de
 l'emprunteur ou d'un des ascendants ou descendants de son conjoint les ressources, la composition du ménage et la zone
-géographique d'habitation à prendre en considération sont celles du demandeur du prêt.
-
-Toutefois, les conditions de ressources ne sont pas applicables aux bénéficiaires des prêts mentionnés à l'article R. 313-32.
-
-Le financement des logements à usage locatif construits ou acquis et améliorés au moyen des sommes recueillies au titre de
-l'article R. 313-9 doit intervenir en complément des prêts mentionnés aux articles R. 331-1, R. 331-59-2 et R. 331-67 et ne
-doit pas dépasser un pourcentage du coût de l'opération fixé par arrêté conjoint du ministre chargé de la construction et de
-l'habitation et du ministre chargé de l'économie.
-
-Pour les opérations mentionnées à l'article R. 313-31 (13°), le ministre chargé de la construction et de l'habitation peut
-autoriser des dérogations aux dispositions précédentes.
-
-Les logements construits ou acquis et améliorés en vue de locations ouvrant au locataire une faculté d'accession à la
-propriété ne peuvent être financés qu'en complément des prêts visés aux articles R. 331-32 ou R. 331-67, dans les limites
-fixées par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de l'économie.
+géographique d'habitation à prendre en considération sont celles du demandeur du prêt.        Toutefois, les conditions de
+ressources ne sont pas applicables aux bénéficiaires des prêts mentionnés à l'article R. 313-32.        Le financement des
+logements à usage locatif construits ou acquis et améliorés au moyen des sommes recueillies au titre de l'article R. 313-9
+doit intervenir en complément des prêts mentionnés aux articles R. 331-1, R. 331-59-2 et R. 331-67 et ne doit pas dépasser un
+pourcentage du coût de l'opération fixé par arrêté conjoint du ministre chargé de la construction et de l'habitation et du
+ministre chargé de l'économie.        Pour les opérations mentionnées à l'article R. 313-31 (13°), le ministre chargé de la
+construction et de l'habitation peut autoriser des dérogations aux dispositions précédentes.        Les logements construits
+ou acquis et améliorés en vue de locations ouvrant au locataire une faculté d'accession à la propriété ne peuvent être
+financés qu'en complément des prêts visés aux articles R. 331-32 ou R. 331-67, dans les limites fixées par arrêté conjoint du
+ministre chargé de la construction et de l'habitation et du ministre chargé de l'économie.    " Les logements locatifs de
+catégorie intermédiaire bénéficiant des prêts spécifiques mentionnés à l'article R. 313-31 (14°) peuvent être financés, en
+complément desdits prêts, au moyen des sommes recueillies au titre de l'article R. 313-9 dans les limites fixées par arrêté
+du ministre chargé de la construction et de l'habitation et du ministre chargé de l'économie. "
 
 **Liens relatifs à cet article**
 
@@ -28293,13 +28291,12 @@ fixées par arrêté conjoint du ministre chargé de la construction et de l'hab
 
 	**Modifié par**:
 
-	  - Décret n°84-949 1984-10-25 ART. 5 JORF 26 OCTOBRE 1984
+	  - Décret n°88-40 1988-01-13 art. 1 JORF 15 janvier 1988
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-32
+	  - Code de la construction et de l'habitation R313-32, R313-9, R331-1, R331-59-2, R331-67, R313-31 13°, 14°
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
@@ -28364,6 +28361,11 @@ Le financement de l'amélioration de logements existants au titre de la particip
 tard trois mois après l'achèvement des travaux. En cas d'acquisition en vue d'amélioration de logements, ce délai est porté à
 vingt-quatre mois à compter de la date d'acquisition.
 
+" Toutefois, au cas où les prêts consentis en application de l'article R. 313-31 (1°) pour la construction, l'acquisition,
+l'aménagement ou la remise en état de logements se substituent en tout ou partie à des prêts à annuités progressives accordés
+avant le 31 décembre 1984 [*date*] en application des articles R. 331-32 ou R. 331-63, ou à des prêts complémentaires auxdits
+prêts, les délais prévus au présent article ne sont pas applicables. "
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -28372,7 +28374,13 @@ vingt-quatre mois à compter de la date d'acquisition.
 
 	**Modifié par**:
 
-	  - Décret n°84-949 1984-10-25 ART. 6 JORF 26 OCTOBRE 1984
+	  - Décret n°88-40 1988-01-13 art. 3 JORF 15 janvier 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-31 1°, R331-32, R331-63
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 	**Cité par**:
 
@@ -28967,12 +28975,23 @@ l'habitation.
 Les conditions de ces prêts, les modalités d'occupation des logements ainsi que celles du contrôle exercé par l'organisme
 collecteur sont déterminées par une convention conclue entre les personnes morales et les organismes collecteurs.
 
+" 14° Prêts à des personnes morales pour la construction de logements locatifs de catégorie intermédiaire venant en
+complément de prêts spécifiques consentis par la Caisse des dépôts et consignations ou le Crédit foncier de France.
+
+" Les contrats de prêts conclus entre lesdites personnes morales et ces derniers organismes doivent être conformes à un
+contrat de prêt type approuvé par le ministre chargé de la construction et de l'habitation et le ministre chargé de
+l'économie.
+
+" Les conditions des prêts accordés au titre de la participation des employeurs à l'effort de construction ainsi que celles
+du contrôle exercé par l'organisme collecteur sont déterminées par une convention conclue entre les personnes morales et les
+organismes collecteurs. "
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°46-1433 1946-06-14
-	  - Code de la construction et de l'habitation R313-9 2 A
+	  - Code de la construction et de l'habitation R331-1, R313-9 2 A, 2 B et 2 C, R313-38 al. 2, R313-39 al. 2, R313-36 al. 2
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 	**Codifié par**:
@@ -28981,7 +29000,7 @@ collecteur sont déterminées par une convention conclue entre les personnes mor
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 8 bis JORF 25 janvier 1986
+	  - Décret n°88-40 1988-01-13 art. 2 JORF 15 janvier 1988
 
 	**Cité par**:
 
