@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-07-30
+Version Consolidée au 1992-09-12
 
 # Partie législative
 
@@ -65454,17 +65454,35 @@ d'effet de leur abrogation restent régies par les dispositions alors en vigueur
 
 ###### Article R523-4
 
-Le remboursement de la subvention est garanti par la constitution d'une hypothèque conventionnelle inscrite par le préfet au
-profit de l'Etat aux frais du bénéficiaire de la subvention.
-
 L'obligation de remboursement dans le cas de mutation visé à l'article R. 523-3 est éteinte au bout de quinze ans à compter
 de la date de notifcation de la décision d'octroi de la subvention.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-974 du 11 septembre 1992 - art. 1 () JORF 11 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cite**:
 
