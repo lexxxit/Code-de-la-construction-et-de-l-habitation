@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-07-22
+Version Consolidée au 2001-10-06
 
 # Partie législative
 
@@ -51103,6 +51103,85 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
 
+###### Article R331-63
+
+Des prêts conventionnés peuvent être accordés dans les conditions fixées par la présente section, pour financer :
+
+1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
+logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
+destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation si les terrains destinés à
+la construction ont été acquis depuis moins de trois ans à la date d'émission de l'offre de prêt, leur valeur peut être prise
+en compte dans le coût de l'opération ou refinancée par un prêt conventionné ;
+
+2° (abrogé)
+
+3° L'acquisition de logements existants et, le cas échéant, les travaux d'amélioration nécessaires ;
+
+4° Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
+d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
+de construire.
+
+Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux visés au 4° du
+présent article ;
+
+5° Le remboursement anticipé total d'un prêt conventionné à annuités progressives consenti dans le cadre des 1° et 3° du
+présent article.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 2 (V)
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 8 (V)
+	  - Arrêté du 3 juillet 1978 - art. 6 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Arrêté du 4 octobre 2001 - art. 11 (V)
+	  - Arrêté du 4 octobre 2001 - art. 12 (V)
+	  - Arrêté du 4 octobre 2001 - art. 3 (V)
+	  - Arrêté du 4 octobre 2001 - art. 7 (V)
+	  - Arrêté du 7 mars 1978 - art. 3 (M)
+	  - Arrêté du 7 mars 1978 - art. 4 (Ab)
+	  - Arrêté du 7 mars 1978 - art. 5 (Ab)
+	  - Arrêté du 7 mars 1978 - art. 7 (Ab)
+	  - Arrêté du 7 mars 1978 - art. 8 (Ab)
+	  - Arrêté du 8 mars 1985 - art. 1 (Ab)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-18 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+	  - Code de la construction et de l'habitation. - art. R331-64 (V)
+	  - Code de la construction et de l'habitation. - art. R331-66 (V)
+	  - Code de la construction et de l'habitation. - art. R331-67 (V)
+	  - Code de la construction et de l'habitation. - art. R331-68 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-69 (M)
+	  - Code de la construction et de l'habitation. - art. R331-71 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-77-1 (V)
+	  - Code de la sécurité sociale. - art. D542-24 (V)
+	  - Code de la sécurité sociale. - art. R831-22 (V)
+	  - Code général des impôts, CGI. - art. 1383 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 1 () JORF 6 octobre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 8 mars 1985
+
+
 ###### Article R331-64
 
 Les occupants des logements faisant l'objet des prêts conventionnés ont droit à l'aide personnalisée au logement dans les
@@ -51178,6 +51257,86 @@ conventionnés, y compris sur les prêts accordés antérieurement.
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
 
 
+###### Article R331-66
+
+Peuvent bénéficier de ces prêts :
+
+1° Les personnes physiques qui construisent ou acquièrent des logements neufs ou celles qui acquièrent des logements
+existants et, le cas échéant, les améliorent.
+
+Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
+le livre II, titre Ier, chapitres II ou III du présent code (première partie).
+
+2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
+travaux destinés à réduire les dépenses d'énergie.
+
+3° En ce qui concerne les opérations mentionnées au 5° de l'article R. 331-63, les personnes qui bénéficient de l'aide
+personnalisée au logement au titre du prêt faisant l'objet du remboursement anticipé.
+
+Toutefois, les personnes physiques dont les revenus sont inférieurs aux plafonds de ressources mentionnés à l'article R.
+312-3-1 ne peuvent bénéficier de ces prêts que si la garantie de l'Etat mentionnée au troisième alinéa de l'article L. 312-1
+est accordée à ces derniers.
+
+Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
+au moins huit mois par an, sauf obligation professionnelle, raison de santé ou cas de force majeure, soit par elles-mêmes,
+soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de leur conjoint.
+
+Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux, soit
+l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque le
+logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un département
+ou territoire d'outre-mer ou de l'étranger.
+
+Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus destiner le logement à leur résidence principale,
+ils peuvent le donner en location pour une période maximale de six ans. Ils informent l'établissement de crédit de ce
+changement de destination et, le cas échéant, l'organisme payeur de l'aide personnalisée au logement.
+
+Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné peuvent passer un contrat conforme à
+l'article L. 443-1 du code de l'action sociale et des familles.
+
+Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
+l'article R. 331-63 dans des immeubles où les logements appartenant à des personnes physiques et à usage de résidence
+principale représentent la moitié au moins du nombre total des voix.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 3 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-12 (V)
+	  - Code de la construction et de l'habitation. - art. R313-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-70 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17 (V)
+	  - Code rural et de la pêche maritime - art. R716-33 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 2 () JORF 6 octobre 2001
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation R331-63, R312-3-1, L312-1, 13
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+
 ###### Article R331-67
 
 Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales qui destinent
@@ -51216,7 +51375,211 @@ Ces prêts ne peuvent pas bénéficier de la garantie de l'Etat mentionnée au t
 	  - Décret n°1993-03-18 art. 5 JORF 19 mars 1993
 
 
+###### Article R331-69
+
+Les opérations d'agrandissement de logements existants ou d'acquisition de logements existants suivies, le cas échéant, de
+travaux d'amélioration, doivent respecter des normes minimales de surface habitable. Les travaux d'agrandissement ou
+d'amélioration doivent avoir au minimum pour effet de mettre en conformité les logements avec des normes d'habitabilité.
+Lorsque l'acquisition porte sur des immeubles achevés depuis plus de vingt ans, un état des lieux relatif aux conditions de
+surface et d'habitabilité est annexé au contrat de prêt. Un arrêté des ministres chargés du logement et de l'économie définit
+les conditions d'application de cet article.
+
+**Nota:**
+
+NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
+compter du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°86-172 du 5 février 1986 - art. 3 (V)
+	  - Arrêté du 4 octobre 2001 - art. 6 (V)
+	  - Arrêté du 4 octobre 2001 - art. 7 (V)
+	  - Code de la construction et de l'habitation. - art. R318-3 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 4 () JORF 6 octobre 2001
+
+
+###### Article R331-70
+
+Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager à ce que, pendant toute la durée d'amortissement
+du prêt, le logement financé au moyen de ce prêt ne soit :
+
+a) Ni transformé en local commercial et professionnel ;
+
+b) Ni affecté à la location saisonnière ou en meublé plus de quatre mois par an à l'exception du cas mentionné au cinquième
+alinéa de l'article R. 331-66.
+
+c) Ni utilisé comme résidence secondaire ;
+
+d) Ni occupé à titre d'accessoire à un contrat de travail.
+
+Toute violation de cet engagement entraîne le remboursement du prêt.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 5 () JORF 6 octobre 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-66 (M)
+
+
 ##### Sous-section 2 : Caractéristiques.
+
+###### Article R331-71
+
+Les prêts conventionnés peuvent financer l'intégralité du coût de l'opération tel que défini par arrêté conjoint des
+ministres chargés de l'économie et du logement.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 5 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Arrêté du 4 octobre 2001 - art. 3 (V)
+	  - Arrêté du 7 mars 1978 - art. 6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-76-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 6 () JORF 6 octobre 2001
+
+
+###### Article R331-72
+
+Les prêts conventionnés sont exclusifs de tout autre prêt à l'exception des prêts suivants :
+
+1. L'avance aidée par l'Etat mentionnée à l'article R. 317-1 ;
+
+2. Les prêts d'épargne logement prévus aux articles L. 315-1 et L. 315-2 ;
+
+3. Les prêts consentis au titre de la participation des employeurs à l'effort de construction définie à l'article L. 313-1 ;
+
+4. Les prêts complémentaires prévus à l'article R. 314-1 et suivants ;
+
+5. Les prêts à taux fixe dont le taux est inférieur ou égal à celui d'un prêt obtenu au titre d'un compte épargne logement à
+partir d'intérêts acquis au taux de rémunération des dépôts en vigueur à la date de l'émission de l'offre de ces prêts ;
+
+6. Les prêts à court terme consentis dans l'attente de la vente du précédent logement ;
+
+7. Les compléments de prêts accordés aux Français rapatriés d'outre-mer titulaires de titres d'indemnisation prévus par la
+loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des Français rapatriés d'outre-mer dépossédés de leurs biens.
+
+**Nota:**
+
+NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
+compter du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-1 1978-01-02
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L315-1 (M)
+	  - Code de la construction et de l'habitation. - art. L315-2 (M)
+	  - Code de la construction et de l'habitation. - art. R314-1 (V)
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 7 () JORF 6 octobre 2001
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R313-7 (V)
+
+
+###### Article R331-73
+
+Les établissements de crédit doivent proposer au moins un barème de prêt à taux fixe et à montants d'échéance constants ainsi
+qu'un barème de prêt à taux révisable.
+
+Les établissements de crédit peuvent également proposer des prêts mixtes comportant des parties à taux fixe ou à taux
+révisable, de durées éventuellement différentes ainsi que, dans les conditions prévues par le contrat de prêt, des prêts
+modulables.
+
+Dans le cas de prêts conventionnés supplémentaires, leur date d'échéance finale peut être différente de celle du prêt
+initial, sous réserve des dispositions prévues à l'article R. 331-76.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 8 () JORF 6 octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 4 octobre 2001 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R331-75 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-76 (M)
+
 
 ###### Article R331-74
 
@@ -51263,6 +51626,71 @@ Le taux de référence est publié par la Société de gestion du fonds de garan
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+
+
+###### Article R331-75
+
+Lorsque les prêts sont consentis à taux révisable, ils sont soumis aux trois conditions suivantes :
+
+1° Le taux moyen du prêt avant la mise en jeu des clauses de révision ne peut excéder le taux maximum mentionné à l'article
+R. 331-74 ;
+
+2° La révision du taux ou la modification de l'échéance de remboursement ne peut intervenir qu'une fois par an et au plus tôt
+à la première date anniversaire de la date d'acceptation de l'offre ; à chaque révision ou modification, l'établissement de
+crédit fournit gratuitement à l'emprunteur un nouveau tableau d'amortissement qui s'impose jusqu'à la révision suivante ;
+
+3° L'établissement de crédit limite l'impact des variations du taux d'intérêt pour l'emprunteur :
+
+a) Soit par un plafond de la variation du taux par rapport au taux initial, variation qui ne peut dépasser une valeur définie
+par l'arrêté mentionné ci-dessous ;
+
+b) Soit par la définition d'un dispositif de plafonnement du montant de l'échéance de remboursement à la hausse avec
+ajustement résiduel sur la durée du prêt ;
+
+c) Soit par la définition d'une limitation de la durée du prêt avec ajustement résiduel sur le montant de l'échéance de
+remboursement.
+
+Les deux dispositifs prévus en b et c peuvent être combinés à l'intérieur d'un même contrat de prêt.
+
+Le capital restant dû ne doit en aucun cas dépasser le capital initial.
+
+Les modalités d'application de cet article sont définies par arrêté conjoint des ministres chargés de l'économie et du
+logement.
+
+La convention type prévue à l'article R. 331-65 précise les modalités d'application du présent article.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 7 (VD)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Arrêté du 4 octobre 2001 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-16 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 9 () JORF 6 octobre 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-65 (M)
+	  - Code de la construction et de l'habitation. - art. R331-74 (M)
 
 
 ##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.
@@ -51344,19 +51772,17 @@ contrat conforme aux dispositions de l'article R. 331-76-1.
 
 ###### Article R331-76-4
 
-Le prêt accordé est au plus égal à 90 p. 100 du prix de vente du logement à la date de la signature du contrat de location-
-accession [*montant maximum*]. Ce prix ne peut excéder le prix de vente, toutes taxes comprises, défini par mètre carré de
-surface habitable et fixé par l'arrêté prévu à l'article R. 331-68 du code de la construction et de l'habitation en vigueur à
-la date mentionnée ci-dessus.
-
-Si le montant initial du prêt n'atteint pas la quotité maximum prévue ci-dessus, le bénéficiaire du prêt ou l'accédant, au
-moment du transfert de propriété, peut bénéficier, en tant que de besoin, d'un complément de prêt dans la limite de la
-fraction de quotité non utilisée.
+Le prêt conventionné peut financer l'intégralité du coût de l'opération défini par l'arrêté mentionné à l'article R. 331-71.
 
 Lors du transfert de propriété au bénéfice du titulaire du contrat de location-accession ou, à défaut, à un autre acquéreur,
 le prêt peut être transféré pour le montant du capital restant dû. Toutefois, lorsque le transfert a lieu au bénéfice du
 titulaire du contrat, le montant du prêt ne peut excéder la différence entre le prix du logement et le montant de la fraction
 de la redevance imputable sur le prix.
+
+**Nota:**
+
+NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
+compter du 1er novembre 2001.
 
 **Liens relatifs à cet article**
 
@@ -51366,15 +51792,15 @@ de la redevance imputable sur le prix.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 11 () JORF 6 octobre 2001
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-68 (M)
+	  - Code de la construction et de l'habitation. - art. R331-71 (M)
 
 	**Cité par**:
 
@@ -51413,400 +51839,19 @@ chapitre III, du présent livre (1re partie).
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
 
-###### Article R331-63
-
-Des prêts conventionnés peuvent être accordés [*définition*] dans les conditions fixées par la présente section, pour
-financer [*opérations*] :
-
-1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
-logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
-destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation;
-
-2° [*abrogé*].
-
-3° L'acquisition de logements existants et, le cas échéant, les travaux d'amélioration nécessaires.
-
-4° Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
-d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
-de construire.
-
-Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux visés au 4° du
-présent article.
-
-5° Le remboursement anticipé total d'un prêt conventionné à annuités progressives consenti avant le 31 décembre 1984 [*date
-limite*] dans le cadre des 1° et 3° du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 2 (V)
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 8 (V)
-	  - Arrêté du 3 juillet 1978 - art. 6 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Arrêté du 4 octobre 2001 - art. 11 (V)
-	  - Arrêté du 4 octobre 2001 - art. 12 (V)
-	  - Arrêté du 4 octobre 2001 - art. 3 (V)
-	  - Arrêté du 4 octobre 2001 - art. 7 (V)
-	  - Arrêté du 7 mars 1978 - art. 3 (M)
-	  - Arrêté du 7 mars 1978 - art. 4 (Ab)
-	  - Arrêté du 7 mars 1978 - art. 5 (Ab)
-	  - Arrêté du 7 mars 1978 - art. 7 (Ab)
-	  - Arrêté du 7 mars 1978 - art. 8 (Ab)
-	  - Arrêté du 8 mars 1985 - art. 1 (Ab)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-18 (M)
-	  - Code de la construction et de l'habitation. - art. R312-3-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-20 (M)
-	  - Code de la construction et de l'habitation. - art. R331-64 (V)
-	  - Code de la construction et de l'habitation. - art. R331-66 (V)
-	  - Code de la construction et de l'habitation. - art. R331-67 (V)
-	  - Code de la construction et de l'habitation. - art. R331-68 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-69 (M)
-	  - Code de la construction et de l'habitation. - art. R331-71 (M)
-	  - Code de la construction et de l'habitation. - art. R331-76 (M)
-	  - Code de la construction et de l'habitation. - art. R331-76-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-77-1 (V)
-	  - Code de la sécurité sociale. - art. D542-24 (V)
-	  - Code de la sécurité sociale. - art. R831-22 (V)
-	  - Code général des impôts, CGI. - art. 1383 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 8 mars 1985
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 2 JORF 19 mars 1993 en vigueur le 1er juillet 1993
-
-
-##### Sous-section 1 : Conditions d'octroi.
-
-###### Article R331-66
-
-Peuvent bénéficier de ces prêts :
-
-1° Les personnes physiques qui construisent ou acquièrent des logements neufs ou celles qui acquièrent des logements
-existants et, le cas échéant, les améliorent.
-
-Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
-le livre II, titre Ier, chapitres II ou III du présent code (première partie).
-
-2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
-travaux destinés à réduire les dépenses d'énergie.
-
-3° En ce qui concerne les opérations mentionnées au 5° de l'article R. 331-63, les personnes qui bénéficient de l'aide
-personnalisée au logement au titre du prêt faisant l'objet du remboursement anticipé.
-
-Toutefois, les personnes physiques dont les revenus sont inférieurs aux plafonds de ressources mentionnés à l'article R.
-312-3-1 ne peuvent bénéficier de ces prêts que si la garantie de l'Etat mentionnée au troisième alinéa de l'article L. 312-1
-est accordée à ces derniers.
-
-Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
-au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de
-leur conjoint.
-
-Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux, soit
-l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque le
-logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un département
-ou territoire d'outre-mer ou de l'étranger.
-
-Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus, pour des raisons professionnelles ou familiales,
-destiner le logement à leur résidence principale, ils peuvent être autorisés à le louer dans des conditions fixées par arrêté
-conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
-
-Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné peuvent passer un contrat conforme à
-l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
-onéreux, de personnes âgées ou handicapées adultes.
-
-Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
-l'article R. 331-63 dans des immeubles où les logements appartenant à des personnes physiques et à usage de résidence
-principale représentent la moitié au moins du nombre total des voix.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 3 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-12 (V)
-	  - Code de la construction et de l'habitation. - art. R313-14 (V)
-	  - Code de la construction et de l'habitation. - art. R331-70 (V)
-	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17 (V)
-	  - Code rural et de la pêche maritime - art. R716-33 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°89-475 1989-07-10 art. 6
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
-	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 4 JORF 19 mars 1993 en vigueur le 19 juin 1993
-
-
-###### Article R331-68
-
-Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1. et 3.) doivent respecter
-un prix de vente maximum ou, si elles sont réalisées soit en secteur diffus, soit par application de l'article R. 331-67, un
-prix de revient maximum.
-
-Les conditions d'application du présent article sont fixées par arrêté conjoint des ministres chargés des finances et de la
-construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°86-172 du 5 février 1986 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1585 D (M)
-	  - Code de la construction et de l'habitation. - art. R*313-17 (M)
-	  - Code de la construction et de l'habitation. - art. R331-20 (M)
-	  - Code de la construction et de l'habitation. - art. R331-76-4 (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 sexies (VT)
-
-	**Modifié par**:
-
-	  - Décret n°91-1111 du 25 octobre 1991 - art. 4 () JORF 26 octobre 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2001-911 du 4 octobre 2001 - art. 3 (V) JORF 6 octobre 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-	  - Code de la construction et de l'habitation. - art. R331-67 (M)
-
-
-###### Article R331-69
-
-Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1° et 3°) doivent respecter
-des normes minimales de surface, les opérations d'agrandissement de logements existants, par extension ou surélévation,
-doivent conduire à une création de surface habitable minimale fixée par arrêté du ministre chargé de la construction et de
-l'habitation.
-
-Dans le cas des opérations prévues au 3° de l'article R. 331-63, les travaux d'amélioration doivent avoir pour effet de
-mettre en conformité à des normes minimales d'habitabilité des logements qui ne le sont pas.
-
-Les opérations visées à l'article R. 331-63 (3°) portant sur des immeubles chevés depuis plus de vingt ans font l'objet d'un
-état des lieux relatif aux conditions d'habitabilité et de surface, annexé au contrat de prêt. Les frais relatifs à cet état
-des lieux peuvent s'imputer sur le montant total de l'opération et être financés par le prêt.
-
-Les modalités de cet état des lieux ainsi que les normes de surface et d'habitabilité sont fixées par un arrêté du ministre
-chargé du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°86-172 du 5 février 1986 - art. 3 (V)
-	  - Arrêté du 4 octobre 2001 - art. 6 (V)
-	  - Arrêté du 4 octobre 2001 - art. 7 (V)
-	  - Code de la construction et de l'habitation. - art. R318-3 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 6 JORF 19 mars 1993 en vigueur le 1er juillet 1993
-
-
-###### Article R331-70
-
-Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager [*obligation*] à ce que, pendant toute la durée
-d'amortissement du prêt, le logement financé au moyen de ce prêt ne soit :
-
-a) Ni transformé en local commercial et professionnel ;
-
-b) Ni affecté à la location saisonnière ou en meublé plus de quatre mois par an à l'exception du cas mentionné au cinquième
-alinéa de l'article R. 331-66.
-
-c) Ni utilisé comme résidence secondaire ;
-
-d) Ni occupé à titre d'accessoire à un contrat de travail.
-
-Un arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances fixe les exceptions
-aux règles b et d en milieu rural.
-
-Toute violation de cet engagement entraîne le remboursement du prêt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°90-635 du 18 juillet 1990 - art. 5 () JORF 19 juillet 1990
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-66 (M)
-
-
 ##### Sous-section 2 : Caractéristiques.
-
-###### Article R331-71
-
-Les prêts conventionnés peuvent atteindre au maximum 90 p. 100 du prix de vente ou, le cas échéant, du prix de revient de
-l'opération.
-
-Dans le cadre des opérations visées à l'article R. 331-63 5°, les prêts conventionnés peuvent atteindre l'intégralité des
-sommes dues au titre du remboursement anticipé.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 5 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Arrêté du 4 octobre 2001 - art. 3 (V)
-	  - Arrêté du 7 mars 1978 - art. 6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-76-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 7 JORF 19 mars 1993 en vigueur le 1er juillet 1993
-
-
-###### Article R331-72
-
-Les prêts conventionnés sont exclusifs de tout autre prêt, à l'exception des prêts d'épargne-logement, des prêts consentis au
-titre de la participation des employeurs à l'effort de construction, des prêts consentis par les organismes à caractère
-exclusivement social, et de l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°95-1064 du 29 septembre 1995 - art. 2 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R313-7 (V)
-
-
-###### Article R331-73
-
-Les établissements de crédit habilités à consentir des prêts conventionnés doivent proposer dans tous les cas au moins un
-barème de prêt à taux fixe et un barème de prêt à taux révisable. Ils peuvent également offrir des prêts à annuités
-constantes et des prêts à annuités progressives selon les modalités définies par la convention type visée à l'article R.
-331-65.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 4 octobre 2001 - art. 9 (V)
-	  - Code de la construction et de l'habitation. - art. R331-75 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-65 (M)
-
-
-###### Article R331-75
-
-Lorsque les prêts sont consentis à taux révisables, ils sont soumis aux conditions suivantes :
-
-1. Le taux moyen du prêt avant la mise en jeu des clauses de révision ne peut excéder le taux maximum mentionné à l'article
-R. 331-74 ;
-
-2. La variation de l'annuité résultant de la mise en jeu éventuelle des clauses de révision ne peut intervenir qu'à compter
-du deuxième anniversaire du contrat de prêt et ensuite au plus une fois par an [*périodicité*].
-
-La convention type prévue à l'article R. 331-65 précise les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 7 (VD)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Arrêté du 4 octobre 2001 - art. 9 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
-	  - Code de la construction et de l'habitation. - art. R331-76-5-2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-16 bis (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-65 (M)
-	  - Code de la construction et de l'habitation. - art. R331-74 (M)
-
 
 ###### Article R331-76
 
-Les prêts sont amortissables [*durée amortissement*] :
+La durée initiale d'amortissement des prêts est fixée à cinq ans au minimum et vingt-cinq ans au maximum. Les contrats de
+prêt peuvent prévoir que la durée peut être rallongée au cours de la période de remboursement jusqu'à un maximum de trente
+ans, ou réduite sans durée minimale. A la fin de la dernière année de prolongation, l'emprunteur est dégagé du règlement de
+toutes charges financières, à l'exception de dettes résultant d'un arriéré éventuel.
 
-En dix ans au minimum et vingt-cinq ans au maximum pour les opérations prévues à l'article R. 331-63 1°, 3° et 5°;
+**Nota:**
 
-En cinq ans au minimum et quinze ans au maximum pour les opérations prévues au 4° de l'article R. 331-63.
+NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
+compter du 1er novembre 2001.
 
 **Liens relatifs à cet article**
 
@@ -51814,17 +51859,17 @@ En cinq ans au minimum et quinze ans au maximum pour les opérations prévues au
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 10 () JORF 6 octobre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-73 (V)
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 9 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
 ##### Sous-section 3 : Départements d'outre-mer.
