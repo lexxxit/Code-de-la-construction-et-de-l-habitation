@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-05-11
+Version Consolidée au 1995-10-01
 
 # Partie législative
 
@@ -33076,10 +33076,10 @@ des frais de constitution d'hypothèque et autres relatifs à la réalisation du
 ###### Article R312-3-1
 
 La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 peut être accordée aux prêts conventionnés mentionnés
-aux articles R. 331-63 à R. 331-77 consentis par des établissements de crédit ayant conclu une convention avec la société de
-gestion du fonds de garantie de l'accession sociale à la propriété, à des personnes physiques dont les revenus sont
-inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du
-budget et du ministre chargé du logement.
+aux articles R. 331-63 à R. 331-77 ainsi qu'à l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code
+consentis par des établissements de crédit ayant conclu une convention avec la société de gestion du fonds de garantie de
+l'accession sociale à la propriété, à des personnes physiques dont les revenus sont inférieurs à des plafonds de ressources
+fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé du logement.
 
 Cette garantie peut également être accordée aux prêts bancaires conventionnés accordés dans les départements d'outre-mer par
 les établissements de crédit ayant passé une convention d'habilitation avec l'Institut d'émission des départements d'outre-
@@ -33138,10 +33138,11 @@ territoires d'outre-mer.
 
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993 - art. 1 (V)
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
 
 	**Modifié par**:
 
-	  - Décret n°95-476 du 27 avril 1995 - art. 1 () JORF 29 avril 1995
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
 
 	**Cite**:
 
@@ -38424,6 +38425,578 @@ ministre chargé de la construction et de l'habitation.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+#### Chapitre VII : Avances aidées par l'Etat pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété.
+
+###### Article R317-1
+
+Il est créé une aide pour l'accession à la propriété destinée aux personnes physiques qui acquièrent un logement en vue de
+l'occuper à titre de résidence principale. Cette aide est mise en place par les établissements de crédit conventionnés à cet
+effet sous forme d'avance remboursable ne portant pas intérêt. L'Etat verse une subvention aux établissements de crédit
+destinée à compenser l'absence d'intérêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°80-473 du 28 juin 1980 - art. 3 (Ab)
+	  - Arrêté du 2 octobre 1995 - art. 13 (M)
+	  - Arrêté du 25 janvier 1996 - art. 1 (V)
+	  - Arrêté du 30 septembre 1996 - art. 1 (V)
+	  - Décret n°99-125 du 22 février 1999 - art. 2 (V)
+	  - Décret n°99-513 du 16 juin 1999 - art. 6 (V)
+	  - Décret n°2001-972 du 25 octobre 2001 - art. 1 (V)
+	  - Décret n°2001-972 du 25 octobre 2001 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 344 G bis (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 A bis (MMN)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 sexies (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 sexies C (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 sexies D (P)
+	  - Code de la consommation - art. R312-3 (MMN)
+	  - Code de la consommation - art. R313-27 (V)
+	  - Code de la construction et de l'habitation. - art. L316-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
+	  - Code de la construction et de l'habitation. - art. R302-27 (Ab)
+	  - Code de la construction et de l'habitation. - art. R317-13 (V)
+	  - Code de la construction et de l'habitation. - art. R317-14 (V)
+	  - Code de la construction et de l'habitation. - art. R317-2 (V)
+	  - Code de la construction et de l'habitation. - art. R317-23 (V)
+	  - Code de la construction et de l'habitation. - art. R317-25 (V)
+	  - Code de la construction et de l'habitation. - art. R317-3 (V)
+	  - Code de la construction et de l'habitation. - art. R317-5 (V)
+	  - Code de la construction et de l'habitation. - art. R317-6 (V)
+	  - Code de la construction et de l'habitation. - art. R317-7 (V)
+	  - Code de la construction et de l'habitation. - art. R318-8 (V)
+	  - Code de la construction et de l'habitation. - art. R331-72 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 207 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001
+	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 1 (V)
+	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 2 (V)
+
+
+###### Article R317-2
+
+L'avance prévue à l'article R. 317-1 peut être accordée pour financer les opérations suivantes :
+
+1° La construction de logements, accompagnée, le cas échéant, de l'acquisition de droits de construire ou de terrains
+destinés à la construction de ces logements, ou l'acquisition de ces logements en vue de leur première occupation ;
+l'aménagement à usage de logement de locaux non destinés à l'habitation est assimilé à la construction de logements ;
+
+2° L'acquisition de logements en vue de leur amélioration et les travaux d'amélioration correspondants, le montant de ces
+travaux devant être au moins égal à une fraction du coût total de l'opération, fixée par arrêté conjoint du ministre chargé
+de l'économie et des finances, du ministre chargé du budget et du ministre chargé du logement ;
+
+3° L'acquisition de logements faisant l'objet d'un contrat régi par les dispositions de la loi n° 84-595 du 12 juillet 1984
+définissant la location-accession à la propriété immobilière, prévoyant un paiement fractionné du prix et dont la durée
+n'excède pas huit ans. Dans ce cas, l'avance est versée à la date de la levée d'option.
+
+Ces opérations comprennent la construction ou l'acquisition simultanée des dépendances de ces logements, dans des limites
+fixées par arrêté du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 1 (V)
+	  - Arrêté du 2 octobre 1995 - art. 7 (V)
+	  - Arrêté du 25 janvier 1996 - art. 1 (V)
+	  - Arrêté du 29 avril 1997 - art. 8 (V)
+	  - Décret n°2001-972 du 25 octobre 2001 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R317-19 (V)
+	  - Code de la construction et de l'habitation. - art. R317-3 (V)
+	  - Code de la construction et de l'habitation. - art. R317-6 (V)
+
+
+##### Section 1 : Conditions d'attribution de l'avance.
+
+###### Article R317-4
+
+Il ne peut être accordé qu'une avance par opération et par ménage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 17 (V)
+	  - Arrêté du 29 avril 1997 - art. 18 (V)
+	  - Arrêté du 29 avril 1997 - art. ANNEXE III (V)
+
+
+##### Section 1 : Conditions d'attribution de l'avance.
+
+###### Article R317-3
+
+Pour les opérations mentionnées à l'article R. 317-2, les bénéficiaires de l'avance sont les personnes physiques dont
+l'ensemble des ressources est au plus égal à un montant déterminé, en fonction de la composition familiale et de la
+localisation du logement, par arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé du budget
+et du ministre chargé du logement. Cet arrêté fixe également les modalités générales de contrôle de ces ressources.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 7 (M)
+	  - Arrêté du 2 octobre 1995 - art. 17 (V)
+	  - Code de la construction et de l'habitation. - art. R317-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R317-2 (M)
+
+
+###### Article R317-5
+
+Pour l'application de l'article R. 317-1, sont considérés comme résidences principales les logements occupés au moins huit
+mois par an par les personnes accédant à la propriété, visées à l'article R. 317-3.
+
+Cette occupation doit être effective dans le délai maximum d'un an suivant, soit la déclaration d'achèvement des travaux,
+soit l'acquisition du logement si celle-ci est postérieure à ladite déclaration.
+
+Ce délai peut être porté à six ans lorsque le logement est destiné à être occupé par le bénéficiaire de l'avance dès sa mise
+à la retraite, à condition qu'il soit loué dans des conditions prévues par arrêté conjoint du ministre chargé de l'économie
+et des finances et du ministre chargé du logement.
+
+Par dérogation aux dispositions du premier alinéa du présent article et tant que l'avance n'est pas totalement remboursée,
+lorsque les bénéficiaires de l'avance définie à l'article R. 317-1 du présent chapitre ne peuvent plus, pour des raisons
+professionnelles ou familiales, destiner leur logement à leur résidence principale, ils peuvent le donner en location, dans
+des conditions fixées par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+	  - Code de la construction et de l'habitation. - art. R317-3 (M)
+
+
+###### Article R317-6
+
+Toute mutation entre vifs des logements financés avec l'aide de l'avance prévue à l'article R. 317-1 du présent code entraîne
+le remboursement intégral du capital restant dû de l'avance, au plus tard au moment de l'accomplissement des formalités de
+publicité foncière.
+
+Chaque mutation doit être signalée à l'établissement prêteur dans le même délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+###### Article R317-7
+
+Les personnes bénéficiant de l'avance définie à l'article R. 317-1 ne peuvent bénéficier, pour un même logement, des
+dispositions des articles R. 321-1 à R. 321-16, R. 322-1 à R. 322-17, R. 331-32 à R. 331-62 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R321-1 à R321-16, R322-1 à R322-17, R331-32 à R331-62, R317-1
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+##### Section 2 : Caractéristiques financières de l'avance.
+
+###### Article R317-9
+
+Le montant de l'avance ne peut être supérieur à 50 p. 100 du montant du ou des autres prêts, d'une durée supérieure à deux
+ans, concourant au financement de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R317-21 (V)
+
+
+###### Article R317-10
+
+Les conditions de remboursement de l'avance sont déterminées en fonction des ressources du bénéficiaire et tiennent compte
+des modalités de remboursement des prêts immobiliers consentis par l'établissement de crédit pour la même opération. Un
+arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé du
+logement fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 9 (V)
+	  - Arrêté du 29 avril 1997 - art. 10 (V)
+
+
+###### Article R317-11
+
+L'établissement prêteur apprécie sous sa propre responsabilité la solvabilité et les garanties de remboursement présentées
+par les ménages demandant l'octroi de l'avance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+
+###### Article R317-12
+
+L'avance est versée au vendeur ou au cocontractant de l'acquéreur par l'établissement de crédit pour le compte du
+bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+
+##### Section 2 : Caractéristiques financières de l'avance.
+
+###### Article R317-8
+
+Le montant de l'avance ne peut excéder 20 p. 100 du coût de l'opération retenu dans la limite d'un prix maximal déterminé en
+fonction de la composition familiale du ménage bénéficiaire et de la localisation du logement.
+
+Les conditions d'application du présent article sont fixées par arrêté conjoint du ministre chargé de l'économie et des
+finances, du ministre chargé du budget et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2000-1338 du 26 décembre 2000
+	  - TXT_SOURCE: Décret n°2000-1338 du 26 décembre 2000 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 8 (V)
+
+
+##### Section 3 : Conventions avec les établissements de crédit.
+
+###### Article R317-13
+
+Seuls les établissements de crédit ayant passé une convention avec l'Etat, conforme à une convention type approuvée par
+arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du logement, sont habilités à accorder
+les avances prévues à l'article R. 317-1.
+
+Cette convention est signée au nom de l'Etat par le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 15 (V)
+	  - Arrêté du 29 avril 1997 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+###### Article R317-14
+
+Le ministre chargé de l'économie et des finances et le ministre chargé du logement sont autorisés à confier la gestion de la
+subvention versée par l'Etat en application de l'article R. 317-1 à l'organisme mentionné à l'article R. 312-3-1 du présent
+code. Les relations entre l'Etat et cet organisme sont définies par une convention approuvée par arrêté conjoint du ministre
+chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé du logement qui précise notamment
+les conditions dans lesquelles cet organisme participe au contrôle de l'application des dispositions du présent chapitre.
+
+Les établissements de crédit doivent conclure avec l'organisme gestionnaire de la subvention une convention conforme à une
+convention type approuvée par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du
+logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 14 (V)
+	  - Arrêté du 2 octobre 1995 - art. 15 (V)
+	  - Code de la construction et de l'habitation. - art. L316-3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+##### Section 4 : Garantie des prêts.
+
+###### Article R317-15
+
+Les avances prévues à l'article R. 317-1 peuvent bénéficier de la garantie de l'Etat mentionnée au troisième alinéa de
+l'article L. 312-1 du code de la construction et de l'habitation, dans les conditions prévues aux articles R. 312-3-1 à R.
+312-3-3.
+
+Cette garantie est obligatoire lorsque l'établissement de crédit accorde, en complément de l'avance, un prêt conventionné
+garanti par l'Etat en application de l'article R. 312-3-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R317-24 (V)
+
+
+##### Section 5 : Contrôle.
+
+###### Article R317-16
+
+Le contrôle des conditions d'application des dispositions du présent chapitre est exercé par le ministre chargé de l'économie
+et des finances, le ministre chargé du budget et le ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 18 (V)
+	  - Arrêté du 29 avril 1997 - art. 19 (V)
+
+
+##### Section 5 : Contrôle.
+
+###### Article R317-17
+
+Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, les conditions
+fixées par le présent chapitre ne sont pas respectées du fait du bénéficiaire de l'avance, l'organisme mentionné à l'article
+R. 312-3-1 exige de l'établissement de crédit, pour le compte de l'Etat, dans un délai d'un mois, le remboursement de la
+subvention indûment perçue majorée de 10 p. 100. L'établissement de crédit doit prévoir, dans son contrat de prêt, de faire
+supporter par le bénéficiaire les conséquences de ce remboursement.
+
+Les modalités d'application de l'alinéa précédent sont fixées par arrêté conjoint du ministre chargé de l'économie et des
+finances, du ministre chargé du budget et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 19 (V)
+	  - Arrêté du 29 avril 1997 - art. ANNEXE III (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+
+
+##### Section 6 : Départements d'outre-mer.
+
+###### Article R317-18
+
+Les dispositions du présent chapitre ne sont pas applicables aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
 
 
 ### Titre II : Amélioration de l'habitat.
@@ -45426,8 +45999,9 @@ sommes dues au titre du remboursement anticipé.
 
 ###### Article R331-72
 
-Les prêts conventionnés sont exclusifs de tout autre prêt, à l'exception des prêts d'épargne-logement, de ceux consentis au
-titre de la participation des employeurs et de ceux consentis par les organismes à caractère exclusivement social.
+Les prêts conventionnés sont exclusifs de tout autre prêt, à l'exception des prêts d'épargne-logement, des prêts consentis au
+titre de la participation des employeurs à l'effort de construction, des prêts consentis par les organismes à caractère
+exclusivement social, et de l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code.
 
 **Liens relatifs à cet article**
 
@@ -45437,11 +46011,11 @@ titre de la participation des employeurs et de ceux consentis par les organismes
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°95-1064 du 29 septembre 1995 - art. 2 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
 
 	**Cité par**:
 
