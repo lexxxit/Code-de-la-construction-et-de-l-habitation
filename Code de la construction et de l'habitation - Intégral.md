@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-03-24
 
 # Partie législative
 
@@ -60051,9 +60051,9 @@ bases.
 
 ###### Article R*351-30
 
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
-aides publiques au logement du conseil départemental de l'habitat par le bailleur ou l'établissement habilité percevant
-l'aide personnalisée pour son compte.
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+départementale des aides publiques au logement par le bailleur ou l'établissement habilité percevant l'aide personnalisée
+pour son compte.
 
 En secteur locatif, l'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque
 le locataire est débiteur à l'égard du bailleur d'une somme au moins égale à deux fois le montant mensuel brut du loyer et
@@ -60141,14 +60141,9 @@ de ses obligations.
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
-
 	**Modifié par**:
 
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 4 () JORF 30 septembre 1992
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 5 () JORF 30 septembre 1992
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 
 ###### Article R*351-31
@@ -60649,12 +60644,11 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
+##### Section 3 : Section départementale des aides publiques au logement.
 
 ###### Article R*351-48
 
-La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le préfet ou son
-représentant.
+La section départementale des aides publiques au logement est présidée par le préfet ou son représentant.
 
 Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
 travail, de l'emploi et de la politique sociale agricoles compétent, du directeur départemental des affaires sanitaires et
@@ -60664,6 +60658,8 @@ représentants des usagers désignés par le préfet sur proposition des organis
 département, d'un représentant désigné par le conseil général et d'un représentant de l'union départementale des associations
 familiales.
 
+Son secrétariat est assuré par les services départementaux du ministère chargé du logement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -60672,7 +60668,8 @@ familiales.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 5 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+	  - Décret n°2005-260 2005-03-23 art. 3 I, III, IV JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -60684,8 +60681,8 @@ familiales.
 
 ###### Article R351-47
 
-Les compétences prévues à l'article L. 351-14 sont exercées par la section des aides publiques au logement du conseil
-départemental de l'habitat. Dans les conditions déterminées par l'article R. 351-49, cette section :
+Les compétences prévues à l'article L. 351-14 sont exercées par une commission dénommée "section départementale des aides
+publiques au logement". Dans les conditions déterminées par l'article R. 351-49, cette section :
 
 1. Décide, selon les modalités fixées par les articles R. 351-30, R. 351-31 et R. 351-64, du maintien du versement de l'aide
 personnalisée au logement lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge ;
@@ -60706,9 +60703,10 @@ des bénéficiaires d'aide à la personne défaillants.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+	  - Décret n°2005-260 2005-03-23 art. 3 I, II JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cite**:
 
@@ -60726,13 +60724,14 @@ des bénéficiaires d'aide à la personne défaillants.
 
 ###### Article R351-49
 
-La section des aides publiques au logement délibère valablement lorsque quatre au moins de ses membres, dont le président,
-sont présents. Ses décisions sont prises à la majorité des voix des membres présents ou représentés, sauf dans le cas d'une
-délibération portant délégation en application de l'article R. 351-52 où la décision est prise à la majorité des membres
-composant la section des aides publiques au logement. En cas de partage égal des voix, celle du président est prépondérante.
+La section départementale des aides publiques au logement délibère valablement lorsque quatre au moins de ses membres, dont
+le président, sont présents. Ses décisions sont prises à la majorité des voix des membres présents ou représentés, sauf dans
+le cas d'une délibération portant délégation en application de l'article R. 351-52 où la décision est prise à la majorité des
+membres composant la section départementale des aides publiques au logement. En cas de partage égal des voix, celle du
+président est prépondérante.
 
-La section des aides publiques au logement peut, avant de statuer, demander toute enquête ou supplément d'information
-nécessaire ou, à l'initiative de son président, auditionner toute personne.
+La section départementale des aides publiques au logement peut, avant de statuer, demander toute enquête ou supplément
+d'information nécessaire ou, à l'initiative de son président, auditionner toute personne.
 
 **Liens relatifs à cet article**
 
@@ -60742,7 +60741,8 @@ nécessaire ou, à l'initiative de son président, auditionner toute personne.
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -60756,22 +60756,23 @@ nécessaire ou, à l'initiative de son président, auditionner toute personne.
 ###### Article R351-50
 
 Lorsqu'elle est saisie d'une demande gracieuse de remise de dettes ou d'un recours administratif contestant une décision d'un
-organisme ou service chargé du paiement de l'aide personnalisée au logement ou de la prime de déménagement, la section des
-aides publiques au logement en accuse réception, soit par la délivrance d'un récépissé, soit par lettre dans les quinze
-jours, en indiquant les délais et voies de recours.
+organisme ou service chargé du paiement de l'aide personnalisée au logement ou de la prime de déménagement, la section
+départementale des aides publiques au logement en accuse réception, soit par la délivrance d'un récépissé, soit par lettre
+dans les quinze jours, en indiquant les délais et voies de recours.
 
 La section notifie sa décision à la personne intéressée dans un délai de deux mois par lettre recommandée avec demande d'avis
 de réception. La notification comporte l'indication de la possibilité d'un recours contentieux devant le tribunal
 administratif dans le ressort duquel est situé le logement ayant donné lieu à la décision et du délai dans lequel ce recours
 contentieux doit être exercé.
 
-Lorsque la décision de la section des aides publiques au logement n'a pas été portée à la connaissance de l'intéressé dans ce
-délai de deux mois, l'intéressé peut considérer sa demande gracieuse ou son recours administratif comme rejeté tacitement et
-se pourvoir devant le tribunal administratif.
+Lorsque la décision de la section départementale des aides publiques au logement n'a pas été portée à la connaissance de
+l'intéressé dans ce délai de deux mois, l'intéressé peut considérer sa demande gracieuse ou son recours administratif comme
+rejeté tacitement et se pourvoir devant le tribunal administratif.
 
 Le délai de deux mois prévu aux alinéas précédents court à compter de la réception de la demande gracieuse ou du recours
-administratif par la section des aides publiques au logement. Toutefois, si un document est produit par l'intéressé après le
-dépôt de sa demande gracieuse ou de son recours administratif, le délai ne court qu'à dater de la réception de ce document.
+administratif par la section départementale des aides publiques au logement. Toutefois, si un document est produit par
+l'intéressé après le dépôt de sa demande gracieuse ou de son recours administratif, le délai ne court qu'à dater de la
+réception de ce document.
 
 **Liens relatifs à cet article**
 
@@ -60781,7 +60782,8 @@ dépôt de sa demande gracieuse ou de son recours administratif, le délai ne co
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -60795,8 +60797,8 @@ dépôt de sa demande gracieuse ou de son recours administratif, le délai ne co
 ###### Article R351-51
 
 Les contestations des décisions prises en matière d'aide personnalisée au logement ou de prime de déménagement par les
-organismes ou services payeurs sont portées sous forme de recours administratifs devant la section des aides publiques au
-logement dans le ressort de laquelle est situé le logement au titre duquel la décision a été prise.
+organismes ou services payeurs sont portées sous forme de recours administratifs devant la section départementale des aides
+publiques au logement dans le ressort de laquelle est situé le logement au titre duquel la décision a été prise.
 
 La section doit être saisie dans le délai de deux mois à compter de la notification de la décision de l'organisme ou service
 payeur que l'intéressé entend contester. Les recours sont adressés au secrétariat de la section. Ils sont rédigés sur papier
@@ -60804,8 +60806,8 @@ libre et accompagnés d'un exemplaire de la décision faisant l'objet du recours
 sommaire des motifs invoqués à leur appui.
 
 La notification de la décision de l'organisme ou service payeur comporte la mention de la possibilité, dans les conditions
-prévues à l'article R. 351-50, d'un recours administratif auprès de la section des aides publiques au logement compétente
-ainsi que l'adresse du secrétariat de cette commission.
+prévues à l'article R. 351-50, d'un recours administratif auprès de la section départementale des aides publiques au logement
+compétente ainsi que l'adresse du secrétariat de cette commission.
 
 **Liens relatifs à cet article**
 
@@ -60815,7 +60817,8 @@ ainsi que l'adresse du secrétariat de cette commission.
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -60831,21 +60834,21 @@ ainsi que l'adresse du secrétariat de cette commission.
 
 ###### Article R351-52
 
-La section des aides publiques au logement peut déléguer par voie de convention tout ou partie des compétences mentionnées
-aux 2 et 3 de l'article R. 351-47 aux organismes ou services chargés dans le département du paiement de l'aide personnalisée
-au logement et de la prime de déménagement. La convention énonce précisément les compétences déléguées. Notamment lorsque le
-montant des sommes contestées ou faisant l'objet d'une demande de remise de dettes constitue un critère de délégation, elle
-indique ce montant.
+La section départementale des aides publiques au logement peut déléguer par voie de convention tout ou partie des compétences
+mentionnées aux 2 et 3 de l'article R. 351-47 aux organismes ou services chargés dans le département du paiement de l'aide
+personnalisée au logement et de la prime de déménagement. La convention énonce précisément les compétences déléguées.
+Notamment lorsque le montant des sommes contestées ou faisant l'objet d'une demande de remise de dettes constitue un critère
+de délégation, elle indique ce montant.
 
 La convention détermine les modalités de l'exercice des compétences déléguées. Elle rappelle que l'organisme ou service
-délégataire est substitué à la section des aides publiques au logement et à son secrétariat pour l'application des articles
-R. 351-50 et R. 351-51. Elle prévoit notamment que les demandes gracieuses ou recours administratifs sont adressés
-directement à l'organisme ou service délégataire et que ce dernier recueille, préalablement à toute décision, l'avis de la
-commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale. Elle fixe les conditions de sa
-dénonciation par l'une ou l'autre des parties, notamment le délai de préavis.
+délégataire est substitué à la section départementale des aides publiques au logement et à son secrétariat pour l'application
+des articles R. 351-50 et R. 351-51. Elle prévoit notamment que les demandes gracieuses ou recours administratifs sont
+adressés directement à l'organisme ou service délégataire et que ce dernier recueille, préalablement à toute décision, l'avis
+de la commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale. Elle fixe les conditions de
+sa dénonciation par l'une ou l'autre des parties, notamment le délai de préavis.
 
-La convention de délégation est approuvée par arrêté préfectoral après délibération de la section des aides publiques au
-logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
+La convention de délégation est approuvée par arrêté préfectoral après délibération de la section départementale des aides
+publiques au logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
 
 **Liens relatifs à cet article**
 
@@ -60855,7 +60858,8 @@ logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cite**:
 
@@ -61383,16 +61387,15 @@ caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
 
 ###### Article R351-64
 
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
-aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
-compte.
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+départementale des aides publiques au logement par le gestionnaire percevant l'aide personnalisée pour son compte.
 
 L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
 débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
 
 Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
-situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
-départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
+situation du bénéficiaire défaillant à la connaissance de la section départementale des aides publiques publiques au logement
+et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
 
 Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
 section départementale des aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30.
@@ -61412,13 +61415,9 @@ de ses obligations.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
-
 	**Modifié par**:
 
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 8 () JORF 30 septembre 1992
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66131,18 +66130,26 @@ l'habitation.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-#### Chapitre II : Conseil départemental de l'habitat.
+#### Chapitre II : Comité régional de l'habitat.
 
 ##### Section 1 : Compétences.
 
 ###### Article R362-1
 
-Le conseil départemental de l'habitat procède à toutes concertations propres à permettre de répondre aux besoins en matière
-d'habitat et à assurer la meilleure efficacité aux aides publiques dans le département.
+Le comité régional de l'habitat émet chaque année, sur la base d'un rapport présenté par le préfet de région, un avis sur :
 
-Il émet un avis sur la situation et les perspectives de l'habitat dans le département en ce qui concerne notamment la
-satisfaction des besoins en logements des différentes catégories de population, l'état du patrimoine, l'activité du secteur
-du bâtiment et la qualité de l'habitat.
+1° La satisfaction des besoins en logement des différentes catégories de population ;
+
+2° Les orientations de la politique de l'habitat dans la région et des actions engagées par l'Etat et les collectivités
+territoriales ;
+
+3° La programmation annuelle des différentes aides publiques au logement dans la région et la coordination de ces
+financements, en particulier ceux de l'Etat, de ses établissements publics, des collectivités territoriales et de leurs
+groupements et de la participation des employeurs à l'effort de construction ;
+
+4° Les modalités d'application dans la région des principes qui régissent l'attribution des logements locatifs sociaux ;
+
+5° Les politiques menées dans la région en faveur du logement des populations défavorisées et des populations immigrées.
 
 **Liens relatifs à cet article**
 
@@ -66152,7 +66159,7 @@ du bâtiment et la qualité de l'habitat.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66164,40 +66171,27 @@ du bâtiment et la qualité de l'habitat.
 
 ###### Article R362-2
 
-Le conseil départemental de l'habitat, dans les conditions fixées aux articles R. 362-3 à R. 362-8, a vocation à émettre un
-avis:
+Le comité régional de l'habitat est également consulté :
 
-a) Sur la satisfaction des besoins en logements des différentes catégories de population ;
+1° Sur le projet de répartition des crédits publics entre les établissements publics de coopération intercommunale et les
+départements en application du troisième alinéa de l'article L. 301-3, établi chaque année par le préfet de région ;
 
-b) Sur la programmation annuelle des aides de l'Etat au logement et des interventions de l'Agence nationale pour
-l'amélioration de l'habitat ;
+2° Sur les projets de programmes locaux de l'habitat établis en application de l'article L. 302-2 ;
 
-c) Sur la coordination des financements contribuant aux opérations de construction et d'amélioration bénéficiant de l'aide de
-l'Etat ;
+3° Au vu des bilans triennaux prévus à l'article L. 302-9, sur les projets d'arrêtés prévus à l'article L. 302-9-1 ;
 
-d) Sur les modalités d'application des principes nationaux pour l'attribution des logements locatifs sociaux ;
+4° Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou
+demandant à être autorisés à exercer leur activité dans la région. Toutefois, l'avis du comité n'est requis ni pour le
+retrait temporaire d'une ou plusieurs compétences décidé en application des articles L. 422-7, R. 421-13 ou R. 421-60, ni
+pour la dissolution prononcée en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 
-e) Sur les programmes d'actions en faveur du logement des immigrés et des populations défavorisées ;
+5° Sur les projets de règlements départementaux prévus à l'article L. 441-1-1, les projets d'accords collectifs prévus à
+l'article L. 441-1-2 et les projets de délimitations des bassins d'habitat prévus à l'article L. 441-1-4 ;
 
-f) Sur les modalités selon lesquelles les aides à la personne en matière de logement sont mises en oeuvre dans le
-département ;
+6° Sur les projets de plans départementaux d'action pour le logement des personnes défavorisées.
 
-g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré et des sociétés
-anonymes de coordination d'organismes d'habitations à loyer modéré exerçant ou demandant à être autorisés à exercer leur
-activité dans le département. Toutefois, cet avis n'est requis ni pour le retrait temporaire d'une ou plusieurs compétences
-décidé en application des articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la dissolution prononcée en application des
-articles L. 422-7, L. 422-8 ou L. 422-9 ;
-
-h) Sur les programmes locaux de l'habitat et leur réalisation.
-
-La section des aides publiques au logement du conseil départemental de l'habitat exerce les compétences prévues à l'article
-R. 351-47.
-
-La commission spécialisée des rapports locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les
-compétences prévues par l'article 41 ter de la même loi dans les conditions définies par l'article R. 362-20.
-
-Le président de la commission d'amélioration de l'habitat instituée à l'article R. 321-10 fournit un rapport annuel au
-conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné au b ci-dessus.
+Le comité régional de l'habitat peut déléguer tout ou partie des compétences prévues aux 2° à 6° du présent article à son
+bureau ou aux commissions spécialisées mentionnées à l'article R. 362-11.
 
 **Liens relatifs à cet article**
 
@@ -66205,19 +66199,24 @@ conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005 rectificatif JORF 23 avril 2005
+
 	**Cite**:
 
-	  - Loi n°86-1290 1986-12-23 art. 41 bis, art. 41 ter
-	  - Code de la construction et de l'habitation R362-3 à R362-8, L422-7, R421-13, R421-60, L422-8, L422-9, R351-47, R362-20, R321-10
+	  - Code de la construction et de l'habitation L301-3, L302-2, L302-9, L302-9-1, L422-7, R421-13, R421-60, L422-8, L422-9, L441-1-1, L441-1-2, L441-1-4, R362-11
+	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+	  - Code de la construction et de l'habitation. - art. L302-2 (M)
+	  - Code de la construction et de l'habitation. - art. L302-9 (M)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
 	  - Code de la construction et de l'habitation. - art. L422-7 (M)
 	  - Code de la construction et de l'habitation. - art. L422-8 (M)
 	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
-	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 1 () JORF 7 septembre 2004
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. R362-11 (M)
 
 	**Cité par**:
 
@@ -66228,14 +66227,25 @@ conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné 
 	  - Code de la construction et de l'habitation. - art. R371-1 (V)
 
 
+##### Section 2 : Composition et fonctionnement.
+
 ###### Article R362-3
 
-Au plus tard le 15 novembre de chaque année, le conseil départemental de l'habitat prend connaissance d'un rapport du préfet
-portant sur l'état d'avancement des programmes de construction et d'amélioration de l'habitat financés avec l'aide de l'Etat
-ou de l'Agence nationale pour l'amélioration de l'habitat, au titre des années antérieures et de l'année en cours et sur les
-programmes locaux de l'habitat définis par les communes ou groupements de communes du département. Il émet un avis sur les
-orientations et les critères de choix à prendre en compte dans la programmation des aides de l'Etat et des interventions de
-l'Agence nationale pour l'amélioration de l'habitat pour l'année suivante.
+Le comité régional de l'habitat est présidé par le préfet de région qui peut se faire représenter. Les préfets de
+département, ou leur représentant, assistent de droit, avec voix consultative, aux séances du comité régional de l'habitat.
+
+Les membres du comité régional de l'habitat sont répartis en trois collèges :
+
+1° Un collège de représentants des collectivités territoriales et de leurs groupements ;
+
+2° Un collège de professionnels intervenant dans les domaines du logement, de l'immobilier, de la construction ou de la mise
+en oeuvre des moyens financiers correspondants ;
+
+3° Un collège de représentants d'organisations d'usagers, de bailleurs privés, d'associations d'insertion et de défense des
+personnes en situation d'exclusion par le logement, des partenaires sociaux associés à la gestion de la participation des
+employeurs à l'effort de construction et de personnalités qualifiées.
+
+Aucun collège ne peut comprendre plus de la moitié des membres du comité.
 
 **Liens relatifs à cet article**
 
@@ -66245,7 +66255,7 @@ l'Agence nationale pour l'amélioration de l'habitat pour l'année suivante.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66260,12 +66270,12 @@ l'Agence nationale pour l'amélioration de l'habitat pour l'année suivante.
 
 ###### Article R362-4
 
-Le conseil départemental de l'habitat est tenu informé des financements autres que ceux de l'Etat ou de l'Agence nationale
-pour l'amélioration de l'habitat utilisés dans le département pour la construction et l'amélioration de l'habitat, notamment
-la participation des entreprises à l'effort de construction, les aides des collectivités territoriales et les prêts des
-caisses d'épargne. Il est consulté sur la coordination des financements nécessaires à la réalisation du programme de
-construction et d'amélioration de l'habitat bénéficiant de prêts aidés et de subventions dans le secteur locatif et dans
-celui de l'accession à la propriété.
+Les membres du comité régional de l'habitat sont nommés pour une période de six ans renouvelable par arrêté du préfet de
+région. Le mandat prend fin si son titulaire perd la qualité au titre de laquelle il a été désigné. Celui-ci est alors
+remplacé pour la durée du mandat restant à courir.
+
+Des suppléants des membres appartenant aux collèges mentionnés aux 2° et 3° de l'article R. 362-3 peuvent être désignés dans
+les mêmes conditions que les titulaires.
 
 **Liens relatifs à cet article**
 
@@ -66275,26 +66285,38 @@ celui de l'accession à la propriété.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
+
 
 ###### Article R362-5
 
-Le conseil départemental de l'habitat est informé au moins une fois par an des conditions de logement des différentes
-catégories de population dans le département au vu d'un état des besoins quantitatifs et qualitatifs dans le domaine du
-logement élaboré par le préfet.
+Les membres du comité régional de l'habitat mentionnés au 1° de l'article R. 362-3 sont les suivants :
 
-Il émet un avis sur les conditions du respect des principes définis pour l'attribution des logements construits avec le
-concours financier de l'Etat dans le cadre des dispositions propres à chaque secteur locatif mentionné à l'article 37 de la
-loi du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs.
+1° Le président du conseil régional ou, en Corse, le président du conseil exécutif de Corse, ou son représentant ;
 
-Le conseil départemental de l'habitat est informé des prppositions en matière d'attribution de logements contenues dans les
-programmes locaux de l'habitat élaborés par les communes ou groupements de communes du département. Il donne son avis au
-préfet sur leur cohérence et leur compatibilité avec les objectifs et les règles fixés dans le département.
+2° Les présidents des conseils généraux, ou leur représentant ;
+
+3° Les présidents des communautés urbaines, des communautés d'agglomération et des syndicats d'agglomération nouvelle
+compétents en matière de programme local de l'habitat, ou leur représentant ;
+
+4° Les présidents des communautés de communes ayant conclu une convention de délégation de compétence avec l'Etat en
+application de l'article L. 301-5-1 du code de la construction et de l'habitation, ou leur représentant.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -66302,13 +66324,14 @@ préfet sur leur cohérence et leur compatibilité avec les objectifs et les rè
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°82-526 1982-06-22 ART. 37
-
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
 
 	**Cité par**:
 
@@ -66316,37 +66339,12 @@ préfet sur leur cohérence et leur compatibilité avec les objectifs et les rè
 	  - Code de la construction et de l'habitation. - art. R362-6 (M)
 
 
-###### Article R362-5-1
-
-Le conseil départemental de l'habitat émet un avis sur le projet de plan départemental d'action pour le logement des
-personnes défavorisées.
-
-Il reçoit communication des bilans annuels et évaluations périodiques de ce plan et en délibère.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°99-897 du 22 octobre 1999 - art. 55 () JORF 23 octobre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-
 ###### Article R362-6
 
-Dans le cadre des orientations générales fixées par la Commission nationale pour le logement des immigrés, le conseil
-départemental de l'habitat fait toutes propositions utiles en matière de politique du logement des immigrés dans le
-département notamment au vu des éléments recueillis dans le cadre des dispositions de l'article R. 362-5.
-
-Il émet un avis sur les orientations et les critères de la programmation départementale des opérations pour lesquelles un
-financement est sollicité sur la fraction de la participation des employeurs à l'effort de construction réservée au logement
-des immigrés.
+Le préfet de région établit la liste des catégories de professionnels mentionnés au 2° de l'article R. 362-3 et le nombre de
+représentants par catégorie, en fonction de la situation de l'habitat et de l'importance de l'activité exercée par ces
+professionnels dans la région. Sur proposition, le cas échéant, des organisations professionnelles, il arrête la liste des
+membres de ce collège.
 
 **Liens relatifs à cet article**
 
@@ -66356,7 +66354,7 @@ des immigrés.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66364,14 +66362,14 @@ des immigrés.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R362-5 (M)
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
 
 
 ###### Article R362-7
 
-Un bilan général annuel des aides à la personne attribuées dans le département est communiqué au conseil départemental de
-l'habitat. Celui-ci examine les questions relatives à l'application dans le département des textes qui régissent l'aide
-personnalisée au logement.
+Le préfet de région établit la liste des catégories d'associations ou d'organismes mentionnés au 3° de l'article R. 362-3 et
+le nombre de représentants par catégorie. Il arrête la liste des membres de ce collège après y avoir adjoint, en tant que de
+besoin, des personnalités compétentes dans le domaine de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -66381,17 +66379,23 @@ personnalisée au logement.
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 7 () JORF 7 mai 1995
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-1 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
+
 
 ###### Article R362-8
 
-Le conseil départemental de l'habitat est substitué au comité départemental des habitations à loyer modéré.
+Le comité régional de l'habitat se réunit au moins une fois par an sur convocation de son président.
+
+Le président peut inviter à assister à une séance toute personne dont l'audition lui paraît utile.
 
 **Liens relatifs à cet article**
 
@@ -66401,18 +66405,16 @@ Le conseil départemental de l'habitat est substitué au comité départemental 
 
 	**Modifié par**:
 
-	  - Décret n°94-1105 du 14 décembre 1994 - art. 2 () JORF 21 décembre 1994
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
 
-##### Section 2 : Composition et fonctionnement.
-
 ###### Article R362-9
 
-Le président du conseil départemental de l'habitat est le préfet.
+En cas de partage égal des voix au sein du comité régional de l'habitat ou du bureau, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -66422,7 +66424,7 @@ Le président du conseil départemental de l'habitat est le préfet.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66431,25 +66433,13 @@ Le président du conseil départemental de l'habitat est le préfet.
 
 ###### Article R362-10
 
-Outre son président, le conseil départemental de l'habitat est composé :
+Le comité régional de l'habitat crée en son sein un bureau comprenant au moins, outre le président ou son représentant, deux
+membres de chacun des collèges définis à l'article R. 362-3. Des suppléants sont désignés dans les mêmes conditions que les
+titulaires. Le bureau organise les travaux du comité et, le cas échéant, des commissions prévues à l'article R. 362-11 et
+propose au comité un règlement intérieur. Le président ou le bureau peut saisir le comité de toute question entrant dans les
+compétences énumérées aux articles R. 362-1 et R. 362-2.
 
-a) De trente-six membres nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
-
-1° Pour un tiers, de représentants du conseil général, des communes et des groupements de communes du département désignés
-dans les conditions fixées à l'article R. 362-12 ;
-
-2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
-mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14 ;
-
-3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés de représentants
-d'associations d'insertion et de défense des personnes en situation d'exclusion par le logement, de représentants des
-partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
-personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
-fixées à l'article R. 362-14.
-
-b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
-
-Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+Le bureau rend compte de son activité au comité régional de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -66459,11 +66449,14 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 	**Modifié par**:
 
-	  - Décret n°99-236 du 24 mars 1999 - art. 2 () JORF 27 mars 1999
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R351-48 (M)
+	  - Code de la construction et de l'habitation. - art. R362-1 (M)
+	  - Code de la construction et de l'habitation. - art. R362-11 (M)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
 
 	**Cité par**:
 
@@ -66476,9 +66469,11 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 ###### Article R362-11
 
-Le mandat des membres du conseil mentionnés au a) de l'article R. 362-10 est de trois ans [*durée*]. Il peut être renouvelé.
-Il prend fin si son titulaire perd la qualité au titre de laquelle il a été désigné. Celui-ci est alors remplacé dans un
-délai de trois mois pour la durée du mandat restant à courir.
+Le comité régional de l'habitat peut créer en son sein des commissions spécialisées. Il en fixe les attributions, qui peuvent
+porter sur un ou plusieurs domaines de compétence ou sur un territoire déterminé, la durée, la composition et les règles de
+fonctionnement. Chaque commission, présidée par le préfet de région ou son représentant ou par un préfet de département ou
+son représentant, comprend au moins deux membres de chacun des collèges définis à l'article R. 362-3 et peut entendre des
+personnes qualifiées extérieures au comité régional de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -66488,11 +66483,7 @@ délai de trois mois pour la durée du mandat restant à courir.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R362-10 a)
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
@@ -66501,34 +66492,15 @@ délai de trois mois pour la durée du mandat restant à courir.
 	  - Code de la construction et de l'habitation. - art. R362-2 (V)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-3 (M)
+
 
 ###### Article R362-12
 
-Les membres du conseil départemental de l'habitat mentionnés au a) 1° de l'article R. 362-10 sont désignés dans les
-conditions suivantes :
-
-1° A Paris, le conseil municipal désigne en son sein douze conseillers ;
-
-2° Pour les autres départements, sont membres dans la limite de douze :
-
-a) Trois conseillers généraux élus par le conseil général ;
-
-b) Les présidents des communautés urbaines du département compétentes en matière de logement ;
-
-c) Le maire de la commune chef-lieu du département et, le cas échéant, le maire de la commune dont la population est la plus
-importante lorsqu'elle n'est pas le chef-lieu ;
-
-d) Un président d'établissement public de coopération intercommunale doté de la compétence en matière de logement désigné,
-dans les conditions arrêtées par le préfet, par les présidents d'établissements publics de coopération intercommunale dotés
-de cette compétence dans le département. En cas de partage des voix, le président de l'établissement public de coopération
-intercommunale dont la population est la plus importante est désigné ;
-
-e) Pour le reste des sièges à pourvoir, des maires ou conseillers municipaux de communes différentes.
-
-Les membres siégeant au titre du e) sont désignés, par l'association départementale des maires, ou à défaut élus par le
-collège des maires du département, à la représentation proportionnelle à la plus forte moyenne. Le vote peut avoir lieu par
-correspondance. Le collège des maires est convoqué par le préfet. Un arrêté du préfet règle dans chaque département les
-modalités d'application du présent alinéa.
+Le secrétariat du comité, du bureau et des commissions est assuré par les services de l'Etat compétents en matière de
+logement.
 
 **Liens relatifs à cet article**
 
@@ -66537,299 +66509,12 @@ modalités d'application du présent alinéa.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
-###### Article R362-13
-
-Le préfet établit la liste des catégories de professionnels à représenter et le nombre de représentants par catégorie en
-fonction de la situation de l'habitat et de l'importance de l'activité exercée par ces professionnels dans le département.
-
-Sur proposition, le cas échéant, des organisations professionnelles correspondantes, il arrête la liste des membres du groupe
-des professionnels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cité par**:
-
-	  - Décret n°2014-1369 du 14 novembre 2014 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R371-4 (T)
-
-
-###### Article R362-14
-
-Les membres du conseil départemental de l'habitat siégeant au titre du a) 3° de l'article R. 362-10 sont désignés par le
-préfet sur proposition des organisations les plus représentatives dont celui-ci établit la liste. En tant que de besoin pour
-porter à douze l'effectif de ce groupe, le préfet désigne des personnalités compétentes dans le domaine de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
 
 	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
-###### Article R362-15
-
-Dans les deux mois qui suivent la désignation de ses membres, le conseil est réuni à l'initiative de son président et procède
-à la désignation de son bureau. Celui-ci comprend le préfet et six membres élus à raison de deux au sein de chacun des trois
-groupes définis à l'article R. 362-10 a.
-
-Le bureau organise les travaux du conseil et, le cas échéant, des commissions définies à l'article R. 362-18, fixe l'ordre du
-jour des réunions et propose au conseil un règlement intérieur.
-
-Le président ou le bureau du conseil départemental de l'habitat peut saisir le conseil de toute question entrant dans ses
-compétences définies à la section 1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
-###### Article R362-16
-
-Le secrétariat du conseil et de ses commissions est assuré par le directeur départemental de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R371-9 (T)
-
-
-###### Article R362-17
-
-Le conseil départemental de l'habitat se réunit au moins deux fois par an sur convocation de son président.
-
-Le président peut inviter à assister à toute séance toute personne pouvant apporter des informations utiles au conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-
-###### Article R362-18
-
-Le conseil départemental de l'habitat peut créer en son sein des commissions spécialisées dont il fixe la durée, la
-composition et les attributions. Il peut leur déléguer tout ou partie des attributions mentionnées à l'article R. 362-2.
-
-Chaque commission comprend au moins deux membres de chacun des groupes définis à l'article R. 362-10 a et en outre, en tant
-que de besoin, un membre de la section prévue au b du même article.
-
-Le président du conseil départemental de l'habitat peut décider d'associer aux travaux d'une commission des personnes
-étrangères au conseil dans la limite du quart des membres de ladite commission.
-
-La commission est présidée par le président du conseil départemental de l'habitat ou par une personne que celui-ci désigne au
-sein du bureau ou parmi les membres du conseil siégeant dans la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-15 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R371-10 (Ab)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-	  - Code de la construction et de l'habitation. - art. R371-9 (T)
-
-
-###### Article R362-18-1
-
-Il est créé au sein du conseil départemental de l'habitat un comité permanent qui émet, au nom du conseil, l'avis prévu au g
-de l'article R. 362-2.
-
-Ce comité comprend deux membres de chacun des groupes définis à l'article R. 362-10 a et un membre de la section prévue au b
-du même article, désignés par le préfet. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
-
-Le comité permanent est présidé par le préfet ou son représentant.
-
-Il se réunit, sur convocation de son président, dans les deux mois suivant la réception par celui-ci des projets de création,
-dissolution ou modification de compétences présentés par les organismes d'habitations à loyer modéré.
-
-En cas de partage des voix au sein du comité, la voix du président est prépondérante.
-
-Le secrétariat du comité est assuré dans les mêmes conditions que celui du conseil départemental de l'habitat.
-
-Le comité rend compte de son activité au conseil départemental de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2002-1189 du 19 septembre 2002 - art. 2 () JORF 21 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R371-8 (M)
-
-
-###### Article R362-19
-
-La section des aides publiques au logement du conseil départemental de l'habitat est régie par les articles R. 351-49 à R.
-351-52.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°95-638 du 6 mai 1995 - art. 6 () JORF 7 mai 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-49 à R351-52
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
-###### Article R362-20
-
-Les représentants des organisations professionnelles de bailleurs, de locataires et de gestionnaires nommés au conseil
-départemental de l'habitat au titre des a, 2° et 3° de l'article R. 362-10, forment la commission spécialisée des rapports
-locatifs.
-
-Les deux derniers alinéas de l'article R. 362-18 s'appliquent à la commission. La conclusion des accords collectifs de
-location négociés par secteur locatif, entre une ou plusieurs organisations de bailleurs et de locataires, s'opère au sein de
-la commission spécialisée des rapports locatifs.
-
-**Nota:**
-
-NOTA : L'article 2 du décret n° 2005-260 énonce : "Dans chaque département, la commission spécialisée des rapports locatifs,
-dans sa composition existant au jour de l'entrée en vigueur du présent décret, demeure en fonction. Les dispositions de
-l'article R. 362-20, dans sa rédaction antérieure à l'entrée en vigueur du présent décret, lui demeurent applicables".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°90-779 du 31 août 1990 - art. 2 () JORF 6 septembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L351-14, R351-30, R351-48, R351-49, R351-50, R351-51, R351-52, R351-53 R362-10, R362-10, R362-18
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-30 (M)
-	  - Code de la construction et de l'habitation. - art. R351-48 (M)
-	  - Code de la construction et de l'habitation. - art. R351-49 (M)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-51 (M)
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R362-18 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
@@ -68352,31 +68037,31 @@ d'habitations à loyer modéré dont il est issu.
 
 ###### Article R*421-1-1
 
-I. - Lorsque le rattachement d'un office public d'aménagement et de construction à une nouvelle collectivité territoriale ou
-à un nouvel établissement public de coopération intercommunale, le changement de son appellation ou la fusion de plusieurs
+I.-Lorsque le rattachement d'un office public d'aménagement et de construction à une nouvelle collectivité territoriale ou à
+un nouvel établissement public de coopération intercommunale, le changement de son appellation ou la fusion de plusieurs
 établissements publics d'habitations à loyer modéré comprenant au moins un office public d'aménagement et de construction est
 demandé en application de l'article L. 421-2, la demande est présentée au préfet du département dans lequel l'office public
 d'aménagement et de construction a son siège ou, en cas de changement de collectivité ou d'établissement de rattachement ou
 de fusion, au préfet du département où il aura son siège. Le préfet se prononce dans un délai de six mois au plus, après avis
-du ou des conseils d'administration des établissements publics d'habitation à loyer modéré en cause, du conseil départemental
-de l'habitat du département dans lequel l'office a ou aura son siège social et du Conseil supérieur des habitations à loyer
-modéré. L'absence d'arrêté pris dans le délai vaut rejet de la demande.
+du ou des conseils d'administration des établissements publics d'habitation à loyer modéré en cause, du comité régional de
+l'habitat de la région dans laquelle l'office a ou aura son siège social et du Conseil supérieur des habitations à loyer
+modéré.L'absence d'arrêté pris dans le délai vaut rejet de la demande. 
 
-II. - L'organisme résultant de la fusion de plusieurs établissements publics d'habitations à loyer modéré comprenant au moins
-un office public d'aménagement et de construction est un office public d'aménagement et de construction.
+II.-L'organisme résultant de la fusion de plusieurs établissements publics d'habitations à loyer modéré comprenant au moins
+un office public d'aménagement et de construction est un office public d'aménagement et de construction. 
 
-Dans son appellation figurent les mots : "office public d'aménagement et de construction". Dans tous les actes ou documents
-destinés aux tiers dans lesquels l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots :
-"office public d'aménagement et de construction" ou de l'acronyme : "OPAC".
+Dans son appellation figurent les mots : " office public d'aménagement et de construction ". Dans tous les actes ou documents
+destinés aux tiers dans lesquels l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots : "
+office public d'aménagement et de construction " ou de l'acronyme : " OPAC ". 
 
-III. - En cas de fusion, les membres du conseil d'administration du nouvel office public sont désignés dans les conditions
+III.-En cas de fusion, les membres du conseil d'administration du nouvel office public sont désignés dans les conditions
 prévues à l'article R. 421-7. Les membres élus par les locataires dans les conseils d'administration des établissements
 publics ayant concouru à la fusion désignent parmi eux, dans le délai d'un mois suivant l'arrêté préfectoral mentionné au I,
 les trois représentants des locataires appelés à siéger dans le nouveau conseil d'administration jusqu'à la prochaine
 élection ; à défaut, le préfet désigne parmi eux les représentants des locataires à raison d'un membre de chacune des trois
 listes ayant obtenu aux dernières élections le plus fort pourcentage de voix, calculé en comparant le nombre de suffrages
 recueillis par chaque liste au nombre total des électeurs dans l'ensemble des établissements publics ayant concouru à la
-fusion.
+fusion. 
 
 En cas de changement de collectivité ou d'établissement public de rattachement, l'organe délibérant de la nouvelle
 collectivité ou du nouvel établissement de rattachement désigne les sept membres appelés à siéger au conseil d'administration
@@ -68388,14 +68073,18 @@ en application du 1° de l'article R. 421-7.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L421-2, R421-7
-	  - Code de la construction et de l'habitation. - art. L421-2 (M)
+	  - Code de la construction et de l'habitation. - art. L421-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-7 (V)
 
 
 ###### Article R*421-2
@@ -69351,9 +69040,8 @@ privilégié consentis par la Caisse nationale de crédit agricole, la Caisse de
 ###### Article R421-32
 
 Les décrets portant création des offices publics d'aménagement et de construction en application de l'article L. 421-2 sont
-pris après avis du ou des conseils départementaux de l'habitat compétents en application du g de l'article R. 362-1 et du
-Conseil supérieur des habitations à loyer modéré. Les offices ainsi créés sont soumis aux dispositions des articles R.
-421-1-1, R. 421-2 et R. 421-4 à R. 421-31.
+pris après avis du ou des comités régionaux de l'habitat compétents et du Conseil supérieur des habitations à loyer modéré.
+Les offices ainsi créés sont soumis aux dispositions des articles R. 421-1-1, R. 421-2 et R. 421-4 à R. 421-31.
 
 **Liens relatifs à cet article**
 
@@ -69368,13 +69056,18 @@ Conseil supérieur des habitations à loyer modéré. Les offices ainsi créés 
 
 	**Modifié par**:
 
-	  - Décret n°2003-318 2003-04-01 art. 1 C JORF 8 avril 2003
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L421-2, R362-1, R421-1-1, R421-2, R421-4 à R421-31
-	  - Code de la construction et de l'habitation. - art. L421-2 (M)
-	  - Code de la construction et de l'habitation. - art. R362-1 (M)
+	  - Code de la propriété intellectuelle - art. R421-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (V)
 
 
 ##### Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.
@@ -69556,9 +69249,9 @@ précisées aux articles R. 421-4 et R. 421-4-1.
 
 ###### Article R*421-51-1
 
-I. - Les offices publics d'habitations à loyer modéré sont créés, en application de l'article L. 421-4, par décret pris après
-avis du ou des conseils départementaux de l'habitat compétents en application du g de l'article R. 362-2 et du Conseil
-supérieur des habitations à loyer modéré. Leur dissolution est prononcée dans les mêmes formes.
+I.-Les offices publics d'habitations à loyer modéré sont créés, en application de l'article L. 421-4, par décret pris après
+avis du ou des comités régionaux de l'habitat compétents et du Conseil supérieur des habitations à loyer modéré. Leur
+dissolution est prononcée dans les mêmes formes. 
 
 Lorsque le rattachement d'un office public d'habitations à loyer modéré à une nouvelle collectivité territoriale ou à un
 nouvel établissement public de coopération intercommunale, le changement de son appellation ou la fusion de plusieurs offices
@@ -69566,26 +69259,26 @@ publics d'habitations à loyer modéré est demandé en application de l'article
 département dans lequel l'office public d'habitations à loyer modéré a son siège ou, en cas de changement de collectivité ou
 d'établissement de rattachement ou de fusion, au préfet du département où il aura son siège. Le préfet se prononce dans un
 délai de six mois au plus, après avis du ou des conseils d'administration des offices publics d'habitation à loyer modéré en
-cause, du conseil départemental de l'habitat du département dans lequel l'office a ou aura son siège social et du Conseil
-supérieur des habitations à loyer modéré. L'absence d'arrêté pris dans le délai vaut rejet de la demande.
+cause, du comité régional de l'habitat de la région dans laquelle l'office a ou aura son siège social et du Conseil supérieur
+des habitations à loyer modéré.L'absence d'arrêté pris dans le délai vaut rejet de la demande. 
 
-II. - L'organisme résultant de la fusion de plusieurs organismes publics d'habitations à loyer modéré est un office public
+II.-L'organisme résultant de la fusion de plusieurs organismes publics d'habitations à loyer modéré est un office public
 d'habitations à loyer modéré, sauf s'il est recouru à la procédure de transformation en office public d'aménagement et de
-construction prévue à l'article R. 421-1.
+construction prévue à l'article R. 421-1. 
 
 Si l'organisme résultant de la fusion est un office public d'habitations à loyer modéré, il comporte dans son appellation les
-mots : "office public d'habitations à loyer modéré". Dans tous les actes ou documents destinés aux tiers dans lesquels
-l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots : "office public d'habitations à loyer
-modéré" ou de l'acronyme : "OPHLM".
+mots : " office public d'habitations à loyer modéré ". Dans tous les actes ou documents destinés aux tiers dans lesquels
+l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots : " office public d'habitations à loyer
+modéré " ou de l'acronyme : " OPHLM ". 
 
-III. - En cas de fusion, les membres du conseil d'administration du nouvel office public d'habitations à loyer modéré sont
+III.-En cas de fusion, les membres du conseil d'administration du nouvel office public d'habitations à loyer modéré sont
 désignés dans les conditions prévues à l'article R. 421-55. Les membres élus par les locataires dans les conseils
 d'administration des établissements publics ayant concouru à la fusion désignent parmi eux, dans le délai d'un mois suivant
 l'arrêté préfectoral mentionné au I, les trois représentants des locataires appelés à siéger dans le nouveau conseil
 d'administration jusqu'à la prochaine élection ; à défaut, le préfet désigne parmi eux les représentants des locataires à
 raison d'un membre de chacune des trois listes ayant obtenu aux dernières élections le plus fort pourcentage de voix calculé
 en comparant le nombre de suffrages recueillis par chaque liste au nombre total des électeurs dans l'ensemble des
-établissements publics ayant concouru à la fusion.
+établissements publics ayant concouru à la fusion. 
 
 En cas de changement de collectivité ou d'établissement public de rattachement d'un office public d'habitations à loyer
 modéré, l'organe délibérant de la nouvelle collectivité ou du nouvel établissement de rattachement désigne les cinq membres
@@ -69597,15 +69290,20 @@ appelés à siéger au conseil d'administration en application du 1° de l'artic
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+	  - Décret n°2005-260 2005-03-23 art. 3 VI, VIII JORF 24 mars 2005
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L421-4, R362-2, R421-1, R421-55
 	  - Code de la construction et de l'habitation. - art. L421-4 (M)
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-55 (Ab)
 
 
 ###### Article R*421-52
@@ -69615,9 +69313,9 @@ publics groupant des collectivités locales peut être étendue, à tout ou part
 
 Cette extension de compétence est décidée, à la demande du conseil d'administration de l'office, sur avis conforme de la
 collectivité locale ou de l'établissement public de rattachement, et des autres collectivités locales intéressées et après
-avis du conseil départemental de l'habitat :
+avis du comité régional de l'habitat :
 
-Par arrêté du préfet du département si l'avis du coseil départemental de l'habitat est favorable ;
+Par arrêté du préfet du département si l'avis du conseil départemental de l'habitat est favorable ;
 
 Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur après avis du
 conseil supérieur des habitations à loyer modéré dans le cas contraire.
@@ -69625,11 +69323,11 @@ conseil supérieur des habitations à loyer modéré dans le cas contraire.
 La compétence territoriale des offices publics d'habitations à loyer modéré départementaux peut être étendue à la demande des
 collectivités locales intéressées, à tout ou partie des départements limitrophes du département où se trouve leur siège.
 
-Cette extension de compétence est décidée, après avis des conseils départementaux de l'habitat des départements concernés,
-sur avis conforme des collectivités locales intéressées :
+Cette extension de compétence est décidée, après avis du ou des comités régionaux de l'habitat de la ou des régions
+concernées, sur avis conforme des collectivités locales intéressées :
 
 Par arrêté conjoint des préfets du département du siège et du ou des départements visés par l'extension de compétence si
-l'avis des conseils départementaux de l'habitat est favorable ;
+l'avis du ou des comités régionaux de l'habitat est favorable ;
 
 Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur, après avis du
 conseil supérieur des habitations à loyer modéré, dans le cas contraire.
@@ -69642,8 +69340,11 @@ conseil supérieur des habitations à loyer modéré, dans le cas contraire.
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cité par**:
 
@@ -76057,34 +75758,6 @@ gérer les immeubles.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-###### Article R432-3
-
-L'autorisation prévue à l'article L. 432-1 est donnée par décret en Conseil d'Etat pris sur le rapport du ministre de
-l'intérieur et du ministre chargé de la construction et de l'habitation après avis du conseil départemental de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 192 AL. 1 (pour partie)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L432-1 (M)
-
-
 ##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.
 
 ###### Article R432-4
@@ -77139,29 +76812,29 @@ associations et les établissements publics mentionnés aux 2° et 3°.
 Pour résoudre des problèmes graves de vacance de logements, faciliter les échanges de logements dans l'intérêt des familles,
 permettre l'installation d'activités nécessaires à la vie économique et sociale des ensembles d'habitations, ainsi que pour
 favoriser la mixité sociale dans les grands ensembles et les quartiers mentionnés au I de l'article 1466 A du code général
-des impôts, le préfet peut, par arrêté pris après avis du conseil départemental de l'habitat, fixer des règles dérogeant
-localement et temporairement aux conditions de ressources mentionnées au 1° de l'article R. 441-1. Cet arrêté détermine les
-plafonds de ressources dérogatoires applicables. Il désigne les immeubles ou les secteurs qui font l'objet de la dérogation
-ainsi que la durée de celle-ci. Dans les mêmes conditions, les dérogations aux plafonds de ressources peuvent également être
-accordées, en dehors des grands ensembles et des quartiers mentionnés au I de l'article 1466 A du code général des impôts,
-pour les logements d'un même immeuble ou ensemble immobilier lorsque ceux-ci sont occupés à plus de 65 % par des ménages
-bénéficiant de l'aide personnalisée au logement prévue aux articles L. 351-1 et suivants.
+des impôts, le préfet peut fixer par arrêté des règles dérogeant localement et temporairement aux conditions de ressources
+mentionnées au 1° de l'article R. 441-1. Cet arrêté détermine les plafonds de ressources dérogatoires applicables. Il désigne
+les immeubles ou les secteurs qui font l'objet de la dérogation ainsi que la durée de celle-ci. Dans les mêmes conditions,
+les dérogations aux plafonds de ressources peuvent également être accordées, en dehors des grands ensembles et des quartiers
+mentionnés au I de l'article 1466 A du code général des impôts, pour les logements d'un même immeuble ou ensemble immobilier
+lorsque ceux-ci sont occupés à plus de 65 % par des ménages bénéficiant de l'aide personnalisée au logement prévue aux
+articles L. 351-1 et suivants.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1466 A
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-836 du 22 septembre 1999 - art. 1 () JORF 25 septembre 1999
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1466 A (V)
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-1 (V)
 
 	**Cité par**:
 
@@ -79003,13 +78676,13 @@ A défaut d'opposition du préfet ou du maire notifiée dans le délai de deux m
 
 Tout changement d'affectation, toute location ou sous-location partielle ou totale, meublée ou non meublée, d'une habitation
 à loyer modéré par l'accédant à la propriété est subordonné, pendant toute la durée du concours de l'Etat, à l'autorisation
-de l'organisme par l'intermédiaire duquel ce concours a été obtenu. L'autorisation est donnée sur avis favorable du conseil
-départemental de l'habitat. Toutefois, n'ont pas à solliciter cette autorisation, sauf en cas de changement d'affectation,
-les accédants à la propriété justifiant, auprès de l'organisme susmentionné, que l'inoccupation d'un logement ou sa location
-est motivée par des raisons professionnelles rendant incompatible l'occupation personnelle et familiale de leur logement avec
-l'exercice de leurs activités professionnelles dans un nouveau lieu de travail. Ils doivent indiquer à l'organisme la date à
-laquelle le logement cesse d'être leur résidence principale. A l'expiration d'un délai de trois ans à compter de cette date,
-les intéressés doivent solliciter l'autorisation susmentionnée. Cette autorisation ne pourra être inférieure à trois ans.
+de l'organisme par l'intermédiaire duquel ce concours a été obtenu. Toutefois, n'ont pas à solliciter cette autorisation,
+sauf en cas de changement d'affectation, les accédants à la propriété justifiant, auprès de l'organisme susmentionné, que
+l'inoccupation d'un logement ou sa location est motivée par des raisons professionnelles rendant incompatible l'occupation
+personnelle et familiale de leur logement avec l'exercice de leurs activités professionnelles dans un nouveau lieu de
+travail. Ils doivent indiquer à l'organisme la date à laquelle le logement cesse d'être leur résidence principale. A
+l'expiration d'un délai de trois ans à compter de cette date, les intéressés doivent solliciter l'autorisation susmentionnée.
+Cette autorisation ne pourra être inférieure à trois ans. 
 
 Le prix de location ne peut être supérieur au montant des loyers prévus aux articles L. 442-1 à L. 442-9.
 
@@ -79024,11 +78697,11 @@ accordés.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L442-1 à L442-9
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
 ###### Article R443-1
