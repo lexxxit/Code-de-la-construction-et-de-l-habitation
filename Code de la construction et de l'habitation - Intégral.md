@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-15
+Version Consolidée au 1983-06-19
 
 # Partie législative
 
@@ -35660,15 +35660,14 @@ financent les travaux visés à l'article R. 331-63 (4° et 5°).
 
 ###### Article R331-65
 
-Les banques ou établissements [*prêteurs*] qui ont passé avec l'Etat ou avec le Crédit foncier de France agissant pour le
+Les banques ou établissements [*prêteurs*] qui ont passé avec l'Etat ou avec le Crédit Foncier de France agissant pour le
 compte de l'Etat, une convention conforme à une convention-type, approuvée par arrêté du ministre chargé des finances et
 reproduite en annexe au présent code, sont habilités à consentir des prêts conventionnés.
 
+La Caisse nationale d'épargne est également habilitée à consentir des prêts conventionnés dans des conditions conformes à
+celles fixées par la convention type mentionnée à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1287 1977-11-22 art. 3
 
 	**Cité par**:
 
@@ -35684,7 +35683,7 @@ reproduite en annexe au présent code, sont habilités à consentir des prêts c
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
