@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-02-20
 
 # Partie législative
 
@@ -13261,6 +13261,29 @@ Il est ultérieurement révisé chaque année dans les conditions fixées à cet
 	  - Code de la construction et de l'habitation. - art. R353-82 (Ab)
 
 
+###### Article L353-9-1
+
+Lorsqu'un logement conventionné par son propriétaire en application du 4° de l'article L. 351-2 est pris à bail par un
+organisme d'habitations à loyer modéré dans les conditions fixées par les articles L. 444-1 et suivants, le sous-locataire
+est assimilé à un locataire pour bénéficier de l'aide personnalisée au logement et l'organisme d'habitations à loyer modéré
+est assimilé au bailleur du logement pour le versement de cette aide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 2 () JORF 20 février 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L444-1 (V)
+
+
 ###### Article L353-10
 
 Toute personne qui, à l'aide soit d'une dissimulation, soit de tout autre moyen frauduleux, impose ou tente d'imposer au
@@ -14163,6 +14186,9 @@ fonctionnement ou être syndics de ces copropriétés.
 maître d'ouvrage. Un décret en Conseil d'Etat définit les conditions de financement de ces hébergements et la nature des
 organismes pour le compte desquels ils sont réalisés.
 
+Ils peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les
+conditions fixées par les articles L. 444-1 et suivants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -14209,7 +14235,7 @@ organismes pour le compte desquels ils sont réalisés.
 
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 40 () JORF 24 juillet 1994
+	  - Loi n°98-87 du 19 février 1998 - art. 2 () JORF 20 février 1998
 
 	**Anciens textes**:
 
@@ -14517,7 +14543,10 @@ la réalisation d'opérations d'aménagement, lorsqu'elles ont été agréées �
 d'administrateurs de biens, des logements situés dans des copropriétés connaissant des difficultés importantes de
 fonctionnement ou être syndics de ces copropriétés ;
 
-- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1.
+- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
+
+Elles peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les
+conditions fixées par les articles L. 444-1 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -14565,10 +14594,11 @@ fonctionnement ou être syndics de ces copropriétés ;
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 18 () JORF 15 novembre 1996
+	  - Loi n°98-87 du 19 février 1998 - art. 2 () JORF 20 février 1998
 
 	**Anciens textes**:
 
@@ -18580,6 +18610,161 @@ Ce taux s'applique aux contrats en cours, nonobstant toute clause contraire.
 	  - Code de la construction et de l'habitation. - art. L432-3 (V)
 	  - Code de la construction et de l'habitation. - art. L432-4 (V)
 	  - Code de la construction et de l'habitation. - art. L432-5 (Ab)
+
+
+#### Chapitre IV : Prise à bail de logements vacants par les organismes d'habitations à loyer modéré.
+
+###### Article L444-1
+
+Les offices publics d'habitations à loyer modéré, les offices publics d'aménagement et de construction, les sociétés anonymes
+coopératives de production d'habitations à loyer modéré visées à l'article L. 422-3 du présent code et les sociétés anonymes
+d'habitations à loyer modéré peuvent prendre à bail des logements vacants pour les donner en sous-location à des personnes
+physiques dans les conditions fixées par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1998 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. L353-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-4 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+
+
+###### Article L444-2
+
+Le contrat de prise à bail ne peut être conclu qu'avec l'accord du maire de la commune, site du logement concerné, lorsque
+dans cette commune le nombre des logements locatifs sociaux, mentionnés à l'article L. 2334-17 du code général des
+collectivités territoriales, représente au 1er janvier de la pénultième année au moins 20 % des résidences principales au
+sens du II de l'article 1411 du code général des impôts. Le logement pris à bail doit être vacant depuis deux ans au moins et
+appartenir à une ou des personnes physiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
+
+
+###### Article L444-3
+
+Le logement donné en sous-location par l'organisme d'habitations à loyer modéré doit satisfaire aux normes minimales de
+confort et d'habitabilité mentionnées à l'article 25 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser
+l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
+
+L'organisme d'habitations à loyer modéré peut être chargé par le propriétaire de réaliser en son nom et pour son compte les
+travaux permettant le respect de ces normes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23 art. 25
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
+
+
+###### Article L444-4
+
+Le logement est attribué au sous-locataire selon les règles fixées par la section 1 du chapitre Ier du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
+
+
+###### Article L444-5
+
+Les dispositions des articles 3 à 7, 9-1, 12, des deuxième et troisième alinéas du I de l'article 15, du d de l'article 17 et
+des articles 21 à 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification
+de la loi n° 86-1290 du 23 décembre 1986 sont applicables au contrat de sous-location. Les dispositions de l'article 14 de la
+même loi sont applicables au contrat de sous-location, lorsque le bénéficiaire du transfert de ce contrat remplit les
+conditions pour l'attribution d'un logement d'habitations à loyer modéré.
+
+Le loyer de sous-location ne peut excéder un plafond fixé selon les zones géographiques par l'autorité administrative.
+
+L'organisme d'habitations à loyer modéré ne peut donner congé au sous-locataire que pour un motif légitime et sérieux,
+notamment l'inexécution par le sous-locataire de l'une des obligations lui incombant. Le congé doit mentionner le motif
+allégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23 art. 14
+	  - Loi n°89-462 1989-07-06 art. 21 à 24
+	  - Code de la construction et de l'habitation 3 à 7, 9-1, 12, 15, 17
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1998 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. L444-7 (V)
+	  - Code de la construction et de l'habitation. - art. L444-9 (V)
+	  - Code de la construction et de l'habitation. - art. R442-5 (V)
+
+
+###### Article L444-6
+
+Si, à l'expiration du contrat de location passé entre le propriétaire et l'organisme d'habitations à loyer modéré, il n'a pas
+été conclu de contrat de location entre le propriétaire et le sous-locataire, ce dernier est déchu de tout titre d'occupation
+sur le logement que l'organisme est tenu de restituer au propriétaire libre de toute occupation.
+
+Trois mois avant l'expiration du contrat entre le propriétaire et l'organisme d'habitations à loyer modéré, ce dernier est
+tenu de proposer au sous-occupant qui n'a pas conclu de contrat de location avec le propriétaire et qui remplit les
+conditions pour l'attribution d'un logement d'habitations à loyer modéré la location d'un logement correspondant à ses
+besoins et à ses possibilités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
 
 
 ### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
