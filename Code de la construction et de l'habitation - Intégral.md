@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-01-28
+Version Consolidée au 1994-02-10
 
 # Partie législative
 
@@ -7650,7 +7650,7 @@ impôts ;
 
 ###### Article L302-6
 
-A compter du 1er janvier 1994, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
+A compter du 1er janvier 1995, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
 compétences et dans le cadre des dispositions du présent chapitre, les mesures propres à permettre l'acquisition de terrains
 ou de locaux nécessaires à la réalisation de logements à usage locatif au sens du 3° de l'article L. 351-2.
 
@@ -7663,15 +7663,9 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
-	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
-	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
-
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
 
 	**Cité par**:
 
@@ -7682,6 +7676,11 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 	  - Code de la construction et de l'habitation. - art. R302-14 (M)
 	  - Code de la construction et de l'habitation. - art. R302-15 (V)
 	  - Code de la construction et de l'habitation. - art. R302-28 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
+	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
 
 	**Cite**:
 
@@ -7964,7 +7963,7 @@ conditions définies aux articles L. 302-1 à L. 302-3.
 
 ###### Article L302-5-1
 
-Si, dans un délai de trente mois à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
+Si, dans un délai de quatre ans à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
 visée à l'article L. 302-5, n'est pas couverte par un programme local de l'habitat, le représentant de l'Etat peut, pour
 répondre aux fins poursuivies par cette loi, selon les conditions fixées par décret en Conseil d'Etat, exercer par
 substitution, au nom de l'Etat, le droit de préemption urbain prévu par les articles L. 211-1 et suivants du code de
@@ -7982,19 +7981,19 @@ d'aménagement différé et à la modification ou à la révision par l'Etat des
 	  - Loi n°91-662 1991-07-13
 	  - Code de l'urbanisme - art. L211-1 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
-
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
 
 	**Cité par**:
 
 	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
 	  - Code de l'urbanisme - art. R211-9 (Ab)
 	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 4 () JORF 24 janvier 1995
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
@@ -15336,18 +15335,16 @@ Les organismes d'habitations à loyer modéré peuvent exiger des locataires don
 pour l'attribution du logement à loyer modéré qu'ils occupent le paiement d'un supplément en sus du loyer principal et des
 charges locatives. Le montant de ce supplément est déterminé selon un barème qu'ils établissent par immeuble ou groupe
 d'immeubles, en fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du nombre et de l'âge des
-personnes vivant au foyer. A défaut d'opposition motivée du représentant de l'Etat dans le département dans le délai d'un
-mois, ce barème est exécutoire.
+personnes vivant au foyer. Le représentant de l'Etat dans le département du siège de l'organisme et celui du département du
+lieu de situation des logements reçoivent communication du barème. A défaut d'opposition motivée du représentant de l'Etat
+dans le département du siège de l'organisme dans le délai d'un mois à compter de la plus tardive de ces communications, ce
+barème est exécutoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31
-
-	**Créé par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 36 () JORF du 24 décembre 1986
 
 	**Liens**:
 
@@ -15365,6 +15362,7 @@ mois, ce barème est exécutoire.
 	  - TXT_SOURCE: Arrêté du 12 août 1992
 	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. ANNEXE (V)
+	  - SPEC_APPLI: Loi n°94-112 1994-02-09 art. 22 IV
 
 	**Cité par**:
 
@@ -15388,6 +15386,10 @@ mois, ce barème est exécutoire.
 	  - Code de la construction et de l'habitation. - art. L442-5-1 (V)
 	  - Code de la construction et de l'habitation. - art. L452-4 (V)
 	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 22 (V) JORF 10 février 1994
 
 
 #### Chapitre II : Loyers et divers.
@@ -15481,8 +15483,9 @@ la limite de leurs loyers plafonds.
 ###### Article L442-1-2
 
 Toute délibération d'un organisme d'habitations à loyer modéré relative aux loyers applicables à compter du 1er juillet 1987
-est transmise deux mois avant son entrée en vigueur au représentant de l'Etat dans le département. Celui-ci peut, dans le
-délai d'un mois suivant cette transmission, demander à l'organisme une nouvelle délibération.
+est transmise deux mois avant son entrée en vigueur au représentant de l'Etat dans le département du siège de l'organisme et
+à celui du département du lieu de situation des logements. Le représentant de l'Etat dans le département du siège de
+l'organisme peut, dans le délai d'un mois à compter de la plus tardive de ces transmissions,.
 
 **Liens relatifs à cet article**
 
@@ -15490,9 +15493,13 @@ délai d'un mois suivant cette transmission, demander à l'organisme une nouvell
 
 	  - Décret n°78-621 1978-05-31
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 37 () JORF du 24 décembre 1986
+	  - SPEC_APPLI: Loi n°94-112 1994-02-09 art. 22 IV
+
+	**Modifié par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 22 (V) JORF 10 février 1994
 
 	**Cité par**:
 
@@ -20232,58 +20239,6 @@ la commission départementale prévue à l'article 6 du décret n° 78-109 du 1e
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation R111-19
-
-
-##### Section 3 : Personnes handicapées.
-
-###### Article R*111-19
-
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
-peut, par dérogation aux dispositions de la présente section, fixer des règles spéciales à certaines catégories de logements
-destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
-permanente.
-
-Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
-tant que de besoin, des dérogations aux dispositions de la présente section pour la réalisation d'habitations ayant un
-caractère expérimental.
-
-Le ministre chargé de la construction et de l'habitation peut accorder des dérogations aux dispositions de la présente
-section pour la réalisation de bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental rendant
-momentanément impossible leur application.
-
-Le préfet peut accorder des dérogations aux dispositions de la présente section lorsque les caractéristiques du terrain ou la
-présence de constructions existantes fait obstacle à leur application. Le préfet se prononce par arrêté après consultation de
-la commission départementale prévue à l'article 6 du décret n° 78-109 du 1er février 1978.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°78-109 du 1 février 1978 - art. 6, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°80-637 1980-08-04 ART. 4 JORF 10 AOUT 1980
-
-	**Cité par**:
-
-	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
-	  - Arrêté du 1 août 2006 - art. 1 (VT)
-	  - Arrêté du 22 mars 2007 - art. 4 (V)
-	  - Arrêté du 30 novembre 2007 (V)
-	  - Décret n°2016-1311 du 4 octobre 2016 - art. 2
-	  - Arrêté du 20 avril 2017 (V)
-	  - Arrêté du 20 avril 2017 - art. 1 (VD)
-	  - Arrêté du 20 avril 2017 - art. 21 (VD)
-	  - Code de la construction et de l'habitation. - art. R161-5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation R111-18-4
 
 
 ##### Section 4 : Caractéristiques thermiques et performances énergétiques.
