@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-03-21
+Version Consolidée au 1998-05-06
 
 # Partie législative
 
@@ -44631,6 +44631,152 @@ de l'habitation et du ministre chargé des finances.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+#### Chapitre VI : Amélioration, transformation ou aménagement de logements locatifs sociaux conventionnés.
+
+###### Article R*326-1
+
+Les travaux d'amélioration, de transformation ou d'aménagement réalisés dans des logements sociaux à usage locatif doivent
+faire l'objet d'une décision favorable du préfet pour l'application des dispositions du c du premier alinéa du 7° bis de
+l'article 257 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+
+###### Article R*326-2
+
+L'octroi de la décision favorable prévue à l'article R. 326-1 est subordonné à l'existence d'une convention telle que définie
+aux 2° et 3° de l'article L. 351-2, dont la durée restant à courir ne peut être inférieure à cinq ans.
+
+Peuvent faire l'objet de cette décision les travaux d'amélioration, de transformation ou d'aménagement mentionnés à l'article
+172 A de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 172 A
+	  - Code de la construction et de l'habitation R326-1, L351-2
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+
+###### Article R*326-3
+
+La décision favorable prévue à l'article R. 326-1 est prise par le préfet. Elle est accordée au vu d'un programme de travaux
+établi pour une année civile, dès lors que ces travaux sont conformes à ceux définis à l'article 172 A de l'annexe II au code
+général des impôts. Dans ce cas, un état récapitulatif des travaux par immeuble doit être joint. Toutefois, cette décision
+peut porter sur un programme de travaux déterminé pour un immeuble.
+
+La décision favorable est notifiée au demandeur et est transmise au directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 172 A
+	  - Code de la construction et de l'habitation R326-1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+
+###### Article R*326-4
+
+La décision favorable prévue à l'article R. 326-1 doit être antérieure au début des travaux.
+
+Le maître d'ouvrage peut exécuter ceux des travaux qui présentent un caractère d'urgence avant la notification d'une décision
+favorable, à condition d'en informer préalablement le préfet, qui en accuse réception, et de déposer une demande de décision
+favorable avec état récapitulatif des travaux dans un délai de huit jours suivant la date de l'accusé de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R326-1
+
+
+###### Article R*326-5
+
+Si la décision favorable porte sur un programme de travaux établi pour une année civile, les travaux doivent commencer durant
+ladite année et doivent être achevés dans un délai de deux ans à compter de la date de décision. Dans ce cas, les
+bénéficiaires de la décision informent le préfet et le directeur des services fiscaux de la nature des travaux effectivement
+réalisés au plus tard le 31 janvier suivant l'année visée par la décision ; pour les travaux non encore achevés à cette date,
+l'information est transmise à la date d'achèvement des travaux par immeuble.
+
+Si la décision favorable porte sur un programme de travaux déterminé par immeuble, les travaux doivent commencer dans un
+délai de six mois à compter de la décision prévue à l'article R. 326-1 et doivent être achevés dans un délai de deux ans à
+compter de cette même date. Une prorogation de ce délai peut être accordée par le préfet, dans la limite d'un an.
+
+A la date d'achèvement des travaux, les bénéficiaires de la décision favorable informent le préfet et le directeur des
+services fiscaux de la nature des travaux effectivement réalisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R326-1
 
 
 ### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
