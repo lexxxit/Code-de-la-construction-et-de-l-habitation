@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-02-25
+Version Consolidée au 1983-03-11
 
 # Partie législative
 
@@ -36047,6 +36047,45 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
+###### Article R351-4-1
+
+Lorsque les conditions d'attribution prévues par les articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3 sont remplies au
+cours d'un mois civil et que le montant de l'aide personnalisée due au titre de ce mois est supérieur au montant prévu à
+l'article R. 351-22, le droit à l'aide personnalisée est ouvert à partir du premier jour de ce mois. Lorsque l'une de ces
+conditions cesse d'être remplie au cours d'un mois civil, le droit à l'aide personnalisée est éteint à partir du premier jour
+du mois civil suivant. Toutefois, lorsque le locataire quitte les lieux au cours d'un mois civil, le droit est éteint à
+partir du premier jour de ce mois, si le bail expire avant le dernier jour de ce même mois civil.
+
+En cas de décès du bénéficiaire, le droit à l'aide personnalisée est éteint à partir du premier jour du mois civil suivant
+celui au cours duquel survient le décès [*point de départ*].
+
+Lorsqu'un changement de situation a pour effet soit d'ouvrir le droit à l'aide personnalisée à une personne qui remplit les
+conditions prévues aux articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3, soit de modifier en cours de période de paiement
+le droit du bénéficiaire, l'ouverture ou la révision du droit prend effet à partir du premier jour du mois civil qui suit
+celui au cours duquel est survenu le changement de situation. Si la situation considérée prend fin, la clôture ou la révision
+du droit prend effet le premier jour du mois civil au cours duquel la situation cesse, sauf lorsque la clôture ou la révision
+du droit résulte du décès du conjoint du bénéficiaire ou d'une personne à charge, auquel cas elle prend effet le premier jour
+du mois civil suivant le décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 1 JORF 11 MARS 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-22 (M)
+	  - Code de la construction et de l'habitation. - art. R351-3 (M)
+
+
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
 ###### Article R351-8
@@ -36319,6 +36358,35 @@ lesquels le droit est ouvert.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R351-10 à R351-16
+
+
+##### Sous-section 3 : Conditions particulières.
+
+###### Article R351-17-1
+
+Lorsque la séparation prévue à l'article R. 351-17 (4e alinéa) intervient en cours de période de paiement, le droit à l'aide
+personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation et la révision du droit prend effet [*date*]
+le premier jour du mois civil suivant celui au cours duquel la séparation a eu lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 9 JORF 11 MARS 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-17 AL. 4
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-29 (M)
+	  - Code de la construction et de l'habitation. - art. R351-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
 ##### Sous-section 4 : Calcul de l'aide personnalisée au logement
@@ -41069,32 +41137,6 @@ acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
 	  - Code de la construction et de l'habitation. - art. L353-9 (V)
 
 
-###### Article R351-4-1
-
-Lorsque les conditions d'attribution prévues par les articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3 sont remplies au
-cours d'un mois et que le montant de l'aide personnalisée due au titre de ce mois est supérieur au montant prévu à l'article
-R. 351-22, le droit à l'aide personnalisée est ouvert au premier jour du mois considéré.
-
-Lorsqu'un changement de situation a pour effet soit d'ouvrir le droit à l'aide personnalisée d'une personne qui remplit les
-conditions prévues aux articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3, soit de modifier en cours de période de paiement
-le droit du bénéficiaire, l'ouverture ou la révision du droit prend effet le premier jour du mois qui suit celui au cours
-duquel est survenu le changement de situation, sous réserve que la situation nouvelle persiste à cette date.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-22 (M)
-	  - Code de la construction et de l'habitation. - art. R351-3 (M)
-
-
 ###### Article R351-5
 
 Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coefficient de prise
@@ -41366,13 +41408,19 @@ Lorsque le bénéficiaire ou son conjoint apporte la preuve de sa cessation d'ac
 la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une rente d'accident de
 travail ou de l'allocation aux adultes handicapés ou de l'allocation compensatrice, le revenu net imposable perçu par
 l'intéressé au cours de l'année civile de référence est affecté d'un abattement égal à 30 p. 100 [*taux*] des revenus
-d'activité. Cette mesure prend [*date*] effet le premier jour du mois suivant celui au cours duquel survient le changement de
-situation.
+d'activité.
 
-Elle est applicable à chaque renouvellement du droit tant que des revenus d'activité ont été perçus au cours de l'année
-civile de référence considérée.
+Cette mesure s'applique à partir du premier jour du mois civil suivant celui au cours duquel survient le changement de
+situation et, sous réserve des dispositions de l'alinéa 2, tant que les ressources perçues par l'intéressé au cours de
+l'année civile de référence comprennent des revenus d'activité [*point de départ*].    Lorsque le bénéficiaire ou son
+conjoint reprend une activité professionnelle rémunérée, l'abattement prévu au premier alinéa est supprimé à partir du
+premier jour du mois civil au cours duquel intervient la reprise d'activité.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Codifié par**:
 
@@ -41387,14 +41435,21 @@ civile de référence considérée.
 	  - Code de la construction et de l'habitation. - art. R351-5 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 2 JORF 11 MARS 1983
+
 
 ###### Article R351-11
 
-Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyers supplémentaires consécutives à une obligation
-de résidence séparée imposée par ses conditions de travail, il est procédé à partir du premier jour du mois suivant celui au
-cours duquel les charges apparaissent, à un abattement forfaitaire sur le revenu net imposable perçu par le ménage au cours
-de l'année civile de référence, dont le montant est fixé par arrêté conjoint des ministres chargés des finances, de la
-construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
+de résidence séparée imposée par ses conditions de travail, il est procédé, à partir du premier jour du mois civil suivant
+celui au cours duquel ces charges apparaissent, à un abattement forfaitaire sur le revenu net imposable perçu par le ménage
+au cours de l'année civile de référence dont le montant est fixé par arrêté conjoint des ministres chargés de la Sécurité
+sociale, du Budget, de l'Agriculture et du Logement.
+
+Lorsque les charges de loyer supplémentaires disparaissent, l'abattement prévu au premier alinéa est supprimé à partir du
+premier jour du mois civil au cours duquel lesdites charges disparaissent [*date d'effet*].
 
 **Liens relatifs à cet article**
 
@@ -41408,7 +41463,6 @@ construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 bis (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 quater (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 ter (M)
-	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Cité par**:
 
@@ -41416,10 +41470,14 @@ construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-65 (V)
 
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 3 JORF 11 MARS 1983
+
 
 ###### Article R351-12
 
-Il n'est pas tenu compte, à partir du premier jour du mois suivant celui au cours duquel survient l'événement ou le
+Il n'est pas tenu compte à partir du premier jour du mois civil suivant celui au cours duquel survient l'événement ou le
 changement de situation, sous réserve que le bénéficiaire en apporte la preuve, des ressources du conjoint :
 
 - soit décédé ;
@@ -41433,11 +41491,20 @@ demande conjointe en divorce, la convention temporaire passée à ce sujet entre
 
 - soit appelé sous les drapeaux ;
 
-- soit cessant toute activité professionnelle pour se consacrer /M/à un ou plusieurs enfants dont l'un au moins est âgé de
-moins de trois ans/M/DECR. 677 du 29 juin 1981 : à un enfant de moins de trois ans ou à plusieurs enfants// ;
+- soit cessant toute activité professionnelle pour se consacrer à un enfant de moins de trois ans ou à plusieurs enfants ;
 
 - soit détenu : les ressources du conjoint étant toutefois prises en considération s'il est placé sous le régime de semi-
 liberté.
+
+Lorsque le conjoint du bénéficiaire se trouve dans l'une des situations mentionnées au premier alinéa et que cette situation
+prend fin, il est tenu compte des ressources perçues par l'intéressé à partir du premier jour du mois civil au cours duquel :
+
+- soit la vie commune est reprise ;
+
+- soit la période d'accomplissement du service national ou de détention expire ;
+
+- soit les conditions relatives à l'âge ou au nombre d'enfants auxquels l'intéressé se consacre ne sont plus remplies ou il
+reprend une activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -41455,15 +41522,22 @@ liberté.
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 4 JORF 11 MARS 1983
+
 
 ###### Article R351-13
 
-Lorsque le bénéficiaire ou son conjoint se trouve depuis deux mois consécutifs à la date d'effet de la demande, ou pendant au
-moins deux mois consécutifs au cours de la période de paiement, en chômage total ou partiel indemnisé en application du titre
-V du livre III du Code du travail ou en vertu de régimes particuliers à la profession, les revenus d'activité perçus par
-l'intéressé pendant l'année civile de référence sont, tant que dure cette situation, affectés d'un abattement de 30 p. 100
-[*durée, taux*]. Cette mesure s'applique à partir du premier jour du mois suivant celui au cours duquel survient le
-changement de situation [*date d'effet*].
+Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande, ou
+pendant au moins deux mois consécutifs au cours de la période de paiement en chômage total ou partiel indemnisé en
+application du titre V du livre III du Code du travail ou en vertu de régimes particuliers à la profession, les revenus
+d'activité perçus par l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette
+mesure s'applique à partir du premier jour du mois civil suivant celui au cours duquel survient le changement de situation
+[*date d'effet*].
+
+Lorsque l'intéressé reprend une activité professionnelle rémunérée, l'abattement est supprimé à partir du premier jour du
+mois civil au cours duquel intervient la reprise d'activité.
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
@@ -41471,7 +41545,7 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	**Cite**:
 
-	  - Code du travail LIVRE III LIVRE V
+	  - Code du travail LIVRE III TITRE V
 
 	**Codifié par**:
 
@@ -41485,16 +41559,23 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 5 JORF 11 MARS 1983
+
 
 ###### Article R351-14
 
-Lorsque le bénéficiaire ou son conjoint en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
-demande ou au cours de la période de paiement, ne bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions
-fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le règlement annexé à la convention
-interprofessionnelle conclue dans le cadre de la loi n° 79-32 du 16 janvier 1979 susvisée, il n'est pas tenu compte à partir
-du premier jour du mois suivant celui au cours duquel survient le changement de situation, de cessation de l'indemnisation ou
-l'admission à l'allocation de fin de droits précités, et tant que cette situation se prolonge, des ressources perçues par
-l'intéressé au cours de l'année civile de référence.
+Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
+demande ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne bénéficie pas ou ne bénéficie plus
+d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le
+règlement annexe à la convention interprofessionnelle du 27 mars 1979 conclue en application de l'article L. 351-9 du Code du
+travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel intervient le
+changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation de fin de droits, des ressources
+perçues par l'intéressé au cours de l'année civile de référence.
+
+Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses ressources à partir du premier
+jour du mois civil au cours duquel intervient la reprise d'activité.
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
@@ -41504,11 +41585,6 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°79-32 1979-01-16
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-
 	**Cité par**:
 
 	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
@@ -41517,42 +41593,14 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Modifié par**:
 
-###### Article R351-15
-
-Lorsque le bénéficiaire ou son conjoint a retrouvé une activité professionnelle rémunérée :
-
-- au cours de la période de paiement, le montant de l'aide personnalisée est révisé en prenant à nouveau en considération les
-ressources perçues pendant l'année civile de référence, en application de l'article R. 351-5 ;
-
-- au terme de la période de paiement, le montant de l'aide personnalisée est calculé en prenant en considération les
-ressources définies à l'article R. 351-7.
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°83-176 1983-03-07 art. 7 JORF 11 mars 1983
+	  - Décret n°83-176 1983-03-07 ART. 6 JORF 11 MARS 1983
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
 
 
 ###### Article R351-16
@@ -41588,29 +41636,6 @@ période de différé d'amortissement.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-###### Article R351-17-1
-
-Lorsque la séparation [*légale ou de fait des conjoints*] prévue à l'article R. 351-17 (4ème alinéa) intervient en cours de
-période de paiement, le droit à l'aide personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation avec
-effet [*date*] au premier jour du mois suivant celui au cours duquel la séparation a eu lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-17 AL. 4
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-29 (M)
-	  - Code de la construction et de l'habitation. - art. R351-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
 ##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
