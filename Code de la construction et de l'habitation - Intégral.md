@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-01-05
+Version Consolidée au 1980-01-13
 
 # Partie législative
 
@@ -19170,6 +19170,139 @@ personnes physiques ou morales.
 	  - Code de la construction et de l'habitation. - art. R*161-3 (M)
 
 
+##### Section 1 : Equipement et répartition des frais dans les immeubles collectifs.
+
+###### Article R*131-2
+
+Dans les immeubles collectifs pourvus d'un chauffage commun à tout ou partie des locaux occupés à titre privatif et équipés
+d'appareils permettant de déterminer les quantités de chaleur fournies pour le chauffage de chaque local occupé à titre
+privatif, les frais de combustible ou d'énergie afférents au chauffage commun sont répartis entre les locaux desservis en
+distinguant, d'une part, les frais communs d'énergie et, d'autre part, les frais individuels d'énergie correspondant au coût
+des quantités de chaleur fournies à chaque local par les appareils de chauffage reliés à l'installation collective.
+
+Les frais communs d'énergie sont répartis entre les locaux proportionnellement au volume de ceux-ci. Les frais individuels
+sont répartis proportionnellement aux quantités de chaleur fournies à chaque local.
+
+En cas de chauffage exclusivement collectif, les frais communs d'énergie sont obtenus en multipliant le total des dépenses de
+combustible ou d'énergie par un coefficient égal à :
+
+0,50 pour les constructions ayant fait l'objet d'une demande de permis de construire, ou d'une déclaration préalable de
+travaux au sens de l'ancien article L. 430-3 du code de l'urbanisme, postérieurement au 30 juin 1975 en ce qui concerne les
+bâtiments à usage d'habitation ou au 19 septembre 1976 en ce qui concerne les bâtiments à usage autre que l'habitation ;
+
+0,40 pour les autres bâtiments.
+
+En cas d'installation mixte comprenant un équipement collectif complété par des émetteurs de chaleur individuels ayant le
+caractère d'immeubles par destination, les frais communs d'énergie sont égaux à la totalité des dépenses de combustible ou
+d'énergie afférentes au chauffage collectif [*calcul*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°2012-545 du 23 avril 2012 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R*131-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*131-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*131-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*131-7 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L430-3 (Ab)
+
+
+###### Article R*131-3
+
+Tout immeuble collectif équipé d'un chauffage exclusivement collectif fournissant à chaque local occupé à titre privatif des
+quantités de chaleurs réglables par l'occupant doit être muni d'appareils permettant de déterminer les quantités de chaleur
+fournies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
+	  - Arrêté du 30 mai 2016 - art. 2
+	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R131-4
+	  - TXT_ASSOCIE: Code de la construction R131-5
+
+
+###### Article R*131-4
+
+Les immeubles collectifs ayant fait l'objet d'une demande de permis de construire postérieurement au 29 février 1980 doivent
+être munis dès leur construction des appareils prévus à l'article R. 131-3. Les relevés doivent pouvoir être faits sans qu'il
+soit besoin de pénétrer dans les locaux privatifs [*détermination quantité de chaleur*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-3
+
+
+###### Article R*131-6
+
+Les dispositions de la présente section ne sont pas applicables aux établissements d'hôtellerie, aux logements-foyers, aux
+locaux à usage agricole, ainsi qu'aux locaux à usage sportif qui ne sont pas situés dans un immeuble collectif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*131-7
+
+Un arrêté conjoint du ministre chargé de l'industrie et du ministre chargé de la construction et de l'habitation fixe les
+règles de construction et d'utilisation des appareils nécessaires à l'application de la présente section, ainsi que les
+modalités de leur contrôle, dans la mesure où ces appareils ne relèvent de la règlementation édictée par le décret du 30
+novembre 1944 relatif au contrôle des instruments de mesure [*détermination quantité de chaleur*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 2016 - art. 4
+	  - Code de la construction et de l'habitation. - art. R*131-3 (M)
+
+	**Cite**:
+
+	  - Décret  1944-11-30
+
+
+###### Article R*131-8
+
+Les dispositions de la présente section ne sont pas applicables aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
 ##### Section 2 : Frais d'eau chaude dans les immeubles collectifs.
 
 ###### Article R*131-9
@@ -19529,195 +19662,26 @@ chauffage sont, en dehors des périodes d'inoccupation définies à l'article R.
 
 #### Chapitre Ier : Chauffage des immeubles.
 
-##### Section 1 : Equipement.
-
-###### Article R*131-2
-
-Les immeubles collectifs pourvus d'un chauffage commun doivent être, de construction, équipés d'appareils de mesure directe
-ou indirecte de la quantité de chaleur fournie à chacun des locaux destinés à être occupés à titre privatif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°2012-545 du 23 avril 2012 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R*131-3 (V)
-	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
-	  - Code de la construction et de l'habitation. - art. R*131-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*131-6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*131-7 (Ab)
-
-
-###### Article R*131-3
-
-La quantité de chaleur fournie à chacun des locaux mentionnés à l'article R. 131-2 doit être réglable par l'occupant.
-
-Dans le cas d'un immeuble comprenant des locaux à usage d'habitation, le relevé des mesures doit pouvoir s'effectuer sans
-qu'il soit nécessaire de pénétrer dans ceux-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
-	  - Arrêté du 30 mai 2016 - art. 2
-	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R131-2
-
-
 ##### Section 2 : Equipement et répartition des frais dans les immeubles collectifs.
-
-###### Article R*131-4
-
-Dans les immeubles collectifs pourvus d'un chauffage commun à tout ou partie des locaux occupés à titre privatif, les frais
-de combustible ou d'énergie afférents au chauffage commun sont répartis entre les locaux concernés en distinguant une part
-invariable et une part variable.
-
-La part invariable, qui doit être au moins égale au quart et au plus égale à la moitié du total des frais de combustible ou
-d'énergie, est répartie entre les locaux à partir d'éléments fixes prédéterminés par accord entre les parties intéressées,
-tels que :
-
-surfaces de plancher, volume des locaux, surface de chauffe des radiateurs ou émetteurs.
-
-La part variable est répartie entre les locaux proportionnellement à la mesure directe ou indirecte de la quantité de chaleur
-de chauffage fournie à chacun d'eux.
-
-Lorsque les conditions de fourniture de chaleur ne permettent pas de connaître la part des frais de combustible ou d'énergie
-entrant dans le prix de ladite fourniture, cette part fait l'objet, pour l'application du présent article, d'une estimation
-forfaitaire égale aux trois quarts du prix total de la fourniture de chaleur procurée par l'installation commune de
-l'immeuble.
-
-Il n'est pas dérogé par le présent article aux dispositions, conventions ou usages en vigueur pour la répartition des frais,
-fixes ou non, et des charges afférents à la fourniture de chaleur autres que les frais de combustible ou d'énergie mentionnés
-ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
 
 ###### Article R*131-5
 
-Les dispositions de la présente section ne sont pas applicables :
+En ce qui concerne les immeubles collectifs autres que ceux qui sont mentionnés à l'article R. 131-4, la date limite pour la
+mise en service des appareils prévus à l'article R. 131-3 est le 31 décembre 1985.
 
-- aux immeubles pourvus, de construction, d'une part, d'un système de chauffage commun et, d'autre part, d'un système de
-chauffage d'appoint individuel, à condition que ce dernier soit immeuble par incorporation et que sa puissance soit égale au
-moins au quart de la puissance totale des installations de chauffage ;
-
-- aux immeubles pour lesquels il est établi par le constructeur, que les déperditions thermiques sont inférieures à une
-valeur fixée par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de
-l'industrie, compte tenu de l'isolation thermique réalisée ou des récupérations ou transferts de chaleur opérés par des
-équipements tels que des échangeurs de chaleur ou pompes à chaleur ;
-
-- aux immeubles faisant appel, au moins pour la moitié de la consommation de chauffage des locaux, à l'énergie géothermique,
-à l'énergie solaire ou aux énergies de rejets thermiques.
+Toutefois ledit article  n'est applicable ni aux immeubles où il est techniquement impossible de poser les appareils de
+mesure, ni aux immeubles dans lesquels la charge financière annuelle de ces appareils, comprenant l'amortissement sur dix
+années et les frais de fonctionnement, serait supérieure au dixième des frais annuels de combustible ou d'énergie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*131-6
-
-Un arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'industrie fixe en tant que de
-besoin les modalités d'application de la présente section.
-
-Il peut être dérogé, par cet arrêté aux dispositions de cette section en ce qui concerne :
-
-Les immeubles collectifs comportant seulement deux locaux occupés à titre privatif ;
-
-Les locaux dépendant d'un établissement d'hôtellerie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*131-7
-
-Un arrêté du ministre chargé de l'industrie fixe les règles de construction et d'utilisation des appareils nécessaires à
-l'application de la présente section, ainsi que les modalités de leur contrôle, dans la mesure où ces appareils ne relèvent
-pas de la réglementation édictée par le décret relatif au contrôle des instruments de mesure du 30 novembre 1944.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 30 mai 2016 - art. 4
-	  - Code de la construction et de l'habitation. - art. R*131-3 (M)
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Décret n°1944-11-30
-
-
-###### Article R*131-8
-
-Les dispositions de la présente section sont applicables aux immeubles neufs de caractère collectif pourvus d'un chauffage
-commun qui ont fait l'objet d'une demande de permis de construire, d'une demande de prorogation de permis de construire ou
-d'une déclaration préalable de travaux, au sens de l'ancien article L. 430-3 du code de l'urbanisme, postérieure au 30 juin
-1976 et, en tout cas, à tous les immeubles neufs de caractère collectif qui ont fait l'objet d'une déclaration d'achèvement
-de travaux en vertu de l'article R. 460-1 du code de l'urbanisme postérieure au 15 septembre 1979.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme - art. R460-1 (M)
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R131-4, R131-3
 
 
 ##### Section 3 : Régulation des installations de chauffage.
