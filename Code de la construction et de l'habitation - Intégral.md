@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-08-22
+Version Consolidée au 1986-08-26
 
 # Partie législative
 
@@ -39059,7 +39059,109 @@ améliorés à l'aide d'un prêt conventionné.
 	  - Code de la construction et de l'habitation R351-2 AL. 2 A
 
 
+###### Article R351-21
+
+Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
+supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement en distinguant :
+
+- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
+occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession;
+
+- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
+
+Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
+prévu à l'article R. 351-19.
+
+Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+
+Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 (V)
+	  - Arrêté du 30 juin 1979 - art. 4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 4 JORF 26 août 1986
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+
 ##### Sous-section 7 : Dispositions diverses.
+
+##### SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat.
+
+###### Article R351-49
+
+Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
+intéressée.
+
+Cette notification comporte [*contenu*] la mention du délai dans lequel elles peuvent faire l'objet d'un recours
+administratif ainsi que la désignation et l'adresse du secrétariat de la [*commission départementale*] section des aides
+publiques au logement du conseil départemental de l'habitat compétente. Elle précise en outre la forme que doit revêtir ce
+recours et le délai au terme duquel celui-ci est rejeté tacitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 9 JORF 26 août 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
+###### Article R351-52
+
+La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat ne délibère
+valablement, en matière de recours administratif, que si quatre membres, dont le président, sont présents [*quorum*].
+
+La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1982-08-22 art. 9 JORF 26 août 1986
+
 
 ##### SECTION IV : Dispositions particulières aux logements-foyers
 
@@ -39214,6 +39316,44 @@ lesquels le droit est ouvert.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R351-10 à R351-16
+
+
+###### Article R351-9
+
+L'aide personnalisée est attribuée sur demande de l'intéressé, conforme à un modèle type, introduite auprès de l'organisme
+payeur défini à l'article R. 351-26.
+
+La demande doit être assortie de justifications définies par arrêté conjoint des ministres chargés des finances, de la
+construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+
+Le même arrêté précise celles de ces justifications qui doivent être produites chaque année et, parmi celles-ci, celles dont
+la non-présentation avant la date fixée par ledit arrêté entraine la suspension du paiement de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 3 JORF 26 août 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 août 1986
+	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-26 (M)
 
 
 ##### Sous-section 3 : Conditions particulières.
@@ -45196,22 +45336,39 @@ prêt entrant dans le champ d'application de l'article R. 351-2.
 
 ##### Sous-section 7 : Dispositions diverses.
 
-###### Article R351-30
+###### Article R*351-30
 
-Lorsque le bénéficiaire ne règle pas la part de loyer ou de mensualité restant à sa charge, le paiement de l'aide
-personnalisée au bailleur ou à l'établissement habilité percevant cette aide est suspendu, sauf si ces derniers apportent la
-preuve qu'ils ont poursuivi par tous les moyens le recouvrement de leur créance. La validité des preuves produites doit être
-appréciée par la [*commission départementale de l'aide personnalisée au logement*] section des aides publiques au logement du
-conseil départemental de l'habitat.
+" Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+des aides publiques au logement du conseil départemental de l'habitat par le bailleur ou l'établissement habilité percevant
+l'aide personnalisée pour son compte.
 
-A défaut de ces justifications, l'organisme payeur est habilité à exiger du bailleur ou de l'établissement habilité le
-reversement de l'aide personnalisée qui lui a été réglée depuis la date de la défaillance du bénéficiaire.
+" En secteur locatif, l'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque
+le locataire est débiteur à l'égard du bailleur d'une somme au moins égale à deux fois le montant mensuel brut du loyer et
+des charges. Dans le secteur de l'accession à la propriété, l'impayé est constitué, en cas de périodicité trimestrielle
+lorsque deux échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à une échéance de prêt brute et en cas de périodicité mensuelle lorsque
+trois échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à deux échéances de prêt brutes.
+
+" Le bailleur [*obligation*] ou l'établissement habilité doit, dans un délai de trois mois après la constitution de l'impayé
+défini à l'alinéa précédent, porter la situation du bénéficiaire défaillant à la connaissance de la section des aides
+publiques au logement du conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement
+de sa créance.
+
+" Compte tenu de la situation sociale du bénéficiaire, la section décide soit de suspendre le versement de l'aide
+personnalisée jusqu'à ce que le bénéficiaire défaillant se soit mis à jour de ses obligations, soit de maintenir le versement
+de l'aide personnalisée pendant un délai qu'elle fixe dans la limite d'un maximum prévu par directive du Fonds national de
+l'habitation et à l'issue duquel, à défaut de régularisation, le versement de l'aide personnalisée est suspendu par
+l'organisme payeur.
+
+" Si le bailleur ou l'établissement habilité ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les
+justifications prévues au troisième alinéa, celle-ci est habilitée à décider que le bailleur ou l'établissement habilité
+devra rembourser à l'organisme payeur tout ou partie de l'aide personnalisée versée depuis la défaillance du bénéficiaire.
+
+" Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à
+jour de ses obligations. "
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 26
 
 	**Codifié par**:
 
@@ -45219,7 +45376,7 @@ reversement de l'aide personnalisée qui lui a été réglée depuis la date de 
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+	  - Décret n°86-982 1986-08-22 art. 5 JORF 26 août 1986
 
 	**Cité par**:
 
@@ -45234,36 +45391,71 @@ reversement de l'aide personnalisée qui lui a été réglée depuis la date de 
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
-###### Article R351-31
+###### Article R*351-31
 
-Dans le cas où l'aide personnalisée est versée directement au locataire en application de l'article R. 351-27, à défaut de
-paiement total ou partiel du loyer pendant trois termes mensuels au cours de la période de paiement, le bailleur peut obtenir
-de l'organisme payeur le versement entre ses mains de cette aide aux lieu et place du locataire.
+" I. - Dans le cas où le bénéficiaire perçoit directement l'aide personnalisée en application de l'article R. 351-27 et qu'il
+se trouve en situation d'impayé au sens de l'article R. 351-30, le bailleur peut obtenir de l'organisme payeur le versement
+entre ses mains de cette aide au lieu et place du bénéficiaire.
 
-La demande du bailleur n'est recevable que si elle est formulée auprès de l'organisme payeur deux mois au plus tard après le
-troisième terme non payé. En cas de recevabilité de la demande, l'organisme payeur informe le locataire de la démarche du
-bailleur et l'invite à s'acquitter des sommes dues dans le délai d'un mois, par lettre recommandée avec demande d'avis de
-réception [*condition de forme*].
+" La demande du bailleur n'est recevable que si elle est formulée auprès de l'organisme payeur trois mois au plus tard après
+la constitution de l'impayé [*délai*].
 
-Si à l'expiration de ce délai, le locataire n'a pas soldé sa dette, l'organisme payeur sert au bailleur les mensualités
-d'aide personnalisée afférentes aux termes totalement ou partiellement impayés par le bénéficiaire. Chacune de ces
-mensualités est, en priorité, affectée à l'extinction de la dette du bénéficiaire afférente au terme auquel elle correspond.
+" En cas de recevabilité de la demande, l'organisme payeur en informe le bénéficiaire et lui notifie son intention de
+procéder au versement au bailleur des mensualités d'aide personnalisée, sauf si l'intéressé justifie par tous moyens avoir
+soldé sa dette de loyer avant l'expiration d'un délai d'un mois à compter de cette notification.
 
-Les mensualités déjà payées au bénéficiaire afférentes à ces termes sont recouvrées par l'organisme payeur.
+" Le versement de l'aide personnalisée est effectué entre les mains du bailleur à compter de l'expiration du délai d'un mois.
+En outre, il est versé au bailleur la mensualité d'aide personnalisée correspondant à ce délai d'un mois.
 
-Le versement de l'aide personnalisée est effectué entre les mains du bailleur jusqu'à la reprise intégrale des paiements par
-le locataire et l'apurement des créances anciennes, et au plus tard jusqu'à la fin de la période de paiement au cours de
-laquelle ledit bailleur a fait opposition.
+" Sur présentation par le bailleur, dans un délai de trois mois à compter de sa demande, d'un plan d'apurement signé du
+bénéficiaire et prévoyant les conditions de régularisation des échéances impayées et les modalités de versement de loyer,
+l'organisme payeur peut décider de poursuivre le versement de l'aide personnalisée entre les mains du bailleur pendant la
+durée de ce plan et dans la limite de vingt-quatre mois. S'il le demande, sont également versées au bailleur les mensualités
+d'aide personnalisée correspondant aux échéances impayées antérieures à la suspension du versement au bénéficiaire dans la
+limite de deux mensualités. La récupération de ces mensualités est effectuée par retenue sur les mensualités d'aide
+personnalisée versées au bailleur pendant la durée du plan d'apurement.
+
+" A défaut de la production du plan d'apurement dans le délai de trois mois à compter de la demande, le versement de l'aide
+personnalisée au bailleur est suspendu.
+
+" L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par l'organisme payeur. Si ce plan n'est pas
+respecté, l'organisme peut décider, le cas échéant après enquête sociale, de suspendre le versement de l'aide personnalisée
+au bailleur ou d'y mettre fin.
+
+" II. - Au terme de la durée de versement de l'aide personnalisée au bailleur, le versement de l'aide au bénéficiaire est
+repris si celui-ci est à jour vis-à-vis de son bailleur. Toutefois, le conseil d'administration de l'organisme payeur peut
+décider, sur demande du bailleur et du bénéficiaire, après enquête sociale, de reconduire, pour une période de douze mois, le
+versement de l'aide personnalisée entre les mains du bailleur.
+
+" Lorsque la dette initiale ayant justifié la demande du bailleur prévue au I ci-dessus a été apurée mais qu'une nouvelle
+dette est apparue, le conseil d'administration peut décider, sur demande du bailleur, de reconduire pour une période de douze
+mois le versement de l'aide personnalisée entre les mains du bailleur, sous réserve de la production d'un plan d'apurement
+répondant aux conditions fixées au I ci-dessus (5e alinéa).
+
+" Lorsque la dette de loyer initiale n'a pas été apurée, il est mis fin au versement de l'aide personnalisée.
+
+" III. - Lorsque le bailleur n'a pas respecté le délai prévu au I (2e alinéa) ci-dessus, le conseil d'administration de
+l'organisme payeur peut, à titre exceptionnel, décider le versement entre les mains du bailleur des mensualités d'aide
+personnalisée à échoir.
+
+" Il notifie au bénéficiaire son intention de procéder à ce versement, sauf si l'intéressé justifie par tous moyens avoir
+soldé sa dette de loyer avant l'expiration d'un délai d'un mois à compter de cette notification.
+
+" Pour que l'aide personnalisée puisse être versée au bailleur, un plan d'apurement de la dette doit être présenté à
+l'organisme payeur dans les conditions prévues au I ci-dessus (5e alinéa).
+
+" Le versement de l'aide personnalisée est effectué entre les mains du bailleur et dans la limite de vingt-quatre mois à
+compter du premier jour du mois civil suivant l'expiration du délai prévu au III (2e alinéa). "
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 27
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 6 JORF 26 août 1986
 
 	**Cité par**:
 
@@ -45274,9 +45466,8 @@ laquelle ledit bailleur a fait opposition.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-27 (M)
+	  - Code de la construction et de l'habitation. - art. R351-30 (M)
 
-
-##### Sous-section 7 : Dispositions diverses.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
 
@@ -45337,6 +45528,50 @@ compte pour le calcul de l'aide personnalisée.
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
+###### Article R351-64
+
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
+aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
+compte.
+
+L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
+débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
+
+Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
+situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
+départemental de l'habitat et justifier qu'il poursuit par tous les moyens de recouvrement de sa créance.
+
+Compte tenu de la situation sociale du bénéficiaire, la section décide soit de suspendre le versement de l'aide personnalisée
+jusqu'à ce que le bénéficiaire défaillant se soit mis à jour de ses obligations, soit de maintenir le versement de l'aide
+personnalisée pendant un délai qu'elle fixe dans la limite d'un maximum prévu par directive du fonds national de l'habitation
+et à l'issue duquel, à défaut de régularisation, le versement de l'aide personnalisée est suspendu par l'organisme payeur.
+
+Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
+l'aide personnalisée versée depuis la défaillance du bénéficiaire.
+
+Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
+de ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 10 JORF 26 août 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+
+
 ##### Section 2 : Fonds national de l'habitation
 
 ##### Sous-section 4 : Dispositions transitoires.
@@ -45365,6 +45600,38 @@ des dépôts et consignations aux dates et dans les conditions fixées par l'art
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
+
+
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
+
+###### Article R*351-48
+
+" La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le commissaire de la
+République.
+
+" Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
+travail, de l'emploi et de la politique sociale agricoles compétent, du directeur régional des affaires sanitaires et
+sociales compétent, du directeur départemental des affaires sanitaires et sociales, du président du conseil d'administration
+de la caisse d'allocations familiales concernée, du président du conseil d'administration de la caisse de mutualité sociale
+agricole compétente ou de leurs représentants respectifs et de deux représentants des usagers désignés par le commissaire de
+la République sur proposition des organisations les plus représentatives au niveau du département. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 8 JORF 26 août 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-37 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
 ### Titre V : Aide personnalisée au logement.
@@ -45426,11 +45693,12 @@ conditions définies par l'article L. 351-2 (6.).
 
 ###### Article R351-5
 
-Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coefficient de prise
-en charge, tels que définis à l'article R. 351-19, sont celles perçues pendant l'année civile précédent la période prévue par
-l'article R. 351-4 par le bénéficiaire, son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme
-vivant habituellement au foyer les personnes y ayant résidé plus de six mois au cours de ladite année civile et qui y
-résident encore au moment de la demande ou au début de la période de paiement.
+Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coéfficient de prise
+en charge, tels que définis à l'article R. 351-19, sont celles percues pendant l'année civile précédant la période prévue par
+l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer, sauf dans les cas
+mentionnés à l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les personnes y ayant résidé plus de
+six mois au cours de ladite année civile et qui y résident encore au moment de la demande ou au début de la période de
+paiement.
 
 Ces ressources s'entendent du revenu net imposable de l'année civile de référence susmentionnée, abstraction faite des
 déductions opérées en vertu de l'article 156-I du code général des impôts au titre des reports des déficits constatés au
@@ -45494,16 +45762,16 @@ Soit enfants du bénéficiaire ou de son conjoint.
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 6 JORF 3 septembre 1985
-
 	**Cite**:
 
-	  - CGI 156-1
+	  - CGI 156-I
 	  - Code de la famille et de l'aide sociale. - art. 169 (M)
 	  - Code de la sécurité sociale L688
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
+	  - Code de la construction et de l'habitation R351-19, R351-7-2
+
+	**Modifié par**:
+
+	  - Décret n°86-982 1986-08-22 art. 1 JORF 26 août 1986
 
 
 ###### Article R351-6
@@ -45640,48 +45908,6 @@ articles R. 351-10, 12, 13, 14 ou 15.
 	  - Code de la construction et de l'habitation. - art. R351-14 (M)
 	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
-
-###### Article R351-9
-
-L'aide personnalisée est attribuée sur demande de l'intéressé, conforme à un modèle type, introduite auprès de l'organisme
-payeur défini à l'article R. 351-26.
-
-La demande doit être assortie de justifications définies par arrêté conjoint des ministres chargés des finances, de la
-construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-Le même arrêté précise celles de ces justifications qui doivent être produites chaque année. En cas de non-présentation des
-justifications avant la date fixée par ledit arrêté, le paiement de l'aide personnalisée est suspendu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 22 août 1986
-	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 4 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 22 août 1986 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-26 (M)
 
 
 ##### Sous-section 3 : Conditions particulières.
@@ -45900,53 +46126,6 @@ Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentair
 	  - Décret n°85-932 1985-08-30 art. 10 JORF 3 septembre 1985
 
 
-###### Article R351-21
-
-Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
-supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
-du budget, de l'agriculture et du logement en distinguant :
-
-- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
-occupés par leur propriétaire ;
-
-- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
-
-Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
-prévu à l'article R. 351-19.
-
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
-
-Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 (V)
-	  - Arrêté du 30 juin 1979 - art. 4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 11 JORF 3 septembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-
-
 ###### Article R351-21-1
 
 A compter du 1er octobre 1982, la dépense nette de logement, obtenue en déduisant de la somme du loyer principal pris en
@@ -46008,94 +46187,6 @@ l'emménagement dans la résidence définitive.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-22 (M)
-
-
-##### Section 3 : Commission départementale de l'aide personnalisée.
-
-###### Article R351-48
-
-La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat est présidée
-par le préfet.
-
-Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du directeur régional du travail
-et de la protection sociale agricoles compétent, du directeur régional de la sécurité sociale compétent, du président du
-conseil d'administration de la caisse d'allocations familiales concernée, du président du conseil d'administration de la
-caisse de mutualité sociale agricole compétente ou de leurs représentants respectifs et de deux représentants des usagers
-désignés par le préfet sur proposition des organisations les plus représentatives au niveau du département.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-813 1977-07-18 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-37 (M)
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-49
-
-Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
-intéressée.
-
-Cette notification comporte [*contenu*] la mention du délai dans lequel elles peuvent faire l'objet d'un recours gracieux
-ainsi que la désignation et l'adresse du secrétariat de la [*commission départementale*] section des aides publiques au
-logement du conseil départemental de l'habitat compétente. Elle précise en outre la forme que doit revêtir ce recours et le
-délai au terme duquel celui-ci est rejeté tacitement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-813 1977-07-18 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-52
-
-La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat ne délibère
-valablement, en matière de recours gracieux, que si quatre membres, dont le président, sont présents [*quorum*].
-
-La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-813 1977-07-18 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
 ##### Dispositions particulières aux logements-foyers
@@ -46195,36 +46286,6 @@ personnalisée un abattement égal à la différence constatée.
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-
-###### Article R351-64
-
-Lorsque le bénéficiaire ne règle pas la part de la redevance mensuelle restant à sa charge pendant deux mois consécutifs, le
-gestionnaire est tenu d'en informer l'organisme payeur dans les quinze jours qui suivent la seconde échéance impayée, en
-apportant la preuve des moyens mis en oeuvre pour le recouvrement de la créance. La validité des preuves produites doit être
-appréciée par la [*commission départementale de l'aide personnalisée au logement*] section des aides publiques au logement du
-conseil départemental de l'habitat.
-
-Si cette commission n'admet pas la validité des preuves produites par le gestionnaire, le paiement de l'aide personnalisée
-est suspendu à compter du premier jour du mois suivant l'émission de l'avis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
 
 
 ### Titre VI : Organismes consultatifs.
