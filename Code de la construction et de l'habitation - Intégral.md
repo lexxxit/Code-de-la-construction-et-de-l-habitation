@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-12-24
+Version Consolidée au 1987-01-01
 
 # Partie législative
 
@@ -38093,20 +38093,25 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ###### Article R331-63
 
-Des prêts conventionnés peuvent être accordés [*définition*] dans les conditions fixées par la présente section, pour
-financer [*opérations*] :
+Des prêts conventionnés peuvent être accordés dans les conditions fixées par la présente section, pour financer :
 
-1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
+1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
 logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
-destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation.    2. L'amélioration de
-logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
+destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation ;
 
-3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
+2° L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
-4. Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
+3° L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
+
+4° Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
 d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
-de construire.    Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux
-visés au 4° du présent article.
+de construire.
+
+Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux visés au 4° du
+présent article.
+
+5° Le remboursement anticipé total d'un prêt conventionné à annuités progressives consenti avant le 31 décembre 1983 dans le
+cadre des 1° et 3° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -38150,12 +38155,12 @@ visés au 4° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°85-325 1985-03-08 art. 1, art. 2 JORF 12 mars 1985
+	  - Décret n°86-1364 1986-12-30 art. 1 JORF 1er janvier 1987
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 8 mars 1985
-	  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
+	  - TXT_ASSOCIE: Code de la construction R331-63 à R331-77
 
 
 ###### Article R331-64
@@ -38230,6 +38235,9 @@ le livre II, titre 1er, chapitres II ou III du présent code (première partie).
 2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
 travaux destinés à réduire les dépenses d'énergie [*économies*].
 
+3° En ce qui concerne les opérations mentionnées au 5° de l'article R.331-63, les personnes qui bénéficient de l'aide
+personnalisée au logement au titre du prêt faisant l'objet du remboursement anticipé.
+
 Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
 au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de
 leur conjoint [*durée*].
@@ -38267,7 +38275,7 @@ principale représentent la moitié au moins du total des voix [*condition*].
 
 	**Modifié par**:
 
-	  - Décret n°85-325 1985-03-08 art. 4 JORF 12 MARS 1985
+	  - Décret n°86-1364 1986-12-30 art. 2 JORF 1er janvier 1987
 
 	**Cite**:
 
@@ -38499,7 +38507,7 @@ convention type prévue à l'article R. 331-65 ;
 
 Les prêts sont amortissables [*durée amortissement*] :
 
-En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 (1° et 3°);
+En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 1°, 3° et 5°;
 
 En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à l'article R. 331-63 (2°, 4°).
 
@@ -38511,7 +38519,7 @@ En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à
 
 	**Modifié par**:
 
-	  - Décret n°85-325 1985-03-08 art. 6 JORF 12 mars 1985
+	  - Décret n°86-1364 1986-12-30 art. 4 JORF 1er janvier 1987
 
 	**Cite**:
 
@@ -38533,6 +38541,9 @@ Toutefois, dans le cas des opérations prévues à l'article R. 331-63, 2, le mo
 du prêt ne peut excéder un plafond fixé par arrêté conjoint des ministres chargés des finances et de la construction et de
 l'habitation.
 
+Dans le cadre des opérations visées à l'article R. 331-63 5°, les prêts conventionnés peuvent atteindre l'intégralité des
+sommes dues au titre du remboursement anticipé.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -38547,9 +38558,13 @@ l'habitation.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°86-1364 1986-12-30 art. 3 JORF 1er janvier 1987
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-63 2
+	  - Code de la construction et de l'habitation R331-63 2° et 5°
 
 
 #### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration des logements
