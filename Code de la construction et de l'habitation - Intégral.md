@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-06-04
+Version Consolidée au 1980-06-13
 
 # Partie législative
 
@@ -37873,6 +37873,33 @@ de l'aide personnalisée au logement.
 
 ##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.
 
+###### Article R353-58
+
+Les conventions conclues en application des dispositions de l'article L. 351-2 (2° et 3°) entre l'Etat et les sociétés
+d'économie mixte de construction immobilière, pour les logements ne bénéficiant pas des dispositions de l'article L. 353-18,
+doivent être conformes à l'annexe de l'article R. 353-59.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-416 1980-06-10 art. 2 JORF 13 juin 1980
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+	  - Code de la construction et de l'habitation. - art. R353-59 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+
+
 ###### Article R353-60
 
 La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
@@ -37945,6 +37972,113 @@ contribution financière prévue à l'article L. 351-7.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-7 (M)
+
+
+###### Article R353-63
+
+La contribution totale due chaque année est égale à la somme des contributions dues au titre de chacun des programmes de
+logement faisant l'objet d'une convention telles que définies au I ci-dessous et affectée, le cas échéant, d'une déduction
+dans les conditions définies au II ci-dessous :
+
+I. - Pour chacun des programmes de logement faisant l'objet d'une convention dans les conditions prévues à l'article R.
+353-59, la contribution est assise sur les loyers des logements conventionnés ayant bénéficié d'aides de l'Etat prévues par
+la réglementation antérieure au 4 janvier 1977, à l'exception des logements financés en application du titre II de la loi du
+13 juillet 1928, du décret n° 63-1324 du 24 décembre 1963, des immeubles à loyer moyen financés en application du décret n°
+68-812 du 13 septembre 1968, de l'article R. 311-1 (1er alinéa) et des arrêtés du 29 mai 1968 et du 16 novembre 1970, des
+immeubles à loyer normal financés en application de l'arrêté du 25 mai 1961 et des logements mentionnés à l'article R. 353-59
+(2°).
+
+Cette contribution est calculée annuellement pour chacun de ces programmes de logements selon la formule suivante :
+
+P = L x t, dans laquelle :
+
+P représente le montant de la contribution due au titre d'une année civile ;
+
+L représente la masse annuelle des loyers des logements mentionnés au premier alinéa ci-dessus et due au cours de la même
+année civile ;
+
+t représente le taux de la contribution.
+
+Cette contribution est due pour la première fois à compter de l'année civile qui suit la date d'entrée en vigueur de la
+convention ou la date d'achèvement des travaux d'amélioration faisant l'objet d'une attestation d'exécution conforme établie
+par le préfet.
+
+II. - Lorsque le bailleur procède à la réalisation de programmes de travaux financés par les articles R. 323-1 à R. 323-11
+réalisés sur des logements dont les loyers constituent l'assiette de la contribution, une déduction est opérée sur la somme
+des contributions annuelles dues pour chacun des programmes de logements faisant l'objet d'une convention et calculées dans
+les conditions du I ci-dessus.
+
+Lorsque ce calcul donne un résultat négatif, la contribution totale est nulle et le solde négatif n'est pas reportable sur
+les exercices ultérieurs.
+
+III. - Les modalités de détermination des paramètres L et t, ainsi que la déduction pour travaux sont fixées par arrêté
+conjoint des ministres chargés des finances et de la construction et de l'habitation.
+
+IV. - La contribution totale, due par un bailleur au titre d'un exercice donné déterminée en application des I, II et III ci-
+dessus, est calculée sur la base des résultats constatés dans la comptabilité du bailleur. Les éléments nécessaires au calcul
+sont communiqués par le bailleur au ministre chargé de la construction et de l'habitation ou à ses représentants avant le 1er
+mai de l'exercice suivant l'exercice au titre duquel elle est due. Le président du fonds national de l'habitation notifie au
+bailleur le montant de la contribution totale due au titre d'un exercice au plus tard le 1er août de l'exercice suivant.
+
+La contribution totale annuelle due par le bailleur au titre d'un exercice est réglée au cours de l'exercice suivant :
+
+a) au plus tard le 15 février et le 15 mai sous forme de deux acomptes dont le montant est égal au tiers du montant de la
+contribution totale annuelle réglée au cours de l'exercice précédent ;
+
+b) au plus tard le 1er octobre sous forme de régularisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1961-05-25
+	  - Arrêté 1968-05-29
+	  - Arrêté 1970-11-16
+	  - Décret n°63-1324 1963-12-24
+	  - Décret n°68-812 1968-09-13
+	  - Code de la construction et de l'habitation R353-59, R311-1, R323-1 à R323-11
+	  - Code de la construction et de l'habitation. - art. R353-59 (M)
+	  - Loi n°1928-07-13
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°80-416 1980-06-10 art. 4 JORF 13 juin 1980
+
+
+###### Article R353-64
+
+Les conventions fixent le pourcentage des logements conventionnés que les bailleurs s'engagent à réserver lors de la mise en
+location des logements et au fur et à mesure des vacances au profit des personnes et des familles répondant à des critères de
+priorité définis par arrêté préfectoral.
+
+Ces familles sont désignées par le préfet sur la base d'une liste établie par les services préfectoraux à partir des demandes
+de logement déposées à la mairie du domicile du demandeur ou auprès des bailleurs.
+
+Cette disposition ne porte pas atteinte aux réservations consenties conventionnellement par les bailleurs lorsque le
+programme conventionné a été financé dans les conditions prévues à l'article R. 353-59, à l'exception des logements
+mentionnés au 2° (a et b).
+
+Pour les logements réservés conformément à la convention conclue en application de l'article R. 314-4, les dispositions des
+alinéas 1er à 3 ci-dessus sont suspendues pendant toute la durée de cette réservation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°80-416 1980-06-10 art. 5 JORF 13 juin 1980
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R314-4 (M)
+	  - Code de la construction et de l'habitation. - art. R353-59 (M)
 
 
 ###### Article R353-66
@@ -38649,39 +38783,68 @@ l'alinéa 1er, selon des modalités fixées par les conventions.
 
 ##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
 
-###### Article R353-90
+###### Article R353-89
 
-Ces conventions s'appliquent aux logements à usage locatif :
-
-1. Financés dans les conditions prévues au titre Ier du présent livre (première et deuxième parties) (annexe n° 1) ; 
-
-2. Donnant lieu aux prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31, lorsque le bailleur contribue au
-financement de l'opération par un apport en capital minimum et qu'il s'engage à en assurer lui-même la gestion ou à la
-confier, dans les conditions définies par arrêté, à des personnes ou organismes agréés par ledit arrêté :
-
-a) Soit pour leur construction (annexe n° 2) ; 
-
-b) Soit pour leur acquisition et amélioration (annexe n° 3) ; 
-
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
-leurs groupements, auquel cas la convention mentionnée au b est applicable ; 
-
-3. Faisant l'objet pour leur amélioration d'une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11 (annexe n°
-4).
+Les conventions conclues en application des dispositions de l'article L. 351-2 (2° et 3°) entre l'Etat et les personnes
+morales ou physiques bénéficiaires d'aides de l'Etat autres que les organismes d'habitations à loyer modéré et les sociétés
+d'économie mixte doivent être conformes à l'annexe de l'article R.353-90.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-415 1980-06-10 ART. 2 JORF 13 JUIN 1980
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-1 à R331-31, R323-1 à R323-11
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-90 (M)
+
+
+###### Article R353-90
+
+La convention ci-annexée s'applique aux logements à usage locatif appartenant à, ou gérés par les personnes mentionnées à
+l'article R. 353-89 lorsque ces logements répondent à l'une des conditions de financement fixées ci-dessous :
+
+1. Logements financés dans les conditions prévues par le chapitre I du titre I du présent livre, par le titre II de la loi du
+13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ; 
+
+2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31 :
+
+a) Soit pour leur construction ; 
+
+b) Soit pour leur acquisition et amélioration ; 
+
+c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
+leurs groupements. 
+
+Lorsque le bailleur contribue au financement de l'opération par un apport en capital minimum et qu'il s'engage à en assurer
+lui-même la gestion ou à la confier dans les conditions définies par arrêté pris en application de l'article R. 331-8 (3.) ; 
+
+3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-415 1980-06-10 ART. 3 JORF 13 JUIN 1980
+
+	**Cite**:
+
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation R353-89, R331-1 à R331-31
+	  - Loi n°1928-07-13
 
 	**Cité par**:
 
@@ -38693,6 +38856,80 @@ leurs groupements, auquel cas la convention mentionnée au b est applicable ;
 	  - Code de la construction et de l'habitation. - art. R353-94 (M)
 	  - Code de la construction et de l'habitation. - art. R353-96 (M)
 
+
+###### Article R353-94
+
+La contribution [*financière au fonds national de l'habitation*] totale due chaque année est égale à la somme des
+contributions dues au titre de chacun des programmes de logement faisant l'objet d'une convention telles que définies au I
+ci-dessous et affectée, le cas échéant, d'une déduction dans les conditions définies au II ci-dessous.
+
+I - Pour chacun des programmes de logements faisant l'objet d'une convention dans les conditions prévues à l'article R.
+353-90, la contribution est assise sur les loyers des logements conventionnés ayant bénéficié d'aides de l'Etat, prévues par
+la règlementation antérieure au 4 janvier 1977, à l'exception des logements financés en application du titre II de la loi du
+13 juillet 1928, des décrets n. 63-1324 du 24 décembre 1963, des immeubles à loyer moyen financés en application du décret n.
+
+68-812 du 13 septembre 1968 et de l'article R. 311-1 (1er alinéa)
+
+et des logements mentionnés à l'article R. 353-90 (2.). 
+
+Cette contribution est calculée annuellement pour chacun de ces programmes de logements selon la formule suivante :
+
+p = L X t    dans laquelle    p représente le montant de la contribution due au titre d'une année civile ; 
+
+L représente la masse annuelle des loyers des logements mentionnés au premier alinéa ci-dessus et due au cours de la même
+année civile ; 
+
+t représente le taux de la contribution. 
+
+Cette contribution est due pour la première fois à compter de l'année civile qui suit la date d'entrée en vigueur du loyer
+résultant de la convention ou la date d'achèvement des travaux d'amélioration faisant l'objet d'une attestation d'exécution
+conforme établie par le préfet.
+
+II - Lorsque le bailleur procède à la réalisation du programmes de travaux financés par les articles R. 323-1 à R. 323-11
+réalisés sur des logements dont les loyers constituent l'assiette de la contribution, une déduction est opérée sur la somme
+des contributions annuelles dues pour chacun des programmes de logements faisant l'objet d'une convention et calculées dans
+les conditions du I ci-dessus. 
+
+Lorsque ce calcul donne un résultat négatif, la contribution totale est nulle et le solde négatif n'est pas reportable sur
+les exercices ultérieurs.
+
+III - Les modalités de détermination des paramètres L et t ainsi que la déduction pour travaux sont fixées par arrêté
+conjoint des ministres chargés des finances et de la construction et de l'habitation.
+
+IV - La contribution totale, due par un bailleur au titre d'un exercice donné, déterminée en application des I, II et III ci-
+dessus est calculée sur la base des résultats constatés dans la comptabilité du bailleur. Les éléments nécessaires au calcul
+sont communiqués par le bailleur au ministre chargé de la construction et de l'habitation ou à ses représentants avant le 1er
+mai de l'exercice suivant l'exercice au titre duquel elle est due. Le président du fonds national de l'habitation notifie au
+bailleur le montant de la contribution totale due au titre d'un exercice au plus tard le 1er août de l'exercice suivant. 
+
+La contribution totale annuelle due par le bailleur au titre d'un exercice est réglée au cours de l'exercice suivant :
+
+a) Au plus tard le 15 février et le 15 mai sous forme de deux acomptes dont le montant est égal au tiers du montant de la
+contribution totale annuelle réglée au cours de l'exercice précédent ; 
+
+b) Au plus tard le 1er octobre sous forme de régularisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°63-1324 1963-12-24
+	  - Décret n°68-812 1968-09-13
+	  - Code de la construction et de l'habitation L351-2, R353-90, R311-1, R323-1 à R323-11
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-90 (M)
+	  - Loi n°1928-07-13
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-415 1980-06-10 ART. 4 JORF 13 juin 1980
+
+
+##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
 
 ###### Article R353-91
 
@@ -41859,72 +42096,49 @@ Elles fixent également les sanctions encourues pour non-respect des engagements
 	  - Code de la construction et de l'habitation. - art. R353-25 (M)
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière en application de l'article L. 351-2 (2 et 3).
+### Titre V : Aide personnalisée du logement
 
-###### Article R353-58
+#### Chapitre III : Régime juridique des logements locatifs conventionnés.
 
-Les conventions passées entre l'Etat et les sociétés anonymes d'économie mixte de construction immobilière en application des
-dispositions de l'article L. 351-2 (2. et 3.) doivent être conformes aux conventions types annexées à la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
-
+##### Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L. 353-18.
 
 ###### Article R353-59
 
-Ces conventions s'appliquent aux logements à usage locatif appartenant à ou gérés par les sociétés anonymes d'économie mixte
-de construction immobilière, lorsqu'ils répondent à l'une des conditions fixées ci-dessous :
+La convention ci-annexée s'applique aux logements à usage locatif appartenant à ou gérés par les sociétés d'économie mixte de
+construction immobilière et ne bénéficiant pas des dispositions de l'article L. 353-18.
 
-1. Logements financés dans les conditions prévues au titre Ier du présent livre, première et deuxième parties (annexe n° 1) ;
+Ces logements doivent répondre à l'une des conditions de financement fixées ci-dessous :
+
+1. Logements financés dans les conditions prévues par le chapitre Ier du titre Ier du présent livre, par le titre II de la
+loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
 
 2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31 :
 
-a) Soit pour leur construction (annexe n° 2) ;
+a) Soit pour leur construction ;
 
-b) Soit pour leur acquisition et amélioration (annexe n° 3) ;
+b) Soit pour leur acquisition et amélioration ;
 
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail       emphytéotique ou à construction par des collectivités
-locales ou leurs groupements, auquel cas la convention       faisant l'objet de l'annexe mentionnée au b est applicable ;
+c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
+leurs groupements.
 
-3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11
-(annexe n° 4).
+3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°80-416 1980-06-10 ART. 3 JORF 13 JUIN 1980
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-1 à R331-31, R323-1 à R323-11
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation R331-1 à R331-31
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+	  - Loi  1928-07-13 TITRE II
 
 	**Cité par**:
 
@@ -41933,174 +42147,6 @@ locales ou leurs groupements, auquel cas la convention       faisant l'objet de 
 	  - Code de la construction et de l'habitation. - art. R353-63 (M)
 	  - Code de la construction et de l'habitation. - art. R353-64 (M)
 	  - Code de la construction et de l'habitation. - art. R353-77 (Ab)
-
-
-###### Article R353-63
-
-Cette contribution [*financière au fonds national de l'habitation*] est assise sur l'ensemble des loyers des logements
-conventionnés financés dans les conditions prévues au titre Ier du présent livre (première et deuxième parties), à
-l'exception des logements financés en application du décret n. 63-1324 du 24 décembre 1963, des logements financés en
-application du décret n. 68-812 du 13 septembre 1968 et des articles R. 311-1 à R. 311-65.
-
-Son montant est déterminé annuellement par application à la masse des loyers des logements conventionnés, d'un taux de base
-de la contribution, compte tenu des déductions liées aux charges de l'exercice résultant de la mise en oeuvre d'un programme
-de travaux et selon la formule suivante :
-
-P = Lt - D      dans laquelle    P est le montant de la contribution des bailleurs au fonds      national de l'habitation ;
-
-L représente la masse des loyers constituant l'assiette de      la contribution ;
-
-t représente le taux de base de la contribution ;
-
-D représente le montant des déductions liées aux charges du      bailleur résultant de la réalisation d'un programme de
-travaux d'amélioration.
-
-Dans tous les cas où le montant des déductions (D) est supérieur ou égal au produit de la masse des loyers (L) par le taux de
-la contribution (t), celle-ci aura une valeur nulle.
-
-Les modalités de détermination de chacun des paramètres (L) et (D) ainsi que la valeur du taux de base (t) sont fixées par
-arrêté conjoint des ministres chargés des finances et de la construction et de l'habitation.
-
-A titre dérogatoire, des bailleurs pourront être autorisés à utiliser un taux de base t d'une valeur inférieure.
-
-La contribution due par un bailleur au titre d'un exercice donné, déterminée par application de la formule ci-dessus, est
-calculée sur la base des résultats constatés dans la comptabilité du bailleur pour l'exercice considéré. Les données propres
-au bailleur et nécessaires au calcul sont communiquées par le bailleur au ministre chargé de la construction et de
-l'habitation ou à ses représentants, avant le 30 juin [*date limite*] de l'exercice suivant l'exercice de référence. Le
-président du fonds national de l'habitation notifie au bailleur le montant de la contribution due au titre de l'exercice de
-référence au plus tard le 30 septembre de l'exercice suivant l'exercice de référence.
-
-La contribution annuelle due par un bailleur au titre de chaque exercice est réglée au cours de l'exercice suivant par
-acomptes trimestriels dont le montant est égal au quart du montant de la contribution annuelle réglée au cours de l'exercice
-précédent.
-
-La régularisation intervient au plus tard au 31 décembre de l'exercice suivant.
-
-Les acomptes trimestriels peuvent donner lieu à une réduction de leur montant dans le cas où la contribution due pour un
-exercice donné pourrait être inférieure au montant dû pour l'exercice antérieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°63-1324 1963-12-24
-	  - Décret n°68-812 1968-09-13
-	  - Code de la construction et de l'habitation R311-1 à R311-65
-
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-###### Article R353-64
-
-Les conventions fixent le pourcentage des logements conventionnés qui, au fur et à mesure des vacances, et sans préjudice
-d'autres réservations consenties par le bailleur, sont réservés à des familles ou à des occupants sortant, soit d'habitat
-insalubre ou surpeuplé, soit d'une cité de transit ou provisoire ou d'un centre d'hébergement, ainsi qu'aux familles ou
-personnes soumises à une obligation de mobilité résidentielle par suite d'une mutation ou d'un licenciement pour cause
-économique. Elles fixent les conditions de cette exonération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organismes d'H.L.M., sociétés d'économie mixte et houillères de bassin, bénéficiaires d'aides de l'Etat en application de l'article L 351-2 (2 et 3)
-
-###### Article R353-89
-
-Les conventions passées, en application des dispositions de l'article L. 351-2 (2. et 3.) entre l'Etat, d'une part, et les
-personnes morales ou physiques bénéficiant ou ayant bénéficié d'aides de l'Etat, autres que les organismes d'habitations à
-loyer modéré, les sociétés d'économie mixte et les houillères de bassin, d'autre part, doivent être conformes aux conventions
-types annexées à l'article R. 353-90.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-90 (M)
-
-
-###### Article R353-94
-
-Cette contribution est assise sur l'ensemble des loyers des logements conventionnés financés dans les conditions prévues au
-titre Ier du présent livre (première et deuxième parties), à l'exception des logements financés en application des décrets n°
-63-1324 du 24 décembre 1963, n° 68-812 du 13 septembre 1968 et des articles R. 311-1 à R. 311-65.
-
-Son montant est déterminé annuellement par application à la masse des loyers des logements conventionnés d'un taux de base de
-la contribution, compte tenu des déductions liées aux charges de l'exercice résultant de la mise en oeuvre d'un programme de
-travaux et selon la formule suivante :
-
-P = Lt - D
-
-dans laquelle
-
-P est le montant de la contribution des bailleurs au fonds national de l'habitation ;
-
-L représente la masse des loyers constituant l'assiette de la contribution ;
-
-t représente le taux de base de la contribution ;
-
-D représente le montant des déductions liées aux charges du bailleur résultant de la réalisation d'un programme de travaux
-d'amélioration.
-
-Dans tout les cas où le montant des déductions (D) est supérieur ou égal au produit de la masse des loyers (L) par le taux de
-la contribution (t), celle-ci aura une valeur nulle.
-
-Les modalités de détermination de chacun des paramètres (L) et (D) ainsi que la valeur du taux de base (t) sont fixées par
-arrêté conjoint des ministres chargés des finances et de la construction et de l'habitation.
-
-Toutefois, à titre dérogatoire, des bailleurs pourront être autorisés à utiliser un taux de base t, d'une valeur inférieure.
-
-La contribution due par un bailleur au titre d'un exercice donné déterminée par application de la formule ci-dessus est
-calculée sur la base des résultats constatés dans la comptabilité du bailleur pour l'exercice considéré. Les données propres
-au bailleur et nécessaires au calcul sont communiquées par le bailleur au ministre chargé de la construction et de
-l'habitation ou à ses représentants, avant le 30 juin [*date limite*] de l'exercice suivant l'exercice de référence. Le fonds
-national de l'habitation notifie au bailleur le montant de la contribution due au titre de l'exercice de référence au plus
-tard le 30 septembre de l'exercice suivant l'exercice de référence.
-
-La contribution annuelle due par un bailleur au titre de chaque exercice est réglée au cours de l'exercice suivant par
-acomptes trimestriels dont le montant est égal au quart du montant de la contribution annuelle réglée au cours de l'exercice
-précédent.
-
-La régularisation intervient au plus tard au 31 décembre de l'exercice suivant.
-
-Les acomptes trimestriels peuvent donner lieu à une réduction de leur montant dans le cas où la contribution due pour un
-exercice donné pourrait être inférieure au montant dû pour l'exercice antérieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°63-1324 1963-12-24
-	  - Code de la construction et de l'habitation R311-1 à R311-65
-	  - Décret n°68-812 1968-09-13
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 ### Titre VI : Organismes consultatifs
