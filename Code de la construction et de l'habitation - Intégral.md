@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-12-07
+Version Consolidée au 1984-01-06
 
 # Partie législative
 
@@ -36749,6 +36749,47 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
+###### Article R351-3
+
+Sous réserve des dispositions prévues au deuxième alinéa du présent article, le droit à l'aide personnalisée est ouvert :
+
+Au locataire d'un logement conventionné en application de la section I du chapitre III du titre V du livre III de la première
+partie du code de la construction et de l'habitation, qui est titulaire d'un bail conforme aux stipulations de la convention,
+à compter de la première échéance du loyer prévu par ce bail [*bénéficiaire*] ;
+
+Au locataire ou à l'occupant de bonne foi d'un logement conventionné en application de la section II du chapitre III du titre
+V du livre III de la première partie du code de la construction et de l'habitation, soit à compter de la première échéance du
+nouveau loyer notifié par le bailleur s'il s'agit d'un locataire ou occupant de bonne foi dans les lieux, soit à compter de
+la première échéance du loyer prévu par l'engagement de location s'il s'agit d'un nouveau locataire.
+
+L'aide personnalisée est maintenue, après expiration ou résiliation de la convention, au locataire ou à l'occupant qui
+acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
+
+le droit à l'A.P.L. est ouvert au locataire d'un logement ayant fait l'objet d'un contrat d'amélioration en application de
+l'article 59 de la loi n. 82-526 du 22 juin 1982 et titulaire d'un contrat de location conforme aux stipulations du contrat
+d'amélioration, à compter de la première échéance du loyer prévu par le contrat de location.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 59
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°84-12 1984-01-04 ART. 1 JORF 6 JANVIER 1984
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+
 ###### Article R351-4-1
 
 Lorsque les conditions d'attribution prévues par les articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3 sont remplies au
@@ -42141,28 +42182,25 @@ Pour l'application du présent chapitre, sont assimilés à des propriétaires l
 donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
 - soit un logement à usage locatif, faisant l'objet d'une convention intervenue en vertu des articles L. 351-2 (2., 3. ou
-4.), L. 325-1 ou L. 431-6.
+4.), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du 22 juin
+1982 relative aux droits et obligations des locataires et des bailleurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L351-1, L351-2, L325-1, L431-6
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - lOI 82-526 1982-06-22
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L352-1 (V)
 	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°84-12 1984-01-04 ART. 1 JORF 6 JANVIER 1984
 
 	**Cité par**:
 
@@ -42176,38 +42214,6 @@ donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
-
-###### Article R351-3
-
-Sous réserve des dispositions prévues au dernier alinéa du présent article, le droit à l'aide personnalisée est ouvert :
-
-Au locataire d'un logement conventionné en application de la section I du chapitre III du titre V du livre III de la première
-partie du code de la construction et de l'habitation, qui est titulaire d'un bail conforme aux stipulations de la convention,
-à compter de la première échéance du loyer prévu par ce bail [*bénéficiaire*] ;
-
-Au locataire ou à l'occupant de bonne foi d'un logement conventionné en application de la section II du chapitre III du titre
-V du livre III de la première partie du code de la construction et de l'habitation, soit à compter de la première échéance du
-nouveau loyer notifié par le bailleur s'il s'agit d'un locataire ou occupant de bonne foi dans les lieux, soit à compter de
-la première échéance du loyer prévu par l'engagement de location s'il s'agit d'un nouveau locataire.
-
-L'aide personnalisée est maintenue, après expiration ou résiliation de la convention, au locataire ou à l'occupant qui
-acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-9 (V)
-
 
 ###### Article R351-5
 
