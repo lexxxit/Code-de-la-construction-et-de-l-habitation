@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-10-17
+Version Consolidée au 1982-11-01
 
 # Partie législative
 
@@ -41055,6 +41055,32 @@ acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
 	  - Code de la construction et de l'habitation. - art. L353-9 (V)
 
 
+###### Article R351-4-1
+
+Lorsque les conditions d'attribution prévues par les articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3 sont remplies au
+cours d'un mois et que le montant de l'aide personnalisée due au titre de ce mois est supérieur au montant prévu à l'article
+R. 351-22, le droit à l'aide personnalisée est ouvert au premier jour du mois considéré.
+
+Lorsqu'un changement de situation a pour effet soit d'ouvrir le droit à l'aide personnalisée d'une personne qui remplit les
+conditions prévues aux articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3, soit de modifier en cours de période de paiement
+le droit du bénéficiaire, l'ouverture ou la révision du droit prend effet le premier jour du mois qui suit celui au cours
+duquel est survenu le changement de situation, sous réserve que la situation nouvelle persiste à cette date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-22 (M)
+	  - Code de la construction et de l'habitation. - art. R351-3 (M)
+
+
 ###### Article R351-5
 
 Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coefficient de prise
@@ -41325,8 +41351,10 @@ justifications avant la date fixée par ledit arrêté, le paiement de l'aide pe
 Lorsque le bénéficiaire ou son conjoint apporte la preuve de sa cessation d'activité professionnelle au début ou au cours de
 la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une rente d'accident de
 travail ou de l'allocation aux adultes handicapés ou de l'allocation compensatrice, le revenu net imposable perçu par
-l'intéressé au cours de l'année civile de référence est affecté d'un abattement égal à 30 p. 100 des revenus d'activité.
-Cette mesure prend effet le premier jour du mois au cours duquel les deux conditions mentionnées ci-dessus sont remplies.
+l'intéressé au cours de l'année civile de référence est affecté d'un abattement égal à 30 p. 100 [*taux*] des revenus
+d'activité. Cette mesure prend [*date*] effet le premier jour du mois suivant celui au cours duquel survient le changement de
+situation.
+
 Elle est applicable à chaque renouvellement du droit tant que des revenus d'activité ont été perçus au cours de l'année
 civile de référence considérée.
 
@@ -41335,10 +41363,6 @@ civile de référence considérée.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°81-677 1981-06-29 ART. 8 JORF 30 JUIN 1981
 
 	**Cité par**:
 
@@ -41352,21 +41376,17 @@ civile de référence considérée.
 
 ###### Article R351-11
 
-Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
-de résidence séparée imposée par ses conditions de travail, il est procédé à compter du premier jour du mois au cours duquel
-ces charges apparaissent, à un abattement forfaitaire sur le revenu net imposable perçu par le ménage au cours de l'année
-civile de référence, dont le montant est fixé par arrêté conjoint des ministres chargés des finances, de la construction et
-de l'habitation, de l'agriculture et de la sécurité sociale.
+Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyers supplémentaires consécutives à une obligation
+de résidence séparée imposée par ses conditions de travail, il est procédé à partir du premier jour du mois suivant celui au
+cours duquel les charges apparaissent, à un abattement forfaitaire sur le revenu net imposable perçu par le ménage au cours
+de l'année civile de référence, dont le montant est fixé par arrêté conjoint des ministres chargés des finances, de la
+construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
@@ -41374,6 +41394,7 @@ de l'habitation, de l'agriculture et de la sécurité sociale.
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 bis (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 quater (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 ter (M)
+	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Cité par**:
 
@@ -41384,9 +41405,8 @@ de l'habitation, de l'agriculture et de la sécurité sociale.
 
 ###### Article R351-12
 
-Il n'est pas tenu compte, à partir de la date d'ouverture du droit ou du premier jour du mois au cours duquel survient
-l'événement ou le changement de situation, sous réserve que le bénéficiaire en apporte la preuve, des ressources du
-conjoint :
+Il n'est pas tenu compte, à partir du premier jour du mois suivant celui au cours duquel survient l'événement ou le
+changement de situation, sous réserve que le bénéficiaire en apporte la preuve, des ressources du conjoint :
 
 - soit décédé ;
 
@@ -41407,17 +41427,13 @@ liberté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°77-784 1977-07-13 art. 10
+	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°81-677 1981-06-29 art. 9 JORF 30 juin 1981
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -41430,10 +41446,10 @@ liberté.
 
 Lorsque le bénéficiaire ou son conjoint se trouve depuis deux mois consécutifs à la date d'effet de la demande, ou pendant au
 moins deux mois consécutifs au cours de la période de paiement, en chômage total ou partiel indemnisé en application du titre
-V du livre III du code du travail ou en vertu de régimes particuliers à la profession, les revenus d'activité perçus par
+V du livre III du Code du travail ou en vertu de régimes particuliers à la profession, les revenus d'activité perçus par
 l'intéressé pendant l'année civile de référence sont, tant que dure cette situation, affectés d'un abattement de 30 p. 100
-[*durée, taux*]. Cette mesure s'applique à la date d'effet de la demande ou au premier jour du mois au cours duquel survient
-le changement de situation.
+[*durée, taux*]. Cette mesure s'applique à partir du premier jour du mois suivant celui au cours duquel survient le
+changement de situation [*date d'effet*].
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
@@ -41441,15 +41457,11 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	**Cite**:
 
-	  - Code du travail LIVRE III TITRE V
+	  - Code du travail LIVRE III LIVRE V
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°80-391 1980-06-02 ART. 1 JORF 4 JUIN 1980
 
 	**Cité par**:
 
@@ -41464,11 +41476,11 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 Lorsque le bénéficiaire ou son conjoint en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
 demande ou au cours de la période de paiement, ne bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions
-fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le réglement annexe à la convention
+fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le règlement annexé à la convention
 interprofessionnelle conclue dans le cadre de la loi n° 79-32 du 16 janvier 1979 susvisée, il n'est pas tenu compte à partir
-de la date d'effet de la demande ou du premier jour du mois au cours duquel survient le changement de situation, la cessation
-de l'indemnisation ou l'admission à l'allocation de fin de droits précités, et tant que cette situation se prolonge, des
-ressources perçues par l'interessé au cours de l'année civile de référence.
+du premier jour du mois suivant celui au cours duquel survient le changement de situation, de cessation de l'indemnisation ou
+l'admission à l'allocation de fin de droits précités, et tant que cette situation se prolonge, des ressources perçues par
+l'intéressé au cours de l'année civile de référence.
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
@@ -41482,10 +41494,6 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	  - Loi n°79-32 1979-01-16
 	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-
-	**Créé par**:
-
-	  - Décret n°80-391 1980-06-02 ART. 2 JORF 4 JUIN 1980
 
 	**Cité par**:
 
@@ -41535,22 +41543,24 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 ###### Article R351-16
 
-Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de la prise en charge
-d'un enfant, à compter du premier jour du mois de sa présence au foyer.
+Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
+d'une personne à charge au sens de l'article R. 351-8.
+
+Cette révision prend effet le premier jour du mois suivant celui au cours duquel est intervenu l'événement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
 ###### Article R351-16 BIS
@@ -41568,19 +41578,15 @@ période de différé d'amortissement.
 
 ###### Article R351-17-1
 
-Lorsque la séparation [*légale ou de fait des conjoints*] prévue à l'article R. 351-17 (4è alinéa) intervient en cours de
+Lorsque la séparation [*légale ou de fait des conjoints*] prévue à l'article R. 351-17 (4ème alinéa) intervient en cours de
 période de paiement, le droit à l'aide personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation avec
-effet au premier jour du mois au cours duquel la séparation a eu lieu.
+effet [*date*] au premier jour du mois suivant celui au cours duquel la séparation a eu lieu.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°81-677 1981-06-29 ART. 12 JORF 30 JUIN 1981
 
 	**Cite**:
 
