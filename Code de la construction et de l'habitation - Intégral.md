@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-07-01
+Version Consolidée au 1988-09-15
 
 # Partie législative
 
@@ -49682,6 +49682,27 @@ de suspension, soit dissoudre le conseil d'administration dans les conditions pr
 	  - Code de la construction et de l'habitation. - art. R423-66 (Ab)
 
 
+###### Article R*421-61
+
+Le conseil d'administration règle par ses délibérations les affaires de l'office.
+
+Le président du conseil d'administration ordonnance les dépenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 21 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
 ###### Article R*421-61-1
 
 Le conseil d'administration se réunit au moins trois fois par an.
@@ -49771,6 +49792,42 @@ d'administration, procuration au directeur de l'établissement.
 	  - Code de la construction et de l'habitation. - art. R423-52 (Ab)
 	  - Code de la construction et de l'habitation. - art. R423-62 (V)
 	  - Code de la construction et de l'habitation. - art. R423-64 (V)
+
+
+###### Article R421-64
+
+Le comptable de l'office est soit un comptable direct du trésor, soit un comptable spécial. Il est nommé dans les mêmes
+formes prévues à l'article L. 421-6 et révoqué dans les mêmes conditions. Il prête serment devant la chambre régionale des
+comptes. 
+
+Il exerce ses missions dans les conditions prévues par le décret n° 62-1587 du 29 décembre 1962 modifié portant règlement
+général sur la comptabilité publique. 
+
+Lorsqu'il s'agit d'un comptable direct du trésor, les offices versent, à titre de participation, une contribution au
+fonctionnement du service comptable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962, v. init.
+	  - Code de la construction et de l'habitation. - art. L421-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 11 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 169 et 170
 
 
 ##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.
@@ -50729,36 +50786,6 @@ d'administration de l'office public d'habitations à loyer modéré.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R441-9 (M)
-
-
-##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
-
-###### Article R*421-81
-
-Le budget est approuvé par le préfet.
-
-Pour les délibérations relatives à l'exécution du budget, aux acquisitions d'immeubles, à l'aliénation de valeurs mobilières,
-aux conventions passées avec les architectes et techniciens, le préfet peut, en cas de nouvelle délibération du conseil
-réclamée par lui, décider qu'il sera sursis à l'exécution des décisions prises, à charge pour lui de prendre une décision
-définitive dans le délai prévu à l'alinéa suivant, ou, s'il l'estime nécessaire, de saisir le ministre chargé de la
-construction et de l'habitation.
-
-La délibération devient exécutoire si l'opposition n'est pas confirmée par le préfet dans le délai de six semaines à compter
-de la date de la nouvelle délibération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
 #### Chapitre II : Organismes privés d'habitations à loyer modéré.
@@ -52190,13 +52217,13 @@ l'article L. 423-3, sont fixées après avis du conseil supérieur des habitatio
 Le budget d'un office public d'aménagement et de construction comprend l'ensemble des prévisions de dépenses et de recettes
 de l'exercice.
 
-Il est présenté selon la même nomenclature que la comptabilité prévue aux articles R. 423-18 à R. 423-25.
+Il est présenté en conformité avec la nomenclature comptable fixée par les instructions prévues à l'article R. 423-30.
 
 Il est divisé en :
 
 - une section d'investissement ;
 
-- une section d'exploitation et de profits et pertes.
+- une section de fonctionnement ;
 
 Il est accompagné de budgets annexes correspondant à chacune des opérations réalisées pour le compte de tiers.
 
@@ -52209,39 +52236,114 @@ financement. Les plans de financement précisent l'origine et le montant des moy
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 2 () JORF 15 septembre 1988
 
 	**Cité par**:
 
 	  - Décret n°2008-648 du 1er juillet 2008 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. R*423-3 (V)
 
+
+###### Article R*423-2-1
+
+Les chapitres et articles du budget sont déterminés par un arrêté conjoint du ministre chargé des finances, du ministre
+chargé de la construction et de l'habitation et du ministre chargé des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-525 1976-06-15 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 3 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R*423-2-2
+
+La section d'investissement présente notamment, en recettes et en dépenses, conformément à la nomenclature comptable, les
+opérations à effectuer au titre des comptes de capitaux, des comptes d'immobilisations, des comptes de stocks, des charges à
+répartir sur plusieurs exercices, des provisions pour dépréciation des comptes de tiers et des comptes financiers.
+
+La section de fonctionnement fait apparaître :
+
+a) Au titre des charges : les charges d'exploitation, les charges financières et les charges exceptionnelles ;
+
+b) Au titre des produits : les produits d'exploitation, les produits financiers et les produits exceptionnels.
+
+En outre, la section de fonctionnement fait apparaître, au titre des charges, selon des délais et des modalités fixés par les
+instructions prévues à l'article R. 423-30, tout ou partie du report à nouveau figurant au bilan de l'avant-dernier exercice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-525 1976-06-15 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 3 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R423-18 à R423-25
+	  - Code de la construction et de l'habitation.
+
+
+###### Article R*423-2-3
+
+L'ordonnateur peut effectuer des virements d'article à article à l'intérieur d'un même chapitre budgétaire dans les
+conditions prévues par l'article L. 212-2 du code des communes pour les offices communaux et intercommunaux et par l'article
+50 de la loi n° 82-213 du 2 mars 1982 modifiée pour les offices départementaux et interdépartementaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-525 1976-06-15 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 3 () JORF 15 septembre 1988
 
 
 ###### Article R*423-3
 
-Le budget, les budgets annexes et les délibérations de programme sont préparés par le directeur général avec le concours de
-l'agent comptable.
+Le budget, les budgets annexes et les délibérations de programme sont préparés par le directeur général avec, le cas échéant,
+le concours du comptable. Le conseil d'administration vote le montant des crédits ouverts aux différentes sections du budget
+et des budgets annexes.
 
-Ils sont soumis au contrôleur d'Etat ou au trésorier-payeur général.
-
-Ils sont votés par le conseil d'administration sur proposition de son président avant le 30 novembre de l'année précédant
-celle pour laquelle les budgets sont établis.
-
-Ils sont considérés comme exécutoires sauf décision contraire du préfet dans un délai de 2 mois [*tutelle, approbation
-tacite*].
-
-Lorsque l'approbation préfectorale n'aura pu intervenir avant le 1er janvier, les dépenses et les recettes sont exécutées sur
-la base du budget de l'année précédente.
+Les délibérations modificatives sont préparées et approuvées selon la même procédure et dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -52251,56 +52353,8 @@ la base du budget de l'année précédente.
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
-
-
-###### Article R*423-4
-
-Le conseil d'administration détermine le caractère évaluatif ou limitatif des crédits ouverts aux différentes sections du
-budget et des budgets annexes.
-
-Les dépassements de crédits évaluatifs sont repris dans la plus prochaine délibération budgétaire par le moyen d'une décision
-modificative.
-
-Le budget de l'office et chacun des budgets annexes doivent être votés en équilibre ; en outre, la section d'exploitation et
-de profits et pertes de chaque budget doit être équilibrée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-5
-
-Le budget peut être modifié en cours d'exécution par le conseil d'administration, qui prend à cet effet une décision
-modificative.
-
-Les délibérations modificatives sont préparées et approuvées selon la même procédure que le budget primitif et dans les mêmes
-conditions que celles prévues aux articles R. 423-3 et R. 423-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 4 () JORF 15 septembre 1988
 
 
 ###### Article R*423-6
@@ -52308,7 +52362,7 @@ conditions que celles prévues aux articles R. 423-3 et R. 423-4.
 Le directeur général est chargé de l'exécution des budgets et passe tous actes et contrats au nom de l'office, engage,
 liquide et ordonnance toutes dépenses.
 
-Il est conseillé, dans cette tâche, par l'agent comptable.
+Il est conseillé, dans cette tâche, le cas échéant, par le comptable.
 
 Le directeur général peut déléguer sa signature avec l'accord du conseil d'administration aux membres du personnel de
 l'office exerçant les fonctions de chef de service.
@@ -52321,7 +52375,8 @@ l'office exerçant les fonctions de chef de service.
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
 
 
 ###### Article R*423-7
@@ -52329,28 +52384,22 @@ l'office exerçant les fonctions de chef de service.
 Les marchés passés par l'office sont soumis aux dispositions du livre III du code des marchés publics, sous réserve des
 dispositions ci-après.
 
-L'approbation [*tacite*] des marchés est réputée acquise, sauf opposition du commissaire du Gouvernement, dans un délai de
-quinze jours, à compter de la communication qui lui en est faite.
-
-L'approbation des marchés sur appel d'offres peut être donnée en séance d'ouverture des plis et d'examen des offres par le
-commissaire du Gouvernement ou son représentant dûment acrédités.
-
-Le directeur général peut être autorisé par le conseil d'administration à traiter de gré à gré pour l'achat de fournitures
-courantes dont la liste est arrêtée par le conseil d'administration. Il en est de même pour les travaux d'entretien dans les
-conditions et limites fixées par l'instruction prévue à l'article R. 423-30.
-
-Des dérogations aux dispositions en vigueur peuvent être accordées par arrêté conjoint du ministre chargé des finances et du
-ministre chargé de la construction et de l'habitation, notamment pour favoriser l'innovation.
+Le directeur général peut être autorisé par le conseil d'administration à passer des marchés négociés pour l'achat de
+fournitures courantes dont la liste est arrêtée par le conseil d'administration. Il en est de même pour les travaux
+d'entretien dans les conditions et limites fixées par l'instruction prévue à l'article R. 423-30. Des dérogations aux
+dispositions en vigueur peuvent être accordées par arrêté conjoint du ministre chargé des finances et du ministre chargé de
+la construction et de l'habitation, pour favoriser l'innovation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
 
 	**Cite**:
 
@@ -52366,184 +52415,6 @@ ministre chargé de la construction et de l'habitation, notamment pour favoriser
 	  - Code de la construction et de l'habitation. - art. R*423-25 (M)
 
 
-###### Article R*423-8
-
-L'agent comptable est chargé, sous sa responsabilité, de la perception des recettes.
-
-Il veille à la conservation des droits, privilèges et hypothèques de l'office et fait, le cas échéant, au directeur général
-toutes représentations utiles pour que soit assurée cette conservation.
-
-Dans le cadre défini par le conseil d'administration, il se concerte avec le directeur général sur les modalités et délais de
-recouvrement.
-
-Les produits de l'office sont recouvrés soit en vertu de contrats et de jugements exécutoires, soit, à défaut, en vertu
-d'états émis et rendus exécutoires dans les conditions prévues aux articles R. 241-4 et R. 241-5 du code des communes.
-Conformément aux prescriptions dudit article R. 241-5, les poursuites pour le recouvrement de ces produits ont lieu comme en
-matière d'impôts directs.
-
-Si les poursuites engagées dans les conditions prévues à l'alinéa précédent ne permettent pas d'assurer le recouvrement des
-sommes dues, l'agent comptable en rend compte au directeur général à qui il appartient de prendre toute mesure nécessaire,
-notamment pour faire prononcer la résiliation des contrats à raison de leur inexécution.
-
-Sauf lorsqu'il s'agit d'une dette de l'agent comptable ou d'un régisseur, les créances peuvent faire l'objet d'une remise
-gracieuse par le conseil d'administration.
-
-Indépendamment de la contribution prévue à l'article R. 421-30, des indemnités de fonction et de sujétions peuvent être
-allouées à l'agent comptable par le conseil d'administration, conformément à un barème déterminé conjointement par le
-ministre chargé des finances et le ministre chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
-
-	**Cite**:
-
-	  - Code des communes R241-4, R241-5
-	  - Code de la construction et de l'habitation R421-30
-
-
-###### Article R*423-9
-
-L'agent comptable est chargé, sous sa responsabilité, du paiement des dépenses.
-
-A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le directeur général peut requérir, par écrit,
-l'agent comptable de passer outre au refus de règlement d'un mandat et de procéder à son paiement sans autre délai. La
-déclaration de refus de paiement et l'acte de réquisition sont annexés au mandat. Il en est rendu compte aux ministres
-intéressés.
-
-Cette procédure ne peut pas s'exercer lorsque le refus de paiement est fondé sur un des motifs ci-après :
-
-- insuffisance de fonds disponibles ;
-
-- absence de justification de service fait ;
-
-- caractère non libératoire du règlement ;
-
-- indisponibilité de crédit budgétaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
-
-	**Cité par**:
-
-	  - Arrêté du 10 décembre 2014 - art. 2 (V)
-	  - Arrêté du 10 décembre 2014 - art. 3 (V)
-	  - Arrêté du 10 décembre 2014 - art. 4 (V)
-
-
-###### Article R*423-10
-
-Les créanciers des offices sont réglés de leurs créances par les moyens prévus à l'article 34 du décret n. 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique et par des effets de commerce émis dans des conditions
-fixées par l'instruction prévue à l'article R. 423-30.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 34 (M)
-	  - Code de la construction et de l'habitation R423-30
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-11
-
-Les opérations de recettes et de dépenses peuvent, par décision du conseil d'administration, être confiées à des régisseurs
-de recettes et d'avances, conformément à la réglementation applicable aux collectivités locales et aux établissements publics
-locaux.
-
-Les régisseurs sont désignés par le directeur général, avec l'agrément de l'agent comptable de l'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-12
-
-Au début de chaque exercice, l'ordonnateur dispose d'un délai de deux mois pour procéder aux opérations d'inventaire et
-notamment émettre les ordres de recettes correspondant aux droits acquis au cours de l'exercice précédent et les ordres de
-dépenses correspondant aux services faits au cours dudit exercice.
-
-Dans ce délai, l'ordonnateur dresse un état des ordres de recettes et des mandats de paiement qui n'ont pu être émis en temps
-utile et le transmet au comptable pour l'enregistrement dans les comptes.
-
-La balance des comptes et les balances auxiliaires sont établies au plus tard le 31 mars de l'année qui suit celle de
-l'exercice considéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-13
-
-Le directeur général détermine l'emploi des fonds qui excèdent les besoins courants de trésorerie dans les conditions prévues
-aux articles R. 423-14 et R. 423-15.
-
-L'agent comptable le renseigne de façon permanente sur la situation comptable et financière.
-
-L'agent comptable a seul qualité pour effectuer les emplois de fonds et valeurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
 ###### Article R*423-14
 
 Les fonds appartenant à l'office peuvent être déposés au Trésor, à un compte de chèques postaux, à la caisse de dépôts et
@@ -52555,13 +52426,17 @@ versés à l'un des comptes ouverts au nom de l'office et énumérés à l'alin�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
 
 	**Cité par**:
 
@@ -52588,7 +52463,7 @@ d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
 
 
 ###### Article R*423-16
@@ -52607,67 +52482,7 @@ prochaine réunion du conseil d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
-
-
-###### Article R*423-17
-
-Des avances peuvent être consenties à l'office par des établissements financiers ou bancaires, sur autorisation du contrôleur
-d'Etat ou, à défaut de contrôleur d'Etat, du trésorier-payeur général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-18
-
-Les règles financières et comptables de l'office sont celles prévues par la première partie du décret n. 62-1587 du 29
-décembre 1962, susmentionné, sous réserve des dispositions de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-
-###### Article R*423-19
-
-Le directeur général peut demander, à tout moment, à l'agent comptable communication de sa comptabilité.
-
-L'agent comptable peut être chargé par le conseil d'administration sur proposition du directeur général, de la tenue de la
-comptabilité d'engagement et d'ordonnancement ou de l'une ou l'autre.
-
-A ce titre, il relève du directeur général qui lui fournit le personnel et les moyens nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
 
 
 ###### Article R*423-20
@@ -52682,21 +52497,23 @@ Les opérations qui ne sont pas réalisées par l'office pour lui-même ne sont 
 d'immobilisation. Leur déroulement, ainsi que celui des opérations de nature particulière, sont retracés dans des comptes
 particuliers ou en comptabilité annexe.
 
-Sous réserve des dispositions de l'article R. 423-12, les comptabilités sont arrêtées en fin d'année civile.
+Sous réserve des dispositions de l'article R. 423-32-3, les comptabilités sont arrêtées en fin d'année civile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 19
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R423-30
+	  - Code de la construction et de l'habitation R423-30, R423-32-3
+	  - Code de la construction et de l'habitation. - art. R423-32-3 (V)
 
 	**Cité par**:
 
@@ -52705,18 +52522,23 @@ Sous réserve des dispositions de l'article R. 423-12, les comptabilités sont a
 
 ###### Article R*423-21
 
-Sous réserve des dispositions de l'article R. 423-25, les immobilisations sont comptabilisées soit pour leur prix de revient,
-soit pour leur prix d'achat, soit pour leur valeur vénale en cas de donation.
+Sous réserve des dispositions de l'article R. 423-25 ci-après, les immobilisations sont comptabilisées soit pour leur prix de
+revient, soit pour leur coût d'acquisition, soit, en cas de donation, pour leur valeur vénale.
+
+Le prix de revient des immobilisations comprend les dépenses d'acquisition ainsi que le montant des travaux de construction,
+d'agrandissement et d'amélioration, à l'exclusion des travaux de grosses réparations et d'entretien. Les frais d'architecte
+sont compris dans le prix de revient des immobilisations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 20
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 5 () JORF 15 septembre 1988
 
 	**Cite**:
 
@@ -52726,7 +52548,7 @@ soit pour leur prix d'achat, soit pour leur valeur vénale en cas de donation.
 ###### Article R*423-22
 
 Les dotations de l'exercice aux comptes d'amortissement des immobilisations doivent permettre l'amortissement intégral de la
-valeur des immobilisations, terrains exclus, sur une période correspondant à leur nature.
+valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée de vie économique.
 
 Pendant cette période, les dotations globales cumulées aux comptes d'amortissement des immobilisations seront au moins égales
 au montant cumulé des remboursements des emprunts contractés pour le financement de celles-ci. La faculté donnée de différer
@@ -52734,21 +52556,22 @@ le remboursement du capital de certains emprunts ne dispense pas les offices de 
 d'amortissements des immobilisations correspondantes.
 
 Sous réserve des dispositions ci-dessus, le conseil d'administration fixe le rythme d'amortissement des immobilisations en
-fonction de la nature de celles-ci. A l'issue du remboursement des emprunts correspondants, une dotation est constituée pour
-l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
+fonction de la durée de vie économique de celles-ci. A l'issue du remboursement des emprunts correspondants, une dotation est
+constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
 
 Si, en cours d'amortissement, des dépréciations particulières apparaissent, des dotations complémentaires aux comptes
 d'amortissement sont effectuées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 21
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
 
 	**Cité par**:
 
@@ -52757,24 +52580,30 @@ d'amortissement sont effectuées.
 
 ###### Article R*423-23
 
-L'instruction prévue à l'article R. 423-30 fixe les conditions dans lesquelles le conseil d'administration peut déterminer
-les dotations annuelles aux provisions pour charges à répartir et pour risques.
+Les instructions prévues à l'article R. 423-30 fixent notamment les conditions dans lesquelles le conseil d'administration
+détermine les dotations annuelles aux provisions pour risques et pour dépréciation ainsi que les dotations annuelles aux
+amortissements des charges à répartir sur plusieurs exercices.
 
-La provision pour créances douteuses des loyers, charges et accessoires ne peut être inférieure, après la dotation de fin
-d'exercice, au montant de celles qui sont échues depuis plus d'un an et non recouvrées.
+Les sommes dues en loyers, charges et accessoires par les locataires ayant quitté leur logement et par ceux dont la dette a
+une origine antérieure à un an sont provisionnées en totalité. Lorsque l'origine de la dette est comprise entre trois mois et
+un an, les sommes dues sont provisionnées selon les taux et dans les conditions fixés par les instructions prévues à
+l'article R. 423-30. Le calcul de ces provisions s'effectue sur la base des créances échues et non recouvrées au 31 décembre,
+exception faite du quittancement de décembre.
 
-La dotation annuelle à la provision pour réparations peut varier, selon les besoins et les possibilités de l'office, sans
-jamais pouvoir être inférieure à un montant fixé par l'instruction mentionnée ci-dessus.
+La dotation annuelle à la provision pour grosses réparations peut varier, selon les besoins et les possibilités de l'office,
+sans jamais pouvoir être inférieure à une fraction de la valeur brute actualisée des immobilisations fixée en application des
+instructions mentionnées ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 22
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 6 () JORF 15 septembre 1988
 
 	**Cité par**:
 
@@ -52789,22 +52618,20 @@ jamais pouvoir être inférieure à un montant fixé par l'instruction mentionn�
 
 ###### Article R*423-24
 
-Le compte d'exploitation d'un exercice ne doit comprendre que les charges et produits afférents à cet exercice. Les charges
-et produits relatifs à un exercice clos sont comptabilisés durant la période complémentaire. Les charges et produits des
-exercices antérieurs sont comptabilisés au compte de pertes et profits.
+Le compte de résultat d'un exercice doit comprendre les charges et produits afférents à cet exercice.
 
-Des tableaux annexes au compte d'exploitation retracent en tant que de besoin l'état des charges récupérables et de leur mise
-en recouvrement.
+Des tableaux annexes au compte de résultat retracent en tant que de besoin l'état des charges récupérables et de leur mise en
+recouvrement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 23
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
 
 	**Cité par**:
 
@@ -52819,173 +52646,577 @@ arrêté du ministre chargé des finances et du ministre chargé de la construct
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 24
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
 
 
 ###### Article R*423-26
 
-Le compte financier [*contenu*] réunit le bilan, le compte d'exploitation et de profits et pertes, le détail des opérations
-de l'année, les états annexes et tous les documents justificatifs énumérés par l'instruction prévue à l'article R. 423-30.
+Les états financiers comprennent le bilan, le compte de résultat, l'annexe et tous les documents justificatifs énumérés par
+les instructions prévues à l'article R. 423-30.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 25
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R423-30
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 7 () JORF 15 septembre 1988
 
 
 ###### Article R*423-27
 
-Le compte financier est préparé par l'agent comptable et visé par le directeur général qui en certifie la conformité avec ses
-écritures d'ordonnateur.
+Le conseil d'administration de l'office délibère sur l'affectation du résultat de l'exercice clos selon le schéma suivant :
 
-Il est obligatoirement accompagné d'un rapport du directeur général sur l'activité de l'office pendant l'année écoulée.
+A. - Le bénéfice est affecté :
 
-Il est délibéré par le conseil d'administration qui propose l'affectation des résultats.
+1° En priorité :
 
-Il est réglé par le préfet.
+a) En cas de cession de biens immobiliers, dans la limite de la plus-value correspondante, au compte de réserve Plus-values
+nettes sur cessions immobilières ;
+
+b) Au compte de report à nouveau, dans la limite du solde débiteur de ce compte ;
+
+2° Pour le solde :
+
+a) Au compte de réserve de compensation ;
+
+b) Au compte de réserves diverses ;
+
+c) Au compte de report à nouveau.
+
+Le report à nouveau créditeur est affecté au financement des investissements lors de la clôture financière des opérations.
+
+B. - Le déficit est couvert :
+
+1° En priorité, par une reprise totale ou partielle sur la réserve de compensation et, éventuellement, sur les réserves
+diverses.
+
+2° Le cas échéant, pour le reliquat, par une imputation sur le compte de report à nouveau.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 26
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-
-###### Article R*423-28
-
-Avant le 1er mai [*délai*] suivant la clôture de l'exercice, le compte financier, accompagné du budget, des pièces
-justificatives et du rapport du commissaire du gouvernement, est adressé au trésorier-payeur général. Celui-ci transmet à la
-Cour des comptes pour jugement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-	**Cité par**:
-
-	  - Arrêté du 8 mars 2010 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R423-30 (V)
-
-
-###### Article R*423-29
-
-Dans le même délai, des copies du compte financier et des rapports du directeur général et du commissaire du gouvernement
-sont adressés au ministre chargé de la construction et de l'habitation et à la caisse de prêts aux organismes d'habitations à
-loyer modéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 7 () JORF 15 septembre 1988
 
 
 ###### Article R*423-30
 
-Une instruction conjointe du ministre chargé de la construction et de l'habitation et du ministre chargé des finances
-précise, en tant que de besoin, les modalités d'application de la présente sous-section et notamment le cadre comptable et
+Des instructions conjointes du ministre chargé de la construction et de l'habitation et du ministre chargé des finances
+précisent, en tant que de besoin, les modalités d'application de la présente sous-section et notamment le cadre comptable et
 les règles relatives à la tenue des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 29
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
 ##### Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.
 
 ###### Article R*423-31
 
-Conformément aux dispositions du décret n. 75-30 du 17 janvier 1975, les dispositions de la sous-section 2 restent
-applicables aux offices d'habitations à loyer modéré transformés en offices publics d'aménagement et de construction après le
-18 juin 1976, dans la mesure où elles ne sont pas contraires à la présente sous-section, jusqu'à la fin de l'année au cours
-de laquelle la transformation prend effet.
+Les états financiers certifiés conformes par le ou les commissaires aux comptes, obligatoirement accompagnés d'un rapport du
+directeur général sur l'activité de l'office pendant l'exercice écoulé, sont transmis au plus tard le 15 mai de l'année
+suivant cet exercice au conseil d'administration qui délibère et propose l'affectation du résultat.
+
+Avant le 1er juillet de la même année, des copies de ces documents et du rapport du directeur général sont adressées au
+préfet.
+
+Ces documents ainsi que le rapport du commissaire du Gouvernement sont adressés dans les mêmes délais au ministre chargé de
+la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 8 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+##### Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique.
+
+###### Article R423-32
+
+Les règles financières et comptables de l'office sont celles qui sont prévues par la première partie du décret n° 62-1587 du
+29 décembre 1962 modifié portant règlement général sur la comptabilité publique sous réserve des paragraphes 1er et 2 de la
+présente sous-section.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°75-30 1975-01-17
-
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 30
+	  - Décret n°62-1587 du 29 décembre 1962
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-32-1
+
+Dans le cadre défini par le conseil d'administration, le comptable se concerte avec le directeur général sur les modalités et
+délais de recouvrement.
+
+Le recouvrement des produits de l'office est poursuivi conformément aux dispositions du décret n° 81-362 du 13 avril 1981
+relatif au recouvrement des produits des collectivités et des établissements publics locaux.
+
+Si les poursuites engagées ne permettent pas d'assurer le recouvrement des sommes dues, le comptable en rend compte
+immédiatement au directeur général, à qui il appartient de prendre toutes mesures nécessaires, notamment pour faire prononcer
+la résiliation des contrats à raison de leur inexécution.
+
+Sauf lorsqu'il s'agit d'une dette du comptable ou d'un régisseur, les créances peuvent faire l'objet d'une remise gracieuse
+par le conseil d'administration.
+
+Indépendamment de la contribution prévue à l'article R. 421-30, des indemnités de fonction et de sujétions peuvent être
+allouées au comptable par le conseil d'administration, conformément à un barème déterminé conjointement par le ministre
+chargé des finances et le ministre chargé de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°81-362 du 13 avril 1981
+	  - Code de la construction et de l'habitation.
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-32-2
+
+Les opérations de recettes et de dépenses peuvent, par décision du conseil d'administration, être confiées à des régisseurs
+de recettes et d'avances, conformément à la réglementation applicable aux collectivités locales et aux établissements publics
+locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-32-3
+
+En ce qui concerne les opérations de la section de fonctionnement, l'ordonnateur dispose d'un délai d'un mois pour procéder
+aux émissions des ordres de recettes correspondant aux droits acquis au cours de l'exercice précédent et des ordres de
+dépenses correspondant à des services faits avant la clôture dudit exercice.
+
+Les crédits de la section d'investissement du budget correspondant à des dépenses engagées et non mandatées à la clôture d'un
+exercice sont notifiés par l'ordonnateur au comptable et reportés au budget de l'exercice suivant.
+
+Les reports de crédits ne peuvent, en aucun cas, porter sur des crédits de la section de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*423-20 (V)
+
+
+###### Article R423-32-4
+
+Le directeur général détermine l'emploi des fonds qui excèdent les besoins courants de trésorerie dans les conditions prévues
+aux articles R. 423-14 et R. 423-15.
+
+Le comptable le renseigne de façon permanente sur la situation comptable et financière.
+
+Le comptable a seul qualité pour effectuer les emplois de fonds et valeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R423-14, R423-15
+
+
+###### Article R423-32-5
+
+Le directeur général peut prendre, à tout moment, connaissance des éléments de la comptabilité de l'office.
+
+Le comptable peut être chargé par le conseil d'administration, sur proposition du directeur général, de la tenue de la
+comptabilité d'engagement et d'ordonnancement ou de l'une ou l'autre. A ce titre, il relève du directeur général, qui lui
+fournit le personnel et les moyens nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-32-6
+
+Les états financiers réunissent le compte administratif du directeur général et le compte de gestion du comptable.
+
+Le bilan et le compte de résultat sont préparés par le comptable et visés par le directeur général.
+
+Les instructions prévues à l'article R. 423-30 fixent l'ensemble des informations constituant l'annexe et définissent la
+répartition des tâches entre le comptable et l'ordonnateur pour son élaboration.
+
+Ces documents sont obligatoirement accompagnés d'un rapport du directeur général sur l'activité de l'office pendant l'année
+écoulée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+
+
+###### Article R423-32-7
+
+Au plus tard quinze jours après le délai limite fixé selon le cas par l'article 9 ou par l'article 51 de la loi du 2 mars
+1982 susvisée pour l'adoption des états financiers, des copies de ceux-ci ainsi que du rapport du directeur général sont
+adressées au préfet et au ministre chargé de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-213 du 2 mars 1982
+	  - Loi n°82-213 du 2 mars 1982 - art. 51
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-33
+
+Le défaut de transmission des états financiers à l'autorité compétente est au nombre des irrégularités, fautes graves ou
+carences qui peuvent justifier l'application de l'article R. 421-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-13 (V)
 
 
 ##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
 
-###### Article R423-39
+###### Article R*423-63
 
-Les comptes des offices publics départementaux d'habitations à loyer modéré sont apurés par la Cour des comptes.
-
-Ceux des offices publics municipaux sont apurés par la Cour des comptes ou arrêtés par le trésorier-payeur général dans les
-conditions prévues par le décret du 8 août 1935 et les textes qui l'ont modifié.
+Les états financiers réunissent le compte administratif du président du conseil d'administration et le compte de gestion du
+comptable. Ils comprennent le bilan, le compte de résultats, l'annexe et tous les documents justificatifs énumérés par les
+instructions prévues à l'article R. 423-40.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 18 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
 	**Cite**:
 
-	  - Décret  1935-08-08
+	  - Code de l'urbanisme - art. R*423-40 (V)
+
+
+###### Article R*423-63-1
+
+Le conseil d'administration de l'office délibère sur l'affectation du résultat de l'exercice clos selon le schéma suivant :
+
+A. - Le bénéfice est affecté :
+
+1° En priorité :
+
+a) En cas de cession de biens immobiliers, dans la limite de la plus-value correspondante, au compte de réserve Plus-values
+nettes sur cessions immobilières ;
+
+b) Au compte de report à nouveau, dans la limite du solde débiteur de ce compte.
+
+2° Pour le solde :
+
+a) Au compte de réserve de compensation ;
+
+b) Au compte de réserves diverses ;
+
+c) Au compte de report à nouveau.
+
+Le report à nouveau créditeur est affecté au financement des investissements lors de la clôture financière des opérations.
+
+B. - Le déficit est couvert :
+
+1° En priorité, par une reprise totale ou partielle sur la réserve de compensation et, éventuellement, sur les réserves
+diverses.
+
+2° Le cas échéant, pour le reliquat, par une imputation sur le compte de report à nouveau.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°51-297 1951-03-03 art. 8
+	  - Décret n°78-213 1978-02-16 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 19 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-34
+
+Le président du conseil d'administration procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation
+et à l'ordonnancement des dépenses.
+
+Il est qualifié pour recevoir tous exploits et significations concernant l'office autres que ceux mentionnés à l'article R.
+423-55.
+
+L'hypothèque légale attribuée aux droits et créances de l'établissement sur les biens du comptable par application de
+l'article 2121 du code civil est inscrite, le cas échéant, à la diligence du président du conseil d'administration.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Cite**:
+
+	  - Code civil - art. 2121 (T)
+	  - Code de la construction et de l'habitation. - art. R423-55 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
+
+
+###### Article R423-35
+
+Le comptable est chargé, sous sa responsabilité, de la perception des recettes et du paiement des dépenses. Détenteur de la
+caisse, il a seul qualité, sous réserve des dispositions des articles R. 423-57 et R. 423-58, pour effectuer tout maniement
+de fonds et de valeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 21 () JORF 15 septembre 1988
+
 	**Abrogé par**:
 
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-57
+	  - Code de la construction et de l'habitation. - art. R423-58
+
+
+###### Article R423-36
+
+Aucun comptable ne peut entrer en fonction s'il n'a justifié de la réalisation du cautionnement auquel il est astreint, s'il
+n'a prêté serment et s'il n'a été régulièrement installé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+	  - Décret n°88-921 du 9 septembre 1988 - art. 21 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-37
+
+Le comptable veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, au
+président du conseil d'administration toute représentation utile pour que soit assurée cette conservation.
+
+Il est tenu de faire, sous sa responsabilité personnelle, toutes diligences nécessaires pour assurer la rentrée des sommes
+dues à l'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-38
+
+Le comptable de l'office est placé sous la surveillance du receveur particulier des finances.
+
+La gestion des comptables est, lorsqu'ils sont à la fois receveurs percepteurs ou percepteurs, placée sous la responsabilité
+des receveurs particuliers des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 4 () JORF 29 novembre 2005
 
 
 ###### Article R423-40
@@ -53018,6 +53249,110 @@ et de l'habitation et du ministre chargé des finances.
 	  - Code de la construction et de l'habitation. - art. R423-67 (Ab)
 
 
+###### Article R423-41
+
+Sous réserve des dispositions de l'article R. 423-45 ci-après, les immobilisations sont comptabilisées soit pour leur prix de
+revient, soit pour leur coût d'acquisition, soit, en cas de donation, pour leur valeur vénale.
+
+Le prix de revient des immobilisations comprend les dépenses d'acquisition ainsi que le montant des travaux de construction,
+d'agrandissement et d'amélioration, à l'exclusion des travaux de grosses réparations et d'entretien. Les frais d'architecte
+sont compris dans le prix de revient des immobilisations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-45 (V)
+
+
+###### Article R423-42
+
+Les dotations de l'exercice aux comptes d'amortissement des immobilisations doivent permettre l'amortissement intégral de la
+valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée de vie économique.
+
+Pendant cette période, les dotations globales cumulées aux comptes d'amortissement des immobilisations seront au moins égales
+au montant cumulé des remboursements des emprunts contractés pour le financement de celles-ci. La faculté donnée de différer
+le remboursement du capital de certains emprunts ne dispense pas les offices de doter pendant cette période les comptes
+d'amortissement des immobilisations correspondantes.
+
+Sous réserve des dispositions ci-dessus, le conseil d'administration fixe le rythme d'amortissement des immobilisations en
+fonction de la durée de vie économique de celles-ci. A l'issue du remboursement des emprunts correspondants, une dotation est
+constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
+
+Si, en cours d'amortissement, des dépréciations particulières apparaissent, des dotations complémentaires aux comptes
+d'amortissement sont effectuées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+
+
+###### Article R423-43
+
+Les instructions prévues à l'article R. 423-40 fixent notamment les conditions dans lesquelles le conseil d'administration
+détermine les dotations annuelles aux provisions pour risques et pour dépréciation ainsi que les dotations annuelles aux
+amortissements des charges à répartir sur plusieurs exercices.
+
+La dotation annuelle à la provision pour grosses réparations peut varier, selon les besoins et les possibilités de l'office,
+sans jamais pouvoir être inférieure à une fraction de la valeur brute actualisée des immobilisations fixée en application des
+instructions mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-40 (V)
+
+
+###### Article R423-44
+
+Les sommes dues en loyers, charges et accessoires par les locataires ayant quitté leur logement et par ceux dont la dette a
+une origine antérieure à un an sont provisionnées en totalité. Lorsque l'origine de la dette est comprise entre trois mois et
+un an, les sommes dues sont provisionnées selon les taux et dans les conditions fixés par les instructions prévues à
+l'article R. 423-40. Le calcul de ces provisions s'effectue sur la base des créances échues et non recouvrées au 31 décembre
+[*date*], exception faite du quittancement de décembre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-40 (V)
+
+
 ###### Article R423-45
 
 Les modalités de révision des bilans sont fixées éventuellement par des arrêtés du ministre chargé de la construction et de
@@ -53042,30 +53377,113 @@ l'habitation et du ministre chargé des finances.
 	  - Code de la construction et de l'habitation. - art. R423-41 (Ab)
 
 
-###### Article R423-46
+###### Article R423-47
 
-Le budget est voté par articles pour les recettes et les dépenses.
+Le budget d'un office comprend l'ensemble des prévisions de dépenses et de recettes de l'exercice. 
 
-Les articles du budget doivent correspondre, distinctement ou par groupes, aux rubriques éventuellement complétées ou
-subdivisées du cadre comptable prévu à l'article R. 423-40.
+Il est présenté en conformité avec la nomenclature comptable fixée par les instructions prévues à l'article R. 423-40. 
+
+Il est divisé en une section d'investissement et une section de fonctionnement. 
+
+Il est accompagné de budgets annexes correspondant à chacune des opérations réalisées pour le compte de tiers. 
+
+Au budget de l'office et aux budgets annexes sont jointes toutes justifications nécessaires, telles que les bilans, plans de
+financement et de trésorerie mis à jour des opérations en cours ou nouvelles et les prévisions d'engagement pour l'exercice à
+venir. 
+
+Les opérations d'investissement doivent comporter des programmes prévisionnels d'investissement accompagnés de plans de
+financement. Les plans de financement précisent l'origine et le montant des moyens financiers prévus pour chaque opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 14 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-40 (V)
+
+
+###### Article R423-48
+
+Les chapitres et articles du budget sont déterminés par un arrêté conjoint du ministre chargé des finances, du ministre
+chargé de la construction et de l'habitation et du ministre chargé des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 14 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-50
+
+L'ordonnateur peut effectuer des virements d'article à article à l'intérieur d'un même chapitre budgétaire dans les
+conditions prévues par l'article L. 212-2 du code des communes pour les offices communaux et intercommunaux et par l'article
+50 de la loi n° 82-213 du 2 mars 1982 modifiée pour les offices départementaux et interdépartementaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 50 (Ab)
+	  - CODE DES COMMUNES. - art. L212-2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 14 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-50-1
+
+Le budget, les budgets annexes et les délibérations de programme sont préparés par le président avec le concours du
+comptable. Le conseil d'administration vote le montant des crédits ouverts aux différentes sections du budget et des budgets
+annexes.
+
+Les délibérations modificatives sont préparées et approuvées selon la même procédure et dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°51-297 1951-03-03 art. 15
+	  - Décret n°51-297 1951-03-03 ART. 19
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Créé par**:
 
-	  - Code de la construction et de l'habitation. - art. R423-40 (V)
+	  - Décret n°88-921 du 9 septembre 1988 - art. 15 () JORF 15 septembre 1988
 
 	**Abrogé par**:
 
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
 ###### Article R423-51
@@ -53087,13 +53505,14 @@ Le budget s'exécute par gestion annuelle.
 	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
-###### Article R423-52
+###### Article R423-53
 
-Sous réserve des dispositions spéciales de la présente sous-section, les règles établies pour les maires et les comptables
-des communes, en ce qui concerne le recouvrement des recettes ainsi que l'ordonnancement et le paiement des dépenses, sont
-applicables aux offices publics d'habitations à loyer modéré.
+Le recouvrement des produits de l'office est poursuivi dans les conditions prévues par le décret n° 81-362 du 13 avril 1981
+relatif au recouvrement des produits des collectivités et des établissements publics locaux. 
 
-Les titres de recettes et de dépenses sont transmis directement au receveur par le président du conseil d'administration.
+Si les poursuites engagées ne permettent pas d'assurer le recouvrement des sommes dues à l'office, le comptable en rend
+compte immédiatement au président du conseil d'administration à qui il appartient de prendre toutes mesures, notamment pour
+faire prononcer la résiliation des contrats à raison de leur inexécution.
 
 **Liens relatifs à cet article**
 
@@ -53101,60 +53520,122 @@ Les titres de recettes et de dépenses sont transmis directement au receveur par
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Cite**:
+
+	  - Décret n°81-362 du 13 avril 1981, v. init.
+
 	**Modifié par**:
 
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+	  - Décret n°88-921 du 9 septembre 1988 - art. 16 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-54
+
+Les créanciers des offices qui en font la demande peuvent obtenir le règlement de leur créance par chèque tiré sur le compte
+ouvert au Trésor au nom de l'office débiteur.
+
+Dans ce cas, la preuve de l'extinction de la dette à rapporter au juge des comptes est constituée par le mandat de paiement
+dûment annoté de l'émission du chèque par le comptable, accompagné, s'il y a lieu, des pièces justificatives.
+
+Les conditions d'application du présent article sont arrêtées de concert entre le ministre chargé de la construction et de
+l'habitation et le ministre chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-55
+
+Toute saisie-arrêt sur les sommes dues par l'office, toutes significations de cession ou de transport desdites sommes et
+toutes autres ayant pour objet d'arrêter le paiement doivent être faites entre les mains du comptable.
+
+En cas de règlement par chèque, aucune saisie-arrêt ou opposition, aucun transport ou cession, aucune signification ayant
+pour objet d'arrêter le paiement de la créance ne peuvent avoir d'effet en ce qui concerne la somme inscrite au mandat, s'ils
+interviennent après que le comptable a délivré le chèque au profit du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+	  - Code de la construction et de l'habitation. - art. R423-34 (Ab)
 
 
-###### Article R423-56
+###### Article R423-57
 
-A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le président du conseil d'administration peut,
-sous sa responsabilité et par écrit, requérir le receveur d'avoir à passer outre à des irrégularités alléguées par ce
-comptable pour refuser le paiement d'un mandat et de procéder au paiement de ce mandat sans autre délai.
-
-Le président du conseil d'administration est tenu de rendre compte immédiatement au préfet des circonstances et des motifs
-qui ont nécessité de sa part l'application de cette mesure. Le receveur de son côté en donne avis au receveur des finances.
-
-L'acte de réquisition et une copie de la déclaration de refus de paiement sont annexés au mandat.
-
-Cette procédure ne peut jamais s'exercer quand le refus de paiement est fondé sur un des motifs ci-après :
-
-1° Insuffisance de fonds appartenant à l'office ;
-
-2° Absence ou insuffisance de crédit budgétaire ;
-
-3° Opposition dûment signifiée ;
-
-4° Difficultés touchant à la validité de la quittance ;
-
-5° Défaut de justification du service fait ;
-
-6° Extinction de la dette de l'office ;
-
-7° Inobservation de formalités nécessitant l'intervention d'une autorité supérieure en vertu d'un texte législatif ou
-réglementaire.
+Les opérations de recettes et de dépenses peuvent, par décision du conseil d'administration, être confiées à des régisseurs
+de recettes et d'avances, conformément à la réglementation applicable aux collectivités locales et aux établissements publics
+locaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+	  - Décret n°88-921 du 9 septembre 1988 - art. 17 () JORF 15 septembre 1988
 
 	**Abrogé par**:
 
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R423-35 (Ab)
+
+
+###### Article R423-58
+
+L'encaissement des loyers et accessoires peut, avec l'agrément du conseil d'administration, être effectué par des agents
+spéciaux, sous la responsabilité du comptable et, s'il y a lieu, de régisseurs de recettes.
+
+Leur montant doit être versé au comptable dans le délai de trois jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R423-35 (Ab)
 
 
 ###### Article R423-59
@@ -53215,6 +53696,117 @@ En dehors des opérations prévues par la législation en vigueur l'office ne pe
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+###### Article R423-62
+
+En fin d'année, le président du conseil d'administration arrête les livres du comptable, dont il peut prendre à tout moment
+connaissance et se fait présenter les rentes et valeurs mobilières appartenant à l'office.
+
+S'il s'agit d'un comptable spécial, il constate l'existence des valeurs en caisse, ainsi que les soldes des comptes courants.
+
+Il dresse procès-verbal de ces différentes opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
+
+
+###### Article R423-64
+
+Le bilan et le compte de résultat sont préparés par le comptable et visés par le président du conseil d'administration. 
+
+Les instructions prévues à l'article R. 423-40 fixent l'ensemble des informations constituant l'annexe et définissent la
+répartition des tâches entre le comptable et l'ordonnateur pour son élaboration. 
+
+Ces documents sont obligatoirement accompagnés d'un rapport du président du conseil d'administration sur l'activité de
+l'office pendant l'année écoulée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 20 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-40 (Ab)
+
+
+###### Article R423-65
+
+Au plus tard quinze jours après le délai limite fixé selon le cas par l'article 9 ou par l'article 51 de la loi du 2 mars
+1982 susvisée pour l'adoption des états financiers, des copies de ceux-ci ainsi que du rapport du président du conseil
+d'administration sont adressées au préfet et au ministre chargé de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 20 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R423-67 (Ab)
+
+
+###### Article R423-67
+
+Les instructions interministérielles prévues à l'article R. 423-40 déterminent la contexture du compte financier ainsi que la
+nomenclature des pièces justificatives à produire par le comptable, conformément à l'article R. 423-65.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 21 () JORF 15 septembre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-40 (Ab)
+	  - Code de la construction et de l'habitation. - art. R423-65 (Ab)
 
 
 ##### Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité
@@ -53496,6 +54088,69 @@ la réglementation ou aux instructions en vigueur.
 	  - Code de la construction et de l'habitation. - art. R423-73 (V)
 
 
+##### Section 1 : Dispositions communes financières et comptables.
+
+##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
+
+###### Article R423-49
+
+La section d'investissement présente notamment, en recettes et en dépenses, conformément à la nomenclature comptable, les
+opérations à effectuer au titre des comptes de capitaux, des comptes d'immobilisations, des comptes de stocks, des charges à
+répartir sur plusieurs exercices, des provisions pour dépréciation des comptes de tiers et des comptes financiers.
+
+" La section de fonctionnement fait apparaître :
+
+" a) Au titre des charges : les charges d'exploitation, les charges financières et les charges exceptionnelles ;
+
+" b) Au titres des produits : les produits d'exploitation, les produits financiers et les produits exceptionnels.
+
+" En outre, la section de fonctionnement fait apparaître, au titre des charges, selon des délais et des modalités fixés par
+les instructions prévues à l'article R. 423-40, tout ou partie du report à nouveau figurant au bilan de l'avant-dernier
+exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 14 () JORF 15 septembre 1988
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-40 (V)
+
+
+###### Article R423-66
+
+Le défaut de transmission des états financiers à l'autorité compétente est au nombre des irrégularités, fautes graves ou
+carences qui peuvent justifier l'application des articles R. 421-59 et R. 421-60. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-921 du 9 septembre 1988 - art. 20 () JORF 15 septembre 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-59, R421-60
+
+
 ##### Section 2 : Dispositions domaniales.
 
 ###### Article R*423-84
@@ -53625,69 +54280,6 @@ l'article précédent et notamment les conditions de leur affectation à la réa
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R423-82 (V)
-
-
-### Titre II  : Organismes d'HLM.
-
-#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organisme d'HLM
-
-##### Section 1 : Dispositions communes financières et comptables
-
-##### Sous-section 2 : Dispositions particulières aux offices publics d'habitation à loyer modéré
-
-###### Article R423-63
-
-Le compte financier réunit le compte administratif du président du conseil d'administration et le compte de gestion du
-receveur.
-
-Il comprend [*contenu*] :
-
-1° Le détail des opérations de l'année ;
-
-2° Le Bilan ;
-
-3° Les états annexes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-
-#### Chapitre III : Dispositions applicables à la gestion des diverses  catégories d'organismes d'HLM
-
-##### Section 1 : Dispositions financières et comptables
-
-##### Sous-section 2 : Dispositions particulières aux offices publics  d'habitations à loyer modéré
-
-###### Article R423-64
-
-Le compte financier est préparé par le receveur et visé par le président du conseil d'administration, qui certifie sa
-conformité avec ses écritures d'ordonnateur.
-
-Il est obligatoirement accompagné d'un rapport du président du conseil d'administration sur l'activité de l'office pendant
-l'année écoulée.
-
-Il est délibéré par le conseil d'administration et réglé par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
 
 
 ### Titre III : Dispositions financières.
@@ -59555,620 +60147,6 @@ Réservé.
 	**Codifié par**:
 
 	  - Décret n°78-622 du 31 mai 1978, v. init.
-
-
-## Livre IV : Habitations à loyer modéré.
-
-### Titre II : Organismes d'habitations à loyer modéré.
-
-#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.
-
-##### Section 2 : Offices publics d'habitations à loyer modéré
-
-##### Sous-section 1 : Création et gestion.
-
-###### Article R*421-61
-
-Le conseil d'administration règle par ses délibérations les affaires de l'office [*attributions*].
-
-Ne sont exécutoires, qu'après avoir été approuvées par les préfets, les délibérations portant sur :
-
-1. Les budgets ; ceux-ci doivent au préalable avoir été soumis à l'avis de l'organe délibérant de la collectivité locale ou
-de l'établissement public de rattachement de l'office ;
-
-2. Les acquisitions d'immeubles ;
-
-3. Les aliénations de valeurs mobilières ;
-
-4. Les conventions passées avec les architectes et techniciens.
-
-Les délibérations portant sur des emprunts ne sont exécutoires que dans les conditions prévues par arrêté du ministre chargé
-de la construction et de l'habitation, du ministre chargé des finances et du ministre de l'intérieur [*tutelle*].
-
-Le président du conseil d'administration ordonnance les dépenses.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R421-65
-
-La rémunération des agents des offices d'habitations à loyer modéré comprend le traitement, l'indemnité de résidence, le
-supplément familial de traitement, les prestations familiales obligatoires ainsi que toutes indemnités instituées par un
-texte législatif ou réglementaire et ayant le caractère de complément de traitement.
-
-Les dispositions relatives à la valeur du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de
-l'indemnité de résidence, des prestations familiales, du supplément familial de traitement ainsi que de toutes autres
-indemnités instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement sont
-applicables de plein droit aux agents des offices d'habitations à loyer modéré.
-
-Dans un office d'habitations à loyer modéré, tout titulaire d'un emploi comportant une échelle indiciaire fixée par arrêté du
-ministre chargé de la construction et de l'habitation, du ministre de l'intérieur et du ministre de l'économie et des
-finances après avis de la commission administrative paritaire compétente, bénéficie de cette échelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 171
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L411-8 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
-
-
-###### Article R421-66
-
-Conformément à l'article L. 421-7, les dispositions du règlement d'administration public fixant le statut des receveurs des
-offices publics d'habitations à loyer modéré précisent en particulier, pour ceux des agents qui n'ont pas la qualité de
-comptable du Trésor, les conditions de nomination, de suspension et de révocation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 171 al. 1
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L411-8 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L421-7 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
-
-
-#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré
-
-##### Dispositions financières et comptables
-
-##### Dispositions particulières aux offices publics d'habitations à loyer modéré.
-
-###### Article R423-34
-
-Le président du conseil d'administration procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation
-et à l'ordonnancement des dépenses.
-
-Il est qualifié pour recevoir tous exploits et significations concernant l'office autres que ceux mentionnés à l'article R.
-423-55.
-
-L'hypothèque légale attribuée aux droits et créances de l'établissement sur les biens du receveur par application de
-l'article 2121 du code civil est inscrite, le cas échéant, à la diligence de l'administrateur délégué.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-	**Cite**:
-
-	  - Code civil - art. 2121 (T)
-	  - Code de la construction et de l'habitation. - art. R423-55 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-
-###### Article R423-35
-
-Les fonctions de receveur de l'office sont confiées, soit à un receveur spécial, soit à un receveur percepteur ou à un
-percepteur.
-
-Le receveur est chargé, sous sa responsabilité, de la perception des recettes et du paiement des dépenses. Détenteur de la
-caisse, il a seul qualité, sous réserve des dispositions des articles R. 423-57 et R. 423-58, pour effectuer tout maniement
-de fonds et de valeurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-57 (M)
-	  - Code de la construction et de l'habitation. - art. R423-58 (M)
-
-
-###### Article R423-36
-
-Le receveur est nommé, suspendu et révoqué suivant la procédure fixée par l'article L. 421-6.
-
-Le préfet ou le ministre qui a nommé ou révoqué le receveur porte la nomination ou la révocation à la connaissance du
-procureur général près la Cour des comptes.
-
-Son traitement est fixé, sur proposition du conseil d'administration et après avis du receveur particulier des finances, par
-le préfet, conformément à un barème fixé par décret pris sur le rapport du ministre chargé de la construction et de
-l'habitation et du ministre chargé des finances.
-
-Aucun receveur ne peut entrer en fonction s'il n'a justifié de la réalisation du cautionnement auquel il est astreint, s'il
-n'a prêté serment et s'il n'a été régulièrement installé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L421-6 (M)
-
-
-###### Article R423-37
-
-Le receveur veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, au
-président du conseil d'administration toute représentation utile pour que soit assurée cette conservation.
-
-Il est tenu de faire, sous sa responsabilité personnelle, toutes diligences nécessaires pour assurer la rentrée des sommes
-dues à l'office [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-
-###### Article R423-38
-
-Le receveur de l'office est placé sous la surveillance du receveur particulier des finances.
-
-La gestion des receveurs est, lorsque ces comptables sont à la fois receveurs percepteurs ou percepteurs, placée sous la
-responsabilité des receveurs particuliers des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-###### Article R423-41
-
-Sous réserve des dispositions de l'article R. 423-45 ci-après, les immobilisations sont comptabilisées pour leur prix de
-revient.
-
-Le prix de revient des immobilisations comprend les dépenses d'acquisition, ainsi que le montant des travaux de construction,
-d'agrandissement et d'amélioration à l'exclusion des travaux d'entretien proprement dits. Les frais d'architectes sont
-compris dans le prix de revient des immobilisations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-45 (V)
-
-
-###### Article R423-42
-
-Les dotations de l'exercice aux comptes d'amortissements des constructions doivent permettre l'amortissement intégral de la
-valeur des constructions, terrains exclus, dans une période limitée à la durée de remboursement des emprunts à long terme
-contractés pour la construction des immeubles en cause.
-
-Si en cours d'amortissement il apparaît en raison de l'état des constructions que les amortissements effectués ne sont pas
-suffisants, il est procédé à des amortissements supplémentaires.
-
-La faculté donnée par l'article 2 de la loi n. 47-1686 du 3 septembre 1947 de différer pendant cinq ans l'amortissement des
-emprunts consentis par l'Etat au titre de la législation sur les habitations à loyer modéré ne saurait être interprétée comme
-dispensant les offices de doter pendant cette période les comptes d'amortissements des constructions correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1686 1947-09-03 ART. 2
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-43
-
-Le mode de calcul de la dotation de l'exercice au compte de provisions pour grosses réparations est fixé par les instructions
-prévues à l'article R. 423-40.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-40 (V)
-
-
-###### Article R423-44
-
-La provision pour créances douteuses de loyer doit être au moins égale, après sa dotation de fin d'année, au montant des
-loyers échus depuis plus d'un an et non recouvrés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-47
-
-Le budget d'un office comprend [*contenu*] :
-
-1. Une section d'exploitation correspondant aux comptes de produit par nature et de charges par nature ;
-
-2. Une section de pertes et profits correspondant aux comptes de résultats ;
-
-3. Une section d'investissement correspondant aux comptes de capitaux permanents et de valeurs immobilisées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-48
-
-Le montant des recettes prévues à la section d'exploitation doit, en principe, être au moins égal au montant des crédits
-ouverts au titre de cette section.
-
-Le montant total des recettes prévues pour l'ensemble du budget doit, en tout cas, être au moins égal au montant des crédits
-ouverts pour l'ensemble du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-49
-
-Le budget est présenté au conseil d'administration par le président du conseil d'administration. Il est délibéré, voté et,
-avant le 1er novembre [*délai*] de l'année précédant l'exercice pour lequel il est voté, soumis à l'approbation du préfet
-[*tutelle*].
-
-Suivant le cas, il est pris l'avis du conseil municipal, du comité du syndicat de communes, de la commission départementale
-et, pour tous les offices, du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat.
-Des crédits additionnels peuvent être accordés en cours d'année suivant la procédure prévue pour le vote du budget et pour
-son approbation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-
-###### Article R423-50
-
-Il peut être ouvert à la section d'exploitation du budget, en vue de faire face aux dépenses urgentes pour lesquelles aucun
-crédit n'est disponible, un crédit pour dépenses imprévues.
-
-Les instructions prévues à l'article R. 423-40 fixent les conditions dans lesquelles les dépenses peuvent être imputées sur
-ce crédit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-40 (V)
-
-
-###### Article R423-53
-
-Les poursuites exercées par les receveurs pour le recouvrement des produits revenant aux offices ont lieu comme en matière
-d'impôts directs.
-
-Le recouvrement des créances des offices ne résultant pas d'un contrat exécutoire est poursuivi sur proposition du président
-du conseil d'administration en vertu d'un arrêté du préfet pour les produits dus aux offices départementaux et en vertu
-d'états exécutoires émis par le maire et visés par le préfet ou le sous-préfet pour les produits dus aux offices communaux.
-
-Si les poursuites engagées dans les conditions prévues aux deux alinéas précédents ne permettent pas d'assurer le
-recouvrement des sommes dues à l'office, le receveur en rend compte immédiatement au président du conseil d'administration à
-qui il appartient de prendre toutes mesures pour faire prononcer la résiliation des contrats à raison de l'inexécution des
-engagements souscrits par les débiteurs de l'office.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-
-###### Article R423-54
-
-Les créanciers des offices qui en font la demande peuvent obtenir le règlement de leur créance par chèque tiré sur le compte
-ouvert au Trésor au nom de l'office débiteur.
-
-Dans ce cas, la preuve de l'extinction de la dette à rapporter au juge des comptes est constituée par le mandat de paiement
-dûment annoté de l'émission du chèque par le receveur, accompagné, s'il y a lieu, des pièces justificatives.
-
-Les conditions d'application du présent article sont arrêtées de concert entre le ministre chargé de la construction et de
-l'habitation et le ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-55
-
-Toute saisie-arrêt sur les sommes dues par l'office, toutes significations de cession ou de transport desdites sommes et
-toutes autres ayant pour objet d'arrêter le paiement doivent être faites entre les mains du receveur.
-
-En cas de règlement par chèque, aucune saisie-arrêt ou opposition, aucun transport ou cession, aucune signification ayant
-pour objet d'arrêter le paiement de la créance ne peuvent avoir d'effet en ce qui concerne la somme inscrite au mandat, s'ils
-interviennent après que le comptable a délivré le chèque au profit du créancier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-34 (Ab)
-
-
-###### Article R423-57
-
-Les opérations de recettes et des dépenses peuvent, par décision du conseil d'administration, être confiées à des régisseurs
-de recettes et de dépenses, conformément à la réglementation applicable aux opérations effectuées par les communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 26
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-35 (Ab)
-
-
-###### Article R423-58
-
-L'encaissement des loyers et accessoires peut, avec l'agrément du conseil d'administration, être effectué par des agents
-spéciaux, sous la responsabilité du receveur et, s'il y a lieu, de régisseurs de recettes.
-
-Leur montant doit être versé au receveur dans le délai de trois jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-35 (Ab)
-
-
-###### Article R423-62
-
-En fin d'année, le président du conseil d'administration arrête les livres du receveur, dont il peut prendre à tout moment
-connaissance et se fait présenter les rentes et valeurs mobilières appartenant à l'office.
-
-S'il s'agit d'un receveur spécial, il constate l'existence des valeurs en caisse, ainsi que les soldes des comptes courants.
-
-Il dresse procès-verbal de ces différentes opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-
-###### Article R423-65
-
-Avant le 1er mai de l'année qui suit la clôture des écritures [*délai*], le compte financier, accompagné du budget et des
-pièces justificatives, est adressé au receveur particulier des finances.
-
-Celui-ci, après examen, le transmet à la Cour des comptes ou au trésorier-payeur général pour apurement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-67 (Ab)
-
-
-###### Article R423-66
-
-Dans le même délai, des copies du compte financier et du rapport du président du conseil d'administration sont adressées au
-préfet, au ministre chargé de la construction et de l'habitation et à la caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
-
-
-###### Article R423-67
-
-Les instructions interministérielles prévues à l'article R. 423-40 déterminent la contexture du compte financier ainsi que la
-nomenclature des pièces justificatives à produire par le receveur, conformément à l'article R. 423-65.
-
-Les receveurs qui ne présentent pas leurs comptes dans les délais prescrits peuvent être condamnés par l'autorité chargée de
-juger lesdits comptes aux amendes prévues par l'article 159 de la loi du 15 avril 1884 [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 36
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-40 (V)
-	  - Code de la construction et de l'habitation. - art. R423-65 (M)
-	  - Loi   1884-04-15 ART. 159
 
 
 ## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.
