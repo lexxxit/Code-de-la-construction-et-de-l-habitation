@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-11-05
+Version Consolidée au 1994-01-01
 
 # Partie législative
 
@@ -1416,19 +1416,23 @@ déclaration réglementaire d'ouverture est établie après cette date.
 
 ###### Article L112-1
 
-Conformément aux articles 4 et 5 de l'édit du 16 décembre 1607 sur les attributions du grand voyer de France, à l'arrêt du
-conseil du roi du 27 février 1765 et à l'article 52 de la loi du 16 septembre 1807, aucune construction ne peut être élevée
-en bordure d'une voie publique sans être conforme à l'alignement [*obligation*].
+Conformément à l'article L.112-5 du code de la voirie routière et à l'article 52 de la loi du 16 septembre 1807, aucune
+construction ne peut être élevée en bordure d'une voie publique sans être conforme à l'alignement.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 16 septembre 1807 - art. 52 (Ab)
+	  - Code de la voirie routière - art. L112-5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°1807-09-16 art. 52 (rappel)
+	  - Loi n°89-413 du 22 juin 1989 - art. 4 (V) JORF 24 juin 1989
 
 
 ###### Article L112-2
@@ -13607,27 +13611,35 @@ collectivités concernées. "
 Les sociétés anonymes de crédit immobilier, les établissements de crédit qu'elles contrôlent ensemble ou séparément,
 directement ou indirectement, et leur caisse centrale sont affiliés à un réseau doté d'un organe central.
 
-" L'organe central du réseau des sociétés anonymes de crédit immobilier est régi par les articles 21 et 22 de la loi n° 84-46
+L'organe central du réseau des sociétés anonymes de crédit immobilier est régi par les articles 21 et 22 de la loi n° 84-46
 du 24 janvier 1984 précitée. Il exerce les pouvoirs de contrôle prévus auxdits articles sans préjudice des dispositions de
 l'article L. 451-1 du présent code. Il a la forme d'une association de la loi du 1er juillet 1901 relative au contrat
 d'association et prend le nom de "chambre syndicale des sociétés anonymes de crédit immobilier".
 
-" La chambre syndicale des sociétés anonymes de crédit immobilier constitue un fonds de garantie et d'intervention.
+La chambre syndicale des sociétés anonymes de crédit immobilier constitue un fonds de garantie et d'intervention.
 
-" Les dirigeants de chacun des établissements de crédit, membres du réseau, mentionnés à l'article 17 de la loi n° 84-46 du
-24 janvier 1984 précitée doivent être agréés par la chambre syndicale, qui s'assure que ces dirigeants possèdent
-l'honorabilité nécessaire et l'expérience adéquate à leurs fonctions. Lorsque les conditions d'honorabilité ne sont plus
-remplies, l'agrément est retiré.
+Les dirigeants de chacun des établissements de crédit, membres du réseau, mentionnés à l'article 17 de la loi n° 84-46 du 24
+janvier 1984 précitée doivent être agréés par la chambre syndicale, qui s'assure que ces dirigeants possèdent l'honorabilité
+nécessaire et l'expérience adéquate à leurs fonctions. Lorsque les conditions d'honorabilité ne sont plus remplies,
+l'agrément est retiré.
 
-" La chambre syndicale des sociétés anonymes de crédit immobilier peut prononcer à l'égard d'un établissement du réseau les
+La chambre syndicale des sociétés anonymes de crédit immobilier peut prononcer à l'égard d'un établissement du réseau les
 sanctions disciplinaires de l'avertissement, du blâme et de la radiation de l'affiliation au réseau ; elle peut prononcer à
 l'égard des dirigeants les sanctions disciplinaires de l'avertissement, du blâme et du retrait d'agrément.
 
-" Le président de la chambre syndicale est de droit président de la caisse centrale des sociétés anonymes de crédit
-immobilier, dont le capital est détenu majoritairement par les sociétés anonymes de crédit immobilier.
+Le président de la chambre syndicale est de droit président de la caisse centrale des sociétés anonymes de crédit immobilier,
+dont le capital est détenu majoritairement par les sociétés anonymes de crédit immobilier. Toutefois, en cas
+d'incompatibilité rendant impossible l'exercice par le président de la chambre syndicale du mandat de président de la caisse
+centrale, ce dernier est nommé par le conseil d'administration de la caisse centrale sur proposition du président de la
+chambre syndicale.
 
-" Un décret en Conseil d'Etat approuve les statuts de la chambre syndicale et précise, en tant que de besoin, les modalités
-d'application du présent article, notamment les conditions de mise en oeuvre des sanctions disciplinaires. "
+Un décret en Conseil d'Etat approuve les statuts de la chambre syndicale et précise, en tant que de besoin, les modalités
+d'application du présent article, notamment les conditions de mise en oeuvre des sanctions disciplinaires.
+
+Les statuts de la caisse centrale sont soumis à l'agrément de la chambre syndicale.
+
+La moitié au moins des membres du conseil d'administration de la caisse centrale sont désignés parmi les membres élus de
+l'instance délibérante de l'organe central.
 
 **Liens relatifs à cet article**
 
@@ -13643,9 +13655,9 @@ d'application du présent article, notamment les conditions de mise en oeuvre de
 	  - Loi n°84-46 du 24 janvier 1984 - art. 22 (Ab)
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-457 du 15 mai 1991 - art. 2 () JORF 17 mai 1991
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 13 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -13662,12 +13674,17 @@ immobilier, précisent notamment les conditions dans lesquelles celles-ci peuven
 sociétés pour effectuer les opérations visées au III de l'article L. 422-4 et les limites apportées, le cas échéant, à
 l'objet social de ces sociétés.
 
-" Les clauses types précisent, en outre, les conditions d'exercice du droit d'agrément et de préemption de l'organe central
-du réseau mentionné à l'article L. 422-4-1 ; le droit d'agrément porte sur les augmentations de capital et les cessions de
-parts ou d'actions des établissements de crédit membres dudit réseau, sur les fusions et scissions ainsi que sur les prises
-de participation de ces établissements ; les refus d'agrément doivent être motivés ; le droit de préemption porte sur les
-cessions de parts ou d'actions des établissements de crédit membres du réseau. L'organe central ne peut détenir que
-temporairement les parts ou actions ainsi préemptées. "
+Les clauses types précisent, en outre, les conditions d'exercice du droit d'agrément et de préemption de l'organe central du
+réseau mentionné à l'article L. 422-4-1 ; le droit d'agrément porte sur les augmentations de capital et les cessions de parts
+ou d'actions des établissements de crédit membres dudit réseau, sur les fusions et scissions ainsi que sur les prises de
+participation, les investissements et les cessions d'actifs de ces établissements ; les refus d'agrément doivent être
+motivés ; le droit de préemption porte sur les cessions de parts ou d'actions des établissements de crédit membres du réseau.
+L'organe central ne peut détenir que temporairement les parts ou actions ainsi préemptées.
+
+**Nota:**
+
+Décret n° 2006-665 art. 61 : Spécificités d'application.  La présente version de cet article est en vigueur jusqu'au 1er
+janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -13675,9 +13692,13 @@ temporairement les parts ou actions ainsi préemptées. "
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-457 du 15 mai 1991 - art. 3 () JORF 17 mai 1991
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 14 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
@@ -57132,37 +57153,6 @@ spécial est soumise à l'accord du ministre chargé des finances et du ministre
 
 ##### Section 1 : Dispositions communes financières et comptables.
 
-###### Article R423-1-1
-
-Les fonds déposés à la Caisse des dépôts et consignations en application des articles R. 423-14-1, R. 423-60-1 et R. 423-74-1
-sont affectés exclusivement au financement du logement social. Une convention conclue entre le ministre chargé de l'économie
-et des finances et la Caisse des dépôts et consignations précise les modalités de gestion et d'utilisation de ces fonds. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 5 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-	**Cité par**:
-
-	  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-60-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (M)
-
-
 ##### Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction.
 
 ##### Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction.
@@ -57692,203 +57682,6 @@ les règles relatives à la tenue des comptes.
 	**Abrogé par**:
 
 	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
-
-
-###### Article R423-14-1
-
-L'office est tenu de se faire ouvrir, auprès de la Caisse des dépôts et consignations, un compte sur livret dénommé " livret
-A-H.L.M. sur lequel sont déposés les fonds correspondant au total des sommes inscrites journellement sur les comptes suivants
-de la nomenclature comptable :
-
-" 272. Titres immobilisés (droits de créance).
-
-" Ensemble des comptes de la classe 5 figurant à l'actif et au passif du bilan.
-
-" Le respect de cette obligation de dépôt s'apprécie en fonction de la moyenne mensuelle des sommes inscrites sur les comptes
-en cause.
-
-" Une franchise, dont le montant est calculé le 1er janvier de chaque année dans les conditions prévues à l'article R.
-423-14-2, vient en déduction du montant du dépôt prévu à l'alinéa premier.
-
-" Le taux de rémunération des sommes placées sur le compte sur livret mentionné à l'alinéa premier est égal à celui qui est
-servi sur le premier livret des caisses d'épargne, sans que soient applicables les dispositions du premier alinéa de
-l'article 6 du code des caisses d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-	**Cité par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-3 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
-
-	**Cite**:
-
-	  - Code des caisses d'épargne - art. 6 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-
-###### Article R423-14-2
-
-Le montant de la franchise F prévue à l'article R. 423-14-1 est calculé, chaque année, par l'office par application de la
-formule :
-
-" F = D + EC + GR
-
-" dans laquelle :
-
-" D   représente le douzième des décaissements de l'année calendaire précédente ;
-
-" EC   représente le montant des charges prévisionnelles annuelles d'entretien courant, y compris les charges de personnel
-concourant à cet entretien ;
-
-" GR   représente le montant des charges prévisionnelles annuelles de grosses réparations.
-
-" Le montant de la franchise est au minimum de trente millions de francs.
-
-" Les comptes de la nomenclature comptable à prendre en considération pour le calcul de la franchise sont définis par arrêté
-du ministre chargé de l'économie et des finances et du ministre chargé du logement. Le calcul du montant de la franchise fait
-l'objet d'une déclaration annuelle de la part de l'office reposant sur ses prévisions budgétaires. Cette déclaration est
-adressée au ministre chargé du logement et au préfet avant le 15 janvier de chaque année [*date*] ou, le cas échéant, quinze
-jours au plus tard après le vote du budget.
-
-" A défaut de déclaration et après mise en demeure de l'organisme, la franchise applicable à l'office est égale à D,
-nonobstant les dispositions de l'alinéa 2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-213 1990-03-09 art. 6
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-	**Cité par**:
-
-	  - Arrêté du 9 mars 1990 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-
-###### Article R423-14-3
-
-Sont exonérés de l'obligation de dépôt définie à l'article R. 423-14-1 :
-
-" a) Les offices en administration provisoire, conformément à l'article R. 421-13, à compter de la date d'effet de la
-décision. Cette exonération n'est applicable que dans le cas où l'administration provisoire a été décidée en raison des
-difficultés financières de l'office.
-
-" b) Les offices qui font l'objet d'un plan de redressement approuvé par le ministre chargé du logement, à compter de la date
-de cette approbation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-13, R423-14-1
-	  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-
-###### Article R423-14-4
-
-A compter de l'exercice 1990, l'office devra distinguer dans ses comptes les produits financiers provenant du compte sur
-livret dénommé " livret A-HLM  ouvert auprès de la Caisse des dépôts et consignations et les produits provenant d'autres
-placements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-
-###### Article R423-14-5
-
-Si les comptes du dernier exercice connu font apparaître que l'office a réalisé des travaux d'entretien courant et de grosses
-réparations pour des montants inférieurs à ceux déclarés lors du calcul de la franchise telle qu'elle est définie à l'article
-R. 423-14-2, l'office procède au calcul de cet écart.
-
-" Il est tenu de déposer, sur le compte sur livret dénommé " livret A-HLM , en sus des dépôts prévus à l'article R. 423-14-1,
-une somme égale à cet écart, pendant un an à compter du 1er janvier suivant. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
 
 
 ##### Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.
@@ -58881,38 +58674,6 @@ de France.
 	  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
 
 
-###### Article R423-60-1
-
-Les dispositions des articles R. 423-14-1 à R. 423-14-5 s'appliquent aux offices publics d'H.L.M. "
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 ART. 29
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R423-14-1 à R423-14-5
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
-	  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
-
-	**Créé par**:
-
-	  - Décret n°90-213 du 9 mars 1990 - art. 3 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-
 ###### Article R423-62
 
 En fin d'année, le président du conseil d'administration arrête les livres du comptable, dont il peut prendre à tout moment
@@ -59242,44 +59003,6 @@ qu'elles contrôlent, ensemble ou séparément, directement ou indirectement, so
 	  - Code de la construction et de l'habitation. - art. R*422-32 (Ab)
 	  - Code de la construction et de l'habitation. - art. R313-29-7 (V)
 	  - Code de la construction et de l'habitation. - art. R313-40 (V)
-
-
-###### Article R423-74-1
-
-Les dispositions des articles R. 423-14-1 et 2, R. 423-14-4 et 5 s'appliquent aux sociétés anonymes d'H.L.M. n'ayant pas le
-statut de coopératives.
-
-" Les sociétés sont exonérées de l'obligation de dépôt définie à l'article R. 423-14-1 lorsqu'elles sont placées en
-administration provisoire ou mises en liquidation administrative en raison des difficultés financières, lorsqu'elles font
-l'objet d'un plan de redressement approuvé par le ministre chargé du logement, à compter de la date de cette approbation, ou
-lorsqu'elles font l'objet d'une liquidation ou d'une administration judiciaire. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
-
-	**Cité par**:
-
-	  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-3 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
 
 
 ###### Article R423-75
