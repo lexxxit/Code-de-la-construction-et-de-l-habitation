@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-01
 
 # Partie législative
 
@@ -33481,6 +33481,105 @@ mesures qu'il a prises pour l'application de l'article R. 127-5.
 	  - Code de la construction et de l'habitation.
 
 
+#### Chapitre VIII : Sécurité des piscines.
+
+###### Article R*128-1
+
+Les dispositions du présent chapitre s'appliquent aux piscines de plein air dont le bassin est totalement ou partiellement
+enterré et qui ne relèvent pas de la loi n° 51-662 du 24 mai 1951 assurant la sécurité dans les établissements de natation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°51-662 du 24 mai 1951 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-1389 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+
+###### Article R*128-2
+
+Les maîtres d'ouvrage des piscines construites ou installées à partir du 1er janvier 2004 doivent les avoir pourvues avant la
+première mise en eau d'un dispositif de sécurité destiné à prévenir les noyades.
+
+Ce dispositif doit être conforme soit aux normes françaises, soit aux normes ou aux spécifications techniques ou aux procédés
+de fabrication prévus dans les réglementations d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, assurant un niveau de sécurité équivalent. Les références de ces normes et
+réglementations sont publiées au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-1389 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2008 (V)
+	  - Code de la construction et de l'habitation. - art. R*128-4 (V)
+
+
+###### Article R*128-3
+
+La note technique mentionnée à l'article L. 128-1 doit être remise au maître d'ouvrage par le constructeur ou l'installateur
+au plus tard à la date de réception de la piscine. Cette note indique les caractéristiques, les conditions de fonctionnement
+et d'entretien du dispositif de sécurité. Elle informe également le maître d'ouvrage sur les risques de noyade, sur les
+mesures générales de prévention à prendre et sur les recommandations attachées à l'utilisation du dispositif de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-1389 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L128-1 (V)
+
+
+###### Article R*128-4
+
+Les dispositions du second alinéa de l'article R. 128-2 s'appliquent aux dispositifs de sécurité mentionnés à l'article L.
+128-2, qui doivent équiper aux dates prévues par celui-ci les piscines construites ou installées avant le 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R128-2, L128-2
+	  - Code de la construction et de l'habitation. - art. L128-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-1389 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+
 ### Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites.
 
 #### Chapitre Ier : Chauffage des immeubles
@@ -48140,18 +48239,20 @@ et des finances, le ministre chargé du budget et le ministre chargé du logemen
 	  - Arrêté du 29 avril 1997 - art. 19 (V)
 
 
-##### Section 5 : Contrôle.
-
 ###### Article R317-17
 
 Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, les conditions
-fixées par le présent chapitre ne sont pas respectées du fait du bénéficiaire de l'avance, l'organisme mentionné à l'article
-R. 312-3-1 exige de l'établissement de crédit, pour le compte de l'Etat, dans un délai d'un mois, le remboursement de la
-subvention indûment perçue majorée de 10 p. 100. L'établissement de crédit doit prévoir, dans son contrat de prêt, de faire
-supporter par le bénéficiaire les conséquences de ce remboursement.
+fixées par le présent chapitre ne sont pas respectées, l'organisme mentionné à l'article R. 312-3-1 exige de l'établissement
+de crédit, pour le compte de l'Etat, dans un délai d'un mois, le remboursement de la subvention indûment perçue majorée de 10
+p. 100. L'établissement de crédit doit prévoir, dans son contrat de prêt, de faire supporter les conséquences de ce
+remboursement au bénéficiaire en cas de non-respect par celui-ci des conditions fixées par le présent chapitre.
 
-Les modalités d'application de l'alinéa précédent sont fixées par arrêté conjoint du ministre chargé de l'économie et des
-finances, du ministre chargé du budget et du ministre chargé du logement.
+Par exception, lorsque les conditions relatives à la justification des ressources déclarées par le bénéficiaire ne sont pas
+respectées par celui-ci, le ministre chargé du logement, saisi par l'organisme mentionné à l'article R. 312-3-1, exige du
+bénéficiaire le remboursement de l'avantage indu majoré de 25 %.
+
+Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé de l'économie, des finances
+et de l'industrie, du ministre chargé du budget et du ministre chargé du logement.
 
 **Liens relatifs à cet article**
 
@@ -48159,18 +48260,14 @@ finances, du ministre chargé du budget et du ministre chargé du logement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-
 	**Cité par**:
 
 	  - Arrêté du 2 octobre 1995 - art. 19 (V)
 	  - Arrêté du 29 avril 1997 - art. ANNEXE III (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1391 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cite**:
 
