@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-09-02
+Version Consolidée au 1999-09-15
 
 # Partie législative
 
@@ -47661,11 +47661,12 @@ collectivités locales ou leurs groupements ;
 Dans les limites et conditions fixées par la présente section, et notamment par les articles R. 331-12, R. 331-14, R. 331-15,
 des subventions et des prêts définis par la sous-section 2 peuvent être accordés pour financer l'acquisition de logements
 locatifs et le cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7°
-et 8° de l'alinéa précédent. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations d'acquisition-
-amélioration sont applicables à ces logements y compris en l'absence de travaux. Le coût d'acquisition de ces logements ne
-doit pas excéder un pourcentage de la valeur de base des opérations d'acquisition-amélioration fixée par arrêté des ministres
-chargés de la construction et de l'habitation et des finances pour les zones géographiques déterminées. Ces dispositions
-s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R. 351-55.
+et 8° de l'alinéa précédent, lorsque les logements concernés sont adaptés aux besoins de ménages qui rencontrent des
+difficultés d'insertion particulières. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations
+d'acquisition-amélioration sont applicables à ces logements y compris en l'absence de travaux. Le coût d'acquisition de ces
+logements ne doit pas excéder un pourcentage de la valeur de base des opérations d'acquisition-amélioration fixée par arrêté
+des ministres chargés de la construction et de l'habitation et des finances pour les zones géographiques déterminées. Ces
+dispositions s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R. 351-55.
 
 **Liens relatifs à cet article**
 
@@ -47776,7 +47777,7 @@ s'appliquent également aux logements-foyers dénommés résidences sociales et 
 
 	**Modifié par**:
 
-	  - Décret n°96-860 du 2 octobre 1996 - art. 1 () JORF 3 octobre 1996
+	  - Décret n°99-794 du 14 septembre 1999 - art. 1 () JORF 15 septembre 1999
 
 	**Cite**:
 
@@ -47928,11 +47929,20 @@ Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des l
 personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un
 arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Toutefois, pour les logements
 mentionnés au deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut excéder 60 p.
-100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département. Ce
-plafond est fixé par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Les
-bailleurs doivent être en mesure de justifier du respect de cette obligation.
+100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département.
+Pour les opérations financées dans les conditions de l'article R. 331-14 autres que celles prévues au deuxième alinéa de
+l'article R. 331-1 et bénéficiant de subventions prévues aux 2° et 3° de l'article R. 331-15, 30 % au moins des logements
+sont obligatoirement attribués à des personnes dont l'ensemble des ressources est inférieur ou égal à 60 % du montant
+déterminé par l'arrêté précité ; un dépassement au plus égal à 20 % de ce même montant est permis pour l'attribution de 10 %
+au plus des logements des opérations ainsi financées par un même maître d'ouvrage. Pour les opérations ne bénéficiant pas de
+subventions prévues à l'article R. 331-15 et réalisées par les maîtres d'ouvrage mentionnés aux 1° et 2° de l'article R.
+331-14 à l'aide de prêts mentionnés audit article, le représentant de l'Etat dans le département peut accorder une dérogation
+aux plafonds de ressources prévus à la première phrase du présent article dans les conditions fixées par l'arrêté précité. La
+dérogation est inscrite dans la convention conclue entre l'Etat et le bailleur en application de l'article L. 351-2.
 
-Cet arrêté fixe également les modalités de contrôle des ressources.
+Les bailleurs doivent être en mesure de justifier du respect des règles découlant du présent article.
+
+Les modalités de détermination et de contrôle des ressources sont également fixées par l'arrêté précité.
 
 **Liens relatifs à cet article**
 
@@ -47988,21 +47998,19 @@ Cet arrêté fixe également les modalités de contrôle des ressources.
 
 	**Modifié par**:
 
-	  - Décret n°94-209 du 11 mars 1994 - art. 1 () JORF 12 mars 1994
+	  - Décret n°99-794 du 14 septembre 1999 - art. 2 () JORF 15 septembre 1999
 
 
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
 
 ###### Article R331-14
 
-Pour les opérations de construction, la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
-331-6 porte agrément de l'opération. Elle ouvre droit à des prêts accordés par la Caisse des dépôts et consignations. Elle
-peut être suivie d'une décision du préfet portant octroi de subventions de l'Etat dans les limites fixées par la présente
-sous-section.
+La décision favorable portant octroi de subvention de l'Etat, prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6, porte agrément de l'opération. Elle ouvre droit à des prêts accordés par la Caisse des dépôts et consignations.
 
-Pour les autres opérations, la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 ouvre
-droit, dans les limites fixées par la présente sous-section, à des subventions de l'Etat et à des prêts accordés par la
-Caisse des dépôts et consignations.
+Pour les opérations ne bénéficiant pas de subventions prévues à l'article R. 331-15, la décision favorable, prise dans les
+conditions prévues aux articles R. 331-3 et R. 331-6, porte agrément de l'opération. Elle ouvre droit à des prêts accordés
+par la Caisse des dépôts et consignations.
 
 Ces subventions et ces prêts peuvent être attribués à :
 
@@ -48054,8 +48062,7 @@ fin par le représentant de l'Etat dans le département.
 
 	**Modifié par**:
 
-	  - Décret n°96-860 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
-	  - Décret n°96-860 du 2 octobre 1996 - art. 4 () JORF 3 octobre 1996
+	  - Décret n°99-794 du 14 septembre 1999 - art. 3 () JORF 15 septembre 1999
 
 	**Cite**:
 
@@ -48080,20 +48087,56 @@ L'assiette de la subvention de l'Etat peut être majorée d'un coût forfaitaire
 unitaires sont fixés par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances et
 actualisés au 1er janvier de chaque année en fonction de la variation annuelle de l'indice du coût de la construction.
 
-2° a) Une subvention peut être octroyée aux opérations de construction suivantes. Le taux de subvention est au plus égal à :
+2° a) Une subvention peut être octroyée aux opérations de construction. Le taux de subvention est au plus égal à  :
 
-8 % de l'assiette définie au 1° pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1. A
-titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 % au plus ;
+- 5% de l'assiette définie au 1° pour les opérations de construction. A titre exceptionnel, le préfet peut, par dérogation,
+porter ce taux à 6,5% au plus ;
+
+- 8% de cette assiette pour les  opérations à caractère expérimental ;
+
+- 12 % de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
+d'une activité parahôtelière soumise à la taxe sur la valeur ajouté ;
+
+- 20% de cette assiette pour les opérations de construction mentionnée au dernier alinéa de l'article R. 331-1 et adaptées
+aux besoins des ménages qui rencontrent des difficultés d'insertion particulières.
+
+3° a) Une subvention peut être octroyée aux opérations autres que celles prévues au 2°. Le taux de subvention est au plus
+égal à :
+
+- 10% de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne peut dépasser 13% du prix de revient de
+l'opération. A titre exceptionnel, le préfet peut, par dérogation porter ce taux à 11,5% au plus, avec un montant de
+subvention ne pouvant excéder 13% du prix de revient de l'opération ;
+
+- 12% de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
+d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
+
+- 13% de cette assiette pour des opérations à caractère expérimental ;
+
+- 20%  de cette assiette pour des opérations mentionnées au dernier de l'article R. 333-1 et adaptées aux besoins de ménages
+qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 25% du prix de
+revient de l'opération. A titre exceptionnel, le  préfet peut, par dérogation, porter ce taux à 25% au plus, avec un montant
+de subvention ne pouvant excéder 25% du prix de revient de l'opération.
+
+4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
+
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances fixe les conditions
+d'application du présent article.
+
+5° a) Une subvention peut être octroyée aux opérations de construction. Le taux de subvention est au plus égal à :
+
+5 % de l'assiette définie au 1° pour les opérations de construction. A titre exceptionnel, le préfet peut, par dérogation,
+porter ce taux à 6,5 % au plus ;
+
+8 % de cette assiette pour les opérations à caractère expérimental ;
+
+12 % de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
+d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
 
 20 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et adaptées
-aux besoins de ménages qui rencontrent des difficultés d'insertion particulières ;
-
-12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant,
-avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur
-ajoutée ;
-
-3 % de cette assiette pour les opérations à caractère expérimental ; ce taux peut être porté à 12 % pour les opérations de
-relogement liées à des démolitions.
+aux besoins de ménages qui rencontrent des difficultés d'insertion particulières.
 
 b) Par dérogation au a, une subvention peut être octroyée aux opérations de construction réalisées en Corse. Le taux de
 subvention est au plus égal à 9,5 % de l'assiette définie au 1°. Il peut être porté :
@@ -48109,28 +48152,25 @@ d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme d
 la valeur ajoutée ;
 
 Au plus à 12,5 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
-opérations de relogement liées à des démolitions.
+opérations de relogement liées à des démolitions.(abrogé à compter du 1-1-2000) 
 
-3° a) Pour les opérations autres que celles prévues au 2°, le taux de subvention est au plus égal à 5 % de l'assiette définie
-au 1° et le montant de la subvention ne peut dépasser 10 % du prix de revient de l'opération.
+6° a)  Une subvention peut être octroyée aux opérations autres que celles prévues au 2°. Le taux de subvention est au plus
+égal à :
 
-Le taux de la subvention peut être porté :
+10 % de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne peut dépasser 13 % du prix de revient de
+l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 11,5 % au plus, avec un montant de
+subvention ne pouvant excéder 13 % du prix de revient de l'opération ;
 
-Au plus à 13 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 avec un montant de
-subvention ne pouvant excéder 18 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation,
-porter ce taux à 18 % au plus, avec un montant de subvention ne pouvant excéder 18 % du prix de revient de l'opération ;
+12 % de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
+d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
 
-Au plus à 20 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux
-besoins de ménages qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant
-excéder 25 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 %
-au plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération ;
+13 % de cette assiette pour des opérations à caractère expérimental ;
 
-Au plus à 12 % de cette assiette pour la réalisation des logements-foyers dénommés résidences sociales par des maîtres
-d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
-sur la valeur ajoutée ;
-
-Au plus à 8 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 12 % pour des
-opérations de relogement liées à des démolitions.
+20 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de
+ménages qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 25 % du
+prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 % au plus, avec un
+montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération.
 
 b) Par dérogation au a, pour les opérations réalisées en Corse autres que celles prévues au 2° ainsi que pour la réalisation
 de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les
@@ -48148,12 +48188,12 @@ revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation,
 de subvention ne pouvant excéder 35 % du prix de revient de l'opération ;
 
 Au plus à 15 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
-opérations de relogement liées à des démolitions.
+opérations de relogement liées à des démolitions.(abrogé à compter du 1-1-2000).
 
-4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
+**Nota:**
 
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances fixe les conditions
-d'application du présent article.
+[*NOTA : Décret 99-794 1999-09-14 art. 4 III : les 5° et 6° sont abrogés à compter du 1er janvier 2000 (date passée au 30
+avril 2000 par le décret 2000-104 du 8 février 2000 art. 9).*]
 
 **Liens relatifs à cet article**
 
@@ -48188,9 +48228,13 @@ d'application du présent article.
 	  - Code de la construction et de l'habitation. - art. R353-90 (V)
 	  - Code de la construction et de l'habitation. - art. R381-4 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-794 1999-09-14 art. 4
+
 	**Modifié par**:
 
-	  - Décret n°97-1261 du 29 décembre 1997 - art. 1 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°99-794 1999-09-14 art. 4 JORF 15 septembre 1999
 
 	**Cite**:
 
