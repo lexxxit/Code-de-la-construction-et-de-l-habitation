@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-08-05
+Version Consolidée au 2003-08-28
 
 # Partie législative
 
@@ -41460,23 +41460,17 @@ des frais de constitution d'hypothèque et autres relatifs à la réalisation du
 ###### Article R312-3-1
 
 La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 peut être accordée aux prêts conventionnés mentionnés
-aux articles R. 331-63 à R. 331-77 ainsi qu'à l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code
+aux articles R. 331-63 à R. 331-77-2 ainsi qu'à l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code
 consentis par des établissements de crédit ayant conclu une convention avec la société de gestion du fonds de garantie de
 l'accession sociale à la propriété, à des personnes physiques dont les revenus sont inférieurs à des plafonds de ressources
-fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé du logement.
-
-Cette garantie peut également être accordée aux prêts bancaires conventionnés accordés dans les départements d'outre-mer par
-les établissements de crédit ayant passé une convention d'habilitation avec l'Institut d'émission des départements d'outre-
-mer ainsi qu'une convention avec la société de gestion du fonds de garantie de l'accession sociale à la propriété, à des
-personnes physiques dont les revenus sont inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre
-chargé de l'économie, du ministre chargé du budget, du ministre chargé du logement et du ministre chargé des départements et
-territoires d'outre-mer.
+fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé du logement
+et, pour les départements d'outre-mer, du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -41522,15 +41516,14 @@ territoires d'outre-mer.
 
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993 - art. 1 (V)
-	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
 
 	**Modifié par**:
 
-	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+	  - Décret n°2003-806 du 25 août 2003 - art. 2 () JORF 28 août 2003
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L312-1, R331-63 à R331-77
+	  - Code de la construction et de l'habitation L312-1, R331-63 à R331-77-2
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
@@ -48202,13 +48195,10 @@ d'application de la présente section.
 	  - Code de la construction et de l'habitation. - art. R317-1 (M)
 
 
-##### Section 6 : Dispositions spécifiques aux départements d'outre-mer.
-
 ###### Article R317-24
 
 La garantie prévue au deuxième alinéa de l'article R. 317-15 est obligatoire lorsque l'établissement de crédit accorde, en
-complément de l'avance, un prêt bancaire conventionné garanti par l'Etat en application des dispositions du deuxième alinéa
-de l'article R. 312-3-1.
+complément de l'avance, prêt conventionné garanti par l'Etat en application de l'article R. 312-3-1.
 
 **Liens relatifs à cet article**
 
@@ -48216,9 +48206,9 @@ de l'article R. 312-3-1.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-431 du 29 avril 1997 - art. 1 () JORF 2 mai 1997
+	  - Décret n°2003-806 du 25 août 2003 - art. 3 () JORF 28 août 2003
 
 	**Cite**:
 
@@ -54048,6 +54038,125 @@ chapitre III, du présent livre (1re partie).
 
 	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-76-4 (M)
+
+
+##### Sous-section 3 : Contrôle.
+
+###### Article R331-76-6
+
+Le contrôle des conditions d'application des dispositions de la présente section est exercé, pour le compte de l'Etat, par la
+société de gestion mentionnée au troisième alinéa de l'article L. 312-1. La convention type prévue à l'article R. 331-65
+précise les mesures susceptibles d'être mises en oeuvre en cas de non-respect de ces dispositions par l'établissement de
+crédit ou par l'emprunteur. Le contrôle obéit au principe du contradictoire.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-806 2003-08-25 art. 1 1° JORF 28 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-65 (M)
+
+
+###### Article R331-76-7
+
+En cas de non-respect des dispositions de la présente section par l'établissement de crédit, la société de gestion du fonds
+de garantie de l'accession sociale à la propriété (SGFGAS) informe les ministres chargés de l'économie et du logement des
+mesures qu'elle estime adaptées à la gravité des faits relevés. Le ministre des finances prononce les mesures éventuelles.
+
+**Nota:**
+
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-806 2003-08-25 art. 1 1° JORF 28 août 2003
+
+
+##### Sous-section 4 : Départements d'outre-mer.
+
+###### Article R331-77
+
+La présente section est applicable, dans les conditions de la présente sous-section, aux prêts conventionnés accordés dans
+les départements d'outre-mer, à l'exception des articles R. 331-63 (5°), R. 331-64, R. 331-67 et du troisième alinéa de
+l'article R. 331-74. Pour l'application de l'article R. 331-65, la convention type est adaptée aux conditions d'octroi des
+allocations de logement prévues par le code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-806 2003-08-25 art. 1 2° JORF 28 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-65 (M)
+	  - Code de la construction et de l'habitation. - art. R331-74 (M)
+
+
+###### Article R331-77-1
+
+Les prêts conventionnés prévus à l'article R. 331-63 ne peuvent être accordés que s'ils bénéficient de la garantie de l'Etat
+mentionnée au troisième alinéa de l'article L. 312-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-806 2003-08-25 art. 1 2° JORF 28 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+
+###### Article R331-77-2
+
+Pour l'application de l'article R. 331-74, le niveau de la marge des prêts conventionnés bénéficiant de la garantie de l'Etat
+est fixé par arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé de l'outre-mer et du
+ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-806 2003-08-25 art. 1 2° JORF 28 août 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-74 (M)
 
 
 ##### Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.
