@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-07-18
+Version Consolidée au 1991-07-19
 
 # Partie législative
 
@@ -168,6 +168,226 @@ et les bâtiments existants ne peuvent être ni restaurés, ni augmentés sans a
 	  - Code de la construction et de l'habitation. - art. L111-30 (V)
 	  - Code de la construction et de l'habitation. - art. L161-1 (M)
 	  - Code de la construction et de l'habitation. - art. L161-2 (M)
+
+
+##### Section 3 : Personnes handicapées ou à mobilité réduite.
+
+###### Article L111-7
+
+Les dispositions architecturales et les aménagements des locaux d'habitation, des lieux de travail et des établissements et
+installations recevant du public, notamment les locaux scolaires, universitaires et de formation, doivent être tels que ces
+locaux et installations soient accessibles aux personnes handicapées. Les modalités d'application des dispositions du présent
+article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-534 1975-06-30 art. 49
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 1 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 5 (V)
+	  - Arrêté du 30 novembre 2007 (V)
+	  - Code de l'action sociale et des familles - art. L114-3 (M)
+	  - Code de l'urbanisme - art. L421-3 (M)
+	  - Code de l'urbanisme - art. R*423-70 (MMN)
+	  - Code de l'urbanisme - art. R*431-2 (V)
+	  - Code de l'urbanisme - art. R*431-31 (MMN)
+	  - Code de l'urbanisme - art. R421-5-2 (Ab)
+	  - Code de l'éducation - art. R335-48 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-8-3 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (M)
+	  - Code de la construction et de l'habitation. - art. L301-6 (V)
+	  - Code de procédure pénale - art. 2-8 (M)
+	  - Code général des collectivités territoriales - art. R1614-76 (VD)
+	  - Code général des collectivités territoriales - art. R1614-78 (V)
+	  - Code général des collectivités territoriales - art. R1614-79 (V)
+	  - Code général des collectivités territoriales - art. R1614-80 (V)
+	  - Code général des collectivités territoriales - art. R1614-81 (V)
+	  - Code général des collectivités territoriales - art. R1614-82 (V)
+	  - Code général des collectivités territoriales - art. R1614-88 (V)
+	  - Code général des collectivités territoriales - art. R1614-89 (V)
+	  - Code général des collectivités territoriales - art. R1614-90 (V)
+
+
+###### Article L111-8
+
+Conformément au troisième alinéa de l'article L. 421-3 du code de l'urbanisme, le permis de construire ne peut être délivré,
+pour les établissements recevant du public, que si les constructions ou les travaux projetés sont conformes aux dispositions
+de l'article L. 111-7..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 25 juin 1980 - art. GA 12 (V)
+	  - Décret n°2007-1327 du 11 septembre 2007 - art. 8 (V)
+	  - Décret n°2009-1119 du 16 septembre 2009 - art. 5 (V)
+	  - Ordonnance n°2014-356 du 20 mars 2014 - art. 3 (V)
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (V)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de l'urbanisme - art. L425-3 (V)
+	  - Code de l'urbanisme - art. R*423-28 (V)
+	  - Code de l'urbanisme - art. R*425-15 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-15 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-22 (M)
+	  - Code de la construction et de l'habitation. - art. R*123-14 (V)
+	  - Code de la construction et de l'habitation. - art. R122-11-6 (V)
+	  - Code du patrimoine - art. L621-10 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 4 () JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-3 (M)
+	  - Code de l'urbanisme L421-3, l111-7
+
+
+###### Article L111-8-1
+
+Les travaux qui conduisent à la création, l'aménagement ou la modification d'un établissement recevant du public ne peuvent
+être exécutés qu'après autorisation délivrée par l'autorité administrative qui vérifie leur conformité avec les dispositions
+de l'article L. 111-7.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 5 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Décret n°2006-555 du 17 mai 2006 - art. 13 (V)
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. R421-38-20 (Ab)
+	  - Code de l'urbanisme - art. R421-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*111-19-10 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-13 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-14 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-15 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-16 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-17 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-18 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-19 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-5 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-6 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-7 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-8 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-9 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+
+
+###### Article L111-8-2
+
+Ainsi qu'il est dit à l'article L. 421-1 du code de l'urbanisme, le permis de construire tient lieu de l'autorisation exigée
+au titre de la réglementation relative à l'accessibilité des établissements recevant du public et sa délivrance est précédée
+de l'accord de l'autorité compétente pour délivrer ladite autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 5 () JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+
+
+###### Article L111-8-3
+
+L'ouverture d'un établissement recevant du public est subordonnée à une autorisation délivrée par l'autorité administrative
+après contrôle du respect des dispositions de l'article L. 111-7.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation l111-7
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 5 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Décret n°2014-1301 du 23 octobre 2014 - art. (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-10 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-11 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-19 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-20 (M)
+	  - Code de la construction et de l'habitation. - art. R111-19-29 (V)
+	  - Code de la santé publique - art. R2324-18 (VD)
+
+
+###### Article L111-8-4
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les adaptations nécessaires à la mise en oeuvre de la présente
+section dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation l111-7
+	  - Code de l'urbanisme - art. L421-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 5 () JORF 19 juillet 1991
 
 
 ##### Section 4 : Caractéristiques thermiques.
@@ -1686,17 +1906,23 @@ poursuivies et sanctionnées selon les règles fixées par les articles L. 152-1
 Les cabines d'ascenseurs non pourvues de grille de sécurité extensible ou de porte doivent être munies au plus tard le 31
 décembre 1992 :
 
-" - soit de porte de cabine ;
+soit de porte de cabine ;
 
-" - soit d'un dispositif de protection susceptible d'assurer un niveau de protection équivalent à celui résultant de la mise
-en place des portes.
+soit d'un dispositif de protection susceptible d'assurer un niveau de protection équivalent à celui résultant de la mise en
+place des portes.
 
-" Ces dispositifs doivent être agréés par le ministre chargé de la construction et de l'habitation et par le ministre chargé
-de l'industrie.
+Ces dispositifs doivent être agréés par le ministre chargé de la construction et de l'habitation et par le ministre chargé de
+l'industrie.
 
-" A compter de cette date, tout propriétaire, locataire ou occupant de l'immeuble peut saisir le juge des référés afin qu'il
+A compter de cette date, tout propriétaire, locataire ou occupant de l'immeuble peut saisir le juge des référés afin qu'il
 ordonne, éventuellement sous astreintes, la mise en conformité des ascenseurs avec les dispositions prévues à l'alinéa
 précédent.
+
+Les modifications apportées doivent préserver l'accessibilité de la cabine à une personne circulant en fauteuil roulant.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles, en cas de difficultés techniques graves pour le
+maintien de l'accessibilité aux handicapés, l'autorité administrative peut accorder une dérogation aux exigences soit de la
+sécurité, soit de l'accessibilité, ou accorder un délai supplémentaire pour y satisfaire.
 
 **Liens relatifs à cet article**
 
@@ -1704,9 +1930,9 @@ précédent.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+	  - Loi n°91-663 du 13 juillet 1991 - art. 6 ()
 
 	**Cité par**:
 
@@ -1986,6 +2212,85 @@ seulement, sont prononcés par le tribunal contre les personnes mentionnées à 
 	  - Code de la construction et de l'habitation. - art. L152-4 (M)
 
 
+###### Article L152-4
+
+L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4
+[*construction et sécurité*], L. 111-7, L. 111-8, L. 111-9 [*caractéristiques thermiques*], L. 125-1, L. 125-3 et L. 131-4
+[*équipement, fonctionnement et contrôle des installations consommant de l'énergie*], par les règlements pris pour leur
+application ou par les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 1500 F à
+300000 F. En cas de récidive, la peine d'amende sera de 3000 F à 500000 F et un emprisonnement d'un mois à six mois pourra en
+outre être prononcé. Le tribunal peut en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits de
+sa décision et, éventuellement, la diffusion d'un message, dont il fixe les termes, informant le public des motifs et du
+contenu de sa décision, dans un ou plusieurs journaux qu'il désigne. "
+
+Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
+travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
+
+Ces peines sont également applicables :
+
+1. En cas d'inexécution, dans les délais prescrits, de tous travaux accessoires d'aménagement ou de démolition imposés par
+les autorisations visées au premier alinéa ;
+
+2. En cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des
+délais impartis pour le rétablissement des lieux dans leur état antérieur ou la réaffectation du sol à son ancien usage.
+
+Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal,
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 6000 F à
+15000 F [*montant (1)*].
+
+En outre, un emprisonnement de onze jours à un mois [*durée*] pourra être prononcé.
+
+**Nota:**
+
+[*(1) taux maximum résultant de la loi 85-835 du 7 aôut 1985*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction L152-2
+	  - TXT_ASSOCIE: Code de la construction L152-5
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 8 ()
+
+	**Cité par**:
+
+	  - Loi n°2014-789 du 10 juillet 2014 - art. 1 (V)
+	  - Loi n°2014-789 du 10 juillet 2014 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-11 (V)
+	  - Code de la construction et de l'habitation. - art. L152-2 (V)
+	  - Code de la construction et de l'habitation. - art. L152-3 (V)
+	  - Code de la construction et de l'habitation. - art. L152-5 (V)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+	  - Code de procédure pénale - art. 2-8 (V)
+
+	**Cite**:
+
+	  - Code pénal 209 à 233 ]
+	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L131-4, L460-1, L125-1, L125-3
+	  - Code de la construction et de l'habitation. - art. L111-4 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-9 (M)
+	  - Code de la construction et de l'habitation. - art. L125-1 (M)
+	  - Code de la construction et de l'habitation. - art. L125-3 (V)
+	  - Code de la construction et de l'habitation. - art. L131-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 103 AL. 1 et 2 (LOI 66-456 1966-07-02 ART. 4)
+
+
 ###### Article L152-5
 
 En cas de condammation pour une infraction prévue à l'article L. 152-4, le tribunal, au vu des observations écrites ou après
@@ -2201,8 +2506,6 @@ L. 111-5, L. 111-6, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L. 
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-
-### Titre VI : Dispositions particulières aux départements d'outre-mer.
 
 ## Livre II : Statut des constructeurs.
 
@@ -6072,24 +6375,26 @@ L. 211-1 à L. 211-4, L. 221-1 à L. 221-6, L. 222-1 à L. 222-7 et L. 261-1 à 
 
 ###### Article L301-1
 
-La politique d'aide au logement a pour objet de favoriser la satisfaction des besoins de logement et, en particulier, de
-faciliter l'accession à la propriété, de promouvoir la qualité de l'habitat, d'améliorer l'habitat existant et d'adapter les
-dépenses de logement à la situation de famille et aux ressources des occupants tout en laissant subsister un effort de leur
-part.
+La politique d'aide au logement a pour objet de favoriser la satisfaction des besoins en logements, de promouvoir la qualité
+de l'habitat, d'améliorer l'habitat existant et d'adapter les dépenses de logement à la situation de famille et aux
+ressources des occupants tout en laissant subsister un effort de leur part.
 
 Son efficacité est assurée notamment par les aides publiques à l'investissement prévues aux titres Ier et II, chapitre II et
 III, du présent livre, l'aide personnalisée instituée au titre V, chapitre Ier, et les conventions définies au chapitre III
 du même titre.
 
+Cette politique doit tendre à favoriser une offre de logements qui, par son importance, son insertion urbaine et sa diversité
+soit de nature à assurer la liberté de choix pour toute personne de son mode d'habitation.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°77-1 1977-01-03 art. 1
+	  - Loi n°77-1 1977-01-03 ART. 1
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -6147,6 +6452,10 @@ du même titre.
 	  - Code général des impôts, CGI. - art. 296 ter (VT)
 	  - Code général des impôts, CGI. - art. 31 (VT)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 315-0 bis A (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 12 ()
 
 	**Liens**:
 
@@ -6303,6 +6612,640 @@ intercommunale compétents en matière de logement.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+
+
+###### Article L301-6
+
+L'octroi des aides de l'Etat en faveur de l'habitat est subordonné au respect des règles d'accessibilité fixées en
+application de l'article L. 111-7.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation l111-7
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°91-663 du 13 juillet 1991 - art. 3 () JORF 19 juillet 1991
+
+
+#### Chapitre II : Politique locale de l'habitat.
+
+##### Section 1 : Programme local de l'habitat
+
+###### Article L302-1
+
+Le programme local de l'habitat est établi par un établissement public de coopération intercommunale pour tout ou partie
+d'une agglomération ou pour un ensemble de communes qui entendent par leur coopération répondre à des objectifs communs en
+matière d'habitat.
+
+Le programme local de l'habitat définit, pour une durée au moins égale à cinq ans, les objectifs et les principes d'une
+politique visant à répondre aux besoins en logements et à assurer entre les communes et entre les quartiers d'une même
+commune une répartition équilibrée et diversifiée de l'offre de logements.
+
+Ces objectifs et ces principes tiennent compte de l'évolution démographique et économique, de l'évaluation des besoins des
+habitants actuels et futurs, de la desserte en transports et des options d'aménagement déterminées par le schéma directeur ou
+le schéma de secteur, lorsqu'ils existent, ainsi que des dispositions du plan départemental d'action pour le logement des
+personnes défavorisées et du protocole d'occupation du patrimoine social des communes, quand ils existent.
+
+Il indique les moyens, notamment fonciers, qui seront mis en oeuvre par les communes ou les établissements publics de
+coopération intercommunale compétents en matière d'urbanisme pour parvenir aux objectifs et principes qu'il a fixés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 16 (V)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 57 (VD)
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V)
+	  - Décret n°2008-825 du 21 août 2008 - art. 3 (V)
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L168-4 (Ab)
+	  - Code de l'urbanisme - art. L123-1 (VT)
+	  - Code de l'urbanisme - art. L123-1-4 (VT)
+	  - Code de l'urbanisme - art. L123-12-1 (VT)
+	  - Code de l'urbanisme - art. L131-4 (VD)
+	  - Code de l'urbanisme - art. L151-46 (VD)
+	  - Code de l'urbanisme - art. L153-28 (VD)
+	  - Code de l'urbanisme - art. L153-29 (VD)
+	  - Code de l'urbanisme - art. L324-1 (V)
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de l'urbanisme - art. R*123-14-1 (VT)
+	  - Code de l'urbanisme - art. R151-54 (V)
+	  - Code de l'urbanisme - art. R152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-10 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-17 (V)
+	  - Code de la construction et de l'habitation. - art. L302-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-3 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-8 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. R302-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (M)
+	  - Code de la construction et de l'habitation. - art. R302-2 (V)
+	  - Code général des collectivités territoriales - art. L5216-16 (Ab)
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+	  - Code général des impôts, CGI. - art. 1407 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+
+###### Article L302-2
+
+Le représentant de l'Etat porte, dans un délai de trois mois, à la connaissance de l'établissement public de coopération
+intercommunale toutes informations utiles ainsi que les objectifs locaux à prendre en compte en matière de diversité de
+l'habitat et de répartition équilibrée des différents types de logements dans l'agglomération concernée.
+
+" L'établissement public de coopération intercommunale associe à l'élaboration du programme local de l'habitat l'Etat, les
+représentants locaux des personnes morales membres du Conseil national de l'habitat qui en font la demande ainsi que toute
+autre personne morale qu'il juge utile.
+
+" Le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de coopération
+intercommunale, est mis à la disposition du public pendant un mois et transmis aux communes et établissements publics de
+coopération intercommunale compétents en matière d'urbanisme, qui disposent d'un délai de deux mois pour faire connaître leur
+avis.
+
+" Au vu de ces avis, l'organe délibérant de l'établissement public de coopération intercommunale délibère à nouveau sur le
+projet et le transmet au représentant de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au conseil
+départemental de l'habitat.
+
+" Le représentant de l'Etat, s'il estime que le projet de programme local de l'habitat ne répond pas à l'objectif de
+répartition équilibrée et diversifiée de l'offre de logements, adresse, dans un délai d'un mois, des demandes motivées de
+modifications à l'établissement public de coopération intercommunale, qui en délibère. Cet établissement public adopte
+ensuite le programme local de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-12 (VT)
+	  - Code de l'urbanisme - art. L123-12-1 (VT)
+	  - Code de l'urbanisme - art. L153-26 (VD)
+	  - Code de l'urbanisme - art. L153-28 (VD)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-19 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4 (M)
+	  - Code de la construction et de l'habitation. - art. R302-10 (V)
+	  - Code de la construction et de l'habitation. - art. R302-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
+
+
+###### Article L302-3
+
+L'établissement public de coopération intercommunale délibère au moins une fois par an sur l'état de réalisation du programme
+local de l'habitat et son adaptation à l'évolution de la situation sociale ou démographique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+
+
+###### Article L302-4
+
+Après l'adoption d'un programme local de l'habitat, une convention entre l'Etat et l'établissement public de coopération
+intercommunale fixe l'aide financière que, dans la limite des dotations ouvertes par les lois de finances, l'Etat apportera
+en matière d'habitat et d'action foncière. Cette convention est conclue pour une période de trois ans. A l'issue de cette
+période, une nouvelle convention, d'une durée maximale de trois ans, peut être conclue dans les mêmes conditions, pour la
+durée restant à courir du programme local de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 28 (V)
+	  - Ordonnance n°2014-159 du 20 février 2014 - art. 6 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+	  - Code de l'urbanisme - art. L131-9 (V)
+
+
+##### Section 2 : Dispositions particulières à certaines agglomérations.
+
+###### Article L302-5
+
+Les dispositions de la présente section s'appliquent aux communes comprises, au sens du recensement général de la population,
+dans une agglomération de plus de 200 000 habitants et dans lesquelles à la fois [*champ d'application*]:
+
+" - le nombre de logements sociaux au sens du 3° de l'article L. 234-10 du code des communes représente, au 1er janvier de
+l'année précédente, moins de 20 p. 100 des résidences principales au sens du II de l'article 1411 du code général des
+impôts ;
+
+" - le rapport entre le nombre des bénéficiaires des prestations prévues aux articles L. 351-1 du présent code, L. 542-2 et
+L. 831-1 du code de la sécurité sociale et le nombre de résidences principales au sens défini ci-dessus est inférieur à 18 p.
+100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - CODE DES COMMUNES. - art. L234-10 (M)
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 22 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 24 (V)
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 27 (V)
+	  - Loi n°2013-569 du 1er juillet 2013 - art. 1 (V)
+	  - Décret n°2013-670 du 24 juillet 2013 - art. 6 (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. 1 (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. 3 (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. Annexe I (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. Annexe II (V)
+	  - Décret n°2014-870 du 1er août 2014 (V)
+	  - Décret n°2015-423 du 15 avril 2015 (V)
+	  - Décret n°2015-423 du 15 avril 2015 - art. 2 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 98 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+	  - Décret n°2017-835 du 5 mai 2017 (V)
+	  - Décret n°2017-835 du 5 mai 2017 - art. 1 (V)
+	  - Décret n°2017-840 du 5 mai 2017 (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. 1 (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. 3 (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. 5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1391 D (V)
+	  - Code de l'urbanisme - art. L111-24 (VD)
+	  - Code de l'urbanisme - art. L131-9 (V)
+	  - Code de l'urbanisme - art. L151-28 (VD)
+	  - Code de l'urbanisme - art. L152-6 (V)
+	  - Code de l'urbanisme - art. R*431-16-3 (V)
+	  - Code de l'urbanisme - art. R151-37 (V)
+	  - Code de la construction et de l'habitation. - art. L302-16 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4 (V)
+	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-6 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (V)
+	  - Code de la construction et de l'habitation. - art. L302-8 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. L342-14 (V)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+	  - Code de la construction et de l'habitation. - art. L411-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L411-5 (V)
+	  - Code de la construction et de l'habitation. - art. L411-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-4 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. L443-15-2-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L443-15-6 (V)
+	  - Code de la construction et de l'habitation. - art. L443-15-7 (VD)
+	  - Code de la construction et de l'habitation. - art. L444-2 (V)
+	  - Code de la construction et de l'habitation. - art. R302-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R302-14 (V)
+	  - Code de la construction et de l'habitation. - art. R302-15 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R302-17 (V)
+	  - Code de la construction et de l'habitation. - art. R302-18 (V)
+	  - Code de la construction et de l'habitation. - art. R302-20 (V)
+	  - Code de la construction et de l'habitation. - art. R302-23 (V)
+	  - Code de la construction et de l'habitation. - art. R302-27 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-28 (T)
+	  - Code de la construction et de l'habitation. - art. R302-30 (T)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+	  - Code de la construction et de l'habitation. - art. R302-34 (T)
+	  - Code de la construction et de l'habitation. - art. R302-37 (T)
+	  - Code de la construction et de l'habitation. - art. R302-7 (V)
+	  - Code de la construction et de l'habitation. - art. R411-2 (V)
+	  - Code de la construction et de l'habitation. - art. R411-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-15 (V)
+	  - Code général des collectivités territoriales - art. L2252-2 (V)
+	  - Code général des collectivités territoriales - art. L3231-4-1 (V)
+	  - Code général des collectivités territoriales - art. L4253-2 (V)
+	  - Code général des impôts, CGI. - art. 1384 G (V)
+	  - Code général des impôts, CGI. - art. 279-0 bis A (V)
+
+
+###### Article L302-6
+
+A compter du 1er janvier 1993, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
+compétences et dans le cadre des dispositions du présent chapitre, les mesures propres à permettre l'acquisition de terrains
+ou de locaux nécessaires à la réalisation de logements à usage locatif au sens du 3° de l'article L. 351-2.
+
+" Ces communes s'acquittent de l'obligation prévue au présent article soit en versant la contribution prévue à l'article L.
+302-7, soit en engageant, dans les conditions fixées à l'article L. 302-8, des actions foncières adaptées à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. L302-5 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VD)
+	  - Code de la construction et de l'habitation. - art. R302-14 (M)
+	  - Code de la construction et de l'habitation. - art. R302-15 (V)
+	  - Code de la construction et de l'habitation. - art. R302-28 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
+	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+
+###### Article L302-7
+
+La contribution mentionnée à l'article précédent est égale, chaque année, à 1 p. 100 de la valeur locative des immeubles
+imposés dans les rôles généraux de taxe foncière sur les propriétés bâties et non bâties de la commune.
+
+" La contribution ne peut excéder 5 p. 100 du montant des dépenses réelles de fonctionnement de la commune constatées dans le
+compte administratif afférent au pénultième exercice.
+
+" Les communes sont tenues de procéder au versement de cette contribution avant le 1er avril de chaque année à un ou
+plusieurs organismes désignés par le représentant de l'Etat et habilités à réaliser des acquisitions foncières et
+immobilières ou à construire des logements sociaux. Les sommes devront être consacrées à cette fin sur le territoire de la
+commune concernée, dans un délai de trois années après leur versement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2001-1194 du 13 décembre 2001
+	  - TXT_SOURCE: Décret n°2001-1194 du 13 décembre 2001 - art. 2 (V)
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-30 (T)
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-31 (T)
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-32 (T)
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. R302-33 (T)
+
+	**Cité par**:
+
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 26 (V)
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 27 (M)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 99 (V)
+	  - Décret n°2017-835 du 5 mai 2017 (V)
+	  - Code de justice administrative - art. R778-8 (V)
+	  - Code de l'action sociale et des familles - art. L312-5-3 (V)
+	  - Code de l'urbanisme - art. L131-9 (V)
+	  - Code de l'urbanisme - art. L324-6 (M)
+	  - Code de l'urbanisme - art. L324-8 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4 (V)
+	  - Code de la construction et de l'habitation. - art. L302-5 (VD)
+	  - Code de la construction et de l'habitation. - art. L302-6 (M)
+	  - Code de la construction et de l'habitation. - art. L302-8 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L371-4 (V)
+	  - Code de la construction et de l'habitation. - art. L435-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16-1 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16-2 (V)
+	  - Code de la construction et de l'habitation. - art. R302-17 (V)
+	  - Code de la construction et de l'habitation. - art. R302-18 (V)
+	  - Code de la construction et de l'habitation. - art. R302-18-1 (V)
+	  - Code de la construction et de l'habitation. - art. R302-19 (V)
+	  - Code de la construction et de l'habitation. - art. R302-20 (V)
+	  - Code de la construction et de l'habitation. - art. R302-30 (T)
+	  - Code de la construction et de l'habitation. - art. R302-32 (T)
+	  - Code de la construction et de l'habitation. - art. R302-33 (T)
+	  - Code de la construction et de l'habitation. - art. R302-34 (T)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+
+
+###### Article L302-8
+
+Les dispositions de l'article L. 302-7 ne sont pas applicables aux communes mentionnées à l'article L. 302-5 qui, au vu de
+leur programme local de l'habitat, se sont engagées par délibération à mettre en oeuvre, dans un délai maximum de trois ans,
+les actions foncières et acquisitions immobilières nécessaires à la réalisation, sur le territoire de la commune, d'un nombre
+de logements locatifs sociaux qui doit être au moins égal, d'une part, à 1 p. 100 du nombre de résidences principales au sens
+du II de l'article 1411 du code général des impôts et, d'autre part, à 9 p. 100 du nombre de logements construits sur la
+commune au cours des dix années qui ont précédé l'engagement.
+
+" Au cas où la commune n'a pas atteint ces objectifs au terme de la période considérée, elle est soumise pour cette période à
+la contribution prévue à l'article L. 302-7. Sont toutefois déduites de cette contribution les dépenses, y compris celles
+financées par le produit de la participation à la diversité de l'habitat prévue aux articles L. 332-17 et suivants du code de
+l'urbanisme, engagées par la commune au cours des trois années pour l'acquisition de terrains ou de locaux destinés à la
+réalisation de logements locatifs sociaux sur son territoire. Est assimilé à ces dépenses le montant de la participation à la
+diversité de l'habitat qu'auraient acquittée les constructeurs qui ont opté pour la possibilité de dation prévue à l'article
+L. 332-19 du code précité et les constructeurs qui ont été exonérés totalement ou partiellement de cette participation en
+application du dernier alinéa de l'article L. 332-17 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 1 (V)
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 26 (V)
+	  - Décret n°2014-870 du 1er août 2014 (V)
+	  - Décret n°2016-384 du 30 mars 2016 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+	  - Décret n°2017-835 du 5 mai 2017 - art. 1 (V)
+	  - Code de l'urbanisme - art. L210-1 (V)
+	  - Code de l'urbanisme - art. L211-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (V)
+	  - Code de la construction et de l'habitation. - art. L302-6 (M)
+	  - Code de la construction et de l'habitation. - art. L302-7 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R302-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R302-14 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R302-26 (V)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+
+
+###### Article L302-9
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent chapitre, notamment
+celles nécessitées par la situation particulière des départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (V)
+
+	**Cite**:
+
+	  - code de la construction et de l'habitation livre III titre préliminaire chapitre II
+
+
+#### Chapitre III : Opérations programmées d'amélioration de l'habitat
+
+###### Article L303-1
+
+Les opérations programmées d'amélioration de l'habitat ont pour objet la réhabilitation du parc immobilier bâti. Elles
+tendent à améliorer l'offre de logements, en particulier locatifs, ainsi qu'à maintenir ou à développer les services de
+voisinage. Elles sont mises en oeuvre dans le respect des équilibres sociaux, de la sauvegarde du droit des occupants et des
+objectifs du plan départemental d'action pour le logement des personnes défavorisées ainsi que, s'il existe, du programme
+local de l'habitat. Ces opérations donnent lieu à une convention entre la commune ou l'établissement public de coopération
+intercommunale compétent en matière d'habitat, l'Agence nationale pour l'amélioration de l'habitat et l'Etat.
+
+Cette convention précise :
+
+a) Le périmètre de l'opération ;
+
+b) Le montant total des aides susceptibles d'être accordées par l'Agence nationale pour l'amélioration de l'habitat, l'Etat
+et, le cas échéant, la commune ou l'établissement public de coopération intercommunale ou d'autres personnes publiques ou
+privées, pour l'amélioration de l'habitat, la construction de logements sociaux, l'acquisition de logements en vue de leur
+amélioration pour un usage locatif social, les baux à réhabilitation et les actions d'accompagnement prévues ;
+
+c) Les actions d'accompagnement et d'amélioration du cadre de vie prévues par l'Etat, la commune ou l'établissement public de
+coopération intercommunale ;
+
+d) Les actions destinées à assurer le respect de la diversité de la population dans les quartiers, à maintenir le caractère
+social de l'occupation des logements et à favoriser le maintien sur place des occupants ;
+
+e) Les actions destinées à assurer le maintien ou l'implantation de services ou d'équipements commerciaux ou artisanaux de
+proximité.
+
+Avant sa signature, le projet de convention est mis à disposition du public pendant un mois.
+
+Après sa signature, la convention peut être consultée en mairie pendant sa durée de validité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 61-1-2 (V)
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 28 (Ab)
+	  - Loi n°90-449 du 31 mai 1990 - art. 6 (V)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 18 (Ab)
+	  - Décret n°2002-867 du 3 mai 2002 - art. 3 (Ab)
+	  - Arrêté du 6 septembre 2010 - art. (Ab)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Arrêté du 29 décembre 2014 - art. 3-1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 261 (V)
+	  - Code de commerce. - art. L720-3 (Ab)
+	  - Code de commerce. - art. L752-6 (VD)
+	  - Code de l'environnement - art. D571-55 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L421-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-3 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (M)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. L741-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (M)
+	  - Code de la construction et de l'habitation. - art. R313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. R321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R321-13 (V)
+	  - Code de la construction et de l'habitation. - art. R321-16 (V)
+	  - Code de la construction et de l'habitation. - art. R321-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 21 ()
+
+
+### Titre préliminaire : Politique d'aide au logement.
+
+#### Chapitre II : Programme local de l'habitat.
+
+##### Section 1 : Dispositions générales.
+
+###### Article L302-4-1
+
+Si dans un délai d'un an à compter de la publication de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville, un
+établissement public de coopération intercommunale n'a pas été constitué ou saisi pour élaborer un programme local de
+l'habitat, une commune peut, en coopération avec le représentant de l'Etat, élaborer seule un tel programme dans les
+conditions définies aux articles L. 302-1 à L. 302-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cite**:
+
+	  - Loi n°91-662 1991-07-13
+	  - Code de la construction et de l'habitation L302-1 à L302-3
+
+	**Cité par**:
+
+	  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R302-13-1 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+
+
+##### Section 2 : Dispositions particulières à certaines agglomérations.
+
+###### Article L302-5-1
+
+Si, dans un délai de dix-huit mois à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
+visée à l'article L. 302-5, n'est pas couverte par un programme local de l'habitat, le représentant de l'Etat peut, pour
+répondre aux fins poursuivies par cette loi, selon les conditions fixées par décret en Conseil d'Etat, exercer par
+substitution, au nom de l'Etat, le droit de préemption urbain prévu par les articles L. 211-1 et suivants du code de
+l'urbanisme. Cette possibilité lui est ouverte sans préjudice des dispositions du code de l'urbanisme relatives aux zones
+d'aménagement différé et à la modification ou à la révision par l'Etat des documents d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 13 ()
+
+	**Cite**:
+
+	  - Loi n°91-662 1991-07-13
+	  - Code de l'urbanisme - art. L211-1 (M)
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Code de l'urbanisme - art. R211-9 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
@@ -7008,35 +7951,6 @@ précédent.
 	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
 	  - Loi n°83-440 du 2 juin 1983 - art. 4 () JORF 3 JUIN 1983
 	  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 JUIN 1983
-
-
-###### Article L312-5-1
-
-Les communes ou les établissements publics de coopération intercommunale peuvent définir un programme local de l'habitat qui
-détermine leurs opérations prioritaires et notamment les actions en faveur des personnes mal logées ou défavorisées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
-
-	**Créé par**:
-
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
-
-	**Abrogé par**:
-
-	  - Loi - art. 14 (V) JORF 19 juillet 1991
-
-	**Cité par**:
-
-	  - Loi - art. 14 (V)
-	  - Code de la construction et de l'habitation. - art. L371-3 (V)
 
 
 ###### Article L312-5-2
@@ -11464,6 +12378,48 @@ Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation soci
 	  - Code de la construction et de l'habitation. - art. L443-14 (M)
 
 
+###### Article L422-2-1
+
+Les conseils d'administration ou les conseils de surveillance des sociétés anonymes d'habitations à loyer modéré comprennent
+des représentants des locataires. A cet effet, le nombre des membres du conseil d'administration ou du conseil de
+surveillance peut être porté à quatorze par dérogation à la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+Les représentants des locataires au conseil d'administration ou au conseil de surveillance ont les mêmes droits et
+obligations que les autres membres du conseil et sont soumis à toutes les dispositions applicables à ces derniers, à
+l'exception de celles prévues aux articles 95 à 97 et 130 à 132 de la loi n° 66-537 du 24 juillet 1966 précitée.
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 95 à 97, art. 130 à 132
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 41 ()
+
+	**Cité par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 50 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 51 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. L423-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*422-1-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R*422-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*422-16-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*423-89 (V)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (V)
+
+
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
 
 ###### Article L422-3
@@ -11870,18 +12826,42 @@ administrative.
 	  - Code de l'urbanisme 177 AL. 1, 2 ET 3
 
 
-###### Article L422-6
+###### Article L422-5-1
 
-En cas de faute grave de membres du conseil d'administration d'une société d'habitations à loyer modéré ou de crédit
-immobilier ces derniers peuvent être suspendus par décision administrative jusqu'à la prochaine assemblée générale et au
-maximum pour un an. Toutefois, dans le cas où l'intéressé a été déféré à un tribunal répressif, la suspension ne prend fin
-qu'après décision définitive de la juridiction compétente [*sanction*].
+Les sociétés anonymes d'habitations à loyer modéré et les sociétés anonymes de crédit immobilier sont administrées par des
+conseils d'administration ou par des directoires et conseils de surveillance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 41 ()
+
+
+###### Article L422-6
+
+En cas de faute grave de membres du conseil d'administration, du directoire ou du conseil de surveillance d'une société
+d'habitations à loyer modéré ou de crédit immobilier ces derniers peuvent être suspendus par décision administrative jusqu'à
+la prochaine assemblée générale et au maximum pour un an. Toutefois, dans le cas où l'intéressé a été déféré à un tribunal
+répressif, la suspension ne prend fin qu'après décision définitive de la juridiction compétente *sanction*.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi - art. 41 ()
 
 	**Anciens textes**:
 
@@ -11897,16 +12877,20 @@ qu'après décision définitive de la juridiction compétente [*sanction*].
 
 ###### Article L422-7
 
-En cas d'irrégularités graves, de faute grave dans la gestion ou de carence du conseil d'administration d'une société
-d'habitations à loyer modéré ou de crédit immobilier, le ministre chargé de la construction et de l'habitation peut, aprés
-avoir entendu les observations de la société ou celle-ci ayant été dûment appelée à les présenter, prononcer sa dissolution
-et nommer un liquidateur [*sanction*].
+En cas d'irrégularités graves, de faute grave dans la gestion ou de carence du conseil d'administration ou du directoire et
+du conseil de surveillance d'une société d'habitations à loyer modéré ou de crédit immobilier, le ministre chargé de la
+construction et de l'habitation peut, aprés avoir entendu les observations de la société ou celle-ci ayant été dûment appelée
+à les présenter, prononcer sa dissolution et nommer un liquidateur [*sanction*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi - art. 41 ()
 
 	**Cité par**:
 
@@ -11919,40 +12903,41 @@ et nommer un liquidateur [*sanction*].
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-17 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 180
-
 
 ###### Article L422-8
 
-Dans les cas prévus à l'article L. 422-7 le ministre chargé de la construction et de l'habitation peut se borner à suspendre
-le conseil d'administration par arrêté motivé et nommer un administrateur provisoire auquel est transféré, de plein droit,
-l'ensemble des pouvoirs du conseil d'administration pour la continuation des opérations en cours.
+Dans les cas prévus à l'article L. 422-7, le ministre chargé du logement peut se borner à suspendre le conseil
+d'administration ou le conseil de surveillance et le directoire, ou ce dernier seulement, par arrêté motivé, et nommer un
+administrateur provisoire auquel est transféré, de plein droit, l'ensemble des pouvoirs du conseil d'administration ou du
+conseil de surveillance et du directoire pour la continuation des opérations en cours.
 
-La mission de l'administrateur provisoire prend fin, soit à la désignation d'un nouveau conseil d'administration par
-l'assemblée générale réunie au plus tard avant l'expiration d'un délai d'un an, renouvelable une fois à dater de la décision
-ministérielle, soit à défaut de cette désignation, à la nomination d'un liquidateur par le ministre chargé de la construction
-et de l'habitation.
+La mission de l'administrateur provisoire prend fin, soit à la désignation d'un nouveau conseil d'administration ou d'un
+nouveau conseil de surveillance par l'assemblée générale réunie au plus tard avant l'expiration d'un délai d'un an,
+renouvelable une fois à dater de la décision ministérielle, soit, à défaut de cette désignation, à la nomination d'un
+liquidateur par le ministre chargé de la construction et de l'habitation.
 
 Pendant une durée de deux ans à l'issue de la mission de l'administrateur provisoire, ce dernier doit être convoqué et peut
-assister à toutes les réunions du conseil d'administration de la société et aux assemblées générales des actionnaires.
+assister à toutes les réunions du conseil d'administration ou du conseil de surveillance de la société et aux assemblées
+générales des actionnaires.
 
 Si, au cours de cette période, il constate que les mesures indispensables de redressement de la société ne sont pas adoptées
 ou ne sont pas exécutées, il en informe le ministre chargé de la construction et de l'habitation. Celui-ci, en accord avec le
 ministre de l'économie et des finances, peut, aprés avoir entendu les observations de la société, soit procéder à la
-dissolution et à la liquidation de l'organisme en cause, soit suspendre à nouveau le conseil d'administration et nommer un
-administrateur provisoire en déterminant la durée de son mandat.
-
-Cet administrateur doit, avant l'expiration de son mandat, réunir une assemblée générale en vue de procéder à la désignation
-d'un nouveau conseil d'administration. A défaut de cette désignation, il sera procédé à la dissolution et à la liquidation de
-l'organisme.
+dissolution et à la liquidation de l'organisme en cause, soit suspendre à nouveau le conseil d'administration ou le conseil
+de surveillance et nommer un administrateur provisoire en déterminant la durée de son mandat. Cet administrateur doit, avant
+l'expiration de son mandat, réunir une assemblée générale en vue de procéder à la désignation d'un nouveau conseil
+d'administration ou d'un nouveau conseil de surveillance. A défaut de cette désignation, il sera procédé à la dissolution et
+à la liquidation de l'organisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi - art. 41 ()
 
 	**Cité par**:
 
@@ -11962,10 +12947,6 @@ l'organisme.
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-17 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 181
 
 	**Cite**:
 
@@ -13043,8 +14024,20 @@ sont nulles de plein droit.
 Il détermine également les limites et conditions de réservation des logements par le représentant de l'Etat dans le
 département au profit des personnes prioritaires, notamment mal logées ou défavorisées.
 
-Le maire de la commune du lieu d'implantation des logements visés aux alinéas précédents est informé de toutes les
-attributions réalisées pour ces logements.
+" Les organismes d'habitations à loyer modéré informent chaque année le conseil municipal des communes sur le territoire
+desquelles ils possèdent plus de cent logements de la politique générale qu'ils poursuivent en ce qui concerne notamment
+l'entretien, les travaux de réhabilitation ou d'aménagement, le loyer et la politique d'attribution de ces logements et les
+demandes en attente.
+
+" Le maire d'une commune sur le territoire de laquelle sont implantés des logements à usage locatif est entendu, à sa
+demande, par le conseil d'administration des organismes d'habitations à loyer modéré. Il est informé tous les trois mois des
+attributions de logements effectuées par ces organismes.
+
+" Il participe aux délibérations de la commission d'attribution des logements.
+
+" Les dispositions des quatrième et cinquième alinéas sont applicables aux sociétés civiles immobilières dont le capital est
+constitué majoritairement par les fonds provenant de la participation des employeurs à l'effort de construction et aux
+sociétés d'économie mixte locales d'aménagement et de construction. "
 
 **Liens relatifs à cet article**
 
@@ -13134,10 +14127,6 @@ attributions réalisées pour ces logements.
 	  - Code général des impôts, CGI. - art. 1389 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 32 () JORF 19 juillet 1985
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987
@@ -13154,6 +14143,114 @@ attributions réalisées pour ces logements.
 	  - TXT_SOURCE: Arrêté du 5 mai 1986
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 37 ()
+
+
+###### Article L441-1-1
+
+Il est créé, dans chaque organisme d'habitations à loyer modéré, une commission d'attribution chargée d'attribuer
+nominativement chaque logement locatif, composée de six membres qui élisent en leur sein un président qui dispose d'une voix
+prépondérante.
+
+" En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de
+ladite commission.
+
+" Un décret détermine les conditions d'application du présent article et précise notamment les règles relatives à la
+composition de la commission. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 4 (VD)
+	  - Loi n°90-449 du 31 mai 1990 - art. 3 (M)
+	  - Arrêté du 7 mars 2008 - art. 1 (Ab)
+	  - Arrêté du 7 mars 2008 - art. 2 (Ab)
+	  - Loi n°2014-173 du 21 février 2014 - art. 8 (V)
+	  - Code de la construction et de l'habitation. - art. L302-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. L445-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L521-3-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-23 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
+	  - Code de la construction et de l'habitation. - art. R*422-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-16-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*481-1 (M)
+	  - Code de la construction et de l'habitation. - art. R302-16 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-18 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-2-10 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
+
+	**Créé par**:
+
+	  - Loi - art. 38 ()
+
+
+###### Article L441-1-2
+
+Il est créé, dans chaque société civile immobilière dont le capital est constitué majoritairement par les fonds provenant de
+la participation des employeurs à l'effort de construction, et lorsqu'une partie de leur patrimoine est incluse dans un grand
+ensemble anciennement classé en zone à urbaniser par priorité, une commission d'attribution chargée d'attribuer
+nominativement chacun de ces logements locatifs.
+
+" Le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de ladite
+commission. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi - art. 39 ()
+
+	**Cité par**:
+
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 2 (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 4 (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 6 (V)
+	  - Loi n°2014-173 du 21 février 2014 - art. 8 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe VI à l'article R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (VT)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (M)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-6 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-10 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
 
 ###### Article L441-2
