@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-22
+Version Consolidée au 1983-07-07
 
 # Partie législative
 
@@ -34697,28 +34697,25 @@ prestation de services.
 ###### Article R331-40
 
 Sous réserve des dispositions prévues à l'article R. 331-41, les logements financés à l'aide des prêts prévus à l'article R.
-321-32 doivent être occupés à titre de résidence principale au moins huit mois par an, sauf cas de force majeure, par des
-personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 ou par leurs ascendants, leurs descendants ou
-ceux de leur conjoint.
+321-32 doivent être occupés à titre de résidence principale au moins huit mois par an, sauf cas de force majeure,
+
+par des personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 ou par leurs ascendants, leurs
+descendants ou ceux de leur conjoint.
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant, soit la déclaration d'achèvement des travaux,
-soit l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à cinq ans
-lorsque le logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un
+soit l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque
+le logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un
 département ou territoire d'outre-mer ou de l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°83-594 1983-07-05 ART. 1 JORF 7 JUILLET 1983
 
 	**Cité par**:
 
@@ -34729,36 +34726,41 @@ département ou territoire d'outre-mer ou de l'étranger.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R321-32 (V)
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
 ###### Article R331-41
 
-Les personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 peuvent louer leur logement :
+Les personnes physiques accédant à la propriété mentionnées à l'article R.331-39 qui ne peuvent satisfaire aux dispositions
+de l'article R.331-40 doivent louer leur logement :
 
-1. Après déclaration au préfet et à l'établissement prêteur et lorsque la cessation d'occupation, due à des raisons
-professionnelles ou familiales, est limitée à une durée de trois ans, cette durée pouvant être prolongée de trois ans sur
-autorisation du préfet.
+1° Après déclaration au commissaire de la République et à l'établissement prêteur lorsque la cessation d'occupation est due à
+des raisons professionnelles ou familiales et que le contrat de location est conclu pour une durée de trois ans.
 
-2. Sur autorisation du préfet et pour une période de cinq années au maximum qui s'écoule entre la date de la déclaration
-d'achèvement des travaux ou d'acquisition du logement et celle de l'occupation régulière par le bénéficiaire du prêt après sa
-mise à la retraite ou son retour d'un département ou territoire d'outre-mer ou de l'étranger.
+La conclusion d'un contrat initial de six ans ou le renouvellement pour trois ans du contrat initial de trois ans est
+subordonné à l'autorisation du commissaire de la République.
 
-Dans ces deux premiers cas les loyers doivent respecter des maxima fixés par arrêté conjoint du ministre chargé des finances
-et du ministre chargé de la construction et de l'habitation.
+2° Sur autorisation du commissaire de la République pour une durée maximum de six ans comprise entre la date de la
+déclaration d'achèvement des travaux ou d'acquisition du logement et celle de l'occupation régulière par le bénéficiaire du
+prêt après sa mise à la retraite par limite d'âge ou pour des motifs économiques ou son retour d'un département ou territoire
+d'outre-mer ou de l'étranger.
 
-3. Lorsqu'elles ont passé une convention régie par le livre III, titre V, chapitre III, du présent code (première partie)
-[*logements locatifs conventionnés*] et conforme à une convention type définie par décret.
+Dans les cas prévus aux 1° et 2° ci-dessus, les loyers doivent respecter des maxima fixés par arrêté conjoint du ministre
+chargé des finances et du ministre chargé de la construction et de l'habitation.
+
+3° Après passation d'une convention régie par [*logements locatifs conventionnés*] le livre III, titre V, chapitre III du
+présent code (première partie) et conforme à une convention type définie par décret lorsqu'elles occupent un logement lié à
+l'exercice d'une fonction ou à leur statut.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 2 JORF 7 JUILLET 1983
 
 	**Cité par**:
 
@@ -34963,32 +34965,51 @@ L'établissement prêteur apprécie les sûretés nécessaires à la garantie de
 
 ###### Article R331-47
 
-Si les travaux ne sont pas commencés dans un délai de dix-huit mois à compter de la date de la décision favorable, le préfet
-peut rapporter cette décision.
+Si les travaux ne sont pas commencés dans les délais suivants à compter de la date de la décision favorable :
 
-Dans un délai de quatre ans à compter de la date de la décision favorable, le bénéficiaire est tenu [*obligation*] de
-justifier au préfet que la déclaration d'achèvement des travaux prévue à l'article R. 460-1 du code de l'urbanisme a été
-déposée. Dans le cas de travaux d'amélioration le bénéficiaire est tenu de déclarer l'achèvement des travaux au préfet dans
-le même délai.
+Neuf mois pour les opérations visées à l'article R. 331-48 ;
 
-Une prorogation de ce délai peut être accordée par le ministre chargé de la construction et de l'habitation et le ministre
-chargé des finances.
+Douze mois pour les opérations visées à l'article R. 331-49, le commissaire de la République peut rapporter cette décision.
+
+Le bénéficiaire est tenu [*obligation*] de justifier au commissaire de la République que la déclaration d'achèvement des
+travaux prévue à l'article R. 460-1 du code de l'urbanisme a été déposée dans les délais suivants à compter de la décision
+favorable :
+
+Deux ans pour les opérations visées à l'article R. 331-48 ;
+
+Trois ans pour les opérations visées à l'article R. 331-49.
+
+Dans le cas de travaux d'amélioration, le bénéficiaire est tenu de déclarer l'achèvement des travaux au commissaire de la
+République dans les délais suivants à compter de la date de décision favorable :
+
+Dix-huit mois pour les opérations visées à l'article R. 331-48 ;
+
+Trente mois pour les opérations visées à l'article R. 331-49.
+
+Une prorogation de ces délais peut être accordée par le commissaire de la République dans la limite de deux ans.
+
+Une prorogation supplémentaire peut être accordée par le ministre chargé de la construction et de l'habitation.
+
+Toutefois, il n'est pas porté atteinte aux effets découlant de l'application des dispositions antérieures aux opérations
+ayant bénéficié de décisions favorables antérieurement à la date d'application du présent décret.
 
 La non-observation de ces dispositions entraîne la nullité de la décision favorable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 16
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 3 JORF 7 JUILLET 1983
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R460-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+	  - Code de la construction et de l'habitation. - art. R331-49 (M)
 
 
 ###### Article R331-48
@@ -35466,6 +35487,197 @@ de chacune des parcelles.
 	  - Code de la construction et de l'habitation. - art. R331-57 (M)
 
 
+##### Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R. 331-59 du C.C.H.
+
+###### Article R331-59-1
+
+Dans les limites et conditions fixées par la présente section, sauf dispositions contraires expresses prévues par la présente
+sous-section, les prêts aidés par l'Etat visés à l'article R. 331-32 peuvent être accordés pour financer des logements visés
+à l'article R. 331-49 dont le préfinancement n'aurait pas été transféré ou maintenu dans les conditions définies à l'article
+R. 331-59 et qui seraient loués conformément aux dispositions de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-49 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-5 (V)
+
+
+###### Article R331-59-2
+
+Peuvent bénéficier des prêts prévus à l'article R. 331-32 sous réserve des dispositions de l'article R. 331-50, aux
+conditions fixées par les articles R. 331-54 et R. 331-59-5, les personnes physiques ou morales qui construisent ou
+acquièrent les logements ou les parts de sociétés représentatives des logements visés ci-dessus et qui louent ces logements à
+des personnes physiques.
+
+L'octroi de ces prêts est subordonné à la passation par le demandeur d'une convention régie par le livre III, titre V,
+chapitre III du présent code (première partie) [*logements locatifs conventionnés*] et conforme à une convention type définie
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cité par**:
+
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-5 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-50 (M)
+	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+
+
+###### Article R331-59-3
+
+L'occupation des logements visés par la présente sous-section par des personnes physiques au titre de leur résidence
+principale, doit être effective dans le délai de trois mois calculé à compter de la date du contrat de location.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+
+###### Article R331-59-4
+
+Les dispositions des articles R. 331-39 (1°), R. 331-41, ne sont pas applicables aux logements visés par la présente sous-
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-39 1°
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R331-59-5
+
+Par dérogation aux dispositions de l'article R. 331-59, sur autorisation conjointe du ministre chargé de la construction et
+de l'habitation et du ministre chargé des finances, le préfinancement relatif aux logements visés à l'article R. 331-59-1 est
+maintenu ou transféré aux bénéficiaires des prêts visés à l'article R. 331-59-2. Dans ce cas, il est soumis ainsi que le
+solde du prêt qui est alors débloqué aux conditions fixées par l'article R. 331-54.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
+
+
+###### Article R331-59-6
+
+Le prêt accordé [*montant*] est au plus égal à 80 p. 100 du prix de vente de chaque logement concerné résultant de
+l'application des dispositions de l'article R. 331-52 à la date de la décision de maintien ou de transfert. Il est en outre
+limité au montant du prêt que pourrait obtenir un ménage dont la composition correspond au type de logement susvisé et dont
+les ressources sont inférieures au plafond visé à la première phrase du 3e alinéa de l'article R. 331-53.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cité par**:
+
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-59-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-53 AL. 3 PHR. 1
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
+
+
+###### Article R331-59-7
+
+Le prêt visé à l'article R. 331-59-6 peut être transféré à tout moment pour le montant de son capital restant dû, en cas de
+vente du logement :
+
+- à une personne physique, dans les conditions fixées aux articles R. 331-42 et R. 331-43, sur autorisation du commissaire de
+la République et avec l'accord de l'établissement prêteur ;
+
+A une personne physique ou morale destinant le logement à la location dans les conditions définies à l'article R. 331-59-2,
+sur autorisation du ministre chargé de la construction et de l'habitation et du ministre chargé des finances et avec l'accord
+de l'établissement prêteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-594 1983-07-05 ART. 4 JORF 7 JUILLET 1983
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
+	  - Code de la construction et de l'habitation. - art. R331-43 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-6 (M)
+
+
 ##### Sous-section 5 : Sanctions.
 
 ###### Article R331-60
@@ -35562,23 +35774,21 @@ Des prêts conventionnés peuvent être accordés [*définition, objet*], dans l
 financer [*opérations*] :
 
 1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
-logements ou leur acquisition ;
+logements ou leur acquisition ; 
 
 2. L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
 3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
 
-4. Les travaux destinés à réduire les dépenses d'énergie dans des logements dont la demande d'autorisation de construire a
-été déposée avant le 1er janvier 1976 ; ces travaux doivent être réalisés par des entreprises garantissant contractuellement
-l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
+4. Les travaux destinés à réduire les dépenses d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait
+l'objet avant cette date, d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
+garantissant contractuellement l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
 
 Un arrêté du ministre chargé de la construction et de l'habitation précise les conditions d'application du 4., notamment les
 modalités de calcul et de contrôle des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités de mise
 en oeuvre de la garantie.
 
-5. Jusqu'à une date postérieure de trois mois au 23 février 1983, les travaux d'amélioration de logements achevés avant le
-1er janvier 1972. Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal de ces
-travaux.
+5. Jusqu'au 31 décembre 1983 [*date*], les travaux d'amélioration de logements achevés depuis au moins dix ans.
 
 **Liens relatifs à cet article**
 
@@ -35616,18 +35826,14 @@ travaux.
 	  - Code de la sécurité sociale. - art. R831-22 (V)
 	  - Code général des impôts, CGI. - art. 1383 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 8 mars 1985
-	  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°83-134 1983-02-23 ART. 1 JORF 25 FEVRIER 1983
+	  - TXT_SOURCE: Arrêté du 8 mars 1985
+	  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
 
 
 ###### Article R331-64
@@ -35691,17 +35897,18 @@ celles fixées par la convention type mentionnée à l'alinéa précédent.
 
 Peuvent bénéficier de ces prêts :
 
-1. Les personnes physiques qui, pour leur habitation familiale, construisent ou acquièrent des logements neufs et celles qui
+1° Les personnes physiques qui, pour leur habitation familiale, construisent ou acquièrent des logements neufs et celles qui
 acquièrent des logements existants, en vue de leur amélioration.
 
 Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
-le livre II, titre Ier, chapitres II ou III du présent code (première partie).
+le livre II, titre 1er, chapitres II ou III du présent code (première partie).
 
-2. Les personnes physiques, propriétaires d'un logement et qui réalisent des travaux d'amélioration de ce logement.
+2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
+travaux destinés à réduire les dépenses d'énergie [*économies*].
 
 Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
 au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de
-leur conjoint.
+leur conjoint [*durée*].
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux, soit
 l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à cinq ans lorsque le
@@ -35712,11 +35919,11 @@ Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus,
 destiner le logement à leur résidence principale, ils peuvent être autorisés à le louer dans des conditions fixées par arrêté
 conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
 
+Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
+l'article R. 331-63 dans des immeubles où les logements appartenant à des personnes physiques et à usage de résidence
+principale représentent la moitié au moins du total des voix [*condition*].
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1287 1977-11-22 art. 4
 
 	**Cité par**:
 
@@ -35732,7 +35939,16 @@ conjoint du ministre chargé des finances et du ministre chargé de la construct
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°82-90 1982-01-26 ART. 2 JORF 27 JANVIER 1982
+	  - Décret n°83-596 1983-07-05 ART. 2 JORF 7 juillet 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 
 ###### Article R331-67
