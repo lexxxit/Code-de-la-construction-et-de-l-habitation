@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-01-09
 
 # Partie législative
 
@@ -38765,6 +38765,547 @@ paiement de l'aide personnalisée au logement.
 	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
 
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.
+
+###### Article R353-126
+
+Les conventions passées, en application des dispositions de l'article L. 351-2 (3.) et de l'article R. 331-67 du code de
+l'habitation et de la construction entre l'Etat, d'une part, et les personnes morales ou physiques bénéficiant de prêts
+conventionnés, d'autre part, doivent être conformes aux conventions types annexées au présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 (3.)
+	  - Code de la construction et de l'habitation. - art. R331-67 (M)
+
+
+###### Article R353-127
+
+Ces conventions s'appliquent aux logements à usage locatif appartenant à des personnes morales ou physiques lorsque ces
+logements bénéficient de prêts conventionnés dans les conditions définies par les articles R. 331-63 à R. 331-77 du code
+précité :
+
+a) Soit pour leur construction ou leur acquisition s'il s'agit de logements non encore mis en service (annexe n° 1) ;
+
+b) Soit pour leur acquisition et leur amélioration (annexe n. 2) ;
+
+c) Soit pour leur amélioration lorsque les logements font partie d'un programme d'intérêt général approuvé par le préfet et
+dont les travaux sont financés à titre principal par le prêt conventionné (annexe n° 3).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-63 à R331-77
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-140 (V)
+
+
+###### Article R353-128
+
+Les travaux d'amélioration doivent conduire à mettre les logements en conformité totale avec des normes minimales
+d'habitabilité définies par arrêté du 1er mars 1978.
+
+A titre exceptionnel, les conventions peuvent porter sur des logements qui en raison d'impératifs techniques tenant à la
+structure de l'immeuble ne pourront répondre à l'ensemble desdites normes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1978-03-01
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-129
+
+La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
+remplissent les conditions d'octroi de cette aide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-130
+
+Les conventions qui ont une durée d'au moins neuf ans prennent effet à leur date de publication au fichier immobilier ou
+d'inscription au livre foncier.
+
+Les conventions sont renouvelées par tacite reconduction pour des périodes triennales, sous réserve de dénonciation expresse
+par l'une ou l'autre partie. Selon le cas, la dénonciation est notifiée par acte administratif, notarié ou extrajudiciaire,
+au moins six mois avant la date d'expiration de la période.
+
+Après sa dénonciation dans les conditions fixées à l'alinéa 2 du présent article, une nouvelle convention peut être conclue
+dans les conditions du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-132
+
+Au moins quinze jours avant la date de signature du bail, en cas de vacance du logement, le bailleur adresse au candidat
+locataire une lettre portant réservation du logement pendant un délai minimum de quinze jours. Dans le cas où le logement est
+disponible à plus brève échéance, ce délai peut être ramené à huit jours francs.
+
+Le bailleur est tenu de proposer un bail conforme à la convention, auquel sont annexés une copie de ladite convention ainsi
+que les éléments du barème de l'aide personnalisée au logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-133
+
+Le bail est conclu pour une durée de trois ans. Toutefois, s'il est conclu au cours des trois premières années de la
+convention, sa durée est limitée à la durée restant à courir jusqu'au 30 juin suivant la troisième année de la date de
+signature de la convention.
+
+Pendant la durée de la convention en cours au moment de la conclusion du bail et sous réserve des dispositions de l'article
+R. 353-135 ci-dessous, il est reconduit tacitement à la volonté du locataire seul pour des périodes également de trois ans,
+dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
+
+Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment, sous réserve d'un préavis de trois
+mois ramené à un mois en cas de changement de résidence pour raisons professionnelles ou familiales graves.
+
+Le congé est donné par lettre recommandée [*condition de forme*] , le préavis partant de la date d'envoi et le cachet de la
+poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le bail produit effet jusqu'au
+dernier jour du mois.
+
+Sous réserve des dispositions de l'article R. 353-147 ci-dessous, en cas de vacance intervenant au cours d'une période
+triennale, le nouveau locataire est substitué de plein droit à l'ancien locataire.
+
+Six mois avant la date d'expiration de la convention, le bailleur est tenu de proposer dans des conditions fixées par les
+conventions au locataire qui exécute les obligations de l'article 1728 du code civil, un projet de bail prenant effet à
+ladite date d'expiration sous réserve qu'une nouvelle convention ne soit pas conclue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1728 (V)
+	  - Code de la construction et de l'habitation. - art. R353-135 (M)
+	  - Code de la construction et de l'habitation. - art. R353-147 (M)
+
+
+###### Article R353-136
+
+Le loyer est payable par fraction mensuelle à terme échu sauf convention expresse du bail qui peut prévoir le paiement par
+terme à échoir, jusqu'à une date qui est fixée par les conventions.
+
+Le bailleur remet au preneur un document faisant apparaître le montant du loyer, des sommes accessoires, et en cas de
+versement de l'aide personnalisée au bailleur, également celui de cette aide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-137
+
+Les conventions fixent les conditions dans lesquelles il est demandé au locataire, lors de la signature du bail, un
+cautionnement qui peut être au plus équivalent à deux mois de loyer en principal, révisable en fonction de l'évolution de
+celui-ci. Elles fixent également les conditions dans lesquelles ce cautionnement lui est restitué à son départ.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-138
+
+Les charges récupérables correspondent à des prestations, taxes locatives et fournitures individuelles et doivent être
+limitativement énumérées dans le bail.
+
+Elles peuvent faire l'objet de provisions et doivent, en ce cas, donner lieu à régularisation annuelle. Les demandes de
+provisions sont justifiées par la communication des résultats antérieurs arrêtés lors de la précédente régularisation
+annuelle, ou par celle de budgets prévisionnels.
+
+Quinze jours avant l'échéance du remboursement ou de la régularisation annuelle des charges, le bailleur en communique le
+décompte, par nature de charges, ainsi que le mode de répartition entre tous les locataires de l'immeuble.
+
+Pendant un délai d'un mois à compter de l'envoi de ce décompte, les pièces justificatives sont tenues à la disposition des
+locataires ou de leurs représentants. Lorsqu'ils en font la demande, toutes explications utiles sur les dépenses de gestion
+leur sont présentées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-139
+
+Un constat de l'état du local, dressé contradictoirement à l'entrée dans les lieux, doit être annexé au bail. A la sortie, un
+constat est établi dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-140
+
+En application des dispositions de l'article L. 353-7 du code précité, à la date d'entrée en vigueur de la convention passée
+en application de l'article R. 353-127 (b et c), le bailleur propose au locataire ou occupant de bonne foi dans les lieux un
+projet de bail auquel sont annexés une copie de ladite convention ainsi que des éléments du barème de l'aide personnalisée au
+logement.
+
+Le locataire dispose d'un délai de six mois pour accepter ce projet de bail qui reproduit en caractères très apparents le
+texte intégral de l'article L. 353-7 précité et qui fait l'objet d'une notification aux intéréssés dans les conditions fixées
+par les conventions.
+
+Sous réserve des dispositions de l'article R. 353-141 ci-dessous, le bail prend effet à compter de la date d'achèvement des
+travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-7 (M)
+	  - Code de la construction et de l'habitation. - art. R353-127 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-141 (V)
+	  - Code de la construction et de l'habitation. - art. R353-142 (V)
+
+
+###### Article R353-141
+
+Pour les logements dont la construction a été financée dans les conditions prévues au livre III (titre Ier) ou au livre IV du
+code de la construction et de l'habitation et dans le cas où ces logements font l'objet de travaux justifiés par des
+considérations de sécurité, de salubrité, ou de mise aux normes minimales d'habitabilité, le bailleur présente aux locataires
+concernés un projet de bail, conforme aux dispositions prévues à l'alinéa 1er de l'article R. 353-140 ci-dessus, et entrant
+en vigueur après l'achèvement des travaux.
+
+Ce projet de bail [*contenu*] reproduit en caractère très apparents le texte intégral de l'article L. 353-8 et fait l'objet
+d'une notification aux intéressés dans les conditions fixées par les conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-8 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-140 (V)
+
+
+###### Article R353-142
+
+Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948, le projet de bail mentionné à l'article R. 353-140 ci-
+dessus doit en outre reproduire, en caractères trés apparents, le texte intégral de l'article L. 353-9 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+	  - Code de la construction et de l'habitation. - art. R353-140 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-143
+
+Pour l'exécution des travaux ne nécessitant pas le départ des occupants, le bailleur se conforme, selon le cas, aux
+dispositions de l'article 14 modifié de la loi n. 48-1360 du 1er septembre 1948 susvisée ou de l'article 2 modifié de la loi
+n. 67-561 du 12 juillet 1967 susvisée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 14 (V)
+	  - Loi n°67-561 du 12 juillet 1967 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-144
+
+Lorsque les travaux rendent inhabitable ce qui est nécessaire au logement de l'occupant et de sa famille et nécessitent
+l'évacuation temporaire des lieux, le bailleur met provisoirement à la disposition des occupants concernés des logements
+répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 art. 13 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-145
+
+Les bailleurs sont tenus envers les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement,
+de fournir toutes les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au
+logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les directives du conseil
+de gestion du fonds national de l'habitation, conformément aux dispositions de la convention nationale prévue à l'article L.
+351-8 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-8 (M)
+
+
+###### Article R353-146
+
+En application de l'article L. 353-5 du code précité, les logements conventionnés doivent être maintenus à usage locatif
+pendant toute la durée de la convention. Toutefois, lorsque le propriétaire est une personne physique, les conventions fixent
+les conditions dans lesquelles ledit propriétaire peut occuper ou faire occuper par son conjoint, ses ascendants ou
+descendants, à titre de résidence principale, les logements conventionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-5 (V)
+
+
+###### Article R353-147
+
+En cas de mutation d'un ou de plusieurs logements conventionnés, le ou les nouveaux propriétaires notifient leur
+identification aux locataires et aux organismes liquidateurs de l'aide personnalisée au logement dans les conditions prévues
+par les articles 5 ou 6 du décret n° 55-22 du 4 janvier 1955 modifié.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-133 (V)
+
+
+###### Article R353-148
+
+Lorsque la vente d'un appartement et de ses locaux accessoires, situés dans un immeuble ou partie d'immeuble ayant fait
+l'objet d'une convention, est la première, depuis la division par appartements dudit immeuble, à porter sur ces seuls biens,
+le locataire dans les lieux est admis à faire valoir le droit de préférence prévu par l'article 10 de la loi n° 75-1351 du 31
+décembre 1975 et son décret d'application, dans les conditions définies par les conventions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-150 (V)
+
+
+###### Article R353-149
+
+Lorsque la convention porte sur plus de dix logements et dans le cas où ce programme fait l'objet d'une mise en copropriété,
+la gestion des logements conventionnés devra obligatoirement en être confiée à l'une des personnes mentionnées à l'arrêté du
+9 mars 1978 portant agrément de personnes ou organismes habilités à gérer des immeubles faisant l'objet d'une convention
+régie par les articles L. 353-1 à L. 353-13 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1978-03-09
+	  - Code de la construction et de l'habitation L353-1 à L353-13
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-150
+
+Sous réserve des dispositions de l'article R. 353-148 ci-dessus, les conventions peuvent être revisées tous les trois ans à
+la demande de l'une ou l'autre partie. Les frais de publication sont pris en charge par la partie qui sollicite la revision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-148 (M)
+
+
+###### Article R353-151
+
+Les conventions fixent les cas de résiliation aux torts du bailleur pour lesquels il peut être fait application des
+dispositions de l'article L. 353-6 du code précité.
+
+Elles fixent également les sanctions encourues pour non-respect des engagements contractuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-6 (V)
+
+
+###### Article R353-152
+
+Le ministre chargé du logement ou son représentant s'assure de la publication des conventions au fichier immobilier ou de
+leur inscription au livre foncier, et en informe les organismes chargés de la liquidation et du paiement de l'aide
+personnalisée au logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.
+
+###### Article R353-131
+
+Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
+huit mois par an. Ils ne peuvent faire l'objet de sous-location. Ils doivent répondre aux conditions d'occupation suffisante,
+telle que définies par l'article L. 621-2 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L621-2 (V)
+
+
+###### Article R353-134
+
+La valeur maximale du loyer annuel au mètre carré de surface corrigée, telle que résultant des dispositions de l'article R.
+442-1 du code de la construction et de l'habitation et de l'article 4 du décret n. 60-1063 du 1er octobre 1960, ainsi que les
+conditions de son évolution, sont fixées par les conventions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-1063 1960-10-01 ART. 4
+	  - Code de la construction et de l'habitation. - art. R442-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-135 (V)
+
+
+###### Article R353-135
+
+Les loyers pratiqués dont la valeur est fixée au mètre carré de surface corrigée peuvent être revisés, au cours de la période
+triennale le 1er juillet de chaque année, en fonction des variations de l'indice du coût de la construction publié par
+l'INSEE, dans la limite du loyer maximum tel que défini à l'article R. 353-134 ci-dessus, selon des modalités fixées par les
+conventions.
+
+A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
+maximum.
+
+Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
+ladite période : ce montant peut être révisé en fonction des variations de l'indice du coût de la construction, publié par
+l'INSEE selon des modalités fixées par les conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-133 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-134 (M)
+
+
 ### Titre V : Aide personnalisée au logement.
 
 #### Chapitre Ier : Dispositions générales
@@ -55473,5 +56014,69 @@ Fait en double exemplaire, à..., le....
 	  - Code de la construction et de l'habitation. - art. R331-66 (V)
 	  - Code de la construction et de l'habitation. - art. R331-72 (V)
 	  - Code de la construction et de l'habitation. - art. R331-74 (V)
+
+
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.
+
+###### Article Annexe II à l'article R353-127
+
+Annexe de l'article 2 de l'annexe I à l'article R. 353-127.
+
+1. Locaux visés par la présente convention.
+
+Désignation, composition avant réalisation des travaux, (logements financés conformément au titre II du livre II du CUH,
+autres logements) (1), composition après réalisation des travaux.
+
+Nombre de logements locatifs par type de logements, numéro des lots.
+
+Surface des logements :
+
+- en mètres carrés habitables.
+
+- en mètres carrés de surface corrigée.
+
+Montant du loyer :
+
+- en mètres carrés habitables.
+
+- en mètres carrés de surface corrigée.
+
+Dépendances :
+
+- nombre.
+
+- surface.
+
+Locaux collectifs résidentiels :
+
+- nombre.
+
+- surface.
+
+Garages et parkings :
+
+- nombre.
+
+- par type.
+
+2. Locaux auxquels ne s'applique pas la convention :
+
+Locaux commerciaux (nombre) : ...
+
+Bureaux commerciaux (nombre) : ...
+
+Autres : ....
+
+(1) Dont ceux régis par la loi du 1er septembre 1948 en précisant la catégorie du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
