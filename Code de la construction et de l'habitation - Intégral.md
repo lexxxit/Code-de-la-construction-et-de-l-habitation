@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-10-30
 
 # Partie législative
 
@@ -24282,88 +24282,6 @@ règles de sécurité auxquelles doivent être conformes les ascenseurs.
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 
 
-###### Article R*111-6
-
-Tout logement compris dans un bâtiment d'habitation au sens de l'article R. 111-1 doit pouvoir être chauffé et pourvu d'eau
-chaude sanitaire moyennant une dépense d'énergie limitée en choisissant l'une des options suivantes :
-
-1. Application de l'une des solutions techniques approuvées par le ministre chargé de la construction et de l'habitation ;
-
-2. Respect d'une limite de déperditions thermiques et recours à un système de chauffage et d'eau chaude sanitaire de
-référence ;
-
-3. Respect d'une limite de besoins annuels de chauffage, calculés compte tenu de déperditions thermiques elles-mêmes limitées
-et d'apports de chaleur solaire liés à la situation et à l'exposition du logement et recours à un système de chauffage et
-d'eau chaude sanitaire de référence ;
-
-4. Respect d'un seuil de performance thermique globale du logement, celle-ci prenant en compte simultanément le rendement du
-système de chauffage et d'eau chaude sanitaire, les apports de chaleur solaire évalués comme il est dit ci-dessus et les
-déperditions thermiques, elles-mêmes limitées.
-
-Les exigences définies ci-dessus prennent en compte les caractéristiques du logement, sa localisation et l'énergie utilisée.
-
-Des arrêtés conjoints du ministre chargé de la construction et de l'habitation, du ministre chargé de l'industrie, du
-ministre chargé de la santé et du ministre chargé des collectivités locales précisent les modalités d'application du présent
-article, et définissent notamment les limites de déperditions thermiques, les limites de besoins annuels de chauffage, les
-seuils de performance thermique globale mentionnés au 4 ci-dessus, ainsi que les caractéristiques des systèmes de chauffage
-et d'eau chaude sanitaire de référence.
-
-Des arrêtés du ministre chargé de la construction et de l'habitation approuvent les solutions techniques mentionnées au 1 ci-
-dessus et les méthodes de calcul des performances thermiques globales des logements.
-
-Les équipements de chauffage du logement permettent de maintenir à 18 °C la température résultante intérieure au centre des
-pièces du logement. Ils comportent des dispositifs de réglage automatique du chauffage. Ces dispositifs permettent à
-l'occupant d'obtenir une température inférieure à 18 °C.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-319 1988-04-05 art. 1 JORF 8 avril 1988
-
-	**Cité par**:
-
-	  - Arrêté du 13 avril 1988 - art. 1 (V)
-	  - Arrêté du 28 décembre 2012 - art. Annexe III (V)
-	  - Code de la construction et de l'habitation. - art. R*161-1 (M)
-	  - Code de la construction et de l'habitation. - art. R*161-3 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R111-1
-
-
-###### Article R*111-7
-
-Les dispositions de l'article R. 111-6 sont applicables aux projets de construction ayant fait l'objet d'une demande de
-permis de construire postérieurement au 31 décembre 1988.
-
-**Nota:**
-
-Les dispositions de l'article R. 111-6 dans leur rédaction en vigueur à la date de la publication du décret n° 88-319 du 5
-avril 1988 demeurent applicables aux projets de construction ayant fait l'objet d'une demande de permis de construire avant
-le 1er janvier 1989[*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Décret n°88-319 1988-04-05
-	  - Code de la construction et de l'habitation R111-6
-
-	**Modifié par**:
-
-	  - Décret n°88-319 1988-04-05 art. 2 JORF 8 avril 1988
-
-
 ###### Article R*111-8
 
 Les logements doivent être protégés contre les infiltrations et les remontées d'eau.
@@ -24825,6 +24743,58 @@ lesquels des prescriptions d'isolement acoustique sont prévues.
 
 	  - Arrêté du 30 mai 1996 - art. 10 (V)
 	  - Arrêté du 11 janvier 2016 - art. 2
+
+
+###### Article R111-6
+
+Tout logement compris dans un bâtiment d'habitation au sens de l'article R. 111-1 doit pouvoir être chauffé et pourvu d'eau
+chaude sanitaire moyennant une dépense d'énergie limitée, selon les conditions prévues par les dispositions de l'article R*.
+111-20.
+
+Les équipements de chauffage du logement permettent de maintenir à 18 °C la température au centre des pièces du logement. Ils
+comportent des dispositifs de réglage automatique du chauffage qui permettent notamment à l'occupant d'obtenir une
+température inférieure à 18 °C.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 13 avril 1988 - art. 1 (V)
+	  - Arrêté du 28 décembre 2012 - art. Annexe III (V)
+	  - Code de la construction et de l'habitation. - art. R*161-1 (M)
+	  - Code de la construction et de l'habitation. - art. R*161-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 1 () JORF 30 novembre 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-1, R111-20
+
+
+###### Article R111-7
+
+Les dispositions de l'article R. 111-6 sont applicables à tous les projets de construction ayant fait l'objet d'une demande
+de permis de construire déposée postérieurement au 1er juin 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 1 () JORF 30 novembre 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-6
 
 
 ##### Section 3 : Personnes handicapées.
@@ -25669,36 +25639,14 @@ concernés par la section II ci-dessus relative aux règles générales de const
 
 ###### Article R*111-21
 
-Les bâtiments et parties de bâtiments auxquels s'appliquent les dispositions de la présente section doivent être construits
-et aménagés de telle sorte que les consommations d'énergie pour le chauffage et la climatisation puissent être aussi réduites
-que possible.
-
-A cet effet, des arrêtés conjoints du ministre chargé de la construction et de l'habitation, du ministre chargé de
-l'industrie et du ministre chargé de la santé et, le cas échéant, des autres ministres intéressés précisent les
-caractéristiques requises en matière d'isolation thermique, de régulation et de programmation du chauffage, de ventilation et
-de climatisation.
-
-Les caractéristiques requises en matière d'isolation thermique ne s'appliquent qu'aux locaux dont la température normale
-d'occupation est égale ou supérieure à 14 °C. Ces caractéristiques sont définies en prenant comme paramètre le coefficient
-volumique de déperditions thermiques par transmission à travers les parois. Les arrêtés prévus à l'alinéa précédent fixent la
-valeur maximale de ce coefficient, qui pourra varier selon les zones climatiques et la nature ou la destination des bâtiments
-ou parties de bâtiments.
-
-Les caractéristiques requises en matière de régulation programmation du chauffage et celle de ventilation ne s'appliquent
-qu'aux locaux dont la température normale d'occupation est égale ou supérieure à 10 °C.
-
-Les caractéristiques requises en matière de climatisation ne s'appliquent qu'aux installations utilisant des machines
-frigorifiques en vue d'assurer le confort des personnes.
+Les dispositions de la présente section sont applicables à tous les projets de construction ayant fait l'objet d'une demande
+de permis de construire déposée postérieurement au 1er juin 2001.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-355 1988-04-12 art. 2 JORF 15 avril 1988
 
 	**Cité par**:
 
@@ -25725,6 +25673,14 @@ frigorifiques en vue d'assurer le confort des personnes.
 	  - Code de l'urbanisme - art. R*421-7-2 (V)
 	  - Code de l'urbanisme - art. R*431-18 (V)
 	  - Code de la construction et de l'habitation. - art. R*111-20 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2006-592 du 24 mai 2006 - art. 1 () JORF 25 mai 2006
 
 	**Liens**:
 
@@ -29680,6 +29636,64 @@ Ces appareils doivent permettre de mesurer la quantité de chaleur fournie ou un
 	  - Code de la construction et de l'habitation. - art. R*131-7 (Ab)
 
 
+###### Article R*131-3
+
+Les dispositions de l'article R. 131-2 ne sont pas applicables :
+
+a) Aux établissements d'hôtellerie, aux logements-foyers,
+
+aux locaux à usage agricole, aux locaux à usage sportif qui ne sont pas situés dans un immeuble collectif ;
+
+b) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire avant le 31 décembre 1988 et non équipés
+de systèmes de répartition des frais de chauffage, pour lesquels les frais de combustible ou d'énergie pour le chauffage
+d'une année de référence, rapportés à la surface chauffée, sont inférieurs à un seuil fixé par arrêté conjoint du ministre
+chargé de la construction et de l'habitation et du ministre chargé de l'énergie, ou pour lesquels il est techniquement
+impossible de poser des appareils de mesure.
+
+Ce seuil est choisi de sorte que, pour les immeubles faisant l'objet de l'obligation d'équipement en appareils permettant
+d'individualiser les frais de chauffage collectif, la charge financière annuelle de ces appareils, comprenant l'amortissement
+sur dix années et les frais de fonctionnement, soit inférieure au dixième des frais annuels de combustible ou d'énergie ;
+
+c) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire après le 31 décembre 1988, s'il s'avère,
+à l'issue de la première saison complète de chauffe, que les frais de combustible ou d'énergie pour le chauffage sont
+inférieurs au seuil visé au b du présent article, corrigé des variations climatiques et économiques. A cette fin, les
+techniques utilisées pour la construction de ces immeubles doivent permettre la mise en place ultérieure d'appareils de
+mesure et de répartition des frais de chauffage sans intervention significative ;
+
+d) Aux immeubles collectifs bénéficiant du label "haute performance énergétique", défini par l'arrêté prévu au III de
+l'article R. 111-20 du présent code ;
+
+e) Aux immeubles collectifs faisant appel, au moins pour la moitié de la puissance de chauffage des locaux, aux énergies
+renouvelables (solaire, géothermie, biomasse, rejets thermiques) ;
+
+f) Aux immeubles pourvus d'une installation de chauffage mixte comprenant un équipement collectif complété par des émetteurs
+de chaleur individuels ayant le caractère d'immeubles par destination.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R131-4, R131-5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
+	  - Arrêté du 30 mai 2016 - art. 2
+	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 3 () JORF 30 novembre 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-2, R111-20
+
+
 ###### Article R*131-4
 
 Dans les immeubles collectifs ayant fait l'objet d'une demande de permis de construire après le 31 décembre 1988 et qui, ne
@@ -30312,70 +30326,6 @@ pénal.
 	  - Code pénal - art. 131-41 (V)
 	  - Code pénal - art. 132-11 (M)
 	  - Code de la construction et de l'habitation R133-1
-
-
-### Titre III : Chauffage et ravalement des immeubles
-
-#### Chapitre Ier : Chauffage des immeubles.
-
-##### Section 1 : Equipement et répartition des frais dans les immeubles collectifs.
-
-###### Article R*131-3
-
-Les dispositions de l'article R. 131-2 ne sont pas applicables :
-
-a) Aux établissements d'hôtellerie, aux logements-foyers,
-
-aux locaux à usage agricole, aux locaux à usage sportif qui ne sont pas situés dans un immeuble collectif ;
-
-b) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire avant le 31 décembre 1988 et non équipés
-de systèmes de répartition des frais de chauffage, pour lesquels les frais de combustible ou d'énergie pour le chauffage
-d'une année de référence, rapportés à la surface chauffée, sont inférieurs à un seuil fixé par arrêté conjoint du ministre
-chargé de la construction et de l'habitation et du ministre chargé de l'énergie, ou pour lesquels il est techniquement
-impossible de poser des appareils de mesure.
-
-Ce seuil est choisi de sorte que, pour les immeubles faisant l'objet de l'obligation d'équipement en appareils permettant
-d'individualiser les frais de chauffage collectif, la charge financière annuelle de ces appareils, comprenant l'amortissement
-sur dix années et les frais de fonctionnement, soit inférieure au dixième des frais annuels de combustible ou d'énergie ;
-
-c) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire après le 31 décembre 1988, s'il s'avère,
-à l'issue de la première saison complète de chauffe, que les frais de combustible ou d'énergie pour le chauffage sont
-inférieurs au seuil visé au b du présent article, corrigé des variations climatiques et économiques. A cette fin, les
-techniques utilisées pour la construction de ces immeubles doivent permettre la mise en place ultérieure d'appareils de
-mesure et de répartition des frais de chauffage sans intervention significative ;
-
-d) Aux immeubles collectifs bénéficiant du label provisoire haute performance énergétique ou solaire ou du label qualitel-
-H.P.E., définis par les arrêtés prévus au troisième alinéa de l'article R. 111-6 du présent code ;
-
-e) Aux immeubles collectifs faisant appel, au moins pour la moitié de la puissance de chauffage des locaux, aux énergies
-renouvelables (solaire, géothermie, biomasse, rejets thermiques) ;
-
-f) Aux immeubles pourvus d'une installation de chauffage mixte comprenant un équipement collectif complété par des émetteurs
-de chaleur individuels ayant le caractère d'immeubles par destination.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R131-4, R131-5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
-	  - Arrêté du 30 mai 2016 - art. 2
-	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R131-2, R111-6
 
 
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
