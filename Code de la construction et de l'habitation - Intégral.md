@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -8910,16 +8910,16 @@ application de l'article L. 111-7.
 
 ###### Article L302-1
 
-Le programme local de l'habitat est établi par un établissement public de coopération intercommunale pour tout ou partie
-d'une agglomération ou pour un ensemble de communes qui entendent par leur coopération répondre à des objectifs communs en
-matière d'habitat.
+Le programme local de l'habitat est établi par un établissement public de coopération intercommunale pour l'ensemble de ses
+communes membres.
 
 Pour les communes de Paris, Marseille et Lyon, les maires d'arrondissement ou leurs représentants participent à l'élaboration
 du programme local de l'habitat.
 
-Le programme local de l'habitat définit, pour une durée au moins égale à cinq ans, les objectifs et les principes d'une
-politique visant à répondre aux besoins en logements et à favoriser la mixité sociale en assurant entre les communes et entre
-les quartiers d'une même commune une répartition équilibrée et diversifiée de l'offre de logements.
+Le programme local de l'habitat définit, pour une durée au moins égale à six ans, les objectifs et les principes d'une
+politique visant à répondre aux besoins en logements et en hébergement, et à favoriser le renouvellement urbain et la mixité
+sociale en assurant entre les communes et entre les quartiers d'une même commune une répartition équilibrée et diversifiée de
+l'offre de logements.
 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et économique, de l'évaluation des besoins des
 habitants actuels et futurs, de la desserte en transports et des options d'aménagement déterminées par le schéma directeur ou
@@ -8929,6 +8929,35 @@ du patrimoine social des communes, quand ils existent.
 
 Il indique les moyens, notamment fonciers, qui seront mis en oeuvre par les communes ou les établissements publics de
 coopération intercommunale compétents en matière d'urbanisme pour parvenir aux objectifs et principes qu'il a fixés.
+
+Le programme local de l'habitat comporte un diagnostic sur le fonctionnement des marchés du logement et sur la situation de
+l'hébergement, analysant les différents segments de l'offre de logements, privés et sociaux, individuels et collectifs, de
+l'offre d'hébergement, ainsi que l'offre foncière.
+
+Le programme local de l'habitat définit les conditions de mise en place d'un dispositif d'observation de l'habitat sur son
+territoire.
+
+Le programme local de l'habitat indique les moyens à mettre en oeuvre pour satisfaire les besoins en logements et en places
+d'hébergement, dans le respect de la mixité sociale et en assurant une répartition équilibrée et diversifiée de l'offre de
+logements, en précisant :
+
+- les objectifs d'offre nouvelle ;
+
+- les actions à mener en vue de l'amélioration et de la réhabilitation du parc existant, qu'il soit public ou privé. A cette
+fin, il précise les opérations programmées d'amélioration de l'habitat et les actions de lutte contre l'habitat indigne ;
+
+- les actions et opérations de renouvellement urbain, et notamment les actions de rénovation urbaine au sens de la loi n°
+2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, impliquant la démolition
+et la reconstruction de logements sociaux, la démolition de logements situés dans des copropriétés dégradées, assorties d'un
+plan de revalorisation du patrimoine conservé et des mesures envisagées pour améliorer la qualité urbaine des quartiers
+intéressés et des services offerts aux habitants ;
+
+- les réponses apportées aux besoins particuliers des personnes mal logées, défavorisées ou présentant des difficultés
+particulières ;
+
+- les réponses apportées aux besoins particuliers des étudiants.
+
+Le programme local de l'habitat fait l'objet d'un programme d'actions détaillé par secteurs géographiques.
 
 **Liens relatifs à cet article**
 
@@ -8972,9 +9001,13 @@ coopération intercommunale compétents en matière d'urbanisme pour parvenir au
 	  - Code général des impôts, CGI. - art. 1407 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 58 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 	**Cite**:
 
@@ -8995,8 +9028,8 @@ intercommunale, est transmis aux communes et établissements publics de coopéra
 d'urbanisme, qui disposent d'un délai de deux mois pour faire connaître leur avis.
 
 Au vu de ces avis, l'organe délibérant de l'établissement public de coopération intercommunale délibère à nouveau sur le
-projet et le transmet au représentant de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au conseil
-départemental de l'habitat.
+projet et le transmet au représentant de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au comité régional
+de l'habitat.
 
 Le représentant de l'Etat, s'il estime que le projet de programme local de l'habitat ne répond pas à l'objectif de
 répartition équilibrée et diversifiée de l'offre de logements, adresse, dans un délai d'un mois, des demandes motivées de
@@ -9011,7 +9044,7 @@ ensuite le programme local de l'habitat.
 
 	**Modifié par**:
 
-	  - Loi n°95-74 du 21 janvier 1995 - art. 1 () JORF 24 janvier 1995
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 	**Cité par**:
 
@@ -9454,8 +9487,8 @@ chaque période triennale.
 
 La collectivité ou l'établissement public de coopération intercommunale ayant approuvé le programme local de l'habitat
 établit, au terme de chaque période triennale, un bilan portant en particulier sur le respect des engagements en matière de
-mixité sociale. Celui-ci est communiqué au conseil départemental de l'habitat. [Dispositions déclarées non conformes à la
-Constitution par décision du Conseil constitutionnel n° 2000-436 DC du 7 décembre 2000.]
+mixité sociale. Celui-ci est communiqué au comité régional de l'habitat. (Dispositions déclarées non conformes à la
+Constitution par décision du Conseil constitutionnel n° 2000-436 DC du 7 décembre 2000.)
 
 **Liens relatifs à cet article**
 
@@ -9465,7 +9498,7 @@ Constitution par décision du Conseil constitutionnel n° 2000-436 DC du 7 déce
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 	**Cité par**:
 
@@ -9485,9 +9518,9 @@ deux mois.
 
 En tenant compte de l'importance de l'écart entre les objectifs et les réalisations constatées au cours de la période
 triennale échue, des difficultés rencontrées le cas échéant par la commune et des projets de logements sociaux en cours de
-réalisation, le préfet peut, par un arrêté motivé pris après avis du conseil départemental de l'habitat, prononcer la carence
-de la commune. Par le même arrêté, il fixe, pour une durée maximale de trois ans à compter du 1er janvier de l'année suivant
-sa signature, la majoration du prélèvement défini à l'article L. 302-7. Le taux de la majoration est égal au plus au rapport
+réalisation, le préfet peut, par un arrêté motivé pris après avis du comité régional de l'habitat, prononcer la carence de la
+commune. Par le même arrêté, il fixe, pour une durée maximale de trois ans à compter du 1er janvier de l'année suivant sa
+signature, la majoration du prélèvement défini à l'article L. 302-7. Le taux de la majoration est égal au plus au rapport
 entre le nombre des logements sociaux non réalisés et l'objectif total de logements fixé dans le programme local de l'habitat
 ou déterminé par application du dernier alinéa de l'article L. 302-8. Le prélèvement majoré ne peut excéder 5 % du montant
 des dépenses réelles de fonctionnement de la commune figurant dans le compte administratif établi au titre de
@@ -9500,8 +9533,8 @@ un organisme en vue de la construction ou l'acquisition des logements sociaux n�
 fixés dans le programme local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8.
 
 La commune contribue au financement de l'opération pour un montant égal à la subvention foncière versée par l'Etat dans le
-cadre de la convention, sans que cette contribution puisse excéder la limite de 13 000 euros par logement construit ou acquis
-en Ile-de-France et 5 000 euros par logement sur le reste du territoire.
+cadre de la convention, sans que cette contribution puisse excéder la limite de 13 000 Euros par logement construit ou acquis
+en Ile-de-France et 5 000 Euros par logement sur le reste du territoire.
 
 **Liens relatifs à cet article**
 
@@ -9509,9 +9542,9 @@ en Ile-de-France et 5 000 euros par logement sur le reste du territoire.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 24 () JORF 12 décembre 2001
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 	**Cité par**:
 
@@ -19302,9 +19335,9 @@ des logements et les conditions de leur réservation au profit des personnes pri
 l'information du représentant de l'Etat dans le département, des maires et des conférences intercommunales du logement
 prévues à l'article L. 441-1-4 sont, pour chaque département, précisées en tenant compte de la mixité des villes et des
 quartiers ainsi que, le cas échéant, des caractéristiques des diverses parties de celui-ci, par un règlement établi par le
-représentant de l'Etat dans le département après avis du conseil départemental de l'habitat.
+représentant de l'Etat dans le département après avis du comité régional de l'habitat.
 
-Ce règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, des besoins
+Ce règlement tient compte des programmes locaux de l'habitat, communiqués au comité régional de l'habitat, des besoins
 évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la loi n°
 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, des accords collectifs départementaux prévus à
 l'article L. 441-1-2 et, le cas échéant, des chartes intercommunales prévues à l'article L. 441-1-5.
@@ -19363,7 +19396,7 @@ dans le respect des règles et des conventions régulièrement signées.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 
 ###### Article L441-1-2
@@ -19372,8 +19405,8 @@ Des accords nationaux sont conclus entre l'Etat et les organisations nationales 
 de logements sociaux dans le respect des principes définis à l'article L. 441.
 
 Dans chaque département, le représentant de l'Etat dans le département conclut, tous les trois ans, après consultation des
-conférences intercommunales prévues à l'article L. 441-1-4 et du conseil départemental de l'habitat, un accord collectif avec
-les organismes disposant d'un patrimoine locatif social dans le département. Cet accord définit pour chaque organisme un
+conférences intercommunales prévues à l'article L. 441-1-4 et du comité régional de l'habitat, un accord collectif avec les
+organismes disposant d'un patrimoine locatif social dans le département. Cet accord définit pour chaque organisme un
 engagement annuel quantifié d'attribution de logements aux personnes cumulant des difficultés économiques et sociales et
 visées dans le plan départemental d'action pour le logement des personnes défavorisées au sens de l'article 4 de la loi n°
 90-449 du 31 mai 1990 précitée. Cet engagement doit respecter la mixité sociale des villes et des quartiers. Il tient compte
@@ -19429,7 +19462,7 @@ l'article 62 de cette loi.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 
 ###### Article L441-1-3
@@ -19471,16 +19504,16 @@ communes concernées, dans le respect des conventions de réservation de logemen
 
 Lorsque la situation du logement le justifie au regard des objectifs de mixité sociale et d'accueil des personnes
 défavorisées, le représentant de l'Etat dans le département, après consultation de la commission départementale de la
-coopération intercommunale et du conseil départemental de l'habitat ainsi que, dans la région d'Ile-de-France, de la
-conférence régionale mentionnée à l'article L. 441-1-6, délimite des bassins d'habitat qui représentent des territoires
-cohérents d'intervention en matière de politique de logement et d'urbanisme. Il doit prendre en compte pour cette
-délimitation les structures de coopération intercommunale compétentes en matière d'urbanisme et de logement créées en
-application des dispositions de la cinquième partie du code général des collectivités territoriales, les périmètres des
-programmes locaux de l'habitat institués en application des articles L. 302-1 et suivants du présent code, lorsque ces
-derniers ont un caractère intercommunal et, le cas échéant, les bassins d'habitat délimités par le plan départemental
-d'action pour le logement des personnes défavorisées en application des dispositions de l'article 4 de la loi n° 90-449 du 31
-mai 1990 précitée ainsi que les conférences intercommunales du logement existantes à la date de publication de la loi n°
-98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions.
+coopération intercommunale et du comité régional de l'habitat ainsi que, dans la région d'Ile-de-France, de la conférence
+régionale mentionnée à l'article L. 441-1-6, délimite des bassins d'habitat qui représentent des territoires cohérents
+d'intervention en matière de politique de logement et d'urbanisme. Il doit prendre en compte pour cette délimitation les
+structures de coopération intercommunale compétentes en matière d'urbanisme et de logement créées en application des
+dispositions de la cinquième partie du code général des collectivités territoriales, les périmètres des programmes locaux de
+l'habitat institués en application des articles L. 302-1 et suivants du présent code, lorsque ces derniers ont un caractère
+intercommunal et, le cas échéant, les bassins d'habitat délimités par le plan départemental d'action pour le logement des
+personnes défavorisées en application des dispositions de l'article 4 de la loi n° 90-449 du 31 mai 1990 précitée ainsi que
+les conférences intercommunales du logement existantes à la date de publication de la loi n° 98-657 du 29 juillet 1998
+d'orientation relative à la lutte contre les exclusions.
 
 Ceux-ci sont constitués par le territoire de plusieurs communes contiguës dont l'une au moins comprend une ou plusieurs zones
 urbaines sensibles, définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et
@@ -19495,9 +19528,9 @@ délai d'un an à compter de la publication de la loi n° 98-657 du 29 juillet 1
 
 Lorsque le bassin d'habitat regroupe des communes situées dans des départements différents, sa délimitation est faite par les
 représentants de l'Etat dans les départements concernés, après consultation des commissions départementales de la coopération
-intercommunale et des conseils départementaux de l'habitat. Toutefois, dans la région d'Ile-de-France, la délimitation des
-bassins d'habitat regroupant des communes situées dans des départements différents relève de la compétence du représentant de
-l'Etat dans la région après avis des commissions et conseils susmentionnés ainsi que de la conférence régionale mentionnée à
+intercommunale et des comités régionaux de l'habitat. Toutefois, dans la région d'Ile-de-France, la délimitation des bassins
+d'habitat regroupant des communes situées dans des départements différents relève de la compétence du représentant de l'Etat
+dans la région après avis des commissions et comités susmentionnés ainsi que de la conférence régionale mentionnée à
 l'article L. 441-1-6.
 
 La conférence du logement rassemble, outre les maires des communes, un représentant du ou des conseils généraux concernés et
@@ -19564,9 +19597,7 @@ de construction, ainsi qu'un représentant du conseil général. Elle se réunit
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 60, art. 153 I, III JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 153 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 60 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 
 ###### Article L441-1-5
@@ -20009,9 +20040,9 @@ l'article L. 441-1-4.
 Le règlement départemental prévu à l'article L. 441-1-1 précise les conditions dans lesquelles les bailleurs sociaux non
 signataires de l'accord collectif départemental communiquent les informations énoncées ci-dessus.
 
-Le représentant de l'Etat dans le département soumet au moins une fois par an au conseil départemental de l'habitat les
-principaux résultats des informations recueillies au titre du présent article. Ces résultats peuvent être consultés par toute
-personne en faisant la demande ;
+Le représentant de l'Etat dans le département soumet au moins une fois par an au comité régional de l'habitat les principaux
+résultats des informations recueillies au titre du présent article. Ces résultats peuvent être consultés par toute personne
+en faisant la demande ;
 
 4° Les maires d'arrondissement des communes de Paris, Marseille et Lyon bénéficient des mêmes informations que le maire de la
 commune pour les logements situés dans le ou les arrondissements où ils sont territorialement compétents.
@@ -20025,9 +20056,9 @@ leur parc de logements locatifs sociaux.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 	**Cite**:
 
@@ -20375,7 +20406,7 @@ La mise en demeure comporte la reproduction du présent article.
 
 Les organismes d'habitations à loyer modéré communiquent au représentant de l'Etat dans le département du lieu de situation
 des logements les renseignements statistiques et financiers permettant l'établissement d'un rapport annuel sur l'application
-du supplément de loyer dans le département. Ce rapport est soumis pour avis au conseil départemental de l'habitat.
+du supplément de loyer dans le département. Ce rapport est soumis pour avis au comité régional de l'habitat.
 
 Le Gouvernement dépose tous les deux ans, sur le bureau des assemblées, un rapport sur l'application du supplément de loyer
 de solidarité.
@@ -20385,10 +20416,6 @@ de solidarité.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31
-
-	**Créé par**:
-
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
 
 	**Cité par**:
 
@@ -20405,6 +20432,10 @@ de solidarité.
 	  - Arrêté du 19 mars 2014 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. R362-2 (V)
 	  - Code de la construction et de l'habitation. - art. R441-27 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 
 ###### Article L441-11
@@ -21576,7 +21607,7 @@ Le conseil d'administration ou de surveillance de chaque organisme d'habitations
 orientations de sa politique de vente de logements, fixe les objectifs à atteindre en nombre de logements mis en vente et
 apprécie les résultats obtenus l'année précédente.
 
-Le conseil départemental de l'habitat est saisi chaque année d'un rapport du représentant de l'Etat portant sur la vente de
+Le comité régional de l'habitat est saisi chaque année d'un rapport du représentant de l'Etat portant sur la vente de
 logements d'habitation à loyer modéré. Ce rapport analyse si le réinvestissement des fonds provenant de la vente permet le
 maintien quantitatif et qualitatif de l'offre locative. Il peut émettre à cette occasion des recommandations.
 
@@ -21638,7 +21669,7 @@ d'amélioration des parties communes et des éléments d'équipement commun qu'i
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 159 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
 
 
 ###### Article L443-8
