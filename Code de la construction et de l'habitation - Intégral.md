@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-08-03
 
 # Partie législative
 
@@ -23353,6 +23353,63 @@ concernés, le contrat fait état de cette rémunération et en indique le monta
 	  - Code de la construction et de l'habitation R231-2
 
 
+###### Article R*231-4
+
+Pour l'application du d de l'alinéa 1er de l'article L. 231-1, le prix convenu s'entend [*définition*] du prix global défini
+au contrat, éventuellement révisé conformément aux articles L. 231-1-1 et L. 231-1-2.
+
+Les honoraires afférents à l'établissement du plan sont compris dans le prix convenu.
+
+Le maître de l'ouvrage doit indemnité, en sus du prix convenu, à la personne qui se charge de la construction pour les
+inconvénients que cette personne subirait de son fait. Le contrat peut prévoir une évaluation forfaitaire des indemnités dues
+par le maître de l'ouvrage en cas de retard de paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L231-1 AL. 1 D, L231-1-1, L231-1-2
+	  - Code de la construction et de l'habitation. - art. L231-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*231-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*232-4 (V)
+
+
+###### Article R*231-5
+
+L'indice mentionné à l'article L. 231-1-1 est l'index national du bâtiment tous corps d'état dénommé BT 01 , créé par le
+ministre chargé de l'économie et des finances et utilisé pour la révision des prix des marchés de construction de bâtiment.
+Il traduit la variation des côuts salariaux y compris les charges annexes, des côuts des matériaux et de leur transport, des
+côuts d'utilisation , amortissement compris, des matériels mis en oeuvre ainsi que des côuts des produits et services divers
+nécessaires à la gestion  des entreprises définis par décision du ministre chargé de l'Economie et des Finances et publiés au
+Bulletin officiel de la concurrence et de la consommation.
+
+L'index BT 01 est publié mensuellement au Journal officiel par le ministre chargé de la construction et de l'habitation.
+
+La limite mentinnée à l'article L. 231-1-1 est fixée à 70 p.  100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-829 1985-07-29 art. 2 JORF 3 aout 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-1-1 (Ab)
+
+
 ###### Article R*231-6
 
 Le pourcentage maximum du prix total exigible aux différents stades de la construction d'après l'état d'avancement des
@@ -23650,75 +23707,6 @@ le cas de réception avec réserves.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R231-11
-
-
-### Titre III : Contrat de construction d'une maison individuelle.
-
-###### Article R*231-4
-
-Pour l'application du d de l'alinéa 1er de l'article L. 231-1, le prix convenu s'entend du prix global défini au contrat,
-éventuellement modifié en raison des révisions de prix intervenues jusqu'à l'expiration du délai contractuel d'exécution des
-travaux.
-
-Les honoraires afférents à l'établissement du plan sont compris dans le prix convenu.
-
-Le maître de l'ouvrage doit indemnité, en sus du prix convenu, à la personne qui se charge de la construction pour les
-inconvénients que cette personne subirait de son fait. Le contrat peut prévoir une évaluation forfaitaire des indemnités dues
-par le maître de l'ouvrage en cas de retard de paiement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L231-1 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*231-3 (V)
-	  - Code de la construction et de l'habitation. - art. R*232-4 (V)
-
-
-###### Article R*231-5
-
-Si le contrat prévu à l'article L. 231-1 comporte la révision du prix prévu au d du premier alinéa dudit article, celle-ci ne
-peut être calculée qu'en proportion des variations soit de l'index pondéré départemental publié par le ministre chargé de la
-construction et de l'habitation, soit de l'indice du coût de la construction publié par l'institut national de la statistique
-et des études économiques.
-
-Si le contrat ne mentionne pas expressément l'indice choisi par les parties, l'index pondéré départemental publié par le
-ministre chargé de la construction et de l'habitation est applicable.
-
-L'index ou l'indice de base de la révision est, au choix des parties, soit le dernier index ou indice publié au jour de la
-signature du contrat, soit celui afférent au mois ou au trimestre durant lequel est signé ce contrat.
-
-Si le choix laissé aux parties par l'alinéa précédent n'est pas exprimé, le dernier index ou indice publié au jour de la
-signature du contrat est applicable.
-
-La révision s'opère pour chaque paiement, dans le premier cas, en fonction du dernier index ou indice publié au jour de
-l'exigibilité de ce paiement et, dans le second, en fonction de l'index ou indice afférent au mois ou au trimestre au cours
-duquel le paiement est exigible.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L231-1 (M)
 
 
 ### Titre V : Bail à construction
@@ -24236,6 +24224,39 @@ mois.
 	  - Code de la construction et de l'habitation. - art. R*261-19 (Ab)
 
 
+###### Article R*261-15
+
+L'indice mentionné à l'article L. 261-11-1 est l'index national du bâtiment tous corps d'état dénommé BT 01, créé par le
+ministre chargé de l'économie et des finances et utilisé pour la révision du prix des marchés de construction de bâtiment. Il
+traduit la variation des côuts salariaux, y compris les charges annexes, des côuts des matériaux et de leur transport, des
+côuts d'utilisation, amortissements compris, des matériels mis en oeuvre ainsi que des côuts des produits et services divers
+nécessaires à la gestion des entreprises définis par décision du ministre chargé de l'économie et des finances et publiés au
+Bulletin officiel de la concurrence et de la consommation.
+
+L'index BT 01 est publié mensuellement au Journal officiel par le ministre chargé de la construction et de l'habitation.
+
+La limite mentionnée à l'article L. 261-11-1 est fixée à 70 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-828 1985-07-29 art. 1 JORF 3 aout 1985
+
+	**Cité par**:
+
+	  - Décret n°2014-114 du 7 février 2014 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-26 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-11-1 (M)
+
+
 ###### Article R*261-16
 
 Lorsqu'avant la conclusion de la vente, le vendeur a obtenu le bénéfice d'un prêt spécial à la construction du Crédit foncier
@@ -24256,53 +24277,6 @@ financier de l'opération au vu desquels a été prise la décision de prêt.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R*311-37 (V)
-
-
-##### Section 3 : Dispositions particulières à la conclusion du contrat de ventes d'immeubles à construire pour l'usage d'habitation ou pour l'usage professionnel et d'habitation.
-
-###### Article R*261-15
-
-Si le contrat prévoit la révision du prix, celle-ci ne peut être calculée qu'en proportion des variations, soit de l'index
-pondéré départemental publié par le ministère chargé de la construction et de l'habitation, soit de l'indice du coût de la
-construction publié par l'institut national de la statistique et des études économiques.
-
-Si l'acte de vente ne mentionne pas expressément l'indice choisi par les parties, l'index pondéré départemental publié par le
-ministère chargé de la construction et de l'habitation est applicable.
-
-L'index ou indice de base de la révision est, au choix des parties, soit le dernier index ou indice publié au jour de la
-vente, soit celui afférent au mois ou au trimestre durant lequel est conclu l'acte de vente.
-
-La révision s'opère, pour chaque paiement ou dépôt, dans le premier cas, en fonction du dernier index ou indice publié au
-jour de l'exigibilité de ce paiement ou dépôt, dans le second, en fonction de l'index ou l'indice afférent au mois ou au
-trimestre au cours duquel le paiement ou le dépôt est exigible.
-
-Toutefois, dans le cas où le contrat de vente a été précédé d'un contrat préliminaire, les parties peuvent convenir que
-l'index ou l'indice de base est le dernier index ou indice publié au jour de la signature du contrat préliminaire si le prix
-de base retenu est celui porté à ce contrat ; sous la même réserve, elles peuvent également convenir que l'index ou l'indice
-de base est celui afférent au mois ou au trimestre durant lequel a été conclu le contrat préliminaire. La révision des
-paiements ou dépôts s'opère suivant les modalités fixées à l'alinéa précédent.
-
-Les dispositions des alinéas 3 à 5 du présent article ne sont pas applicables, sauf accord des parties, aux contrats de vente
-passés conformément aux articles L. 261-10 à L. 261-21 avant le 23 juin 1972.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°2014-114 du 7 février 2014 (V)
-	  - Code de la construction et de l'habitation. - art. R*261-26 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L261-10 à L261-21
 
 
 ##### Section 4 : Garanties d'achèvement et de remboursement.
@@ -24594,6 +24568,34 @@ Cette note technique doit être annexée au contrat.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R*261-26
+
+Le contrat doit également indiquer :
+
+- le prix prévisionnel de vente et, le cas échéant, les modalités de sa révision dans les limites et conditions prévues aux
+articles L. 261-11-1 et R. 261-15 ;
+
+- la date à laquelle la vente pourra être conclue ;
+
+- s'il y a lieu, les prêts que le réservant déclare qu'il fera obtenir au réservataire ou dont il lui transmettra le bénéfice
+en précisant le montant de ces prêts, leurs conditions et le nom du prêteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-11-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-828 1985-07-28 art. 2 JORF 3 août 1985
+
+
 ###### Article R*261-27
 
 Le contrat préliminaire est établi par écrit ; un exemplaire doit en être remis au réservataire avant tout dépôt de fonds. Il
@@ -24745,35 +24747,6 @@ moyens et notamment par l'attestation d'un architecte.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L261-21 (Ab)
-
-
-##### Section 5 : Contrat préliminaire.
-
-###### Article R*261-26
-
-Le contrat doit également indiquer :
-
-- le prix prévisionnel de vente et, le cas échéant, les modalités de sa révision dans les limites et conditions prévues à
-l'article R. 261-15.
-
-- la date à laquelle la vente pourra être conclue ;
-
-- s'il y a lieu, les prêts que le réservant déclare qu'il fera obtenir au réservataire ou dont il lui transmettra le bénéfice
-en précisant le montant de ces prêts, leurs conditions et le nom du prêteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 art. 30
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R261-15
 
 
 ### Titre VII : Dispositions particulières aux départements d'outre-mer
