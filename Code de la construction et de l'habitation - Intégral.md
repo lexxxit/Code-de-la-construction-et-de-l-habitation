@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-11-01
+Version Consolidée au 2004-11-25
 
 # Partie législative
 
@@ -77903,8 +77903,9 @@ La caisse est administrée par un conseil d'administration et dirigée par un di
 
 ###### Article R452-5
 
-Le conseil d'administration de la caisse comprend neuf administrateurs nommés par arrêté conjoint du ministre chargé du
-logement, du ministre chargé de l'économie et du ministre chargé du budget :
+Le conseil d'administration de la caisse comprend, outre le directeur général de l'Agence nationale pour la rénovation
+urbaine, neuf administrateurs nommés par arrêté conjoint du ministre chargé du logement, du ministre chargé de l'économie et
+du ministre chargé du budget :
 
 - deux représentants du ministre chargé du logement ;
 
@@ -77917,12 +77918,12 @@ logement, du ministre chargé de l'économie et du ministre chargé du budget :
 - un représentant de la Fédération nationale des sociétés d'économie mixte, désigné par cette fédération ;
 
 - une personnalité qualifiée désignée, à raison de ses compétences dans le domaine du logement, par le ministre chargé du
-logement après avis des représentants de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré.
+logement après avis des représentants de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré. 
 
-Les administrateurs sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+Les administrateurs sont nommés pour une durée de trois ans. Leur mandat est renouvelable. 
 
 Les administrateurs qui, en cours de mandat, n'occupent plus les fonctions à raison desquelles ils ont été désignés sont
-réputés démissionnaires.
+réputés démissionnaires. 
 
 En cas de vacance, pour quelque cause que ce soit, le conseil d'administration est complété dans le délai d'un mois à compter
 de la constatation de la vacance. Les nouveaux administrateurs sont nommés selon les mêmes modalités que ceux qu'ils
@@ -77934,17 +77935,17 @@ remplacent et pour la durée du mandat restant à courir.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°2003-424 du 7 mai 2003 - art. 1 () JORF 11 mai 2003
-
 	**Cité par**:
 
 	  - Décret n°2003-424 du 7 mai 2003 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 2 () JORF 25 novembre 2004
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L452-2 (M)
+	  - Code de la construction et de l'habitation. - art. L452-2 (V)
 
 
 ###### Article R452-6
@@ -78040,7 +78041,9 @@ Le conseil d'administration règle par ses délibérations les affaires de la ca
 
 Il détermine les orientations de son activité, en particulier en matière de maîtrise des risques liés aux garanties et aux
 concours financiers à la prévention et au redressement, d'attribution des garanties des prêts au logement locatif social et
-d'attribution des concours financiers à la prévention et au redressement.
+d'attribution des concours financiers à la prévention et au redressement. Il fixe les orientations générales relatives à
+l'octroi des concours financiers destinés à favoriser la réorganisation des organismes d'habitations à loyer modéré et leur
+regroupement.
 
 Il est notamment compétent pour :
 
@@ -78048,7 +78051,8 @@ Il est notamment compétent pour :
 
 2° Arrêter les comptes annuels ;
 
-3° Donner un avis sur le taux de la cotisation et le montant des réductions prévus à l'article L. 452-4 ;
+3° Donner un avis sur le taux de la cotisation, le montant des réductions prévues à l'article L. 452-4 et sur la fraction des
+cotisations additionnelles affectée au versement d'une contribution à l'Agence nationale pour la rénovation urbaine ;
 
 4° Décider des emprunts ;
 
@@ -78070,7 +78074,7 @@ d'économie mixte en vue de contribuer à leur redressement ou à la prévention
 
 11° Statuer sur les demandes de concours financiers mentionnés au 10° ci-dessus ;
 
-12° Attribuer les subventions mentionnées au troisième alinéa de l'article L. 452-1, en fixant les contreparties demandées
+12° Attribuer les subventions mentionnées au cinquième alinéa de l'article L. 452-1, en fixant les contreparties demandées
 aux bénéficiaires ;
 
 13° Délibérer sur le rapport annuel de gestion du directeur général ;
@@ -78106,9 +78110,9 @@ mentionnées au 11° du présent article au directeur général statuant sur avi
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 3 () JORF 25 novembre 2004
 
 	**Cite**:
 
@@ -78144,9 +78148,12 @@ soumises à l'approbation du ministre chargé du logement, du ministre chargé d
 Elles deviennent exécutoires dans les conditions fixées à l'article 1er du décret n° 99-575 du 8 juillet 1999 relatif aux
 modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
 
-Les délibérations du conseil d'administration relatives aux subventions mentionnées au troisième alinéa de l'article L. 452-1
-deviennent exécutoires après approbation expresse par le ministre chargé du logement, le ministre chargé de l'économie et le
-ministre chargé du budget.
+Les délibérations du conseil d'administration relatives aux subventions mentionnées au cinquième alinéa de l'article L. 452-1
+deviennent exécutoires après approbation expresse par le ministre chargé du logement et le ministre chargé de l'économie.
+
+Les décisions de la commission prévue à l'article L. 452-2-1, dénommée commission de réorganisation, relatives à des
+conventions entre la caisse et l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ou les fédérations
+d'organismes d'habitations à loyer modéré sont soumises à la même procédure.
 
 Les délibérations du conseil d'administration décidant de recourir à l'emprunt deviennent exécutoires après approbation
 expresse par le ministre chargé de l'économie.
@@ -78161,10 +78168,11 @@ expresse par le ministre chargé de l'économie.
 
 	  - Décret n°99-575 du 8 juillet 1999 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-2-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 4 () JORF 25 novembre 2004
 
 
 ###### Article R452-13
@@ -78208,10 +78216,11 @@ mentionnées à l'article L. 452-1.
 
 Le directeur général dirige la caisse. A ce titre :
 
-1° Il prépare les décisions du conseil d'administration et donne son avis sur l'ordre du jour des séances ;
+1° Il prépare les décisions du conseil d'administration et de la commission et donne son avis sur l'ordre du jour des
+séances ;
 
-2° Il exécute les décisions du conseil d'administration et peut, à cette fin, recevoir les délégations nécessaires du conseil
-d'administration ;
+2° Il exécute les décisions du conseil d'administration et de la commission et peut, à cette fin, recevoir les délégations
+nécessaires du conseil d'administration ;
 
 3° Il instruit les demandes de garantie et les demandes de concours financier ;
 
@@ -78242,9 +78251,9 @@ en informe le conseil d'administration.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 5 () JORF 25 novembre 2004
 
 
 ###### Article R452-15
@@ -78265,13 +78274,13 @@ d'attribution de concours financiers. Il peut être accompagné d'agents de la c
 
 ###### Article R452-16
 
-Le comité des aides comprend le président du conseil d'administration et huit autres membres nommés à raison :
+Le comité des aides comprend le président du conseil d'administration et sept autres membres nommés à raison :
 
 - de deux par le ministre chargé du logement, dont l'un ayant la qualité d'administrateur ;
 
 - d'un par le ministre chargé de l'économie ;
 
-- d'un par le ministre chargé du budget ;
+- (alinéa abrogé).
 
 - de trois par le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
 
@@ -78290,9 +78299,18 @@ Le comité des aides est présidé par le président du conseil d'administration
 d'empêchement du président du conseil d'administration, la présidence du comité des aides est exercée par un des
 représentants du ministre chargé du logement ayant la qualité d'administrateur et que le ministre désigne à cet effet.
 
-Le comité des aides ne délibère valablement que lorsque cinq au moins de ses membres sont présents.
+Un membre du comité des aides absent peut donner mandat à un autre membre de le représenter à ce comité. Un membre ne peut
+détenir plus d'un mandat.
 
-Le comité des aides rend ses avis à l'unanimité des membres présents.
+Le comité des aides ne délibère valablement que lorsque cinq au moins de ses membres sont présents ou représentés.
+
+Le comité des aides rend ses avis à l'unanimité des membres présents ou représentés.
+
+**Nota:**
+
+Décret n° 2009-632 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité des aides
+de la Caisse de garantie du logement locatif social).
 
 **Liens relatifs à cet article**
 
@@ -78300,9 +78318,9 @@ Le comité des aides rend ses avis à l'unanimité des membres présents.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 6 () JORF 25 novembre 2004
 
 	**Cité par**:
 
@@ -78310,7 +78328,7 @@ Le comité des aides rend ses avis à l'unanimité des membres présents.
 	  - Code de la construction et de l'habitation. - art. R452-10 (M)
 
 
-###### Article R452-17
+###### Article R452-16-1
 
 Le directeur général de la comptabilité publique ou son représentant, le chef de la mission interministérielle d'inspection
 du logement social ou son représentant et l'agent comptable participent aux séances du comité des aides avec voix
@@ -78322,9 +78340,9 @@ le président ou par le directeur général.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'urbanisme R452-16-1
+	  - Code de la construction et de l'urbanisme R452-17
 
 	**Codifié par**:
 
@@ -78332,23 +78350,62 @@ le président ou par le directeur général.
 
 	**Créé par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
-
-	**Transféré par**:
-
 	  - Décret n°2004-1251 du 23 novembre 2004 - art. 7 () JORF 25 novembre 2004
+
+
+###### Article R452-17
+
+La commission de réorganisation est présidée par le président du conseil d'administration et comprend huit autres membres
+nommés à raison :
+
+- de deux par le ministre chargé du logement ;
+
+- d'un par le ministre chargé de l'économie ;
+
+- de quatre par le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré, dont l'un est
+désigné pour remplacer le président de la commission en cas d'empêchement ou de vacance de la présidence ;
+
+- d'un désigné par le directeur général de l'Agence nationale pour la rénovation urbaine.
+
+Les membres de la commission sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+
+Les membres de la commission qui, en cours de mandat, n'occupent plus les fonctions en raison desquelles ils ont été désignés
+sont réputés démissionnaires.
+
+En cas de vacance, pour quelque cause que ce soit, la commission est complétée dans le délai d'un mois à compter de la
+constatation de la vacance. Les nouveaux membres sont nommés selon les mêmes modalités que ceux qu'ils remplacent et pour la
+durée du mandat restant à courir.
+
+La commission ne délibère valablement que si la moitié des membres sont présents ou représentés. Un membre absent peut donner
+mandat à un autre membre de le représenter à la commission. Un membre ne peut détenir plus d'un mandat.
+
+La commission prend ses décisions à la majorité des voix des membres présents ou représentés.
+
+La commission rend compte de ses décisions au conseil d'administration au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 8 () JORF 25 novembre 2004
 
 	**Cité par**:
 
 	  - Décret n°2006-1562 du 8 décembre 2006 - art. 2 (V)
 
 
-###### Article R452-18
+###### Article R452-17-1
 
-Les membres du conseil d'administration, du comité des aides et du comité d'audit, les personnes participant à leurs séances
-et les personnes qui, à un titre quelconque, participent à la direction ou à la gestion de la caisse ou qui sont employées
-par elle, sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article L. 511-33 du code
-monétaire et financier.
+Le président convoque la commission et fixe l'ordre du jour. La commission statue dans le cadre des orientations générales
+déterminées par le conseil d'administration. Elle fixe les conditions d'octroi des concours financiers et établit, à cette
+fin, ses règles de procédure.
+
+Le directeur général prépare et exécute les décisions de la commission. Il donne son avis sur l'ordre du jour des séances et
+y participe avec voix consultative. Il peut être accompagné d'agents de la caisse dont il juge la présence nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -78358,7 +78415,42 @@ monétaire et financier.
 
 	**Créé par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 8 () JORF 25 novembre 2004
+
+
+###### Article R452-17-2
+
+Le directeur général de la comptabilité publique ou son représentant, le chef de la mission interministérielle d'inspection
+du logement social ou son représentant et l'agent comptable assistent aux séances de la commission avec voix consultative.
+Des experts peuvent être appelés par le président à participer aux séances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 8 () JORF 25 novembre 2004
+
+
+###### Article R452-18
+
+Les membres du conseil d'administration, de la commission de réorganisation du comité des aides et du comité d'audit, les
+personnes participant à leurs séances et les personnes qui, à un titre quelconque, participent à la direction ou à la gestion
+de la caisse ou qui sont employées par elle, sont tenus au secret professionnel dans les conditions et sous les peines
+prévues à l'article L. 511-33 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 9 () JORF 25 novembre 2004
 
 	**Cite**:
 
@@ -78368,11 +78460,11 @@ monétaire et financier.
 ###### Article R452-19
 
 Les fonctions de président du conseil d'administration, de membre du conseil d'administration, du comité des aides et du
-comité d'audit sont gratuites. Les frais de déplacement et de séjour des membres du conseil d'administration, du comité des
-aides et du comité d'audit ne sont pas remboursés.
+comité d'audit sont gratuites. Les frais de déplacement et de séjour des membres du conseil d'administration, de la
+commission de réorganisation du comité des aides et du comité d'audit ne sont pas remboursés.
 
-Les membres du conseil d'administration, du comité des aides et du comité d'audit ne peuvent en aucun cas prêter leur
-concours à titre onéreux à la caisse.
+Les membres du conseil d'administration, de la commission de réorganisation du comité des aides et du comité d'audit ne
+peuvent en aucun cas prêter leur concours à titre onéreux à la caisse.
 
 **Liens relatifs à cet article**
 
@@ -78380,19 +78472,20 @@ concours à titre onéreux à la caisse.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 10 () JORF 25 novembre 2004
 
 
 ###### Article R452-20
 
-Les membres du conseil d'administration et du comité des aides doivent déclarer au commissaire du Gouvernement les intérêts
-qu'ils ont et les fonctions qu'ils occupent dans les organismes d'habitations à loyer modéré et les sociétés d'économie
-mixte, dans les associations ou organismes, quel qu'en soit le statut, exerçant une activité de construction ou de gestion de
-logements locatifs sociaux, et dans les associations mentionnées à l'article L. 452-1.
+Les membres du conseil d'administration, de la commission de réorganisation et du comité des aides doivent déclarer au
+commissaire du Gouvernement les intérêts qu'ils ont et les fonctions qu'ils occupent dans les organismes d'habitations à
+loyer modéré et les sociétés d'économie mixte, dans les associations ou organismes, quel qu'en soit le statut, exerçant une
+activité de construction ou de gestion de logements locatifs sociaux, et dans les associations mentionnées à l'article L.
+452-1.
 
-Ces déclarations sont communiquées au conseil d'administration et aux commissaires aux comptes.
+Ces déclarations sont communiquées au conseil d'administration, et aux commissaires aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -78400,13 +78493,13 @@ Ces déclarations sont communiquées au conseil d'administration et aux commissa
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 11 () JORF 25 novembre 2004
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-1 (V)
 
 
 ##### Section 3 : Régime financier
@@ -78590,9 +78683,8 @@ titre Ier du livre VI du code monétaire et financier.
 ###### Article R452-27
 
 En application de l'article L. 511-32 du code monétaire et financier, la caisse est dotée d'un commissaire du Gouvernement,
-qui est nommé et exerce ses fonctions dans les conditions que déterminent les articles 15 et suivants du décret n° 84-709 du
-24 juillet 1984 modifié pris en application de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit.
+qui est nommé et exerce ses fonctions dans les conditions que déterminent les articles D. 615-1 et suivants du code monétaire
+et financier.
 
 Le commissaire du Gouvernement veille notamment à ce que la caisse respecte les dispositions législatives et réglementaires
 qui la régissent et exerce son activité en conformité avec la mission d'intérêt public qui lui a été confiée. A cette fin, il
@@ -78603,7 +78695,8 @@ sa mission d'intérêt public et demander une seconde délibération. Il dispose
 demande doit être motivée. Si, après une seconde délibération, le désaccord subsiste, le commissaire du Gouvernement peut
 opposer un refus motivé à cette décision.
 
-Il a accès aux séances du conseil d'administration, du comité des aides et du comité d'audit.
+Il a accès aux séances du conseil d'administration, de la commission de réorganisation du comité des aides et du comité
+d'audit.
 
 **Liens relatifs à cet article**
 
@@ -78611,15 +78704,14 @@ Il a accès aux séances du conseil d'administration, du comité des aides et du
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 12 () JORF 25 novembre 2004
+
 	**Cite**:
 
-	  - Loi n°84-46 1984-01-24
-	  - Décret n°84-709 du 24 juillet 1984 - art. 15 (M)
+	  - Code monétaire et financier - art. D615-1 (M)
 	  - Code monétaire et financier - art. L511-32 (M)
-
-	**Créé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 
 ###### Article R452-28
