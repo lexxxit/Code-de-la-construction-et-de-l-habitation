@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-08-17
+Version Consolidée au 1983-10-14
 
 # Partie législative
 
@@ -31442,9 +31442,8 @@ contrat enregistré et les ouvriers agricoles ;
 
 c) Utilisé comme résidence secondaire au-delà des périodes de un, trois et cinq ans prévues à l'article R. 322-13.
 
-En cas de modification de la situation familiale de l'occupant du logement primé, des dérogations à l'article R. 322-1
-peuvent être accordées par le ministre chargé de la construction et de l'habitation aprés avis de la commission prévue à
-l'article R. 322-12.
+En cas de modification de la situation familiale de l'occupant du logement primé, des dérogations à l'article R. 322-12
+peuvent être accordées par le commissaire de la République.
 
 **Liens relatifs à cet article**
 
@@ -31454,11 +31453,10 @@ l'article R. 322-12.
 
 	**Modifié par**:
 
-	  - Décret n°79-977 1979-11-20 art.1 JORF 22 NOVEMBRE 1979
+	  - Décret n°83-907 1983-10-03 ART. 1 JORF 14 OCTOBRE 1983
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R322-1 (M)
 	  - Code de la construction et de l'habitation. - art. R322-12 (M)
 	  - Code de la construction et de l'habitation. - art. R322-13 (M)
 
@@ -32161,10 +32159,17 @@ améliorer la qualité.
 La subvention [*condition*] est accordée au vu d'un programme de travaux mentionné dans la convention prévue par l'article R.
 323-2.
 
+La décision de subvention est prise par le commissaire de la République [*autorité compétente*].
+
 Le montant des travaux pris en considération pour l'octroi de la subvention ne peut excéder 70000 F par logement.
 
-Des dérogations au montant des travaux fixé à l'alinéa précédent peuvent être accordées conjointement par le ministre chargé
-de la construction et de l'habitation et le ministre du budget.
+Des dérogations au montant des travaux fixé à l'alinéa précédent peuvent être accordées dans le cas d'opérations réalisées
+sur des immeubles anciens ou très dégradés, de restructuration interne des immeubles ou de reprise de l'architecture
+extèrieure.
+
+La décision de dérogation est prise par le commissaire de la République, sauf dans le cas d'opérations qui présentent le
+caractère d'investissement public national,  pour lesquelles la décision de dérogation est prise par le ministre chargé de la
+construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -32172,9 +32177,9 @@ de la construction et de l'habitation et le ministre du budget.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-87 1981-01-30 ART. 2 JORF 3 FEVRIER 1981
+	  - Décret n°83-907 1983-10-03 ART. 2 JORF 14 OCTOBRE 1983
 
 	**Cite**:
 
@@ -32213,12 +32218,13 @@ chargé de la construction et de l'habitation.
 
 L'octroi de la subvention est, dans ce cas, subordonné à la production des rapports mentionnés au 1. a ou b ci-dessus.
 
-Des dérogations aux taux de la subvention peuvent être accordées par le ministre chargé de la construction et de
-l'habitation, pour des opérations à caractère expérimental et, après avis du comité directeur du fonds d'aménagement urbain,
-pour des opérations "Habitat et vie sociale" ainsi que pour d'autres opérations lorsqu'elles présentent un caractère social
-marqué.
+Des dérogations aux taux de la subvention peuvent être accordées pour des opérations à caractère expérimental, pour des
+opérations "habitat et vie sociale" ou pour toute autre opération lorsqu'elle présente un caractère social marqué.
 
-La décision d'octroi de subvention est prise par le préfet [*autorité compétente*].
+La décision de dérogation est prise par le commissaire de la République [*autorité compétente*]. Elle ne peut avoir pour
+effet de modifier le taux de 40 p. 100 mentionné au 2) ci-dessus. Toutefois, les majorations de taux supérieures à 10 p. 100
+du côut prévisionnel des travaux et les dérogations portant sur des opérations ayant le caractère d'investissement public
+national ne peuvent être octroyées que par décision du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -32226,9 +32232,9 @@ La décision d'octroi de subvention est prise par le préfet [*autorité compét
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-87 1981-01-30 ART. 2 JORF 3 FEVRIER 1981
+	  - Décret n°83-907 1983-10-03 ART. 3 JORF 14 OCTOBRE 1983
 
 	**Liens**:
 
@@ -33809,28 +33815,28 @@ L'établissement prêteur apprécie des sûretés nécessaires à la garantie de
 
 ###### Article R331-14
 
-Si les travaux ne sont pas commencés dans un délai de dix-huit mois à compter de la date de la décision favorable, le préfet
-peut rapporter cette décision.
+Si les travaux ne sont pas commencés dans un délai de dix-huit mois à compter de la date de la décision favorable, le
+commissaire de la République peut rapporter cette décision.
 
-Dans un délai de quatre ans à compter de la date de la décision favorable, le bénéficiaire est tenu de [*obligation*]
-justifier au préfet que la déclaration d'achèvement des travaux prévue à l'article R. 460-1 du code de l'urbanisme a été
-déposée. Dans le cas de travaux d'amélioration, le bénéficiaire est tenu de déclarer l'achèvement des travaux au préfet dans
-le même délai.
+Dans un délai de quatre ans à compter de la date de la décision favorable, le bénéficiaire est tenu de justifier au
+commissaire de la République que la déclaration d'achèvement des travaux prévue à l'article R. 460-1 du code de l'urbanisme a
+été déposée. Dans le cas de travaux d'amélioration, le bénéficiaire est tenu de déclarer l'achèvement des travaux au
+commissaire de la République dans le même délai.
 
-Une prorogation de ce délai peut être accordée par le ministre chargé de la construction et de l'habitation et le ministre
-chargé des finances.
+Une prorogation de ce délai, qui ne pourra être supérieure à deux ans, peut être accordée par le commissaire de la
+République.
 
 La non-observation de ces dispositions entraîne la nullité de la décision favorable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-934 1977-07-27 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-907 1983-10-03 ART. 4 JORF 14 OCTOBRE 1983
 
 	**Cité par**:
 
