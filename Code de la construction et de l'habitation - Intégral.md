@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-05-17
+Version Consolidée au 1991-07-18
 
 # Partie législative
 
@@ -53776,10 +53776,13 @@ des parts ou actions émises par des sociétés d'habitations à loyer modéré,
 civiles immobilières dans les conditions prévues à l'article R. 421-5. Un arrêté conjoint du ministre chargé des finances et
 du ministre chargé de la construction et de l'habitation peut étendre ces participations à d'autres organismes.
 
-" Les souscriptions, acquisitions et cessions d'actions doivent être autorisées par le conseil d'administration. "
+Les souscriptions, acquisitions et cessions d'actions doivent être autorisées par le conseil d'administration.
 
-" Les souscriptions ou acquisitions d'actions de sociétés anonymes d'habitations à loyer modéré ne peuvent être effectuées
-qu'après accord de la collectivité locale de rattachement de l'office. "
+Les participations détenues par un office dans une société d'habitations à loyer modéré doivent représenter plus de 50 p. 100
+du capital de cette société.
+
+Les souscriptions ou acquisitions d'actions de sociétés anonymes d'habitations à loyer modéré ne peuvent être effectuées
+qu'après accord de la collectivité locale de rattachement de l'office.
 
 **Liens relatifs à cet article**
 
@@ -53789,7 +53792,7 @@ qu'après accord de la collectivité locale de rattachement de l'office. "
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 13 () JORF 24 avril 1991
+	  - Décret n°91-661 du 12 juillet 1991 - art. 1 ()
 
 
 ###### Article R*423-16
@@ -55712,15 +55715,17 @@ la réglementation ou aux instructions en vigueur.
 En dehors des opérations prévues par la législation en vigueur l'office ne peut effectuer que des placements en valeurs
 émises ou garanties par l'Etat.
 
-" Les offices publics d'habitations à loyer modéré peuvent également, après accord de leur collectivité locale de
-rattachement, souscrire ou acquérir des actions émises par des sociétés d'habitations à loyer modéré ou des sociétés
-d'économie mixte.
+Les offices publics d'habitations à loyer modéré peuvent également, après accord de leur collectivité locale de rattachement,
+souscrire ou acquérir des actions émises par des sociétés d'habitations à loyer modéré ou des sociétés d'économie mixte.
 
-" Ils peuvent en outre, pour la réalisation d'opérations prévues par les articles R. 311-1 et R. 311-2 et d'opérations
+Ils peuvent en outre, pour la réalisation d'opérations prévues par les articles R. 311-1 et R. 311-2 et d'opérations
 financées dans les conditions fixées par les articles R. 331-32 à R. 331-77, souscrire ou acquérir des parts de sociétés
 civiles immobilières, après accord de leur collectivité locale de rattachement.
 
-" Les souscriptions et acquisitions de parts ou d'actions doivent être autorisées par le conseil d'administration. "
+Les souscriptions et acquisitions de parts ou d'actions doivent être autorisées par le conseil d'administration.
+
+Les participations détenues par un office dans une société d'habitations à loyer modéré doivent représenter plus de 50 p. 100
+du capital de cette société.
 
 **Liens relatifs à cet article**
 
@@ -55730,7 +55735,7 @@ civiles immobilières, après accord de leur collectivité locale de rattachemen
 
 	**Modifié par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 14 () JORF 24 avril 1991
+	  - Décret n°91-661 du 12 juillet 1991 - art. 2 ()
 
 	**Cite**:
 
