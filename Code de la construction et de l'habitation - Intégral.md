@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-01-04
 
 # Partie législative
 
@@ -2376,6 +2376,90 @@ localisation et de la taille des immeubles ou locaux et les dates auxquelles ces
 	  - Loi n°2001-1062 du 15 novembre 2001 - art. 52 () JORF 16 novembre 2001
 
 
+#### Chapitre VIII : Sécurité des piscines.
+
+###### Article L128-1
+
+A compter du 1er janvier 2004, les piscines enterrées non closes privatives à usage individuel ou collectif doivent être
+pourvues d'un dispositif de sécurité normalisé visant à prévenir le risque de noyade.
+
+A compter de cette date, le constructeur ou l'installateur d'une telle piscine doit fournir au maître d'ouvrage une note
+technique indiquant le dispositif de sécurité normalisé retenu.
+
+La forme de cette note technique est définie par voie réglementaire dans les trois mois suivant la promulgation de la loi n°
+2003-9 du 3 janvier 2003 relative à la sécurité des piscines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2003-9 du 3 janvier 2003 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-9 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2008 (V)
+	  - Code de la construction et de l'habitation. - art. L128-3 (V)
+	  - Code de la construction et de l'habitation. - art. L152-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*128-3 (V)
+
+
+###### Article L128-2
+
+Les propriétaires de piscines enterrées non closes privatives à usage individuel ou collectif installées avant le 1er janvier
+2004 doivent avoir équipé au 1er janvier 2006 leur piscine d'un dispositif de sécurité normalisé, sous réserve qu'existe à
+cette date un tel dispositif adaptable à leur équipement.
+
+En cas de location saisonnière de l'habitation, un dispositif de sécurité doit être installé avant le 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-9 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L152-12 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*128-4 (V)
+
+
+###### Article L128-3
+
+Les conditions de la normalisation des dispositifs mentionnés aux articles L. 128-1 et L. 128-2 sont déterminées par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-9 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2008 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L128-1 (V)
+
+
 ### Titre III : Chauffage et ravalement des immeubles
 
 #### Chapitre Ier : Chauffage des immeubles.
@@ -3269,6 +3353,47 @@ puni d'une amende de 3 750 euros. En cas de récidive, l'amende sera de 7 500 eu
 	**Cite**:
 
 	  - Code de la construction et de l'habitation L132-3 à L132-5
+
+
+###### Article L152-12
+
+Le non-respect des dispositions des articles L. 128-1 et L. 128-2 relatifs à la sécurité des piscines est puni de 45 000
+Euros d'amende.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions aux dispositions des articles L. 128-1 et L. 128-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-9 du 3 janvier 2003 - art. 2 () JORF 4 janvier 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la construction et de l'habitation. - art. L128-1 (V)
+	  - Code de la construction et de l'habitation. - art. L128-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre et Miquelon.
