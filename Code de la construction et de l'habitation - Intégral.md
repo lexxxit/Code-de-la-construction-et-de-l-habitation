@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-01-01
+Version Consolidée au 1999-03-13
 
 # Partie législative
 
@@ -62451,10 +62451,10 @@ l'inscription sur ces listes est soumise au juge d'instance qui statue dans les 
 huit jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à
 chacune des listes de candidats avec éventuellement pour chacune d'elles l'indication de son affiliation ;
 
-4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celle-ci
-sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des bulletins dans une
-urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation proportionnelle au
-plus fort reste, sans radiation ni panachage.
+4° La date de l'élection, qui doit être comprise entre le 15 novembre et le 15 décembre, ainsi que les modalités pratiques de
+celle-ci sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des bulletins
+dans une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation
+proportionnelle au plus fort reste, sans radiation ni panachage.
 
 Chaque liste doit comprendre six noms ; les sièges revenant à chaque liste en fonction des résultats du scrutin sont
 attribués dans l'ordre des noms figurant sur la liste ; les autres personnes figurant sur la liste succèdent, dans l'ordre où
@@ -62487,12 +62487,13 @@ délègue à cet effet.
 	**Cite**:
 
 	  - Loi n°89-462 1989-07-06 art. 21
+	  - Code électoral - art. R120 (M)
 	  - Code de la construction et de l'habitation L423-12, R421-9
 	  - Code de la construction et de l'habitation. - art. L423-12 (V)
 
 	**Modifié par**:
 
-	  - Décret n°92-726 du 29 juillet 1992 - art. 5 () JORF 30 juillet 1992
+	  - Décret n°99-188 du 12 mars 1999 - art. 1 () JORF 13 mars 1999
 
 	**Cité par**:
 
@@ -62672,10 +62673,10 @@ l'inscription sur ces listes est soumise au juge d'instance qui statue dans les 
 huit jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à
 chacune des listes de candidats avec éventuellement pour chacune d'elles l'indication de son affiliation ;
 
-4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celles-
-ci sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des bulletins dans
-une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation proportionnelle
-au plus fort reste, sans radiation ni panachage.
+4° La date de l'élection, qui doit être comprise entre le 15 novembre et le 15 décembre, ainsi que les modalités pratiques de
+celles-ci sont arrêtées par le conseil d'administration ; le vote a lieu soit par correspondance, soit par dépôt des
+bulletins dans une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation
+proportionnelle au plus fort reste, sans radiation ni panachage.
 
 Chaque liste doit comprendre six noms ; les sièges revenant à chaque liste en fonction des résultats du scrutin sont
 attribués dans l'ordre des noms figurant sur la liste ; les autres personnes figurant sur la liste succèdent, dans l'ordre où
@@ -62714,7 +62715,7 @@ délègue à cet effet.
 
 	**Modifié par**:
 
-	  - Décret n°92-726 du 29 juillet 1992 - art. 10 () JORF 30 juillet 1992
+	  - Décret n°99-188 du 12 mars 1999 - art. 1 () JORF 13 mars 1999
 
 
 ###### Article R*421-63
@@ -62924,10 +62925,10 @@ l'inscription sur ces listes est soumise au juge d'instance qui statue dans les 
 huit jours au moins avant la date de l'élection, la société adresse à chaque locataire les bulletins de vote correspondant à
 chacune des listes de candidats avec, éventuellement pour chacune d'elles, l'indication de son affiliation ;
 
-4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin, ainsi que les modalités pratiques de celle-ci
-sont arrêtées par le conseil d'administration ou de surveillance ; le vote a lieu soit par correspondance, soit par dépôt des
-bulletins dans une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec représentation
-proportionnelle au plus fort reste, sans radiation ni panachage.
+4° La date de l'élection, qui doit être comprise entre le 15 novembre et le 15 décembre, ainsi que les modalités pratiques de
+celle-ci sont arrêtées par le conseil d'administration ou de surveillance ; le vote a lieu soit par correspondance, soit par
+dépôt des bulletins dans une urne, soit simultanément par les deux méthodes, au scrutin secret de liste à un tour avec
+représentation proportionnelle au plus fort reste, sans radiation ni panachage.
 
 Chaque liste doit comprendre un nombre de candidats qui est le double de celui des sièges à pourvoir ; les sièges revenant à
 chaque liste en fonction des résultats du scrutin sont attribués dans l'ordre des noms figurant sur la liste ; les autres
@@ -62957,11 +62958,8 @@ qualité.
 	**Cite**:
 
 	  - Loi n°89-462 1989-07-06 art. 21
+	  - Code électoral - art. R120 (M)
 	  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-	**Créé par**:
-
-	  - Décret n°92-726 du 29 juillet 1992 - art. 13 () JORF 30 juillet 1992
 
 	**Cité par**:
 
@@ -62970,6 +62968,10 @@ qualité.
 	  - Code de l'organisation judiciaire - art. R221-32 (V)
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°99-188 du 12 mars 1999 - art. 1 () JORF 13 mars 1999
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
