@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-19
 
 # Partie législative
 
@@ -2022,17 +2022,22 @@ L. 111-5, L. 111-6, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L. 
 
 ###### Article L152-1
 
-Les infractions aux dispositions des articles L. 111-4 [*construction et sécurité*], L. 111-9 [*caractéristiques thermiques*]
-et L. 131-4 [*équipement, fonctionnement et contrôle des installations consommant de l'énergie*] sont constatées par tous
-officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des collectivités
-publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de l'habitation suivant
-l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à preuve du contraire.
+Les infractions aux dispositions des articles L. 111-4 [*construction et sécurité*], L. 111-7, L. 111-8 L. 111-9
+[*caractéristiques thermiques*] et L. 131-4 [*équipement, fonctionnement et contrôle des installations consommant de
+l'énergie*] sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents
+de l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et
+de l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi
+jusqu'à preuve du contraire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 30 () JORF 19 juillet 1985
 
 	**Cité par**:
 
@@ -2044,13 +2049,11 @@ l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par
 	  - Code de la construction et de l'habitation. - art. R152-3 (V)
 	  - Code de procédure pénale - art. 398-1 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 101
-
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
@@ -10114,15 +10117,13 @@ A ces habitations peuvent être adjoints, dans les conditions fixées par décis
 annexes.
 
 En outre, les ensembles d'habitations mentionnés aux premiers alinéas peuvent comprendre accessoirement des locaux à usage
-commun et toutes constructions nécessaires à la vie économique et sociale de ces ensembles, à l'exclusion des débits de
-boissons des catégories 2, 3 et 4 indiquées à l'article L. 22 du code des débits de boissons et des mesures contre
-l'alcoolisme.
+commun et toutes constructions nécessaires à la vie économique et sociale de ces ensembles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -10155,13 +10156,13 @@ l'alcoolisme.
 	  - Code général des impôts, CGI. - art. 717 (V)
 	  - Code monétaire et financier - art. L511-6 (V)
 
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 31 ()
+
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 153 al. 1, al. 2, al. 3
-
-	**Cite**:
-
-	  - Code des débits de boissons et des mesures contre  - art. L22 (Ab)
+	  - Code de l'urbanisme 153 AL. 1, 2 ET 3
 
 
 ###### Article L411-2
@@ -10365,16 +10366,33 @@ Les organismes d'habitations à loyer modéré [*définition*] comprennent :
 Les offices publics d'aménagement et de construction [*définition, nature juridique*] sont des établissements publics à
 caractère industriel et commercial.
 
-Ils ont pour objet de réaliser :
+Ils ont pour objet :
 
-- toutes opérations d'urbanisme, notamment dans le cadre de l'article L. 321-1 du code de l'urbanisme et des textes pris pour
-son application ;
+- de réaliser pour leur compte, avec l'accord de la ou des collectivités intéressées, ou pour le compte de tiers, toutes les
+interventions foncières ou opérations d'aménagement prévues par le code de l'urbanisme, sans que les dispositions de
+l'article L. 443-14 soient applicables aux cessions de terrains non bâtis rendues nécessaires pour la réalisation de ces
+opérations ;
 
-- des constructions répondant aux conditions prévues à l'article L. 411-1 du présent code et dont ils assurent la gestion ;
+- de réaliser des opérations répondant aux conditions prévues par les articles L. 351-2 et L. 411-1 et de gérer les immeubles
+faisant l'objet de ces opérations ;
 
-- à titre de prestataires de services, des constructions répondant ou non aux normes des habitations à loyer modéré.
+- de gérer les immeubles à usage principal d'habitation appartenant à des organismes relevant des deux premiers secteurs
+locatifs définis par l'article 37 de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif, ainsi que les
+immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la propriété ;
+
+- de réaliser, en qualité de prestataire de services, des opérations portant sur tout immeuble à usage principal
+d'habitation.
 
 Un décret en Conseil d'Etat précise leurs attributions et détermine les modalités de leur fonctionnement.
+
+A titre subsidiaire, et en qualité de prestataires de services, ils peuvent en outre :
+
+- pour le compte de l'Etat, des collectivités locales ou des établissements publics, réaliser et assurer l'entretien des
+constructions liées à l'habitat ;
+
+- réaliser des hébergements de loisirs à vocation sociale, en assurant, le cas échéant, l'ensemble des tâches incombant au
+maître d'ouvrage. Un décret en Conseil d'Etat définit les conditions de financement de ces hébergements et la nature des
+organismes pour le compte desquels ils sont réalisés.
 
 **Liens relatifs à cet article**
 
@@ -10418,8 +10436,14 @@ Un décret en Conseil d'Etat précise leurs attributions et détermine les modal
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Loi n°82-526 1982-06-22 art. 37
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
 
 	**Anciens textes**:
 
@@ -10482,11 +10506,21 @@ Ils sont créés par décret en Conseil d'Etat à la demande soit d'un conseil m
 communes ayant à cet effet constitué un syndicat conformément aux dispositions du code des communes, livre Ier, titre VI,
 chapitre III, soit d'un conseil général, soit du conseil d'un établissement public groupant des collectivités locales.
 
+Ils exercent les compétences mentionnées aux quatrième et cinquième alinéas de l'article L. 421-1.
+
+Ils peuvent, en outre, sur délibération de la ou des collectivités locales ou de l'établissement public de coopération
+intercommunale de rattachement, exercer tout ou partie des autres compétences mentionnées à l'article L. 421-1. Ces dernières
+cessent d'être exercées dans les mêmes conditions.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
 
 	**Cité par**:
 
@@ -10497,9 +10531,9 @@ chapitre III, soit d'un conseil général, soit du conseil d'un établissement p
 	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DO (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 162
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 
 
 ###### Article L421-5
@@ -10608,6 +10642,15 @@ L'activité des fondations d'habitations à loyer modéré est définie par le d
 Les sociétés anonymes d'habitations à loyer modéré ont pour objet de réaliser, dans les conditions fixées par leurs statuts,
 principalement en vue de la location, les opérations prévues à l'article L. 411-1 [*attributions*].
 
+Elles ont également pour objet de réaliser toutes les opérations d'aménagement définies par le code de l'urbanisme, pour leur
+compte, avec l'accord de la ou des collectivités locales concernées, et pour le compte de tiers, lorsqu'elles ont été agréées
+à cet effet, dans les conditions fixées par leur statut. Dans le cas où elles interviennent pour le compte de tiers, les
+dispositions de l'article L. 443-14 du présent code ne sont pas applicables aux cessions de terrains non bâtis rendues
+nécéssaires par la réalisation de ces opérations.
+
+Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L.
+421-1.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -10651,6 +10694,10 @@ principalement en vue de la location, les opérations prévues à l'article L. 4
 
 	  - TXT_ASSOCIE: Loi n°83-597 1983-07-07 ART. 14 1°
 
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 172
@@ -10658,6 +10705,8 @@ principalement en vue de la location, les opérations prévues à l'article L. 4
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
@@ -10669,6 +10718,9 @@ prestataires de services, des personnes physiques et des sociétés coopérative
 livre II, titre Ier, chapitre III, pour la réalisation et la gestion de programmes de construction en accession à la
 propriété.
 
+Elles peuvent également réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L.
+421-1, lorsqu'elles bénéficient de l'extension de compétences prévues à l'article L. 422-3-1.
+
 Toutefois, à défaut de pouvoir constituer une société coopérative de construction en raison de la dispersion des parcelles,
 les sociétés anonymes coopératives de production d'habitations à loyer modéré peuvent procéder à la construction de maisons
 individuelles destinées à être vendues en l'état futur d'achèvement à des personnes physiques [*attributions*].
@@ -10677,7 +10729,11 @@ individuelles destinées à être vendues en l'état futur d'achèvement à des 
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
 
 	**Cité par**:
 
@@ -10704,9 +10760,10 @@ individuelles destinées à être vendues en l'état futur d'achèvement à des 
 	  - Code de la construction et de l'habitation. - art. R422-9-2 (V)
 	  - Code de la construction et de l'habitation. - art. R443-34 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 173
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
 
 
 ###### Article L422-3-1
@@ -10833,11 +10890,20 @@ b) De réaliser des constructions destinées à l'accession à la propriété ;
 
 c) D'accorder des prêts aux sociétés d'habitations à loyer modéré dans des conditions fixées par décret.
 
+d) De réaliser des lotissements.
+
+Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L.
+421-1.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°83-597 1983-07-07 ART. 14 1°
 
 	**Cité par**:
 
@@ -10853,13 +10919,14 @@ c) D'accorder des prêts aux sociétés d'habitations à loyer modéré dans des
 	  - Code général des impôts, CGI. - art. 207 (V)
 	  - Code général des impôts, CGI. - art. 827 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 175
+	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 
 
 ##### Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré.
@@ -12028,6 +12095,211 @@ caisse des dépôts et consignations consenti en application du 3° de l'article
 
 ### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.
 
+#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnités d'occupation. 
+
+###### Article L441-1
+
+Les logements construits, améliorés ou acquis et améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide
+personnalisée au logement et appartenant aux organismes d'habitations à loyer modéré ou gérés par ceux-ci sont attribués par
+ces organismes dans des conditions fixées par décret en Conseil d'Etat. Pour l'attribution des logements, ce décret prévoit
+qu'il est tenu compte notamment de la composition, du niveau de ressources et des conditions de logement actuelles du ménage,
+de l'éloignement des lieux de travail et de la proximité des équipements répondant aux besoins des demandeurs. Il fixe des
+critères généraux de priorité pour l'attribution des logements, notamment au profit de personnes mal logées ou défavorisées.
+Il fixe également les conditions dans lesquelles le maire de la commune d'implantation des logements est consulté sur les
+principes régissant ces attributions et sur le résultat de leur application.
+
+Le décret mentionné à l'alinéa précédent fixe également les limites et conditions dans lesquelles les organismes
+d'habitations à loyer modéré peuvent, en contrepartie d'un apport de terrain, d'un financement ou d'une garantie financière,
+contracter des obligations de réservation pour les logements mentionnés à l'alinéa précédent, lors d'une mise en location
+initiale ou ultérieure. Lorsque ces conventions de réservation ne respectent pas les limites prévues au présent alinéa, elles
+sont nulles de plein droit.
+
+Il détermine également les limites et conditions de réservation des logements par le représentant de l'Etat dans le
+département au profit des personnes prioritaires, notamment mal logées ou défavorisées.
+
+Le maire de la commune du lieu d'implantation des logements visés aux alinéas précédents est informé de toutes les
+attributions réalisées pour ces logements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°84-595 du 12 juillet 1984 - art. 9 (V)
+	  - Arrêté du 29 juillet 1987 (V)
+	  - Loi n°90-449 du 31 mai 1990 - art. 4 (V)
+	  - Loi n°2007-290 du 5 mars 2007 - art. 10 (V)
+	  - Loi n°2007-290 du 5 mars 2007 - art. 14 (Ab)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 11 (VD)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 12 (V)
+	  - Arrêté du 3 décembre 2007 (V)
+	  - Décret n°2008-187 du 26 février 2008 - art. 5 (Ab)
+	  - Arrêté du 7 mars 2008 - art. 1 (Ab)
+	  - Arrêté du 24 juillet 2009 - art. 5 (V)
+	  - Arrêté du 5 janvier 2010 - art. Annexe (V)
+	  - Arrêté du 10 mars 2011 - art. 1 (V)
+	  - Arrêté du 28 novembre 2011 - art. 1 (V)
+	  - Décret n°2015-1437 du 5 novembre 2015 - art. 1 (V)
+	  - Arrêté du 4 janvier 2016 - art. 2
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 123 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 70 (V)
+	  - Décret n°2017-922 du 9 mai 2017 - art. 6
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 278 sexies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 bis ZC (Ab)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R443-9-4 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-7 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. L441-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-12 (M)
+	  - Code de la construction et de l'habitation. - art. L442-3-1 (VT)
+	  - Code de la construction et de l'habitation. - art. L442-3-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-3-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L442-4 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+	  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
+	  - Code de la construction et de l'habitation. - art. L444-13 (V)
+	  - Code de la construction et de l'habitation. - art. L482-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L482-2 (V)
+	  - Code de la construction et de l'habitation. - art. L482-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+	  - Code de la construction et de l'habitation. - art. L531-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-5 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-163 (V)
+	  - Code de la construction et de l'habitation. - art. R441-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-10 (M)
+	  - Code de la construction et de l'habitation. - art. R441-11 (V)
+	  - Code de la construction et de l'habitation. - art. R441-16 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-19 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-16 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+	  - Code général des collectivités territoriales - art. L3641-5 (V)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des collectivités territoriales - art. L5219-5 (V)
+	  - Code général des impôts, CGI. - art. 1388 bis (V)
+	  - Code général des impôts, CGI. - art. 1388 ter (V)
+	  - Code général des impôts, CGI. - art. 1389 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 32 () JORF 19 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 3 (VT)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 4 (M)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
+	  - TXT_SOURCE: Arrêté du 5 mai 1986
+	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 2 (V)
+
+
+###### Article L441-2
+
+Les conditions d'application des règles prévues à l'article L. 441-1, notamment les critères de priorité pour l'attribution
+des logements et les conditions de leur réservation au profit des personnes prioritaires, ainsi que les modalités de
+l'information du représentant de l'Etat prévue au deuxième alinéa du présent article, sont, pour chaque département,
+précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat. Ce
+règlement tient compte des programmes locaux de l'habitat communiqués au conseil départemental de l'habitat.
+
+Le représentant de l'Etat dans le département s'assure du respect des règles prévues à l'article L. 441-1 et au premier
+alinéa du présent article. A cette fin, chaque organisme lui communique au moins deux fois par an toutes les informations
+nécessaires sur les logements mis en location ou devenant vacants et sur les attributions prononcées.
+
+En ces d'inobservation de ces règles par un organisme, après épuisement des voies de conciliation et mise en demeure, le
+représentant de l'Etat dans le département peut, pour une durée qui ne peut excéder un an, désigner un délégué spécial chargé
+de prononcer les attributions de logements au nom et pour le compte de l'organisme, dans le respect des règles et des
+conventions régulièrement signées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°84-595 du 12 juillet 1984 - art. 27-1 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 9 (V)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 62 (Ab)
+	  - Arrêté du 5 mai 2017 - art. (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+	  - Code de la construction et de l'habitation. - art. L631-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-15 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-63 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*423-91 (V)
+	  - Code de la construction et de l'habitation. - art. R*481-1 (T)
+	  - Code de la construction et de l'habitation. - art. R331-6 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+	  - Code de la construction et de l'habitation. - art. R422-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-14 (M)
+	  - Code de la construction et de l'habitation. - art. R441-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-4 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+	  - Code de la construction et de l'habitation. - art. R441-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. R481-5 (V)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des impôts, CGI. - art. 1388 bis (V)
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 32 () JORF 19 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 5 mai 1986
+	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+
+
 #### Chapitre II : Loyers et divers.
 
 ###### Article L442-1
@@ -12413,6 +12685,66 @@ mentionnés à l'article L. 411-2, que ces logements soient ou non régis par l'
 
 	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
 	  - Code de la construction et de l'habitation. - art. R. 442-4-1 (V)
+
+
+###### Article L442-8-4
+
+Par dérogation au premier alinéa de l'article L. 442-8, les organismes mentionnés à l'article L. 411-2 peuvent louer des
+logements, aux fins de sous-location, à des associations déclarées ayant pour objet de loger à titre temporaire des personnes
+jeunes répondant à des conditions d'âge définies par décret en Conseil d'Etat et aux établissements publics définis par
+l'article 5 de la loi n° 55-425 du 16 avril 1955 réorganisant les services des oeuvres sociales en faveur des étudiants.
+
+Les dispositions des articles L. 442-1 à L. 442-6 sont applicables aux logements loués dans les conditions du présent
+article. Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnelle au logement prévue par
+l'article L. 510 du code de la sécurité sociale, par l'article premier de la loi n° 71-582 du 16 juillet 1971 relative à
+l'allocation de logement ou par l'article L. 351-1 du présent code.
+
+Les sous-locataires qui ne répondent plus aux conditions pour être logés par les personnes morales locataires perdent le
+bénéfice du droit au maintien dans les lieux, ces conditions devant être précisées par le contrat de sous-location.
+
+Ces dispositions sont applicables à l'ensemble des logements appartenant aux organismes mentionnés à l'article L. 411-2, que
+ces logements soient ou non régis par l'article L. 353-14.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°55-425 du 16 avril 1955 - art. 5, v. init.
+	  - Loi n°71-582 du 16 juillet 1971 - art. 1, v. init.
+	  - Code de la sécurité sociale L510
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-14 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
+	  - Code de la construction et de l'habitation. - art. L442-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-3 (M)
+	  - Code de la construction et de l'habitation. - art. L442-4 (M)
+	  - Code de la construction et de l'habitation. - art. L442-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-6 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 33 () JORF 19 juillet 1985
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R822-29 (V)
+	  - Code de la construction et de l'habitation. - art. L353-20 (V)
+	  - Code de la construction et de l'habitation. - art. L353-21 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-58 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*423-89 (V)
+	  - Code de la construction et de l'habitation. - art. R*442-3-4 (V)
+	  - Code de la construction et de l'habitation. - art. R331-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-27 (VD)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-1 (V)
 
 
 ###### Article L442-9
