@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-15
+Version Consolidée au 2001-12-26
 
 # Partie législative
 
@@ -17919,9 +17919,10 @@ appartenant aux organismes d'habitations à loyer modéré ou gérés par ceux-c
 l'attribution des logements, ce décret prévoit qu'il est tenu compte notamment de la composition, du niveau de ressources et
 des conditions de logement actuelles du ménage, de l'éloignement des lieux de travail et de la proximité des équipements
 répondant aux besoins des demandeurs. Il fixe des critères généraux de priorité pour l'attribution des logements, notamment
-au profit de personnes mal logées, défavorisées ou rencontrant des difficultés particulières de logement pour des raisons
-d'ordre financier ou tenant à leurs conditions d'existence. Il fixe également les conditions dans lesquelles le maire de la
-commune d'implantation des logements est consulté sur les principes régissant ces attributions et sur le résultat de leur
+au profit de personnes en situation de handicap ou de familles ayant à leur charge une personne en situation de handicap, de
+personnes mal logées, défavorisées ou rencontrant des difficultés particulières de logement pour des raisons d'ordre
+financier ou tenant à leurs conditions d'existence. Il fixe également les conditions dans lesquelles le maire de la commune
+d'implantation des logements est consulté sur les principes régissant ces attributions et sur le résultat de leur
 application.
 
 Le décret mentionné à l'alinéa précédent fixe également les limites et conditions dans lesquelles les organismes
@@ -18048,7 +18049,7 @@ code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 59 () JORF 14 décembre 2000
+	  - Loi n°2001-1247 du 21 décembre 2001 - art. 1 () JORF 26 décembre 2001
 
 	**Cite**:
 
