@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-01
 
 # Partie législative
 
@@ -7761,21 +7761,22 @@ nonobstant toute stipulation contraire, applicables aux contrats en cours d'exé
 
 ###### Article L271-1
 
-Ainsi qu'il est dit à l'article 20 de la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des
-difficultés liées au surendettement des particuliers et des familles :
+Pour tout acte sous seing privé ayant pour objet la construction ou l'acquisition d'un immeuble à usage d'habitation, la
+souscription de parts donnant vocation à l'attribution en jouissance ou en propriété d'immeubles d'habitation ou la vente
+d'immeubles à construire ou de location-accession à la propriété immobilière, l'acquéreur non professionnel peut se rétracter
+dans un délai de sept jours à compter du lendemain de la première présentation de la lettre lui notifiant l'acte.
 
-Tout acte sous seing privé ayant pour objet l'acquisition ou la construction d'un immeuble neuf d'habitation, la souscription
-de parts donnant vocation à l'attribution en jouissance ou en propriété d'immeubles neufs d'habitation, les contrats
-préliminaires de vente d'immeubles à construire ou de location-accession à la propriété immobilière ne devient définitif
-qu'au terme d'un délai de sept jours pendant lequel l'acquéreur non professionnel a la faculté de se rétracter, chaque fois
-que la loi ne lui donne pas un délai plus long pour exercer cette faculté.
+Cet acte est notifié à l'acquéreur par lettre recommandée avec demande d'avis de réception ou par tout autre moyen présentant
+des garanties équivalentes pour la détermination de la date de réception ou de remise. La faculté de rétractation est exercée
+dans ces mêmes formes.
 
-Lorsque le contrat définitif est précédé d'un contrat préliminaire, les dispositions ci-dessus ne s'appliquent qu'au contrat
-préliminaire.
+Lorsque l'un des actes mentionnés au premier alinéa est dressé en la forme authentique, l'acquéreur non professionnel dispose
+d'un délai de réflexion de sept jours à compter de la notification ou de la remise d'un projet d'acte selon les mêmes
+modalités que celles prévues pour le délai de rétractation mentionné au premier alinéa. En aucun cas, l'acte authentique ne
+peut être signé pendant ce délai de sept jours.
 
-L'acte est adressé par lettre recommandée avec demande d'avis de réception à l'acquéreur. Le délai de rétractation mentionné
-au premier alinéa court à compter de la réception de cette lettre par l'acquéreur. Celui-ci peut exercer sa faculté de
-rétractation avant l'expiration de ce délai par lettre recommandée avec demande d'avis de réception.
+Lorsque le contrat constatant ou réalisant la convention est précédé d'un contrat préliminaire ou d'une promesse
+synallagmatique ou unilatérale, les dispositions ci-dessus ne s'appliquent qu'à ce contrat ou à cette promesse.
 
 **Liens relatifs à cet article**
 
@@ -7783,17 +7784,9 @@ rétractation avant l'expiration de ce délai par lettre recommandée avec deman
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°89-1010 1989-12-31 art. 20
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
-
 	**Modifié par**:
 
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 7 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V)
 
 	**Cité par**:
 
@@ -7815,6 +7808,55 @@ rétractation avant l'expiration de ce délai par lettre recommandée avec deman
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. L281-1 (V)
+
+
+###### Article L271-2
+
+Lors de la conclusion d'un acte mentionné à l'article L. 271-1, nul ne peut recevoir de l'acquéreur non professionnel,
+directement ou indirectement, aucun versement à quelque titre ou sous quelque forme que ce soit avant l'expiration du délai
+de rétractation, sauf dispositions législatives expresses contraires prévues notamment pour les contrats ayant pour objet
+l'acquisition ou la construction d'un immeuble neuf d'habitation, la souscription de parts donnant vocation à l'attribution
+en jouissance ou en propriété d'immeubles d'habitation et les contrats préliminaires de vente d'immeubles à construire ou de
+location-accession à la propriété immobilière. Si les parties conviennent d'un versement à une date postérieure à
+l'expiration de ce délai et dont elles fixent le montant, l'acte est conclu sous la condition suspensive de la remise
+desdites sommes à la date convenue.
+
+Toutefois, lorsque l'un des actes mentionnés à l'alinéa précédent est conclu par l'intermédiaire d'un professionnel ayant
+reçu mandat pour prêter son concours à la vente, un versement peut être reçu de l'acquéreur s'il est effectué entre les mains
+d'un professionnel disposant d'une garantie financière affectée au remboursement des fonds déposés. Si l'acquéreur exerce sa
+faculté de rétractation, le professionnel dépositaire des fonds les lui restitue dans un délai de vingt et un jours à compter
+du lendemain de la date de cette rétractation.
+
+Lorsque l'acte est dressé en la forme authentique, aucune somme ne peut être versée pendant le délai de réflexion de sept
+jours.
+
+Est puni de 200 000 F d'amende le fait d'exiger ou de recevoir un versement ou un engagement de versement en méconnaissance
+des alinéas ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V) JORF 14 décembre 2000 en vigueur le 1er juin 2001
+
+	**Modifié par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1 (VT)
+	  - Code de la consommation - art. L511-7 (V)
+	  - Code de la construction et de l'habitation. - art. D271-6 (V)
+	  - Code de la construction et de l'habitation. - art. D271-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L271-1 (T)
 
 
 ### Titre VIII : Dispositions particulières aux départements d'outre-mer.
