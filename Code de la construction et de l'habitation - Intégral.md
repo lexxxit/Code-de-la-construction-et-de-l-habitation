@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-09-04
+Version Consolidée au 2004-09-05
 
 # Partie législative
 
@@ -39752,15 +39752,22 @@ mentionnés ci-dessus précise le nombre de logements locatifs sociaux projetés
 effectivement donner lieu à la réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la date de la
 cession, par le service des domaines.
 
+Seule peut être admise en déduction la fraction des dépenses qui n'a pas fait l'objet d'une subvention du fonds d'aménagement
+urbain.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 2 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
 
 	**Cite**:
 
@@ -39930,6 +39937,236 @@ territoriales. Il est effectué par neuvième à partir du mois de mars et jusqu
 
 	  - Code de la construction et de l'habitation. - art. R302-19 (Ab)
 	  - Code de la construction et de l'habitation. - art. R302-19 (M)
+
+
+###### Article R302-34
+
+Les ressources des fonds d'aménagement urbain institués dans chaque région par l'article L. 302-7 sont constituées par le
+produit des prélèvements opérés, en application de cet article, sur les ressources fiscales des communes de la région qui y
+sont assujetties en vertu de l'article L. 302-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-20 (M)
+
+
+###### Article R302-35
+
+I. - Chaque fonds d'aménagement urbain est administré par un comité de gestion ainsi composé :
+
+- le préfet de région, ou son représentant, président ;
+
+- trois représentants des communes de la région désignés, ainsi que leurs suppléants, par l'Association des maires de France
+(AMF), après consultation des associations départementales ;
+
+- trois représentants des groupements de collectivités territoriales de la région désignés, ainsi que leurs suppléants, par
+la délégation régionale de l'Assemblée des communautés de France (ACDF).
+
+Le trésorier-payeur général de région et le directeur régional de l'équipement ou leurs représentants assistent aux séances
+du comité avec voix consultative, ainsi que les préfets de département ou leurs représentants pour l'examen des projets qui
+les concernent.
+
+II. - Les membres du comité de gestion et leurs suppléants sont nommés pour trois ans par arrêté du préfet de région.
+
+Le mandat est renouvelable. Il prend fin si le membre du comité de gestion perd la qualité au titre de laquelle il a été
+nommé.
+
+En cas de vacance d'un siège de titulaire ou de suppléant, un nouveau membre est nommé dans les mêmes conditions pour la
+durée du mandat restant à courir, dans un délai de deux mois à compter de la vacance.
+
+III. - Le comité est réuni au moins une fois par an à l'initiative de son président. Son secrétariat est assuré par la
+direction régionale de l'équipement qui instruit les dossiers de demande de subvention.
+
+IV. - Le comité adopte son règlement intérieur. Ce règlement détermine notamment les règles de quorum et de majorité, fixe
+les taux des subventions applicables à chaque type d'opération et, le cas échéant, leur montant maximum.
+
+V. - Le comité établit chaque année un rapport d'activité qu'il adresse au ministre chargé du logement, au ministre chargé de
+la ville et au ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-21 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-21 (M)
+
+
+###### Article R302-36
+
+Le préfet de région est l'ordonnateur du fonds.
+
+Le trésorier-payeur général de région en est le comptable assignataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-22 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-22 (M)
+
+
+###### Article R302-37
+
+I. - Peuvent seules bénéficier des concours financiers des fonds d'aménagement urbain les communes dont la population est au
+moins égale à 1 500 habitants dans la région d'Ile-de-France et 3 500 habitants dans les autres régions lorsque ces communes
+sont comprises, au sens du recensement général de la population, dans des agglomérations de plus de 50 000 habitants
+comprenant au moins une commune de plus de 15 000 habitants, et les établissements publics de coopération intercommunale dont
+ces communes sont membres.
+
+II. - Peuvent être subventionnées par les fonds d'aménagement urbain les actions foncières et immobilières en faveur du
+logement locatif social au sens de l'article L. 302-5, réalisées ou financées pour tout ou partie par ces communes et
+établissements publics de coopération intercommunale.
+
+Ces actions comprennent notamment les acquisitions foncières et immobilières destinées à la réalisation de tels logements,
+les opérations de restructuration foncière et urbaine de grands ensembles de logements sociaux, ainsi que les actions
+relatives au logement locatif social réalisées dans le cadre d'opérations menées en application de l'article L. 300-1 du code
+de l'urbanisme.
+
+III. - La dépense subventionnable est égale au montant des dépenses prévisionnelles d'investissement hors taxes prises en
+charge par la commune ou l'établissement public de coopération intercommunale, directement ou par voie de subvention.
+
+IV. - La subvention consentie par le fonds ne peut avoir pour effet de porter le montant total des aides publiques directes
+perçues par la commune ou l'établissement public de coopération intercommunale au titre d'un projet à plus de 80 % du montant
+prévisionnel de la dépense subventionnable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-23 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-24 (V)
+	  - Code de la construction et de l'habitation. - art. R302-38 (T)
+
+
+###### Article R302-38
+
+I. - La demande de subvention est faite au fonds d'aménagement urbain par une délibération du conseil municipal de la commune
+ou de l'organe compétent de l'établissement public de coopération intercommunale, qui indique l'objet de la dépense.
+
+Le dossier de demande comporte la désignation du projet, ses caractéristiques, son plan de financement, la nature et le
+montant maximum prévisionnel de la dépense subventionnable, le calendrier prévisionnel de l'opération ainsi que ses modalités
+d'exécution.
+
+II. - L'attribution des subventions est décidée par le comité régional de gestion.
+
+La décision attributive fixe le montant maximum de la subvention en appliquant à la dépense prévisionnelle le taux de
+subvention applicable au projet en vertu du règlement intérieur.
+
+Elle comporte en outre la désignation du projet, ses caractéristiques, la nature et le montant prévisionnel de la dépense
+subventionnable, le calendrier prévisionnel et les modalités d'exécution de l'opération ainsi que les modalités de versement
+de la subvention.
+
+III. - La subvention est liquidée par le préfet de région, en appliquant le taux fixé par la décision d'attribution au
+montant de la dépense réelle, dans la limite du montant de la subvention.
+
+La subvention est versée sur justification de la réalisation du projet et de sa conformité aux caractéristiques prévues dans
+la décision attributive.
+
+Une avance peut être versée lors du commencement d'exécution du projet : elle ne peut excéder 30 % du montant de la
+subvention prévue.
+
+Des acomptes peuvent être versés au fur et à mesure de l'avancement du projet.
+
+Le montant total des acomptes et de l'avance versés ne peuvent excéder 80 % du montant total de la subvention prévue.
+
+IV. - Si, à l'expiration d'un délai de deux ans à compter de la notification par le préfet de région de la décision
+attributive de subvention, le projet au titre duquel la subvention a été accordée n'a reçu aucun commencement d'exécution, le
+comité de gestion constate la caducité de sa décision. Il peut toutefois, exceptionnellement, proroger la validité de sa
+décision pour une période qui ne peut excéder un an.
+
+V. - Le comité de gestion demande le reversement total ou partiel de la subvention versée si l'objet de la subvention ou
+l'affectation de l'investissement subventionné ont été modifiés et ne correspondent plus aux actions prévues au II de
+l'article R. 302-37 ; ou s'il apparaît que le montant total des aides publiques directes perçues par la commune ou
+l'établissement public de coopération intercommunale au titre d'un projet a dépassé 80 % du montant prévisionnel de la
+dépense subventionnable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-24 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-24 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R302-37 (T)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
