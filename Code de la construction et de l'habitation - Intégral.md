@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-01-15
+Version Consolidée au 1988-03-02
 
 # Partie législative
 
@@ -33006,8 +33006,17 @@ contrat enregistré et les ouvriers agricoles ;
 
 c) Utilisé comme résidence secondaire au-delà des périodes de un, trois et cinq ans prévues à l'article R. 322-13.
 
-En cas de modification de la situation familiale de l'occupant du logement primé, des dérogations à l'article R. 322-12
-peuvent être accordées par le commissaire de la République.
+En cas de modification de la situation familiale de l'occupant du logement primé, des dérogations à l'article R. 322-1
+peuvent être accordées par le préfet.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -33017,7 +33026,15 @@ peuvent être accordées par le commissaire de la République.
 
 	**Modifié par**:
 
-	  - Décret n°83-907 1983-10-03 ART. 1 JORF 14 OCTOBRE 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cite**:
 
@@ -36864,6 +36881,59 @@ bonification égale à 0,60 p. 100 du montant du prêt pendant dix ans.
 
 ##### Sous-section 4 : Préfinancement.
 
+###### Article R331-57
+
+Une fraction du prêt prévu à l'article R. 331-32 peut être accordée aux conditions définies à l'article R. 331-58 :
+
+1. Aux personnes physiques ou morales qui construisent ou acquièrent et améliorent des logements du secteur groupé mentionnés
+à l'article R. 331-49 ; ces logements doivent être destinés à faire l'objet d'une mutation ou d'une cession de parts ou
+d'actions et satisfaire aux conditions prévues aux articles R. 331-49 à R. 331-52 ;
+
+2. Aux personnes physiques ou morales qui achètent des droits de construire ou des terrains en vue de l'aménagement de
+parcelles destinées à être ultérieurement cédées.
+
+Ces opérations d'aménagement doivent répondre aux conditions définies par les articles R. 315-1 ou R. 315-2, par. b, du code
+de l'urbanisme et être destinées à titre principal à l'implantation de logements réalisés par des personnes physiques dans
+les conditions fixées par le premier alinéa de l'article R. 331-48 du présent code. En outre, pour bénéficier de ce
+préfinancement, les requérants doivent préalablement souscrire près du préfet du département un engagement portant sur :
+
+La définition des prestations à réaliser ;
+
+Un tableau des prix de vente prévisionnels des parcelles ;
+
+Un délai d'exécution d'une durée maximale de trois ans calculée à compter de la date de la décision d'octroi du
+préfinancement.
+
+Le prix de vente, toutes taxes comprises, de chaque parcelle sera au plus égal à son prix de vente prévisionnel majoré d'un
+pourcentage égal aux trois quarts de la variation constatée entre le dernier indice Travaux publics TP 01 publié, d'une part,
+à la date de la demande de décision de préfinancement et, d'autre part, s'il est supérieur, à la date de la conclusion de la
+vente de cette parcelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-1, R315-2
+	  - Code de la construction et de l'habitation R331-32, R331-58, R331-49, R331-49 à R331-52, R331-48
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+	  - Code de la construction et de l'habitation. - art. R331-49 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54 (V)
+	  - Code de la construction et de l'habitation. - art. R331-58 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59 (V)
+
+
 ###### Article R331-58
 
 Un arrêté conjoint des ministres chargés des finances et de la construction et de l'habitation définit les conditions du
@@ -37768,68 +37838,6 @@ global initialement fixé ne soit pas augmenté. "
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
-
-
-##### Sous-section 4 : Préfinancement.
-
-###### Article R331-57
-
-Une fraction du prêt prévu à l'article R. 331-32 peut être accordée aux conditions définies à l'article R. 331-58 :
-
-1. Aux personnes physiques ou morales qui construisent ou acquièrent et améliorent des logements du secteur groupé mentionnés
-à l'article R. 331-49 ; ces logements doivent être destinés à faire l'objet d'une mutation ou d'une cession de parts ou
-d'actions et satisfaire aux conditions prévues aux articles R. 331-49 à R. 331-52 ;
-
-2. Aux personnes physiques ou morales qui achètent des droits de construire ou des terrains en vue de l'aménagement de
-parcelles destinées à être ultérieurement cédées.
-
-Ces opérations d'aménagement doivent répondre aux conditions définies par les articles R. 315-1 ou R. 315-2, par. b, du code
-de l'urbanisme et être destinées à titre principal à l'implantation de logements réalisés par des personnes physiques dans
-les conditions fixées par le premier alinéa de l'article R. 331-48 du présent code. En outre, pour bénéficier de ce
-préfinancement, les requérants doivent préalablement souscrire près du commissaire de la République du département un
-engagement portant sur :
-
-La définition des prestations à réaliser ;
-
-Un tableau des prix de vente prévisionnels des parcelles ;
-
-Un délai d'exécution d'une durée maximale de trois ans calculée à compter de la date de la décision d'octroi du
-préfinancement.
-
-Le prix de vente, toutes taxes comprises, de chaque parcelle sera au plus égal à son prix de vente prévisionnel majoré d'un
-pourcentage égal aux trois quarts de la variation constatée entre le dernier indice Travaux publics TP 01 publié, d'une part,
-à la date de la demande de décision de préfinancement et, d'autre part, s'il est supérieur, à la date de la conclusion de la
-vente de cette parcelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-2 PAR. b
-	  - Code de la construction et de l'habitation. - art. R331-32 (M)
-	  - Code de la construction et de l'habitation. - art. R331-48 (M)
-	  - Code de la construction et de l'habitation. - art. R331-49 (M)
-	  - Code de la construction et de l'habitation. - art. R331-50 (M)
-	  - Code de la construction et de l'habitation. - art. R331-51 (M)
-	  - Code de la construction et de l'habitation. - art. R331-52 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-54 (V)
-	  - Code de la construction et de l'habitation. - art. R331-58 (V)
-	  - Code de la construction et de l'habitation. - art. R331-59 (V)
 
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
@@ -45330,6 +45338,26 @@ La convention fixe les sanctions encourues pour le non-respect des engagements c
 	  - Code de la construction et de l'habitation. - art. R331-41 (M)
 
 
+###### Article R353-178
+
+Le préfet s'assure de la publication des conventions au fichier immobilier ou de leur inscription au livre foncier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
 ##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).
 
 ###### Article R353-168
@@ -45856,6 +45884,29 @@ La convention fixe les sanctions encourues pour le non-respect des engagements c
 	**Créé par**:
 
 	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-214
+
+Le préfet s'assure de la publication des conventions au fichier immobilier ou de leur inscription au livre foncier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Liens**:
 
@@ -49081,6 +49132,48 @@ précisées aux articles R. 421-4 et R. 421-4-1.
 
 ##### Sous-section 1 : Création et gestion.
 
+###### Article R*421-52
+
+La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, ou rattachés à des établissements
+publics groupant des collectivités locales peut être étendue, à tout ou partie du département où se trouve leur siège.
+
+Cette extension de compétence est décidée, à la demande du conseil d'administration de l'office, sur avis conforme de la
+collectivité locale ou de l'établissement public de rattachement, et des autres collectivités locales intéressées et après
+avis du conseil départemental de l'habitat :
+
+Par arrêté du préfet du département si l'avis du coseil départemental de l'habitat est favorable ;
+
+Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur après avis du
+conseil supérieur des habitations à loyer modéré dans le cas contraire.
+
+La compétence territoriale des offices publics d'habitations à loyer modéré départementaux peut être étendue à la demande des
+collectivités locales intéressées, à tout ou partie des départements limitrophes du département où se trouve leur siège.
+
+Cette extension de compétence est décidée, après avis des conseils départementaux de l'habitat des départements concernés,
+sur avis conforme des collectivités locales intéressées :
+
+Par arrêté conjoint des préfets du département du siège et du ou des départements visés par l'extension de compétence si
+l'avis des conseils départementaux de l'habitat est favorable ;
+
+Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur, après avis du
+conseil supérieur des habitations à loyer modéré, dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
+
+
 ###### Article R*421-54
 
 Les offices publics d'habitations à loyer modéré sont gérés par un conseil d'administration de quinze membres.
@@ -50045,51 +50138,6 @@ sociétés d'économie mixte ou à des organismes à but non lucratif.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
-
-
-###### Article R*421-52
-
-La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, ou rattachés à des établissements
-publics groupant des collectivités locales peut être étendue, à tout ou partie du département où se trouve leur siège.
-
-Cette extension de compétence est décidée, à la demande du conseil d'administration de l'office, sur avis conforme de la
-collectivité locale ou de l'établissement public de rattachement, et des autres collectivités locales intéressées et après
-avis du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat :
-
-Par arrêté du commissaire de la République du département si l'avis du comité départemental est favorable ;
-
-Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur après avis du
-conseil supérieur des habitations à loyer modéré dans le cas contraire.
-
-La compétence territoriale des offices publics d'habitations à loyer modéré départementaux peut être étendue à la demande des
-collectivités locales intéressées, à tout ou partie des départements limitrophes du département où se trouve leur siège.
-
-Cette extension de compétence est décidée, après avis des [*comités départementaux des habitations à loyer modéré*] conseils
-départementaux de l'habitat des départements concernés, sur avis conforme des collectivités locales intéressées :
-
-Par arrêté conjoint des commissaires de la République du département du siège et du ou des départements visés par l'extension
-du compétence si l'avis des [*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat
-est favorable ;    Par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de l'intérieur,
-après avis du conseil supérieur des habitations à loyer modéré, dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
-	  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
 
 
 ###### Article R*421-53
