@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-12-30
+Version Consolidée au 2004-12-31
 
 # Partie législative
 
@@ -16892,6 +16892,10 @@ Les offices publics d'habitations à loyer modéré et les offices publics d'am�
 financière et comptable aux règles de la comptabilité publique déposent leurs fonds auprès de l'Etat, de la Caisse des dépôts
 et consignations ou de la Banque de France.
 
+Ils peuvent, sur autorisation du ministre chargé du budget, déposer les fonds de leurs régies de recettes sur un compte
+ouvert à La Poste ou dans un établissement de crédit ayant obtenu un agrément en vertu des dispositions applicables dans les
+Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen.
+
 Ils peuvent également effectuer des dépôts sur un compte à terme ouvert auprès de l'Etat, de la Caisse des dépôts et
 consignations ou de la Banque de France ainsi que sur un premier livret de la Caisse nationale d'épargne ou des caisses
 d'épargne et de prévoyance.
@@ -16902,9 +16906,9 @@ d'épargne et de prévoyance.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 126 () JORF 31 décembre 2004
 
 
 ###### Article L421-11
@@ -23374,11 +23378,7 @@ NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigu
 
 Sur sa demande, la Caisse de garantie du logement locatif social peut obtenir de l'autorité administrative compétente et des
 organismes payeurs des aides visées au quatrième alinéa de l'article L. 452-4, les éléments d'information nécessaires à la
-vérification des cotisations qui lui sont dues.
-
-**Nota:**
-
-NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigueur au 1er janvier 2001 du présent article.
+vérification et au recouvrement des cotisations qui lui sont dues.
 
 **Liens relatifs à cet article**
 
@@ -23386,10 +23386,9 @@ NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigu
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 135 () JORF 31 décembre 2004
 
 	**Cité par**:
 
@@ -23398,11 +23397,7 @@ NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigu
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-7 (M)
+	  - Code de la construction et de l'habitation. - art. L452-4 (V)
 
 
 ###### Article L452-7
