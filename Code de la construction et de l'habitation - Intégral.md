@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-11-13
+Version Consolidée au 1985-11-24
 
 # Partie législative
 
@@ -39870,6 +39870,214 @@ applicables aux personnes résidant dans un logement-foyer.
 
 ##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.
 
+###### Article R353-18
+
+Le loyer est payable par fraction mensuelle à terme échu, sauf disposition transitoire prévue par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.
+
+###### Article R353-1
+
+Les conventions conclues en application des dispositions de l'article L. 351-2 (2° et 3°) entre l'Etat et les organismes
+d'habitations à loyer modéré doivent être conformes aux conventions types reproduites en annexe du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 2 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 5 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
+	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-2 (V)
+	  - Code de la construction et de l'habitation. - art. R353-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+
+###### Article R353-2
+
+I. - Ces conventions s'appliquent :
+
+1° Aux logements à usage locatif appartenant aux organismes d'habitations à loyer modéré, ou gérés par eux et appartenant aux
+collectivités locales (annexe I).
+
+2° Aux cités de promotion familiale appartenant aux bailleurs mentionnés au 1 ci-dessus lorsqu'elles constituent des
+ensembles de logements destinés à recevoir principalement des personnes en provenance de l'habitat insalubre et dans lesquels
+est exercée une action socio-éducative destinée à favoriser leur insertion sociale et leur promotion dans un habitat
+définitif (annexe II).
+
+II. - Ces logements doivent répondre à l'une des conditions de financement fixées ci-dessous :
+
+1° Logements financés dans les conditions prévues par les livre III, titre Ier, livre IV, du présent code, par le titre II de
+la loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
+
+2° Logements financés dans les conditions prévues par les sections I, III et IV du chapitre unique du titre III du présent
+livre ;
+
+3° Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par la section I du chapitre III du titre
+II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
+	  - Code de la construction et de l'habitation. - art. R353-24 (M)
+	  - Code de la construction et de l'habitation. - art. R353-25 (M)
+	  - Code de la construction et de l'habitation. - art. R353-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. R353-6 (M)
+	  - Code de la construction et de l'habitation. - art. R353-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation R323-1 à R323-11
+	  - Loi n°1928-07-13
+
+
+###### Article R353-3
+
+La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
+remplissent les conditions d'octroi de cette aide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°77-948 1977-07-28 art. 3
+
+
+###### Article R353-4
+
+Les conventions qui ont une durée d'au moins neuf ans prennent effet, en application de l'article L. 353-17, à compter de
+leur signature.
+
+Les conventions sont renouvelées par tacite reconduction pour des périodes triennales, sous réserve de dénonciation expresse
+par l'une ou l'autre partie. Selon le cas, la dénonciation est notifiée par acte administratif, notarié ou extrajudiciaire,
+au moins six mois avant la date d'expiration de la période.
+
+La durée de la première convention ne peut être inférieure à la durée la plus longue restant à courir pour l'amortissement
+intégral des prêts du ou des programmes concernés ; en tout état de cause, elle doit être d'au moins neuf ans.
+
+A l'expiration de la durée de la convention ou après sa dénonciation dans les conditions fixées à l'alinéa 2, une nouvelle
+convention peut être conclue dans les conditions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+
+
+###### Article R353-6
+
+Les réservations obligatoires prévues à l'article R. 441-19 s'appliquent aux logements conventionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-8 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
+
+
+###### Article R353-7
+
+Les conventions fixent le pourcentage des logements conventionnés que les bailleurs s'engagent à réserver lors de la mise en
+location des logements et au fur et à mesure des vacances au profit des personnes et des familles répondant à des critères de
+priorité définis par arrêté préfectoral.
+
+Ces familles sont désignées par le préfet sur la base d'une liste établie par les services préfectoraux à partir des demandes
+de logement déposées à la mairie du domicile du demandeur ou auprès des bailleurs.
+
+Cette disposition ne porte pas atteinte aux réservations consenties conventionnellement par les bailleurs lorsque le
+programme conventionné a été financé dans les conditions prévues à l'article R. 353-2 (II) à l'exception des logements
+mentionnés au 2° (a et b).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-10 (M)
+	  - Code de la construction et de l'habitation. - art. R353-8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-2 (M)
+
+
 ###### Article R353-8
 
 Par dérogation aux articles R. 353-6 et R. 353-7, lorsque la convention est relative à une cité de promotion familiale, la
@@ -39892,78 +40100,12 @@ d'habitat insalubre.
 	  - Code de la construction et de l'habitation. - art. R353-7 (M)
 
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré ou, en application de l'article L. 353-18, les sociétés d'économie mixte et leurs filiales.
+###### Article R353-10
 
-###### Article R353-5
-
-Les bailleurs signataires des conventions régies par le présent décret apportent au fonds national de l'habitation la
-contribution financière prévue à l'article L. 351-7.
-
-La contribution totale due chaque année est égale à la somme des contributions dues au titre de chacun des programmes de
-logements faisant l'objet d'une convention telles que définies au I ci-dessous et affectée, le cas échéant, d'une déduction
-dans les conditions définies au II ci-dessous.
-
-I. - Pour chacun des programmes de logements faisant l'objet d'une convention dans les conditions prévues à l'article R.
-353-2, la contribution est assise sur les loyers des logements conventionnés ayant bénéficié d'aides de l'Etat prévues par la
-réglementation antérieure au 4 janvier 1977, à l'exception des logements financés en application du titre II de la loi du 13
-juillet 1928, des décrets n° 63-1324 du 24 décembre 1963, des immeubles à loyer moyen financés en application du décret n°
-68-812 du 13 septembre 1968, de l'article R. 311-1 (1er alinéa) et des arrêtés du 29 mai 1968 et du 16 novembre 1970, des
-immeubles à loyer normal financés en application de l'arrêté du 25 mai 1961 et des logements mentionnés à l'article R. 353-2
-(II, 2e).
-
-Cette contribution est calculée annuellement pour chacun de ces programmes de logements selon la formule suivante :
-
-P = L x t, dans laquelle :
-
-P représente le montant de la contribution due au titre d'une année civile ;
-
-L représente la masse annuelle des loyers des logements mentionnés au premier alinéa ci-dessus et due au cours de la même
-année civile ;
-
-t représente le taux de la contribution.
-
-Cette contribution est due pour la première fois à compter de l'année civile qui suit la date d'entrée en vigueur de la
-convention ou la date d'achèvement des travaux d'amélioration faisant l'objet d'une attestation d'exécution conforme établie
-par le préfet.
-
-II. - Lorsque le bailleur procède à la réalisation de programmes de travaux financés par les articles R. 323-1 à R. 323-11
-réalisés sur des logements dont les loyers constituent l'assiette de la contribution, une déduction est opérée sur la somme
-des contributions annuelles dues pour chacun des programmes de logements faisant l'objet d'une convention et calculées dans
-les conditions du I ci-dessus.
-
-Lorsque ce calcul donne un résultat négatif, la contribution totale est nulle et le solde négatif n'est pas reportable sur
-les exercices ultérieurs.
-
-III. - Les modalités de détermination des paramètres L et t, ainsi que la déduction pour travaux sont fixées par arrêté
-conjoint des ministres chargés des finances et de la construction et de l'habitation.
-
-IV. - La contribution totale, due par une bailleur au titre d'un exercice donné, déterminée en application des I, II et III
-ci-dessus est calculée sur la base des résultats constatés dans la comptabilité du bailleur. Les éléments nécessaires au
-calcul sont communiqués par le bailleur au ministre chargé de la construction et de l'habitation ou à ses représentants avant
-le 1er mai de l'exercice suivant l'exercice au titre duquel elle est due. Le président du fonds national de l'habitation
-notifie au bailleur le montant de la contribution totale due au titre d'un exercice au plus tard le 1er août de l'exercice
-suivant.
-
-La contribution totale annuelle due par le bailleur au titre d'un exercice est réglée au cours de l'exercice suivant :
-
-a) au plus tard le 15 février et le 15 mai sous forme de deux acomptes dont le montant est égal au tiers du montant de la
-contribution totale annuelle réglée au cours de l'exercice précédent ;
-
-b) au plus tard le 1er octobre sous forme de régularisation.
+Pour les logements réservés conformément à la convention conclue en application de l'article R. 314-4, les dispositions de
+l'article R. 353-7 sont suspendues pendant toute la durée de cette réservation.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1961-05-25
-	  - Arrêté 1968-05-29
-	  - Arrêté 1970-11-16
-	  - Décret n°63-1324 1963-12-24
-	  - Code de la construction et de l'habitation L351-7, R353-2, R311-1, R323-1 à R323-11
-	  - Code de la construction et de l'habitation. - art. L351-7 (M)
-	  - Code de la construction et de l'habitation. - art. R353-2 (M)
-	  - Décret n°68-812 1968-09-13
-	  - Loi n°1928-07-13
 
 	**Codifié par**:
 
@@ -39971,19 +40113,115 @@ b) au plus tard le 1er octobre sous forme de régularisation.
 
 	**Modifié par**:
 
-	  - Décret n°79-444 1979-06-07 JORF 9 juin 1979 rectificatif JORF 20 juillet 1979
+	  - Décret n°85-1231 1985-11-05 ar. 1 JORF 24 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R314-4 (M)
+	  - Code de la construction et de l'habitation. - art. R353-7 (M)
+
+
+###### Article R353-11
+
+Le bailleur est tenu, envers les organismes chargés du paiement de l'aide personnalisée au logement, de fournir toutes les
+informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au logement, à la liquidation et
+au versement de celle-ci, dans les conditions définies par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 4 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
+
+
+###### Article R353-12
+
+Les bailleurs sont tenus d'établir et de tenir, dans les conditions fixées par la convention, un carnet d'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R173-17-1 (V)
+
+
+###### Article R353-13
+
+Les logements conventionnés sont loués nus à titre de résidence principale ; ils ne peuvent faire l'objet de sous-location
+sous réserve des articles L. 442-8-1 à L. 442-8-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 5 JORF 24 novembre 1985
 
 	**Abrogé par**:
 
-	  - Décret n°85-1231 1985-11-05 art. 10 JORF 24 novembre 1985
+	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L442-8-1 à L442-8-4
 
 
-###### Article R353-9
+###### Article R353-14
 
-Un pourcentage de l'ensemble des logements conventionnés doit être occupé par les personnes ou les familles dont les
-ressources sont inférieures à un montant déterminé par le préfet. Ce pourcentage est fixé par les conventions.
+Lors de leur mise en service et au fur et à mesure de leur vacance, les logements sont loués à des personnes dont les
+ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-20. Toutefois,
+cette disposition ne s'applique pas aux logements financés dans les conditions prévues par la section III du chapitre unique
+du titre III du présent livre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 6 JORF 24 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+
+
+###### Article R353-15
+
+Lorsque la convention est relative à une cité de promotion familiale, le locataire ne bénéficie plus du droit au maintien
+dans les lieux, en application de l'article 10 (11°) de la loi n° 48-1360 du 1er septembre 1948, après refus d'offre de
+relogement en habitat définitif dans les conditions fixées par la convention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 art. 10
 
 	**Codifié par**:
 
@@ -39991,37 +40229,200 @@ ressources sont inférieures à un montant déterminé par le préfet. Ce pource
 
 	**Créé par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°79-444 1979-06-07 JORF 9 juin 1979 rectificatif JORF 20 juillet 1979
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
 
 	**Abrogé par**:
 
-	  - Décret n°85-1231 1985-11-05 art. 10 JORF 24 novembre 1985
+	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
 
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré ou, en application de l'article L. 353-18, les sociétés d'économie mixte et leurs filiales.
+###### Article R353-16
 
-###### Article R353-20
-
-Les charges récupérables, telles que définies à l'article 38 de la loi du 1er septembre 1948, peuvent faire l'objet de
-provisions et doivent, en ce cas, donner lieu à régularisation annuelle dans des conditions prévues par les conventions.
+Le loyer maximum applicable aux logements conventionnés dont la valeur est fixée au mètre carré de surface corrigée, telle
+que résultant des dispositions de l'article R. 422-1 et de l'article 4 du décret n. 60-1063 du 1er octobre 1960, ainsi que
+les conditions de son évolution, sont fixés par les conventions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01 art. 38
+	  - Décret n°60-1063 1960-10-01 art. 4
+	  - Code de la construction et de l'habitation R422-1
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1231 1985-11-05 art. 10 JORF 24 novembre 1985
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R353-18 (M)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. 2 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
+	  - Arrêté du 9 mai 1995 - art. 1 (V)
+	  - Décret n°96-656 du 22 juillet 1996 - art. Annexe (V)
+	  - Arrêté du 6 mars 2001 - art. 2 (Ab)
+	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
+	  - Code de la construction et de l'habitation. - art. R321-27 (V)
+	  - Code de la construction et de l'habitation. - art. R353-134 (V)
+	  - Code de la construction et de l'habitation. - art. R353-17 (M)
+	  - Code de la construction et de l'habitation. - art. R353-208 (V)
+	  - Code de la construction et de l'habitation. - art. R353-40 (V)
+	  - Code de la construction et de l'habitation. - art. R353-70 (V)
+	  - Code de la construction et de l'habitation. - art. R353-72 (M)
+	  - Code de la construction et de l'habitation. - art. R353-99 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+
+
+###### Article R353-17
+
+Les loyers pratiqués, dont la valeur est fixée au mètre carré de surface corrigée dans les conditions définies à l'article R.
+353-16, peuvent être modifiés le 1er janvier et le 1er juillet de chaque année selon les modalités fixées par les
+conventions. Le nouveau loyer doit être notifié au locataire dans les conditions fixées par les conventions [*révision*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-16 (M)
+
+
+###### Article R353-19
+
+A compter de la signature de la convention ou de la date d'achèvement des travaux d'amélioration, le bailleur est tenu
+[*obligation*], dans les conditions définies par la convention, de notifier aux locataires dans les lieux ou réintégrés à la
+suite d'un relogement temporaire, un loyer applicable de plein droit dès sa notification.
+
+Un décompte détaillé de surface corrigée, conforme à l'annexe au présent article, est joint à cette notification. Il doit
+être également remis à tout nouveau locataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
+
+
+###### Article R353-21
+
+Les locataires peuvent donner congé à tout moment dans des conditions définies par les conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 7 JORF 24 novembre 1985
+
+
+###### Article R353-22
+
+Pour l'exécution des travaux nécessitant l'évacuation temporaire des lieux, le bailleur doit mettre provisoirement à la
+disposition du locataire un logement répondant à des conditions définies par les conventions.
+
+Les travaux font l'objet d'une attestation d'exécution conforme établie par le préfet ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+
+###### Article R353-23
+
+Les conventions fixent les conditions de leur révision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 8 JORF 24 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°99-864 du 7 octobre 1999 - art. 3 (V) JORF 8 octobre 1999
+
+
+###### Article R353-24
+
+Les conventions fixent les sanctions encourues pour le non-respect des engagements contractuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1, art. 9 JORF 24 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°99-864 du 7 octobre 1999 - art. 3 (V) JORF 8 octobre 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-25 (M)
+
+
+###### Article R353-25
+
+La publication se fait à l'initiative de l'administration qui s'assure de cette formalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°99-864 du 7 octobre 1999 - art. 3 (V) JORF 8 octobre 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-24 (M)
 
 
 ##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).
@@ -45538,207 +45939,6 @@ est suspendu à compter du premier jour du mois suivant l'émission de l'avis.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-
-
-#### Chapitre III : Régime juridique des logements locatifs conventionnés.
-
-##### Section 2 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré ou, en application de l'article L. 353-18, les sociétés d'économie mixte et leurs filiales.
-
-###### Article R353-1
-
-Les conventions conclues en application des dispositions de l'article L. 351-2 (2. et 3.) entre l'Etat et les organismes
-d'habitations à loyer modéré ou, conformément à l'article L. 353-18, les sociétés d'économie mixte et leurs filiales doivent
-être conformes aux conventions types reproduites en annexe du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 5 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
-	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
-	  - Code de la construction et de l'habitation. - art. R353-2 (V)
-	  - Code de la construction et de l'habitation. - art. R353-7 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-
-
-###### Article R353-2
-
-I - Ces conventions s'appliquent :
-
-1. Aux logements à usage locatif appartenant aux organismes d'habitations à loyer modéré, ou gérés par eux et appartenant aux
-collectivités locales, ainsi qu'aux sociétés d'économie mixte et à leurs filiales dans les conditions prévues par l'article
-L. 353-18 (annexe n. I) ;
-
-2. Aux cités de promotion familiale appartenant aux bailleurs mentionnés au 1 ci-dessus lorsqu'elles constituent des
-ensembles de logements destinés à recevoir principalement des personnes en provenance de l'habitat insalubre et dans lesquels
-est exercée une action socio-éducative destinée à favoriser leur insertion sociale et leur promotion dans un habitat
-définitif (annexe n. II).
-
-II - Ces logements doivent répondre à l'une des conditions de financement fixées ci-dessous :
-
-1. Logement financés dans les conditions prévues par les livre III, titre Ier, livre IV, du présent code, par le titre II de
-la loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
-
-2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31 :
-
-a) Soit pour leur construction ;
-
-b) Soit pour leur acquisition et amélioration ;
-
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
-leurs groupements ;
-
-3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
-	  - Code de la construction et de l'habitation. - art. R353-24 (M)
-	  - Code de la construction et de l'habitation. - art. R353-25 (M)
-	  - Code de la construction et de l'habitation. - art. R353-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. R353-6 (M)
-	  - Code de la construction et de l'habitation. - art. R353-7 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme 269
-	  - Code de la construction et de l'habitation R331-1 à R331-31
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-	  - Loi  1928-07-13
-
-
-###### Article R353-11
-
-Les bailleurs sont tenus [*obligation*] envers les organismes chargés de la liquidation et du paiement de l'aide
-personnalisée au logement, de fournir toutes les informations et justifications nécessaires à l'établissement du droit à
-l'aide personnalisée au logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les
-directives du conseil de gestion du fonds national de l'habitation, conformément aux dispositions de la convention nationale
-prévue à l'article L. 351-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-
-
-###### Article R353-13
-
-Les logements conventionnés sont loués nus à titre de résidence principale ; ils ne peuvent faire l'objet de sous-location.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-
-
-###### Article R353-14
-
-Les conventions fixent les conditions d'occupation des logements conformément à celles prévues par l'article R. 441-3.
-
-Au fur et à mesure des vacances, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le
-plafond déterminé dans les conditions prévues par le titre III, chapitre unique, section I, du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-	  - Code de la construction et de l'habitation. - art. R441-3 (M)
-
-
-###### Article R353-21
-
-Le locataire peut donner congé à tout moment, dans les conditions définies par les conventions, sous réserve d'un préavis de
-trois mois, ramené à un mois en cas de changement de résidence pour raisons familiales graves ou raisons professionnelles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-
-
-###### Article R353-23
-
-Les conventions peuvent être révisées tous les trois ans, à la demande de l'une ou l'autre des parties [*périodicité*].
-
-Lorsque la convention est relative à une cité de promotion familiale, la révision de la convention intervient dans les
-conditions fixées par celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-
-
-###### Article R353-24
-
-Les conventions fixent les cas de résiliation aux torts du bailleur pour lesquels il peut être fait application des
-dispositions de l'article L. 353-6 [*prorogation du bail, maintien dans les lieux*].
-
-Elles fixent également les sanctions encourues pour non-respect des engagements contractuels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-	  - Code de la construction et de l'habitation. - art. L353-6 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-25 (M)
 
 
 ### Titre VI : Organismes consultatifs.
@@ -55426,7 +55626,7 @@ d'habitations à loyer modéré et, notamment, à celles fixées par l'article L
 	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
-#### Chapitre III : Accession à la propriété.
+#### Chapitre III : Accession à la propriété et autres cessions.
 
 ##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
 
@@ -55686,310 +55886,6 @@ Le transport s'effectue, dans ces divers cas, par avenant à la police d'assuran
 
 	  - Code de la construction et de l'habitation. - art. R431-1 (V)
 
-
-##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
-
-###### Article R443-23
-
-Les associés des sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative bénéficiaires de
-contrats de location-coopérative conclus sous l'empire des textes en vigueur avant le 16 juillet 1971 [*date*] qui optent
-pour l'accession à la propriété sont soumis aux dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-25 (V)
-
-
-###### Article R443-24
-
-La valeur du logement cédé est fixée sur la base du prix de revient réel, toutes dépenses confondues, tel qu'il figure dans
-les écritures de la société, majoré de la fraction non encore amortie par le versement des loyers, des frais d'études et des
-frais financiers.
-
-En ce qui concerne les immeubles collectifs et les opérations groupées, la répartition du prix de revient réel entre les
-logements est, si la valeur du logement n'a pas fait l'objet d'une notification individuelle antérieurement au 23 mars 1972
-[*date*], déterminée par le conseil d'administration conformément aux dispositions des statuts.
-
-Cette valeur, constatée à la date de la réception provisoire de l'immeuble, est affectée d'un coefficient de réévaluation
-figurant en annexe au présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-25
-
-Les sommes versées par les associés mentionnés à l'article R. 443-23 à titre d'apport, notamment sous forme de souscription
-d'actions, et au titre d'amortissement du capital compris dans les annuités d'emprunt, sont affectées d'un coefficient annuel
-de réévaluation figurant en annexe au présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R443-23 (M)
-
-
-###### Article R443-26
-
-Les annuités de paiement du prix d'acquisition majorées de la provision pour grosses réparations, des frais de gestion
-administrative et des charges non récupérables compris dans le loyer principal au 1er janvier 1972 [*date*] sont comparées à
-ce loyer et payées dans les conditions suivantes :
-
-a) Cas de paiement en vingt-cinq annuités.
-
-Un paiement différé est autorisé, à la demande de l'acquéreur, pour la fraction d'annuité, majorée comme il est indiqué à
-l'alinéa 1er, supérieure :
-
-- à 125 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
-
-- à 140 p. 100 de la valeur du loyer principal pendant les cinq années suivantes.
-
-b) Cas de paiement en vingt annuités.
-
-Un paiement différé est autorisé, à la demande de l'acquéreur pour la fraction d'annuité, majorée comme il est indiqué à
-l'alinéa 1er, supérieure :
-
-- à 135 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
-
-- à 150 p. 100 de la valeur du loyer principal pendant les cinq années suivantes ;
-
-c) Cas de paiement en quinze annuités.
-
-Le paiement est fait en quinze versements égaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-27
-
-Jusqu'à la signature du contrat de vente, les rapports de la société et du locataire coopérateur qui a opté pour
-l'acquisition de son logement continuent d'être régis par le contrat de location coopérative ou le bail. Toutefois, le point
-de départ du paiement par annuités du prix d'acquisition est, au choix de la société, soit la date de réception par elle de
-la demande d'acquisition mentionnée à l'article L. 422-16, soit une date unique pour un ensemble de logements qui ne peut
-être postérieure au 31 décembre 1973.
-
-Les sommes versées par les associés au titre de l'amortissement du capital dans les annuités d'emprunt entre le 1er janvier
-1972 et le point de départ du paiement par annuités du prix d'acquisition s'imputent sur la dernière de ces annuités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 10 aL. 3, al. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L422-16 (V)
-
-
-###### Article R443-28
-
-Le transfert de propriété  a lieu lors de la signature du contrat de vente. Lorsque l'acquéreur n'acquitte pas le prix au
-comptant, la société doit inscrire son privilège de vendeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-216 1973-03-22 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-29
-
-La société est tenue d'établir, avant la signature du premier contrat de vente, un règlement de copropriété conforme à un
-règlement-type qui prévoiera la possibilité de constituer un syndicat coopératif et sera arrêté par le ministre chargé de la
-construction et de l'habitation. Ce règlement comporte l'état descriptif de division de l'immeuble.
-
-A compter de la signature du contrat de vente, le droit de propriété de l'acquéreur s'exerce dans le cadre de ce règlement.
-
-Les acquéreurs sont tenus de participer aux charges entraînées par les services collectifs et les éléments d'équipement
-commun ainsi qu'à celles relatives à la conservation, à l'entretien et à l'administration des parties communes, s'il en
-existe, dans les conditions prévues par ce règlement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-33 (V)
-
-
-###### Article R443-30
-
-La provision pour grosses réparations est conservée et utilisée par la société jusqu'au premier transfert de propriété. Elle
-est alors versée au syndicat des copropriétaires par la société pour le compte des copropriétaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-31
-
-En cas d'aliénation du logement, avant la constatation de l'entier paiement du prix, la société peut renoncer à l'exigibilité
-du solde du prix si le candidat cessionnaire est le conjoint, l'ascendant, le descendant, le frère ou la soeur de
-l'acquéreur, ou l'ascendant, le descendant, le frère ou la soeur de son conjoint ou s'il remplit les conditions de ressources
-et d'occupation du logement imposées par la réglementation en vigueur pour l'accession à la propriété des habitations à loyer
-modéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-32
-
-Les actions représentatives des droits fixés par le contrat de location coopérative des acquéreurs sont annulées. La
-signature du contrat de vente vaut annulation des actions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-###### Article R443-33
-
-Les sociétés anonymes d'habitations à loyer modéré qui ont été substituées aux sociétés anonymes coopératives d'habitations à
-loyer modéré de location-coopérative supprimées par la loi n. 71-580 du 16 juillet 1971 (article 26-I) ou avec lesquelles
-celles-ci ont fusionné, sont autorisées à percevoir des associés acquéreurs ;
-
-a) Une indemnité forfaitaire égale à 0,50 p. 100 du prix de cession, pour la modification des contrats ;
-
-b) Des frais de gestion administrative pendant la période comprise entre la date de signature du contrat de vente et la
-constatation de l'entier paiement du prix dans la limite de 0,50 p. 100 du prix plafond en vigueur au 1er janvier de l'année
-en cours pour un logement de même superficie et de même catégorie ;
-
-c) Le remboursement des frais d'établissement du règlement prévu à l'article R. 443-29 qui sont répartis proportionnellement
-aux valeurs relatives des parties privatives comprises dans les lots, telles que ces valeurs résultent des dispositions de
-l'article 5 de la loi n. 65-557 du 10 juillet 1965 sur la copropriété.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°65-557 du 10 juillet 1965 - art. 5 (V)
-	  - Loi n°71-580 1971-07-16 ART. 26-I
-	  - Code de la construction et de l'habitation. - art. R443-29 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°72-216 1972-03-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
-
-
-#### Chapitre III : Accession à la propriété et autres cessions.
-
-##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
 
 ##### Section 2 : Dispositions applicables aux cessions d'éléments du patrimoine immobilier. 
 
@@ -56614,6 +56510,304 @@ rémunération en tant que syndic est fixée par le commissaire de la Républiqu
 
 
 ##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
+
+###### Article R443-23
+
+Les associés des sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative bénéficiaires de
+contrats de location-coopérative conclus sous l'empire des textes en vigueur avant le 16 juillet 1971 [*date*] qui optent
+pour l'accession à la propriété sont soumis aux dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-25 (V)
+
+
+###### Article R443-24
+
+La valeur du logement cédé est fixée sur la base du prix de revient réel, toutes dépenses confondues, tel qu'il figure dans
+les écritures de la société, majoré de la fraction non encore amortie par le versement des loyers, des frais d'études et des
+frais financiers.
+
+En ce qui concerne les immeubles collectifs et les opérations groupées, la répartition du prix de revient réel entre les
+logements est, si la valeur du logement n'a pas fait l'objet d'une notification individuelle antérieurement au 23 mars 1972
+[*date*], déterminée par le conseil d'administration conformément aux dispositions des statuts.
+
+Cette valeur, constatée à la date de la réception provisoire de l'immeuble, est affectée d'un coefficient de réévaluation
+figurant en annexe au présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-25
+
+Les sommes versées par les associés mentionnés à l'article R. 443-23 à titre d'apport, notamment sous forme de souscription
+d'actions, et au titre d'amortissement du capital compris dans les annuités d'emprunt, sont affectées d'un coefficient annuel
+de réévaluation figurant en annexe au présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R443-23 (M)
+
+
+###### Article R443-26
+
+Les annuités de paiement du prix d'acquisition majorées de la provision pour grosses réparations, des frais de gestion
+administrative et des charges non récupérables compris dans le loyer principal au 1er janvier 1972 [*date*] sont comparées à
+ce loyer et payées dans les conditions suivantes :
+
+a) Cas de paiement en vingt-cinq annuités.
+
+Un paiement différé est autorisé, à la demande de l'acquéreur, pour la fraction d'annuité, majorée comme il est indiqué à
+l'alinéa 1er, supérieure :
+
+- à 125 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
+
+- à 140 p. 100 de la valeur du loyer principal pendant les cinq années suivantes.
+
+b) Cas de paiement en vingt annuités.
+
+Un paiement différé est autorisé, à la demande de l'acquéreur pour la fraction d'annuité, majorée comme il est indiqué à
+l'alinéa 1er, supérieure :
+
+- à 135 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
+
+- à 150 p. 100 de la valeur du loyer principal pendant les cinq années suivantes ;
+
+c) Cas de paiement en quinze annuités.
+
+Le paiement est fait en quinze versements égaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-27
+
+Jusqu'à la signature du contrat de vente, les rapports de la société et du locataire coopérateur qui a opté pour
+l'acquisition de son logement continuent d'être régis par le contrat de location coopérative ou le bail. Toutefois, le point
+de départ du paiement par annuités du prix d'acquisition est, au choix de la société, soit la date de réception par elle de
+la demande d'acquisition mentionnée à l'article L. 422-16, soit une date unique pour un ensemble de logements qui ne peut
+être postérieure au 31 décembre 1973.
+
+Les sommes versées par les associés au titre de l'amortissement du capital dans les annuités d'emprunt entre le 1er janvier
+1972 et le point de départ du paiement par annuités du prix d'acquisition s'imputent sur la dernière de ces annuités.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 10 aL. 3, al. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-16 (V)
+
+
+###### Article R443-28
+
+Le transfert de propriété  a lieu lors de la signature du contrat de vente. Lorsque l'acquéreur n'acquitte pas le prix au
+comptant, la société doit inscrire son privilège de vendeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-216 1973-03-22 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-29
+
+La société est tenue d'établir, avant la signature du premier contrat de vente, un règlement de copropriété conforme à un
+règlement-type qui prévoiera la possibilité de constituer un syndicat coopératif et sera arrêté par le ministre chargé de la
+construction et de l'habitation. Ce règlement comporte l'état descriptif de division de l'immeuble.
+
+A compter de la signature du contrat de vente, le droit de propriété de l'acquéreur s'exerce dans le cadre de ce règlement.
+
+Les acquéreurs sont tenus de participer aux charges entraînées par les services collectifs et les éléments d'équipement
+commun ainsi qu'à celles relatives à la conservation, à l'entretien et à l'administration des parties communes, s'il en
+existe, dans les conditions prévues par ce règlement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-33 (V)
+
+
+###### Article R443-30
+
+La provision pour grosses réparations est conservée et utilisée par la société jusqu'au premier transfert de propriété. Elle
+est alors versée au syndicat des copropriétaires par la société pour le compte des copropriétaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 13
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-31
+
+En cas d'aliénation du logement, avant la constatation de l'entier paiement du prix, la société peut renoncer à l'exigibilité
+du solde du prix si le candidat cessionnaire est le conjoint, l'ascendant, le descendant, le frère ou la soeur de
+l'acquéreur, ou l'ascendant, le descendant, le frère ou la soeur de son conjoint ou s'il remplit les conditions de ressources
+et d'occupation du logement imposées par la réglementation en vigueur pour l'accession à la propriété des habitations à loyer
+modéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-32
+
+Les actions représentatives des droits fixés par le contrat de location coopérative des acquéreurs sont annulées. La
+signature du contrat de vente vaut annulation des actions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-33
+
+Les sociétés anonymes d'habitations à loyer modéré qui ont été substituées aux sociétés anonymes coopératives d'habitations à
+loyer modéré de location-coopérative supprimées par la loi n. 71-580 du 16 juillet 1971 (article 26-I) ou avec lesquelles
+celles-ci ont fusionné, sont autorisées à percevoir des associés acquéreurs ;
+
+a) Une indemnité forfaitaire égale à 0,50 p. 100 du prix de cession, pour la modification des contrats ;
+
+b) Des frais de gestion administrative pendant la période comprise entre la date de signature du contrat de vente et la
+constatation de l'entier paiement du prix dans la limite de 0,50 p. 100 du prix plafond en vigueur au 1er janvier de l'année
+en cours pour un logement de même superficie et de même catégorie ;
+
+c) Le remboursement des frais d'établissement du règlement prévu à l'article R. 443-29 qui sont répartis proportionnellement
+aux valeurs relatives des parties privatives comprises dans les lots, telles que ces valeurs résultent des dispositions de
+l'article 5 de la loi n. 65-557 du 10 juillet 1965 sur la copropriété.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 5 (V)
+	  - Loi n°71-580 1971-07-16 ART. 26-I
+	  - Code de la construction et de l'habitation. - art. R443-29 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-216 1972-03-22 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
 
 ### Titre V : Contrôle
 
@@ -61723,6 +61917,250 @@ Fait en double exemplaire, à..., le....
 	  - Code de la construction et de l'habitation. - art. R331-66 (V)
 	  - Code de la construction et de l'habitation. - art. R331-72 (V)
 	  - Code de la construction et de l'habitation. - art. R331-74 (V)
+
+
+## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.
+
+###### Article Annexe III à l'article R353-1
+
+Description du programme de ....
+
+I. - Désignation du ou des immeubles (1).
+
+II. - Nature de l'opération :
+
+Variante 1 (2) : programme financé dans les conditions prévues par l'article R. 353-2 (II, 1°) ;
+
+Variante 2 (2) : programme construit, acquis et amélioré ou cédé à bail emphytéotique ou à construction et amélioré au moyen
+d'un prêt prévu par les sections I et IV du chapitre unique du titre III du livre III ;
+
+Variante 3 (2) : programme construit acquis et amélioré, amélioré au moyen d'un prêt conventionné prévu par la section III du
+chapitre unique du titre III du livre III ;
+
+Variante 4 (2) : programme amélioré au moyen d'une subvention de l'Etat prévue par la section I du chapitre III du titre II
+du livre III.
+
+III. - Composition du programme :
+
+A. - Locaux auxquels s'applique la présente convention :
+
+1. Nombre des logements locatifs par type de logement avec numéro des logements : ....
+
+2. Surface habitable : ....
+
+3. Surface corrigée des logements : ....
+
+4. Dépendances (nombre et surface) : ....
+
+5. Locaux collectifs résidentiels (nombre et surface) : ....
+
+6. Garages et parkings affectés à ces logements (nombre et différenciation par type) : ....
+
+B. - Locaux auxquels ne s'applique pas la convention : ....
+
+IV. - Origine de propriété (3).
+
+V. - Renseignements administratifs :
+
+1. Permis de construire ou déclaration de construction :
+
+2. Modalités de financement (4) :
+
+Financement principal : ....
+
+Date d'octroi du prêt : ....
+
+Numéro du prêt : ....
+
+Durée : ....
+
+Financement complémentaire : ....
+
+Date d'achèvement de la construction ou certificat de conformité :
+
+Fait à ..., le ....
+
+(1) Etablie conformément à l'article 7 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+(2) Rayer les variantes et versions inutiles.
+
+(3) Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité.
+
+(4) Renseignements à compléter dès que les décisions de financement sont intervenues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+
+## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.
+
+###### Article Annexe IV à l'article R353-1
+
+Article 1er.
+
+Les logements conventionnés sont soumis aux dispositions de la loi n° 82-526 du 22 juin 1982 relative aux droits et
+obligations des locataires et des bailleurs, sous réserve des dispositions de l'article 75 (3°) de ladite loi.
+
+Article 2.
+
+Les logements conventionnés sont soumis aux dispositions de la loi n° 82-526 du 22 juin 1982 relative aux droits et
+obligations des locataires et des bailleurs, sous réserve des dispositions de l'article 75 (3°) de ladite loi.
+
+Article 3.
+
+Les logements doivent être loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit
+mois par an. Ils ne peuvent faire l'objet de sous-location, sous réserve des articles L. 442-8-1 à L. 442-8-4 du code de la
+construction et de l'habitation.
+
+Lors de leur mise en service et au fur et à mesure de leur vacance, les logements sont loués à des personnes dont les
+ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-20. Toutefois,
+cette disposition ne s'applique pas aux logements financés dans les conditions prévues par la section III du chapitre unique
+du titre III du livre III.
+
+Article 4.
+
+Le bailleur s'engage à réserver, au bénéfice des fonctionnaires et agents de l'Etat, civils et militaires, des logements dans
+la proportion et selon les modalités définies à l'article R. 441-19.
+
+Article 5.
+
+La convention se renouvelle pour des périodes triennales, sous réserve de dénonciation par l'une ou l'autre des parties.
+
+Si la dénonciation émane du bailleur, elle fait l'objet d'un acte authentique (acte notarié ou par ministère d'huissier de
+justice) notifié six mois avant l'expiration de la convention ; si elle émane de l'Etat, elle fait l'objet d'un acte
+administratif notifié dans le même délai.
+
+Article 6.
+
+La présente convention peut être révisée à la demande de l'une ou l'autre des parties. Les frais de publication sont pris en
+charge par la partie qui sollicite la révision.
+
+Article 7.
+
+La convention est tenue à la disposition permanente des locataires ou de leurs associations qui peuvent en prendre
+connaissance chez le gardien ou, en l'absence d'un gardien, au siège du bailleur. Cette information est mentionnée par
+affichage et de façon très apparente dans les parties communes de l'immeuble.
+
+Le bailleur s'engage à tenir à la disposition des locataires dans les lieux ou des candidats locataires les notices
+d'information relatives à l'aide personnalisée au logement.
+
+Article 8.
+
+En cas d'inexécution par le bailleur de ses engagements contractuels tels que non-respect du loyer maximum ou faute grave à
+l'égard des organismes chargés du paiement de l'aide personnalisée au logement, l'administration, après mise en demeure par
+lettre recommandée avec avis de réception demeurée sans effet pendant un délai de deux mois, peut procéder unilatéralement à
+la résiliation de la présente convention.
+
+Il sera fait application des dispositions prévues à l'article L. 353-6 du code précité relatives au maintien des locataires
+dans les lieux, le loyer étant celui fixé par la convention diminué de l'aide personnalisée au logement désormais prise en
+charge par le bailleur.
+
+Le bailleur s'engage dans un délai de quinze jours à compter de la date à laquelle la résiliation est devenue définitive à la
+notifier aux locataires et aux organismes payeurs concernés.
+
+Article 9.
+
+En cas de dissimulation ou fraude pour imposer ou tenter d'imposer au locataire un loyer dépassant le prix fixé par la
+convention, le bailleur sera passible des sanctions pénales prévues à l'article L. 353-10, sans préjudice de l'application de
+l'article 70 de la loi n° 82-526 du 22 juin 1982.
+
+Article 10.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le bailleur est tenu de fournir
+au préfet les informations et les documents nécessaires au plein exercice de ce contrôle.
+
+Article 11.
+
+Le bailleur s'engage à tenir, dans un délai d'un an à compter de la signature de la convention ou de la mise en service des
+logements neufs, un carnet d'entretien dans lequel seront consignés tous les renseignements sur les interventions
+d'entretien, de réparation ou d'amélioration faites ou à faire par lui sur l'immeuble.
+
+Article 12.
+
+Pour l'exécution des travaux, le bailleur s'engage à respecter les dispositions du chapitre Ier de la loi du 1er septembre
+1948.
+
+Lorsque l'exécution des travaux nécessite l'évaluation temporaire des lieux, l'organisme bailleur doit mettre provisoirement
+à la disposition du locataire un logement en bon état d'habitation remplissant des conditions d'hygiène normales,
+correspondant à ses besoins personnels ou familiaux et, le cas échéant, professionnels, ainsi qu'à ses possibilités.
+
+Les travaux font l'objet d'une attestation d'exécution conforme établie par le préfet.
+
+Article 13.
+
+A compter de la date de signature de la convention ou de la date d'achèvement des travaux, le bailleur notifie, par lettre
+recommandée avec demande d'avis de réception ou par acte extrajudiciaire, aux locataires ou occupants de bonne foi dans les
+lieux ou réintégrés à la suite d'un relogement temporaire, un nouveau loyer qui est applicable de plein droit dès sa
+notification.
+
+A cette notification est joint un décompte détaillé de surface corrigée établie d'après le modèle type annexé à l'article R.
+353-19.
+
+Le bailleur est tenu de remettre à tout nouveau locataire ce même décompte de surface corrigée, annexé au contrat de
+location.
+
+Article 14.
+
+Le loyer est payé par fraction mensuelle à terme échu.
+
+En cas de versement de l'aide personnalisée au logement en tiers payant, le montant de cette aide doit figurer sur la
+quittance remise au locataire.
+
+Article 15.
+
+Le bailleur peut demander au locataire un dépôt de garantie qui ne peut être supérieur à un mois de loyer en principal. Les
+dispositions des deuxième, troisième et quatrième alinéas de l'article 22 de la loi n° 82-526 du 22 juin 1982 précitée sont
+applicables.
+
+Article 16.
+
+Le locataire peut donner congé à tout moment sous réserve d'un délai de préavis de trois mois, ramené à un mois en cas de
+changement de résidence pour des raisons familiales graves ou des raisons professionnelles.
+
+Tout congé est donné par lettre recommandée avec demande d'avis de réception, le préavis partant de la date d'envoi et le
+cachet de la poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le contrat de
+location produit effet jusqu'au dernier jour du mois.
+
+Le locataire est redevable du loyer et des charges pendant le délai de préavis, sauf si le logement est occupé avant la fin
+du préavis par un autre locataire en accord avec le bailleur.
+
+Article 17.
+
+Le bailleur est tenu à l'égard des organismes payeurs de l'aide personnalisée au logement (A.P.L.) :
+
+- de fournir les renseignements prévus par l'imprimé de demande d'A.P.L. pour chaque locataire demandeur de l'aide, ceux
+nécessaires aux révisions de l'A.P.L., et notamment le montant effectivement payé par le locataire, déduction faite, le cas
+échéant, de la remise prévue par la convention ;
+
+- de signaler immédiatement tout départ de locataire bénéficiaire de l'A.P.L. ;
+
+Si l'A.P.L. est versée en tiers payant, le bailleur doit en outre (1) :
+
+- établir les liaisons nécessaires avec les organismes payeurs en vue de passer un accord définissant les conditions de
+versement de l'A.P.L. ;
+
+- fournir annuellement toute justification concernant le paiement du loyer et saisir la section des aides publiques au
+logement du conseil départemental de l'habitat dans le cas où le bénéficiaire de l'A.P.L. ne règle pas la dépense de logement
+restant à sa charge ;
+
+- opérer dans les plus brefs délais les régularisations consécutives à l'ouverture du droit et aux modifications du montant
+de l'A.P.L. perçue pour le compte du locataire.
+
+(1) Si la convention porte sur moins de dix logements, le bailleur doit, s'il souhaite le versement en tiers payant, le faire
+connaître à l'organisme payeur ; à défaut, l'A.P.L. est versée directement au locataire.
+
+Article 18.
+
+La publication de la convention se fait à l'initiative de l'administration qui s'assure de cette formalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
 
 
 ## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.
