@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-10-30
+Version Consolidée au 2000-11-08
 
 # Partie législative
 
@@ -69347,28 +69347,21 @@ bénéficiant de l'aide personnalisée au logement prévue aux articles L. 351-1
 	  - Code de la construction et de l'habitation. - art. R472-1 (V)
 
 
-###### Article R441-2
+###### Article R441-2-1
 
-Les demandes de logement sont présentées auprès des organismes d'habitations à loyer modéré.
+Toute demande d'attribution de logement locatif social doit faire l'objet d'un enregistrement départemental dès qu'elle
+comprend les informations suivantes :
 
-Elles peuvent l'être également auprès de la commune d'implantation du logement ou de la commune de résidence du demandeur,
-avec l'accord de celles-ci, ou, le cas échéant et dans les mêmes conditions, auprès du groupement de communes compétent en
-matière de logement dont elles font partie. Dans ce cas, l'autorité saisie transmet la demande à un ou plusieurs organismes
-d'habitations à loyer modéré dans un délai de quinze jours et en informe le demandeur.
+a) Les nom, prénom, date de naissance et adresse du demandeur. Lorsque le demandeur est une association visée aux 2° et 3° de
+l'article R. 441-1, la demande indique la raison sociale, la date de création et l'adresse de l'association ;
 
-Des modalités d'inscription et de gestion communes des demandes peuvent, en outre, après avis du conseil départemental de
-l'habitat, être définies par voie de convention entre des organismes, des communes ou des groupements de communes, et, le cas
-échéant, le représentant de l'Etat dans le département.
+b) Le nombre de personnes à loger ;
 
-Au cas où l'Etat ne serait pas partie à ladite convention, celle-ci doit recueillir l'approbation expresse du préfet du
-département.
+c) La ou les communes ou secteurs géographiques de résidence souhaités dans le département ;
 
-Les demandes de logements présentées par des personnes physiques ont une durée de validité d'un an à compter de leur dépôt et
-sont renouvelables. L'accusé de réception de ces demandes porte indication de cette durée et des modalités de renouvellement.
+d) L'indication, s'il y a lieu, du fait que le demandeur occupe déjà un logement locatif social.
 
-L'inscription ne peut être refusée lorsque le demandeur satisfait aux conditions prévues à l'article R. 441-1. La
-recevabilité d'une demande de logement ne peut notamment être subordonnée à aucune condition de résidence sur le territoire
-de la collectivité territoriale d'implantation de ce logement.
+Aucune condition de résidence préalable ne peut être opposée au demandeur.
 
 **Liens relatifs à cet article**
 
@@ -69376,28 +69369,221 @@ de la collectivité territoriale d'implantation de ce logement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2000-1079 du 7 novembre 2000 - art. 2 () JORF 8 novembre 2000
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
-	  - Code de la construction et de l'habitation. - art. R*422-21 (V)
-	  - Code de la construction et de l'habitation. - art. R*441-5 (M)
-	  - Code de la construction et de l'habitation. - art. R441-28 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-31 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-36 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-4 (M)
-	  - Code de la construction et de l'habitation. - art. R441-6 (M)
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Décret n°2017-917 du 9 mai 2017 - art. 7 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-2 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-7 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-8 (V)
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
+
+
+###### Article R441-2-2
+
+Les organismes, sociétés, services ou collectivités ci-après désignés procèdent à l'enregistrement départemental des demandes
+qu'ils ont reçues :
+
+a) Organismes d'habitations à loyer modéré disposant d'un patrimoine locatif ;
+
+b) Sociétés d'économie mixte disposant d'un patrimoine locatif conventionné en application de l'article L. 351-2 et sociétés
+d'économie mixte constituées en application de la loi n° 46-860 du 30 avril 1946 ou de la loi n° 83-597 du 7 juillet 1983
+dans les départements d'outre-mer pour les logements leur appartenant et construits, acquis ou améliorés avec le concours
+financier de l'Etat ;
+
+c) Services de l'Etat désignés par le préfet pour être des lieux d'enregistrement des demandes ;
+
+d) Communes ou groupements de communes compétents qui ont décidé par délibération d'être lieu d'enregistrement de ces
+demandes.
+
+Lorsqu'ils sont saisis d'une demande de logement locatif social, les communes, groupements de communes ou services de l'Etat
+qui ne sont pas lieu d'enregistrement transmettent cette demande à l'un des services, organismes ou sociétés désignés ci-
+dessus et en avisent l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-860 1946-04-30
+	  - Loi n°83-597 1983-07-07
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
+
+	**Cité par**:
+
+	  - Décret n°2010-431 du 29 avril 2010 - art. 2 (V)
+	  - Arrêté du 10 mars 2011 - art. 1 (V)
+	  - Arrêté du 10 mars 2011 - art. 3 (V)
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Décret n°2017-917 du 9 mai 2017 - art. 2 (V)
+	  - Décret n°2017-917 du 9 mai 2017 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-4-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R441-2-7 (M)
+
+
+###### Article R441-2-3
+
+Un numéro départemental est délivré au demandeur lors de l'enregistrement de sa première demande de logement dans le
+département considéré. Lorsqu'une autre demande de logement locatif social est déposée par le même demandeur dans le même
+département, elle est enregistrée sous le même numéro, quels que soient le ou les lieux d'enregistrement ultérieurs. Dans le
+cas où les communes ou secteurs géographiques de résidence souhaités se trouvent situés dans plusieurs départements, le
+demandeur doit déposer une demande et recevoir un numéro départemental dans chaque département concerné, même si l'organisme
+d'habitation à loyer modéré ou la société d'économie mixte auprès de qui il a déposé sa demande dispose de logements situés
+dans plusieurs départements.
+
+Les conditions de la gestion du système d'enregistrement des demandes, celles de la constitution des fichiers ainsi que la
+composition du numéro départemental sont définies par un acte réglementaire dans les conditions prévues par la loi n° 78-17
+du 6 janvier 1978. Le numéro départemental doit toujours comporter le mois et l'année de l'enregistrement de la première
+demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-5 (V)
+
+
+###### Article R441-2-4
+
+Une attestation est remise au demandeur de logement par l'organisme, la société, le service ou la collectivité qui a
+enregistré la demande, Il en est de même à l'occasion du renouvellement ou de la modification de celle-ci. L'attestation
+comporte :
+
+a) Les nom, prénom et adresse du demandeur ;
+
+b) L'indication des nom et adresse du service, organisme ou personne morale qui a procédé à l'enregistrement ;
+
+c) Le numéro départemental ;
+
+d) La date du dépôt de la demande ;
+
+e) Le cas échéant, la dernière date de renouvellement de cette demande ;
+
+f) Les noms et adresses du ou des bailleurs destinataires de la demande lorsque celui qui a procédé à l'enregistrement n'est
+pas lui-même un bailleur.
+
+L'attestation comporte en outre la mention de la durée de validité, des modalités de renouvellement et des conditions de
+radiation de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-7 (V)
+
+
+###### Article R441-2-5
+
+La durée de validité de la demande est d'un an à compter de son enregistrement. Un mois au moins avant la date d'expiration
+de la validité de la demande, le service, organisme ou personne morale qui a procédé à l'enregistrement de la demande notifie
+au demandeur que le délai va expirer et qu'il doit renouveler sa demande avant l'expiration de ce délai.
+
+Toute mise à jour ou correction éventuelle, notamment en cas d'erreur informatique, est effectuée en conservant la date de
+dépôt initial de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Arrêté du 23 mars 2015 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-7 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
+
+
+###### Article R441-2-6
+
+La radiation d'une demande du fichier d'enregistrement ne peut être opérée que par l'organisme, le service ou la collectivité
+qui a enregistré la demande et sous sa responsabilité. Elle est notifiée au demandeur par écrit dans les conditions prévues à
+l'article L. 441-2-1. La radiation ne peut intervenir que pour l'un des motifs suivants, qui demeure inscrit au fichier :
+
+a) Acceptation écrite de l'attribution d'un logement par le demandeur. En cas de demandes multiples, toutes les demandes d'un
+même demandeur dans le département sont radiées ;
+
+b) Renonciation écrite du demandeur ;
+
+c) Non-renouvellement de la demande dans le délai de validité ;
+
+d) Rejet de la demande par l'organisme compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1079 du 7 novembre 2000 - art. 1 () JORF 8 novembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 28 mars 2011 - art. 4 (Ab)
+	  - Arrêté du 23 mars 2015 - art. (V)
+	  - Décret n°2017-917 du 9 mai 2017 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (M)
 
 
 ###### Article R441-3
