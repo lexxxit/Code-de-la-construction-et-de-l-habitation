@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-12-24
+Version Consolidée au 2004-12-28
 
 # Partie législative
 
@@ -30305,8 +30305,8 @@ En cas de récidive, la peine d'amende sera celle prévue pour les contravention
 
 Dans les zones particulièrement exposées à un risque sismique, les règles concernant la nature et les caractéristiques des
 bâtiments, des équipements et des installations et les mesures techniques préventives doivent respecter les dispositions du
-décret n° 91-461 du 14 mai 1991 modifié relatif à la prévention du risque sismique, sans préjudice de l'application des
-règles plus sévères fixées par un plan de prévention des risques naturels prévisibles, lorsqu'il existe.
+décret n° 91-461 du 14 mai 1991 modifié relatif à la prévention du risque sismique, ou les règles fixées par un plan de
+prévention des risques naturels prévisibles, lorsqu'il existe.
 
 **Liens relatifs à cet article**
 
@@ -30316,17 +30316,17 @@ règles plus sévères fixées par un plan de prévention des risques naturels p
 
 	**Cite**:
 
-	  - Décret n°91-461 1991-05-14
-
-	**Créé par**:
-
-	  - Décret n°2000-892 du 13 septembre 2000 - art. 2 () JORF 15 septembre 2000
+	  - Décret n°91-461 du 14 mai 1991 (Ab)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000
 	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000 - art. 2 ()
+
+	**Modifié par**:
+
+	  - Décret n°2004-1413 du 23 décembre 2004 - art. 2 () JORF 28 décembre 2004
 
 	**Cité par**:
 
@@ -59846,33 +59846,6 @@ structure de l'immeuble, ne peuvent répondre à l'ensemble desdites normes.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
 
 
-###### Article R353-34
-
-Les logements faisant l'objet de conventions régies par la présente section sont compris dans les programmes d'intérêt
-général visant à améliorer des ensembles d'immeubles ou de logements et approuvés par le préfet.
-
-Toutefois, des conventions peuvent être conclues, au plus tard jusqu'au 31 décembre 1978, pour des logements compris dans les
-périmètres de restauration immobilière agréés par l'agence nationale pour l'amélioration de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1131 1977-10-04 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1403 du 23 décembre 2004 - art. 4 () JORF 28 décembre 2004
-
-
 ###### Article R353-35
 
 La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
@@ -60012,16 +59985,14 @@ nouveau locataire est substitué de plein droit à l'ancien locataire.
 
 ###### Article R353-40
 
-Le loyer maximum applicable aux logements conventionnés dont la valeur est fixée au mètre carré de surface corrigée telle que
-résultant des dispositions de l'article R. 442-1, et de l'article 4 du décret n° 60-1063 du 1er octobre 1960, ainsi que les
-conditions de son évolution sont fixées par la convention.
+Le loyer maximum applicable aux logements conventionnés ainsi que les conditions de son évolution sont fixés par la
+convention.
+
+La valeur de ce loyer est fixée au mètre carré de surface habitable au sens de l'article R. 111-2 du présent code, augmentée
+de la moitié, dans la limite de 8 mètres carrés par logement, de la surface des annexes définies par l'arrêté pris en
+application des articles R. 353-16 et R. 331-10.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°60-1063 1960-10-01 art. 4
-	  - Code de la construction et de l'habitation. - art. R442-1 (V)
 
 	**Anciens textes**:
 
@@ -60031,13 +60002,16 @@ conditions de son évolution sont fixées par la convention.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
 	**Modifié par**:
 
-	  - Décret n°80-429 1980-06-16 art. 2 JORF 18 juin 1980
+	  - Décret n°2004-1403 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2, R111-2, R353-16, R331-10
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R353-16 (M)
 
 	**Cité par**:
 
@@ -60048,7 +60022,7 @@ conditions de son évolution sont fixées par la convention.
 
 ###### Article R353-41
 
-Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface corrigée calculée dans les conditions définies à
+Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface habitable calculée dans les conditions définies à
 l'article R. 353-40, peuvent être révisés au cours de la période triennale, le 1er juillet de chaque année, en fonction des
 variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la
 statistique et des études économiques, dans la limite du loyer maximum tel que défini à l'article R. 353-40 selon les
@@ -60072,7 +60046,7 @@ fixée dans la convention et des indices des trois trimestres qui la précèdent
 
 	**Modifié par**:
 
-	  - Décret n°95-42 du 11 janvier 1995 - art. 2 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
+	  - Décret n°2004-1403 du 23 décembre 2004 - art. 2 () JORF 28 décembre 2004
 
 	**Cité par**:
 
@@ -84040,11 +84014,10 @@ l'objet de la présente convention.
 
 Art. 4 - Montant maximum du loyer et modalités de révision.
 
-Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface corrigée, ne doit pas excéder le loyer
-maximum qui est fixé à ... F annuels le mètre carré de surface corrigée.
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface habitable, ne doit pas excéder le
+loyer maximum, qui est fixé à .. euros mensuels par mètre carré de surface habitable.
 
-Cette surface est calculée conformément aux dispositions de l'article R. 442-1 du code de la construction et de l'habitation
-et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+Cette surface est calculée selon les modalités définies à l'article R. 353-40 du code de la construction et de l'habitation.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
 de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
@@ -84109,23 +84082,19 @@ annexée à l'article R. 353-32 dont il déclare avoir pris connaissance et reco
 	  - Décret n°60-1063 1960-10-01 art. 4
 	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
 	  - Décret n°77-742 1977-06-30
-	  - Code de la construction et de l'habitation L351-2, L353-1 à L353-13, R442-1, R353-32
+	  - Code de la construction et de l'habitation L351-2, L353-1 à L353-13, R442-1, R353-32, R353-40
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R353-32 (M)
+	  - Code de la construction et de l'habitation. - art. R353-40 (M)
 	  - Code de la construction et de l'habitation. - art. R442-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°80-429 1980-06-16 annexe JONC 18 juin 1980
-
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
-	  - Décret n°95-42 du 11 janvier 1995 - art. 2 () JORF 13 janvier 1995
+	  - Décret n°2004-1403 du 23 décembre 2004 - art. 3 () JORF 28 décembre 2004
 
 
 ###### Article Annexe II à l'article R353-32
@@ -84144,7 +84113,7 @@ II. Composition du programme.
 
 1.2. Surface habitable après travaux.
 
-1.3. Surface corrigée des logements (information à compléter au plus tard lors de la date d'achèvement des travaux).
+1.3. Surface habitable telle que définie à l'article R. 353-40 du code de la construction et de l'habitation.
 
 1.4. Dépendances (nombre, surface).
 
@@ -84184,13 +84153,20 @@ Fait à ..., le ....
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-32 (M)
+	  - Code de la construction et de l'habitation. - art. R353-40 (M)
+
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2004-1403 2004-12-23 art. 3 2° JORF 28 décembre 2004
 
 
 ###### Article Annexe III à l'article R353-32

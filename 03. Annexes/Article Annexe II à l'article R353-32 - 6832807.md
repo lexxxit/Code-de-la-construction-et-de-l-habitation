@@ -14,7 +14,7 @@ II. Composition du programme.
 
 1.2. Surface habitable après travaux.
 
-1.3. Surface corrigée des logements (information à compléter au plus tard lors de la date d'achèvement des travaux).
+1.3. Surface habitable telle que définie à l'article R. 353-40 du code de la construction et de l'habitation.
 
 1.4. Dépendances (nombre, surface).
 
@@ -54,10 +54,17 @@ Fait à ..., le ....
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-32 (M)
+	  - Code de la construction et de l'habitation. - art. R353-40 (M)
+
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2004-1403 2004-12-23 art. 3 2° JORF 28 décembre 2004

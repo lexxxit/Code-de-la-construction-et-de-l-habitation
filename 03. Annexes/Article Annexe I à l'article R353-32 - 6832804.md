@@ -59,11 +59,10 @@ l'objet de la présente convention.
 
 Art. 4 - Montant maximum du loyer et modalités de révision.
 
-Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface corrigée, ne doit pas excéder le loyer
-maximum qui est fixé à ... F annuels le mètre carré de surface corrigée.
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface habitable, ne doit pas excéder le
+loyer maximum, qui est fixé à .. euros mensuels par mètre carré de surface habitable.
 
-Cette surface est calculée conformément aux dispositions de l'article R. 442-1 du code de la construction et de l'habitation
-et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+Cette surface est calculée selon les modalités définies à l'article R. 353-40 du code de la construction et de l'habitation.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
 de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
@@ -128,20 +127,16 @@ annexée à l'article R. 353-32 dont il déclare avoir pris connaissance et reco
 	  - Décret n°60-1063 1960-10-01 art. 4
 	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
 	  - Décret n°77-742 1977-06-30
-	  - Code de la construction et de l'habitation L351-2, L353-1 à L353-13, R442-1, R353-32
+	  - Code de la construction et de l'habitation L351-2, L353-1 à L353-13, R442-1, R353-32, R353-40
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R353-32 (M)
+	  - Code de la construction et de l'habitation. - art. R353-40 (M)
 	  - Code de la construction et de l'habitation. - art. R442-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°80-429 1980-06-16 annexe JONC 18 juin 1980
-
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
-	  - Décret n°95-42 du 11 janvier 1995 - art. 2 () JORF 13 janvier 1995
+	  - Décret n°2004-1403 du 23 décembre 2004 - art. 3 () JORF 28 décembre 2004
