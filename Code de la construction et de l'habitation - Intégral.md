@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-01-09
+Version Consolidée au 1979-01-31
 
 # Partie législative
 
@@ -11457,6 +11457,57 @@ excéder deux cinquièmes du patrimoine des établissements susindiqués.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R431-61 (V)
+
+
+###### Article L431-6
+
+Les contrats de prêts conclus, pour une opération donnée et à compter du 4 janvier 1977, entre la caisse de prêts aux
+organismes d'habitations à loyer modéré et les organismes mentionnés à l'article L. 411-2 sont, si l'organisme en fait la
+demande dans un délai maximum de deux ans après la signature du premier contrat et au plus tard quatre ans à compter du 4
+janvier 1977, revisés en vue de mettre leurs caractéristiques de durée et de taux en conformité avec celles des prêts prévus
+à l'article L. 351-2 (par.3).
+
+Dans ce cas, les logements entreront dans le domaine d'application de l'aide personnalisée au logement définie à l'article L.
+351-2.
+
+Au cas où la livraison des logements auxquels s'applique la révision des contrats de prêts prévue au premier alinéa du
+présent article intervient avant l'application généralisée de l'aide personnalisée au logement, ces mêmes contrats de prêts
+seront à nouveau révisés pour les faire bénéficier d'un régime de financement plus favorable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1 1977-01-03 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+
+	**Abrogé par**:
+
+	  - Loi n°85-695 1985-07-11 art. 21 III JORF 12 juillet rectificatif 13 juillet 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L371-1 (V)
+	  - Code de la construction et de l'habitation. - art. L371-2 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-51 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-33 (V)
+	  - Code de la construction et de l'habitation. - art. R331-79 (V)
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
 
 
 #### Chapitre II : Prêts aux autres organismes et collectivités.
