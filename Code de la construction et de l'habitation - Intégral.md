@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-06-18
+Version Consolidée au 1980-07-05
 
 # Partie législative
 
@@ -1498,6 +1498,27 @@ ne peuvent être faites à proximité des forêts sans une autorisation préfect
 
 	  - Code de la construction et de l'habitation. - art. L161-1 (M)
 	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+
+
+##### Section 8 : Nuisances dues à certaines activités.
+
+###### Article L112-16
+
+Les dommages causés aux occupants d'un bâtiment par des nuisances dues à des activités agricoles, industrielles, artisanales
+ou commerciales, n'entraînent pas droit à réparation lorsque le permis de construire afférent au bâtiment exposé à ces
+nuisances a été demandé ou l'acte authentique constatant l'aliénation ou la prise de bail établi postérieurement à
+l'existence des activités les occasionnant dès lors que ces activités s'exercent en conformité avec les dispositions
+législatives ou réglementaires en vigueur et qu'elles se sont poursuivies dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 75 (V) JORF 5 juillet 1980
 
 
 ### Titre II : Sécurité et protection des immeubles.
