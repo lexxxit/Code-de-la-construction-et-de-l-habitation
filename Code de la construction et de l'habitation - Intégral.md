@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-09-24
+Version Consolidée au 1985-10-01
 
 # Partie législative
 
@@ -1954,6 +1954,38 @@ de grande instance qui ordonnera, le cas échéant, l'expulsion de tous occupant
 	  - Code de l'urbanisme 104-4
 
 
+###### Article L152-10
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal,
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 151-1 sera puni d'une amende de 600 F à
+15000 F. En outre un emprisonnement de onze jours à un mois pourra être prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+
+	**Cite**:
+
+	  - Code pénal 209 A 233
+	  - Code de la construction et de l'habitation. - art. L151-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 100
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-7 (V)
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+
+
 ###### Article L152-11
 
 Le propriétaire qui n'aura pas exécuté les travaux de ravalement dans les délais prévus aux articles L. 132-3 à L. 132-5 est
@@ -2061,10 +2093,11 @@ jusqu'à preuve du contraire.
 ###### Article L152-4
 
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4
-[*construction et sécurité*], L. 111-9 [*caractéristiques thermiques*] et L. 131-4 [*équipement, fonctionnement et contrôle
-des installations consommant de l'énergie*], par les règlements pris pour leur application ou par les autorisations délivrées
-en conformité avec leurs dispositions, est punie d'une amende de 1500 F à 300000 F. En cas de récidive, la peine d'amende
-sera de 3000 F à 500000 F et un emprisonnement d'un mois à six mois pourra en outre être prononcé.
+[*construction et sécurité*], L. 111-7, L. 111-8, L. 111-9 [*caractéristiques thermiques*] et L. 131-4 [*équipement,
+fonctionnement et contrôle des installations consommant de l'énergie*], par les règlements pris pour leur application ou par
+les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 1500 F à 300000 F. En cas de
+récidive, la peine d'amende sera de 3000 F à 500000 F et un emprisonnement d'un mois à six mois pourra en outre être
+prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -2081,15 +2114,24 @@ Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal,
 quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 6000 F à
-8000 F [*montant*].
+15000 F [*montant (1)*].
 
 En outre, un emprisonnement de onze jours à un mois [*durée*] pourra être prononcé.
+
+**Nota:**
+
+[*(1) taux maximum résultant de la loi 85-835 du 7 aôut 1985*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 30 ()
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er    octobre 1985
 
 	**Cité par**:
 
@@ -2105,16 +2147,23 @@ En outre, un emprisonnement de onze jours à un mois [*durée*] pourra être pro
 
 	**Cite**:
 
-	  - Code pénal 209 à 233
+	  - Code pénal 209 à 233 ]
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L111-4, L111-9, L131-4, L460-1
+	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L131-4, L460-1
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 103 al. 1, al. 2
+	  - Code de l'urbanisme 103 AL. 1 et 2 (LOI 66-456 1966-07-02 ART. 4)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction L152-2
+	  - TXT_ASSOCIE: Code de la construction L152-5
 
 
 ## Livre II : Statut des constructeurs.
@@ -15788,6 +15837,34 @@ et l'expulsion des locataires irrégulièrement installés.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L641-6 (V)
+
+
+###### Article L651-4
+
+Quiconque ne produit pas, dans les délais fixés, les déclarations prescrites par le présent livre et par les dispositions
+prises pour son application est passible d'une amende de 5 à 15 000 F.
+
+Le ministère public poursuit d'office l'application de cette amende devant le président du tribunal de grande instance du
+lieu de l'immeuble, statuant en référé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 353
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L651-7 (V)
+	  - Code de la construction et de l'habitation. - art. L661-1 (V)
 
 
 ###### Article L651-5
