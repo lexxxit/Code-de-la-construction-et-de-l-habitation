@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-12-06
+Version Consolidée au 1980-01-05
 
 # Partie législative
 
@@ -13499,13 +13499,22 @@ réserver une partie des locaux à des services publics et fixer les modalités 
 
 ###### Article L613-1
 
-A titre transitoire et jusqu'au 1er janvier 1980 [*date limite*], le juge des référés de la situation de l'immeuble peut, par
-dérogation aux dispositions de l'article 1244 du code civil, accorder des délais renouvelables excédant une année aux
-occupants de locaux d'habitation ou à usage professionnel, dont l'expulsion aura été ordonnée judiciairement, chaque fois que
-le relogement des intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits occupants aient à justifier
-d'un titre à l'origine de l'occupation.
+Le juge des référés de la situation de l'immeuble peut, par dérogation aux dispositions de l'article 1244 du code civil,
+accorder des délais renouvelables excédant une année aux occupants de locaux d'habitation ou à usage professionnel, dont
+l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des intéressés ne pourra avoir lieu dans des
+conditions normales, sans que lesdits occupants aient à justifier d'un titre à l'origine de l'occupation.
+
+Cette disposition n'est pas applicable lorsque le propriétaire exerce son droit de reprise dans les conditions prévues à
+l'article 19 de la loi n. 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
+rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des
+allocations de logement.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 19 (M)
+	  - Code civil - art. 1244 (M)
 
 	**Cité par**:
 
@@ -13515,17 +13524,13 @@ d'un titre à l'origine de l'occupation.
 	  - Code de la construction et de l'habitation. - art. L613-2-1 (VT)
 	  - Code de la construction et de l'habitation. - art. L641-9 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°51-1372 1951-12-01 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 1244 (M)
+	  - Loi n°80-1 1980-01-04 ART. 1 JORF 5 JANVIER 1980
 
 
 ###### Article L613-2
@@ -14824,6 +14829,31 @@ Elles ne s'appliquent pas au département de Saint-Pierre-et-Miquelon, à l'exce
 	**Modifié par**:
 
 	  - Loi n°80-1 1980-01-04 ART. 4 JORF 5 JANVIER 1980
+
+
+###### Article L661-2
+
+Pour l'application de l'article L. 613-3, l'autorité compétente, après avis conforme du conseil général, fixe le point de
+départ de la période de trois mois et demi prévue pour le sursis à expulsion, et le cas échéant, la divise de manière à tenir
+compte des particularités climatiques propres à chacun de ces départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°80-1 1980-01-04 Art. 4 JORF 5 JANVIER 1980
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-576 du 26 avril 2012 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L613-3 (M)
 
 
 # Partie réglementaire
