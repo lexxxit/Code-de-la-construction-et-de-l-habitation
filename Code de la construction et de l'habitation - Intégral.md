@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-05-05
+Version Consolidée au 2002-07-16
 
 # Partie législative
 
@@ -75162,6 +75162,156 @@ logement en application des 2° et 3° de l'article L. 351-2, à l'exception des
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R441-31 (Ab)
+
+
+### Titre IX : Dispositions particulières relatives au maintien du caractère de logement social.
+
+#### Chapitre unique.
+
+###### Article R*491-1
+
+Les logements auxquels s'appliquent les dispositions de l'article L. 411-3 ne sont donnés en location qu'à des personnes dont
+les ressources n'excèdent pas le plafond en vigueur au 1er janvier de l'année de la cession de ces logements par l'organisme
+d'habitation à loyer modéré, ce plafond étant actualisé conformément aux règles qui auraient été applicables si ces logements
+n'avaient pas été cédés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+
+
+###### Article R*491-2
+
+Dans les logements auxquels s'appliquent les dispositions de l'article L. 411-3, le loyer ne peut excéder le montant maximum
+en vigueur dans ces logements à la date de leur cession par l'organisme d'habitations à loyer modéré ou à la date
+d'expiration de la convention, si le logement faisait l'objet lors de sa cession d'une convention conclue en application de
+l'article L. 351-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*491-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*491-6 (V)
+
+
+###### Article R*491-3
+
+Les logements auxquels s'appliquent les dispositions de l'article L. 411-4 ne sont donnés en location qu'à des personnes dont
+les ressources n'excèdent pas le plafond en vigueur à la date d'expiration de la convention conclue en application de
+l'article L. 351-2, ce plafond étant actualisé conformément aux règles qui auraient été applicables si ces logements étaient
+demeurés conventionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-4 (V)
+
+
+###### Article R*491-4
+
+Dans les logements auxquels s'appliquent les dispositions de l'article L. 411-4, le loyer ne peut excéder le montant maximum
+résultant des clauses de la convention conclue en application de l'article L. 351-2 à la date de son expiration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-4 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*491-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*491-6 (V)
+
+
+###### Article R*491-5
+
+Le montant maximum de loyer prévu aux articles R. 491-2 et R. 491-4 est actualisé au 1er juillet de chaque année conformément
+au mode de calcul défini au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
+et portant modification de la loi n° 86-1290 du 23 décembre 1986.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 17 (M)
+	  - Code de la construction et de l'habitation R491-2, R491-4
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+
+###### Article R*491-6
+
+Dans les logements mentionnés aux articles L. 411-3 et L. 411-4, les baux successifs mentionnent la date de cession par
+l'organisme d'habitation à loyer modéré ou la date d'expiration de la convention justifiant l'assujettissement du logement
+aux dispositions de ces articles, le montant du loyer maximum déterminé en application des articles R. 491-2, R. 491-4 et R.
+491-5, ainsi que les modalités de son actualisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*491-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*491-4 (V)
 
 
 ## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.
