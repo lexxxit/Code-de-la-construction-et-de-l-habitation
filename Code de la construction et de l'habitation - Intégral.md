@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-01-12
+Version Consolidée au 1995-01-24
 
 # Partie législative
 
@@ -2072,6 +2072,78 @@ en Conseil d'Etat.
 	**Créé par**:
 
 	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+
+#### Chapitre VI : Intervention de la police et de la gendarmerie dans les immeubles à usage d'habitation.
+
+###### Article L126-1
+
+Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants peuvent accorder à la police et à la
+gendarmerie nationales une autorisation permanente de pénétrer dans les parties communes de ces immeubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 12 () JORF 24 janvier 1995
+
+
+#### Chapitre VII : Gardiennage ou surveillance des immeubles.
+
+###### Article L127-1
+
+Les propriétaires, exploitants ou affectataires, selon le cas, d'immeubles à usage d'habitation et de locaux administratifs,
+professionnels ou commerciaux doivent, lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le
+justifient, assurer le gardiennage ou la surveillance de ceux-ci.
+
+Un décret en Conseil d'Etat précise les zones dans lesquelles cette obligation s'applique, les caractéristiques des immeubles
+ou locaux qui y sont assujettis, les mesures de gardiennage ou de surveillance à prendre en fonction de l'usage, de la
+localisation et de la taille des immeubles ou locaux et les dates auxquelles ces mesures devront au plus tard intervenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°83-629 du 12 juillet 1983 - art. 11-5 (VT)
+	  - Code de la construction et de l'habitation. - art. L126-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*127-1 (V)
+	  - Code pénal - art. 221-4 (V)
+	  - Code pénal - art. 222-10 (V)
+	  - Code pénal - art. 222-12 (V)
+	  - Code pénal - art. 222-13 (V)
+	  - Code pénal - art. 222-3 (V)
+	  - Code pénal - art. 222-8 (V)
+	  - Code pénal - art. 433-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 12 () JORF 24 janvier 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 5 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 7 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 8 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 3 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 4 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 5 (VT)
 
 
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
@@ -7365,6 +7437,35 @@ défavorisées.
 	  - Code de la construction et de l'habitation. - art. L301-5 (M)
 
 
+###### Article L301-3-1
+
+Dans les communes où l'ensemble des logements locatifs sociaux, tels que définis au 2° du III de l'article L. 234-12 du code
+des communes, représente plus de 40 p. 100 des résidences principales, la surface de plancher des logements locatifs
+bénéficiant au cours de l'année d'un concours financier de l'Etat, pour leur construction, ne peut excéder 80 p. 100 de la
+surface de plancher des logements commencés l'année précédente dans la commune et ne bénéficiant d'aucun concours de l'Etat.
+
+Il ne peut être dérogé aux dispositions de l'alinéa précédent que sur décision motivée du représentant de l'Etat dans le
+département, prise après avis du maire de la commune concernée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+
+	**Créé par**:
+
+	  - Loi n°95-740 1995-01-21 Art. 13 JORF 24 janvier 1995
+
+
 ###### Article L301-4
 
 Les communes, les départements, les régions définissent, dans le cadre de leurs compétences respectives, leurs priorités en
@@ -7506,20 +7607,18 @@ Le représentant de l'Etat porte, dans un délai de trois mois, à la connaissan
 intercommunale toutes informations utiles ainsi que les objectifs locaux à prendre en compte en matière de diversité de
 l'habitat et de répartition équilibrée des différents types de logements dans l'agglomération concernée.
 
-" L'établissement public de coopération intercommunale associe à l'élaboration du programme local de l'habitat l'Etat, les
-représentants locaux des personnes morales membres du Conseil national de l'habitat qui en font la demande ainsi que toute
-autre personne morale qu'il juge utile.
+L'établissement public de coopération intercommunale associe à l'élaboration du programme local de l'habitat l'Etat ainsi que
+toute autre personne morale qu'il juge utile.
 
-" Le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de coopération
-intercommunale, est mis à la disposition du public pendant un mois et transmis aux communes et établissements publics de
-coopération intercommunale compétents en matière d'urbanisme, qui disposent d'un délai de deux mois pour faire connaître leur
-avis.
+Le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de coopération
+intercommunale, est transmis aux communes et établissements publics de coopération intercommunale compétents en matière
+d'urbanisme, qui disposent d'un délai de deux mois pour faire connaître leur avis.
 
-" Au vu de ces avis, l'organe délibérant de l'établissement public de coopération intercommunale délibère à nouveau sur le
+Au vu de ces avis, l'organe délibérant de l'établissement public de coopération intercommunale délibère à nouveau sur le
 projet et le transmet au représentant de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au conseil
 départemental de l'habitat.
 
-" Le représentant de l'Etat, s'il estime que le projet de programme local de l'habitat ne répond pas à l'objectif de
+Le représentant de l'Etat, s'il estime que le projet de programme local de l'habitat ne répond pas à l'objectif de
 répartition équilibrée et diversifiée de l'offre de logements, adresse, dans un délai d'un mois, des demandes motivées de
 modifications à l'établissement public de coopération intercommunale, qui en délibère. Cet établissement public adopte
 ensuite le programme local de l'habitat.
@@ -7530,9 +7629,9 @@ ensuite le programme local de l'habitat.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 13 ()
+	  - Loi n°95-74 du 21 janvier 1995 - art. 1 () JORF 24 janvier 1995
 
 	**Cité par**:
 
@@ -7573,10 +7672,11 @@ local de l'habitat et son adaptation à l'évolution de la situation sociale ou 
 ###### Article L302-4
 
 Après l'adoption d'un programme local de l'habitat, une convention entre l'Etat et l'établissement public de coopération
-intercommunale fixe l'aide financière que, dans la limite des dotations ouvertes par les lois de finances, l'Etat apportera
-en matière d'habitat et d'action foncière. Cette convention est conclue pour une période de trois ans. A l'issue de cette
-période, une nouvelle convention, d'une durée maximale de trois ans, peut être conclue dans les mêmes conditions, pour la
-durée restant à courir du programme local de l'habitat.
+intercommunale fixe, si cet établissement est doté de la compétence de politique du logement, l'aide financière que, dans la
+limite des dotations ouvertes par les lois de finances, l'Etat apportera en matière d'habitat et d'action foncière. Cette
+convention est conclue pour une période de trois ans. A l'issue de cette période, une nouvelle convention, d'une durée
+maximale de trois ans, peut être conclue dans les mêmes conditions, pour la durée restant à courir du programme local de
+l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -7584,9 +7684,9 @@ durée restant à courir du programme local de l'habitat.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 13 ()
+	  - Loi n°95-74 du 21 janvier 1995 - art. 2 () JORF 24 janvier 1995
 
 	**Cité par**:
 
@@ -7600,12 +7700,13 @@ durée restant à courir du programme local de l'habitat.
 
 ###### Article L302-5
 
-Les dispositions de la présente section s'appliquent aux communes comprises, au sens du recensement général de la population,
-dans une agglomération de plus de 200 000 habitants et dans lesquelles à la fois [*champ d'application*]:
+Les dispositions de la présente section s'appliquent aux communes dont la population est au moins égale à 3 500 habitants,
+qui sont comprises, au sens du recensement général de la population, dans une agglomération de plus de 200 000 habitants et
+dans lesquelles à la fois [*champ d'application*]:
 
 - le nombre de logements sociaux au sens du 3° du III de l'article L. 234-12 du code des communes représente, au 1er janvier
-de l'année précédente, moins de 20 p. 100 des résidences principales au sens du II de l'article 1411 du code général des
-impôts ;
+de la pénultienne année précédente, moins de 20 p. 100 des résidences principales au sens du II de l'article 1411 du code
+général des impôts ;
 
 - le rapport entre le nombre des bénéficiaires des prestations prévues aux articles L. 351-1 du présent code, L. 542-2 et L.
 831-1 du code de la sécurité sociale et le nombre de résidences principales au sens défini ci-dessus est inférieur à 18 p.
@@ -7625,7 +7726,7 @@ impôts ;
 
 	**Modifié par**:
 
-	  - Loi n°93-1436 1993-12-31 art. 36 JORF 4 janvier 1994
+	  - Loi n°95-74 du 21 janvier 1995 - art. 3 () JORF 24 janvier 1995
 
 	**Cité par**:
 
@@ -7714,9 +7815,9 @@ impôts ;
 
 A compter du 1er janvier 1995, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
 compétences et dans le cadre des dispositions du présent chapitre, les mesures propres à permettre l'acquisition de terrains
-ou de locaux nécessaires à la réalisation de logements à usage locatif au sens du 3° de l'article L. 351-2.
+ou de locaux nécessaires à la réalisation de logements sociaux au sens de l'article L. 302-8.
 
-" Ces communes s'acquittent de l'obligation prévue au présent article soit en versant la contribution prévue à l'article L.
+Ces communes s'acquittent de l'obligation prévue au présent article soit en versant la contribution prévue à l'article L.
 302-7, soit en engageant, dans les conditions fixées à l'article L. 302-8, des actions foncières adaptées à cette fin.
 
 **Liens relatifs à cet article**
@@ -7724,10 +7825,6 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
 
 	**Cité par**:
 
@@ -7739,6 +7836,10 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 	  - Code de la construction et de l'habitation. - art. R302-15 (V)
 	  - Code de la construction et de l'habitation. - art. R302-28 (T)
 
+	**Modifié par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 5 () JORF 24 janvier 1995
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
@@ -7747,7 +7848,6 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L302-8 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ###### Article L302-7
@@ -7755,13 +7855,19 @@ ou de locaux nécessaires à la réalisation de logements à usage locatif au se
 La contribution mentionnée à l'article précédent est égale, chaque année, à 1 p. 100 de la valeur locative des immeubles
 imposés dans les rôles généraux de taxe foncière sur les propriétés bâties et non bâties de la commune.
 
-" La contribution ne peut excéder 5 p. 100 du montant des dépenses réelles de fonctionnement de la commune constatées dans le
+La contribution ne peut excéder 5 p. 100 du montant des dépenses réelles de fonctionnement de la commune constatées dans le
 compte administratif afférent au pénultième exercice.
 
-" Les communes sont tenues de procéder au versement de cette contribution avant le 1er avril de chaque année à un ou
+Les communes sont tenues de procéder au versement de cette contribution au plus tard le 31 décembre de chaque année à un ou
 plusieurs organismes désignés par le représentant de l'Etat et habilités à réaliser des acquisitions foncières et
-immobilières ou à construire des logements sociaux. Les sommes devront être consacrées à cette fin sur le territoire de la
-commune concernée, dans un délai de trois années après leur versement.
+immobilières ou à construire des logements sociaux ou des locaux d'hébergement réalisés dans le cadre du plan pour
+l'hébergement d'urgence des personnes sans abri prévu par l'article 21 de la loi n° 94-624 du 21 juillet 1994 relative à
+l'habitat ou des terrains d'accueil réalisé dans le cadre du schéma départemental prévu par l'article 28 de la loi 90-449 du
+31 mai 1990 visant la mise en oeuvre du droit au logement. Les sommes devront être consacrées à cette fin sur le territoire
+de la commune concernée, dans un délai de trois années après leur versement.
+
+Pour la réalisation des terrains d'accueil et des locaux d'hébergement mentionnés à l'alinéa précédent, le produit de la
+contribution est utilisé dans le département concerné.
 
 **Liens relatifs à cet article**
 
@@ -7769,9 +7875,14 @@ commune concernée, dans un délai de trois années après leur versement.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi - art. 13 ()
+	  - Loi n°90-449 1990-05-31 art. 28
+	  - Loi n°94-624 du 21 juillet 1994 - art. 21 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 7 () JORF 24 janvier 1995
 
 	**Liens**:
 
@@ -7819,36 +7930,70 @@ commune concernée, dans un délai de trois années après leur versement.
 ###### Article L302-8
 
 Les dispositions de l'article L. 302-7 ne sont pas applicables aux communes mentionnées à l'article L. 302-5 qui, au vu de
-leur programme local de l'habitat, se sont engagées par délibération à mettre en oeuvre, dans un délai maximum de trois ans,
-les actions foncières et acquisitions immobilières nécessaires à la réalisation, sur le territoire de la commune, d'un nombre
-de logements locatifs sociaux qui doit être au moins égal, d'une part, à 1 p. 100 du nombre de résidences principales au sens
-du II de l'article 1411 du code général des impôts et, d'autre part, à 9 p. 100 du nombre de logements construits sur la
-commune au cours des dix années qui ont précédé l'engagement.
+leur programme local de l'habitat pour les engagements pris postérieurement au 31 décembre 1995 , se sont engagées par
+délibération à mettre en oeuvre, dans un délai maximum de trois ans, les actions foncières et acquisitions immobilières
+nécessaires à la réalisation, sur le territoire de la commune, d'un nombre de logements sociaux qui augmenté du nombre des
+logements de même nature commencés pendant la période triénnale, doit être au moins égal, d'une part, à 1 p. 100 du nombre de
+résidences principales au sens du II de l'article 1411 du code général des impôts et, d'autre part, à 9 p. 100 du nombre de
+logements construits sur la commune au cours des dix années qui ont précédé l'engagement.
 
-" Au cas où la commune n'a pas atteint ces objectifs au terme de la période considérée, elle est soumise pour cette période à
-la contribution prévue à l'article L. 302-7. Sont toutefois déduites de cette contribution les dépenses, y compris celles
-financées par le produit de la participation à la diversité de l'habitat prévue aux articles L. 332-17 et suivants du code de
-l'urbanisme, engagées par la commune au cours des trois années pour l'acquisition de terrains ou de locaux destinés à la
-réalisation de logements locatifs sociaux sur son territoire. Est assimilé à ces dépenses le montant de la participation à la
-diversité de l'habitat qu'auraient acquittée les constructeurs qui ont opté pour la possibilité de dation prévue à l'article
-L. 332-19 du code précité et les constructeurs qui ont été exonérés totalement ou partiellement de cette participation en
-application du dernier alinéa de l'article L. 332-17 du même code.
+Les communes qui ont pris au cours de l'année 1995 l'engagement triennal mentionné ci-dessus et qui ne sont pas dotées d'un
+programme local de l'habitat au 1er janvier 1996 redeviennent à cette date redevables de la contribution prévue à l'article
+L. 302-7.
+
+Sont considérés comme logements sociaux pour l'application du présent article :
+
+1° Les logements sociaux prévus au 2° du III de l'article L. 234-12 du code des communes ;
+
+2° Les logements améliorés avec le concours financier de l'Agence nationale pour l'amélioration de l'habitat et faisant
+l'objet d'une convention conclue avec l'Etat en application de l'article L. 351-2 du présent code ;
+
+3° Les logements faisant l'objet d'un bail à réhabilitation en application des articles L. 252-1 et suivants du présent code.
+
+Les logements locatifs sociaux faisant l'objet d'un concours financier de l'Etat pour être mis à la disposition des personnes
+défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 précitée et les logements mentionnés au 3° ci-
+dessus comptent double.
+
+Un même logement ne peut être décompté qu'une fois, soit au titre des actions foncières et acquisitions immobilières, soit au
+titre des logements commencés.
+
+Le nombre de logements à usage locatif au sens du 3° de l'article L. 351-2, de logements en accession à la propriété au sens
+du 1° du même article et de logements prévus au 2° ci-dessus doit être au moins égal à 75 p. 100 du nombre des logements
+décomptés.
+
+Au cas où la commune n'a pas atteint ces objectifs au terme de la période considérée, elle est soumise pour cette période à
+la contribution prévue à l'article L. 302-7..    Sont toutefois déduites de cette contribution les dépenses engagées par la
+commune au cours des trois années pour l'acquisition de terrains ou de locaux destinés à la réalisation de logements sociaux
+sur son territoire.
+
+Au cas où la commune dépasse ces objectifs au terme de la période considérée, l'excédent est comptabilisé au titre des
+réalisations de la période suivante.
+
+La période triennale commence le 1er janvier de l'année au cours de laquelle l'engagement est pris par le conseil municipal.
+Toutefois, si l'engagement a été pris avant le 1er janvier 1995, la période triennale commence le 1er janvier 1995.
+
+Les actions foncières et acquisitions immobilières réalisées
+
+en 1994 et les logements commencés en 1993 et 1994 sont comptabilisés au titre des réalisations de la période triennale
+commençant le 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1411
-	  - Code de l'urbanisme - art. L332-17 (Ab)
-	  - Code de l'urbanisme - art. L332-19 (Ab)
+	  - Loi n°90-449 1990-05-31 art. 1
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - Code de la construction et de l'habitation. - art. L252-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 13 ()
+	  - Loi n°95-74 du 21 janvier 1995 - art. 8 () JORF 24 janvier 1995
 
 	**Cité par**:
 
@@ -8019,43 +8164,6 @@ conditions définies aux articles L. 302-1 à L. 302-3.
 	  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. R302-13-1 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-
-
-##### Section 2 : Dispositions particulières à certaines agglomérations.
-
-###### Article L302-5-1
-
-Si, dans un délai de quatre ans à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
-visée à l'article L. 302-5, n'est pas couverte par un programme local de l'habitat, le représentant de l'Etat peut, pour
-répondre aux fins poursuivies par cette loi, selon les conditions fixées par décret en Conseil d'Etat, exercer par
-substitution, au nom de l'Etat, le droit de préemption urbain prévu par les articles L. 211-1 et suivants du code de
-l'urbanisme. Cette possibilité lui est ouverte sans préjudice des dispositions du code de l'urbanisme relatives aux zones
-d'aménagement différé et à la modification ou à la révision par l'Etat des documents d'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°91-662 1991-07-13
-	  - Code de l'urbanisme - art. L211-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
-
-	**Cité par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
-	  - Code de l'urbanisme - art. R211-9 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 4 () JORF 24 janvier 1995
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
