@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-24
 
 # Partie législative
 
@@ -65021,6 +65021,69 @@ locatifs.
 ##### Section 1 : Dispositions générales relatives aux aides de l'Etat
 
 ##### Sous-section 1 : Dispositions relatives aux opérations
+
+###### Article R372-1
+
+Dans les limites et conditions fixées par le présent chapitre, des subventions et des prêts peuvent être accordés dans les
+départements d'outre-mer pour financer :
+
+1. La construction de logements à usage locatif ;
+
+2. L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
+d'amélioration correspondants ;
+
+3. L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
+
+4. L'acquisition de terrains destinés à la construction de logements à usage locatif et la construction de ces logements ;
+
+5. Les terrains et droits immobiliers acquis précédemment par les bénéficiaires visés à l'article R. 372-3, à condition que
+les biens concernés aient été acquis depuis moins de quinze ans à la date de demande du prêt et qu'ils n'aient pas bénéficié
+précédemment d'une aide de l'Etat ;
+
+6. Les opérations de construction-démolition et reconstruction de logements à usage locatif ;
+
+7. La réalisation d'opérations de logements-foyers à usage locatif.
+
+Sont considérés comme logements-foyers les établissements à caractère social dénommés résidences sociales ou hébergeant à
+titre principal des personnes handicapées ou des personnes âgées et qui assurent le logement de personnes dans des immeubles
+comportant à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations
+annexes telles que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance. Un arrêté conjoint
+du ministre chargé de l'outre-mer, du ministre chargé de l'économie et des finances et du ministre chargé du logement fixe en
+tant que de besoin des règles particulières d'application.
+
+8. L'acquisition de logements dans le cadre des dispositions prévues à l'article L. 261-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 6 août 1993 - art. 9 (Ab)
+	  - Arrêté du 18 mars 2002 - art. 2 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 87 (V)
+	  - Arrêté du 30 janvier 2009 (Ab)
+	  - Arrêté du 20 novembre 2014 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-4 (V)
+	  - Code de la construction et de l'habitation. - art. R372-17 (V)
+	  - Code de la construction et de l'habitation. - art. R372-20 (V)
+	  - Code de la construction et de l'habitation. - art. R372-5 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 1384 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1245 du 22 décembre 2003 - art. 1 () JORF 24 décembre 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-3 (M)
+	  - Code de la construction et de l'habitation. - art. R372-3 (V)
+
 
 ###### Article R372-2
 
