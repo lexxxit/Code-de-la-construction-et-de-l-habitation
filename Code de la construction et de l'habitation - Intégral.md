@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-08-01
+Version Consolidée au 1994-09-21
 
 # Partie législative
 
@@ -46070,106 +46070,6 @@ la sécurité sociale en vigueur au 31 décembre de l'année de référence.
 
 ##### Sous-section 3 : Conditions particulières.
 
-###### Article R351-13
-
-Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande
-[*délai, point départ*] , ou pendant au moins deux mois consécutifs au cours de la période de paiement, en chômage total et
-perçoit l'allocation de base prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit
-l'allocation spécifique prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par
-l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir
-du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation.
-
-" La rémunération perçue par les personnes relevant des conventions conclues en application du deuxième alinéa de l'article
-L. 961-1 du code du travail est assimilée, pendant la durée de la formation et pour l'application des dispositions de
-l'alinéa précédent, à l'allocation de chômage à laquelle elle s'est substituée lors de l'entrée en formation. "
-
-" Le nombre minimal d'heures de chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de
-quarante heures sur une période de deux mois consécutifs. "
-
-Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement est supprimé à partir du premier jour du mois
-civil au cours duquel intervient la reprise d'activité.
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
-
-	**Modifié par**:
-
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 2 () JORF 30 septembre 1992
-
-	**Cite**:
-
-	  - Code du travail - art. L351-25 (AbD)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L961-1 (M)
-
-
-###### Article R351-14
-
-Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
-demande [*délai , point de départ*] ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne
-bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit soit
-l'allocation d'insertion prévues par l'article L. 351-9 du code du travail, soit l'allocation de solidarité spécifique prévue
-par l'article L. 351-10 du code du travail, soit l'allocation de fin de droits prévue par le l'article L. 351-3 du code du
-travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient le
-changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation d'insertion de solidarité spécifique
-ou de fin de droits, des revenus d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé au cours de
-l'année civile de référence.    Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses
-ressources à partir du premier jour du mois civil au cours duquel intervient la reprise d'activité [*point de départ*].
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.    " Lorsque le
-bénéficiaire ou son conjoint perçoit l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative
-au revenu minimum d'insertion, il n'est pas tenu compte des revenus d'activité professionnelle ni des indemnités de chômage
-perçus par l'intéressé durant l'année civile de référence. Les droits sont examinés sur cette nouvelle base à compter du
-premier jour du mois civil suivant le premier mois d'ouverture du droit de l'allocation différentielle de revenu minimum et
-jusqu'au dernier jour du mois précédant celui au cours duquel l'allocation différentielle de revenu minimum cesse d'être due.
-"
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 22 août 1986 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Cite**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code du travail - art. R351-13 (M)
-
-	**Modifié par**:
-
-	  - Décret n°88-1118 1988-12-14 art. 2 JORF 15 décembre 1988
-
-
-##### Sous-section 3 : Conditions particulières.
-
 ###### Article R351-11
 
 " Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
@@ -46267,6 +46167,51 @@ reprend une activité professionnelle.
 	**Modifié par**:
 
 	  - Décret n°85-932 1985-08-30 art. 1 JORF 3 septembre 1985
+
+
+###### Article R351-13
+
+Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande
+[*délai, point départ*] , ou pendant au moins deux mois consécutifs au cours de la période de paiement, en chômage total et
+perçoit l'allocation d'assurance prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit
+l'allocation spécifique prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par
+l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir
+du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation. Le nombre minimal
+d'heures de chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de quarante heures sur
+une période de deux mois consécutifs.
+
+La rémunération perçue par les personnes relevant des conventions conclues en application du deuxième alinéa de l'article L.
+961-1 du code du travail est assimilée, pendant la durée de la formation et pour l'application des dispositions de l'alinéa
+précédent, à l'allocation de chômage à laquelle elle s'est substituée lors de l'entrée en formation.
+
+Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement est supprimé à partir du premier jour du mois
+civil au cours duquel intervient la reprise d'activité.
+
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°94-817 1994-09-21 art. 1 JORF 21 septembre 1994
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-25 (AbD)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L961-1 (M)
 
 
 ###### Article R351-16
@@ -47187,6 +47132,100 @@ fin.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+
+###### Article R351-14
+
+Lorsque le bénéficiaire ou son conjoint est en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
+demande ou pendant au moins deux mois consécutifs au cours de la période de paiement et :
+
+- s'il ne bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions mentionnées par l'article R. 351-13 ci-
+dessus, ou
+
+- si son indemnisation a atteint le montant minimum prévu par l'accord mentionné à l'article L. 351-8 du code du travail,
+après application du taux dégressif prévu à l'article L. 351-3 du même code, ou
+
+- s'il perçoit soit l'allocation de solidarité spécifique prévue par l'article L. 351-10 du code du travail, soit
+l'allocation d'insertion prévue par l'article L. 351-9 du code du travail,
+
+il n'est pas tenu compte des revenus d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé durant
+l'année civile de référence.
+
+Les droits sont examinés sur cette nouvelle base à compter du premier jour du mois civil suivant celui au cours duquel sont
+intervenus le changement de situation, la cessation du versement ou la diminution du montant de l'allocation d'assurance, ou
+l'admission soit à l'allocation de solidarité spécifique soit à l'allocation d'insertion.
+
+Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses ressources à partir du premier
+jour du mois civil au cours duquel intervient la reprise d'activité.
+
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
+
+Lorsque le bénéficiaire ou son conjoint perçoit l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre
+1988 relative au revenu minimum d'insertion, il n'est pas tenu compte des revenus d'activité professionnelle ni des
+indemnités de chômage perçus par l'intéressé durant l'année civile de référence. Les droits sont examinés sur cette nouvelle
+base à compter du premier jour du mois civil suivant le premier mois d'ouverture du droit de l'allocation différentielle de
+revenu minimum et jusqu'au dernier jour du mois précédant celui au cours duquel l'allocation différentielle de revenu minimum
+cesse d'être due.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 22 août 1986 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Cite**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L351-8 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-817 du 19 septembre 1994 - art. 2 () JORF 21 septembre 1994
+
+
+###### Article R351-14-1
+
+Lorsque la personne ou l'un des conjoints a conclu un contrat emploi-solidarité mentionné à l'article L. 322-4-7 du code du
+travail, et qu'il ne lui est plus fait application d'une des dispositions spécifiques de prise en compte des ressources au
+titre des articles R. 351-13 et R. 351-14 précédents, le bénéfice de ces dispositions lui est maintenu pendant six mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-784 1977-07-13
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°94-817 du 19 septembre 1994 - art. 3 () JORF 21 septembre 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L322-4-7 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
 
