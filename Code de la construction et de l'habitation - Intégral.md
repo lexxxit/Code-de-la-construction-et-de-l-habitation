@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-09-14
+Version Consolidée au 2002-09-21
 
 # Partie législative
 
@@ -61127,7 +61127,9 @@ f) Sur les modalités selon lesquelles les aides à la personne en matière de l
 département ;
 
 g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou
-demandant à être autorisés à exercer leur activité dans le département;
+demandant à être autorisés à exercer leur activité dans le département. Toutefois, cet avis n'est requis ni pour le retrait
+temporaire d'une ou plusieurs compétences décidé en application des articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la
+dissolution prononcée en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
@@ -61149,13 +61151,16 @@ conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné 
 	**Cite**:
 
 	  - Loi n°86-1290 1986-12-23 art. 41 bis, art. 41 ter
-	  - Code de la construction et de l'habitation R362-3 à R362-8, R351-47, R362-20, R321-10
+	  - Code de la construction et de l'habitation R362-3 à R362-8, L422-7, R421-13, R421-60, L422-8, L422-9, R351-47, R362-20, R321-10
+	  - Code de la construction et de l'habitation. - art. L422-7 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8 (M)
+	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 2 () JORF 22 avril 2001
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 1 () JORF 21 septembre 2002
 
 	**Cité par**:
 
@@ -61164,47 +61169,6 @@ conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné 
 	  - Code de la construction et de l'habitation. - art. R362-18 (M)
 	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-1 (V)
-
-
-##### Section 2 : Composition et fonctionnement.
-
-###### Article R362-18-1
-
-Il est créé au sein du conseil départemental de l'habitat un comité permanent, qui émet en son nom un avis sur toute
-création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou demandant à être
-autorisés à exercer leur activité dans le département.
-
-Ce comité comprend deux membres de chacun des groupes définis à l'article R. 362-10 a et un membre de la section prévue au b
-du même article, désignés par le préfet. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
-
-Le comité permanent est présidé par le préfet ou son représentant.
-
-Il se réunit, sur convocation de son président, dans les deux mois suivant la réception par celui-ci des projets de création,
-dissolution ou modification de compétences présentés par les organismes d'habitations à loyer modéré.
-
-En cas de partage des voix au sein du comité, la voix du président est prépondérante.
-
-Le secrétariat du comité est assuré dans les mêmes conditions que celui du conseil départemental de l'habitat.
-
-Le comité rend compte de son activité au conseil départemental de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°94-1105 du 14 décembre 1994 - art. 3 () JORF 21 décembre 1994
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R371-8 (M)
 
 
 ##### Section 2 : Composition et fonctionnement.
@@ -61509,6 +61473,49 @@ sein du bureau ou parmi les membres du conseil siégeant dans la commission.
 	  - Code de la construction et de l'habitation. - art. R371-10 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+###### Article R362-18-1
+
+Il est créé au sein du conseil départemental de l'habitat un comité permanent qui émet, au nom du conseil, l'avis prévu au g
+de l'article R. 362-2.
+
+Ce comité comprend deux membres de chacun des groupes définis à l'article R. 362-10 a et un membre de la section prévue au b
+du même article, désignés par le préfet. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
+
+Le comité permanent est présidé par le préfet ou son représentant.
+
+Il se réunit, sur convocation de son président, dans les deux mois suivant la réception par celui-ci des projets de création,
+dissolution ou modification de compétences présentés par les organismes d'habitations à loyer modéré.
+
+En cas de partage des voix au sein du comité, la voix du président est prépondérante.
+
+Le secrétariat du comité est assuré dans les mêmes conditions que celui du conseil départemental de l'habitat.
+
+Le comité rend compte de son activité au conseil départemental de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 2 () JORF 21 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-8 (M)
 
 
 ###### Article R362-19
@@ -63267,45 +63274,70 @@ de leurs fonctions.
 
 ###### Article R*421-12
 
-Tout membre du conseil d'administration qui, sans motifs reconnus légitimes par ce dernier, a manqué à trois convocations
-successives peut être, après avoir été admis à fournir des explications, déclaré démissionnaire par le préfet et remplacé
-immédiatement [*absence, sanction*].
+Tout membre du conseil d'administration qui, sans motifs reconnus légitimes par ce dernier, ne s'est pas rendu à trois
+convocations successives peut, après avoir été mis en mesure de présenter ses observations dans le délai d'un mois, être
+déclaré démissionnaire par le préfet. Il est immédiatement remplacé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°73-986 1973-10-22 art. 10
+	  - Décret n°73-986 1973-10-22 ART. 10
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 4 () JORF 21 septembre 2002
 
 
 ###### Article R*421-13
 
-En cas d'irrégularités, de faute grave ou de carence, un arrêté conjoint et motivé du ministre chargé de la construction et
-de l'habitation et du ministre de l'intérieur peut dissoudre le conseil d'administration ou révoquer un ou plusieurs de ses
-membres [*sanctions*]. Le conseil d'administration est alors remplacé ou complété dans le délai de deux mois.
+En cas d'irrégularités, de faute grave ou de carence, le ministre chargé du logement et le ministre chargé des collectivités
+territoriales peuvent décider d'une ou plusieurs des sanctions suivantes :
 
-Pour les motifs prévus à l'alinéa ci-dessus, le conseil d'administration peut être suspendu par arrêté conjoint et motivé du
-ministre chargé de la construction et de l'habitation et du ministre de l'intérieur qui désignent, sur proposition du préfet
-du département du siège de l'office, un administrateur provisoire qui assume de plein droit l'ensemble des pouvoirs du
-président et du conseil d'administration.
+1° Retirer à l'office, pour une durée qui ne peut excéder cinq ans, la possibilité d'exercer une ou plusieurs de ses
+compétences ;
 
-A l'issue d'une période qui ne peut excéder deux ans, le ministre chargé de la construction et de l'habitation et le ministre
-de l'intérieur doivent, soit abroger l'arrêté de suspension, soit dissoudre le conseil d'administration dans les conditions
-prévues au premier alinéa.
+2° Révoquer un ou plusieurs membres du conseil d'administration ;
+
+3° Interdire à un ou plusieurs membres ou anciens membres du conseil d'administration de participer au conseil
+d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré pendant une durée
+qui ne peut excéder dix ans ;
+
+4° Dissoudre le conseil d'administration.
+
+Préalablement au prononcé de ces sanctions, le président de l'office et, dans les cas mentionnés aux 2° et 3°, les personnes
+susceptibles d'être personnellement concernées, sont mis en mesure de présenter leurs observations dans le délai d'un mois.
+Les décisions prises sont communiquées, s'il y a lieu, au conseil d'administration de l'office dès sa plus proche réunion.
+
+En cas de dissolution du conseil d'administration, le ministre chargé du logement et le ministre chargé des collectivités
+territoriales nomment un administrateur provisoire auquel est transféré l'ensemble des pouvoirs, notamment d'administration
+et de représentation du conseil d'administration, de son président et des administrateurs. Il est mis fin dans les mêmes
+conditions à la mission de l'administrateur provisoire. La durée de l'administration provisoire ne peut excéder deux ans à
+compter de la décision ministérielle. Au terme de l'administration provisoire, un nouveau conseil d'administration entre en
+fonctions. A cet effet et par exception aux dispositions de l'article R. 421-9, le préfet prend l'initiative d'engager les
+procédures de désignation des membres du nouveau conseil d'administration autres que les représentants des locataires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°73-986 1973-10-22 art. 11
+	  - Décret n°73-986 1973-10-22 ART. 11
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 5 () JORF 21 septembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-9
 
 	**Cité par**:
 
@@ -64215,57 +64247,75 @@ ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
 
 ###### Article R*421-59
 
-En cas d'irrégularités, de faute grave ou de carence, le conseil d'administration des offices publics peut être dissout ou
-ses membres révoqués par arrêté conjoint et motivé du ministre chargé de la construction et de l'habitation et du ministre de
-l'intérieur [*sanction*].
-
-En cas de dissolution ou de révocation, le conseil d'administration est remplacé ou complété dans le délai de deux mois.
-
-Tout administrateur révoqué ne peut être désigné ou réélu pendant cinq années.
-
-Est réputé démissionnaire et remplacé immédiatement le membre du conseil d'administration qui, sans excuse légitime,
-s'abstient pendant une durée de six mois d'assister aux séances dudit conseil [*absence*].
+Tout membre du conseil d'administration qui, sans motifs reconnus légitimes par ce dernier, ne s'est pas rendu à trois
+convocations successives peut, après avoir été mis en mesure de présenter ses observations dans le délai d'un mois, être
+déclaré démissionnaire par le préfet. Il est immédiatement remplacé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°73-213 1973-02-16 art. 7
+	  - Décret n°73-213 1973-02-16 ART. 7
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 7 () JORF 21 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
 ###### Article R*421-60
 
-Dans les cas prévus au premier alinéa de l'article R. 421-59 [*irrégularités, faute grave, carence*], le conseil
-d'administration peut être suspendu par arrêté conjoint et motivé du ministre chargé de la construction et de l'habitation et
-du ministre de l'intérieur. Le préfet peut prononcer la suspension d'un des membres du conseil d'administration
-[*sanctions*].
+En cas d'irrégularités, de faute grave ou de carence, le ministre chargé du logement et le ministre chargé des collectivités
+territoriales peuvent décider d'une ou de plusieurs des sanctions suivantes :
 
-Le préfet désigne un administrateur provisoire qui assume de plein droit l'ensemble des pouvoirs du président et du conseil
-d'administration.
+1° Retirer à l'office, pour une durée qui ne peut excéder cinq ans, la possibilité d'exercer une ou plusieurs de ses
+compétences ;
 
-A l'issue d'une période qui ne peut excéder six mois, le préfet rend compte des dispositions adoptées, de la situation de
-l'organisme et propose les mesures qui doivent être prises.
+2° Révoquer un ou plusieurs membres du conseil d'administration ;
 
-Le ministre chargé de la construction et de l'habitation et le ministre de l'intérieur peuvent alors soit rapporter l'arrêté
-de suspension, soit dissoudre le conseil d'administration dans les conditions prévues à l'article R. 421-59.
+3° Interdire à un ou plusieurs membres ou anciens membres du conseil d'administration de participer au conseil
+d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré pendant une durée
+qui ne peut excéder dix ans ;
+
+4° Dissoudre le conseil d'administration.
+
+Préalablement au prononcé de ces sanctions, le président de l'office et, dans les cas mentionnés aux 2° et 3°, les personnes
+susceptibles d'être personnellement concernées, sont mis en mesure de présenter leurs observations dans le délai d'un mois.
+Les décisions prises sont communiquées, s'il y a lieu, au conseil d'administration de l'office dès sa plus proche réunion.
+
+En cas de dissolution du conseil d'administration, le ministre chargé du logement et le ministre chargé des collectivités
+territoriales nomment un administrateur provisoire auquel est transféré l'ensemble des pouvoirs, notamment d'administration,
+de direction et de représentation du conseil d'administration, de son président et des administrateurs. Il est mis fin dans
+les mêmes conditions à la mission de l'administrateur provisoire. La durée de l'administration provisoire ne peut excéder
+deux ans à compter de la décision ministérielle. Au terme de l'administration provisoire, un nouveau conseil d'administration
+entre en fonctions. A cet effet et par exception aux dispositions de l'article R. 421-57, le préfet prend l'initiative
+d'engager les procédures de désignation des membres du nouveau conseil d'administration autres que les représentants des
+locataires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°78-213 1978-02-16 art. 8
+	  - Décret n°78-213 1978-02-16 ART. 8
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 8 () JORF 21 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R421-59
+	  - Code de la construction et de l'habitation.
 
 	**Cité par**:
 
@@ -64892,9 +64942,10 @@ liste, pour la durée de l'empêchement qui ne saurait excéder un an.
 
 Le dépouillement du scrutin a lieu au siège de l'office ; il est effectué, en présence d'au moins un représentant de chaque
 liste de candidats, par un bureau comprenant le président en exercice de l'office et un membre du conseil d'administration
-choisi parmi les administrateurs désignés par le préfet ; les résultats sont affichés immédiatement dans tous les immeubles
-dépendant de l'office. Un procès-verbal du résultat du scrutin est remis à chaque liste en présence ainsi qu'au préfet du
-département du siège de l'office.
+choisi parmi les administrateurs désignés par le préfet ou, lorsque l'élection a lieu en période d'administration provisoire
+de l'office, l'administrateur provisoire et une personne désignée à cette fin par le préfet ; les résultats sont affichés
+immédiatement dans tous les immeubles dépendant de l'office. Un procès-verbal du résultat du scrutin est remis à chaque liste
+en présence ainsi qu'au préfet du département du siège de l'office.
 
 Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du siège de l'office
 dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
@@ -64903,10 +64954,9 @@ dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les condi
 5° Les représentants des locataires sont membres du conseil d'administration à compter de la clôture du dépouillement des
 élections ; la perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
 
-6° Au cas de création d'un nouvel office ou d'élections faisant suite à une dissolution, les attributions conférées par les
-dispositions du présent article aux offices existants ou à certains des membres de leur conseil d'administration sont
-exercées jusqu'à l'entrée en fonctions du nouveau conseil d'administration par le préfet ou par les fonctionnaires qu'il
-délègue à cet effet.
+6° Au cas de création d'un nouvel office, les attributions conférées par les dispositions du présent article aux offices
+existants ou à certains des membres de leur conseil d'administration sont exercées jusqu'à l'entrée en fonctions du nouveau
+conseil d'administration par le préfet ou par les fonctionnaires qu'il délègue à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -64922,13 +64972,13 @@ délègue à cet effet.
 	  - Code de la construction et de l'habitation. - art. L422-8-1 (AbD)
 	  - Code de la construction et de l'habitation. - art. L423-12 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 1 () JORF 14 septembre 2002
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2002-1158 du 13 septembre 2002 - art. 11, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 3 () JORF 21 septembre 2002
 
 	**Cité par**:
 
@@ -65056,9 +65106,10 @@ liste pour la durée de l'empêchement qui ne saurait excéder un an.
 
 Le dépouillement du scrutin a lieu au siège de l'office ; il est effectué, en présence d'au moins un représentant de chaque
 liste de candidats, par un bureau comprenant le président en exercice de l'office et un membre du conseil d'administration
-choisi parmi les administrateurs désignés par le préfet. Les résultats sont affichés immédiatement dans tous les immeubles
-dépendant de l'office. Un procès-verbal du résultat du scrutin est remis à chaque liste en présence, ainsi qu'au préfet du
-département du siège de l'office.
+choisi parmi les administrateurs désignés par le préfet ou, lorsque l'élection a lieu en période d'administration provisoire
+de l'office, l'administrateur provisoire et une personne désignée à cette fin par le préfet. Les résultats sont affichés
+immédiatement dans tous les immeubles dépendant de l'office. Un procès-verbal du résultat du scrutin est remis à chaque liste
+en présence, ainsi qu'au préfet du département du siège de l'office.
 
 Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du siège de l'office
 dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
@@ -65067,10 +65118,9 @@ dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les condi
 5° Les représentants des locataires sont membres du conseil d'administration à compter de la clôture du dépouillement des
 élections ; la perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
 
-6° Au cas de création d'un nouvel office ou d'élections faisant suite à une dissolution, les attributions conférées par les
-dispositions du présent article aux offices existants ou à certains des membres de leur conseil d'administration sont
-exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration par le préfet ou par les fonctionnaires qu'il
-délègue à cet effet.
+6° Au cas de création d'un nouvel office, les attributions conférées par les dispositions du présent article aux offices
+existants ou à certains des membres de leur conseil d'administration sont exercées jusqu'à l'entrée en fonction du nouveau
+conseil d'administration par le préfet ou par les fonctionnaires qu'il délègue à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -65086,13 +65136,9 @@ délègue à cet effet.
 	  - Code de la construction et de l'habitation. - art. L422-8-1 (AbD)
 	  - Code de la construction et de l'habitation. - art. L423-12 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1158 du 13 septembre 2002 - art. 11, v. init.
-
 	**Modifié par**:
 
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 4 () JORF 14 septembre 2002
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 6 () JORF 21 septembre 2002
 
 
 #### Chapitre II : Organismes privés d'habitations à loyer modéré.
@@ -65302,9 +65348,10 @@ qui ne saurait excéder un an.
 
 Le dépouillement du scrutin a lieu au siège de la société ; il est effectué, en présence d'au moins un représentant de chaque
 liste de candidats, par un bureau comprenant le président en exercice de la société et un membre du conseil d'administration
-ou de surveillance ne représentant pas les locataires ; les résultats sont affichés immédiatement dans tous les immeubles
-dépendant de la société. Un procès-verbal du résultat du scrutin est remis à chaque liste en présence, ainsi qu'au préfet du
-département du siège de la société.
+ou de surveillance ne représentant pas les locataires ou, lorsque l'élection a lieu en période d'administration provisoire de
+la société, l'administrateur provisoire et une personne désignée à cette fin par le préfet du département du siège de la
+société ; les résultats sont affichés immédiatement dans tous les immeubles dépendant de la société. Un procès-verbal du
+résultat du scrutin est remis à chaque liste en présence, ainsi qu'au préfet du département du siège de la société.
 
 Les réclamations contre les opérations électorales sont portées devant le tribunal d'instance du lieu du siège de la société
 dans la quinzaine qui suit le dépouillement ; le tribunal statue dans les conditions prévues par l'article R. 120 du code
@@ -65336,13 +65383,9 @@ qualité.
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1158 du 13 septembre 2002 - art. 11, v. init.
-
 	**Modifié par**:
 
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 6 () JORF 14 septembre 2002
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 9 () JORF 21 septembre 2002
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
@@ -65829,11 +65872,14 @@ crédit immobilier et après avis du Conseil supérieur des habitations à loyer
 Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
 modéré.
 
-La dissolution d'une société anonyme de crédit immobilier telle que prévue par les articles L. 422-7, L. 422-8 et L. 422-9,
-la nomination d'un administrateur provisoire telle que prévue à l'article L. 422-8, la nomination d'un liquidateur telle que
-prévue par les articles L. 422-7 à L. 422-10 ou la suspension de membres du conseil d'administration d'une société anonyme de
-crédit immobilier telle que prévue à l'article L. 422-6 sont prononcées par le ministre chargé du logement après avis de la
-chambre syndicale des sociétés anonymes de crédit immobilier et du Conseil supérieur des habitations à loyer modéré.
+Les sanctions et mesures prévues aux articles L. 422-6, L. 422-7, L. 422-8, L. 422-8-1, L. 422-9 et L. 422-10 sont prises, en
+ce qui concerne les sociétés anonymes de crédit immobilier, par le ministre chargé du logement, après avis de la chambre
+syndicale des sociétés anonymes de crédit immobilier. Le ministre informe le comité des établissements de crédit et des
+entreprises d'investissement et la commission bancaire des décisions qu'il prend.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -65843,15 +65889,24 @@ chambre syndicale des sociétés anonymes de crédit immobilier et du Conseil su
 
 	**Modifié par**:
 
-	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 10 () JORF 21 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1595 du 9 novembre 2007 - art. 2 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 175
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L422-5, L422-7, L422-8, L422-9, L422-7 à L422-10, L422-6
+	  - Code de la construction et de l'habitation. - art. L422-10 (AbD)
 	  - Code de la construction et de l'habitation. - art. L422-5 (M)
 	  - Code de la construction et de l'habitation. - art. L422-6 (M)
 	  - Code de la construction et de l'habitation. - art. L422-7 (M)
 	  - Code de la construction et de l'habitation. - art. L422-8 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8-1 (AbD)
 	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
@@ -65899,14 +65954,12 @@ du ministre chargé des finances et du ministre chargé de la construction et de
 
 ###### Article R422-17
 
-La dissolution d'une société et la nomination d'un liquidateur prévues à l'article L. 422-9 sont prononcées par le ministre
-chargé de la construction et de l'habitation après avis du [*comité départemental des habitations à loyer modéré*] conseil
-départemental de l'habitat.
+Les sanctions et mesures prévues aux articles L. 422-6, L. 422-7, L. 422-8, L. 422-8-1, L. 422-9 et L. 422-10 sont prises, en
+ce qui concerne les sociétés anonymes d'habitations à loyer modéré et les sociétés coopératives d'habitations à loyer modéré,
+par le ministre chargé du logement.
 
-L'approbation de l'autorité administrative prévue à l'article L. 422-11, alinéa 1, pour permettre à une assemblée générale
-d'attribuer, en cas de dissolution d'une société d'habitations à loyer modéré, la portion d'actif excédant la moitié du
-capital social à un ou plusieurs organismes d'habitations à loyer modéré ou à une fédération de ceux-ci est donnée par le
-ministre chargé de la construction et de l'habitation après avis du conseil supérieur des habitations à loyer modéré.
+Pour ces mêmes sociétés, l'approbation prévue au premier alinéa de l'article L. 422-11 est donnée par le ministre chargé du
+logement, après avis du Conseil supérieur des habitations à loyer modéré.
 
 **Liens relatifs à cet article**
 
@@ -65916,8 +65969,7 @@ ministre chargé de la construction et de l'habitation après avis du conseil su
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 10 () JORF 19 juin 1992
-	  - Décret n°92-529 du 15 juin 1992 - art. 8 () JORF 19 juin 1992
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 11 () JORF 21 septembre 2002
 
 	**Cité par**:
 
@@ -65925,7 +65977,17 @@ ministre chargé de la construction et de l'habitation après avis du conseil su
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 184 AL. 1 (pour partie)
+	  - Code de l'urbanisme 184 al. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-10 (AbD)
+	  - Code de la construction et de l'habitation. - art. L422-11 (M)
+	  - Code de la construction et de l'habitation. - art. L422-6 (M)
+	  - Code de la construction et de l'habitation. - art. L422-7 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8-1 (AbD)
+	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
 ##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
@@ -68159,6 +68221,30 @@ d'administration sont adressées au préfet et au ministre chargé de la constru
 	  - Code de la construction et de l'habitation. - art. R423-67 (Ab)
 
 
+###### Article R423-66
+
+Le défaut de transmission des états financiers à l'autorité compétente est au nombre des irrégularités, fautes graves ou
+carences qui peuvent justifier l'application de l'articles R. 421-60.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-1189 du 19 septembre 2002 - art. 12 () JORF 21 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-60 (Ab)
+
+
 ###### Article R423-67
 
 Les instructions interministérielles prévues à l'article R. 423-40 déterminent la contexture du compte financier ainsi que la
@@ -68570,26 +68656,6 @@ du capital de cette société.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R311-1, R311-2, R331-32 à R331-77
-
-
-###### Article R423-66
-
-Le défaut de transmission des états financiers à l'autorité compétente est au nombre des irrégularités, fautes graves ou
-carences qui peuvent justifier l'application des articles R. 421-59 et R. 421-60. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 20 () JORF 15 septembre 1988
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-59, R421-60
 
 
 ##### Section 2 : Dispositions domaniales.
