@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-01-27
 
 # Partie législative
 
@@ -10378,35 +10378,6 @@ autorités de contrôle. Ils sont révoqués par décision administrative [*sanc
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 170
-
-
-###### Article L421-7
-
-Les dispositions du code des communes, livre IV, titre Ier, portant statut général du personnel des communes et
-établissements communaux ne sont pas applicables au personnel des offices publics d'habitations à loyer modéré ; le statut de
-ce personnel est fixé par un règlement d'administration publique qui contient des dispositions particulières aux receveurs
-n'ayant pas la qualité de comptables du Trésor.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Loi n°84-53 1984-01-26 art. 120 I JORF 27 janvier 1984
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 171
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L411-8 (Ab)
-	  - Code de la construction et de l'habitation. - art. L421-6-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
-	  - Code de la construction et de l'habitation. - art. R421-66 (Ab)
 
 
 ##### Section 2 : Administration des offices publics de l'habitat.
