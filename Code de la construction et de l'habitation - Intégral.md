@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-09-07
+Version Consolidée au 2004-09-10
 
 # Partie législative
 
@@ -33153,6 +33153,625 @@ juillet 1938 sur l'organisation générale de la nation en temps de guerre et, n
 
 #### Chapitre V : Sécurité de certains équipements d'immeubles par destination.
 
+##### Section 1 : Sécurité des ascenseurs
+
+##### Sous-section 1 : Mise en sécurité des ascenseurs.
+
+###### Article R125-1
+
+Les ascenseurs auxquels s'appliquent les dispositions de la présente section sont les appareils qui desservent de manière
+permanente les niveaux de bâtiments et de constructions à l'aide d'une cabine qui se déplace le long de guides rigides dont
+l'inclinaison sur l'horizontale est supérieure à 15 degrés et qui est destinée au transport soit de personnes, soit de
+personnes et d'objets, soit uniquement d'objets dès lors qu'elle est accessible sans difficulté à une personne et qu'elle est
+équipée d'éléments de commande situés à l'intérieur ou à portée de la personne qui s'y trouve.
+
+Sont également regardés comme des ascenseurs les appareils qui se déplacent selon une course parfaitement fixée dans
+l'espace, même s'ils ne se déplacent pas le long de guides rigides, notamment les ascenseurs guidés par des ciseaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+
+
+###### Article R125-1-1
+
+La sécurité d'un ascenseur consiste à assurer : 
+
+1. La fermeture des portes palières ; 
+
+2. L'accès sans danger des personnes à la cabine ; 
+
+3. La protection des utilisateurs contre les chocs provoqués par la fermeture des portes ; 
+
+4. La prévention des risques de chute et d'écrasement de la cabine ; 
+
+5. La protection contre les dérèglements de la vitesse de la cabine ; 
+
+6. La mise à la disposition des utilisateurs de moyens d'alerte et de communication avec un service d'intervention ; 
+
+7. La protection des circuits électriques de l'installation ; 
+
+8. L'accès sans danger des personnels d'intervention aux locaux des machines, aux équipements associés et aux espaces
+parcourus par la cabine ; 
+
+9. L'impossibilité pour toute personne autre que les personnels d'intervention d'accéder aux locaux des machines, aux
+équipements associés et aux espaces parcourus par la cabine. 
+
+La réalisation de ces objectifs de sécurité repose, pour les ascenseurs installés après le 27 août 2000, sur le respect des
+exigences essentielles de sécurité prévues à l'article 3 du décret n° 2000-810 du 24 août 2000 relatif à la mise sur le
+marché des ascenseurs et, pour les autres ascenseurs, sur la mise en oeuvre des dispositifs ou des mesures équivalentes
+prévues aux articles R. 125-1-2 et R. 125-1-3, ainsi que, pour l'ensemble des ascenseurs, sur le respect des obligations
+d'entretien prévues aux articles R. 125-2 à R. 125-2-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°2000-810 du 24 août 2000 - art. 3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-4 (V)
+	  - Code du travail - art. R4224-17-1 (VD)
+
+
+###### Article R125-1-2
+
+Le propriétaire d'un ascenseur installé avant le 27 août 2000 qui ne répond pas aux objectifs de sécurité mentionnés à
+l'article R. 125-1-1 met en place les dispositifs de sécurité suivants :
+
+I. - Avant le 3 juillet 2008 :
+
+1. Des serrures munies de dispositifs de contrôle de la fermeture et du verrouillage des portes palières ;
+
+2. Lorsqu'il est nécessaire de prévenir des actes de nature à porter atteinte au verrouillage de la porte palière, un
+dispositif empêchant ou limitant de tels actes ;
+
+3. Un dispositif de détection de la présence des personnes destiné à les protéger contre le choc des portes coulissantes lors
+de leur fermeture ;
+
+4. La clôture de la gaine d'ascenseur empêchant l'accès à cette gaine et aux éléments de déverrouillage des serrures de porte
+palière ;
+
+5. Pour les ascenseurs électriques, un parachute de cabine et un limiteur de vitesse en descente ;
+
+6. Un dispositif destiné à éviter toute chute en gaine lorsque la cabine est immobilisée en dehors de la zone de
+déverrouillage ;
+
+7. Une commande de manoeuvre d'inspection et d'arrêt de la cabine en vue de protéger les personnels d'intervention opérant
+sur le toit de la cabine, en gaine ou en cuvette ;
+
+8. Des dispositifs permettant aux personnels d'intervention d'accéder sans danger aux locaux de machines ou de poulies ;
+
+9. Un système de verrouillage des portes et portillons destinés à la visite technique de la gaine et de la cuvette ainsi que
+des portes de secours, avec une commande automatique de l'arrêt de l'ascenseur lors de l'ouverture de ces portes et
+portillons par les personnels d'intervention.
+
+II. - Avant le 3 juillet 2013 :
+
+1. Dans les ascenseurs installés avant le 1er janvier 1983, un système de contrôle de l'arrêt et du maintien à niveau de la
+cabine de nature à assurer, à tous les niveaux desservis, un accès sans danger ainsi que l'accessibilité des personnes
+handicapées ou à mobilité réduite ;
+
+2. Un système de téléalarme entre la cabine et un service d'intervention et un éclairage de secours en cabine ;
+
+3. Une résistance mécanique suffisante des portes palières lorsqu'elles comportent un vitrage ;
+
+4. Pour les ascenseurs hydrauliques, un système de prévention des risques de chute libre, de dérive et d'excès de vitesse de
+la cabine ;
+
+5. Une protection avec marquage ou signalisation éliminant le risque de contact direct des personnels d'intervention avec des
+composants ou conducteurs nus sous tension, dans les armoires de commande, les armoires électriques et les tableaux d'arrivée
+de courant ;
+
+6. Un dispositif de protection des personnels d'intervention contre le risque de happement par les organes mobiles de
+transmission, notamment les poulies, câbles ou courroies ;
+
+7. Un éclairage fixe du local de machines ou de poulies assurant un éclairement suffisant des zones de travail et de
+circulation.
+
+III. - Avant le 3 juillet 2018 :
+
+1. Dans les ascenseurs installés après le 31 décembre 1982, un système de contrôle de l'arrêt et du maintien à niveau de la
+cabine pour assurer, à tous les niveaux desservis, un accès sans danger ainsi que l'accessibilité des personnes handicapées
+ou à mobilité réduite ;
+
+2. Dans les ascenseurs électriques à adhérence, un système de protection contre la vitesse excessive de la cabine en montée.
+
+Un arrêté conjoint des ministres chargés de la construction et de l'industrie précise, en fonction des caractéristiques des
+installations, les prescriptions techniques relatives à ces dispositifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 4 (V)
+	  - Arrêté du 18 novembre 2004 - art. 1 (V)
+	  - Arrêté du 18 novembre 2004 - art. 4 (VT)
+	  - Décret n°2014-1230 du 21 octobre 2014 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2 (M)
+	  - Code de la construction et de l'habitation. - art. R125-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+
+
+###### Article R125-1-3
+
+A la place de tout ou partie des dispositifs de sécurité mentionnés à l'article R. 125-1-2, le propriétaire d'un ascenseur
+peut mettre en oeuvre des mesures équivalentes si celles-ci ont préalablement obtenu l'accord d'une personne remplissant les
+conditions prévues à l'article R. 125-2-5. Cet accord, formulé par écrit et assorti d'une analyse de risques établissant que
+l'ascenseur satisfait aux exigences de sécurité mentionnées à l'article R. 125-1-1, est remis au propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 4 (VT)
+	  - Code de la construction et de l'habitation. - art. R125-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-4 (M)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+
+
+###### Article R125-1-4
+
+Lorsqu'il estime que les caractéristiques de l'ascenseur font obstacle à la mise en oeuvre d'un des dispositifs prévus à
+l'article R. 125-1-2 ou d'une mesure équivalente au sens de l'article R. 125-1-3, le propriétaire fait réaliser une expertise
+technique par une personne relevant de l'une des catégories mentionnées au I de l'article R. 125-2-5. Cette personne donne
+son avis sur l'impossibilité alléguée et, le cas échéant, sur les mesures compensatoires que le propriétaire prévoit de
+mettre en oeuvre pour tenir compte des objectifs de sécurité définis à l'article R. 125-1-1. 
+
+Le propriétaire recourt à la même procédure s'il estime que la mise en oeuvre d'un des dispositifs prévus à l'article R.
+125-1-2 serait de nature à faire obstacle à l'accès des personnes handicapées ou à mobilité réduite ou à porter atteinte à la
+conservation du patrimoine historique que représentent l'immeuble ou certains de ses éléments ayant une valeur artistique ou
+technique remarquable. 
+
+Le propriétaire met en oeuvre la procédure d'expertise technique et, s'il y a lieu, les mesures compensatoires, dans les
+délais prévus à l'article R. 125-1-2 pour les dispositifs qu'elles remplacent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R125-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+
+##### Sous-section 2 : Entretien et contrôle technique.
+
+###### Article R125-2
+
+L'entretien d'un ascenseur a pour objet d'assurer son bon fonctionnement et de maintenir le niveau de sécurité résultant de
+l'application du décret n° 2000-810 du 24 août 2000 relatif à la mise sur le marché des ascenseurs ou de l'application des
+articles R. 125-1-2 à R. 125-1-4. 
+
+A cet effet, le propriétaire d'une installation d'ascenseur prend les dispositions minimales suivantes : 
+
+1° Opérations et vérifications périodiques : 
+
+a) Une visite toutes les six semaines en vue de surveiller le fonctionnement de l'installation et effectuer les réglages
+nécessaires ; 
+
+b) La vérification toutes les six semaines de l'efficacité des serrures des portes palières et, s'il y a lieu, des
+dispositifs empêchant ou limitant les actes portant atteinte au verrouillage des portes palières ; 
+
+c) L'examen semestriel du bon état des câbles et la vérification annuelle des parachutes ; 
+
+d) Le nettoyage annuel de la cuvette de l'installation, du toit de cabine et du local des machines ; 
+
+e) La lubrification et le nettoyage des pièces ; 
+
+2° Opérations occasionnelles : 
+
+a) La réparation ou le remplacement, si elles ne peuvent pas être réparées, des petites pièces de l'installation présentant
+des signes d'usure excessive ; 
+
+b) Les mesures d'entretien spécifiques destinées à supprimer ou atténuer les défauts présentant un danger pour la sécurité
+des personnes ou portant atteinte au bon fonctionnement de l'appareil qu'aura repérés le contrôle technique mentionné à
+l'article R. 125-2-7 ; 
+
+c) En cas d'incident, les interventions pour dégager des personnes bloquées en cabine ainsi que le dépannage et la remise en
+fonctionnement normal de l'ascenseur. 
+
+En outre, lorsque des pièces importantes de l'installation, autres que celles mentionnées au a du 2°, sont usées, le
+propriétaire fait procéder à leur réparation ou à leur remplacement si elles ne peuvent pas être réparées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 4 (V)
+	  - Arrêté du 18 novembre 2004 - art. 1 (V)
+	  - Arrêté du 18 novembre 2004 - art. 2 (V)
+	  - Arrêté du 18 novembre 2004 - art. 8 (V)
+	  - Arrêté du 12 avril 2010 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-11 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+	  - Code du travail - art. R4224-17-1 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-7 (V)
+
+
+###### Article R125-2-1
+
+I. - Le propriétaire passe un contrat d'entretien écrit avec une entreprise dont le personnel chargé de l'entretien doit
+avoir reçu une formation appropriée dans les conditions prévues à l'article 9 du décret n° 95-826 du 30 juin 1995 fixant les
+prescriptions particulières de sécurité applicables aux travaux effectués sur les ascenseurs, ascenseurs de charges,
+escaliers mécaniques, trottoirs roulants et installations de parcage automatique de véhicules.
+
+Le contrat comporte les clauses minimales suivantes :
+
+a) L'exécution des obligations prescrites à l'article R. 125-2, exception faite de son dernier alinéa ;
+
+b) La durée du contrat, qui ne peut être inférieure à un an, les modalités de sa reconduction ou de sa résiliation ;
+
+c) Les conditions de disponibilité et de fourniture des pièces de rechange, et l'indication du délai garanti pour le
+remplacement des pièces mentionnées au a du 2° de l'article R. 125-2 ;
+
+d) La description, établie contradictoirement, de l'état initial de l'installation ;
+
+e) La mise à jour du carnet d'entretien ;
+
+f) Les garanties apportées par les contrats d'assurances de l'entreprise d'entretien ;
+
+g) Les pénalités encourues en cas d'inexécution ou de mauvaise exécution des obligations contractuelles ainsi que les
+modalités de règlement des litiges ;
+
+h) Les conditions et modalités de recours éventuel à des sous-traitants ;
+
+i) Les conditions dans lesquelles peuvent être passés des avenants ;
+
+j) La formule détaillée de révision des prix.
+
+II. - Lors de la signature du contrat, le propriétaire remet à l'entreprise la notice des instructions nécessaires au
+maintien en bon état de fonctionnement de l'ascenseur. Cette notice comporte une description des caractéristiques de
+l'installation. A défaut, l'entreprise élabore ce document. En fin de contrat, la notice d'instructions est remise au
+propriétaire.
+
+Lors de la signature du contrat, l'entreprise remet au propriétaire, à titre d'information, un document décrivant
+l'organisation de son plan d'entretien.
+
+III. - Les visites, opérations et interventions effectuées en exécution du contrat d'entretien font l'objet de comptes rendus
+dans un carnet d'entretien tenu à jour. En outre, l'entreprise remet au propriétaire un rapport annuel d'activité.
+
+IV. - Un arrêté conjoint des ministres chargés de la construction et de l'industrie établit la liste des petites pièces
+mentionnées au a du 2° de l'article R. 125-2-1 et précise, en tant que de besoin, le contenu des dispositions minimales
+d'entretien ainsi que les modalités de tenue du carnet d'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°95-826 du 30 juin 1995 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 4 (V)
+	  - Arrêté du 18 novembre 2004 - art. 1 (VT)
+	  - Arrêté du 18 novembre 2004 - art. 11 (V)
+	  - Arrêté du 18 novembre 2004 - art. 2 (V)
+	  - Arrêté du 18 novembre 2004 - art. 8 (V)
+	  - Arrêté du 18 novembre 2004 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+
+###### Article R125-2-2
+
+Lorsque le contrat d'entretien comporte, outre les clauses minimales mentionnées à l'article R. 125-2-1, une clause de
+réparation et de remplacement de pièces importantes, il fait apparaître distinctement les délais d'intervention et la
+rémunération prévus pour cette prestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+
+
+###### Article R125-2-3
+
+Lorsque le propriétaire ne recourt pas à un prestataire de services mais décide d'assurer par ses propres moyens l'entretien
+de l'ascenseur, il est tenu au respect des prescriptions de l'article R. 125-2. Il tient à jour le carnet d'entretien et
+établit un rapport annuel d'activité dans les conditions fixées au III de l'article R. 125-2-1. 
+
+Le personnel qu'il emploie pour l'exercice de cette mission doit avoir reçu une formation appropriée dans les conditions
+prévues à l'article 9 du décret n° 95-826 du 30 juin 1995 fixant les prescriptions particulières de sécurité applicables aux
+travaux effectués sur les ascenseurs, ascenseurs de charges, escaliers mécaniques, trottoirs roulants et installations de
+parcage automatique de véhicules.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°95-826 du 30 juin 1995 - art. 9 (Ab)
+	  - Code de la construction et de l'habitation. - art. R125-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+
+###### Article R125-2-4
+
+Le propriétaire d'un ascenseur est tenu de faire réaliser tous les cinq ans un contrôle technique de son installation. 
+
+Le contrôle technique a pour objet : 
+
+a) De vérifier que les appareils auxquels s'applique le décret n° 2000-810 du 24 août 2000 relatif à la mise sur le marché
+des ascenseurs sont équipés des dispositifs prévus par ce décret et que ceux-ci sont en bon état ; 
+
+b) De vérifier que les appareils qui n'entrent pas dans le champ d'application du décret du 24 août 2000 susmentionné, sont
+équipés des dispositifs de sécurité prévus par les articles R. 125-1-1 et R. 125-1-2 et que ces dispositifs sont en bon état,
+ou que les mesures équivalentes ou prévues à l'article R. 125-1-3 sont effectivement mises en oeuvre ; 
+
+c) De repérer tout défaut présentant un danger pour la sécurité des personnes ou portant atteinte au bon fonctionnement de
+l'appareil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°2000-810 du 24 août 2000 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 1 (VT)
+	  - Arrêté du 18 novembre 2004 - art. 3 (VT)
+	  - Arrêté du 11 décembre 2007 - art. 3 (V)
+	  - Arrêté du 11 décembre 2007 - art. 7 (V)
+	  - Arrêté du 29 décembre 2010 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+	  - Code du travail - art. R4543-5 (VD)
+
+
+###### Article R125-2-5
+
+I. - Pour réaliser le contrôle technique prévu à l'article R. 125-2-4, le propriétaire fait appel, à son choix :
+
+a) A un contrôleur technique au sens de l'article L. 111-23 qui bénéficie d'un agrément l'habilitant à intervenir sur les
+ascenseurs ;
+
+b) A un organisme habilité dans un des Etats membres de l'Union européenne ou dans l'un des autres Etats parties àl'accord
+sur l'Espace économique européen, chargé d'effectuer l'évaluation de la conformité d'ascenseurs soumis au marquage CE et
+répondant aux critères de l'annexe VII du décret du 24 août 2000 susmentionné ;
+
+c) A une personne morale employant des salariés dont les compétences ont été certifiées par un organisme accrédité par le
+comité français d'accréditation ou par un organisme signataire de l'accord européen multilatéral pris dans le cadre de la
+coordination européenne des organismes d'accréditation ;
+
+d) A une personne physique titulaire d'une certification délivrée dans les conditions prévues au c.
+
+Pour l'application des c et d ci-dessus, la certification des compétences est délivrée en fonction de critères de
+connaissances techniques, d'expérience professionnelle et d'aptitude au contrôle technique dans le domaine des ascenseurs,
+définis par arrêté du ministre chargé de la construction.
+
+II. - La personne chargée du contrôle technique remet au propriétaire un document par lequel elle atteste sur l'honneur
+qu'elle est en situation régulière au regard des dispositions du deuxième alinéa de l'article L. 125-2-3.
+
+III. - Le propriétaire d'ascenseur tient à la disposition de la personne chargée du contrôle technique le carnet d'entretien
+et le rapport annuel prévus à l'article R. 125-2-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°2000-810 2000-08-24 annexe VII
+	  - Code de la construction et de l'habitation. - art. L111-23 (M)
+	  - Code de la construction et de l'habitation. - art. L125-2-3 (M)
+	  - Code de la construction et de l'habitation. - art. R125-2-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 2 (VT)
+	  - Arrêté du 11 décembre 2007 - art. 3 (V)
+	  - Arrêté du 11 décembre 2007 - art. 7 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+
+###### Article R125-2-6
+
+La personne qui effectue le contrôle technique établit un rapport indiquant les opérations réalisées et, le cas échéant, les
+défauts repérés. Dans le mois suivant la fin de l'intervention, elle remet ce rapport au propriétaire.
+
+Celui-ci transmet le rapport à l'entreprise ou à la personne chargée de l'entretien de l'ascenseur et, si des travaux sont
+rendus nécessaires, aux personnes chargées de leur conception et de leur exécution.
+
+Un arrêté conjoint des ministres chargés de la construction et de l'industrie précise, en tant que de besoin, la nature des
+mesures de contrôle à effectuer et les modalités d'établissement du rapport de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 4 (VT)
+
+
+##### Sous-section 3 : Droit d'information des occupants d'immeubles.
+
+###### Article R125-2-7
+
+Toute personne disposant d'un titre d'occupation dans un immeuble comportant un ascenseur a le droit de consulter, dans les
+locaux du siège social ou du domicile du propriétaire ou dans ceux de son représentant, le rapport du contrôle technique.
+
+Sur sa demande et à ses frais, elle reçoit du propriétaire la copie écrite de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R125-2 (V)
+
+
+###### Article R125-2-8
+
+En cas de méconnaissance des prescriptions relatives à la mise en place des dispositifs de sécurité et des mesures
+équivalentes ou compensatoires prévus aux articles R. 125-1-2 à R. 125-1-4, le juge des référés du tribunal de grande
+instance dans le ressort duquel est situé l'immeuble peut être saisi afin d'ordonner, éventuellement sous astreinte, la mise
+en conformité des ascenseurs.
+
+Il peut également lui être demandé d'ordonner le respect des obligations d'entretien, de contrôle technique et d'information
+prévues par les articles R. 125-2 à R. 125-2-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 1 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R125-1-2 à R125-1-4, R125-2 à R125-2-7
+
+
 ##### Section 2 : Sécurité des portes automatiques de garage.
 
 ###### Article R125-3-1
@@ -35046,10 +35665,113 @@ maxima des différentes catégories de personnels du centre scientifique et tech
 
 ###### Article R152-1
 
+I. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait pour une personne, propriétaire
+d'ascenseur :
+
+1° De ne pas mettre en place les dispositifs de sécurité prévus à l'article R. 125-1-2 ou les mesures équivalentes prévues à
+l'article R. 125-1-3, sauf dans les cas prévus à l'article R. 125-1-4 ;
+
+2° Dans les cas prévus à l'article R. 125-1-4, de ne pas faire réaliser l'expertise technique ;
+
+3° De ne pas souscrire un contrat d'entretien conformément à l'article R. 125-2-1 ou, à défaut, ne pas assurer par ses
+propres moyens l'entretien de l'ascenseur conformément aux articles R. 125-2 et R. 125-2-3 ;
+
+4° De ne pas faire procéder au contrôle technique dans les conditions prévues aux articles R. 125-2-4 et R. 125-2-5.
+
+II. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait pour une personne, prestataire de services
+chargée de l'entretien de l'installation :
+
+1° D'effectuer l'entretien de l'installation sans contrat d'entretien écrit, exception faite du cas prévu à l'article R.
+125-2-3 ;
+
+2° De conclure un contrat d'entretien ne comportant pas chacune des clauses minimales énumérées à l'article R. 125-2-1 ;
+
+3° De recourir, pour l'exécution du contrat d'entretien, à une personne n'ayant pas la qualification exigée par l'article R.
+125-2-1.
+
+III. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait pour une personne, chargée du contrôle
+technique d'un ascenseur :
+
+1° De ne pas effectuer les vérifications nécessaires prévues à l'article R. 125-2-4 ;
+
+2° De ne pas avoir la qualification exigée par l'article R. 125-2-5 ;
+
+3° De ne pas respecter les incompatibilités prévues au deuxième alinéa de l'article L. 125-2-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L125-2-3 (M)
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-4 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
+	  - Code de la construction et de l'habitation. - art. R152-2 (Ab)
+
+
+###### Article R152-2
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies à l'article R. 152-1.
+
+La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code de la construction et de l'habitation. - art. R152-1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (V)
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-4 (V)
+
+
+##### Section 2 : Immeubles de grande hauteur.
+
+###### Article R152-3
+
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
 code de l'urbanisme et L. 152-1 à L. 152-9 du présent code, toute infraction aux dispositions des articles R. 122-7, R.
 122-8, R. 122-14 à R. 122-18 et R. 122-20 est punie de la peine d'amende prévue pour les contraventions de la cinquième
-classe.
+classe. 
 
 Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-22. Dans ce cas, l'amende est appliquée
 autant de fois qu'il y a eu de journées d'occupation de l'immeuble sans autorisation.
@@ -35062,37 +35784,31 @@ autant de fois qu'il y a eu de journées d'occupation de l'immeuble sans autoris
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
-	  - Code de l'urbanisme L480-2 à L480-9
-	  - Code de la construction et de l'habitation R122-7, R122-8, R122-14 à R122-18, R122-20, R122-22
+	  - Code de l'urbanisme - art. L480-2 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. R122-14 (V)
 	  - Code de la construction et de l'habitation. - art. R122-20 (V)
 	  - Code de la construction et de l'habitation. - art. R122-22 (V)
 	  - Code de la construction et de l'habitation. - art. R122-7 (V)
-	  - Code de la construction et de l'habitation. - art. R122-8 (V)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
-	  - Code de la construction et de l'habitation. - art. R152-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R152-1 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+	  - Code de la construction et de l'habitation. - art. R152-5 (V)
 
 
-###### Article R152-2
+###### Article R152-4
 
 Toute infraction à celles des dispositions des articles R. 122-23 et R. 122-28 qui sont relatives à l'obligation pour le
 propriétaire d'assister aux visites de contrôle est punie de l'amende prévue au 5° de l'article 131-13 du code pénal. En cas
-de récidive, la peine d'amende est celle prévue pour les contravantions de 5e classe en récidive.
+de récidive, la peine d'amende est celle prévue pour les contraventions de 5e classe en récidive. 
 
 Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-29.
 
@@ -35104,34 +35820,31 @@ Est punie des mêmes peines toute infraction aux dispositions de l'article R. 12
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
+	  - Code pénal - art. 131-13 (V)
 	  - Code de la construction et de l'habitation. - art. R122-23 (V)
 	  - Code de la construction et de l'habitation. - art. R122-28 (V)
 	  - Code de la construction et de l'habitation. - art. R122-29 (V)
 
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R*152-4 (M)
-	  - Code de la construction et de l'habitation. - art. R152-4 (V)
-
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R*161-2 (V)
-	  - Code de la construction et de l'habitation. - art. R152-3 (T)
-	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-2 (M)
+	  - Code de la construction et de l'habitation. - art. R152-2 (T)
 
 
-##### Section 2 : Immeubles de grande hauteur.
-
-###### Article R152-3
+###### Article R152-5
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal et de
 l'article L. 152-10, sont punis des peines prévues à l'article R. 152-2 ceux qui mettent obstacle à l'exécution des fonctions
@@ -35140,118 +35853,21 @@ la protection civile et à ceux de la commission technique interministérielle d
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1063 1967-11-15 art. 31
-	  - Code de la construction et de l'habitation. - art. R152-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Transféré par**:
-
-	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
-
-	**Cite**:
-
-	  - Code pénal 209 à 233
-	  - Code de la construction et de l'habitation. - art. L152-10 (M)
-	  - Code de la construction et de l'habitation. - art. R152-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R*152-5 (M)
-	  - Code de la construction et de l'habitation. - art. R152-5 (V)
-
-
-##### Section 2 : Immeubles recevant du public.
-
-###### Article R*152-4
-
-Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
-code de l'urbanisme et L. 152-2 à L. 152-9 du présent code, tout constructeur, propriétaire, exploitant d'un établissement
-soumis aux dispositions du présent chapitre qui contrevient aux dispositions des articles R. 123-21, 3e alinéa, R. 123-23, R.
-123-25, R. 123-43 et R. 123-44, est puni de l'amende prévue pour les contraventions de la cinquième classe.
-
-Est puni des mêmes peines tout constructeur, propriétaire, exploitant qui ouvre un établissement au public sans les visites
-de contrôle prévues à l'article R. 123-45, 2e alinéa, sans l'autorisation d'ouverture prévue à l'article R. 123-46. Dans ces
-deux cas, l'amende est appliquée autant de fois qu'il y a de journées d'ouverture sans visite de contrôle, sans autorisation
-ou sans déclaration d'ouverture.
-
-Est puni des mêmes peines quiconque contrevient aux obligations définies à l'article R. 123-7, alinéa 2, et aux articles R.
-123-8, R. 123-9 et R. 123-11.
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
-	  - Code de l'urbanisme L480-2 à L480-9
-	  - Code de la construction et de l'habitation R123-21, R123-45, R123-46, R123-7, R123-8, R123-9, R123-11
+	  - Code de la construction et de l'habitation. - art. L152-10 (V)
+	  - Code de la construction et de l'habitation. - art. R152-2 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de la construction et de l'habitation R152-6
-	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*111-1-1 (V)
-	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R152-2 (T)
-
-
-###### Article R*152-5
-
-Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal et à
-l'article L. 480-12 du code de l'urbanisme et l'article L. 152-10 du présent code, quiconque a mis obstacle à l'exercice du
-droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni de la peine d'amende prévue pour les contraventions de la
-5è classe. En cas de récidive, la peine d'amende est celle prévue pour les contraventions de la 5è classe en récidive.
-
-Est puni des mêmes peines tout propriétaire ou exploitant qui contrevient aux dispositions des articles R. 123-49, 1er
-alinéa, et R. 123-51.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
-	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13 (M)
-	  - Code pénal 209 à 233, 131-13
-	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L152-10, R123-45, R123-48, R123-49, 1
-	  - Code de la construction et de l'habitation. - art. L152-10 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation R152-7
 	  - Code de la construction et de l'habitation. - art. R*152-7 (V)
 
 	**Cité par**:
@@ -35264,13 +35880,98 @@ alinéa, et R. 123-51.
 	  - Code de la construction et de l'habitation. - art. R152-3 (T)
 
 
-##### Section 3 : Chauffage.
+##### Section 3 : Immeubles recevant du public.
 
 ###### Article R*152-6
 
-Les infractions aux dispositions des articles R. 131-19 à R. 131-23 [*limitation de la température du chauffage*] sont punies
-de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe qui peut être
-portée au double en cas de récidive.
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
+code de l'urbanisme et L. 152-2 à L. 152-9 du présent code, tout constructeur, propriétaire, exploitant d'un établissement
+soumis aux dispositions du présent chapitre qui contrevient aux dispositions des articles R. 123-21, 3e alinéa, R. 123-23, 
+R. 123-25, 
+R. 123-43 et R. 123-44, est puni de l'amende prévue pour les contraventions de la cinquième classe. 
+
+Est puni des mêmes peines tout constructeur, propriétaire, exploitant qui ouvre un établissement au public sans les visites
+de contrôle prévues à l'article R. 123-45, 2e alinéa, sans l'autorisation d'ouverture prévue à l'article R. 123-46. Dans ces
+deux cas, l'amende est appliquée autant de fois qu'il y a de journées d'ouverture sans visite de contrôle, sans autorisation
+ou sans déclaration d'ouverture. 
+
+Est puni des mêmes peines quiconque contrevient aux obligations définies à l'article R. 123-7, alinéa 2, et aux articles R.
+123-8, R. 123-9 et R. 123-11.
+
+**Nota:**
+
+Les articles R123-23 et R123-25 du code de la construction et de l'habitation sont abrogés par l'article 4 du décret n°
+2007-1327 du 11 septembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L480-2 (V)
+	  - Code de la construction et de l'habitation. - art. L152-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-11 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*123-25 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*123-43 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-45 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-46 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-4 (M)
+
+
+###### Article R*152-7
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal et à
+l'article L. 480-12 du code de l'urbanisme et l'article L. 152-10 du présent code, quiconque a mis obstacle à l'exercice du
+droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni de la peine d'amende prévue pour les contraventions de la
+5è classe. En cas de récidive, la peine d'amende est celle prévue pour les contraventions de la 5è classe en récidive. 
+
+Est puni des mêmes peines tout propriétaire ou exploitant qui contrevient aux dispositions des articles R. 123-49, 1er
+alinéa, et R. 123-51.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L480-12 (V)
+	  - Code de la construction et de l'habitation. - art. L152-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-45 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-48 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-49 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-51 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-5 (M)
+
+
+##### Section 4 : Chauffage.
+
+###### Article R*152-8
+
+Les infractions aux dispositions des articles R. 131-19 à R. 131-23 sont punies de l'amende prévue par le 5° de l'article
+131-13 du code pénal pour les contraventions de la cinquième classe qui peut être portée au double en cas de récidive. 
 
 Est punie de la même peine l'opposition à l'exercice des fonctions des agents chargés de constater les infractions.
 
@@ -35282,25 +35983,21 @@ Est punie de la même peine l'opposition à l'exercice des fonctions des agents 
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
-	  - Code de la construction et de l'habitation R131-19 à R131-23
+	  - Code pénal - art. 131-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*131-19 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation R152-8
+	  - Code de la construction et de l'habitation R152-6
 
 
-##### Section 4 : Gardiennage ou surveillance de certains immeubles d'habitation.
+##### Section 5 : Gardiennage ou surveillance de certains immeubles d'habitation
 
-###### Article R*152-7
+###### Article R*152-9
 
 Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour le bailleur défini à l'article R. 127-1 de
 se soustraire aux obligations de surveillance et de gardiennage qui lui incombent en application des articles R. 127-1 et R.
@@ -35321,11 +36018,7 @@ modalités prévues par l'article 131-41 du code pénal.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°2002-824 du 3 mai 2002 - art. 4 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
@@ -35335,12 +36028,12 @@ modalités prévues par l'article 131-41 du code pénal.
 	  - Code pénal - art. 131-41 (V)
 	  - Code de la construction et de l'habitation R127-1, R127-2, R127-4
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation R152-9
+	  - Code de la construction et de l'habitation R152-7
 
 
-###### Article R*152-8
+###### Article R*152-10
 
 Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour le bailleur défini à l'article R. 127-1 de
 se soustraire aux obligations qui lui incombent en application de l'article R. 127-5. Le contrevenant encourt autant
@@ -35362,10 +36055,6 @@ modalités prévues par l'article 131-41 du code pénal.
 
 	**Créé par**:
 
-	  - Décret n°2002-824 du 3 mai 2002 - art. 2 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
-
-	**Transféré par**:
-
 	  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 	**Cite**:
@@ -35374,9 +36063,9 @@ modalités prévues par l'article 131-41 du code pénal.
 	  - Code pénal - art. 131-41 (V)
 	  - Code de la construction et de l'habitation R127-5, R127-7
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation R152-10
+	  - Code de la construction et de l'habitation R152-8
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer.
@@ -35408,8 +36097,7 @@ départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion.
 ###### Article R*161-2
 
 Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon à l'exception des articles
-R. 111-24 à R. 111-28 [*responsabilité des constructeurs d'ouvrage*] et R. 131-19 à R. 131-23 [*limitation de la température
-de chauffage*].
+R. 111-24 à R. 111-28, R. 125-1 à R. 125-2-8, R. 131-19 à R. 131-23, R. 152-1 et R. 152-2.
 
 **Liens relatifs à cet article**
 
@@ -35417,9 +36105,15 @@ de chauffage*].
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2004-964 du 9 septembre 2004 - art. 3 () JORF 10 septembre 2004
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R111-24 à R111-28, R131-19 à R131-23
+	  - Code de la construction et de l'habitation R111-24 à R111-28, R125-1 à R125-2-8, R131-19 à R131-23, R152-1, R152-2
+	  - Code de la construction et de l'habitation. - art. R152-1 (M)
+	  - Code de la construction et de l'habitation. - art. R152-2 (M)
 
 
 ## Livre II : Statut des constructeurs.
