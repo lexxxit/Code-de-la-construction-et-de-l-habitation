@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-30
 
 # Partie législative
 
@@ -29278,7 +29278,8 @@ subventions.
 
 ###### Article R*313-25
 
-Les sommes recueillies au titre de la participation des employeurs par les organismes collecteurs comprennent :
+Les sommes recueillies au titre de la participation des employeurs par les organismes collecteurs énnumérés au b et c du 2 de
+l'article R313-9 comprennent :
 
 a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
 
@@ -29296,7 +29297,7 @@ e) Les produits financiers nets résultant de chacun des placements des sommes e
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2. a, b) ou à
 l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes.
 
-Le montant des sommes en attente d'un emploi conforme à l'article R. 313-31 ne peut dépasser une fraction des sommes
+Le montant des sommes em attente d'un emploi conforme à l'article R. 313-31 ne peut dépasser une fraction des sommes
 recueillies au titre de l'exercice précédent, définie par arrêté du ministre chargé de la construction et de l'habitation et
 du ministre chargé de l'industrie et du commerce.
 
@@ -29306,14 +29307,18 @@ du ministre chargé de l'industrie et du commerce.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
+	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
+
 	**Modifié par**:
 
-	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
-	  - Décret n°88-313 du 28 mars 1988 - art. 4 () JORF 3 avril 1988
+	  - Décret n°90-100 du 26 janvier 1990 - art. 1 () JORF 30 janvier 1990
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation, R313-8, R313-9, R313-10, R313-11, R313-36 al. 2, R313-31, R313-9 2 A B
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R313-9, R313-8 à R313-11, R313-31
 
 
 ###### Article R313-21
@@ -29442,6 +29447,44 @@ personnes désignées par l'article L. 313-2.
 
 
 ##### Sous-section 2 : Dispositions propres aux associations à caractère professionnel ou interprofessionnel.
+
+###### Article R*313-25-1
+
+Les sommes recueillies au titre de la participation des employeurs à l'effort de construction par les organismes collecteurs
+mentionnés à l'article R. 313-9 (2°, a) comprennent :
+
+a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
+
+b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence nationale pour la participation des
+employeurs à l'effort de construction ;
+
+c) Les remboursements des prêts consentis à l'aide de la participation des employeurs ;
+
+d) La part du résultat non affectée au réserves prévues aux articles R. 313-31-1 et R. 313-33-3 ou au report à nouveau
+débiteur.
+
+Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b) ou à
+l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 2 () JORF 30 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-8 à R313-11, R313-31-1, R313-33-3
+	  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
+
 
 ###### Article R*313-26
 
@@ -29729,6 +29772,56 @@ organismes collecteurs. "
 	  - Code général des impôts, CGI. - art. 207 (V)
 
 
+###### Article R*313-31-1
+
+En dehors des cas prévus à l'article R. 313-31, les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) ne peuvent
+attribuer, sur leurs ressources propres, à leurs ressortissants des prêts destinés à faciliter leur logement que si la
+différence entre l'encours de cette catégorie de prêts et les emprunts contractés pour leur financement constatée à la fin du
+dernier exercice n'excède pas cette même différence telle que constatée à la fin de l'exercice précédent, majorée :
+
+1° D'une fraction, déterminée par décret, de l'accroissement au cours de l'exercice précédent de la différence entre
+l'encours total de prêts géré et les emprunts contractés pour leur financement ;
+
+2° Le cas échéant, des versements autres que ceux prévus à l'article L. 313-1 effectués par les employeurs au cours du même
+exercice pour le financement de ces prêts ;
+
+3° Le cas échéant, de l'accroissement de la réserve destinée au financement de ces prêts.
+
+Lorsque l'application des règles mentionnées au 1° ci-dessus détermine un accroissement de l'encours des prêts mentionnés au
+premier alinéa du présent article supérieur au total des remboursements perçus au cours de l'exercice écoulé pour la même
+catégorie de prêts, la différence peut être prélevée sur les sommes recueillies au titre de la participation.
+
+La gestion des prêts mentionnés ci-dessus peut être confiée à un établissement de crédit mandataire, sous réserve du respect
+de conditions et de clauses types fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 7
+
+	**Créé par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 3 () JORF 30 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. L313-1
+
+
 ###### Article R*313-32
 
 Sont déterminées, par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des
@@ -29777,6 +29870,143 @@ ont collectés de la participation des employeurs.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R313-9 2 A, L313-10 L313-12
+
+
+###### Article R313-33-1
+
+Les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) ne peuvent utiliser leurs ressources qu'à la couverture de
+leurs charges et aux opérations prévues aux articles R. 313-31, R. 313-31-1, R. 313-33, R. 313-33-3, R. 313-36 et R. 313-37.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-1269 1975-12-27 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
+	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
+
+	**Créé par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 4 () JORF 30 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 5 (Ab)
+	  - Décret n°90-101 du 26 janvier 1990 - art. 7 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. R313-33-3
+
+
+###### Article R313-33-2
+
+Le résultat de l'exercice clos des organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) est affecté dans les
+conditions suivantes :
+
+" 1° Le bénéfice est affecté en priorité au compte de report à nouveau dans la limite du solde débiteur de ce compte.
+
+" Lorsque le surplus éventuel est inférieur au total du prélèvement pour frais généraux visé à l'article R. 313-33 et des
+plus-values autres que les plus-values sur valeurs mobilières de placement, ce surplus est affecté intégralement à une
+réserve destinée aux activités réglementées. Lorsque la différence entre le surplus éventuel et le total ci-dessus est
+positive, une fraction, définie par décret, de la différence entre ces deux sommes peut être affectée aux réserves destinées
+aux activités définies aux articles R. 313-31-1 et R. 313-33-3, le solde du résultat étant affecté à une réserve destinée aux
+activités réglementées.
+
+" 2° La perte est affectée en report à nouveau débiteur ou, sur autorisation du ministre chargé de la construction et de
+l'habitation, en diminution des comptes de réserves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-1269 1975-12-27 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
+	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
+
+	**Créé par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 4 () JORF 30 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-101 du 26 janvier 1990 - art. 3 (V)
+	  - Décret n°90-101 du 26 janvier 1990 - art. 7 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-9, R313-33, R313-33-3, R313-31-1
+	  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
+
+
+###### Article R313-33-3
+
+Outre les cas prévus à l'article R. 313-31, les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) ne peuvent :
+
+1° Souscrire d'autres titres que ceux de sociétés commerciales dont les dispositions statutaires et les modalités
+particulières de contrôle et de financement respectent les règles fixées par les statuts prévus par l'article R. 313-35-5 ;
+
+2° Accorder des prêts qu'à ces mêmes sociétés et pour une durée au moins égale à un an.
+
+Le total des titres détenus et de l'encours des prêts ci-dessus ne peut excéder le montant de la réserve constituée à cette
+fin.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-1269 1975-12-27 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
+	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
+
+	**Créé par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 4 () JORF 30 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-100 du 26 janvier 1990 - art. 7 (Ab)
+	  - Décret n°90-101 du 26 janvier 1990 - art. 7 (Ab)
+	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (VD)
+	  - Décret n°92-599 du 29 juin 1992 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-25-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-33-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-33-2 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. R313-35-5
 
 
 ##### Sous-section 3 : Dispositions particulières à certains organismes collecteurs.
