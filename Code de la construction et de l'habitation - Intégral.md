@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -8923,16 +8923,34 @@ sont versées aux locataires ou aux propriétaires accédants, sous condition de
 
 ###### Article L301-3
 
-Les aides de l'Etat en faveur de l'habitat sont réparties par la loi de finances entre les actions d'intérêt national et les
-interventions locales.
+L'attribution des aides publiques en faveur de la construction, de l'acquisition, de la réhabilitation et de la démolition
+des logements locatifs sociaux, de celles en faveur de la rénovation de l'habitat privé, de celles en faveur de la location-
+accession et de celles destinées à la création de places d'hébergement ainsi que, dans les départements et régions d'outre-
+mer, des aides directes en faveur de l'accession sociale à la propriété, peut être déléguée aux collectivités territoriales
+et à leurs groupements dans les conditions prévues au présent chapitre.
 
-Dans chaque région, le représentant de l'Etat répartit les crédits entre les départements en prenant en considération les
-priorités régionales mentionnées à l'article L. 301-5 et après consultation du conseil régional.
+La dotation régionale pour le financement des aides, dont l'attribution est susceptible d'être déléguée, est notifiée au
+représentant de l'Etat dans la région. Son montant est déterminé en fonction, notamment, des données sociales et
+démographiques, de l'état du patrimoine de logements ainsi que de la situation du marché locatif.
 
-Dans chaque département et après avis du conseil général, le représentant de l'Etat répartit les crédits affectés au
-département en tenant compte des priorités définies dans les programmes locaux de l'habitat élaborés par les communes ou
-leurs groupements et en veillant au respect des objectifs nationaux, notamment pour le logement des personnes mal logées ou
-défavorisées.
+Le représentant de l'Etat dans la région, après avis du comité régional de l'habitat ou, dans les régions d'outre-mer, du
+conseil départemental de l'habitat, répartit le montant des crédits publics qui lui sont notifiés entre les communautés
+urbaines, les communautés d'agglomération, les syndicats d'agglomération nouvelle et les communautés de communes et, pour le
+reste du territoire, entre les départements. La participation à cette répartition est subordonnée à la conclusion d'une
+convention avec l'Etat définie aux articles L. 301-5-1 ou L. 301-5-2.
+
+Lorsqu'un département n'a pas conclu de convention avec l'Etat, le représentant de l'Etat dans la région détermine le montant
+des crédits directement affectés, selon le cas, par le représentant de l'Etat dans le département ou l'Agence nationale pour
+l'amélioration de l'habitat, à des opérations situées en dehors du périmètre des établissements publics de coopération
+intercommunale ayant conclu la convention prévue à l'article L. 301-5-1. L'affectation de ces crédits tient compte du plan
+départemental d'action pour le logement des personnes défavorisées et des programmes locaux de l'habitat.
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles
+L. 301-5-1 et L. 301-5-2, son président prononce l'agrément des opérations de logement social correspondant aux domaines
+mentionnés au premier alinéa du présent article.
+
+Le Gouvernement présente, au moment du dépôt du projet de loi de finances, le tableau des dotations notifiées aux préfets de
+région et de leur répartition intrarégionale effectuée par les préfets.
 
 **Liens relatifs à cet article**
 
@@ -8942,11 +8960,11 @@ défavorisées.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -8961,10 +8979,6 @@ défavorisées.
 	  - Code de la construction et de l'habitation. - art. R362-2 (V)
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code général des impôts, CGI. - art. 31 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L301-5 (M)
 
 
 ###### Article L301-3-1
@@ -9037,6 +9051,334 @@ intercommunale compétents en matière de logement.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+
+
+###### Article L301-5-1
+
+Les établissements publics de coopération intercommunale mentionnés à l'article L. 301-3 et disposant d'un programme local de
+l'habitat peuvent, pour sa mise en oeuvre, demander à conclure une convention avec l'Etat, par laquelle celui-ci leur délègue
+la compétence pour décider de l'attribution des aides prévues au même article et procéder à leur notification aux
+bénéficiaires.
+
+Cette convention est conclue pour une durée de six ans renouvelable. Elle fixe, d'une part, dans la limite des dotations
+ouvertes en loi de finances, le montant des droits à engagement alloués à l'établissement public de coopération
+intercommunale et, d'autre part, le montant des crédits que celui-ci affecte sur son propre budget à la réalisation des
+objectifs de la convention. Elle précise annuellement, au sein des droits à engagement alloués, les parts affectées au
+logement social ou à l'hébergement d'une part, à l'habitat privé d'autre part.
+
+L'établissement public de coopération intercommunale attribue les aides au logement social et à l'hébergement dans la limite
+de la part correspondante des droits à engagement. La convention définit, en fonction de la nature et de la durée
+prévisionnelle de réalisation des opérations à programmer, l'échéancier prévisionnel et les modalités de versement des
+crédits correspondants à l'établissement public de coopération intercommunale. La convention précise les modalités du retrait
+éventuel des droits à engagement, susceptibles de ne pas être utilisés, ainsi que les conditions de reversement des crédits
+non consommés. Le montant des crédits de paiement est fixé chaque année en fonction de l'échéancier de versement des crédits,
+des engagements constatés les années précédentes et des engagements prévisionnels de l'année considérée.
+
+Les décisions d'attribution, par le président de l'établissement public de coopération intercommunale, des aides en faveur de
+l'habitat privé sont prises par délégation de l'Agence nationale pour l'amélioration de l'habitat après avis d'une commission
+locale d'amélioration de l'habitat, dans la limite des droits à engagement correspondants. Elles donnent lieu à paiement par
+l'Agence nationale pour l'amélioration de l'habitat, dans des conditions fixées par la convention prévue à l'article L.
+321-1-1. Toutefois, lorsque l'établissement public de coopération intercommunale demande à assurer le paiement direct des
+aides à leurs bénéficiaires, la convention précitée en prévoit les conditions et notamment les modalités de versement des
+crédits par l'agence à l'établissement public de coopération intercommunale.
+
+La convention fixe, en accord avec la Caisse des dépôts et consignations, l'enveloppe de prêts que cet établissement peut
+affecter aux opérations définies dans la convention à partir des fonds d'épargne dont il assure la gestion en application de
+l'article L. 518-1 du code monétaire et financier.
+
+Dans les limites fixées par décret en Conseil d'Etat, la convention peut adapter les conditions d'octroi des aides de l'Etat,
+selon les secteurs géographiques et en raison des particularités locales et démographiques et de la situation du marché du
+logement.
+
+La convention prévoit les conditions dans lesquelles les conventions mentionnées à l'article L. 353-2 ainsi que les décisions
+favorables mentionnées au 3° de l'article L. 351-2 sont signées par le président de l'établissement public de coopération
+intercommunale au nom de l'Etat.
+
+Elle peut adapter, pour des secteurs géographiques déterminés, dans des limites fixées par décret en Conseil d'Etat, les
+plafonds de ressources mentionnés à l'article L. 441-1 pour l'attribution des logements locatifs sociaux.
+
+Elle définit les conditions dans lesquelles une évaluation sera effectuée au terme de son application.
+
+La convention précise également, le cas échéant, les modalités de mise en oeuvre des dispositions de la section 2 du chapitre
+II du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 7 (V)
+	  - Arrêté du 10 juin 1996 - art. 2 (VT)
+	  - Arrêté du 29 avril 1997 - art. 10-1 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 11 (VD)
+	  - Loi n°2004-809 du 13 août 2004 - art. 112 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 74 (M)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 10 (VD)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 12 (VD)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 13 (V)
+	  - Décret n°2008-187 du 26 février 2008 - art. 1 (Ab)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 149 (V)
+	  - Arrêté du 17 octobre 2011 - art. 2 (V)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Loi n°2015-990 du 6 août 2015 - art. 72 (V)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 3 (V)
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 2
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 123 (V)
+	  - Code de l'urbanisme - art. L210-1 (V)
+	  - Code de l'énergie - art. D111-55 (V)
+	  - Code de l'énergie - art. D112-2 (V)
+	  - Code de l'énergie - art. D113-3 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-3 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-3 (V)
+	  - Code de la construction et de l'habitation. - art. L302-13 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (V)
+	  - Code de la construction et de l'habitation. - art. L302-8 (V)
+	  - Code de la construction et de l'habitation. - art. L303-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+	  - Code de la construction et de l'habitation. - art. L445-1 (V)
+	  - Code de la construction et de l'habitation. - art. L445-3 (M)
+	  - Code de la construction et de l'habitation. - art. R*321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R*327-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
+	  - Code de la construction et de l'habitation. - art. R321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R323-12-1 (V)
+	  - Code de la construction et de l'habitation. - art. R323-22 (V)
+	  - Code de la construction et de l'habitation. - art. R323-7-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-106 (V)
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-15-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-3 (V)
+	  - Code de la construction et de l'habitation. - art. R331-87 (V)
+	  - Code de la construction et de l'habitation. - art. R331-93 (V)
+	  - Code de la construction et de l'habitation. - art. R353-102 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-159 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-162 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-20 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-21 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-5 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-72 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-92 (VD)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R362-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R372-12 (V)
+	  - Code de la construction et de l'habitation. - art. R372-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. R381-7 (V)
+	  - Code de la construction et de l'habitation. - art. R381-8 (V)
+	  - Code de la construction et de l'habitation. - art. R441-1-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+
+
+###### Article L301-5-2
+
+Le département peut demander à conclure, pour une durée de six ans renouvelable, une convention avec l'Etat par laquelle
+celui-ci lui délègue la compétence pour décider de l'attribution des aides prévues à l'article L. 301-3 et procéder à leur
+notification aux bénéficiaires.
+
+Hors du périmètre des établissements publics de coopération intercommunale ayant conclu une convention en application de
+l'article L. 301-5-1, la convention conclue par le département définit les conditions de mise en place d'un dispositif
+d'observation de l'habitat et précise, en application du plan départemental d'action pour le logement des personnes
+défavorisées et en tenant compte des programmes locaux de l'habitat et des actions de rénovation urbaine au sens de la loi n°
+2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, les objectifs poursuivis
+et les actions à mettre en oeuvre en matière de réalisation, de réhabilitation et démolition de logements locatifs sociaux et
+de places d'hébergement destinées à accueillir les personnes et les familles visées aux articles 1er et 4 de la loi n° 90-449
+du 31 mai 1990 visant à la mise en oeuvre du droit au logement, ainsi qu'en matière de rénovation de l'habitat privé,
+notamment dans le cadre d'opérations programmées d'amélioration de l'habitat. Elle définit les objectifs en matière de lutte
+contre l'habitat indigne et arrête, le cas échéant, les actions nécessaires à sa résorption. Ces objectifs et actions sont
+détaillés par zones géographiques.
+
+La convention fixe, d'une part, dans la limite des dotations ouvertes en loi de finances, le montant des droits à engagement
+alloués au département et, d'autre part, le montant des crédits que celui-ci affecte sur son propre budget à la réalisation
+des objectifs de la convention. Elle précise annuellement, au sein des droits à engagement alloués, les parts affectées au
+logement social ou à l'hébergement d'une part, à l'habitat privé d'autre part.
+
+Le département attribue les aides au logement social et à l'hébergement dans la limite de la part correspondante des droits à
+engagement. La convention définit, en fonction de la nature et de la durée prévisionnelle de réalisation des opérations à
+programmer, l'échéancier prévisionnel et les modalités de versement des crédits correspondants au département. La convention
+précise les modalités du retrait éventuel des droits à engagement susceptibles de ne pas être utilisés, ainsi que les
+conditions de reversement des crédits non consommés. Le montant des crédits de paiement est fixé chaque année en fonction de
+l'échéancier de versement des crédits, des engagements constatés les années précédentes et des engagements prévisionnels de
+l'année considérée.
+
+Les décisions d'attribution, par le président du conseil général, des aides en faveur de l'habitat privé sont prises par
+délégation de l'Agence nationale pour l'amélioration de l'habitat après avis d'une commission locale d'amélioration de
+l'habitat, dans la limite des droits à engagement correspondants. Elles donnent lieu à paiement par l'Agence nationale pour
+l'amélioration de l'habitat, dans des conditions fixées par la convention prévue à l'article L. 321-1-1. Toutefois, lorsque
+le département demande à assurer le paiement direct des aides à leurs bénéficiaires, la convention précitée en prévoit les
+conditions et notamment les modalités de versement des crédits par l'agence au département.
+
+La convention fixe, en accord avec la Caisse des dépôts et consignations, l'enveloppe de prêts que cet établissement peut
+affecter aux opérations définies dans la convention à partir des fonds d'épargne dont il assure la gestion en application de
+l'article  L. 518-1 du code monétaire et financier.
+
+Dans les limites fixées par décret en Conseil d'Etat, la convention peut adapter les conditions d'octroi des aides de l'Etat,
+selon les secteurs géographiques et en raison des particularités locales, sociales et démographiques et de la situation du
+marché du logement.
+
+La convention prévoit les conditions dans lesquelles les conventions mentionnées à l'article L. 353-2 ainsi que les décisions
+favorables mentionnées au 3° de l'article L. 351-2 sont signées par le président du conseil général au nom de l'Etat.
+
+Elle peut adapter, pour des secteurs géographiques déterminés, dans des limites fixées par décret en Conseil d'Etat, les
+plafonds de ressources mentionnés à l'article L. 441-1 pour l'attribution des logements locatifs sociaux.
+
+Elle définit les conditions dans lesquelles une évaluation sera effectuée au terme de son application.
+
+Lorsqu'un établissement public de coopération intercommunale signe avec l'Etat une convention régie par l'article L. 301-5-1,
+alors qu'une convention régie par le présent article est en cours d'exécution, cette dernière fait l'objet d'un avenant pour
+en retrancher, à compter du 1er janvier de l'année suivante, les dispositions concernant l'établissement public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 1, art. 4
+	  - Loi n°2003-710 2003-08-01
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 1996 - art. 2 (VT)
+	  - Arrêté du 29 avril 1997 - art. 10-1 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 11 (VT)
+	  - Loi n°2004-809 du 13 août 2004 - art. 74 (M)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 123 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. L301-3 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-3 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-4 (V)
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (M)
+	  - Code de la construction et de l'habitation. - art. L445-1 (V)
+	  - Code de la construction et de l'habitation. - art. L445-3 (V)
+	  - Code de la construction et de l'habitation. - art. L615-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R*321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*327-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R323-12-1 (V)
+	  - Code de la construction et de l'habitation. - art. R323-22 (V)
+	  - Code de la construction et de l'habitation. - art. R323-7-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-15-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-3 (V)
+	  - Code de la construction et de l'habitation. - art. R353-102 (V)
+	  - Code de la construction et de l'habitation. - art. R353-159 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-162 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-20 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-21 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-5 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-72 (V)
+	  - Code de la construction et de l'habitation. - art. R353-92 (VD)
+	  - Code de la construction et de l'habitation. - art. R372-12 (V)
+	  - Code de la construction et de l'habitation. - art. R372-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. R381-7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L301-5-3
+
+Les dispositions de l'article L. 301-5-1, à l'exception de son septième alinéa, et celles de l'article L. 301-5-2, à
+l'exception de son huitième alinéa, sont applicables dans les départements et régions d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+
+
+###### Article L301-5-4
+
+En Corse, la délégation de compétence prévue à l'article L. 301-5-2 s'exerce au profit de la collectivité territoriale de
+Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 
 
 ###### Article L301-6
@@ -9239,13 +9581,18 @@ local de l'habitat et son adaptation à l'évolution de la situation sociale ou 
 
 ###### Article L302-4
 
-Après l'adoption d'un programme local de l'habitat, une convention entre l'Etat et l'établissement public de coopération
-intercommunale fixe, si cet établissement est doté de la compétence de politique du logement, l'aide financière que, dans la
-limite des dotations ouvertes par les lois de finances, l'Etat apportera en matière d'habitat et d'action foncière, notamment
-pour permettre, dans les communes visées à l'article L. 302-5, l'accroissement net minimum du nombre de logements locatifs
-sociaux prévu au dernier alinéa de l'article L. 302-8. Cette convention est conclue pour une période de trois ans. A l'issue
-de cette période, une nouvelle convention, d'une durée maximale de trois ans, peut être conclue dans les mêmes conditions,
-pour la durée restant à courir du programme local de l'habitat.
+Le programme local de l'habitat peut être modifié par l'organe délibérant de l'établissement public de coopération
+intercommunale à condition qu'il ne soit pas porté atteinte à son économie générale.
+
+Lorsque le périmètre de l'établissement public de coopération intercommunale est étendu à une ou plusieurs communes, le
+programme local de l'habitat peut faire l'objet d'une modification, si les communes concernées représentent moins du
+cinquième de la population totale de l'établissement au terme de cette extension de périmètre.
+
+Le projet de modification est transmis pour avis au représentant de l'Etat dans le département ainsi qu'aux personnes morales
+associées en application de l'article L. 302-2. Leur avis est réputé donné s'il n'est pas rendu dans un délai de deux mois à
+compter de la transmission du projet.
+
+Le projet de modification est approuvé par l'organe délibérant de l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -9253,9 +9600,13 @@ pour la durée restant à courir du programme local de l'habitat.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 56 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -9266,8 +9617,7 @@ pour la durée restant à courir du programme local de l'habitat.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+	  - Code de la construction et de l'habitation. - art. L302-2 (M)
 
 
 ##### Section 2 : Dispositions particulières à certaines agglomérations.
@@ -9744,52 +10094,6 @@ celles nécessitées par la situation particulière des départements d'outre-me
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
 
 
-##### Section 3 : Plan départemental de l'habitat.
-
-###### Article L302-10
-
-Toute commune comprenant sur son territoire tout ou partie d'une zone urbaine sensible définie au 3 de l'article 42 de la loi
-n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire doit être dotée d'un programme
-local de l'habitat dans un délai de deux ans.
-
-Ce délai court soit à compter du 1er janvier 1997 si la zone urbaine sensible est inscrite à cette date sur la liste prévue
-au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, soit à compter de la date de l'inscription de la zone
-urbaine sensible sur cette liste lorsque celle-ci est postérieure.
-
-Le délai de deux ans prévu au premier alinéa est porté à trois ans lorsque l'établissement du programme local de l'habitat
-relève d'un établissement public de coopération intercommunale en application de l'article L. 302-1.
-
-Lorsqu'au terme des délais ci-dessus mentionnés aucun programme local de l'habitat n'a été adopté, le préfet se substitue à
-la commune concernée ou à l'établissement public de coopération intercommunale. Les dépenses afférentes à son élaboration
-sont obligatoires pour la commune au sens de l'article L. 2321-1 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - décret 78-621 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code général des collectivités territoriales - art. L2321-1 (V)
-	  - Code de la construction et de l'habitation. - art. L302-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°96-987 du 14 novembre 1996 - art. 30 () JORF 15 novembre 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 81
-	  - Code de l'action sociale et des familles - art. L149-1 (V)
-
-
 #### Chapitre III : Opérations programmées d'amélioration de l'habitat
 
 ###### Article L303-1
@@ -9823,6 +10127,11 @@ proximité.
 Avant sa signature, le projet de convention est mis à disposition du public pendant un mois.
 
 Après sa signature, la convention peut être consultée en mairie pendant sa durée de validité.
+
+Lorsqu'un département ou un établissement public de coopération intercommunale a conclu une convention avec l'Etat en
+application des articles L. 301-5-1 ou L. 301-5-2, son représentant signe en lieu et place du représentant de l'Etat et de
+l'Agence nationale pour l'amélioration de l'habitat, dans les conditions prévues dans les conventions susmentionnées, les
+conventions prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -9863,53 +10172,18 @@ Après sa signature, la convention peut être consultée en mairie pendant sa du
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 140 () JORF 14 décembre 2000
-
-
-### Titre préliminaire : Politique d'aide au logement.
-
-#### Chapitre II : Programme local de l'habitat.
-
-##### Section 1 : Dispositions générales.
-
-###### Article L302-4-1
-
-Si dans un délai de deux ans à compter de la publication de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville,
-un établissement public de coopération intercommunale n'a pas été constitué ou saisi pour élaborer un programme local de
-l'habitat, une commune peut, en coopération avec le représentant de l'Etat, élaborer seule un tel programme dans les
-conditions définies aux articles L. 302-1 à L. 302-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°91-662 1991-07-13
-	  - Code de la construction et de l'habitation L302-1 à L302-3
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
 	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Abrogé par**:
-
 	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
-	**Cité par**:
+	**Cite**:
 
-	  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. R302-13-1 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
@@ -10454,14 +10728,19 @@ l'engagement financier de l'Etat lié à sa contribution financière au fonds et
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Loi - art. 126 () JORF 31 décembre 1992
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 25 août 2003
 	  - TXT_SOURCE: Arrêté du 25 août 2003 - art. 1 (V)
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 266
 
 
 ###### Article L312-2
@@ -10473,15 +10752,23 @@ obligatoirement assuré par un commissaire du Gouvernement.
 
 Les sociétés de crédit immobilier sont, en outre, soumises au contrôle de la commission bancaire.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°84-46 1984-01-24 art. 94 VII JORF 25 janvier 1984
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10490,17 +10777,60 @@ Les sociétés de crédit immobilier sont, en outre, soumises au contrôle de la
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 270 al. 1, al. 3
+	  - Code de l'urbanisme 270 AL. 1 ET 3 (LOI 63-156 1963-02-23 ART. 46)
 
 
 ##### Section 2 : Action des collectivités territoriales.
+
+###### Article L312-2-1
+
+En complément ou indépendamment des aides de l'Etat, les collectivités territoriales et les établissements publics de
+coopération intercommunale peuvent apporter des aides destinées à la réalisation de logements locatifs sociaux, à la
+réhabilitation ou à la démolition de logements locatifs ainsi que de places d'hébergement, ainsi qu'aux opérations de
+rénovation urbaine incluant notamment la gestion urbaine et les interventions sur les copropriétés dégradées. Ils peuvent
+également apporter, sous condition de ressources, des aides aux propriétaires occupants pour l'amélioration de l'habitat et
+aux personnes accédant à la propriété ainsi que des compléments aux aides mentionnées au 5° de l'article L. 301-2. Ils
+peuvent, à cet effet, conclure des conventions avec l'Agence nationale pour l'amélioration de l'habitat, par lesquelles ils
+lui confient, en leur nom et pour leur compte, la gestion des aides destinées aux propriétaires bailleurs et occupants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Code de la construction et de l'habitation. - art. L321-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R321-2 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R321-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. R321-7 (V)
+	  - Code général des impôts, CGI. - art. 244 quater J (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-2 (M)
+
 
 ###### Article L312-3
 
 Les départements, les communes et leurs groupements peuvent soit garantir les emprunts contractés par des sociétés ou
 organismes ayant pour objet la construction d'immeubles à usage principal d'habitation n'excédant pas les normes de surface
 et de prix exigées pour l'octroi des prêts prévus par l'article L. 351-2 (1° et 3°), soit exceptionnellement leur allouer des
-avances.
+avances. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment les conditions d'octroi des
 garanties ou avances prévues à l'alinéa précédent, ainsi que les règles du contrôle exercé sur les sociétés ou organismes
@@ -10514,12 +10844,11 @@ bénéficiaires.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 art. 3 par. ii
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 juin 1983
-	  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
 
@@ -10533,7 +10862,7 @@ bénéficiaires.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L351-2 1°, 3°
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
 
 
 ###### Article L312-4
@@ -10547,6 +10876,10 @@ dispositions réglementaires du présent code.
 La part du département ou des départements, de la commune ou des communes intéressées ne peut dépasser au total 65 p. 100 du
 capital social.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10556,6 +10889,14 @@ capital social.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10581,15 +10922,16 @@ construction, d'acquisition ou d'amélioration de logements réalisées avec le 
 
 	**Cite**:
 
-	  - Loi n°82-213 1982-03-02 ART. 49 AL. 1, ART. 6 PAR. I
+	  - Loi n°82-213 du 2 mars 1982 - art. 49 (Ab)
+	  - Loi n°82-213 du 2 mars 1982 - art. 6 (Ab)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10599,7 +10941,8 @@ construction, d'acquisition ou d'amélioration de logements réalisées avec le 
 ###### Article L312-5
 
 Les règles générales applicables à la participation des communes à des entreprises privées, prévues notamment par les
-articles L. 381-1 à L. 381-6 du code des communes sont applicables à la participation des départements aux mêmes entreprises.
+articles L. 381-1 à L. 381-6 du code des communes sont applicables à la participation des départements aux mêmes
+entreprises. 
 
 Un décret en Conseil d'Etat fixe, en tant de besoin, les modalités d'application de l'article L. 312-4 et de l'alinéa
 précédent.
@@ -10608,31 +10951,28 @@ précédent.
 
 	**Anciens textes**:
 
-	  - Décret n°53-982 1953-09-30 ART. 4 AL. 3, AL. 4
+	  - Décret n°53-982 1953-09-30 art. 4 al. 3, al. 4
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°1871-08-10 art. 46
-	  - Code de la construction et de l'habitation. - art. L312-4 (M)
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
-	  - Loi n°83-440 du 2 juin 1983 - art. 4 () JORF 3 JUIN 1983
-	  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 JUIN 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-4 (V)
 
 
 ###### Article L312-5-2
 
-La région peut [*financer*] :
+La région peut :
 
 a) Compléter l'aide de l'Etat par des subventions, des prêts, des bonifications d'intérêts ou des garanties d'emprunt ;
 
@@ -10651,11 +10991,11 @@ l'habitat, l'amélioration des quartiers et des logements existants, l'équipeme
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10680,24 +11020,24 @@ L'article L. 312-3 est applicable aux chambres de commerce et d'industrie.
 
 	**Anciens textes**:
 
-	  - Décret n°53-849 1953-09-18 ART. 1
+	  - Décret n°53-849 1953-09-18 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
-
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L312-3 (M)
-	  - Loi n°1898-04-09 ART. 22
+	  - Loi n°1898-04-09 art. 22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 #### Chapitre III : Participation des employeurs à l'effort de construction.
@@ -13380,6 +13720,64 @@ d'Etat détermine les conditions d'application du présent article.
 	  - Code de la construction et de l'habitation. - art. L301-1 (M)
 
 
+###### Article L321-1-1
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu une convention avec l'Etat en
+application des articles L. 301-5-1 ou L. 301-5-2, il conclut également une convention avec l'Agence nationale pour
+l'amélioration de l'habitat. Cette convention détermine les conditions de gestion par l'agence, ou, à leur demande, par
+l'établissement public de coopération intercommunale ou le département, des aides destinées aux propriétaires privés. Elle
+peut prévoir la gestion par l'agence, au nom et pour le compte de l'établissement public ou du département, des aides à
+l'habitat privé qu'ils apportent sur leur budget propre. Elle peut, dans des limites fixées par décret en Conseil d'Etat,
+arrêter les règles particulières d'octroi des aides destinées aux propriétaires bailleurs et occupants, en fonction de
+critères économiques, sociaux ou géographiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Arrêté du 1er août 2014 - art. Annexe (V)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Décret n°2017-839 du 5 mai 2017 - art.
+	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L321-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-10 (V)
+	  - Code de la construction et de l'habitation. - art. R321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R321-14 (V)
+	  - Code de la construction et de l'habitation. - art. R321-18 (V)
+	  - Code de la construction et de l'habitation. - art. R321-19 (V)
+	  - Code de la construction et de l'habitation. - art. R321-2 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21-1 (V)
+	  - Code de la construction et de l'habitation. - art. R321-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. R321-30 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-30-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-31 (V)
+	  - Code de la construction et de l'habitation. - art. R321-5 (V)
+	  - Code de la construction et de l'habitation. - art. R321-6-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R321-7 (V)
+
+
 ###### Article L321-2
 
 L'Agence nationale pour l'amélioration de l'habitat peut prononcer des sanctions à l'encontre des bénéficiaires des aides ou
@@ -15662,26 +16060,22 @@ La fusion de ces conseils est réalisée dans un délai de quatre ans à compter
 	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 13 () JORF 9 juin 2005
 
 
-#### Chapitre IV : Conseil départemental de l'habitat.
+#### Chapitre IV : Comité régional de l'habitat.
 
 ###### Article L364-1
 
-La composition, les modalités de fonctionnement et la nature des différentes fonctions [*attributions*] du conseil
-départemental de l'habitat, substitué par la loi n° 83-8 du 7 janvier 1983 à l'ensemble des commissions, comités et conseils
-départementaux existant en matière de logement et autres que la commission départementale des rapports locatifs créée par la
-loi n° 82-526 du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs, sont fixées par décret en
-Conseil d'Etat.
+Hors des départements et régions d'outre-mer, il est créé, auprès du représentant de l'Etat dans la région, dans les
+conditions fixées par décret en Conseil d'Etat, un comité régional de l'habitat chargé de procéder aux concertations
+permettant de mieux répondre aux besoins en matière d'habitat et de favoriser la cohérence des politiques locales.
+
+Dans les départements et les régions d'outre-mer, il est créé, dans les mêmes conditions, un conseil départemental de
+l'habitat, présidé par le président du conseil général qui exerce les attributions du comité régional de l'habitat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°82-526 1982-06-22
-	  - Loi n°83-8 1983-01-07
 
 	**Cité par**:
 
@@ -15707,9 +16101,13 @@ Conseil d'Etat.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 141 () JORF 14 décembre 2000
+	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 #### Chapitre V : Organismes concourant aux objectifs de la politique d'aide au logement.
@@ -19401,6 +19799,20 @@ intercommunale.
 Il détermine également les limites et conditions de réservation des logements par le représentant de l'Etat dans le
 département au profit des personnes prioritaires, notamment mal logées ou défavorisées.
 
+Le représentant de l'Etat dans le département peut, par convention, déléguer au maire ou, avec l'accord du maire, au
+président d'un établissement public de coopération intercommunale compétent en matière d'habitat tout ou partie des
+réservations de logements dont il bénéficie, au titre du précédent alinéa, sur le territoire de la commune ou de
+l'établissement.
+
+Cette convention fixe les engagements du délégataire en vue de la mise en oeuvre du droit au logement, les modalités
+d'évaluation annuelle de la délégation ainsi que les conditions de son retrait en cas de non-respect de ses engagements par
+le délégataire.
+
+S'il constate, au terme de l'année écoulée, que les objectifs fixés par le plan départemental d'action pour le logement des
+personnes défavorisées ne sont pas respectés, le représentant de l'Etat peut, après mise en demeure restée sans suite pendant
+six mois, se substituer au maire ou au président de l'établissement public de coopération intercommunale pour décider
+directement de la réservation des logements.
+
 Les plafonds de ressources pour l'attribution des logements locatifs sociaux fixés en application des dispositions du présent
 article sont révisés annuellement en fonction de l'évolution du salaire minimum de croissance visé à l'article L. 141-2 du
 code du travail.
@@ -19506,13 +19918,14 @@ code du travail.
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 	  - TXT_SOURCE: Arrêté du 5 mai 1986
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 2 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2001-1247 du 21 décembre 2001 - art. 1 () JORF 26 décembre 2001
+	  - Loi n°2004-809 du 13 août 2004 - art. 60 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -22699,6 +23112,323 @@ besoins et à ses possibilités.
 	  - Loi n°98-87 du 19 février 1998 - art. 1 () JORF 20 février 1998
 
 
+#### Chapitre V : Dispositions particulières applicables aux organismes d'habitations à loyer modéré ayant conclu une convention globale de patrimoine.
+
+###### Article L445-1
+
+Les organismes d'habitations à loyer modéré peuvent conclure avec l'Etat, sur la base de leur plan stratégique de patrimoine,
+en tenant compte des programmes locaux de l'habitat, une convention globale de patrimoine d'une durée de six ans.
+
+Les établissements publics de coopération intercommunale et les départements ayant conclu avec l'Etat la convention
+mentionnée aux articles L. 301-5-1 et L. 301-5-2 sont obligatoirement consultés sur les dispositions de la convention globale
+relatives aux immeubles situés dans leur périmètre. Ils peuvent être signataires de la convention globale de patrimoine.
+
+La convention globale comporte :
+
+- le classement des immeubles ou ensembles immobiliers ; ce classement est établi en fonction du service rendu aux
+locataires, après concertation avec les locataires dans des conditions fixées dans le plan de concertation locative prévu à
+l'article 44 bis de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
+propriété de logements sociaux et le développement de l'offre foncière ;
+
+- l'énoncé de la politique patrimoniale et d'investissement de l'organisme, comprenant notamment un plan de mise en vente à
+leurs locataires des logements à usage locatif détenus par l'organisme et les orientations retenues pour le réinvestissement
+des fonds provenant de la vente ;
+
+- les engagements pris par l'organisme sur la qualité du service rendu aux locataires ;
+
+- un cahier des charges de gestion sociale de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23 art. 44 bis
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-825 du 21 août 2008 - art. 3 (V)
+	  - Décret n°2009-1486 du 3 décembre 2009 - art. 14 (V)
+	  - Arrêté du 3 juin 2010 - art. 2 (V)
+	  - Arrêté du 3 juin 2010 - art. 3 (V)
+	  - Décret n°2012-12 du 4 janvier 2012 - art. 3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L433-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-12 (VT)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+	  - Code de la construction et de l'habitation. - art. L445-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L445-3 (M)
+	  - Code de la construction et de l'habitation. - art. L452-3 (M)
+	  - Code de la construction et de l'habitation. - art. L472-3 (M)
+	  - Code de la construction et de l'habitation. - art. R**445-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-32 (M)
+	  - Code de la construction et de l'habitation. - art. R*445-34 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. R353-16 (V)
+	  - Code de la construction et de l'habitation. - art. R411-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-21-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R445-15 (M)
+	  - Code de la construction et de l'habitation. - art. R445-21 (V)
+	  - Code général des collectivités territoriales - art. L3641-5 (V)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+	  - Code général des impôts, CGI. - art. 1388 bis (V)
+
+
+###### Article L445-2
+
+Le cahier des charges de gestion sociale mentionné à l'article L. 445-1 récapitule les obligations de l'organisme relatives
+aux conditions d'occupation et de peuplement des logements ainsi qu'à la détermination des loyers. Il porte sur l'ensemble
+des logements pour lesquels l'organisme détient un droit réel.
+
+Le cahier des charges est révisé tous les six ans.
+
+Il fixe notamment, par immeuble ou ensemble immobilier :
+
+- les plafonds de ressources applicables pour l'attribution des logements ;
+
+- les conditions dans lesquelles l'organisme peut exiger des locataires le paiement d'un supplément de loyer de solidarité,
+et ses modalités de calcul ;
+
+- le montant maximal total des loyers, rapporté à la surface utile ou à la surface corrigée totale, exprimé en euros par
+mètre carré et par mois. Il tient compte du classement des immeubles ou groupes d'immeubles mentionné à l'article L. 445-1.
+
+Les engagements du cahier des charges se substituent à ceux prévus par la réglementation en vigueur à la date de son
+établissement.
+
+Les engagements qui sont de même nature que ceux figurant dans les conventions conclues au titre de l'article L. 351-2 et en
+vigueur à la date de signature de la convention globale mentionnée à l'article L. 445-1 se substituent de plein droit à ceux-
+ci ainsi qu'à l'engagement d'occupation sociale inscrit dans ces conventions pour la durée de celles-ci. Pour les conventions
+conclues au titre de l'article L. 351-2, postérieurement à la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
+relative aux libertés et responsabilités locales, la substitution intervient au terme de la douzième année de leur
+application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L445-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L353-11 (VD)
+	  - Code de la construction et de l'habitation. - art. L353-9-3 (M)
+	  - Code de la construction et de l'habitation. - art. L445-3 (M)
+	  - Code de la construction et de l'habitation. - art. L445-4 (V)
+	  - Code de la construction et de l'habitation. - art. L445-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R*445-16 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-3 (V)
+
+
+###### Article L445-3
+
+Les plafonds de ressources prévus par le cahier des charges mentionné à l'article L. 445-2 sont, pour chaque immeuble ou
+ensemble immobilier, ceux inscrits dans les conventions visées à l'article L. 351-2 ou résultant de la réglementation en
+vigueur. Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat la convention
+définie aux articles L. 301-5-1 ou L. 301-5-2 lui donnant compétence pour attribuer les aides de l'Etat en faveur de la
+réalisation et de la réhabilitation de logements locatifs sociaux, les plafonds de ressources sont ceux prévus le cas échéant
+par cette convention pour le secteur géographique où est situé l'immeuble. Il peut toutefois, pour la durée de la convention
+globale de patrimoine mentionnée à l'article L. 445-1, être dérogé à ces plafonds dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L445-1 (V)
+	  - Code de la construction et de l'habitation. - art. L445-2 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
+
+
+###### Article L445-4
+
+Le montant maximal de la masse des loyers de l'ensemble des immeubles de l'organisme résultant du cahier des charges
+mentionné à l'article L. 445-2 ne peut excéder le montant maximal résultant, à la date d'établissement de ce même cahier des
+charges, des conventions visées à l'article L. 351-2 ou résultant de la réglementation en vigueur. Il peut être augmenté,
+pendant la durée de la convention et en vue d'assurer l'équilibre financier d'opérations d'amélioration modifiant le
+classement des immeubles, dans des conditions prévues par le cahier des charges. Celui-ci peut prévoir si nécessaire, lors de
+son établissement ou au moment du renouvellement de la convention, un montant maximal plus élevé que celui résultant des
+dispositions précédentes, à la demande d'un organisme et en vue de préserver ses équilibres financiers, après avis de la
+Caisse de garantie du logement locatif social.
+
+Le montant maximal de la masse des loyers prévu au précédent alinéa est actualisé au 1er juillet de chaque année conformément
+au mode de calcul défini au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
+et portant modification de la loi n° 86-1290 du 23 décembre 1986.
+
+L'organisme fixe le loyer maximal applicable à chaque logement en tenant compte notamment de sa taille et de sa situation
+dans l'immeuble ou l'ensemble immobilier.
+
+L'organisme fixe librement les loyers applicables aux bénéficiaires des baux ou engagements en cours dans la limite des
+loyers maximaux. Toutefois, aucune augmentation de loyer ne doit entraîner, d'une année par rapport à l'année précédente, une
+hausse qui excède de plus de 5 % le montant maximal prévu en application du d de l'article 17 de la loi n° 89-462 du 6
+juillet 1989 précitée, sauf accord des associations représentatives de locataires ou des locataires dans les conditions
+fixées par l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à
+la propriété de logements sociaux et le développement de l'offre foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23 art. 42
+	  - Loi n°89-462 du 6 juillet 1989 - art. 17 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L445-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 210 (V)
+	  - Code de la construction et de l'habitation. - art. L442-12 (M)
+	  - Code de la construction et de l'habitation. - art. R*445-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-11 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
+	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
+
+
+###### Article L445-5
+
+Les dispositions de l'article L. 441-4 sont applicables au supplément de loyer de solidarité prévu par le cahier des charges
+mentionné à l'article L. 445-2. 
+
+Toutefois, l'organisme peut, pour la durée de la convention et dans les conditions fixées par celle-ci, déroger à ces
+dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 82 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-4 (VD)
+	  - Code de la construction et de l'habitation. - art. L445-2
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L481-2 (V)
+
+
+###### Article L445-6
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L445-7
+
+Par dérogation à l'article L. 353-15, les dispositions des premier et deuxième alinéas de l'article 32 bis de la loi n°
+48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et
+locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement ne sont pas
+opposables aux organismes qui ont conclu avec l'Etat une convention globale de patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 art. 32 bis
+	  - Code de la construction et de l'habitation. - art. L353-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
 ### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
 
 #### Chapitre Ier : Contrôle.
@@ -24013,8 +24743,8 @@ Leurs activités mentionnées à l'alinéa précédent font notamment l'objet d'
 
 ###### Article L481-3
 
-Le chapitre Ier du titre IV du présent livre et l'article L. 442-5 sont applicables aux sociétés d'économie mixte pour les
-logements faisant l'objet des conventions régies par le chapitre III du titre V du livre III du présent code.
+Les chapitres Ier et V du titre IV du présent livre et l'article L. 442-5 sont applicables aux sociétés d'économie mixte pour
+les logements faisant l'objet des conventions régies par le chapitre III du titre V du livre III du présent code.
 
 **Liens relatifs à cet article**
 
@@ -24022,9 +24752,13 @@ logements faisant l'objet des conventions régies par le chapitre III du titre V
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 6 () JORF 5 mars 1996
+	  - Loi n°2004-809 du 13 août 2004 - art. 63 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
