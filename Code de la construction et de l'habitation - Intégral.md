@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-05-07
+Version Consolidée au 1995-05-10
 
 # Partie législative
 
@@ -30289,8 +30289,9 @@ R. 211-1 à R. 211-6, R. 222-1 à R. 222-14 et R. 261-1 à R. 261-33.
 
 ###### Article R302-17
 
-Lorsqu'un programme local de l'habitat a été élaboré et adopté par un établissement public de coopération intercommunale, le
-président de l'établissement public et le préfet négocient une convention d'application du programme local de l'habitat.
+Lorsqu'un programme local de l'habitat a été élaboré et adopté par un établissement public de coopération intercommunale et
+si cet établissement est doté de la compétence de politique du logement, le président de l'établissement public et le préfet
+négocient une convention d'application du programme local de l'habitat.
 
 La convention, d'une durée de trois ans, est passée entre l'Etat et l'établissement public.
 
@@ -30309,13 +30310,13 @@ l'habitat et adapter les engagements des signataires à l'évolution de la situa
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -30728,16 +30729,12 @@ l'habitat.
 
 ###### Article R302-5
 
-La délibération prévue à l'article R. 302-3 est notifiée aux personnes morales membres du Conseil national de l'habitat.
-Celles-ci désignent leurs représentants locaux qui, dans un délai de deux mois à compter de la notification, font savoir
-s'ils désirent être associés à l'élaboration du programme local de l'habitat.
+La délibération prévue à l'article R. 302-3 est notifiée aux personnes morales que l'établissement public de coopération
+intercommunale juge utile d'associer à l'élaboration du programme local de l'habitat. Celles-ci, dans un délai de deux mois à
+compter de la notification de cette délibération, font savoir si elles acceptent d'être associées à l'élaboration du
+programme local de l'habitat et désignent à cet effet leurs représentants.
 
-La délibération prévue à l'article R. 302-3 est également notifiée à toutes autres personnes morales que l'établissement
-public de coopération intercommunale juge utile d'associer. Celles-ci, dans un délai de deux mois à compter de la
-notification de cette délibération, font savoir si elles ont décidé d'être associées à l'élaboration du programme local de
-l'habitat et désignent à cet effet leurs représentants.
-
-A l'issue du délai visé aux deux alinéas précédents, le président arrête la liste des personnes morales associées.
+A l'issue du délai mentionnée à l'alinéa précédent, le président arrête la liste des personnes morales associées.
 
 **Liens relatifs à cet article**
 
@@ -30745,13 +30742,13 @@ A l'issue du délai visé aux deux alinéas précédents, le président arrête 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de la construction et de l'habitation. - art. R302-3 (M)
 
 
 ###### Article R302-6
@@ -30815,19 +30812,8 @@ l'établissement public qui en rend compte à l'organe délibérant.
 
 ###### Article R302-8
 
-Le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de coopération
-intercommunale, est mis par décision du président de l'établissement à la disposition du public pendant un mois au siège de
-l'établissement et dans les mairies des communes concernées.
-
-Cette décision fixe :
-
-- la date à compter de laquelle le projet de programme local de l'habitat est mis à la disposition du public ;
-
-- les modalités suivant lesquelles le public peut en prendre connaissance et formuler ses observations.
-
-La décision est affichée au siège de l'établissement public de coopération intercommunale et dans les mairies des communes
-pendant la même durée d'un mois. Mention en est insérée en caractères apparents dans un journal régional ou local diffusé
-avant la date à compter de laquelle le projet est mis à la disposition du public.
+Le projet de programme local de l'habitat est arrêté par l'organe délibérant de l'établissement public de coopération
+intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -30835,20 +30821,16 @@ avant la date à compter de laquelle le projet est mis à la disposition du publ
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 
 ###### Article R302-9
 
-Dans le même temps, le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de
-coopération intercommunale, est soumis par son président aux communes membres et aux établissements publics de coopération
-intercommunale territorialement concernés compétents en matière d'urbanisme, d'action foncière ou de logement.
+Après avoir été arrêté, le projet de programme local de l'habitat est soumis par le président de l'établissement public de
+coopération intercommunale aux communes membres et aux établissements publics de coopération intercommunale territorialement
+concernés compétents en matière d'urbanisme, d'action foncière ou de logement.
 
 Les conseils municipaux des communes et les organes délibérants des établissements publics de coopération intercommunale
 visés à l'alinéa précédent délibèrent notamment sur les moyens, relevant de leurs compétences respectives, à mettre en place
@@ -30866,9 +30848,9 @@ Faute de réponse dans un délai de deux mois, à compter de la transmission du 
 
 	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 	**Cité par**:
 
@@ -30878,10 +30860,10 @@ Faute de réponse dans un délai de deux mois, à compter de la transmission du 
 
 ###### Article R302-10
 
-Au vu des observations et avis exprimés en application des articles R. 302-8 et R. 302-9, l'organe délibérant de
-l'établissement public de coopération intercommunale délibère à nouveau sur le projet et le transmet au préfet. Celui-ci le
-soumet, pour avis dans un délai de deux mois, au conseil départemental de l'habitat et transmet l'avis de ce dernier à
-l'établissement public de coopération intercommunale.
+Au vu des avis exprimés en application de l'article R. 302-9, l'organe délibérant de l'établissement public de coopération
+intercommunale délibère à nouveau sur le projet et le transmet au préfet. Celui-ci le soumet, pour avis dans un délai de deux
+mois, au conseil départemental de l'habitat et transmet l'avis de ce dernier à l'établissement public de coopération
+intercommunale.
 
 Lorsqu'il y a lieu, le préfet adresse, dans un délai d'un mois à compter de l'avis du conseil départemental de l'habitat, des
 demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
@@ -30892,13 +30874,14 @@ demandes motivées de modifications formulées en application de l'article L. 30
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de la construction et de l'habitation. - art. L302-2 (M)
+	  - Code de la construction et de l'habitation. - art. R302-9 (M)
 
 	**Cité par**:
 
@@ -31029,11 +31012,10 @@ délibérant de l'établissement public de coopération intercommunale et le mai
 
 ###### Article R302-15
 
-Au vu des observations recueillies en application de l'article R. 302-8, le conseil municipal délibère à nouveau sur le
-projet et le transmet au préfet. Celui-ci le soumet, pour avis dans un délai de deux mois, au conseil départemental de
-l'habitat et transmet l'avis exprimé par ce conseil à la commune. Lorsqu'il y a lieu, le préfet adresse, dans le délai d'un
-mois à compter de l'avis du conseil départemental de l'habitat, les demandes motivées de modifications formulées en
-application de l'article L. 302-2, cinquième alinéa.
+Le projet de programme local de l'habitat arrêté par le conseil municipal est transmis au préfet. Celui-ci le soumet, pour
+avis dans un délai de deux mois, au conseil départemental de l'habitat et transmet l'avis exprimé par ce conseil à la
+commune. Lorsqu'il y a lieu, le préfet adresse, dans le délai d'un mois à compter de l'avis du conseil départemental de
+l'habitat, les demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -31041,13 +31023,17 @@ application de l'article L. 302-2, cinquième alinéa.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-2 (M)
 
 	**Anciens textes**:
 
@@ -31143,9 +31129,9 @@ Le nombre de bénéficiaires de prestations visés par l'article L. 302-5 est ce
 
 ###### Article R302-26
 
-Le nombre de logements locatifs sociaux pris en compte pour l'application de l'article L. 302-8 est calculé en arrondissant
-par défaut au multiple de dix directement inférieur ou égal au nombre résultant de l'application des pourcentages mentionnés
-au premier alinéa dudit article. "
+Le nombre de logements sociaux pris en compte pour l'application de l'article L. 302-8 est calculé en arrondissant par défaut
+au multiple de dix directement inférieur ou égal au nombre résultant de l'application des pourcentages mentionnés au premier
+alinéa dudit article.
 
 **Liens relatifs à cet article**
 
@@ -31153,13 +31139,13 @@ au premier alinéa dudit article. "
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
