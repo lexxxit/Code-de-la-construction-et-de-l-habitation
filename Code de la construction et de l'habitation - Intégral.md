@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1992-07-17
 
 # Partie législative
 
@@ -15685,8 +15685,8 @@ administrative.
 ###### Article L443-2
 
 Toute opération d'accession à la propriété, réalisée à l'aide d'avances consenties par l'Etat, est subordonnée à la
-souscription par le bénéficiaire auprès de la caisse nationale de prévoyance d'un contrat d'assurance garantissant le
-paiement des annuités qui resteraient à échoir au moment de son décès.
+souscription par le bénéficiaire d'un contrat d'assurance garantissant le paiement des annuités qui resteraient à échoir au
+moment de son décès.
 
 Lorsque l'intéressé n'est pas admis à contracter d'assurance, celle-ci peut être souscrite par son conjoint ou par un tiers
 s'ils s'engagent solidairement au remboursement du prêt.
@@ -15694,21 +15694,25 @@ s'ils s'engagent solidairement au remboursement du prêt.
 Les organismes d'habitations à loyer modéré et les sociétés de crédit immobilier ont la faculté de contracter eux-mêmes ces
 assurances pour leurs adhérents.
 
-Un règlement d'administration publique détermine les conditions d'application du présent article.
+Un décret en conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
 
 	**Modifié par**:
 
-	  - Loi n°83-953 1983-11-02 art. 2 JORF 3 novembre 1983
+	  - Loi n°92-665 du 16 juillet 1992 - art. 9 () JORF 17 juillet 1992
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 226 al. 1 à 3, al. 5
+	  - Code de l'urbanisme 226 AL. 1, 2, 3 ET 5
 
 	**Cité par**:
 
@@ -15716,35 +15720,6 @@ Un règlement d'administration publique détermine les conditions d'application 
 	  - Code de la construction et de l'habitation. - art. L443-17 (V)
 	  - Code de la construction et de l'habitation. - art. R443-15 (M)
 	  - Code de la construction et de l'habitation. - art. R443-5 (V)
-
-
-###### Article L443-3
-
-Les contrats de garantie consentis aux invalides de guerre par le fonds spécial mentionné à l'article L. 326 du code des
-pensions militaires d'invalidité et des victimes de la guerre sont établis aux mêmes conditions que les assurances
-temporaires souscrites auprès de la caisse nationale de prévoyance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Loi n°83-953 1983-11-02 art. 2 JORF 3 novembre 1983
-
-	**Cite**:
-
-	  - Code des pensions militaires d'invalidité et des v - art. L326 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 226 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°1992-07-16 art. 9 I JORF 17 juillet 1992
 
 
 ###### Article L443-4
@@ -16437,19 +16412,17 @@ de l'article L. 443-1.
 	  - Code de la construction et de l'habitation. - art. L443-1 (V)
 
 
-##### Section 3 : Dispositions particulières aux pensionnés de guerre.
-
 ###### Article L443-17
 
 Conformément à l'article L. 326 du code des pensions militaires d'invalidité et des victimes de guerre, les invalides de
-guerre qui, par suite de blessures ou de maladies ayant ouvert droit à pension au titre de ce code n'ont pu être admis par la
-caisse nationale de prévoyance à l'assurance temporaire prévue par l'article L. 443-2 du présent code peuvent bénéficier de
-la législation relative aux habitations à loyer modéré grâce à l'institution d'un fonds spécial ayant pour objet de garantir
-le remboursement des prêts qui leur sont consentis.
+guerre qui, par suite de blessures ou de maladies ayant ouvert droit à pension au titre de ce code ne peuvent remplir la
+condition visée au premier alinéa de l'article L. 443-2 du présent code peuvent bénéficier de la législation relative aux
+habitations à loyer modéré grâce à l'institution d'un fonds spécial ayant pour objet de garantir le remboursement des prêts
+qui leur sont consentis. 
 
-Ce fonds est géré par la caisse des dépôts et consignations.
+Ce fonds est géré par la caisse des dépôts et consignations. 
 
-Les demandes de garantie sont adressées à l'office national des anciens combattants et victimes de guerre.
+Les demandes de garantie sont adressées à l'office national des anciens combattants et victimes de guerre. 
 
 Ce dernier désigne les bénéficiaires dans la limite des disponibilités du crédit ouvert chaque année par la loi de finances,
 et, éventuellement, des ressources du fonds spécial en tenant compte des indications qui lui sont fournies par la caisse des
@@ -16462,10 +16435,17 @@ présentés par les postulants susceptibles d'être admis au bénéfice de la ga
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 9 () JORF 17 juillet 1992
+
 	**Cite**:
 
-	  - Code des pensions militaires d'invalidité et des victimes de la guerre L326 (RAPPEL)
-	  - Code de la construction et de l'habitation. - art. L443-2 (M)
+	  - Code de la construction et de l'habitation. - art. L443-2 (V)
 
 
 ##### Section 4 : Taux des intérêts moratoires.
