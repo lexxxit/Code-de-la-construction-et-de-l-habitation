@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-06-19
+Version Consolidée au 1992-07-03
 
 # Partie législative
 
@@ -36510,26 +36510,30 @@ ministre chargé de la construction et de l'habitation.
 
 ### Titre II : Amélioration de l'habitat.
 
-#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat, statut et concours financier.
+#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat - Statut et concours financier.
 
 ###### Article R*321-1
 
 L'agence nationale pour l'amélioration de l'habitat est [*définition*] un établissement public administratif doté de la
 personnalité morale et de l'autonomie financière. Elle a pour objet, par application de l'article L. 321-1, d'apporter son
 aide à des opérations destinées principalement à améliorer les conditions d'habitabilité des immeubles ou ensembles
-d'immeubles à usage principal d'habitation dans lesquels la taxe additionnelle au droit de bail, instituée par l'article L.
-321-3, est applicable ou devient applicable compte tenu des engagements de donner les locaux à bail pris par les
-propriétaires bénéficiaires de l'aide de l'agence [*attributions*].
+d'immeubles à usage principal d'habitation dans lesquels la taxe additionnelle au droit de bail, instituée par l'article 741
+bis du code général des impots, est applicable ou devient applicable compte tenu des engagements de donner les locaux à bail
+pris par les propriétaires bénéficiaires de l'aide de l'agence [*attributions*].
+
+Toutefois, l'aide de l'agence peut être accordée pour des travaux effectués dans les locaux exonérés de la taxe additionnelle
+au droit de bail en raison du montant du loyer, en vertu des dispositions des articles 740 et 741 bis du code général des
+impôts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°71-806 1971-09-29 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-598 du 29 juin 1992 - art. 1 () JORF 3 juillet 1992
 
 	**Cité par**:
 
@@ -36540,6 +36544,12 @@ propriétaires bénéficiaires de l'aide de l'agence [*attributions*].
 	  - Code de la construction et de l'habitation. - art. R321-6-3 (V)
 	  - Code de la construction et de l'habitation. - art. R321-6-4 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L321-3 CGI 740, 741 bis
+
+
+#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat, statut et concours financier.
 
 ###### Article R*321-4
 
