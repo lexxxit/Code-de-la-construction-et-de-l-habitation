@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-07-14
+Version Consolidée au 1984-07-21
 
 # Partie législative
 
@@ -41586,6 +41586,223 @@ convention s'appliquent de plein droit, sous réserve des contrats en cours.
 	  - Code de la construction et de l'habitation. - art. R353-164-1 (Ab)
 
 
+##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).
+
+###### Article R353-166
+
+Les conventions conclues en application de l'article L. 351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un
+prêt aidé à l'accession à la propriété et mentionnées à l'article R. 331-41 (3°) doivent être conformes à la convention type
+reproduite en annexe du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-167
+
+Les conventions se renouvellent pour des périodes triennales, sous réserve de dénonciation expresse par l'une ou l'autre
+partie. Selon le cas, la dénonciation est notifiée par acte administratif, notarié ou extrajudiciaire, au moins six mois
+avant leur date d'expiration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-169
+
+Le bailleur est tenu de proposer au locataire un contrat de location conforme à la convention.
+
+Le contrat de location est conclu pour une durée de trois ans. Toutefois, s'il est conclu avant le 30 juin suivant le
+troisième anniversaire de la prise d'effet de la convention, sa durée est égale à la période restant à courir jusqu'à la date
+du 30 juin mentionnée ci-dessus. Pendant la durée de la convention, sous réserve du respect des obligations définies par
+l'article 18 de la loi n° 82-526 du 22 juin 1982, le contrat de location se renouvelle pour des périodes triennales, sauf
+refus du locataire notifié dans les conditions prévues par la convention. En cas de vacance intervenant au cours du contrat
+de location, le nouveau locataire est substitué de plein droit à l'ancien locataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 18
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-170
+
+Le locataire peut donner congé à tout moment, dans les conditions définies par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R353-171
+
+Le bailleur peut demander au locataire, lors de la signature du contrat de location, le versement d'un dépôt de garantie qui
+ne peut être supérieur à deux mois de loyer en principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-172
+
+Le loyer maximum applicable aux logements conventionnés dont la valeur est déterminée par mètre carré de surface habitable,
+ainsi que les conditions de son évolution, sont fixés par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-173
+
+Le loyer pratiqué, dont la valeur est fixée au mètre carré de surface habitable, peut évoluer selon les modalités fixées par
+la convention et dans la limite des dispositions prises en application du titre IV de la loi n° 82-526 du 22 juin 1982.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-174
+
+Le loyer est payable par fraction mensuelle à terme échu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-175
+
+Le bailleur est tenu, envers les organismes chargés du paiement de l'aide personnalisée au logement, de fournir toutes les
+informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au logement, à la liquidation et
+au versement de celle-ci, dans les conditions définies par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-176
+
+Les conventions peuvent être révisées à la demande de l'une ou l'autre partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R353-177
+
+La convention fixe les sanctions encourues pour le non-respect des engagements contractuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).
+
+###### Article R353-168
+
+Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par an
+[*durée d'occupation - minimum*]. Ils ne peuvent faire l'objet de sous-location.
+
+Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
+l'article R. 331-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-41 3
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+
+
 ##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.
 
 ###### Article R353-189
@@ -58904,6 +59121,47 @@ Autres : ....
 	**Créé par**:
 
 	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
+
+
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).
+
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.
+
+###### Article Annexe II à l'article R353-166, art. 1
+
+I. - Description du logement :
+
+1° surface habitable ;
+
+2° dépendances ;
+
+3° garage ou parking affecté au logement.
+
+II. - Origine de propriété (établie conformément à l'article 3 du décret modifié n° 55-22 du 4 janvier 1955).
+
+III. - Renseignements administratifs :
+
+1° permis de construire ou déclaration de construction.
+
+2° modalités de financement (Renseignements à compléter dès que les décisions définitives de financement sont intervenues).
+
+- financement principal :
+
+- date d'octroi du prêt :
+
+- n° du prêt :
+
+- durée :
+
+- financement complémentaire :
+
+Fait à ..., le ....
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
 
 
 ## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.
