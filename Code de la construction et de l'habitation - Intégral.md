@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-02-27
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -2097,6 +2097,38 @@ code.
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 178 () JORF 14 décembre 2000
 
 
+###### Article L123-4
+
+Sans préjudice de l'exercice par les autorités de police de leurs pouvoirs généraux et dans le cadre de leurs compétences
+respectives, le maire ou le représentant de l'Etat dans le département peuvent par arrêté, pris après avis de la commission
+de sécurité compétente, ordonner la fermeture des établissements recevant du public en infraction avec les règles de sécurité
+propres à ce type d'établissement, jusqu'à la réalisation des travaux de mise en conformité.
+
+Le fait pour le propriétaire ou l'exploitant, malgré une mise en demeure du maire ou du représentant de l'Etat dans le
+département d'avoir à se conformer à l'arrêté pris en application de l'alinéa précédent, de ne pas procéder à la fermeture de
+l'établissement est puni de 3 750 euros d'amende.
+
+Les pouvoirs dévolus au maire ou au représentant de l'Etat dans le département par le présent article sont exercés à Paris
+par le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Cité par**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 25-1 A (V)
+	  - Code de la construction et de l'habitation. - art. L511-7 (VD)
+	  - Code général des collectivités territoriales - art. L2512-13 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 70 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 70
+
+
 #### Chapitre IV : Adaptation des constructions au temps de guerre.
 
 ###### Article L124-1
@@ -2293,8 +2325,8 @@ parties communes de ces immeubles.
 Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants, qui satisfont à l'obligation
 mentionnée par l'article L. 127-1, peuvent également, en cas d'occupation des espaces communs du bâti par des personnes qui
 entravent l'accès et la libre circulation des locataires ou empêchent le bon fonctionnement des dispositifs de sécurité et de
-sûreté ou nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie nationales pour rétablir la
-jouissance paisible de ces lieux.
+sûreté ou nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie nationales ou à la police
+municipale pour rétablir la jouissance paisible de ces lieux.
 
 **Liens relatifs à cet article**
 
@@ -2307,17 +2339,50 @@ jouissance paisible de ces lieux.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 52 () JORF 16 novembre 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-824 du 3 mai 2002 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 61 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 61
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1 (Ab)
+
+
+###### Article L126-3
+
+Les voies de fait ou la menace de commettre des violences contre une personne ou l'entrave apportée, de manière délibérée, à
+l'accès et à la libre circulation des personnes ou au bon fonctionnement des dispositifs de sécurité et de sûreté,
+lorsqu'elles sont commises en réunion de plusieurs auteurs ou complices, dans les entrées, cages d'escalier ou autres parties
+communes d'immeubles collectifs d'habitation, sont punies de deux mois d'emprisonnement et de 3 750 euros d'amende.
+
+Sont punies des mêmes peines les voies de fait ou la menace de commettre des violences contre une personne, ou l'entrave
+apportée, de manière délibérée, au bon fonctionnement des dispositifs de sécurité et de sûreté commises sur les toits des
+immeubles collectifs d'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 61 () JORF 19 mars 2003
+
+	**Cité par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 35
+	  - CODE DE PROCEDURE PENALE - art. 495 (V)
+	  - Code de la route. - art. L130-5 (V)
+	  - Code de la sécurité intérieure - art. L511-1 (V)
+	  - Code de procédure pénale - art. 398-1 (V)
+	  - Code de procédure pénale - art. 41-1-1 (V)
+	  - Code général des collectivités territoriales - art. L2212-5 (V)
 
 
 #### Chapitre VII : Gardiennage ou surveillance des immeubles.
