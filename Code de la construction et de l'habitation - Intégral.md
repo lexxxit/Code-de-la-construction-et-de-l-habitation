@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-02-07
 
 # Partie législative
 
@@ -34781,6 +34781,12 @@ collectivité locale participe au financement de ces travaux pour un taux équiv
 Au tiers du coût prévisionnel des travaux de renforcement des portes d'entrée des logements si une collectivité locale
 participe au financement de ces travaux pour un montant équivalent.
 
+Des dérogations au taux de 20 p. pour cent de la subvention peuvent être accordées par le représentant de l'Etat dans le
+département pour des opérations à caractère expérimental, pour des opérations " habitat et vie sociale " ou pour des
+opérations réalisées dans le cadre des actions pour le développement social des quartiers.
+
+Elles ne peuvent avoir pour effet de porter le taux de la subvention à plus de 30 p. cent du coût prévisionnel des travaux.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -34789,7 +34795,15 @@ participe au financement de ces travaux pour un montant équivalent.
 
 	**Modifié par**:
 
-	  - Décret n°85-1239 1985-11-25 art. 1, art. 5 JORF 27 novembre 1985
+	  - Décret n°87-72 1987-02-06 art. 1 JORF 7 février 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°87-1113 du 24 décembre 1987 - art. 3 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
 
 	**Cité par**:
 
