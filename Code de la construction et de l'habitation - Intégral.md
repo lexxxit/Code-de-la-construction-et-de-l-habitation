@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-01-24
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -8992,11 +8992,12 @@ sociale pour lesquelles des règles spéciales ont été édictées en applicati
 financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux, de
 construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant à
 compter du 1er janvier 1991, 0,55 p. 100 et, à compter du 1er janvier 1992, 0,45 p. 100 au moins du montant, entendu au sens
-de l'article 231 du code général des impôts précité, des salaires payés par eux au cours de l'exercice écoulé. Ces
-dispositions sont applicables aux établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux organismes
-de l'Etat, des collectivités locales et de leurs établissements publics ayant le même caractère. Les sommes acquitées par les
-entreprises au taux de 0,65 p. 100 avant le 30 juin 1991 pourront, pour la fraction excédant les sommes dues avec un taux de
-0,55 p. 100, être imputées sur la participation versée en 1992 à raison des salaires payés en 1991.
+des règles prévues au chapitres Ier et II du titre IV du livre II du code de la sécurité sociale, des salaires payés par eux
+au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou
+commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même
+caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant le 30 juin 1991 pourront, pour la fraction
+excédant les sommes dues avec un taux de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison des salaires
+payés en 1991.
 
 Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion d'indemnités de dommages de guerre, ont investi au
 cours d'un exercice, postérieurement à l'exercice 1948, une somme supérieure à celle prévue à l'alinéa précédent peuvent
@@ -9011,17 +9012,13 @@ Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou 
 dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
 réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
+Les dispositions de l'alinéa précédent ne sont applicables pas lorsque l'accroissement de l'effectif résulte de la reprise ou
 de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
 au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231
 
 	**Cité par**:
 
@@ -9125,13 +9122,17 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Loi - art. 50 () JORF 31 décembre 1991 en vigueur le 1er janvier 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art 50 II
+	  - SPEC_APPLI: Loi n°95-116 1995-02-04 art. 106 II
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 106 (V) JORF 5 février 1995
+
+	**Cite**:
+
+	  - CGI 231
 
 	**Anciens textes**:
 
@@ -14516,14 +14517,13 @@ sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
 ###### Article L422-14
 
-Les sociétés anonymes coopératives d'habitation à loyer modéré de location-attribution peuvent, pendant un délai d'un an à
-compter de la date de publication de la loi n° 92-643 du 13 juillet 1992 relative à la modernisation des entreprises
-coopératives, décider de se transformer en sociétés anonymes coopératives de production d'habitations à loyer modéré.
+Les sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution peuvent décider de se transformer en
+sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
 A peine de nullité, la décision de transformation doit être agréée par le ministre chargé de la construction et de
 l'habitation.
 
-La transformation d'une société anonyme coopérative d'habitation à loyer modéré de location-attribution ou la fusion d'une
+La transformation d'une société anonyme coopérative d'habitations à loyer modéré de location-attribution ou la fusion d'une
 telle société avec une société anonyme coopérative de production d'habitations à loyer modéré est subordonnée à une réduction
 du capital telle que doit être limité à un le nombre des actions dont chaque associé locataire-attributaire est propriétaire.
 
@@ -14543,7 +14543,7 @@ du capital telle que doit être limité à un le nombre des actions dont chaque 
 
 	**Modifié par**:
 
-	  - Loi n°92-643 du 13 juillet 1992 - art. 51 () JORF 14 juillet 1992
+	  - Loi n°95-116 du 4 février 1995 - art. 103 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -15277,31 +15277,30 @@ bénéficient des dispositions des articles L. 431-1, L. 431-2, L. 442-7, L. 443
 
 Les sociétés coopératives de construction dont les membres sont soumis aux dispositions des articles L. 443-1 à L. 443-6 et
 qui font appel, à titre de prestataires de services, à un organisme d'habitations à loyer modéré, peuvent bénéficier de prêts
-accordés dans le cadre de la législation sur les habitations à loyer modéré.
+accordés dans le cadre de la législation sur les habitations à loyer modéré. 
 
 Les sociétés coopératives de construction mentionnées à l'alinéa précédent peuvent conclure avec leurs membres des contrats
-de vente à terme conformément au deuxième alinéa de l'article L. 261-10.
+de vente à terme conformément au deuxième alinéa de l'article L. 261-10. 
 
 Conformément à l'article 1378 sexies du code général des impôts, elles sont soumises au même régime fiscal que les organismes
-d'habitations à loyer modéré.
+d'habitations à loyer modéré. 
 
 Chaque associé ne peut être tenu de contribuer aux dépenses nécessaires à la réalisation de l'objet social et au
 remboursement des prêts mentionnés à l'alinéa premier qu'en proportion de la quote-part afférente au lot destiné à lui être
-attribué ou vendu.
+attribué ou vendu. 
 
 En cas de défaillance d'un associé, le remboursement de ses dettes de toute nature à l'égard de la société coopérative de
-construction s'impute sur la réserve constituée par les résultats nets cumulés des exercices successifs.
+construction est pris en charge par l'organisme d'habitations à loyer modéré gérant cette société, lequel est alors subrogé
+dans les droits de la société. 
 
-A la dissolution de la société, le solde de la réserve est réparti entre les associés en proportion de la quote-part
-afférente aux lots qui leur ont été attribués ou vendus.
+Pendant la durée d'existence de la société coopérative, le résultat net de chaque exercice ne peut être affecté qu'à des
+réserves non distribuables. A la dissolution de la société, l'assemblée générale appelée à statuer sur la liquidation ne
+peut, après paiement du passif et remboursement du capital social, attribuer l'excédent éventuel que font apparaître les
+comptes de clôture de liquidation qu'à une société civile coopérative de construction proposée par l'organisme d'habitations
+à loyer modéré gérant de la société, à l'organisme d'habitations à loyer modéré gérant de la société ou, à défaut, à un autre
+organisme de même nature que les précédents.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1378 sexies
-	  - Code de la construction et de l'habitation L443-1 à L443-6, L261-10
-	  - Code de la construction et de l'habitation. - art. L261-10 (M)
 
 	**Codifié par**:
 
@@ -15309,13 +15308,18 @@ afférente aux lots qui leur ont été attribués ou vendus.
 
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 48 () JORF 24 juillet 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 108 () JORF 5 février 1995
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R520-8 (M)
 	  - Code général des impôts, CGI. - art. 1378 quinquies (Ab)
 	  - Code général des impôts, CGI. - art. 1378 sexies (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-10 (V)
+	  - Code de la construction et de l'habitation. - art. L443-1 (V)
 
 
 ###### Article L432-3
