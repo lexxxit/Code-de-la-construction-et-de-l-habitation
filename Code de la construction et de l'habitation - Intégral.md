@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-08-19
+Version Consolidée au 1984-09-19
 
 # Partie législative
 
@@ -20997,26 +20997,28 @@ pour des missions se rattachant à l'objet de ses activités.
 
 ###### Article R*142-2
 
-Le conseil d'administration du centre scientifique et technique du bâtiment est composé de dix-huit membres, à savoir :
+Le conseil d'administration du centre scientifique et technique du bâtiment est composé de dix-huit membres :
 
-Deux représentants du ministre chargé de la construction et de l'habitation ;
+1° Six représentants de l'Etat nommés par décret sur le rapport du ministre chargé de la construction et de l'habitation, sur
+propositions respectives :
 
-Un représentant du ministre chargé de l'architecture ;
+- du ministre chargé de la construction et de l'habitation ;
 
-Un représentant du ministre chargé du budget ;
+- du ministre chargé de l'architecture ;
 
-Un représentant du ministre chargé de l'industrie ;
+- du ministre chargé du budget ;
 
-Un représentant du ministre chargé de la recherche scientifique et technique ;
+- du ministre chargé de l'industrie ;
 
-Un représentant du ministre chargé de la sécurité civile ;
+- du ministre chargé de la recherche scientifique et technique ;
 
-Sept membres choisis parmi les maîtres d'ouvrage, hommes de l'art, entrepreneurs, industriels ou assureurs, dont les
-activités intéressent le bâtiment ;
+- du ministre chargé de la sécurité civile;
 
-Deux personnalités qualifiées choisies en raison de leur compétence dans le domaine du bâtiment ;
+2° Six personnalités nommées par décret sur le rapport du ministre chargé de la construction et de l'habitation et choisies
+dans les conditions prévues à l'article 5 (2°) de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du
+secteur public ;
 
-Deux membres choisis dans le personnel de l'établissement.
+3° Six représentants des salariés élus conformément aux dispositions du chapitre II du titre II de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -21024,9 +21026,18 @@ Deux membres choisis dans le personnel de l'établissement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Loi n°83-675 1983-07-26 art. 5, art. 14, art. 15, art. 16, art. 17, art. 18, art. 19, art. 20
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 18 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 19 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 20 (V)
+
 	**Modifié par**:
 
-	  - Décret n°79-675 1979-08-03 ART. 1 JORF 12 AOUT 1979
+	  - Décret n°84-843 1984-09-12 ART. 1 JORF 19 SEPTEMBRE 1984
 
 	**Cité par**:
 
@@ -21037,26 +21048,29 @@ Deux membres choisis dans le personnel de l'établissement.
 
 ###### Article R*142-3
 
-Les membres du conseil d'administration sont nommés pour trois ans par décret pris sur le rapport du ministre chargé de la
-construction et de l'habitation et, en ce qui concerne les fonctionnaires relevant d'un autre ministre, sur la proposition de
-ce ministre. Leur mandat est renouvelable [*durée*]. Toutefois, celui des personnes appartenant aux trois dernières
-catégories mentionnées à l'article R. 142-2 n'est renouvelable que deux fois. Le nombre des membres du conseil
-d'administration âgés de plus de soixante-cinq ans ne peut être supérieur à trois. En cas d'empêchement, les représentants
-des ministres peuvent être remplacés par un suppléant désigné dans les mêmes formes.
+La durée du mandat des membres du conseil d'administration est de cinq ans. Ils ne peuvent exercer plus de trois mandats
+consécutifs.
 
-Le conseil d'administration est renouvelé par tiers tous les ans.
+Le nombre des membres du conseil d'administration âgés de plus de soixante-cinq ans ne peut être supérieur à trois. Si ce
+nombre vient à être dépassé, le membre le plus âgé est réputé démissionnaire d'office.
 
-Les vacances par décès, démission, expiration du mandat et pour toute autre cause sont portées par le président du conseil
-d'administration à la connaissance du ministre chargé de la construction et de l'habitation. Celui-ci prend les mesures
-nécessaires pour assurer le remplacement des membres qui ont cessé de faire partie du conseil pour le temps qui reste à
-courir sur la durée de leur mandat. Le remplacement est effectué en suivant les mêmes règles que pour la nomination des
-membres.
+Les vacances par décès, démission, et pour toute autre cause sont portées par le président du conseil d'administration à la
+connaissance du ministre chargé de la construction et de l'habitation. Celui-ci prend les mesures nécessaires pour assurer le
+remplacement des membres qui ont cessé de faire partie du conseil pour le temps qui reste à courir jusqu'au renouvellement de
+la totalité du conseil.
 
-Sont considérés comme démissionnaires les administrateurs qui, sans motifs légitimes, n'assistent pas à quatre séances
-consécutives du conseil d'administration [*absence*].
+Sont considérés comme démissionnaires les administrateurs autres que les représentants des salariés qui, sans motifs
+légitimes, n'assistent pas à quatre séances consécutives du conseil d'administration [*absence*].
 
-Ne peuvent être membres du conseil d'administration que les personnes de nationalité française qui jouissent de leurs droits
-civils et politiques.
+Les représentants des salariés doivent remplir les conditions prévues à l'article 15 de la loi n° 83-675 du 26 juillet 1983.
+Les autres membres du conseil d'administration doivent être de nationalité française et jouir de leurs droits civils et
+politiques.
+
+Chaque représentant des salariés dispose d'un crédit d'heures égal à quinze heures par mois pour exercer son mandat.
+
+Le mandat des membres du conseil d'administration est gratuit, sans préjudice du remboursement par l'entreprise des frais
+exposés pour l'exercice dudit mandat, suivant les modalités fixées par arrêté du ministre chargé du budget et du ministre
+chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -21064,25 +21078,29 @@ civils et politiques.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+	  - Code de la construction et de l'habitation R142-2
+
 	**Modifié par**:
 
-	  - Décret n°79-675 1979-08-03 ART. 2 JORF 12 AOUT 1979
+	  - Décret n°84-843 1984-09-12 ART. 2 JORF 19 SEPTEMBRE 1984
 
 	**Cité par**:
 
 	  - Décret n°2016-551 du 4 mai 2016 - art. 2 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R142-2
-
 
 ###### Article R*142-4
 
-Le conseil d'administration choisit parmi ses membres un président, un ou deux vice-présidents et un secrétaire, élus pour la
-durée de leur mandat d'administrateur et rééligibles deux fois. Toutefois, les fonctions du président du conseil
-d'administration et des vice-présidents prennent fin à la date à laquelle leurs titulaires atteignent l'âge de soixante-cinq
-ans.
+Le président du conseil d'administration est nommé par décret parmi les membres du conseil et sur proposition de celui-ci.
+
+Le conseil d'administration choisit parmi ses membres un ou deux vice-présidents et un secrétaire élus pour la durée de leur
+mandat d'administrateur.
+
+Les fonctions du président et du ou des vice-présidents prennent fin à la date à laquelle leurs titulaires atteignent l'âge
+de soixante-cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -21092,7 +21110,7 @@ ans.
 
 	**Modifié par**:
 
-	  - Décret n°79-675 1979-08-03 ART. 3 JORF 12 AOUT 1979
+	  - Décret n°84-843 1984-09-12 ART. 3 JORF 19 SEPTEMBRE 1984
 
 	**Cité par**:
 
