@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-12-31
+Version Consolidée au 2000-02-09
 
 # Partie législative
 
@@ -43215,9 +43215,21 @@ ministre chargé de la construction et de l'habitation.
 
 Il est créé une aide pour l'accession à la propriété destinée aux personnes physiques qui acquièrent un logement en vue de
 l'occuper à titre de résidence principale et qui n'ont pas été propriétaires de leur résidence principale au cours des deux
-dernières années précédant l'offre de prêt. Cette aide est mise en place par les établissements de crédit conventionnés à cet
-effet sous forme d'avance remboursable ne portant pas intérêt. L'Etat verse une subvention aux établissements de crédit
-destinée à compenser l'absence d'intérêt.
+dernières années précédant l'offre de prêt. Toutefois, cette dernière condition n'est pas applicable aux personnes qui
+acquièrent un logement adapté en vue de son occupation à titre de résidence principale par une personne handicapée physique.
+Cette condition n'est pas non plus applicable aux personnes qui sont indemnisées au titre de leur logement soit dans le cadre
+de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes naturelles, soit en
+application de l'article L. 122-7 du code des assurances pour des dommages causés par les effets du vent dû aux tempêtes,
+ouragans ou cyclones, dès lors qu'elles présentent une demande d'aide dans le délai de deux ans suivant la date de
+publication de l'arrêté de constatation de l'état de catastrophe naturelle ou de la survenue du sinistre et qu'elles
+attestent que les dommages affectant leur logement nécessitent la réalisation sur un autre site d'une nouvelle construction.
+Cette aide est mise en place par les établissements de crédit conventionnés à cet effet sous forme d'avance remboursable ne
+portant pas intérêt. L'Etat verse une subvention aux établissements de crédit destinée à compenser l'absence d'intérêt.
+
+**Nota:**
+
+Décret 2000-104 2000-02-08 art. 10 : Les dispositions de l'article 1er du présent décret sont applicables aux offres de prêts
+émises à compter de la date de publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -43259,12 +43271,18 @@ destinée à compenser l'absence d'intérêt.
 	  - Code général des impôts, CGI. - art. 1384 A (V)
 	  - Code général des impôts, CGI. - art. 207 (V)
 
+	**Cite**:
+
+	  - Loi n°82-600 1982-07-13
+	  - Code des assurances - art. L122-7 (M)
+
 	**Modifié par**:
 
-	  - Décret n°97-1000 du 30 octobre 1997 - art. 1 () JORF 31 octobre 1997
+	  - Décret n°2000-104 du 8 février 2000 - art. 1 () JORF 9 février 2000 rectificatif JORF 12 février 2000
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°2000-104 du 8 février 2000 - art. 10 (V)
 	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001
 	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 1 (V)
 	  - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 2 (V)
@@ -44590,6 +44608,55 @@ d'effet de leur abrogation restent régies par les dispositions alors en vigueur
 
 	  - Code de la construction et de l'habitation. - art. R322-13 (Ab)
 	  - Code de la construction et de l'habitation. - art. R322-2 bis (Ab)
+
+
+###### Article R322-2 bis
+
+Lorsque les travaux portent sur les parties communes d'un immeuble achevé depuis dix ans au moins à la date de notification
+de la prime et faisant l'objet du plan de sauvegarde visé à l'article L. 615-1, la prime peut être accordée, par dérogation
+au premier alinéa de l'article R. 322-2, à toutes les personnes mentionnées à l'article R. 322-1, quel que soit le montant de
+leurs ressources. Dans ce cas, elle est attribuée sans que son montant ne soit limité par le plafond prévu à l'article R.
+322-8, pour tous les travaux inscrits dans un programme prévisionnel adopté par l'assemblée générale de la copropriété.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 :
+
+La section I du chapitre II du titre II du livre III du code de la construction et de l'habitation (partie Réglementaire)
+sont abrogés. Cette abrogation prend effet à compter de la date de publication de l'arrêté interministériel approuvant le
+règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 20 novembre 1979 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2000-104 du 8 février 2000 - art. 2 () JORF 9 février 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. R322-1 (M)
+	  - Code de la construction et de l'habitation. - art. R322-2 (M)
+	  - Code de la construction et de l'habitation. - art. R322-8 (M)
 
 
 ###### Article R322-3
@@ -45956,7 +46023,11 @@ développement social des quartiers ou pour des opérations réalisées dans les
 l'article 1466 A du code général des impôts ; il en est de même pour la réalisation de loges de gardien ;
 
 d) Pour des opérations dont le maître d'ouvrage est une commune de moins de 5 000 habitants, lorsque l'importance des travaux
-et les conditions d'équilibre financier de l'opération le justifient.
+et les conditions d'équilibre financier de l'opération le justifient ;
+
+e) Pour la réalisation de travaux effectués dans les logements-foyers pour travailleurs migrants mentionnés au 3° de
+l'article R. 351-55 lorsque, à l'issue des travaux, le nouveau statut de ces logements-foyers est celui des résidences
+sociales mentionnées au 2° de l'article R. 351-55.
 
 En outre, le représentant de l'Etat dans le département peut, à titre exceptionnel, porter le taux de la subvention au plus à
 40 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article R. 323-6, lorsque le maître d'ouvrage,
@@ -45970,8 +46041,7 @@ bénéficiaire de la subvention, rencontre des difficultés financières particu
 
 	**Modifié par**:
 
-	  - Décret n°97-1262 1997-12-29 art. 2 I, II, III, IV JORF 30 décembre 1997 en vigueur le 1er janvier 1998
-	  - Décret n°97-1262 du 29 décembre 1997 - art. 2 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°2000-104 du 8 février 2000 - art. 3 () JORF 9 février 2000
 
 	**Liens**:
 
@@ -45983,6 +46053,7 @@ bénéficiaire de la subvention, rencontre des difficultés financières particu
 
 	  - CGI 1466 A
 	  - Code de la construction et de l'habitation. - art. R323-6 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 
 	**Cité par**:
 
@@ -47307,6 +47378,41 @@ e) Ni détruits sans qu'il soit procédé à leur reconstruction dans un délai 
 	  - Code de la construction et de l'habitation. - art. R351-56 (M)
 
 
+###### Article R331-5
+
+Ne peuvent donner lieu au bénéfice des subventions et des prêts définis par la présente section :
+
+a) Les logements faisant l'objet d'une autre aide de l'Etat à l'investissement que celle prévue par la présente section sauf
+dispositions contraires expresses ;
+
+b) Les logements mentionnés à l'article R. 331-1, sauf ceux visés au 10° du premier alinéa dudit article, dont les travaux
+ont commencé avant :
+
+- l'acquisition, par le demandeur, du droit d'utiliser le terrain d'implantation du logement projeté ;
+
+- ou l'obtention de la décision favorable prise dans les conditions prévues à l'article R. 331-6 sauf dérogation du
+représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-104 du 8 février 2000 - art. 5 () JORF 9 février 2000
+
+	**Cité par**:
+
+	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+
+
 ###### Article R331-7
 
 Si les travaux ne sont pas commencés dans un délai de dix-huit mois à compter de la date de la décision favorable, le
@@ -47661,17 +47767,20 @@ collectivités locales ou leurs groupements ;
 8° La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux collectifs
 à usage commun, annexes dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation ;
 
-9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
+9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56 ;
+
+10° L'acquisition de logements dans le cadre des dispositions prévues à l'article L. 261-3.
 
 Dans les limites et conditions fixées par la présente section, et notamment par les articles R. 331-12, R. 331-14, R. 331-15,
 des subventions et des prêts définis par la sous-section 2 peuvent être accordés pour financer l'acquisition de logements
-locatifs et le cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7°
-et 8° de l'alinéa précédent, lorsque les logements concernés sont adaptés aux besoins de ménages qui rencontrent des
-difficultés d'insertion particulières. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations
-d'acquisition-amélioration sont applicables à ces logements y compris en l'absence de travaux. Le coût d'acquisition de ces
-logements ne doit pas excéder un pourcentage de la valeur de base des opérations d'acquisition-amélioration fixée par arrêté
-des ministres chargés de la construction et de l'habitation et des finances pour les zones géographiques déterminées. Ces
-dispositions s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R. 351-55.
+locatifs existants et le cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°,
+4°, 6°, 7°, 8° et 10° de l'alinéa précédent lorsque les logements concernés sont adaptés aux besoins des ménages qui
+rencontrent des difficultés d'insertion particulières. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux
+opérations d'acquisition-amélioration sont applicables à ces logements y compris en l'absence de travaux. Le coût
+d'acquisition de ces logements ne doit pas excéder un pourcentage de la valeur de base des opérations d'acquisition-
+amélioration fixée par arrêté des ministres chargés de la construction et de l'habitation et des finances pour les zones
+géographiques déterminées. Ces dispositions s'appliquent également aux logements-foyers dénommés résidences sociales et
+mentionnés à l'article R. 351-55.
 
 **Liens relatifs à cet article**
 
@@ -47778,55 +47887,17 @@ dispositions s'appliquent également aux logements-foyers dénommés résidences
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
-	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°99-794 du 14 septembre 1999 - art. 1 () JORF 15 septembre 1999
+	  - Décret n°2000-104 du 8 février 2000 - art. 4 () JORF 9 février 2000
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R351-55, R351-56, R331-12, R331-14, R331-15, R331-9 à R331-24
+	  - Code de la construction et de l'habitation R351-55, R351-56, L261-3, R331-12, R331-14, R331-15, R331-9 à R331-24
+	  - Code de la construction et de l'habitation. - art. L261-3 (M)
 	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-
-
-###### Article R331-5
-
-Ne peuvent donner lieu au bénéfice des subventions et des prêts définis par la présente section :
-
-a) Les logements faisant l'objet d'une autre aide de l'Etat à l'investissement que celle prévue par la présente section sauf
-dispositions contraires expresses ;
-
-b) Les logements dont les travaux ont commencé avant :
-
-- l'acquisition, par le demandeur, du droit d'utiliser le terrain d'implantation du logement projeté ;
-
-- ou l'obtention de la décision favorable du ministre chargé de la construction et de l'habitation prévue à l'article R.
-331-3, sauf dérogation dudit ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-3 (M)
 
 
 ###### Article R331-6
@@ -47934,16 +48005,20 @@ Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des l
 personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un
 arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Toutefois, pour les logements
 mentionnés au deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut excéder 60 p.
-100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département.
+100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département. Ce
+plafond est fixé par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances.
+
 Pour les opérations financées dans les conditions de l'article R. 331-14 autres que celles prévues au deuxième alinéa de
 l'article R. 331-1 et bénéficiant de subventions prévues aux 2° et 3° de l'article R. 331-15, 30 % au moins des logements
 sont obligatoirement attribués à des personnes dont l'ensemble des ressources est inférieur ou égal à 60 % du montant
 déterminé par l'arrêté précité ; un dépassement au plus égal à 20 % de ce même montant est permis pour l'attribution de 10 %
-au plus des logements des opérations ainsi financées par un même maître d'ouvrage. Pour les opérations ne bénéficiant pas de
-subventions prévues à l'article R. 331-15 et réalisées par les maîtres d'ouvrage mentionnés aux 1° et 2° de l'article R.
-331-14 à l'aide de prêts mentionnés audit article, le représentant de l'Etat dans le département peut accorder une dérogation
-aux plafonds de ressources prévus à la première phrase du présent article dans les conditions fixées par l'arrêté précité. La
-dérogation est inscrite dans la convention conclue entre l'Etat et le bailleur en application de l'article L. 351-2.
+au plus des logements des opérations ainsi financées par un même maître d'ouvrage.
+
+Pour les opérations ne bénéficiant pas de subventions prévues à l'article R. 331-15 et réalisées par les maîtres d'ouvrage
+mentionnés aux 1° et 2° de l'article R. 331-14 à l'aide de prêts mentionnés audit article, le représentant de l'Etat dans le
+département peut accorder une dérogation aux plafonds de ressources prévus à la première phrase du présent article dans les
+conditions fixées par l'arrêté précité. La dérogation est inscrite dans la convention conclue entre l'Etat et le bailleur en
+application de l'article L. 351-2.
 
 Les bailleurs doivent être en mesure de justifier du respect des règles découlant du présent article.
 
@@ -48003,7 +48078,12 @@ Les modalités de détermination et de contrôle des ressources sont également 
 
 	**Modifié par**:
 
-	  - Décret n°99-794 du 14 septembre 1999 - art. 2 () JORF 15 septembre 1999
+	  - Décret n°2000-104 du 8 février 2000 - art. 6 () JORF 9 février 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-15 (M)
 
 
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
@@ -48026,7 +48106,12 @@ anonymes d'habitations à loyer modéré ;
 
 3° Pour les logements mentionnés au deuxième alinéa de l'article R. 331-1, des collectivités territoriales ou leurs
 groupements et des organismes dont l'un des objets est de contribuer au logement des personnes défavorisées et agréés à cette
-fin par le représentant de l'Etat dans le département.
+fin par le représentant de l'Etat dans le département ;
+
+4° Aux collectivités locales ou leurs groupements pour la réalisation des opérations mentionnées aux 3°, 4°, 5°, 6°, 7°, 8°
+et, à l'exclusion des opérations de construction, au 9° du premier alinéa de l'article R. 331-1, éligibles aux dispositions
+prévues aux 2° et 3° de l'article R. 331-15 et dont les logements sont attribués dans les conditions du deuxième alinéa de
+l'article R. 331-12.
 
 **Liens relatifs à cet article**
 
@@ -48067,10 +48152,11 @@ fin par le représentant de l'Etat dans le département.
 
 	**Modifié par**:
 
-	  - Décret n°99-794 du 14 septembre 1999 - art. 3 () JORF 15 septembre 1999
+	  - Décret n°2000-104 du 8 février 2000 - art. 7 () JORF 9 février 2000
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. R331-15 (M)
 	  - Code de la construction et de l'habitation. - art. R331-3 (M)
 
 
@@ -48106,6 +48192,21 @@ d'une activité parahôtelière soumise à la taxe sur la valeur ajouté ;
 - 20% de cette assiette pour les opérations de construction mentionnée au dernier alinéa de l'article R. 331-1 et adaptées
 aux besoins des ménages qui rencontrent des difficultés d'insertion particulières.
 
+b) Par dérogation au a, pour les opérations réalisées en Corse, le taux de subvention est au plus égal à :
+
+14,5 % de l'assiette définie au 1°. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 17,5 % au plus ;
+
+12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant,
+avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur
+ajoutée ;
+
+17,5 % de cette assiette pour des opérations à caractère expérimental ;
+
+20 % de cette assiette pour les opérations de relogement liées à des démolitions ;
+
+30 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et adaptées
+aux besoins de ménages qui rencontrent des difficultés d'insertion particulières.
+
 3° a) Une subvention peut être octroyée aux opérations autres que celles prévues au 2°. Le taux de subvention est au plus
 égal à :
 
@@ -48119,86 +48220,35 @@ d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
 
 - 13% de cette assiette pour des opérations à caractère expérimental ;
 
-- 20%  de cette assiette pour des opérations mentionnées au dernier de l'article R. 333-1 et adaptées aux besoins de ménages
+- 20% de cette assiette pour des opérations mentionnées au dernier de l'article R. 333-1 et adaptées aux besoins de ménages
 qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 25% du prix de
-revient de l'opération. A titre exceptionnel, le  préfet peut, par dérogation, porter ce taux à 25% au plus, avec un montant
-de subvention ne pouvant excéder 25% du prix de revient de l'opération.
+revient de l'opération. A titre exceptionnel, le  préfet peut, par dérogation,
+
+b) Par dérogation au a, pour les opérations réalisées en Corse autres que celles prévues au 2°, le taux de subvention est au
+plus égal à :
+
+17 % de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne peut dépasser 18 % du prix de revient de
+l'opération. A titre exceptionnel, le préfet peut porter ce taux à 18,5 % au plus avec un montant de subvention ne pouvant
+excéder 21 % du prix de revient de l'opération ;
+
+12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant,
+avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur
+ajoutée ;
+
+20 % de cette assiette pour des opérations à caractère expérimental et pour les opérations de relogement liées à des
+démolitions ;
+
+30 % pour les opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui
+rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 35 % du prix de
+revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 35 % au plus, avec un montant
+de subvention ne pouvant excéder 35 % du prix de revient de l'opération.
+
+porter ce taux à 25% au plus, avec un montant de subvention ne pouvant excéder 25% du prix de revient de l'opération.
 
 4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
 
 Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances fixe les conditions
 d'application du présent article.
-
-5° a) Une subvention peut être octroyée aux opérations de construction. Le taux de subvention est au plus égal à :
-
-5 % de l'assiette définie au 1° pour les opérations de construction. A titre exceptionnel, le préfet peut, par dérogation,
-porter ce taux à 6,5 % au plus ;
-
-8 % de cette assiette pour les opérations à caractère expérimental ;
-
-12 % de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
-dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
-d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
-
-20 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et adaptées
-aux besoins de ménages qui rencontrent des difficultés d'insertion particulières.
-
-b) Par dérogation au a, une subvention peut être octroyée aux opérations de construction réalisées en Corse. Le taux de
-subvention est au plus égal à 9,5 % de l'assiette définie au 1°. Il peut être porté :
-
-Au plus à 17,5 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1. A
-titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 % au plus ;
-
-Au plus à 30 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et
-adaptées aux besoins de ménages qui rencontrent des difficultés d'insertion particulières ;
-
-Au plus à 12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres
-d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à taxe sur
-la valeur ajoutée ;
-
-Au plus à 12,5 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
-opérations de relogement liées à des démolitions.(abrogé à compter du 1-1-2000) 
-
-6° a)  Une subvention peut être octroyée aux opérations autres que celles prévues au 2°. Le taux de subvention est au plus
-égal à :
-
-10 % de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne peut dépasser 13 % du prix de revient de
-l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 11,5 % au plus, avec un montant de
-subvention ne pouvant excéder 13 % du prix de revient de l'opération ;
-
-12 % de cette assiette pour des opérations de relogement liées à des démolitions et pour la réalisation de logements-foyers
-dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme
-d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
-
-13 % de cette assiette pour des opérations à caractère expérimental ;
-
-20 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de
-ménages qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 25 % du
-prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 % au plus, avec un
-montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération.
-
-b) Par dérogation au a, pour les opérations réalisées en Corse autres que celles prévues au 2° ainsi que pour la réalisation
-de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les
-gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée, le taux de subvention est au plus
-égal à 12 % de l'assiette définie au 1° et le montant de la subvention ne peut dépasser 15 % du prix de revient de
-l'opération. Le taux de subvention peut être porté :
-
-Au plus à 20 % pour des opérations mentionnées au dernier alinéa de l'article R. 331-1, avec un montant de subvention ne
-pouvant excéder 25 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux
-à 25 % au plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération ;
-
-Au plus à 30 % pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui
-rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 35 % du prix de
-revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 35 % au plus, avec un montant
-de subvention ne pouvant excéder 35 % du prix de revient de l'opération ;
-
-Au plus à 15 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
-opérations de relogement liées à des démolitions.(abrogé à compter du 1-1-2000).
-
-**Nota:**
-
-[*NOTA : Décret 99-794 1999-09-14 art. 4 III : les 5° et 6° sont abrogés à compter du 1er janvier 2000 (date passée au 30
-avril 2000 par le décret 2000-104 du 8 février 2000 art. 9).*]
 
 **Liens relatifs à cet article**
 
@@ -48233,16 +48283,14 @@ avril 2000 par le décret 2000-104 du 8 février 2000 art. 9).*]
 	  - Code de la construction et de l'habitation. - art. R353-90 (V)
 	  - Code de la construction et de l'habitation. - art. R381-4 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-794 1999-09-14 art. 4
-
 	**Modifié par**:
 
-	  - Décret n°99-794 1999-09-14 art. 4 JORF 15 septembre 1999
+	  - Décret n°2000-104 du 8 février 2000 - art. 8 () JORF 9 février 2000
+	  - Décret n°2000-104 du 8 février 2000 - art. 9 () JORF 9 février 2000
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation R331-10, R331-1, R333-1
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 
 
