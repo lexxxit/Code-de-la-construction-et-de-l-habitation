@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-26
 
 # Partie législative
 
@@ -38522,15 +38522,10 @@ section 2.*]
 ###### Article R323-6
 
 Pour déterminer le montant de la subvention, le montant des travaux pris en considération ne peut excéder 85 000 F par
-logement. Toutefois, le représentant de l'Etat dans le département peut accorder des dérogations à ce montant de travaux pour
-des opérations réalisées sur des immeubles dégradés et pour des opérations de restructuration interne des immeubles ou de
-reprise de l'architecture extérieure.
-
-**Nota:**
-
-[*L'article 1er du décret 87-1113 du 24 décembre 1987 crée un nouvel article R323-12 dont la teneur suit : "La présente
-section n'est pas applicable aux départements d'outre-mer", sans abroger l'ancien article R323-12 qui lui appartient à la
-section 2.*]
+logement pouvant être porté à 130 000 F en cas d'augmentation de la surface habitable d'au moins 10 p. 100 dans les logements
+achevés au 31 décembre 1960. Toutefois, le représentant de l'Etat dans le département peut accorder des dérogations à ce
+montant de travaux pour des opérations réalisées sur des immeubles dégradés et pour des opérations de restructuration interne
+des immeubles ou de reprise de l'architecture extérieure.
 
 **Liens relatifs à cet article**
 
@@ -38540,7 +38535,7 @@ section 2.*]
 
 	**Modifié par**:
 
-	  - Décret n°91-1136 du 30 octobre 1991 - art. 1 () JORF 1 novembre 1991
+	  - Décret n°93-98 du 20 janvier 1993 - art. 1 () JORF 26 janvier 1993
 
 	**Cité par**:
 
