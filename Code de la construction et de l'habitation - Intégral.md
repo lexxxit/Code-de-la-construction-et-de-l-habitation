@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-08
 
 # Partie législative
 
@@ -63429,6 +63429,92 @@ arrêté du ministre chargé de la construction et de l'habitation et du ministr
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
 
+###### Article R*421-1
+
+Sur leur demande, et après avis conforme de la collectivité locale ou de l'établissement public de rattachement les offices
+publics d'habitations à loyer modéré peuvent être transformés en office public d'aménagement et de construction.
+
+La transformation est prononcée, après avis du Conseil supérieur des habitations à loyer modéré, par le préfet du département
+du siège de l'office.
+
+Lorsque la transformation de plusieurs établissements publics d'habitations à loyer modéré en un office public d'aménagement
+et de construction s'opère par voie de fusion, cette transformation est soumise aux règles fixées aux articles R. 421-1-1 ou
+R. 421-51-1.
+
+Seuls peuvent obtenir la transformation les offices publics d'habitations à loyer modéré dont la qualité de gestion est
+compatible avec une telle opération. Cette qualité est appréciée au regard de la situation financière et des perspectives
+d'activité de l'office ainsi que des résultats d'un contrôle opéré en vertu de l'article L. 451-1.
+
+Seuls sont soumis à ce contrôle les offices n'en ayant pas fait l'objet au cours des douze mois précédant la demande de
+transformation.
+
+L'office public d'aménagement et de construction est substitué dans les droits et obligations du ou des offices publics
+d'habitations à loyer modéré dont il est issu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+
+	**Cité par**:
+
+	  - Décret n°2012-416  du 23 mars 2012 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
+
+
+###### Article R*421-1-1
+
+I. - Lorsque le rattachement d'un office public d'aménagement et de construction à une nouvelle collectivité territoriale ou
+à un nouvel établissement public de coopération intercommunale, le changement de son appellation ou la fusion de plusieurs
+établissements publics d'habitations à loyer modéré comprenant au moins un office public d'aménagement et de construction est
+demandé en application de l'article L. 421-2, la demande est présentée au préfet du département dans lequel l'office public
+d'aménagement et de construction a son siège ou, en cas de changement de collectivité ou d'établissement de rattachement ou
+de fusion, au préfet du département où il aura son siège. Le préfet se prononce dans un délai de six mois au plus, après avis
+du ou des conseils d'administration des établissements publics d'habitation à loyer modéré en cause, du conseil départemental
+de l'habitat du département dans lequel l'office a ou aura son siège social et du Conseil supérieur des habitations à loyer
+modéré. L'absence d'arrêté pris dans le délai vaut rejet de la demande.
+
+II. - L'organisme résultant de la fusion de plusieurs établissements publics d'habitations à loyer modéré comprenant au moins
+un office public d'aménagement et de construction est un office public d'aménagement et de construction.
+
+Dans son appellation figurent les mots : "office public d'aménagement et de construction". Dans tous les actes ou documents
+destinés aux tiers dans lesquels l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots :
+"office public d'aménagement et de construction" ou de l'acronyme : "OPAC".
+
+III. - En cas de fusion, les membres du conseil d'administration du nouvel office public sont désignés dans les conditions
+prévues à l'article R. 421-7. Les membres élus par les locataires dans les conseils d'administration des établissements
+publics ayant concouru à la fusion désignent parmi eux, dans le délai d'un mois suivant l'arrêté préfectoral mentionné au I,
+les trois représentants des locataires appelés à siéger dans le nouveau conseil d'administration jusqu'à la prochaine
+élection ; à défaut, le préfet désigne parmi eux les représentants des locataires à raison d'un membre de chacune des trois
+listes ayant obtenu aux dernières élections le plus fort pourcentage de voix, calculé en comparant le nombre de suffrages
+recueillis par chaque liste au nombre total des électeurs dans l'ensemble des établissements publics ayant concouru à la
+fusion.
+
+En cas de changement de collectivité ou d'établissement public de rattachement, l'organe délibérant de la nouvelle
+collectivité ou du nouvel établissement de rattachement désigne les sept membres appelés à siéger au conseil d'administration
+en application du 1° de l'article R. 421-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L421-2, R421-7
+	  - Code de la construction et de l'habitation. - art. L421-2 (M)
+
+
 ###### Article R*421-2
 
 La dissolution des offices d'aménagement et de construction est prononcée dans les mêmes formes que leur constitution ;
@@ -64202,27 +64288,31 @@ privilégié consentis par la Caisse nationale de crédit agricole, la Caisse de
 
 ###### Article R421-32
 
-Les décrets en Conseil d'Etat portant création des offices publics d'aménagement et de construction sont pris après avis du
-conseil supérieur des habitations à loyer modéré et, le cas échéant, des comités régionaux des habitations à loyer modéré
-intéressés tels qu'ils sont prévus à l'article R. 461-8.
+Les décrets portant création des offices publics d'aménagement et de construction en application de l'article L. 421-2 sont
+pris après avis du ou des conseils départementaux de l'habitat compétents en application du g de l'article R. 362-1 et du
+Conseil supérieur des habitations à loyer modéré. Les offices ainsi créés sont soumis aux dispositions des articles R.
+421-1-1, R. 421-2 et R. 421-4 à R. 421-31.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
 	**Anciens textes**:
 
+	  - Loi n°71-580 1971-07-16 art. 3 (pour partie)
 	  - Code de l'urbanisme 161
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-318 2003-04-01 art. 1 C JORF 8 avril 2003
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R461-8 (V)
+	  - Code de la construction et de l'habitation L421-2, R362-1, R421-1-1, R421-2, R421-4 à R421-31
+	  - Code de la construction et de l'habitation. - art. L421-2 (M)
+	  - Code de la construction et de l'habitation. - art. R362-1 (M)
 
 
 ##### Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.
@@ -64389,6 +64479,60 @@ fixées par les articles R. 331-32 à R. 331-77, après accord de la collectivit
 
 ##### Sous-section 1 : Création et gestion.
 
+###### Article R*421-51-1
+
+I. - Les offices publics d'habitations à loyer modéré sont créés, en application de l'article L. 421-4, par décret pris après
+avis du ou des conseils départementaux de l'habitat compétents en application du g de l'article R. 362-2 et du Conseil
+supérieur des habitations à loyer modéré. Leur dissolution est prononcée dans les mêmes formes.
+
+Lorsque le rattachement d'un office public d'habitations à loyer modéré à une nouvelle collectivité territoriale ou à un
+nouvel établissement public de coopération intercommunale, le changement de son appellation ou la fusion de plusieurs offices
+publics d'habitations à loyer modéré est demandé en application de l'article L. 421-4, la demande est présentée au préfet du
+département dans lequel l'office public d'habitations à loyer modéré a son siège ou, en cas de changement de collectivité ou
+d'établissement de rattachement ou de fusion, au préfet du département où il aura son siège. Le préfet se prononce dans un
+délai de six mois au plus, après avis du ou des conseils d'administration des offices publics d'habitation à loyer modéré en
+cause, du conseil départemental de l'habitat du département dans lequel l'office a ou aura son siège social et du Conseil
+supérieur des habitations à loyer modéré. L'absence d'arrêté pris dans le délai vaut rejet de la demande.
+
+II. - L'organisme résultant de la fusion de plusieurs organismes publics d'habitations à loyer modéré est un office public
+d'habitations à loyer modéré, sauf s'il est recouru à la procédure de transformation en office public d'aménagement et de
+construction prévue à l'article R. 421-1.
+
+Si l'organisme résultant de la fusion est un office public d'habitations à loyer modéré, il comporte dans son appellation les
+mots : "office public d'habitations à loyer modéré". Dans tous les actes ou documents destinés aux tiers dans lesquels
+l'office emploie un nom d'usage, celui-ci est précédé ou suivi immédiatement des mots : "office public d'habitations à loyer
+modéré" ou de l'acronyme : "OPHLM".
+
+III. - En cas de fusion, les membres du conseil d'administration du nouvel office public d'habitations à loyer modéré sont
+désignés dans les conditions prévues à l'article R. 421-55. Les membres élus par les locataires dans les conseils
+d'administration des établissements publics ayant concouru à la fusion désignent parmi eux, dans le délai d'un mois suivant
+l'arrêté préfectoral mentionné au I, les trois représentants des locataires appelés à siéger dans le nouveau conseil
+d'administration jusqu'à la prochaine élection ; à défaut, le préfet désigne parmi eux les représentants des locataires à
+raison d'un membre de chacune des trois listes ayant obtenu aux dernières élections le plus fort pourcentage de voix calculé
+en comparant le nombre de suffrages recueillis par chaque liste au nombre total des électeurs dans l'ensemble des
+établissements publics ayant concouru à la fusion.
+
+En cas de changement de collectivité ou d'établissement public de rattachement d'un office public d'habitations à loyer
+modéré, l'organe délibérant de la nouvelle collectivité ou du nouvel établissement de rattachement désigne les cinq membres
+appelés à siéger au conseil d'administration en application du 1° de l'article R. 421-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L421-4, R362-2, R421-1, R421-55
+	  - Code de la construction et de l'habitation. - art. L421-4 (M)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+
 ###### Article R*421-52
 
 La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, ou rattachés à des établissements
@@ -64429,6 +64573,50 @@ conseil supérieur des habitations à loyer modéré, dans le cas contraire.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
+
+
+###### Article R*421-53
+
+Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
+répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
+en assurer la gestion. 
+
+Ils peuvent également assurer la gestion, notamment en qualité de syndic, d'immeubles réalisés en vue de l'accession à la
+propriété par les collectivités ou organismes visés à l'article R. 421-51 ; 
+
+Ils peuvent acquérir des lots dans les copropriétés mentionnées au seizième alinéa de l'article L. 421-1. La revente de ces
+lots n'est pas soumise aux dispositions du chapitre III du titre IV du livre IV du présent code mais requiert l'avis
+préalable du service des domaines. La location des lots en attente de leur revente est, par dérogation aux dispositions du
+titre IV du livre IV du présent code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989
+tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la
+fixation du loyer ne peut excéder les plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de
+l'article 31 du code général des impôts. En outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989
+sont applicables aux contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du
+bailleur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 40 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code de la construction et de l'habitation. - art. L411-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-51 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
 ###### Article R*421-54
@@ -65138,45 +65326,6 @@ l'exercice de sa mission et sur l'activité de l'office.
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
 
-###### Article R*421-1
-
-Sur leur demande, et après avis conforme de la collectivité locale ou de l'établissement public de rattachement les offices
-publics d'habitations à loyer modéré peuvent être transformés en office public d'aménagement et de construction.
-
-Cette transformation est prononcée par arrêté du ministre chargé de l'intérieur et de la décentralisation, du ministre chargé
-des finances et du ministre chargé de l'urbanisme et du logement, après avis du Conseil supérieur des habitations à loyer
-modéré.
-
-Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une même région peuvent demander à se
-transformer par voie de fusion en un seul office public d'aménagement et de construction ; cette transformation est soumise
-aux règles fixées aux alinéas précédents.
-
-Seuls peuvent obtenir la transformation les offices publics d'habitations à loyer modéré dont la qualité de gestion est
-compatible avec une telle opération. Cette qualité est appréciée au regard de la situation financière et des perspectives
-d'activité de l'office ainsi que des résultats d'un contrôle opéré en vertu de l'article L. 451-1.
-
-Seuls sont soumis à ce contrôle les offices n'en ayant pas fait l'objet au cours des douze mois précédant la demande de
-transformation.
-
-L'office public d'aménagement et de construction est substitué dans les droits et obligations du ou des offices publics
-d'habitations à loyer modéré dont il est issu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°2012-416  du 23 mars 2012 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-
 ###### Article R*421-4
 
 Les offices publics d'aménagement et de construction peuvent :
@@ -65184,11 +65333,11 @@ Les offices publics d'aménagement et de construction peuvent :
 1° Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1, ainsi que
 les opérations financées au moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat dans les cas
 prévus à l'article L. 351-2 et assurer la gestion des immeubles, acquis, construits ou aménagés aux mêmes fins, notamment en
-qualité de syndic;
+qualité de syndic ;
 
 2° Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux collectivités locales, à d'autres organismes
 d'habitations à loyer modéré sous réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés d'économie
-mixte ou à des organismes à but non lucratif;
+mixte ou à des organismes à but non lucratif ;
 
 3° Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention ou
 d'un traité de concession passé avec les collectivités locales, les établissements publics regroupant des communes ayant
@@ -65204,22 +65353,31 @@ arrêté du ministre chargé de la construction et de l'habitation, du ministre 
 et du ministre de l'intérieur, après avis du conseil supérieur des habitations à loyer modéré, aux études de tout programme
 de construction de logements neufs ou de remise en état et d'amélioration de logements anciens, à la préparation des appels à
 la concurrence et des marchés, au contrôle et à la surveillance de l'exécution des travaux, à la préparation des règlements
-aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux;
+aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux ;
 
 6° Réaliser, dans les conditions définies à l'article L. 421-1, des hébergements de loisirs à vocation sociale tels que des
 villages de vacances, des maisons familiales de vacances, des terrains aménagés de camping et de caravanage à usage locatif,
 des habitations légères de loisirs définies par le décret n° 80-694 du 4 septembre 1980 et des hébergements gérés par des
-associations de jeunesse et d'éducation populaire.
+associations de jeunesse et d'éducation populaire ;
+
+7° Acquérir des lots dans les copropriétés mentionnées au seizième alinéa de l'article L. 421-1. La revente de ces lots n'est
+pas soumise aux dispositions du chapitre III du titre IV du livre IV du présent code mais requiert l'avis préalable du
+service des domaines. La location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du
+livre IV du présent code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989 tendant à
+améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du
+loyer ne peut excéder les plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de l'article 31 du code
+général des impôts. En outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux
+contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
 	**Cite**:
 
+	  - CGI 31
 	  - Décret n°80-694 1980-09-04
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 1989-07-06 art. 40, art. 15
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
 	  - Code de l'urbanisme - art. L300-1 (M)
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
@@ -65229,9 +65387,13 @@ associations de jeunesse et d'éducation populaire.
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 	  - Code de la construction et de l'habitation. - art. L442-9 (M)
 
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
 	**Modifié par**:
 
-	  - Décret n°92-726 du 29 juillet 1992 - art. 3 () JORF 30 juillet 1992
+	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
 
 	**Cité par**:
 
@@ -65351,10 +65513,9 @@ Les offices publics d'habitations à loyer modéré ont pour objet de réaliser,
 l'article L. 411-1 ainsi que les opérations financées en application du livre III, titre V, et de l'article L. 431-6 du
 présent code.
 
-Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du conseil départemental de l'habitat et du conseil
-supérieur des habitations à loyer modéré.
+(Alinéa abrogé)
 
-Ils sont habilités à gérer les immeubles à usage principal d'habitations appartenant à l'Etat, aux collectivités locales, aux
+Ils sont habilités à gérer les immeubles à usage principal d'habitation appartenant à l'Etat, aux collectivités locales, aux
 établissements publics groupant des collectivités locales et à d'autres organismes d'habitations à loyer modéré, à des
 sociétés d'économie mixte ou à des organismes à but non lucratif.
 
@@ -65369,46 +65530,11 @@ précisées aux articles R. 421-4 et R. 421-4-1.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L421-4 (M)
-	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+	  - Décret n°2003-318 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
-
-
-###### Article R*421-53
-
-Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
-répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
-en assurer la gestion.
-
-Ils peuvent également assurer la gestion, notamment en qualité de syndic, d'immeubles réalisés en vue de l'accession à la
-propriété par les collectivités ou organismes visés à l'article R. 421-51 ;
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 en vigueur le 1er juin 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13 : date d'entrée en vigueur
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L411-1, R421-51
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 
 
 ###### Article R*421-58
@@ -86087,6 +86213,315 @@ Fait à Paris, le ....
 	**Créé par**:
 
 	  - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
+
+
+## Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.
+
+###### Article Annexe à l'article R422-9
+
+1. Forme.
+
+Il est formé entre les propriétaires des actions créées ci-après et de toutes celles qui le seraient ultérieurement une
+société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable régie par les dispositions
+du livre IV du code de la construction et de l'habitation, par la loi du 24 juillet 1966 modifiée sur les sociétés, par la
+loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, ainsi que par les dispositions du code civil
+et de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales.
+
+2. Dénomination.
+
+La dénomination de la société est :
+
+Société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable.
+
+3. Objet social.
+
+1° A titre principal, et dans le cadre de l'article L. 411-1 du code de la construction et de l'habitation, la société a pour
+objet :
+
+- d'assister, à titre de prestataires de services, des personnes physiques et des sociétés de construction, constituées en
+application du titre Ier du livre II du code de la construction et de l'habitation, pour la réalisation et la gestion de
+programmes de construction en accession à la propriété ;
+
+- en vue de l'accession à la propriété, de construire, acquérir, réaliser des travaux, vendre et gérer des immeubles à usage
+d'habitation ou à usage professionnel ou d'habitation ou destinés à cet usage, soit en qualité de maître d'ouvrage, soit par
+l'intermédiaire de sociétés civiles de construction ayant pour objet l'accession sociale à la propriété ;
+
+- d'assister, à titre de prestataires de services, des personnes physiques ou morales en vue de la réalisation de tous
+travaux portant sur des immeubles existants et destinés à un usage d'habitation ou à un usage professionnel et d'habitation ;
+
+- de réaliser des lotissements ;
+
+- de réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L. 421-1 du code de la
+construction et de l'habitation ;
+
+- de consentir des prêts aidés par l'Etat au profit de ses membres personnes physiques et des membres personnes physiques de
+sociétés coopératives de construction et, en complément du prêt principal ci-dessus défini, de consentir un prêt
+complémentaire à ces mêmes personnes physiques ;
+
+- de réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
+gestion ou pour les populations logées dans le patrimoine d'autres organismes de logement social.
+
+Toute opération réalisée en application du troisième tiret de la présente clause 3-1° doit faire l'objet d'une garantie de
+financement et d'une garantie d'acquisition des locaux non vendus, dans les conditions fixées aux articles R. 422-9-2 à R.
+422-9-5 du code de la construction et de l'habitation.
+
+2° La société a également pour objet, à titre accessoire :
+
+- de gérer les sociétés coopératives de construction jusqu'au complet remboursement des emprunts non transférables aux
+associés et les programmes de construction qu'elles ont réalisés ;
+
+- de gérer les sociétés anonymes d'habitations à loyer modéré de location-attribution, ainsi que les programmes de
+construction qu'elles ont réalisés ;
+
+- d'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
+et l'aménagement de terrains qu'elle pourra ultérieurement céder à ces personnes ;
+
+- d'être syndic de copropriété d'immeubles bâtis, construits ou acquis, soit par la société, soit par un autre organisme
+d'habitations à loyer modéré, soit par une collectivité locale, soit par une société d'économie mixte, soit par un organisme
+sans but lucratif, soit par une société civile coopérative de construction placée sous son égide ou sous celle d'un autre
+organisme d'habitations à loyer modéré, et d'exécuter des fonctions d'administrateur de biens pour les mêmes immeubles.
+
+- de réaliser pour son compte ou pour celui des sociétés visées ci-dessus, à titre d'accessoire à un programme d'habitations
+à loyer modéré, des locaux à usage commun et toutes opérations de construction nécessaires à la vie économique et sociale de
+ce programme ;
+
+- de réaliser pour le compte de ses membres, à titre de prestataire de services, toutes opérations de restauration,
+d'amélioration ou d'agrandissement d'immeuble à usage principal d'habitation ;
+
+- de remplir les missions de mandataire ou de conducteur d'opération qui lui sont autorisées par la loi n° 85-704 du 12
+juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'ouvrage privée, pour le compte
+des collectivités locales, leurs établissements publics, leurs groupements ou les syndicats mixtes, dans la limite des
+compétences définies à l'article L. 411-1 du code de la construction et de l'habitation ;
+
+- de servir de prestataire de service, le cas échéant dans les conditions définies par la loi du 12 juillet 1985 précitée,
+aux organismes d'habitations à loyer modéré, ainsi qu'à leurs groupements ou leurs filiales, aux organismes du secteur de
+l'économie sociale visés par la loi du 20 juillet 1983 précitée, aux collectivités territoriales, à leurs groupements et aux
+sociétés d'économie mixte locales, et à toute personne physique ou morale réalisant des constructions nécessaires à la vie
+économique et sociale accessoires à un programme d'habitations visé au dernier alinéa de l'article L. 411-1 du code de la
+construction et de l'habitation ;
+
+- de réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer modéré
+sont ou seront habilitées par les textes législatifs ou réglementaires s'y rapportant.
+
+- acquérir des lots dans les copropriétés mentionnées au onzième alinéa de l'article L. 422-3. La revente de ces lots n'est
+pas soumise aux dispositions du chapitre III du titre IV du livre IV du présent code mais requiert l'avis préalable du
+service des domaines. La location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du
+livre IV du présent code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989 tendant à
+améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du
+loyer ne peut excéder les plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de l'article 31 du code
+général des impôts. En outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux
+contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur.
+
+3° Lorsque la société est titulaire de l'agrément prévu à l'article L. 422-3-2 du code de la construction et de l'habitation,
+elle a également pour objet, à titre accessoire :
+
+- de construire, d'acquérir, d'aménager, de restaurer, d'agrandir, d'améliorer et de gérer des immeubles à usage d'habitation
+ou à usage professionnel et d'habitation, en vue de la location.
+
+4. Compétence territoriale - Siège social.
+
+L'activité de la société s'exerce sur le territoire de la région où est situé son siège social. Elle peut également
+intervenir sur le territoire des départements limitrophes à cette région, après accord de la commune d'implantation de
+l'opération.
+
+Par décision prise dans les conditions prévues par le code de la construction et de l'habitation, le ministre chargé du
+logement peut étendre la compétence territoriale de la société.
+
+Le siège social de la société est fixé à : ....
+
+5. Capital social.
+
+Le capital est variable, et entièrement libéré lors de la souscription de parts.
+
+Le capital statutaire est fixé à la somme de ... F.
+
+Il ne peut être inférieur à celui exigé par la loi du 10 septembre 1947 précitée (art. 27 et 27 bis), ni supérieur au plafond
+d'émission fixé par l'assemblée générale extraordinaire.
+
+Les personnes physiques ou morales ayant vocation à avoir recours aux services de la société ou dont la société utilise le
+travail, qui doivent détenir, en application de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 précitée, selon le
+cas, au moins 65 ou au moins 51 p. 100 des droits de vote aux assemblées générales de la société, ne peuvent être que les
+suivantes :
+
+- les personnes physiques ayant recours aux services de la société, dans le cadre des activités qu'elle exerce en application
+des clauses 3 (1°) et 3 (3°) ;
+
+- les sociétés civiles coopératives de construction ;
+
+- les employés de la société.
+
+La société admet comme associés dans la limite de ... p. 100 du capital effectif, d'autres personnes morales et physiques qui
+entendent contribuer à la réalisation des objectifs de la coopérative.
+
+Ces associés ne peuvent en aucun cas détenir ensemble plus de 35 p. 100 ou 49 p. 100 selon le cas du total des droits de
+vote. Ces associés disposent ensemble d'un nombre de voix proportionnel au capital qu'ils détiennent. Ils répartissent ces
+voix entre eux au prorata de la part de chacun dans ce capital détenu.
+
+Lorsqu'au nombre de ces associés figurent des sociétés coopératives ou des organismes d'habitations à loyer modéré, la limite
+ci-dessus est portée à 49 p. 100 sans que les droits de vote de ceux de ces associés qui ne sont ni des sociétés coopératives
+ni des organismes d'habitations à loyer modéré puissent excéder la limite de 35 p. 100.
+
+Lorsque la part de capital que détiennent les associés définis au quatrième alinéa de la présente clause dépasse, selon le
+cas, 35 p. 100 ou 49 p. 100 du total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due
+proportion.
+
+Les réductions de capital effectuées dans les cas prévus au dernier alinéa de l'article L. 423-5 du code de la construction
+et de l'habitation ne peuvent être réalisées que dans le respect des conditions fixées par cet article.
+
+La société ne peut procéder à l'amortissement de son capital.
+
+6. Retraits - Exclusions.
+
+Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés ou
+d'actionnaires. Le retrait ou l'exclusion d'associés ou d'actionnaires ne peut avoir pour effet de réduire le capital
+effectif, ni à un montant inférieur au minimum légal, ni en dessous de ... p. 100 du capital le plus élevé de la société
+depuis sa constitution. Il ne peut en outre avoir pour effet de réduire le nombre des actionnaires à moins de sept.
+
+Le retrait d'associés ou d'actionnaires n'ayant pas recours aux services de la société ou dont la société n'utilise pas le
+travail ne peut être réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en ait été
+informé par pli recommandé avec avis de réception.
+
+L'exclusion d'associés ou d'actionnaires ne peut être prononcée que par une décision d'assemblée générale prise dans les
+conditions de quorum et de majorité d'une assemblée générale extraordinaire.
+
+L'exclusion est notifiée à l'intéressé par la société, par pli recommandé avec demande d'avis de réception ; il dispose d'un
+délai de six mois à compter de cette notification pour céder ses actions dans les conditions fixées par la clause 7 des
+présents statuts.
+
+Les actionnaires ou associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les
+tiers de toutes les obligations existant au jour de leur retrait ou de leur exclusion.
+
+7. Cession d'actions.
+
+Le prix de cession des actions ne peut dépasser celui qui est fixé pour les sociétés d'habitations à loyer modéré en
+application de l'article L. 423-4 du code de la construction et de l'habitation, sauf dérogation accordée dans les conditions
+prévues par cet article.
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, le transfert d'actions à un tiers, à quelque titre que ce soit, doit être autorisé par le
+conseil d'administration qui n'est pas tenu de faire connaître les motifs de son agrément ou de son refus.
+
+Le refus d'agrément peut résulter soit d'une décision expresse, soit d'un défaut de réponse dans un délai de trois mois à
+compter de la date de réception de la demande.
+
+En cas de refus d'agrément, le conseil d'administration est tenu, dans un délai de trois mois à compter de son refus, de
+faire acquérir les actions par une ou plusieurs personnes qu'il aura lui-même désignées. En ce cas, le prix ne peut être
+inférieur à celui de la cession non autorisée.
+
+Si, à l'expiration du délai sus-indiqué, l'achat n'est pas réalisé, l'agrément est considéré comme donné, sauf prorogation du
+délai par décision de justice à la demande de la société.
+
+8. Organes dirigeants de la société.
+
+La société est administrée par un conseil d'administration ou par un directoire et un conseil de surveillance.
+
+Lorsque la société exerce une activité de gestion locative telle que prévue à l'article L. 422-3, le conseil d'administration
+ou le conseil de surveillance comprend au moins un représentant des coopérateurs locataires désigné par l'assemblée
+générale ; la perte de la qualité de locataire met un terme au mandat de l'administrateur nommé en cette qualité.
+
+9. Situation des administrateurs et membres du conseil de surveillance.
+
+Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
+conditions prévues à l'article R. 421-56.
+
+10. Expression des voix aux assemblées.
+
+Chaque associé ou actionnaire mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix,
+quel que soit le nombre des actions qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres
+actionnaires, plus de dix voix dans les assemblées, la sienne comprise.
+
+Les associés visés aux alinéas 5 à 8 de la clause n° 5 des présents statuts disposent de droits de vote correspondant au
+nombre des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5.
+
+11. Année sociale.
+
+L'année sociale de la société débute le 1er janvier et finit le 31 décembre.
+
+12. Contrats.
+
+En dehors des cas où la société utilise les contrats prévus en application des articles L. 222-1 et L. 231-1 du code de la
+construction et de l'habitation, les contrats de prestation de services qui seront conclus par la société avec des sociétés
+coopératives de construction, des personnes physiques ou des sociétés coopératives, dans le cadre de la clause 3 des présents
+statuts, seront conformes à des modèles types établis par arrêté du ministre chargé du logement et du ministre chargé du
+Trésor.
+
+13. Documents transmis à l'administration.
+
+Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article 157 de la loi
+du 24 juillet 1966 précitée, la société adresse au préfet du département de son siège, à la Caisse des dépôts et
+consignations et au ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée
+générale des actionnaires, ainsi que le compte rendu de celle-ci.
+
+En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
+adressée dans les même conditions.
+
+14. Résultats de l'exercice.
+
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 347 de la loi du 24 juillet 1966 précitée, il peut
+être distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14
+de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur
+d'un premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+
+15. Réserves.
+
+Conformément à l'article L. 423-5 du code de la construction et de l'habitation, et sous réserve des exceptions prévues par
+cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporées au capital.
+
+Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au
+profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation spécifique aux
+sociétés coopératives d'H.L.M., et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des
+présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la
+société et à parer aux éventualités.
+
+Des transferts de réserves peuvent être réalisés par la société dans les conditions définies à l'article L. 422-13 du code de
+la construction et de l'habitation.
+
+16. Attribution de l'actif.
+
+Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur
+la liquidation ne pourra, après paiement du passif et remboursement du capital, attribuer la portion d'actif qui excéderait
+la moitié du capital social que dans les conditions prévues par le code de la construction et de l'habitation.
+
+17. Transmission des statuts.
+
+Les statuts de la société sont transmis au préfet du département du siège de la société après chaque modification.
+
+18. Révision comptable.
+
+La société fait procéder périodiquement à l'examen analytique de sa situation financière et de sa gestion, conformément à
+l'article L. 422-3 du code de la construction et de l'habitation.
+
+19. Commission d'attribution (1).
+
+La (ou les) commission(s) d'attribution des logements locatifs prévue(s) en application de l'article L. 441-1-1 du code de la
+construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conformément à l'article R. 441-18 du même code.
+
+(1) Cette clause ne doit figurer que dans les statuts des sociétés bénéficiant de l'autorisation mentionnée à l'article L.
+422-3-2 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation annexe à l'article R422-6
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°91-385 1991-04-23 annexe JORF 24 avril 1991
+
+	**Modifié par**:
+
+	  - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
+	  - Décret n°2002-1158 du 13 septembre 2002 - art. 7 () JORF 14 septembre 2002
+	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
+
+	**Transféré par**:
+
+	  - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
 
 
 ## Statuts types des sociétés anonymes de crédit immobilier.
