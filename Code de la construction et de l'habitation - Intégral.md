@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-03-15
+Version Consolidée au 1990-06-02
 
 # Partie législative
 
@@ -4841,11 +4841,15 @@ reconduction.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 1
+	  - Loi n°64-1247 1964-12-16 ART. 1 (LOI 75-1328 1975-12-31 ART. 48)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -4868,15 +4872,19 @@ Les parties conviennent de leurs droits respectifs de propriété sur les constr
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 2
+	  - Loi n°64-1247 1964-12-16 ART. 2
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
 	  - Arrêté du 29 juillet 1987 - art. 1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 
 ###### Article L251-3
@@ -4896,12 +4904,16 @@ Le preneur peut consentir les servitudes passives indispensables à la réalisat
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 3
-	  - Loi n°75-1328 1975-12-31 art. 49
+	  - Loi n°64-1247 1964-12-16 ART. 3 (LOI 75-1328 1975-12-31 ART. 47 II)
+	  - Loi n°75-1328 1975-12-31 ART. 49
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cite**:
 
@@ -4929,11 +4941,15 @@ Sauf stipulation contraire du bail, il peut démolir, en vue de les reconstruire
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 4
+	  - Loi n°64-1247 1964-12-16 ART. 4
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 
 ###### Article L251-5
@@ -4958,7 +4974,7 @@ reconstruction éventuelle des bâtiments détruits.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 5 5oi 77-1457 19977-12-29 art. 9)
+	  - Loi n°64-1247 1964-12-16 art. 5 (Loi 77-1457 1977-12-29 art. 9
 
 	**Codifié par**:
 
@@ -4966,7 +4982,7 @@ reconstruction éventuelle des bâtiments détruits.
 
 	**Modifié par**:
 
-	  - Loi n°79-17 1979-01-03 ART. 9 I JORF 4 JANVIER 1979
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -4993,15 +5009,19 @@ l'expiration du bail.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 6
+	  - Loi n°64-1247 1964-12-16 ART. 6
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L251-3 (M)
+	  - Code de la construction et de l'habitation L251-3 AL. 4
 
 
 ###### Article L251-7
@@ -5014,11 +5034,15 @@ pourraient être dues.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 7
+	  - Loi n°64-1247 1964-12-16 ART. 7
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 
 ###### Article L251-8
@@ -5030,15 +5054,19 @@ l'article L. 251-5 sont d'ordre public.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 8
+	  - Loi n°64-1247 1964-12-16 ART. 8
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Loi n°79-17 1979-01-03 art. 9 I JORF 4 janvier 1979
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L251-5 AL. 4
 
 
 ###### Article L251-9
@@ -5061,7 +5089,7 @@ dispositions législatives s'appliquent aux baux en cours au 31 décembre 1977.
 
 	  - Loi n°75-1328 du 31 décembre 1975 - art. 47, v. init.
 	  - Loi n°75-1328 du 31 décembre 1975 - art. 48, v. init.
-	  - Code de la construction et de l'habitation L251-3 AL. 3
+	  - Code de la construction et de l'habitation L251-1 AL. 3
 
 	**Codifié par**:
 
@@ -5069,7 +5097,124 @@ dispositions législatives s'appliquent aux baux en cours au 31 décembre 1977.
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 8 () JORF 3 JUIN 1983
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
+
+
+#### Chapitre II : Bail à réhabilitation.
+
+###### Article L252-1
+
+Est qualifié de bail à réhabilitation et soumis aux dispositions du présent chapitre le contrat par lequel soit un organisme
+d'habitations à loyer modéré, soit une société d'économie mixte dont l'objet est de construire ou de donner à bail des
+logements, soit une collectivité territoriale, soit un organisme dont l'un des objets est de contribuer au logement des
+personnes défavorisées et agréé à cette fin par le représentant de l'Etat dans le département s'engage à réaliser dans un
+délai déterminé des travaux d'amélioration sur l'immeuble du bailleur et à le conserver en bon état d'entretien et de
+réparations de toute nature en vue de louer cet immeuble à usage d'habitation pendant la durée du bail.
+
+Le contrat indique la nature des travaux, leurs caractéristiques techniques et le délai de leur exécution.
+
+En fin de bail, les améliorations réalisées bénéficient au bailleur sans indemnisation.
+
+Le bail à réhabilitation est consenti par ceux qui ont le droit d'aliéner et dans les mêmes conditions et formes que
+l'aliénation. Il est conclu pour une durée minimale de douze ans. Il ne peut se prolonger par tacite reconduction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 10 (V)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1387 B (T)
+	  - Code de la construction et de l'habitation. - art. L252-2 (V)
+	  - Code de la construction et de l'habitation. - art. L291-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+	  - Code de la construction et de l'habitation. - art. L511-2 (M)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+	  - Code général des impôts, CGI. - art. 1384 B (V)
+	  - Code général des impôts, CGI. - art. 1586 B (V)
+	  - Code général des impôts, CGI. - art. 1599 ter E (Ab)
+	  - Code général des impôts, CGI. - art. 33 quinquies (V)
+
+
+###### Article L252-2
+
+Le preneur est titulaire d'un droit réel immobilier. Ce droit peut être hypothéqué ; il peut être saisi dans les formes
+prescrites pour la saisie immobilière.
+
+Ce droit est cessible nonobstant toute convention contraire. La cession ne peut être consentie qu'à l'un des organismes
+mentionnés au premier alinéa de l'article L. 252-1, avec l'accord du bailleur. Le droit ne peut être cédé que s'il porte sur
+la totalité de l'immeuble loué. Le cédant demeure garant de l'exécution du bail par le cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L252-1 (M)
+
+
+###### Article L252-3
+
+La prise d'effet du bail à réhabilitation est subordonnée à la conclusion par le preneur d'une convention prévue à l'article
+L. 351-2 dont la date d'expiration est identique à celle de ce bail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
+
+	**Cité par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 317 septies B (T)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 H (P)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+
+###### Article L252-4
+
+Six mois avant la date d'expiration du bail à réhabilitation, le bailleur peut proposer aux occupants un contrat de location
+prenant effet à cette date. A défaut, le preneur est tenu, au plus tard trois mois avant l'expiration du bail à
+réhabilitation, d'offrir aux occupants un logement correspondant à leurs besoins et à leurs possibilités. L'occupant qui n'a
+pas conclu de contrat de location ou accepté l'offre de relogement est déchu de tout titre d'occupation sur le logement à
+l'expiration du bail à réhabilitation. Au terme du bail à réhabilitation, le preneur est tenu de restituer l'immeuble au
+bailleur libre de location et d'occupation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 
 ### Titre VI : Ventes d'immeubles à construire ou à rénover.
@@ -8805,23 +8950,25 @@ sur le territoire national. Son domaine d'application comprend :
 au moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont fixées
 par décret ;
 
-2. Les logements à usage locatif financés dans les conditions prévues aux titres Ier et II, chapitre Ier et IV, section I du
-présent livre et au livre IV du présent code dont les bailleurs s'engagent à respecter certaines obligations définies par
-décrets et précisées par des conventions régies par le chapitre III du présent titre ; celles-ci doivent être conformes à des
-conventions types annexées aux décrets ;
+2. Les logements à usage locatif appartenant à des organismes d'habitations à loyer modéré ou gérés par eux ou appartenant à
+des sociétés d'économie mixte, ou appartenant à d'autres bailleurs lorsque, dans ce dernier cas, les logements ont été
+construits, acquis ou améliorés avec le concours financier de l'Etat, à condition que les bailleurs s'engagent à respecter
+certaines obligations définies par décrets et précisées par des conventions régies par le chapitre III du présent titre ;
+celles-ci doivent être conformes à des conventions types annexées aux décrets ;
 
-3. Les logements à usage locatif construits, améliorés, ou acquis et améliorés à compter du 5 janvier 1977 au moyen de formes
-spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont déterminées par décrets ;
-l'octroi de ces aides est subordonné à l'engagement pris par les bailleurs de respecter certaines obligations définies par
-décrets et précisées par des conventions régies par le chapitre III du présent titre ; celles-ci doivent être conformes à des
+3. Les logements à usage locatif construits, acquis ou améliorés à compter du 5 janvier 1977 au moyen de formes spécifiques
+d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont déterminées par décrets ; l'octroi de
+ces aides est subordonné à l'engagement pris par les bailleurs de respecter certaines obligations définies par décrets et
+précisées par des conventions régies par le chapitre III du présent titre ; celles-ci doivent être conformes à des
 conventions types annexées aux décrets ;
 
 4. Les logements à usage locatif construits ou améliorés après le 4 janvier 1977 dans des conditions fixées par décret et
 dont les bailleurs s'engagent à respecter certaines obligations définies par décrets et précisées par des conventions régies
 par le chapitre III du présent titre ; celles-ci doivent être conformes à des conventions types annexées aux décrets ;
 
-5. Les logements-foyers qui peuvent être assimilés, dans des conditions fixées par décret en Conseil d'Etat, aux logements
-mentionnés aux 2 et 3 ci-dessus.
+5. Les logements-foyers de jeunes travailleurs et les logements-foyers assimilés dans des conditions fixées par décret en
+Conseil d'Etat aux logements mentionnés aux 2° et 3° ci-dessus, dès lors qu'ils font l'objet des conventions régies par le
+chapitre III du présent titre ; "
 
 6. Les logements occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi
 n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, lorsque ces logements ont été
@@ -9108,10 +9255,6 @@ caractéristiques et les conditions d'octroi sont fixées par décret.
 
 	  - Loi n°84-595 1984-07-12
 
-	**Modifié par**:
-
-	  - Loi n°84-595 du 12 juillet 1984 - art. 39 () JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985
@@ -9131,6 +9274,10 @@ caractéristiques et les conditions d'octroi sont fixées par décret.
 	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
 	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe III (V)
 	  - TXT_ASSOCIE: Code de la construction R353-89
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 18 () JORF 2 juin 1990
 
 
 ###### Article L351-3
@@ -10307,6 +10454,86 @@ conventionnement.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+
+###### Article L353-19
+
+Pour les logements appartenant à des sociétés d'économie mixte et par dérogation à l'article L. 353-7, les dispositions de la
+convention s'appliquent de plein droit, à compter de sa date d'entrée en vigueur ou de la date d'achèvement des travaux
+lorsqu'elle en prévoit, aux titulaires de baux en cours ou aux bénéficiaires du droit au maintien dans les lieux sans qu'il
+soit nécessaire de leur donner congé.
+
+Les dispositions de l'article L. 353-17 sont applicables aux logements mentionnés ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 19 () JORF 2 juin 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-17 (V)
+	  - Code de la construction et de l'habitation. - art. L353-7 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L411-4 (V)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-68 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+
+###### Article L353-20
+
+Nonobstant toutes dispositions ou stipulations contraires, les bailleurs, autres que ceux mentionnés à l'article L. 353-14,
+peuvent louer les logements régis par une convention conclue en application de l'article L. 351-2 aux associations
+mentionnées au premier alinéa de l'article L. 442-8-1 et aux associations ou établissements publics mentionnés à l'article L.
+442-8-4.
+
+" Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnalisée au logement prévue par
+l'article L. 351-1.
+
+" Ne peuvent se prévaloir des dispositions de l'article L. 353-2 relatives à la reconduction des baux à la volonté du
+locataire pendant la durée de la convention :
+
+" 1° Les sous-locataires des associations mentionnées au premier alinéa de l'article L. 442-8-1, après le refus d'une offre
+de relogement définitif correspondant à leurs besoins et à leurs possibilités ;
+
+" 2° Les sous-locataires des associations ou établissements publics mentionnés à l'article L. 442-8-4, dès lors qu'ils ne
+répondent plus aux conditions pour être logés par ces personnes morales telles que précisées par le contrat de sous-location.
+"
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 19 () JORF 2 juin 1990
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L321-9 (V)
+	  - Code de la construction et de l'habitation. - art. R351-27 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-64 (V)
+	  - Code de la construction et de l'habitation. - art. R353-66 (V)
+	  - Code de la construction et de l'habitation. - art. R353-94 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-14 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.
@@ -12779,15 +13006,39 @@ attributions réalisées pour ces logements.
 
 Les conditions d'application des règles prévues à l'article L. 441-1, notamment les critères de priorité pour l'attribution
 des logements et les conditions de leur réservation au profit des personnes prioritaires, ainsi que les modalités de
-l'information du représentant de l'Etat prévue au deuxième alinéa du présent article, sont, pour chaque département,
-précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat. Ce
-règlement tient compte des programmes locaux de l'habitat communiqués au conseil départemental de l'habitat.
+l'information du représentant de l'Etat prévue au cinquième alinéa du présent article, sont, pour chaque département,
+précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat.    " Ce
+règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, ainsi que des
+besoins évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la loi
+n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
 
-Le représentant de l'Etat dans le département s'assure du respect des règles prévues à l'article L. 441-1 et au premier
-alinéa du présent article. A cette fin, chaque organisme lui communique au moins deux fois par an toutes les informations
+" Lorsque la situation du logement social d'un secteurgéographique le nécessite, des protocoles d'occupation du patrimoine
+social sont conclus, à l'initiative d'au moins deux des partenaires, par le représentant de l'Etat dans le département, des
+collectivités territoriales et des organismes d'habitations à loyer modéré. Peuvent être associés à ces protocoles les autres
+organismes bénéficiaires de réservations dans le patrimoine concerné.
+
+" Les protocoles d'occupation du patrimoine social ont pour objet de fixer des objectifs en termes d'accueil de populations
+défavorisées et d'en déterminer les modalités d'application ainsi que les mesures de solvabilisation et d'accompagnement
+social nécessaires. Ils définissent les conditions de l'intervention des différents organismes concernés en tenant compte de
+leur bilan social et de l'état de l'occupation de leur patrimoine. Un bilan des protocoles demandés, en cours d'élaboration
+ou conclus dans le département, est présenté au conseil départemental de l'habitat, appelé à donner son avis, au moins une
+fois par an. "
+
+Le représentant de l'Etat dans le département s'assure du respect des règles prévues à l'article L. 441-1 et aux alinéas
+précédents du présent article. A cette fin, chaque organisme lui communique au moins deux fois par an toutes les informations
 nécessaires sur les logements mis en location ou devenant vacants et sur les attributions prononcées.
 
-En ces d'inobservation de ces règles par un organisme, après épuisement des voies de conciliation et mise en demeure, le
+" Lorsqu'au terme d'un délai de six mois après qu'il a été demandé par le représentant de l'Etat dans le département, aucun
+protocole n'a été conclu, celui-ci peut désigner aux organismes d'habitations à loyer modéré des personnes prioritaires que
+ceux-ci sont tenus de loger. Ces désignations s'imputent sur les droits à réservation du représentant de l'Etat dans le
+département. Elles sont prononcées en tenant compte de l'état de l'occupation du patrimoine de l'organisme au regard de la
+nécessaire diversité de lacomposition sociale de chaque quartier, de chaque commune et de chaque département, en vue de faire
+contribuer, de manière équilibrée, chaque commune au logement des personnes et familles défavorisées.
+
+" Le représentant de l'Etat dans le département dispose de la même faculté vis-à-vis d'un organisme d'habitations à loyer
+modéré qui a refusé de signer le protocole ou n'a pas observé ses dispositions. "
+
+En cas d'inobservation de ces règles par un organisme, après épuisement des voies de conciliation et mise en demeure, le
 représentant de l'Etat dans le département peut, pour une durée qui ne peut excéder un an, désigner un délégué spécial chargé
 de prononcer les attributions de logements au nom et pour le compte de l'organisme, dans le respect des règles et des
 conventions régulièrement signées.
@@ -12830,9 +13081,9 @@ conventions régulièrement signées.
 	  - Code général des collectivités territoriales - art. L5218-2 (V)
 	  - Code général des impôts, CGI. - art. 1388 bis (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 32 () JORF 19 juillet 1985
+	  - Loi n°90-449 du 31 mai 1990 - art. 15 () JORF 2 juin 1990
 
 	**Liens**:
 
@@ -13204,15 +13455,13 @@ l'occasion des locations en meublé.
 
 Par dérogation au premier alinéa de l'article L. 442-8, les organismes mentionnés à l'article L. 411-2 peuvent louer des
 logements à des associations déclarées ayant pour objet de les sous-louer à titre temporaire à des personnes en difficulté et
-d'exercer les actions nécessaires à leur réinsertion. Seules peuvent bénéficier de cette disposition les associations
-déclarées qui ont obtenu d'une collectivité locale une garantie financière assurant au bailleur, en cas de défaillance de
-l'association locataire, le paiement des loyers et des charges dûment justifiées.    " Par dérogation au premier alinéa de
-l'article L. 442-8, les locataires des organismes mentionnés à l'article L. 411-2 peuvent, après en avoir informé l'organisme
-bailleur, par lettre recommandée avec accusé de réception, sous-louer une partie de leur logement à des personnes âgées ou
-des personnes handicapées adultes avec lesquelles ils ont conclu un contrat conforme aux dispositions du cinquième alinéa de
-l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre
-onéreux, de personnes âgées ou handicapées adultes. Le prix du loyer de la ou des pièces principales sous-louées est calculé
-au prorata du loyer total rapporté à la surface habitable du logement. "
+d'exercer les actions nécessaires à leur réinsertion.    " Par dérogation au premier alinéa de l'article L. 442-8, les
+locataires des organismes mentionnés à l'article L. 411-2 peuvent, après en avoir informé l'organisme bailleur, par lettre
+recommandée avec accusé de réception, sous-louer une partie de leur logement à des personnes âgées ou des personnes
+handicapées adultes avec lesquelles ils ont conclu un contrat conforme aux dispositions du cinquième alinéa de l'article 6 de
+la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes
+âgées ou handicapées adultes. Le prix du loyer de la ou des pièces principales sous-louées est calculé au prorata du loyer
+total rapporté à la surface habitable du logement. "
 
 Les dispositions des articles L. 442-1 à L. 442-6 sont applicables aux logements loués dans les conditions du présent
 article. Les sous-locataires mentionnés aux deux premiers alinéa du présent article sont assimilés à des locataires pour
@@ -13238,7 +13487,7 @@ l'habitation.
 
 	**Modifié par**:
 
-	  - Loi n°89-475 1989-07-10 art. 8 I, II JORF 12 juillet 1989
+	  - Loi n°90-449 du 31 mai 1990 - art. 13 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -13412,7 +13661,10 @@ locales ou à des groupements de collectivités locales et gérés par lesdits o
 titre IV du livre IV, les sections I et II du chapitre III du même titre ainsi que la section II du chapitre III du titre V
 du livre III sont applicables aux logements construits en application du titre II de la loi du 13 juillet 1928 établissant un
 programme de construction ou d'habitation à bon marché et de logements, en vue de remédier à la crise de l'habitation, qui ne
-sont pas gérés par un organisme d'H.L.M. "
+sont pas gérés par un organisme d'H.L.M.. Le plafond de ressources à prendre en compte pour l'application de l'article L.
+441-3 sera, pour les locataires de logements construits en application de la loi du 13 juillet 1928 précitée, supérieur de 50
+p. 100 aux plafonds de ressources applicables aux bénéficiaires de la législation sur les habitations à loyer modéré et des
+nouvelles aides de l'Etat en secteur locatif. "
 
 **Liens relatifs à cet article**
 
@@ -13426,7 +13678,7 @@ sont pas gérés par un organisme d'H.L.M. "
 
 	**Modifié par**:
 
-	  - Loi n°89-18 du 13 janvier 1989 - art. 5 () JORF 14 janvier 1989
+	  - Loi n°90-449 du 31 mai 1990 - art. 24 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -13436,7 +13688,7 @@ sont pas gérés par un organisme d'H.L.M. "
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L442-1 à L442-9
+	  - Code de la construction et de l'habitation L442-1 à L442-9, l441-3
 	  - Loi n°1928-07-13
 
 
@@ -14838,6 +15090,28 @@ administrative.
 	  - Code de la construction et de l'habitation. - art. L481-1 (M)
 
 
+###### Article L481-3
+
+Le chapitre Ier du titre IV du présent livre est applicable aux sociétés d'économie mixte pour les logements faisant l'objet
+des conventions régies par le chapitre III du titre V du livre III du présent code. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 11 février 2013 - art. Annexe (V)
+
+	**Créé par**:
+
+	  - Loi n°90-449 1990-06-02 art. 12 JORF 2 juin 1990
+
+
 ## Livre V : Bâtiments menaçant ruine ou insalubres.
 
 ### Titre Ier : Bâtiments menaçant ruine.
@@ -15304,7 +15578,8 @@ réserver une partie des locaux à des services publics et fixer les modalités 
 Le juge des référés de la situation de l'immeuble peut, par dérogation aux dispositions de l'article 1244 du code civil,
 accorder des délais renouvelables excédant une année aux occupants de locaux d'habitation ou à usage professionnel, dont
 l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des intéressés ne pourra avoir lieu dans des
-conditions normales, sans que lesdits occupants aient à justifier d'un titre à l'origine de l'occupation.
+conditions normales, sans que lesdits occupants aient à justifier d'un titre à l'origine de l'occupation.    " Le juge qui
+ordonne l'expulsion peut, même d'office, accorder les mêmes délais, dans les mêmes conditions. "
 
 Cette disposition n'est pas applicable lorsque le propriétaire exerce son droit de reprise dans les conditions prévues à
 l'article 19 de la loi n. 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
@@ -15332,7 +15607,7 @@ allocations de logement.
 
 	**Modifié par**:
 
-	  - Loi n°80-1 1980-01-04 ART. 1 JORF 5 JANVIER 1980
+	  - Loi n°90-449 du 31 mai 1990 - art. 25 () JORF 2 juin 1990
 
 
 ###### Article L613-2
@@ -15363,10 +15638,38 @@ les circonstances atmosphériques, ainsi que des diligences que l'occupant justi
 	  - Code de la construction et de l'habitation. - art. L613-2-1 (VT)
 
 
+###### Article L613-2-1
+
+Toute décision accordant des délais sur les fondements des articles L. 613-1 et L. 613-2 est notifiée au représentant de
+l'Etat dans le département en vue de la prise en compte de la demande de relogement de l'occupant dans le cadre du plan
+départemental d'action pour le logement des personnes défavorisées prévu par la loi n° 90-449 du 31 mai 1990 visant à la mise
+en oeuvre du droit au logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31
+	  - Code de la construction et de l'habitation. - art. L613-1 (M)
+	  - Code de la construction et de l'habitation. - art. L613-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 26 () JORF 2 juin 1990
+
+	**Cité par**:
+
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 11 (VD)
+
+
 ###### Article L613-3
 
 Nonobstant toute décision d'expulsion passée en force de chose jugée et malgré l'expiration des délais accordés en vertu des
-articles précédents, il doit être sursis à toute mesure d'expulsion non exécutée à la date du 1er décembre de chaque année
+articles précédents, il doit être sursis à toute mesure d'expulsion non exécutée à la date du 1er novembre de chaque année
 jusqu'au 15 mars de l'année suivante [*période*], à moins que le relogement des intéressés soit assuré dans des conditions
 suffisantes respectant l'unité et les besoins de la famille.
 
@@ -15377,11 +15680,15 @@ occupent des locaux situés dans un immeuble ayant fait l'objet d'un arrêté de
 
 	**Anciens textes**:
 
-	  - Loi n°51-1372 1951-12-01 art. 1 ter
+	  - Loi n°51-1372 1951-12-01 ART. 1 TER (LOI 56-1223 1956-12-03 ART. 3)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 21 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -24783,22 +25090,13 @@ des travaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 art. 1 al. 1, al. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L251-5, R111-2
-	  - Code de la construction et de l'habitation. - art. L251-5 (M)
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cité par**:
 
@@ -24827,17 +25125,13 @@ années du bail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 art. 1 al. 3 à al. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 	**Cite**:
 
@@ -24858,17 +25152,13 @@ VI du décret n° 53-960 du 30 septembre 1953 modifié fixant les rapports entre
 	  - Code de la construction et de l'habitation. - art. L251-5 (M)
 	  - Code de la construction et de l'habitation. - art. R251-1 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Loi n°90-449 du 31 mai 1990 - art. 11 () JORF 2 juin 1990
 
 
 ### Titre VI : Ventes d'immeubles à construire.
