@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-01-26
+Version Consolidée au 1993-01-30
 
 # Partie législative
 
@@ -8973,6 +8973,95 @@ s'applique pas aux logements vendus dans les conditions prévues à l'article L.
 	  - Code de la construction et de l'habitation. - art. R*313-31 (M)
 
 
+###### Article L313-1-2
+
+Le prix maximal de cession des parts ou actions des sociétés immobilières dont 50 p. 100 au moins du capital ont été
+souscrits au titre de la participation des employeurs à l'effort de construction par des organismes agréés à collecter cette
+participation ou par des employeurs, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations
+à loyer modéré, ne peut être ni supérieur à leur valeur dans la situation nette de la société ni supérieur à leur valeur
+nominale majorée de 50 p. 100.
+
+Une dérogation aux dispositions de l'alinéa précédent peut être accordée par le ministre chargé du logement, après avis de
+l'Agence nationale pour la participation des employeurs à l'effort de construction, à la demande d'un actionnaire d'une de
+ces sociétés ayant acquis ses parts ou actions avant la publication de la loi n° 93-122 du 29 janvier 1993 relative à la
+prévention de la corruption et à la transparence de la vie économique et des procédures publiques à un prix supérieur à celui
+résultant de l'application dudit alinéa, et qui démontrerait que la cession de ses titres à ce prix entraînerait pour lui une
+spoliation.
+
+Toute cession de parts ou d'actions en violation des dispositions du présent article est frappée d'une nullité d'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°93-122 1993-01-29
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 62 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-27 (V)
+
+
+###### Article L313-1-3
+
+Les statuts des sociétés mentionnées à l'article L. 313-1-2 doivent contenir des clauses conformes à des clauses types fixées
+par décret. Ce décret peut en outre apporter des restrictions aux règles d'usage et d'aliénation du patrimoine de ces
+sociétés.
+
+Ces sociétés, lorsqu'elles ont été constituées antérieurement à la publication de la loi n° 93-122 du 29 janvier 1993
+relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, doivent
+mettre leurs statuts en conformité avec les clauses types mentionnées à l'alinéa précédent, dans un délai de douze mois après
+la publication du décret établissant ces clauses types.
+
+Si l'assemblée des actionnaires ou des associés n'est pas en mesure de statuer régulièrement sur cette mise en conformité
+dans le délai imparti, le projet de mise en conformité des statuts est soumis à l'homologation du président du tribunal de
+commerce statuant sur requête des représentants légaux de la société.
+
+Il sera interdit aux présidents, administrateurs ou gérants de ces sociétés qui, volontairement, n'auront pas mis ou fait
+mettre les statuts en conformité avec les clauses types dans le délai imparti, pendant un délai de cinq années, de diriger,
+administrer ou gérer à un titre quelconque une des sociétés immobilières concernées par le présent article, et d'engager la
+signature d'une de ces sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°93-122 1993-01-29
+	  - Code de la construction et de l'habitation. - art. L313-1-2 (T)
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 63 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 2 (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 5 (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 6 (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE I (V)
+	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE III (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+
+
 ###### Article L313-2
 
 Ne peuvent participer en droit ou en fait, directement ou par personne interposée, pour leur compte ou pour celui d'autrui, à
@@ -9236,54 +9325,50 @@ industriel et commercial. Elle est chargée [*attributions*] d'une mission gén�
 conditions d'activité des associations à caractère professionnel ou interprofessionnel agréées aux fins de participer à la
 collecte des sommes définies à l'article L. 313-1 et de contrôle de leur gestion.
 
-" A ce titre, elle propose aux ministres intéressés :
+A ce titre, elle propose aux ministres intéressés :
 
-" - les règles régissant le fonctionnement et la gestion de ces associations ;
+- les règles régissant le fonctionnement et la gestion de ces associations ;
 
-" - les normes de gestion destinées à garantir leur solvabilité et l'équilibre de leur structure financière et leur imposant
-de respecter des ratios de couverture et de division des risques ;
+- les normes de gestion destinées à garantir leur solvabilité et l'équilibre de leur structure financière et leur imposant de
+respecter des ratios de couverture et de division des risques ;
 
-" - les règles garantissant le bon emploi des fonds qu'elles collectent.
+- les règles garantissant le bon emploi des fonds qu'elles collectent.
 
-" Ses propositions sont publiques et rendues applicables dans les conditions fixées par le décret en Conseil d'Etat prévu par
+Ses propositions sont publiques et rendues applicables dans les conditions fixées par le décret en Conseil d'Etat prévu par
 l'article L. 313-17.
 
-" En cas de carence de l'Agence nationale, ces règles sont prises par voie réglementaire.
+En cas de carence de l'Agence nationale, ces règles sont prises par voie réglementaire.
 
-" L'Agence nationale est consultée par les ministres intéressés sur les décisions d'agrément des associations précitées.
+L'Agence nationale est consultée par les ministres intéressés sur les décisions d'agrément des associations précitées.
 
-" Elles est chargée, sous l'autorité de ces ministres, de contrôler le respect par ces associations des règles mentionnées
-aux troisième, quatrième, cinquième et septième alinéas ci-dessus ainsi que des dispositions du présent code relatives à la
+Elles est chargée, sous l'autorité de ces ministres, de contrôler le respect par ces associations des règles mentionnées aux
+troisième, quatrième, cinquième et septième alinéas ci-dessus ainsi que des dispositions du présent code relatives à la
 collecte et à l'utilisation du produit de la participation définie à l'article L. 313-1. Son activité de contrôle fait
 l'objet d'un rapport annuel remis aux ministres intéressés qui peuvent le rendre public.
 
-" A ce titre, notamment :
+A ce titre, notamment :
 
 a) Elle détermine la liste, le modèle et les délais de transmission des documents et informations qui doivent lui être
 remis ;
 
-" b) Elle peut demander tous les renseignements, éclaircissements ou justifications nécessaires à l'exercice de sa mission ;
+b) Elle peut demander tous les renseignements, éclaircissements ou justifications nécessaires à l'exercice de sa mission ;
 
-" c) Elle peut demander la communication de tous documents comptables ;
+c) Elle peut demander la communication de tous documents comptables ;
 
-" d) Elle propose au ministre chargé du logement la désignation de ceux de ses agents habilités à exercer les contrôles
+d) Elle propose au ministre chargé du logement la désignation de ceux de ses agents habilités à exercer les contrôles
 nécessaires à l'accomplissement des missions définies aux alinéas précédents. Ces agents sont astreints au secret
 professionnel dans les conditions et sous les peines prévues à l'article 378 du code pénal. Ce secret ne peut leur être
 opposé, sauf par les auxiliaires de justice.
 
-" L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des sommes investies au titre de la
-participation des employeurs à l'effort de construction et propose aux ministres intéressés les éventuelles adaptations du
-taux visé au premier alinéa de l'article L. 313-1.
+L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des sommes investies au titre de la participation
+des employeurs à l'effort de construction et propose aux ministres intéressés les éventuelles adaptations du taux visé au
+premier alinéa de l'article L. 313-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
 
 	**Cité par**:
 
@@ -9310,11 +9395,68 @@ taux visé au premier alinéa de l'article L. 313-1.
 	  - Code de la construction et de l'habitation. - art. R313-35-7 (VT)
 	  - Code rural et de la pêche maritime - art. R716-35 (V)
 
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 68 () JORF 30 janvier 1993
+
 	**Cite**:
 
 	  - Code pénal 378
-	  - Code de la construction et de l'habitation. - art. L313-1 (M)
-	  - Code de la construction et de l'habitation. - art. L313-17 (M)
+
+
+###### Article L313-7-1
+
+Les dispositions de l'article L. 313-7, ainsi que celles du premier et du troisième alinéas de l'article L. 313-13, sont
+également applicables aux organismes agréés à collecter la participation des employeurs à l'effort de construction autres que
+les associations professionnelles ou interprofessionnelles mentionnées au premier alinéa dudit article L. 313-7.
+
+En cas de carence d'un de ces organismes à prendre les mesures de redressement visées au premier alinéa de l'article L.
+313-13, ou en cas d'urgence, le ministre chargé du logement peut, après avis de l'Agence nationale pour la participation des
+employeurs à l'effort de construction, rendu dans un délai qui ne peut excéder huit jours, retirer l'agrément de collecte de
+cet organisme.
+
+En cas de retrait d'agrément, le ministre chargé du logement transfère, sur proposition ou après avis de l'agence nationale,
+la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la participation des
+employeurs à l'effort de construction à une association ou un organisme agréé à collecter la participation, qu'il désigne, et
+nomme à cet effet, auprès de l'organisme en cause, un administrateur chargé de procéder au transfert.
+
+En cas de carence d'un des organismes visés par le présent article, ou lorsque l'administrateur nommé en application de
+l'alinéa précédent rencontre des difficultés du fait de l'organisme en cause, le ministre de tutelle de cet organisme, sur
+proposition du ministre chargé du logement, suspend les organes de direction ou en déclare les membres démissionnaires
+d'office.
+
+Les dispositions du premier alinéa du présent article ne s'appliquent pas aux organismes d'habitations à loyer modéré ou
+sociétés d'économie mixte exerçant, à titre principal, une activité de construction, d'acquisition ou de gestion de logements
+sociaux.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 64 () JORF 30 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation L313-16 (3ème version)
+	  - Code de la construction et de l'habitation. - art. L313-16 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L313-10 (M)
+	  - Code de la construction et de l'habitation. - art. L313-11 (M)
+	  - Code de la construction et de l'habitation. - art. L313-12 (M)
+	  - Code de la construction et de l'habitation. - art. L313-16 (T)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
 
 
 ###### Article L313-8
@@ -9372,23 +9514,19 @@ A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
 ###### Article L313-10
 
-L'Agence nationale [*attributions*] gère un fonds de garanti e dont les règles d'intervention sont définies par arrêté
-conjoint des ministres intéressés, afin de faciliter la bonne fin des opérations engagées par les associations mentionnées à
-l'article L. 313-7.
+L'Agence nationale gère un fonds de garantie dont les règles d'intervention sont définies par arrêté conjoint des ministres
+intéressés, afin de faciliter la bonne fin des opérations engagées par les associations mentionnées à l'article L. 313-7 et
+organismes mentionnés au premier alinéa de l'article L. 313-7-1.
 
-Le fonds de garantie est alimenté par un prélèvement annuel opéré sur les fonds collectés par ces associations et dont le
-montant est déterminé par le conseil d'administration de l'Agence nationale dans la limite d'un plafond fixé par arrêté
-conjoint des ministres intéressés, ainsi que par les produits financiers résultant du placement de ces sommes.
+Le fonds de garantie est alimenté par un prélèvement annuel opéré sur les fonds collectés par ces associations et organismes
+et dont le montant est déterminé par le conseil d'administration de l'Agence nationale dans la limite d'un plafond fixé par
+arrêté conjoint des ministres intéressés, ainsi que par les produits financiers résultant du placement de ces sommes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -9406,36 +9544,43 @@ conjoint des ministres intéressés, ainsi que par les produits financiers résu
 	  - Code de la construction et de l'habitation. - art. R*313-34 (Ab)
 	  - Code de la construction et de l'habitation. - art. R313-35-2 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-11
 
 Le conseil d'administration est composé pour un quart de représentants de l'Etat, pour un quart de représentants des
 organisations d'employeurs représentatives au plan national, pour un quart de représentants des organisations de salariés
-représentatives au plan national et pour un quart de représentants des associations mentionnées à l'article L. 313-7.
+représentatives au plan national et pour un quart de représentants des associations mentionnées à l'article L. 313-7 et
+organismes mentionnés au premier alinéa de l'article L. 313-7-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-12
 
 L'Agence nationale dispose, pour son fonctionnement, d'un prélèvement opéré chaque année sur les sommes collectées par les
-associations mentionnées à l'article L. 313-7.
+associations mentionnées à l'article L. 313-7 et aux organismes mentionnés au premier alinéa de l'article L. 313-7-1.
 
 Le montant de ce prélèvement est déterminé annuellement par le conseil d'administration de l'Agence nationale dans la limite
 d'un plafond fixé par arrêté conjoint des ministres intéressés.
@@ -9444,11 +9589,7 @@ d'un plafond fixé par arrêté conjoint des ministres intéressés.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -9457,22 +9598,33 @@ d'un plafond fixé par arrêté conjoint des ministres intéressés.
 	  - Code de la construction et de l'habitation. - art. R*313-33 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*313-34 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-13
 
-En cas d'irrégularité grave dans l'emploi des fonds ou de non-respect des conditions d'agrément, l'Agence nationale met
-l'association concernée en demeure de prendre, dans un délai déterminé, toutes mesures de redressement utiles.
+En cas d'irrégularité grave dans l'emploi des fonds, de faute grave dans la gestion, de carence dans la réalisation de
+l'objet social ou de non-respect des conditions d'agrément, l'Agence nationale met l'association concernée en demeure de
+prendre, dans un délai déterminé, toute mesure de redressement utile.
 
 En cas de carence à l'expiration de ce délai, elle peut proposer au ministre chargé du logement de suspendre le conseil
 d'administration. S'il prononce cette suspension, le même ministre peut charger l'Agence nationale de prendre les mesures
 conservatoires qui s'imposent.
 
-L'Agence nationale peut proposer au ministre chargé du logement de prononcer le retrait d'agrément. Dans ce cas,
-l'association concernée doit être mise en mesure de présenter préalablement ses observations.
+L'Agence nationale peut proposer au ministre chargé du logement le retrait de l'agrément de l'association concernée ou de
+prononcer à l'encontre de celle-ci une sanction pécuniaire dont le montant est fixé compte tenu de la gravité des faits
+reprochés ainsi que de la situation financière et de la dimension de l'organisme intéressé ; cette sanction pécuniaire, qui
+ne peut excéder 10 000 000 F, est recouvrée comme en matière d'impôts directs. Son produit est versé au fonds de garantie de
+l'Agence nationale pour la participation des employeurs à l'effort de construction. L'association concernée doit être mise en
+mesure de présenter ses observations préalablement au prononcé de l'une ou l'autre de ces sanctions. La décision du ministre
+prononçant des sanctions pécuniaires peut faire l'objet d'un recours de pleine juridiction devant le Conseil d'Etat.
 
 En cas d'urgence, le ministre précité peut, après avis de l'Agence nationale rendu dans un délai qui ne peut excéder huit
 jours, suspendre le conseil d'administration ou retirer l'agrément.
@@ -9481,11 +9633,7 @@ jours, suspendre le conseil d'administration ou retirer l'agrément.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
@@ -9505,6 +9653,10 @@ jours, suspendre le conseil d'administration ou retirer l'agrément.
 	  - Code de la construction et de l'habitation. - art. R313-36 (V)
 	  - Code de la construction et de l'habitation. - art. R313-57 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 69 () JORF 30 janvier 1993
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
@@ -9512,23 +9664,18 @@ jours, suspendre le conseil d'administration ou retirer l'agrément.
 
 ###### Article L313-14
 
-En cas de retrait d'agrément, le ministre chargé du logement peut enjoindre à l'association qui en est l'objet de transférer
-à une autre association agréée qu'il désigne, sur proposition ou après avis de l'Agence nationale, la situation active et
-passive résultant de l'encaissement et de l'emploi des ressources au titre de la participation des employeurs à l'effort de
-construction.
-
-En cas de refus ou de carence de l'association concernée par cette injonction, le ministre a qualité pour demander en justice
-sa dissolution.
+En cas de retrait d'agrément, le ministre chargé du logement procède, par arrêté pris sur proposition ou après avis de
+l'Agence nationale, à la dissolution de l'association, et nomme, par le même arrêté, un liquidateur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Loi n°93-122 du 29 janvier 1993 - art. 66 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -9539,22 +9686,27 @@ sa dissolution.
 
 ###### Article L313-15
 
----En cas de dissolution judiciaire d'une association, l'actif net dégagé par la liquidation ne peut être attribué
-[*condition*] qu'à une association titulaire de l'agrément prévu à l'article L. 313-7.
+En cas de dissolution judiciaire d'une association, l'actif net dégagé par la liquidation ne peut être attribué qu'à une
+association titulaire de l'agrément prévu à l'article L. 313-7.
 
 En cas de dissolution volontaire ou statutaire d'une association, l'actif net dégagé par la liquidation est attribué à une
 association titulaire de l'agrément prévu à l'article L. 313-7, dont la désignation est soumise à l'approbation du ministre
 chargé du logement, après avis de l'Agence nationale.
 
+En cas de liquidation administrative d'une association, la situation active et passive résultant de l'encaissement et de
+l'emploi des ressources au titre de la participation des employeurs à l'effort de construction est attribuée à une
+association titulaire de l'agrément prévu à l'article L. 313-7, désignée par le ministre chargé du logement, après avis de
+l'Agence nationale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Loi n°93-122 du 29 janvier 1993 - art. 67 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -9567,18 +9719,19 @@ chargé du logement, après avis de l'Agence nationale.
 
 ###### Article L313-16
 
-Les interdictions prévues aux articles L. 423-10 et L. 423-11 sont applicables aux administrateurs des associations
-mentionnées à l'article L. 313-7 ainsi qu'aux administrateurs de l'agence nationale.
+Les interdictions prévues aux articles L. 423-10 et L. 423-11 sont applicables aux administrateurs et aux salariés des
+associations mentionnées à l'article L. 313-7 et des organismes mentionnés au premier alinéa de l'article L. 313-7-1 ainsi
+qu'aux administrateurs et aux salariés de l'agence nationale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1 janvier 1988
+	  - Loi n°93-122 du 29 janvier 1993 - art. 70 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -9591,11 +9744,41 @@ mentionnées à l'article L. 313-7 ainsi qu'aux administrateurs de l'agence nati
 	  - Code de la construction et de l'habitation. - art. R313-35-7 (V)
 	  - Code de la construction et de l'habitation. - art. R313-57 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-31 (M)
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 	  - Code de la construction et de l'habitation. - art. L423-10 (M)
 	  - Code de la construction et de l'habitation. - art. L423-11 (M)
+
+
+###### Article L313-16-1
+
+Est puni d'un emprisonnement de cinq ans et d'une amende de 1 000 000 F le fait pour un dirigeant d'un organisme collecteur
+de la participation des employeurs à l'effort de construction de faire, de mauvaise foi, à des fins personnelles directes ou
+indirectes et dans l'exercice de ses fonctions :
+
+- des biens ou du crédit de l'organisme un usage contraire à l'objet de celui-ci ;
+
+- des pouvoirs qu'il possédait ou des voix dont il disposait un usage contraire à l'objet de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 71 () JORF 30 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-32 (M)
 
 
 ##### Section 3 : Union d'économie sociale du logement.
@@ -14087,137 +14270,6 @@ Pour l'application du présent article, le point de départ du délai de dix ans
 	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
 
 
-###### Article L423-1-1
-
-Ne peuvent être cédées qu'à des sociétés d'habitations à loyer modéré :
-
-a) Les actions des sociétés anonymes d'habitations à loyer modéré mentionnées à l'article L. 422-2 qui gèrent moins de 1500
-logements après dix ans d'existence ou qui, quel que soit le nombre de logements qu'elles gèrent, ont construit moins de 500
-logements pendant la période de dix ans qui précède immédiatement la date de la cession ;
-
-b) Les actions des sociétés anonymes de crédit immobilier mentionnées à l'article L. 422-4 qui ont accordé moins de 1000
-prêts pendant la période de dix ans qui précède immédiatement la date de la cession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L422-2 (M)
-	  - Code de la construction et de l'habitation. - art. L422-4 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-2 (V)
-	  - Code de la construction et de l'habitation. - art. L423-1-3 (V)
-	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*423-85 (V)
-	  - Code de la construction et de l'habitation. - art. R423-75 (M)
-	  - Code général des impôts, CGI. - art. 1461 (V)
-	  - Code général des impôts, CGI. - art. 207 (VD)
-
-
-###### Article L423-1-2
-
-Les dispositions de l'article L. 423-1-1 ne s'appliquent pas :
-
-a) En cas de cession soit au conjoint, soit a un ascendant ou à un descendant ou à ceux du conjoint ;
-
-b) En cas de cession, à une personne physique nommée administrateur, du nombre d'actions exigé statutairement pour occuper
-ces fonctions ;
-
-c) En cas de cession à des collectivités locales ou à leurs établissements publics ;
-
-d) En cas de cession à une personne morale figurant sur une liste arrêtée par le ministre chargé des habitations à loyer
-modéré après avis du conseil supérieur des habitations à loyer modéré ;
-
-e) En cas de cession à une autre personne morale ou physique lorsque la cession aura été autorisée par le ministre chargé des
-habitations à loyer modéré après avis du préfet et du [*comité départemental des habitations à loyer modéré*] conseil
-départemental de l'habitat du lieu du siège social de l'organisme.
-
-Ne sont pas considérés comme cessions les transferts d'actions consécutifs à l'ouverture d'une succession ou à la liquidation
-d'une communauté de biens entre époux [*sociétés anonymes crédit immobilier*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-	**Abrogé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-3 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
-
-
-###### Article L423-1-3
-
-Sous réserve du droit préférentiel de souscription des anciens actionnaires, la souscription d'actions nouvelles,
-correspondant à une augmentation du capital d'une société visée à l'article L. 423-1-1, est soumise aux dispositions des
-articles L. 423-1-1 et L. 423-1-2 [*anonyme crédit immobilier, habitations à loyer modéré*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-1-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
-
-
-###### Article L423-1-4
-
-Toute cession ou souscription d'actions intervenue en méconnaissance des dispositions des articles L. 423-1-1, 423-1-2 et L.
-423-1-3 est nulle de plein droit. L'action en nullité se prescrit par cinq ans [*sociétés anonymes habitations à loyer
-modéré, crédit immobilier*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-1-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-1-3 (Ab)
-
-
 ###### Article L423-2
 
 Tout organisme d'habitations à loyer modéré gérant plus de 50 000 logements peut être mis en demeure, par arrêté du ministre
@@ -14263,6 +14315,115 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code de la construction et de l'habitation. - art. L422-9 (VD)
 	  - Code de la construction et de l'habitation. - art. R*423-1 (VD)
 	  - Code de la construction et de l'habitation. - art. R423-80 (V)
+
+
+###### Article L423-4
+
+Le prix maximum de cession des actions des sociétés d'habitation à loyer modéré mentionnées aux articles L. 422-2, L. 422-3
+et L. 422-13 est limité au montant du nominal de ces actions, majoré pour chaque année ayant précédé la cession sans pouvoir
+excéder vingt années d'un intérêt calculé au taux servi au 31 décembre de l'année considérée aux détenteurs d'un premier
+livret de caisse d'épargne majoré de 1,5 point et diminué des dividendes versés pendant la même période.
+
+Le prix maximum de cession des actions des sociétés anonymes de crédit immobilier est limité au montant nominal de ces
+actions, majoré pour chaque année ayant précédé la cession, sans pouvoir excéder vingt années, d'un intérêt équivalant à 90
+p. 100 du taux de rendement des emprunts de l'Etat à l'émission au 31 décembre de l'année considérée et diminué des
+dividendes versés pendant la même période.
+
+Une dérogation à ces dispositions peut être accordée par le ministre chargé du logement, après avis du comité permanent du
+Conseil supérieur des habitations à loyer modéré, à la demande d'un actionnaire ayant acquis des actions avant la publication
+de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et
+des procédures publiques à un prix supérieur à celui résultant des dispositions des alinéas précédents, et qui démontrerait
+que la vente de ses actions à ce prix limité entraînerait pour lui une spoliation.
+
+Toute cession d'actions intervenue en violation des dispositions du présent article est frappée d'une nullité d'ordre public.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°93-122 1993-01-29
+	  - Code de la construction et de l'habitation. - art. L422-13 (M)
+	  - Code de la construction et de l'habitation. - art. L422-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 60 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-37 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. L423-5 (V)
+	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-73 (M)
+	  - Code de la construction et de l'habitation. - art. R*422-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*423-84 (V)
+	  - Code de la construction et de l'habitation. - art. R423-80 (V)
+	  - Code de la construction et de l'habitation. - art. R423-81 (V)
+
+
+###### Article L423-5
+
+Par dérogation à l'article L. 225-127 du code de commerce, dans les organismes privés d'habitations à loyer modéré, toute
+augmentation de capital par incorporation de réserves, bénéfices ou primes d'émission est interdite, sauf dérogation accordée
+par le ministre chargé du logement après avis du comité permanent du Conseil supérieur des habitations à loyer modéré.
+
+Toutefois, cette interdiction ne vise pas les augmentations de capital motivées par un éventuel relèvement du minimum légal
+fixé pour le capital social d'une société anonyme.
+
+Par dérogation aux dispositions des articles L. 225-198 et L. 225-203 du code de commerce, les organismes privés
+d'habitations à loyer modéré ne peuvent procéder à l'amortissement de leur capital.
+
+En outre, si un organisme privé d'habitations à loyer modéré procède à une réduction de capital dans le cas prévu au deuxième
+alinéa de l'article L. 225-206 du même code, le prix de rachat ne peut être supérieur au prix maximum calculé en application
+des deux premiers alinéas de l'article L. 423-4. Si l'organisme procède à une réduction de son capital par réduction du
+montant nominal des actions, la somme remboursée aux actionnaires est calculée par application à la quote-part de capital
+réduite des dispositions des deux premiers alinéas de l'article L. 423-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 178, art. 209, art. 214, art. 217
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 61 () JORF 30 janvier 1993
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 186 al. 2, al. 3, al. 4
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-37 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-7 (V)
+	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-73 (M)
+	  - Code de la construction et de l'habitation. - art. R*422-4 (M)
 
 
 ###### Article L423-9
@@ -14761,6 +14922,28 @@ caisse des dépôts et consignations consenti en application du 3° de l'article
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+
+#### Chapitre III : Marchés des organismes d'habitations à loyer modéré.
+
+###### Article L433-1
+
+Les contrats conclus par les organismes privés d'habitations à loyer modéré sont soumis aux principes de publicité, de mise
+en concurrence et d'exécution prévus par le code des marchés publics dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 48 (Ab) JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R433-5 (V)
 
 
 ### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.
@@ -17149,6 +17332,27 @@ des conventions régies par le chapitre III du titre V du livre III du présent 
 	**Créé par**:
 
 	  - Loi n°90-449 1990-06-02 art. 12 JORF 2 juin 1990
+
+
+###### Article L481-4
+
+Les contrats conclus par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements
+sociaux sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par le code des marchés publics
+dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 48 (Ab) JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R433-5 (V)
 
 
 ## Livre V : Bâtiments menaçant ruine ou insalubres.
