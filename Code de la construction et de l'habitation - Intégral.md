@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-01-07
+Version Consolidée au 1991-01-31
 
 # Partie législative
 
@@ -38479,6 +38479,48 @@ R. 331-52 5°. L'apport personnel ne peut être constitué par emprunt.
 	  - Code de la construction et de l'habitation. - art. R331-52 (M)
 
 
+###### Article R331-54
+
+Les prêts sont consentis à taux fixes ou à taux révisables. Ils sont accordés pour une durée maximum de vingt ans, non
+compris la durée du préfinancement prévue à l'article R. 331-57.
+
+Les prêts à taux fixes sont consentis à annuités constantes et peuvent être précédés d'une période d'anticipation.
+
+Les prêts à taux révisables sont consentis à annuités progressives et assortis d'un différé d'amortissement de deux ans.
+
+Les caractéristiques financières de ces prêts sont, nonobstant les dispositions de l'article R. 331-54-1, fixées par arrêté
+des ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources
+concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-56.
+
+Le remboursement anticipé, total ou partiel du prêt, est autorisé selon des modalités fixées par arrêté des ministres
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-114 du 29 janvier 1991 - art. 1 () JORF 31 janvier 1991
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-39 (V)
+	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
+	  - Code de la construction et de l'habitation. - art. R331-54-2 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-5 (V)
+	  - Code de la construction et de l'habitation. - art. R443-15 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-56 (M)
+	  - Code de la construction et de l'habitation. - art. R331-57 (M)
+
+
 ###### Article R331-54-1
 
 Lorsqu'ils sont consentis à taux révisables, les prêts sont soumis aux conditions suivantes :
@@ -40549,64 +40591,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-
-### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
-
-#### Chapitre unique.
-
-##### SECTION II : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété
-
-##### SOUS-SECTION II : Caractéristiques des prêts.
-
-###### Article R331-54
-
-Les prêts sont consentis à taux fixes ou à taux révisables. Ils sont accordés pour une durée maximum de vingt ans, non
-compris la durée du préfinancement prévue à l'article R. 331-57.
-
-Les prêts à taux fixes peuvent être consentis à annuités constantes ou à annuités progressives.
-
-Les prêts à taux fixes ou à taux variables consentis à annuités progressives sont assortis d'un différé d'amortissement de
-deux ans.
-
-Les prêts à taux fixes consentis à annuités constantes peuvent être précédés d'une période d'anticipation.
-
-Les caractéristiques financières de ces prêts sont, nonobstant les dispositions de l'article R. 331-54-1, fixées par arrêté
-des ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources
-concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-56.
-
-Le remboursement anticipé, total ou partiel du prêt, est autorisé selon des modalités fixées par arrêté des ministres chargés
-de la construction et de l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-39 (V)
-	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
-	  - Code de la construction et de l'habitation. - art. R331-54-2 (V)
-	  - Code de la construction et de l'habitation. - art. R331-59 (M)
-	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
-	  - Code de la construction et de l'habitation. - art. R331-59-5 (V)
-	  - Code de la construction et de l'habitation. - art. R443-15 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-56 (M)
-	  - Code de la construction et de l'habitation. - art. R331-57 (M)
 
 
 ### Titre V : Aide personnalisée au logement
