@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-10-01
+Version Consolidée au 1995-10-11
 
 # Partie législative
 
@@ -25442,6 +25442,30 @@ contrats ainsi que leur périodicité.
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 1990 - art. 1 (V)
+
+
+#### Chapitre VI : Protection contre les risques naturels.
+
+###### Article R126-1
+
+Les plans de prévention des risques naturels prévisibles établis en application des articles 40-1 à 40-7 de la loi n° 87-565
+du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la
+prévention des risques majeurs peuvent fixer des règles particulières de construction, d'aménagement et d'exploitation en ce
+qui concerne la nature et les caractéristiques des bâtiments ainsi que leurs équipements et installations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°87-565 1987-07-22 art. 40-1 à 40-7
+
+	**Modifié par**:
+
+	  - Décret n°95-1089 du 5 octobre 1995 - art. 11 () JORF 11 octobre 1995
 
 
 ### Titre III : Chauffage et ravalement des immeubles
