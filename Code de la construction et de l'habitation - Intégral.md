@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-07-13
+Version Consolidée au 1984-07-14
 
 # Partie législative
 
@@ -4116,6 +4116,105 @@ h) La garantie apportée par la personne qui s'est chargée de la construction p
 	  - Code des assurances - art. R421-24-3 (V)
 
 
+###### Article L231-1-1
+
+Au cas où le contrat défini à l'article L. 231-1 prévoit la révision du prix, celle-ci ne peut être calculée qu'en fonction
+de la variation d'un indice national du bâtiment tous corps d'état mesurant l'évolution du coût des facteurs de production
+dans le bâtiment, publié par le ministre chargé de la construction et de l'habitation, et, au choix des parties, selon l'une
+des deux modalités ci-après :
+
+1° Révision du prix d'après la variation de l'indice entre la date de la signature du contrat et la date fixée à l'article L.
+231-1-2, le prix ainsi révisé ne pouvant subir aucune variation après cette dernière date ;
+
+2° Révision sur chaque paiement dans une limite exprimée en pourcentage de la variation de l'indice défini ci-dessus entre la
+date de signature du contrat et la date de livraison prévue au contrat. Aucune révision ne peut être effectuée au-delà d'une
+période de neuf mois suivant la date définie à l'article L. 231-1-2 lorsque la livraison prévue doit avoir lieu
+postérieurement à l'expiration de cette période.
+
+Ces modalités doivent être portées, préalablement à la signature du contrat, à la connaissance du maître de l'ouvrage par la
+personne qui se charge de la construction. Elles doivent être reproduites dans le contrat, cet acte devant en outre porter,
+paraphé par le maître de l'ouvrage, une clause par laquelle celui-ci reconnaît en avoir été informé dans les conditions
+prévues ci-dessus.
+
+La modalité choisie d'un commun accord par les parties doit figurer dans le contrat.
+
+A défaut des mentions prévues aux deux alinéas précédents, le prix figurant au contrat n'est pas révisable.
+
+L'indice et la limite prévus ci-dessus sont définis par décret en Conseil d'Etat. Cette limite, destinée à tenir compte des
+frais fixes, des approvisionnements constitués et des améliorations de productivité, doit être comprise entre 60 p. 100 et 80
+p. 100 de la variation de l'indice.
+
+L'indice servant de base pour le calcul de la révision est le dernier indice publié au jour de la signature du contrat. La
+variation prise en compte résulte de la comparaison de cet indice avec le dernier indice publié avant la date de chaque
+paiement ou avant celle prévue à l'article L. 231-1-2, selon le choix exprimé par les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°84-601 1984-07-13 ART. 1 JORF 14 JUILLET 1984
+
+	**Abrogé par**:
+
+	  - Loi n°90-1129 du 19 décembre 1990 - art. 1 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-1 (M)
+	  - Code de la construction et de l'habitation. - art. L231-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*231-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*231-5 (M)
+
+
+###### Article L231-1-2
+
+La date prévue pour l'application des 1° et 2° de l'article L. 231-1-1 est celle de l'expiration d'un délai d'un mois qui
+suit la plus tardive des deux dates suivantes :
+
+a) Date de l'obtention tacite ou expresse des autorisations administratives nécessaires pour entreprendre la construction ;
+
+b) Date de la réalisation de la condition suspensive sous laquelle le contrat a été conclu ou est considéré comme conclu en
+application des articles 17 et 18 de la loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des
+emprunteurs dans le domaine immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°79-596 du 13 juillet 1979 - art. 17 (M)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 18 (Ab)
+	  - Code de la construction et de l'habitation L231-1-1 1°, 2°
+
+	**Créé par**:
+
+	  - Loi n°84-601 1984-07-13 ART. 1 JORF 14 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
+
+	**Abrogé par**:
+
+	  - Loi n°90-1129 du 19 décembre 1990 - art. 1 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*231-10 (M)
+	  - Code de la construction et de l'habitation. - art. R*231-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*231-8 (M)
+
+
 ###### Article L231-2
 
 La personne mentionnée au premier alinéa de l'article L. 231-1 est tenue d'exécuter les travaux décrits et estimés
@@ -5315,6 +5414,49 @@ aux dispositions des articles 16 à 18 de la loi n° 79-596 du 13 juillet 1979.
 	  - Code de la construction et de l'habitation. - art. R*261-13 (V)
 	  - Code des assurances - art. R421-24-3 (V)
 	  - Code monétaire et financier - art. D313-26 (VD)
+
+
+###### Article L261-11-1
+
+Au cas où le contrat défini à l'article L. 261-11 prévoit la révision du prix, celle-ci ne peut être calculée qu'en fonction
+de la variation d'un indice national du bâtiment tous corps d'état mesurant l'évolution du coût des facteurs de production
+dans le bâtiment et publié par le ministre chargé de la construction et de l'habitation.
+
+La révision ne peut être faite sur chaque paiement ou dépôt que dans une limite exprimée en pourcentage de la variation de
+cet indice.
+
+L'indice et la limite prévus ci-dessus sont définis par décret en Conseil d'Etat. Cette limite, destinée à tenir compte des
+frais fixes, de la valeur du terrain et des améliorations de productivité, doit être comprise entre 60 p. 100 et 80 p. 100 de
+la variation de l'indice.
+
+L'indice servant de base pour le calcul de la révision est le dernier indice publié au jour de la signature du contrat. La
+variation prise en compte résulte de la comparaison de cet indice avec le dernier indice publié avant la date de chaque
+paiement ou dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°84-601 1984-07-13 Art. 2 JORF 14 JUILLET 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-774 du 2 septembre 1998 - art. 5 ()
+
+	**Cité par**:
+
+	  - Décret n°2014-114 du 7 février 2014 (V)
+	  - Code de la construction et de l'habitation. - art. L662-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-15 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-26 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-11 (M)
 
 
 ###### Article L261-12
