@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-10-03
+Version Consolidée au 1996-11-09
 
 # Partie législative
 
@@ -65666,12 +65666,7 @@ total des logements de chaque organisme, dont 5 p. 100 au bénéfice des agents 
 
 Pour permettre le logement des personnels chargés de mission de sécurité publique ou pour répondre à des besoins d'ordre
 économique, des dérogations aux limites prévues à l'article R. 441-12 peuvent être accordées, pour une durée déterminée, par
-arrêté conjoint du ministre chargé du logement et du ministre intéressé. "
-
-Le commissaire de la République peut également, après avis du conseil départemental de l'habitat, fixer des règles dérogeant
-localement et temporairement aux conditions de ressources mentionnées à l'article R. 441-1 (1°) pour résoudre des problèmes
-graves de vacance de logement, faciliter les échanges de logements dans l'intérêt des familles, permettre l'installation
-d'activités nécessaires à la vie économique et sociale des ensembles d'habitations.
+arrêté conjoint du ministre chargé du logement et du ministre intéressé.
 
 **Liens relatifs à cet article**
 
@@ -65681,16 +65676,75 @@ d'activités nécessaires à la vie économique et sociale des ensembles d'habit
 
 	**Modifié par**:
 
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
+	  - Décret n°96-979 du 30 octobre 1996 - art. 1 () JORF 9 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 22 septembre 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
 	  - Code de la construction et de l'habitation. - art. R441-12 (M)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
+
+
+###### Article R441-15-1
+
+Pour résoudre des problèmes graves de vacance de logements, faciliter les échanges de logements dans l'intérêt des familles,
+permettre l'installation d'activités nécessaires à la vie économique et sociale des ensembles d'habitations, le préfet peut,
+par arrêté pris après avis du conseil départemental de l'habitat, fixer des règles dérogeant localement et temporairement aux
+conditions de ressources mentionnées au 1° de l'article R. 441-1. Cet arrêté détermine les plafonds de ressources
+dérogatoires applicables. Il désigne les immeubles ou les secteurs qui font l'objet de la dérogation ainsi que la durée de
+celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°96-979 du 30 octobre 1996 - art. 2 () JORF 9 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
+
+
+###### Article R441-15-2
+
+Pour favoriser la mixité sociale dans les grands ensembles et les quartiers mentionnés au I de l'article 1466 A du code
+général des impôts, le préfet peut, par arrêté pris après avis du conseil départemental de l'habitat, fixer des règles
+dérogeant localement et temporairement aux conditions de ressources mentionnées au 1° de l'article R. 441-1. Cet arrêté
+détermine les plafonds de ressources dérogatoires applicables. Il désigne les immeubles ou les secteurs qui font l'objet de
+la dérogation ainsi que la durée de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1466 A
+	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°96-979 du 30 octobre 1996 - art. 2 () JORF 9 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
 
 
 ###### Article R441-16
