@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-07-01
 
 # Partie législative
 
@@ -47118,152 +47118,6 @@ de l'habitation et du ministre chargé des finances.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-#### Chapitre VI : Amélioration, transformation ou aménagement de logements locatifs sociaux conventionnés.
-
-###### Article R*326-1
-
-Les travaux d'amélioration, de transformation ou d'aménagement réalisés dans des logements sociaux à usage locatif doivent
-faire l'objet d'une décision favorable du préfet pour l'application des dispositions du c du premier alinéa du 7° bis de
-l'article 257 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-
-###### Article R*326-2
-
-L'octroi de la décision favorable prévue à l'article R. 326-1 est subordonné à l'existence d'une convention telle que définie
-aux 2° et 3° de l'article L. 351-2, dont la durée restant à courir ne peut être inférieure à cinq ans.
-
-Peuvent faire l'objet de cette décision les travaux d'amélioration, de transformation ou d'aménagement mentionnés à l'article
-172 A de l'annexe II au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 172 A
-	  - Code de la construction et de l'habitation R326-1, L351-2
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-
-###### Article R*326-3
-
-La décision favorable prévue à l'article R. 326-1 est prise par le préfet. Elle est accordée au vu d'un programme de travaux
-établi pour une année civile, dès lors que ces travaux sont conformes à ceux définis à l'article 172 A de l'annexe II au code
-général des impôts. Dans ce cas, un état récapitulatif des travaux par immeuble doit être joint. Toutefois, cette décision
-peut porter sur un programme de travaux déterminé pour un immeuble.
-
-La décision favorable est notifiée au demandeur et est transmise au directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 172 A
-	  - Code de la construction et de l'habitation R326-1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-
-###### Article R*326-4
-
-La décision favorable prévue à l'article R. 326-1 doit être antérieure au début des travaux.
-
-Le maître d'ouvrage peut exécuter ceux des travaux qui présentent un caractère d'urgence avant la notification d'une décision
-favorable, à condition d'en informer préalablement le préfet, qui en accuse réception, et de déposer une demande de décision
-favorable avec état récapitulatif des travaux dans un délai de huit jours suivant la date de l'accusé de réception.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R326-1
-
-
-###### Article R*326-5
-
-Si la décision favorable porte sur un programme de travaux établi pour une année civile, les travaux doivent commencer durant
-ladite année et doivent être achevés dans un délai de deux ans à compter de la date de décision. Dans ce cas, les
-bénéficiaires de la décision informent le préfet et le directeur des services fiscaux de la nature des travaux effectivement
-réalisés au plus tard le 31 janvier suivant l'année visée par la décision ; pour les travaux non encore achevés à cette date,
-l'information est transmise à la date d'achèvement des travaux par immeuble.
-
-Si la décision favorable porte sur un programme de travaux déterminé par immeuble, les travaux doivent commencer dans un
-délai de six mois à compter de la décision prévue à l'article R. 326-1 et doivent être achevés dans un délai de deux ans à
-compter de cette même date. Une prorogation de ce délai peut être accordée par le préfet, dans la limite d'un an.
-
-A la date d'achèvement des travaux, les bénéficiaires de la décision favorable informent le préfet et le directeur des
-services fiscaux de la nature des travaux effectivement réalisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°98-331 du 30 avril 1998 - art. 2 () JORF 6 mai 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2000-598 du 28 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R326-1
-
-
 ### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
 
 #### Chapitre unique.
@@ -51656,65 +51510,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ##### Section 1 : Aide personnalisée.
 
-##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
-
-###### Article R351-1
-
-L'aide personnalisée au logement instituée par l'article L. 351-1 est attribuée [*bénéficiaire*], pour leur résidence
-principale, aux personnes qui occupent :
-
-- soit le logement dont elles sont propriétaires et qui a été ou construit, ou amélioré, ou acquis et amélioré dans les
-conditions définies par l'article L. 351-2 (1.).
-
-Pour l'application du présent chapitre, sont assimilés à des propriétaires les titulaires d'un contrat leur donnant vocation
-à l'attribution à terme de la propriété du logement qu'ils occupent, ainsi que les porteurs de parts ou d'actions de sociétés
-donnant vocation à l'attribution en propriété du logement qu'ils occupent.
-
-- soit un logement à usage locatif, faisant l'objet d'une convention intervenue en vertu des articles L. 351-2 (2., 3. ou
-4.), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du 22 juin
-1982 relative aux droits et obligations des locataires et des bailleurs.
-
-- soit un logement faisant l'objet d'un contrat de location-accession conclu dans les conditions prévues par la loi n° 84-595
-du 12 juillet 1984 définissant la location-accession à la propriété immobilière et qui a été construit ou acquis dans les
-conditions définies par l'article L. 351-2 (6.).
-
-La notion de résidence principale doit être entendue au sens du logement effectivement occupé au moins huit mois par an soit
-par le bénéficiaire ou son conjoint, soit par une des personnes à charge au sens de l'article R. 351-8..
-
-Le logement mis à la disposition d'un requérant par un de ses ascendants ou de ses descendants n'ouvre pas droit au bénéfice
-de l'aide.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°82-526 1982-06-22 art. 59
-	  - Loi n°84-595 1984-07-12
-	  - Code de la construction et de l'habitation L351-1, L351-2, L325-1, L431-6, R351-8
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-8 (M)
-
-	**Modifié par**:
-
-	  - Décret n°95-709 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R31-10-6 (VD)
-	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. R318-7 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-1-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
-
-
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
 ###### Article R*351-7-2
@@ -51926,20 +51721,35 @@ b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du
 c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
 conformément à l'article R. 351-5 pendant l'année civile de référence.
 
+La condition relative à l'existence d'une activité professionnelle rémunérée ou à la perception de l'allocation mentionnée à
+l'article 4 de la loi du 1er décembre 1988 précitée est appréciée au cours du mois civil précédant l'ouverture du droit ou du
+mois de mai précédant le renouvellement du droit.
+
 II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
 précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
 deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts, soit, s'il
-s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 500
+s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 200
 fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui précède l'ouverture ou le renouvellement du
 droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et abattements fixés par le II de l'article R. 351-5.
 
+III. - L'évaluation forfaitaire peut être révisée en cours de période de paiement, à la demande du bénéficiaire, si lui-même
+ou son conjoint est âgé de moins de vingt-cinq ans et titulaire d'un contrat de travail autre qu'à durée indéterminée et s'il
+a perçu au cours du mois précédent une rémunération inférieure d'au moins 10 % à celle précédemment prise en considération.
+La demande ne peut être formée moins de quatre mois après l'ouverture ou le renouvellement du droit ou une révision
+précédente.
+
+Pour une personne titulaire d'un contrat de travail autre qu'un contrat à durée indéterminée et âgée de moins de vingt-cinq
+ans à la date de l'ouverture ou du renouvellement du droit ou de la demande de révision mentionnée à l'alinéa précédent,
+l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la rémunération mensuelle considérée.
+
+**Nota:**
+
+[*NOTA : Décret 2000-635 2000-07-07 art. 7 : les dispositions du présent décret sont applicables à compter du 1er juillet
+2000, à l'exception des dispositions du 3° de l'article 3 créant le III qui entreront en vigueur le 1er octobre 2000.*]
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -51947,15 +51757,16 @@ Le montant des ressources ainsi déterminé est affecté des déductions et abat
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
+	  - SPEC_APPLI: Décret n°2000-635 du 7 juillet 2000 - art. 7 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
 	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - Arrêté du 30 juin 1979 - art. 7 (V)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Arrêté du 10 août 1984 - art. 10 (V)
 	  - Arrêté du 14 août 1987 - art. 9 (Ab)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
 	  - Arrêté du 26 décembre 2016 (V)
 	  - Arrêté du 22 août 1986 - art. 2 (V)
@@ -51976,67 +51787,13 @@ Le montant des ressources ainsi déterminé est affecté des déductions et abat
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
 	  - Code de la construction et de l'habitation R351-5, 83
 
-	**Modifié par**:
-
-	  - Décret n°99-541 du 28 juin 1999 - art. 1 () JORF 29 juin 1999 en vigueur le 1er juillet 1999
-
-
-###### Article R351-7-1
-
-Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
-conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement :
-
-I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son conjoint déterminées en application des
-articles R. 351-5, 6 et 7 sont inférieures :
-
-1. Pour les contrats de prêt signés postérieurement au 31 décembre 1982, à un montant forfaitaire ;
-
-2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un montant déterminé par le produit d'un coefficient
-et des charges mensuelles de prêt déclarées prises en compte dans la limite de la mensualité de référence prévue à l'article
-R. 351-18,
-
-les ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer les
-dispositions des articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
-
-II. - A compter du 1er janvier 1995, pour les contrats de prêt signés postérieurement au 31 décembre 1994, si les ressources
-du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5, 6 et 7 sont inférieures au montant visé
-au 2 ci-dessus, celles-ci sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de signature du contrat
-de prêt et pendant la période d'accession en cours, il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13,
-13-1, 14 et 14-1.
-
-Les montants visés aux 1 et 2 du I sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
-l'agriculture et du logement.
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 30 juin 1983 - art. 10 (V)
-	  - Arrêté du 14 août 1987 - art. 10 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 6 () JORF 11 mai 1995
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-5, 6, 7, R351-18, R351-10, 12, 13, 13-1, 14, 14-1
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 3 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
 
 
 ##### Sous-section 3 : Conditions particulières.
@@ -52182,35 +51939,6 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code du travail - art. L351-25 (AbD)
 	  - Code du travail - art. L351-3 (M)
 	  - Code du travail - art. L961-1 (M)
-
-
-###### Article R351-16
-
-Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
-d'une personne à charge au sens de l'article R. 351-8. Cette révision prend effet le premier jour du mois civil suivant celui
-au cours duquel est intervenu l'événement.
-
-Le montant de l'aide personnalisée est révisé en cours de période de paiement en cas de décès ou de départ du foyer d'une
-personne à charge au sens de l'article R. 351-8. Cette révision prend effet respectivement le premier jour du mois civil qui
-suit le décès ou le premier jour du mois civil au cours duquel survient le départ.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-176 1983-03-07 ART. 8 JORF 11 MARS 1983
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
 ##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
@@ -52572,9 +52300,14 @@ montants sont arrondis au franc le plus proche.
 
 ###### Article R351-29
 
-Au conjoint mentionné aux articles R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10 à R. 351-15, R. 351-17, R. 351-17-1, R. 351-19
-et R351-28-1 est assimilée, pour l'application de la présente section, la personne vivant maritalement avec le bénéficiaire
-de l'aide personnalisée [*concubin*] ou le partenaire lié à celui-ci par un pacte civil de solidarité.
+Pour l'application de la présente section :
+
+- est assimilé au conjoint mentionné aux articles R. 351-1, R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10, R. 351-12 à R.
+351-14-1, R. 351-17 et R. 351-28-1, la personne vivant en concubinage avec le bénéficiaire de l'aide personnalisée au
+logement ou le partenaire lié à celui-ci par un pacte civil de solidarité ;
+
+- la notion de couple mentionnée à l'article R. 351-16 s'applique aux personnes mariées, vivant en concubinage ou liées par
+un pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -52582,22 +52315,24 @@ de l'aide personnalisée [*concubin*] ou le partenaire lié à celui-ci par un p
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°99-1160 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999
 	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999 - art. 1 ()
 
+	**Modifié par**:
+
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 6 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R351-1-1, R351-5 à R351-8, R351-10 à R351-15, R351-17, R351-17-1, R351-19
+	  - Code de la construction et de l'habitation R351-1, R351-1-1, R351-5 à R351-8, R351-10, R351-12 à R351-14-1, R351-17, R351-28-1, R351-16
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
 	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-16 (M)
 	  - Code de la construction et de l'habitation. - art. R351-17 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
 
 	**Cité par**:
 
@@ -52607,6 +52342,64 @@ de l'aide personnalisée [*concubin*] ou le partenaire lié à celui-ci par un p
 ##### Section 1 : Aide personnalisée
 
 ##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
+
+###### Article R351-1
+
+L'aide personnalisée au logement instituée par l'article L. 351-1 est attribuée, pour leur résidence principale, aux
+personnes qui occupent :
+
+- soit le logement dont elles sont propriétaires et qui a été ou construit, ou amélioré, ou acquis et amélioré dans les
+conditions définies par l'article L. 351-2 (1°).
+
+Pour l'application du présent chapitre, sont assimilés à des propriétaires les titulaires d'un contrat leur donnant vocation
+à l'attribution à terme de la propriété du logement qu'ils occupent, ainsi que les porteurs de parts ou d'actions de sociétés
+donnant vocation à l'attribution en propriété du logement qu'ils occupent.
+
+- soit un logement à usage locatif, faisant l'objet d'une convention intervenue en vertu des articles L. 351-2 (2°, 3° ou
+4°), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n° 82-526 du 22 juin
+1982 relative aux droits et obligations des locataires et des bailleurs ;
+
+- soit un logement faisant l'objet d'un contrat de location-accession conclu dans les conditions prévues par la loi n° 84-595
+du 12 juillet 1984 définissant la location-accession à la propriété immobilière et qui a été construit ou acquis dans les
+conditions définies par l'article L. 351-2 (6°).
+
+La notion de résidence principale doit être entendue au sens du logement effectivement occupé au moins huit mois par an, sauf
+obligation professionnelle, raison de santé ou cas de force majeure, soit par le bénéficiaire ou son conjoint, soit par une
+des personnes à charge au sens de l'article R. 351-8.
+
+Le logement mis à la disposition d'un requérant par un de ses ascendants ou de ses descendants n'ouvre pas droit au bénéfice
+de l'aide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 59
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation L351-1, L351-2, L325-1, L431-6, R351-8
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-8 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 1 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R31-10-6 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R318-7 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
+
 
 ###### Article R351-1-1
 
@@ -52742,8 +52535,8 @@ conforme aux stipulations du contrat d'amélioration, à compter du premier jour
 
 ###### Article R351-4
 
-L'aide personnalisée est calculée au 1er juillet de chaque année [*périodicité*], sous réserve des cas prévus aux articles R.
-351-10 à R. 351-16.
+L'aide personnalisée est calculée au 1er juillet de chaque année, sous réserve des cas prévus aux articles R. 351-7, R.
+351-10 à R. 351-16 bis et R. 351-17-1.
 
 Elle est versée, soit pendant une période de douze mois débutant au 1er juillet, soit à compter de l'ouverture du droit
 jusqu'au 30 juin suivant. Dans ce dernier cas, elle est calculée et servie proportionnellement au nombre de mois pendant
@@ -52751,13 +52544,13 @@ lesquels le droit est ouvert.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 2 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
 
 	**Cité par**:
 
@@ -52767,7 +52560,9 @@ lesquels le droit est ouvert.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R351-10 à R351-16
+	  - Code de la construction et de l'habitation R351-7, R351-10 à R351-16 bis, R351-17-1
+	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ###### Article R351-4-1
@@ -52826,6 +52621,77 @@ allocations familiales en vigueur au 31 décembre de ladite année.
 	**Modifié par**:
 
 	  - Décret n°88-516 1988-05-03 art. 2 1. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+
+
+###### Article R351-7-1
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
+conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement :
+
+I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son conjoint déterminées en application des
+articles R. 351-5, 6 et 7 sont inférieures :
+
+1. Pour les contrats de prêt signés postérieurement au 31 décembre 1982, à un montant forfaitaire ;
+
+2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un montant déterminé par le produit d'un coefficient
+et des charges mensuelles de prêt déclarées, les ressources du bénéficiaire et de son conjoint sont réputées égales à ce
+montant sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
+
+Le montant et le coefficient visés respectivement aux 1 et 2 ci-dessus sont fixés par arrêté conjoint des ministres chargés
+de la séucrité sociale, du budget, de l'agriculture et du logement.
+
+II. - A compter du 1er janvier 1995, pour les contrats de prêt signés postérieurement au 31 décembre 1994, si les ressources
+du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5, 6 et 7 sont inférieures au montant visé
+au 2 ci-dessus, celles-ci sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de signature du contrat
+de prêt et pendant la période d'accession en cours, il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13,
+13-1, 14 et 14-1.
+
+III. - Les dispositions du I et du II ne s'appliquent pas lorsque postérieurement à la date de signature du contrat de prêt
+et pendant la période d'accession en cours, le bénéficiaire ou son conjoint se trouve dans l'obligation de cesser son
+activité professionnelle et est admis au bénéfice d'une pension d'invalidité, d'une rente d'accident du travail ou de
+l'allocation aux adultes handicapés ou de l'allocation compensatrice.
+
+**Nota:**
+
+[*NOTA : Décret 2000-635 2000-07-07 art. 7 : les dispositions du présent décret sont applicables à compter du 1er juillet
+2000, à l'exception des dispositions du 1° de l'article 4 (les mots : prises en compte dans la limite de la mensualité de
+référence prévue à l'article R. 351-18 sont suprimés) qui entreront en vigueur le 1er octobre 2000.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 30 juin 1983 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-12 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-6 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ###### Article R351-8
@@ -53108,6 +52974,35 @@ convention, un nouveau loyer est notifié.
 	**Créé par**:
 
 	  - Décret n°85-932 1985-08-30 art. 4 JORF 3 septembre 1985
+
+
+###### Article R351-16
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la formation d'un couple, lors de la
+naissance ou de l'arrivée au foyer d'une personne à charge au sens de l'article R. 351-8. Cette révision prend effet le
+premier jour du mois civil suivant celui au cours duquel est intervenu l'événement.
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement en cas de décès ou de départ du foyer d'une
+personne à charge au sens de l'article R. 351-8. Cette révision prend effet respectivement le premier jour du mois civil qui
+suit le décès ou le premier jour du mois civil au cours duquel survient le départ.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-635 du 7 juillet 2000 - art. 5 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
 ###### Article R351-16 bis
