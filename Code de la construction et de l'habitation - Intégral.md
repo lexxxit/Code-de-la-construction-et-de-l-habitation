@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-01-31
+Version Consolidée au 1979-03-10
 
 # Partie législative
 
@@ -42123,24 +42123,20 @@ intéressés tels qu'ils sont prévus à l'article R. 461-8.
 
 ###### Article R*421-5
 
-Pour la réalisation des opérations prévues par l'article R. 311-1, et dès lors qu'ils y ont été habilités par le ministre
-chargé de la construction et de l'habitation, les offices publics d'aménagement et de construction peuvent prendre des
-participations dans les sociétés civiles lorsqu'elles sont constituées uniquement par des organismes d'habitations à loyer
-modéré.
+Pour la réalisation des opérations prévues par les articles R. 311-1 et R. 311-2 et des opérations financées dans les
+conditions fixées par les articles R. 331-32 à R. 331-62 et dès lors qu'ils y ont été habilités par le ministre chargé de la
+construction et de l'habitation, les offices publics d'aménagement et de construction peuvent prendre des participations dans
+les sociétés civiles lorsqu'elles sont constituées uniquement par des organismes d'habitations à loyer modéré.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 4 II
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R311-1
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R311-1, R311-2, R331-32 à R331-62
 
 	**Cité par**:
 
@@ -42519,22 +42515,22 @@ l'approbation préfectorale prévue par l'article R. 422-1.
 ###### Article R*422-3
 
 L'activité des sociétés anonymes d'habitations à loyer modéré s'exerce sur le territoire de la région où est situé leur siège
-social [*compétence territoriale*].
+social.
 
 Le ministre chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer
 modéré, agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
 l'occasion du contrôle prévu par l'article L. 451-1 pour leur permettre d'étendre leur activité à tout ou partie des régions
 limitrophes.
 
+En outre, le ministre chargé de la construction et de l'habitation peut pour une opération déterminée accorder une extension
+de compétence sur une partie quelconque du territoire, après avis du préfet du département intéressé, à une société anonyme
+dont la qualité de la gestion a été constatée dans les conditions précisées à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-213 1974-02-25 art. 1
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
@@ -42618,6 +42614,101 @@ alinéa de l'article L. 321-1 du code de l'urbanisme.
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
+###### Article R*422-7
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré peuvent assister, à titre de prestataires de
+services, soit des personnes physiques, soit des sociétés coopératives de construction régies par le livre II, titre Ier,
+chapitre III, du présent code, lorsque ces personnes physiques et ces sociétés bénéficient de prêts prévus par la législation
+sur les habitations à loyer modéré ou d'aides prévues aux articles L. 311-1 à L. 311-7 et aux dispositions réglementaires
+correspondantes ou de prêts accordés par l'Etat dans les cas prévus à l'article L. 351-2 du même code.
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré peuvent :
+
+- construire des maisons individuelles destinées à être vendues en l'état futur d'achèvement à des personnes physiques, en
+application de l'article L. 422-3 ;
+
+- réaliser, à titre de prestataires de services, pour le compte de leurs membres accédant à la propriété, toutes opérations
+de restauration, d'amélioration ou d'agrandissement d'immeubles à usage principal d'habitation [*attributions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°93-749 du 27 mars 1993 - art. 2 () JORF 30 MARS 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L311-1 à L311-7, L422-3, L351-2
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+
+
+###### Article R*422-8
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré sont habilitées à bénéficier de prêts de la
+caisse de prêts aux organismes d'habitations à loyer modéré ou de prêts bonifiés de caisses d'épargne pour en affecter le
+produit en consentant aux personnes physiques mentionnées à l'article précédent et répondant aux conditions prévues par la
+législation sur les habitations à loyer modéré des prêts hypothécaires destinés à la construction de leur logement sous
+réserve que cette construction ne soit pas située dans un lotissement ou dans une copropriété compris dans un programme
+réalisé à l'initiative desdites sociétés.
+
+Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des finances peut lever
+l'interdiction mentionnée à l'alinéa précédent au profit des sociétés dont la qualité de la gestion technique et financière
+est constatée à l'occasion du contrôle prévu à l'article L. 451-1. Cet arrêté précise le nombre maximum de prêts pouvant
+ainsi être consentis à des personnes physiques ainsi que la durée de l'autorisation accordée.
+
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré sont également habilitées :
+
+- à bénéficier des prêts aidés par l'Etat conformément aux dispositions de l'article R. 331-39 pour en affecter le produit en
+consentant des prêts aux personnes physiques remplissant les conditions pour bénéficier des prêts visés par ledit article ;
+
+- à bénéficier de prêts pour consentir des prêts complémentaires aux bénéficiaires des prêts visés à l'alinéa précédent ou
+aux membres des coopératives de construction constituées sous leur égide bénéficiant de prêts visés à l'article R. 331-39.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R422-7
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
+
+
+###### Article R*422-8-1
+
+L'activité des sociétés anonymes coopératives de production d'habitations à loyer modéré s'exerce sur le territoire de la
+région où est situé leur siège social.
+
+Le ministre chargé de la construction et du logement peut, après avis du conseil supérieur des habitations à loyer modéré,
+agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
+l'occasion du contrôle prévu par l'article L. 451-1 pour leur permettre d'étendre leur activité à tout ou partie des régions
+limitrophes.
+
+En outre, le ministre chargé de la construction et du logement peut, pour une opération déterminée, accorder une extension de
+compétence, sur une partie quelconque du territoire, après avis du préfet du département intéressé à une société dont la
+qualité de la gestion a été constatée dans les conditions précisées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
+
 ###### Article R*422-6
 
 Pour l'application de l'article L. 422-3, les sociétés anonymes coopératives de production d'habitations à loyer modéré sont
@@ -42642,23 +42733,22 @@ régies par les dispositions ci-après.
 
 ###### Article R*422-10
 
-L'activité des sociétés anonymes de crédit immobilier s'exerce sur le territoire de la région où est situé leur siège social
-[*compétence territoriale*].
+L'activité des sociétés anonymes de crédit immobilier s'exerce sur le territoire de la région où est situé leur siège social.
 
-Le ministre chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer
-modéré, agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
+Le ministe chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer modéré,
+agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
 l'occasion du contrôle prévu par l'article L. 451-1 pour leur permettre d'étendre leur activité à tout ou partie des régions
 limitrophes.
 
+En outre, le ministre chargé de la construction et de l'habitation peut, pour une opération déterminée, accorder une
+extension de compétence sur une partie quelconque du territoire, après avis du préfet du département intéressé, à une société
+dont la qualité de la gestion a été constatée dans les conditions précisées à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-212 1974-02-25 art. 1
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -42887,6 +42977,36 @@ dans les diverses charges de la société.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+###### Article R*422-21
+
+Sous réserve de l'agrément de la société coopérative, tout locataire-attributaire peut céder les droits qu'il détient de son
+contrat de location-attribution à un candidat de son choix qui doit remplir les conditions d'occupation du logement et de
+ressources imposées par les articles R. 441-2 et R. 441-3.
+
+Sauf motif grave et légitime, ces conditions ne sont pas exigées en cas de cession des droits du locataire-attributaire à son
+conjoint, à ses ascendants, descendants, frères ou soeurs ou à ceux de son conjoint.
+
+En cas de refus d'agrément du candidat présenté dans les conditions prévues à l'alinéa 1er ci-dessus, le contrat de location-
+attribution est résilié à la demande du locataire-attributaire, à charge pour la société de rembourser les sommes reçues en
+vue de l'attribution du logement en propriété, à moins que l'intéressé n'opte pour le paiement par anticipation du solde du
+prix de revient de son logement.
+
+Le prix de cession ou le montant du remboursement des versements effectués par le locataire-attributaire à la société est
+fixé conformément à l'article R. 422-30 ; les modalités de règlement ont lieu dans les conditions fixées par les statuts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R441-2, R441-3, R422-30
+	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
 
 ###### Article R*422-22
@@ -51344,12 +51464,16 @@ décret de dissolution fixe les modalités de transfert de leur patrimoine.
 
 ###### Article R*421-4
 
-Les offices publics d'aménagement et de construction peuvent [*attributions*] :
+Les offices publics d'aménagement et de construction peuvent :
 
-1. Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1 et assurer
-la gestion des immeubles acquis, construits ou aménagés en application de cet article ;
+1. Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1, ainsi que
+les opérations financées au moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat dans les cas
+prévus à l'article L. 351-2 et assurer la gestion des immeubles, acquis, construits ou aménagés aux mêmes fins, notamment en
+qualité de syndic.
 
-2. Gérer des immeubles à usage principal d'habitation appartenant à l'Etat et aux collectivités locales ;
+2. Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux collectivités locales, à d'autres organismes
+d'habitations à loyer modéré sous réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés d'économie
+mixte ou à des organismes à but non lucratif.
 
 3. Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention ou
 d'un traité de concession passé avec les collectivités locales, les établissements publics regroupant des communes ayant
@@ -51358,7 +51482,7 @@ l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispos
 présent code ;
 
 4. Réaliser directement ou à titre de prestataires de services, les opérations de restauration immobilière prévues aux
-articles L. 313-3 et L. 313-4 du code de l'urbanisme.
+articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
 
 5. Procéder, à titre de prestataires de services, et en vertu de conventions comportant des clauses types approuvées par
 arrêté du ministre chargé de la construction et de l'habitation, du ministre de la justice, du ministre chargé des finances
@@ -51369,23 +51493,21 @@ aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 4 I
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
 	  - Code de l'urbanisme L321-1 AL. 1
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
 	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
 	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-9 (M)
 
 	**Cité par**:
 
@@ -52068,37 +52190,6 @@ Les offices versent, à titre de participation, une contribution au fonctionneme
 
 ##### Sous-section 1 : Création et gestion.
 
-###### Article R*421-51
-
-Les offices publics d'habitations à loyer modéré ont pour objet de réaliser, en vue de la location, les opérations prévues à
-l'article L. 411-1.
-
-Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du comité départemental et du conseil supérieur des
-habitations à loyer modéré.
-
-Ils sont habilités à gérer les immeubles à usage principal d'habitation appartenant à l'Etat et aux collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 7 aL. 1, al. 2
-	  - Code de l'urbanisme 162
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L421-4 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
-
-
 ###### Article R*421-52
 
 La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, intercommunaux, de district ou de
@@ -52132,17 +52223,18 @@ supérieur des habitations à loyer modéré, dans le cas contraire.
 ###### Article R*421-53
 
 Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
-répondant aux conditions prévues à l'article L. 411-1.
+répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
+en assurer la gestion notamment en qualité de syndic.
+
+Ils peuvent également assurer la gestion, en qualité de syndic, d'immeubles appartenant à l'Etat, à des collectivités
+locales, à d'autres organismes d'habitations à loyer modéré, à des sociétés d'économie mixte ou à des organismes sans but
+lucratif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
@@ -52500,6 +52592,39 @@ comptable du Trésor, les conditions de nomination, de suspension et de révocat
 	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
+##### Sous-section 1 : Création et gestion.
+
+###### Article R*421-51
+
+Les offices publics d'habitations à loyer modéré ont pour objet de réaliser, en vue de la location, les opérations prévues à
+l'article L. 411-1 ainsi que les opérations financées en application du livre III, titre V et de l'article L. 431-6 du
+présent code.
+
+Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du comité départemental et du conseil supérieur des
+habitations à loyer modéré.
+
+Ils sont habilités à gérer les immeubles à usage principal d'habitation appartenant à l'Etat, aux collectivités locales, à
+d'autres organismes d'habitations à loyer modéré, sous réserve, s'il y a lieu, de l'application de l'article L. 442-9, à des
+sociétés d'économie mixte ou à des organismes à but non lucratif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-4 (M)
+	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-9 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
+
+
 ##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.
 
 ###### Article R*421-68
@@ -52579,59 +52704,6 @@ l'environnement, de l'urbanisme, du logement et en matière sociale et culturell
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
-###### Article R*422-7
-
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré  [*attributions*] peuvent assister, à titre de
-prestataires de services, soit des personnes physiques, soit des sociétés coopératives de construction régies par le livre
-II, titre Ier, chapitre III, du présent code (1ère partie), lorsque ces personnes physiques et ces sociétés bénéficient de
-prêts prévus par la législation sur les habitations à loyer modéré ou d'aides prévues aux articles L. 311-1 à L. 311-7 et aux
-dispositions réglementaires correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-239 1974-05-15 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L311-1 à L311-7
-
-
-###### Article R*422-8
-
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré sont habilitées à bénéficier de prêts de la
-caisse de prêts aux organismes d'habitations à loyer modéré ou de prêts bonifiés des caisses d'épargne pour en affecter le
-produit en consentant aux personnes physiques, mentionnées à l'article précédent et répondant aux conditions prévues par la
-législation sur les habitations à loyer modéré, des prêts hypothécaires destinés à la construction de leur logement, sous
-réserve que cette construction ne soit pas située dans un lotissement ou dans une copropriété compris dans un programme
-réalisé à l'initiative desdites sociétés.
-
-Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des finances peut lever
-l'interdiction mentionnée à l'alinéa précédent au profit des sociétés dont la qualité de la gestion technique et financière
-est constatée à l'occasion du contrôle prévu à l'article L. 451-1. Cet arrêté précise le nombre maximum de prêts pouvant
-ainsi être consentis à des personnes physiques ainsi que la durée de l'autorisation accordée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-239 1974-03-15 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R422-7
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-
 ###### Article R*422-9
 
 Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent être conformes à ceux des
@@ -52666,47 +52738,6 @@ l'approbation préfectorale.
 
 
 ##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
-
-##### Sous-section 1 : Dispositions générales.
-
-###### Article R*422-21
-
-Aucune attribution en propriété ne peut intervenir pendant le délai de dix ans à dater du contrat de location-attribution ni
-pendant le délai de cinq ans qui suit toute cession des droits résultant du contrat de location-attribution au bénéfice d'un
-cessionnaire.
-
-Pendant le délai de dix ans prévu à l'alinéa précédent, les droits du locataire-attributaire ne peuvent être cédés qu'à un
-candidat inscrit sur une liste tenue par la coopérative et sous réserve de l'agrément de celle-ci.
-
-A partir de la onzième année, le locataire-attributaire peut présenter un candidat qui doit remplir les conditions
-d'occupation du logement et de ressources imposées par la réglementation en vigueur. L'agrément ne peut être refusé par le
-conseil d'administration à plus de trois candidats, sauf motif grave et légitime.
-
-Les dispositions des alinéas 1, 2 et 3 ne sont pas applicables, sauf motif grave et légitime, à la cession des droits du
-locataire-attributaire au bénéfice de son conjoint. Elles ne sont pas non plus applicables, sous la même réserve, à la
-cession à des ascendants, descendants, frères ou soeurs du locataire-attributaire ou de son conjoint.
-
-En cas de refus d'agrément du candidat présenté dans les conditions prévues aux alinéas 2 et 3, le contrat de location-
-attribution est résilié à la demande du locataire-attributaire, à charge pour la société de rembourser les sommes perçues en
-vue de l'attribution du logement en propriété.
-
-Le prix de cession ou le montant du remboursement des versements effectués par le locataire-attributaire à la société est
-fixé conformément à l'article R. 422-30 ; les modalités de règlement ont lieu dans les conditions fixées par les statuts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1012 1965-11-22 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R422-30
-
 
 ##### Sous-section 3 : Statuts.
 
