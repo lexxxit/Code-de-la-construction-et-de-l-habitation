@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-01-10
+Version Consolidée au 1995-01-12
 
 # Partie législative
 
@@ -67370,6 +67370,106 @@ construction et de l'habitation après avis du maire et du préfet.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L631-9 (M)
+
+
+###### Article R631-6
+
+La déclaration d'affectation temporaire à l'habitation de locaux régulièrement affectés à un autre usage, prévue au premier
+alinéa de l'article L. 631-7-1, est faite soit par le propriétaire des locaux ou son mandataire, soit par une personne
+justifiant d'un titre l'habilitant à affecter les locaux à l'habitation.
+
+Cette déclaration comporte :
+
+1. Le nom ou la dénomination du propriétaire et son domicile ou son siège social ;
+
+2. Si le déclarant n'est pas le propriétaire, le nom ou la dénomination du déclarant et son domicile ou son siège social, la
+mention de sa qualité de mandataire ou de personne justifiant d'un titre l'habilitant à affecter les locaux à l'habitation.
+Le mandat ou le titre est joint à la déclaration ;
+
+3. L'adresse des locaux et leur localisation dans l'immeuble. Le plan des locaux est joint à la déclaration ;
+
+4. La nature de la dernière affectation des locaux et le nom ou la dénomination des occupants ;
+
+5. L'attestation sur l'honneur par le déclarant que les locaux sont régulièrement affectés à un usage autre que l'habitation
+à la date de dépôt de la déclaration et que les énonciations de la déclaration sont sincères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-37 du 5 janvier 1995 - art. 1 () JORF 12 janvier 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-7-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R631-8 (V)
+
+
+###### Article R631-7
+
+La déclaration de retour des locaux à leur affectation antérieure, prévue au deuxième alinéa de l'article L. 631-7-1, est
+faite soit par le propriétaire des locaux ou son mandataire, soit par une personne justifiant d'un titre l'habilitant à
+redonner aux locaux leur affectation antérieure.
+
+Cette déclaration comporte :
+
+1. Le nom ou la dénomination du propriétaire et son domicile ou son siège social ;
+
+2. Si le déclarant n'est pas le propriétaire, le nom ou la dénomination du déclarant et son domicile ou son siège social, la
+mention de sa qualité de mandataire ou de personne justifiant d'un titre l'habilitant à redonner aux locaux leur affectation
+antérieure. Le mandat ou le titre est joint à la déclaration ;
+
+3. L'adresse des locaux et leur localisation dans l'immeuble. Le plan des locaux est joint à la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-37 du 5 janvier 1995 - art. 1 () JORF 12 janvier 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-7-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R631-8 (V)
+
+
+###### Article R631-8
+
+Les déclarations mentionnées aux articles R. 631-6 et R. 631-7 sont adressées, par pli recommandé avec avis de réception
+postal, au maire de la commune de situation des locaux ou déposées, contre décharge, à la mairie.
+
+Accompagnées d'une copie de cet avis de réception postal ou de cette décharge, elles sont adressées, par pli recommandé avec
+avis de réception postal, au préfet du département de situation des locaux ou déposées contre décharge à la préfecture. Elles
+sont réputées faites à la date de la réception du pli recommandé par le préfet ou de la décharge donnée par la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-37 du 5 janvier 1995 - art. 1 () JORF 12 janvier 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R631-6 (M)
+	  - Code de la construction et de l'habitation. - art. R631-7 (M)
 
 
 ### Titre IV : Logement d'office 
