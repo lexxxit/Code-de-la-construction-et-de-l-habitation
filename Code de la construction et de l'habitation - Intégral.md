@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-03-20
+Version Consolidée au 1986-04-01
 
 # Partie législative
 
@@ -48569,6 +48569,40 @@ fonctionnaires qu'il délègue à cet effet.
 	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
 
 
+###### Article R*421-9
+
+La durée du mandat du conseil d'administration est de trois ans.
+
+Les membres désignés par la collectivité locale ou l'établissement public de rattachement font l'objet d'une nouvelle
+désignation après chaque renouvellement partiel ou total de l'organe délibérant qui les a élus. En cas de suspension ou de
+dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection de ses délégués par le nouvel organe.
+
+Les membres désignés par les conseils d'administration des caisses d'allocations familiales et par l'union départementale des
+associations familiales, ainsi que les membres désignés par le commissaire de la République, font l'objet d'une nouvelle
+désignation chaque fois que les collectivités locales ou les établissements publics doivent eux-mêmes procéder à une
+désignation de leurs représentants au conseil d'administration.
+
+Les membres sortants du conseil peuvent être désignés à nouveau.
+
+Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son fonctions
+avant l'expiration de la durée normale de son mandat, il est procédé immédiatement à son remplacement. Les fonctions du
+nouveau membre expirent à la date où auraient normalement cessé celles du membre qu'il a remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+
+
 ###### Article R*421-14
 
 Le mandat de tous les administrateurs est gratuit.
@@ -58373,41 +58407,6 @@ aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions 
 	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
 	  - Code de la construction et de l'habitation. - art. R421-4-1 (Ab)
-
-
-###### Article R*421-9
-
-La durée du mandat du conseil d'administration est de quatre ans. Les membres du conseil sont renouvelés par moitié tous les
-deux ans, excepté les représentants des locataires élus pour quatre ans. Un tirage au sort parmi, d'une part, les membres
-désignés par les préfets, d'autre part, les autres membres, désigne ceux des membres du conseil qui seront soumis à
-renouvellement à l'expiration de la première période biennale. Les membres sortant sont rééligibles.
-
-Toutefois :
-
-- les représentants des collectivités locales suivent le sort de l'assemblée locale quant à la durée de leur mandat sans que
-cette dernière puisse excéder quatre ans ; en cas de suspension ou de dissolution de l'assemblée, ce mandat est continué
-jusqu'au jour de la nomination de représentants par la nouvelle assemblée.
-
-- la perte de la qualité de locataire ou de membre du personnel met un terme au mandat des administrateurs nommés en cette
-qualité.
-
-Si un membre du conseil d'administration vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat,
-il est pourvu immédiatement à son remplacement. En ce cas, les fonctions du nouveau membre expirent à la date où auraient
-normalement cessé celles du membre qu'il a remplacé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
 
 ###### Article R*421-10
