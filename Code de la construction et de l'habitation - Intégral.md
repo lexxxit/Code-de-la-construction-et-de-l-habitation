@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-10-31
+Version Consolidée au 1998-01-01
 
 # Partie législative
 
@@ -43291,16 +43291,15 @@ section 2.*]
 
 ###### Article R323-5
 
-La décision de subvention est prise par le représentant de l'Etat dans le département [*autorité compétente*]. Elle est
-accordée au vu d'un programme de travaux joint à la demande de subvention.
-
-**Nota:**
-
-[*L'article 1er du décret 87-1113 du 24 décembre 1987 crée un nouvel article R323-12 dont la teneur suit : "La présente
-section n'est pas applicable aux départements d'outre-mer", sans abroger l'ancien article R323-12 qui lui appartient à la
-section 2.*]
+La décision de subvention qui vaut décision favorable au sens des dispositions du a du 7° bis de l'article 257 du code
+général des impôts est prise par le représentant de l'Etat dans le département. Elle est accordée au vu d'un programme de
+travaux joint à la demande.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257
 
 	**Codifié par**:
 
@@ -43308,11 +43307,7 @@ section 2.*]
 
 	**Modifié par**:
 
-	  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+	  - Décret n°97-1262 du 29 décembre 1997 - art. 1 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Cité par**:
 
@@ -43347,10 +43342,11 @@ des immeubles ou de reprise de l'architecture extérieure.
 
 ###### Article R323-7
 
-Le taux de la subvention est au plus égal à 20 p. 100 [*pourcentage*] du coût prévisionnel des travaux, dans les limites
-définies à l'article R. 323-6.
+Le taux de la subvention est au plus égal à 10 p. 100 du coût prévisionnel des travaux, sauf pour les opérations réalisées en
+Corse, où il est au plus égal à 20 p. 100 du coût prévisionnel des travaux.
 
-Ce taux peut être porté au plus à 30 p. 100 du coût prévisionnel des travaux, dans les limites susvisées :
+Ce taux peut être porté au plus à 25 p. 100 du coût prévisionnel des travaux, sauf pour les opérations réalisées en Corse, où
+il est au plus égal à 30 p. 100 du coût prévisionnel des travaux.
 
 a) Pour la réalisation de travaux destinés à améliorer la sécurité dans les immeubles, y compris les travaux de renforcement
 des portes d'entrée des logements, à condition qu'une collectivité locale participe à ces travaux pour un montant
@@ -43358,15 +43354,16 @@ des portes d'entrée des logements, à condition qu'une collectivité locale par
 
 b) Pour des opérations à caractère expérimental ;
 
-c) Pour des opérations " habitat et vie sociale  ou pour des opérations réalisées dans le cadre des actions pour le
-développement social des quartiers.
+c) Pour des opérations " habitat et vie sociale " ou pour des opérations réalisées dans le cadre des actions pour le
+développement social des quartiers ou pour des opérations réalisées dans les grands ensembles et quartiers mentionnés au I de
+l'article 1466 A du code général des impôts ; il en est de même pour la réalisation de loges de gardien ;
 
 d) Pour des opérations dont le maître d'ouvrage est une commune de moins de 5 000 habitants, lorsque l'importance des travaux
 et les conditions d'équilibre financier de l'opération le justifient.
 
 En outre, le représentant de l'Etat dans le département peut, à titre exceptionnel, porter le taux de la subvention au plus à
-40 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article R. 323-6, lorsque l'importance des travaux
-de l'opération et ses caractéristiques sociales le justifient.
+40 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article R. 323-6, lorsque le maître d'ouvrage,
+bénéficiaire de la subvention, rencontre des difficultés financières particulières.
 
 **Liens relatifs à cet article**
 
@@ -43376,7 +43373,8 @@ de l'opération et ses caractéristiques sociales le justifient.
 
 	**Modifié par**:
 
-	  - Décret n°94-977 du 4 novembre 1994 - art. 1 () JORF 11 novembre 1994
+	  - Décret n°97-1262 1997-12-29 art. 2 I, II, III, IV JORF 30 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°97-1262 du 29 décembre 1997 - art. 2 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Liens**:
 
@@ -43386,6 +43384,7 @@ de l'opération et ses caractéristiques sociales le justifient.
 
 	**Cite**:
 
+	  - CGI 1466 A
 	  - Code de la construction et de l'habitation. - art. R323-6 (M)
 
 	**Cité par**:
@@ -45344,30 +45343,73 @@ actualisés au 1er janvier de chaque année en fonction de la variation annuelle
 
 2° a) Une subvention peut être octroyée aux opérations de construction suivantes. Le taux de subvention est au plus égal à :
 
-- 8 p. 100 de l'assiette définie au 1° pour les opérations d'habitat adapté aux besoins de populations rencontrant des
-difficultés particulières. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 p. 100 au plus ;
+8 % de l'assiette définie au 1° pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1. A
+titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 % au plus ;
 
-- 3 p. 100 de cette assiette pour les opérations à caractère expérimental.
+20 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et adaptées
+aux besoins de ménages qui rencontrent des difficultés d'insertion particulières ;
+
+12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant,
+avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur
+ajoutée ;
+
+3 % de cette assiette pour les opérations à caractère expérimental ; ce taux peut être porté à 12 % pour les opérations de
+relogement liées à des démolitions.
 
 b) Par dérogation au a, une subvention peut être octroyée aux opérations de construction réalisées en Corse. Le taux de
-subvention est au plus égal à 9,5 p. 100 de l'assiette définie au 1°. Il peut être porté :
+subvention est au plus égal à 9,5 % de l'assiette définie au 1°. Il peut être porté :
 
-- au plus à 17,5 p. 100 de cette assiette pour des opérations d'habitat adapté aux besoins de populations rencontrant des
-difficultés particulières. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 p. 100 au plus ;
+Au plus à 17,5 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1. A
+titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 % au plus ;
 
-- au plus à 12,5 p. 100 de cette assiette pour des opérations à caractère expérimental.
+Au plus à 30 % de cette assiette pour les opérations de construction mentionnées au dernier alinéa de l'article R. 331-1 et
+adaptées aux besoins de ménages qui rencontrent des difficultés d'insertion particulières ;
 
-3° Pour les opérations autres que celles prévues au 2°, le taux de subvention est au plus égal à 12 % de l'assiette définie
-au 1° et le montant de la subvention ne peut dépasser 15 % du prix de revient de l'opération.
+Au plus à 12 % de cette assiette pour la réalisation de logements-foyers dénommés résidences sociales par des maîtres
+d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à taxe sur
+la valeur ajoutée ;
+
+Au plus à 12,5 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
+opérations de relogement liées à des démolitions.
+
+3° a) Pour les opérations autres que celles prévues au 2°, le taux de subvention est au plus égal à 5 % de l'assiette définie
+au 1° et le montant de la subvention ne peut dépasser 10 % du prix de revient de l'opération.
 
 Le taux de la subvention peut être porté :
 
-- au plus à 20 % de cette assiette pour des opérations d'habitat adapté aux besoins des populations rencontrant des
-difficultés particulières avec un montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération. A titre
-exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 % au plus, avec un montant de subvention ne pouvant excéder
-25 % du prix de revient de l'opération ;
+Au plus à 13 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 avec un montant de
+subvention ne pouvant excéder 18 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation,
+porter ce taux à 18 % au plus, avec un montant de subvention ne pouvant excéder 18 % du prix de revient de l'opération ;
 
-- au plus à 15 % de cette assiette pour des opérations à caractère expérimental.
+Au plus à 20 % de cette assiette pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux
+besoins de ménages qui rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant
+excéder 25 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 %
+au plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération ;
+
+Au plus à 12 % de cette assiette pour la réalisation des logements-foyers dénommés résidences sociales par des maîtres
+d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
+sur la valeur ajoutée ;
+
+Au plus à 8 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 12 % pour des
+opérations de relogement liées à des démolitions.
+
+b) Par dérogation au a, pour les opérations réalisées en Corse autres que celles prévues au 2° ainsi que pour la réalisation
+de logements-foyers dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les
+gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée, le taux de subvention est au plus
+égal à 12 % de l'assiette définie au 1° et le montant de la subvention ne peut dépasser 15 % du prix de revient de
+l'opération. Le taux de subvention peut être porté :
+
+Au plus à 20 % pour des opérations mentionnées au dernier alinéa de l'article R. 331-1, avec un montant de subvention ne
+pouvant excéder 25 % du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux
+à 25 % au plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération ;
+
+Au plus à 30 % pour des opérations mentionnées au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui
+rencontrent des difficultés d'insertion particulières, avec un montant de subvention ne pouvant excéder 35 % du prix de
+revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 35 % au plus, avec un montant
+de subvention ne pouvant excéder 35 % du prix de revient de l'opération ;
+
+Au plus à 15 % de cette assiette pour des opérations à caractère expérimental ; ce taux peut être porté à 20 % pour les
+opérations de relogement liées à des démolitions.
 
 4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
 
@@ -45407,14 +45449,9 @@ d'application du présent article.
 	  - Code de la construction et de l'habitation. - art. R353-90 (V)
 	  - Code de la construction et de l'habitation. - art. R381-4 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°97-575 du 28 mai 1997 - art. 1 () JORF 31 mai 1997
-	  - Décret n°97-575 du 28 mai 1997 - art. 2 () JORF 31 mai 1997
+	  - Décret n°97-1261 du 29 décembre 1997 - art. 1 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Cite**:
 
