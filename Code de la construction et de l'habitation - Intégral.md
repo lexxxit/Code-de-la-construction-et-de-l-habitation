@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-11-15
+Version Consolidée au 1998-12-17
 
 # Partie législative
 
@@ -43496,11 +43496,22 @@ d'immeubles à usage principal d'habitation dans lesquels la taxe additionnelle 
 bis du code général des impots, est applicable ou devient applicable compte tenu des engagements de donner les locaux à bail
 pris par les propriétaires bénéficiaires de l'aide de l'agence [*attributions*].
 
+Sous les conditions prévues au présent article, l'agence peut également, dans les zones de revitalisation rurale mentionnées
+à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire,
+accorder des aides pour la transformation en logements locatifs de locaux non affectés initialement à cet usage, dès lors
+qu'ils sont situés dans une zone bâtie agglomérée.
+
 Toutefois, l'aide de l'agence peut être accordée pour des travaux effectués dans les locaux exonérés de la taxe additionnelle
 au droit de bail en raison du montant du loyer, en vertu des dispositions des articles 740 et 741 bis du code général des
 impôts.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 741 bis, 740
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1 (M)
 
 	**Codifié par**:
 
@@ -43508,7 +43519,7 @@ impôts.
 
 	**Modifié par**:
 
-	  - Décret n°92-598 du 29 juin 1992 - art. 1 () JORF 3 juillet 1992
+	  - Décret n°98-1149 du 16 décembre 1998 - art. 1 () JORF 17 décembre 1998
 
 	**Cité par**:
 
@@ -43518,10 +43529,6 @@ impôts.
 	  - Code de la construction et de l'habitation. - art. R321-6-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R321-6-3 (V)
 	  - Code de la construction et de l'habitation. - art. R321-6-4 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L321-3 CGI 740, 741 bis
 
 
 #### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat, statut et concours financier.
