@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-04-22
+Version Consolidée au 2001-05-16
 
 # Partie législative
 
@@ -59844,7 +59844,7 @@ ancien ;
 
 - l'Association française des banques ;
 
-- la Chambre syndicale des banques populaires ;
+- la Banque fédérale des banques populaires ;
 
 - la Fédération française des sociétés d'assurances.
 
@@ -59896,7 +59896,7 @@ membres mentionnés aux b, c, d et e sont désignés en nombre égal et dans les
 
 	**Modifié par**:
 
-	  - Décret n°99-236 du 24 mars 1999 - art. 1 () JORF 27 mars 1999
+	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
 
 	**Cité par**:
 
