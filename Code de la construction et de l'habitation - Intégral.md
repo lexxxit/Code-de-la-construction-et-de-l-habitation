@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-11-22
+Version Consolidée au 1979-12-06
 
 # Partie législative
 
@@ -10939,6 +10939,92 @@ Pour l'application du présent article, le point de départ du délai de dix ans
 
 	  - Code de la construction et de l'habitation. - art. L421-7 (V)
 	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
+
+
+###### Article L423-1-1
+
+Ne peuvent être cédées qu'à des sociétés d'habitations à loyer modéré :
+
+a) Les actions des sociétés anonymes d'habitations à loyer modéré mentionnées à l'article L. 422-2 qui gèrent moins de 1500
+logements après dix ans d'existence ou qui, quel que soit le nombre de logements qu'elles gèrent, ont construit moins de 500
+logements pendant la période de dix ans qui précède immédiatement la date de la cession ;
+
+b) Les actions des sociétés anonymes de crédit immobilier mentionnées à l'article L. 422-4 qui ont accordé moins de 1000
+prêts pendant la période de dix ans qui précède immédiatement la date de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-4 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*423-85 (V)
+	  - Code de la construction et de l'habitation. - art. R423-75 (M)
+	  - Code général des impôts, CGI. - art. 1461 (V)
+	  - Code général des impôts, CGI. - art. 207 (VD)
+
+
+###### Article L423-1-3
+
+Sous réserve du droit préférentiel de souscription des anciens actionnaires, la souscription d'actions nouvelles,
+correspondant à une augmentation du capital d'une société visée à l'article L. 423-1-1, est soumise aux dispositions des
+articles L. 423-1-1 et L. 423-1-2 [*anonyme crédit immobilier, habitations à loyer modéré*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-1-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
+
+
+###### Article L423-1-4
+
+Toute cession ou souscription d'actions intervenue en méconnaissance des dispositions des articles L. 423-1-1, 423-1-2 et L.
+423-1-3 est nulle de plein droit. L'action en nullité se prescrit par cinq ans [*sociétés anonymes habitations à loyer
+modéré, crédit immobilier*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 59 (V) JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-1-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (Ab)
 
 
 ###### Article L423-2
