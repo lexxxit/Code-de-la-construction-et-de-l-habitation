@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-06-30
+Version Consolidée au 1981-07-26
 
 # Partie législative
 
@@ -43213,41 +43213,48 @@ dont la qualité de la gestion a été constatée dans les conditions précisée
 
 ###### Article R*422-4
 
-Le ministre chargé de la construction et de l'habitation peut après avis du conseil supérieur des habitations à loyer modéré,
-agréer spécialement les sociétés anonymes d'habitations à loyer modéré pour leur permettre d'étendre leur activité à
-l'ensemble du territoire national [*compétence territoriale*].
+Le ministre chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer
+modéré, agréer spécialement les sociétés anonymes d'habitations à loyer modéré pour leur permettre d'étendre leur activité à
+l'ensemble du territoire national [*extension compétence territoriale*].
 
-Peuvent solliciter le bénéfice des dispositions du présent article les sociétés dont la qualité de gestion sur les plans
+Peuvent solliciter le bénéfice des dispositions du présent alinéa les sociétés dont la qualité de gestion sur les plans
 technique et financier a été constatée à l'occasion du contrôle prévu par l'article L. 451-1 et qui, soit ont construit ou
-ont en gérance au moins 10000 logements [*nombre*] au total, soit ont construit en moyenne au moins 1000 logements par an au
-cours des trois derniers exercices précédant la demande.
+ont en gérance au moins 10000 logements au total, soit ont construit en moyenne au moins 1000 logements par an au cours des
+trois derniers exercices précédant la demande [*nombre*].
 
 Les sociétés ayant reçu un tel agrément doivent introduire dans leurs statuts une clause prévoyant l'institution d'un
 commissaire du Gouvernement.
 
-Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des finances peut, après
-avis du conseil supérieur des habitations à loyer modéré, agréer spécialement les sociétés anonymes d'habitations à loyer
-modéré dont la qualité de la gestion sur les plans technique et financier a été appréciée à l'occasion du contrôle prévu aux
-articles L. 451-1 et R. 451-2, pour permettre à ces sociétés de réaliser pour le compte de tiers, toutes opérations
-d'aménagement prévues au premier alinéa de l'article L. 321-1 du code de l'urbanisme. En ce cas, les dispositions des
-articles L. 423-4 à L. 423-6 du présent code ne sont pas applicables.
+Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé du Trésor peut, après avis
+du conseil supérieur des habitations à loyer modéré, agréer spécialement les sociétés anonymes d'habitations à loyer modéré
+dont la qualité de la gestion sur les plans technique et financier a été appréciée à l'occasion du contrôle prévu aux
+articles L. 451-1 et R. 451-2 pour permettre à ces sociétés de réaliser pour le compte de tiers toutes opérations
+d'aménagement [*zones d'habitation, zones industrielles*] prévues au premier alinéa de l'article L. 321-1 du code de
+l'urbanisme. Cet agrément peut être limité dans le temps.
+
+Il peut également être limité à certaines catégories d'opérations en raison de leur nature ou de leur importance ou à une ou
+plusieurs opérations déterminées.
+
+Dans les cas définis par un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé du
+Trésor, l'agrément est donné par le préfet [*autorité compétente*].
+
+Dans les cas visés aux deux alinéas précédents, les dispositions des articles L. 423-4 à L. 423-8 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-213 1974-02-25 art. 2 I
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-717 1981-07-21 ART. 1, ART. 2 JORF 26 JUILLET 1981
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-1 (M)
 	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-8 (Ab)
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 	  - Code de la construction et de l'habitation. - art. R451-2 (M)
 
@@ -43258,32 +43265,24 @@ articles L. 423-4 à L. 423-6 du présent code ne sont pas applicables.
 
 ###### Article R*422-5
 
-Si une société ayant bénéficié des dispositions du deuxième alinéa de l'article R. 422-3 et de l'article R. 422-4
-[*compétence territoriale étendue*] n'est plus en mesure, du point de vue technique ou financier, d'assumer sa mission de
-façon satisfaisante, un arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé des finances
-peut, après que la société aura été invitée à présenter des observations et après avis du conseil supérieur des habitations à
-loyer modéré, mettre un terme en tout ou partie à la faculté pour la société d'entreprendre de nouvelles opérations en dehors
-de la région où est situé son siège social ou à la possibilité de réaliser les opérations d'aménagement prévues au premier
-alinéa de l'article L. 321-1 du code de l'urbanisme.
+Les agréments accordés en vertu des dispositions des articles R. 422-3 et R. 422-4 peuvent être retirés en tout ou partie par
+l'autorité qui les a délivrés si la société bénéficiaire n'est plus en mesure, du point de vue technique ou financier,
+d'assumer sa mission de façon satisfaisante. Ce retrait est prononcé, après que la société a été invitée à présenter ses
+observations, selon la même procédure que celle selon laquelle l'agrément a été accordé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-213 1974-02-25 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°81-717 1981-07-21 art. 3 JORF 26 juillet 1981
+	  - Décret n°81-717 1981-07-21 ART. 3 JORF 26 JUILLET 1981
 
 	**Cite**:
 
-	  - Code de l'urbanisme L321-1 AL. 1
-	  - Code de la construction et de l'habitation R422-4
+	  - Code de la construction et de l'habitation R422-3, R422-4
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
