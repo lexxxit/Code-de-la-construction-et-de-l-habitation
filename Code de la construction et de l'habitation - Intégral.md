@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-08-06
 
 # Partie législative
 
@@ -37188,23 +37188,10 @@ compter du 1er janvier 1983 en fonction des salaires payés au cours de l'année
 ###### Article R*313-2
 
 Le montant des salaires, traitements, indemnités et émoluments pris en considération pour l'assiette de la participation
-obligatoire est déterminé dans les conditions fixées par l'article 231 du code général des impôts et par les textes
-réglementaires pris pour l'application de cet article.
-
-Ce montant est diminué pour les employeurs qui occupaient moins de dix salariés en 1978 ou en 1979 et qui portent leur
-effectif à dix ou plus en 1979 ou en 1980 d'un abattement calculé comme suit :
-
-360 000 F pour la première année pendant laquelle cet effectif est atteint ou dépassé ;
-
-240 000 F pour la deuxième année ;
-
-120 000 F pour la troisième année.
+obligatoire est déterminé dans les conditions fixées par les chapitres Ier et II du titre IV du livre II du code de la
+sécurité sociale et par les textes réglementaires pris pour l'application de ces chapitres.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231
 
 	**Codifié par**:
 
@@ -37212,7 +37199,7 @@ effectif à dix ou plus en 1979 ou en 1980 d'un abattement calculé comme suit :
 
 	**Modifié par**:
 
-	  - Décret n°79-881 du 11 octobre 1979 - art. 2 (V) JORF 12 OCTOBRE 1979
+	  - Décret n°98-677 du 30 juillet 1998 - art. 1 () JORF 6 août 1998
 
 	**Cité par**:
 
@@ -37708,7 +37695,7 @@ c) Occupés à titre d'accessoire d'un contrat de travail.
 I. - La participation des employeurs peut être investie dans des opérations, effectuées par des personnes physiques :
 
 a) D'acquisition et d'aménagement de terrains en vue de la construction de logements, à la condition que la construction
-intervienne dans les délais et conditions fixés par l'article 691-II du code général des impôts ;
+intervienne dans les délais et conditions fixés par l'article 691 II du code général des impôts ;
 
 b) De construction de logements ;
 
@@ -37766,7 +37753,7 @@ c) Le financement intervient dans les trois mois suivant l'acquisition.
 B. - La participation des employeurs peut être investie dans l'acquisition, non suivie d'amélioration, d'un logement, dans
 les cas suivants :
 
-1° Lors du transfert de propriété d'un logement dont l'occupant, bénéficiaire de l'option d'achat mentionnée au 2° du A ci-
+1° Lors du transfert de propriété d'un logement dontl'occupant, bénéficiaire de l'option d'achat mentionnée au 2° du A ci-
 dessus, ne s'est pas porté acquéreur ;
 
 2° Lorsque l'acquéreur bénéficie des dispositions des articles L. 443-7 à L. 443-15.
@@ -37776,6 +37763,11 @@ progressives accordés en application des articles R. 331-32 ou R. 331-63 ou des
 les emprunteurs ont contracté leur prêt avant le 31 janvier 1985 ou lorsque qu'ils bénéficient des dispositifs d'aide aux
 accédants en difficulté figurant sur une liste définie par arrêté conjoint des ministres chargés du logement et de
 l'économie.
+
+Dans le cadre de conventions conclues en application du 2° de l'article L. 313-19, peuvent également être refinancés, en tout
+ou partie, les prêts accordés en application des articles R. 331-32 ou R. 331-63 ou les prêts conventionnés garantis par
+l'Etat en application de l'article R. 312-3-1 ou les prêts complémentaires auxdits prêts ou les prêts accompagnant l'avance
+mentionnée à l'article R. 317-1, lorsque l'emprunteur est en situation de déséquilibre financier.
 
 V. - Pour l'application du présent article, les plafonds ou les quotités de financement, les normes minimales d'habitabilité
 ainsi que, s'il y a lieu, les caractéristiques techniques des opérations, sont fixés par arrêté conjoint des ministres
@@ -37793,8 +37785,13 @@ Un décret peut fixer le taux d'intérêt maximal des prêts consentis en applic
 	  - CGI 691
 	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
 	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
-	  - Code de la construction et de l'habitation R313-17, R331-59-7
+	  - Code de la construction et de l'habitation R313-17, R331-59-7, L443-7 à L443-15, R331-32, R331-63, L313-19, R312-3-1, R317-1
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 	  - Code de la construction et de l'habitation. - art. R331-59-7 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 	**Codifié par**:
 
@@ -37802,7 +37799,7 @@ Un décret peut fixer le taux d'intérêt maximal des prêts consentis en applic
 
 	**Modifié par**:
 
-	  - Décret n°94-1237 du 31 décembre 1994 - art. 1 () JORF 7 janvier 1995
+	  - Décret n°98-677 du 30 juillet 1998 - art. 2 () JORF 6 août 1998
 
 
 ###### Article R*313-16
@@ -37851,7 +37848,7 @@ a) De construction ou d'acquisition de logements et d'équipements sociaux ou d'
 la limite, pour les équipements ou annexes complémentaires, de 3 p. 100 des sommes recueillies ;
 
 b) D'acquisition et d'aménagement de terrains destinés exclusivement à des opérations de construction de logements réalisées
-par elles-mêmes, à la condition que la construction intervienne dans les délais et conditions fixés par l'article 691-II du
+par elles-mêmes, à la condition que la construction intervienne dans les délais et conditions fixés par l'article 691 II du
 code général des impôts ;
 
 c) D'aménagement de logements locatifs pour des handicapés physiques ;
@@ -37861,6 +37858,8 @@ tenus, pour des raisons professionnelles ou de formation, de se loger hors de le
 investissement ait bénéficié au préalable d'un agrément du ministre chargé du logement ;
 
 e) De construction ou d'acquisition de logements-foyers mentionnés au 5° de l'article L. 351-2 du présent code.
+
+f) D'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements.
 
 2° La participation des employeurs ne peut être investie dans le financement de ces opérations que lorsque cet investissement
 intervient :
@@ -37890,7 +37889,8 @@ b) Autoriser à titre exceptionnel, par dérogation à l'article R. 313-12 et au
 employeurs dans le financement de programmes de logements provisoires.
 
 II. - La participation des employeurs peut également être investie dans des opérations d'amélioration de logements à usage
-locatif ou de logements-foyers.
+locatif ou de logements-foyers et dans les travaux de transformation ou d'aménagement en logements locatifs de locaux ou
+d'immeubles non affectés à cet usage.
 
 Pour les opérations mentionnées à l'alinéa précédent, le cumul avec une subvention mentionnée à l'article R. 321-4 est
 subordonné à la condition que le bailleur s'engage soit à respecter le loyer maximal et le plafond de ressources fixés dans
@@ -37933,9 +37933,7 @@ avec la participation des employeurs.
 
 	**Modifié par**:
 
-	  - Décret n°92-240 du 16 mars 1992 - art. 6 () JORF 17 mars 1992
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+	  - Décret n°98-677 du 30 juillet 1998 - art. 3 () JORF 6 août 1998
 
 	**Cité par**:
 
@@ -38517,8 +38515,8 @@ Les sommes recueillies au titre de la participation des employeurs par les organ
 
 a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
 
-b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence nationale pour la participation des
-employeurs à l'effort de construction ;
+b) Les versements effectués par d'autres organismes collecteurs, par l'Agence nationale pour la participation des employeurs
+à l'effort de construction ou par l'Union d'économie sociale du logement.
 
 c) Les remboursements de prêts consentis à l'aide de la participation des employeurs ainsi que le produit net de la cession
 d'éléments d'actif constitués à l'aide de cette participation, à l'exclusion des plus-values sur valeurs mobilières de
@@ -38529,8 +38527,9 @@ d) Le produit net des intérêts de chacun des prêts visés à l'article R. 313
 e) Les produits résultant du placement des fonds en attente d'un emploi conforme aux articles R. 313-31, R. 313-34 et R.
 313-52 à R. 313-56 pour la part excédant une limite fixée par décret.
 
-Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a, b) ou à
-l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes.
+Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
+l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
+logement, sont déduits de ces sommes.
 
 **Liens relatifs à cet article**
 
@@ -38540,7 +38539,7 @@ l'Agence nationale pour la participation des employeurs à l'effort de construct
 
 	**Modifié par**:
 
-	  - Décret n°95-707 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
+	  - Décret n°98-677 du 30 juillet 1998 - art. 4 () JORF 6 août 1998
 
 	**Cite**:
 
@@ -38685,16 +38684,17 @@ mentionnés à l'article R. 313-9 (2°, a) comprennent :
 
 a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
 
-b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence nationale pour la participation des
-employeurs à l'effort de construction ;
+b) Les versements effectués par d'autres organismes collecteurs, par l'Agence nationale pour la participation des employeurs
+à l'effort de construction ou par l'Union d'économie sociale du logement.
 
 c) Les remboursements des prêts consentis à l'aide de la participation des employeurs ;
 
 d) La part du résultat non affectée au réserves prévues aux articles R. 313-31-1 et R. 313-33-3 ou au report à nouveau
 débiteur.
 
-Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b) ou à
-l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes..
+Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
+l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
+logement, sont déduits de ces sommes.
 
 **Liens relatifs à cet article**
 
@@ -38702,17 +38702,17 @@ l'Agence nationale pour la participation des employeurs à l'effort de construct
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°90-100 du 26 janvier 1990 - art. 2 () JORF 30 janvier 1990
-
 	**Cité par**:
 
 	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (M)
 
+	**Modifié par**:
+
+	  - Décret n°98-677 du 30 juillet 1998 - art. 5 () JORF 6 août 1998
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-8 à R313-11, R313-31-1, R313-33-3
+	  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31-1, R313-33-3
 	  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
 
 
@@ -38952,8 +38952,8 @@ pour collecter la participation des employeurs, les sociétés anonymes de créd
 provenant de celle-ci dans les conditions prévues à l'article R. 313-34 et les organismes mentionnés au c du 2° de l'article
 R. 313-9 selon les modalités fixées par l'article R. 313-35.
 
-10° Prêts à des collectivités territoriales en vue de la participation au financement d'acquisitions de logements locatifs
-suivies, le cas échéant, de travaux d'amélioration, en application du 3° du premier alinéa de l'article R. 331-14.
+10° Prêts à des collectivités territoriales en vue de la participation au financement d'opérations de construction,
+d'acquisition, d'acquisition-amélioration ou d'amélioration, en application du 3° du premier alinéa de l'article R. 331-14.
 
 11° Prêts à des personnes morales pour le financement d'opérations mentionnées au II de l'article R. 313-17 et portant sur
 des logements occupés ou destinés à être occupés par des personnes relevant du statut du personnel des exploitations minières
@@ -38963,6 +38963,13 @@ et assimilées prévu par le décret n° 46-1433 du 14 juin 1946 modifié.
 
 13° Prêts à d'autres personnes morales pour la réalisation de logements de catégorie intermédiaire, mentionnés au d du 2° du
 I de l'article R. 313-17.
+
+14° Versements au fonds d'intervention de l'Union d'économie sociale du logement mentionné à l'article L. 313-20 en
+application de conventions conclues avec l'Etat.
+
+15° Prêt de tout ou partie de la trésorerie au fonds d'intervention de l'Union d'économie sociale du logement.
+
+16° Souscription au capital social de l'Union d'économie sociale du logement.
 
 II. - Lorsqu'il s'agit d'opérations d'aménagement de logements destinés à des handicapés physiques, la participation peut
 être investie sous forme de subvention.
@@ -38975,13 +38982,18 @@ prévoient les conditions des prêts et les modalités du contrôle exercé par 
 l'article R. 313-9 ainsi que, le cas échéant, les plafonds de loyer et de ressources des bénéficiaires des logements
 concernés. Elles comprennent des clauses types approuvées par décret.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°46-1433 1946-06-14
 	  - Décret n°75-1269 1975-12-27
-	  - Code de la construction et de l'habitation R313-9, R313-25-1, R313-15, R313-16, R313-17, R313-18, R331-67, L313-26, R313-34, R313-35, R331-14
+	  - Code de la construction et de l'habitation R313-9, R313-25-1, R313-15, R313-16, R313-17, R313-18, R331-67, L313-26, R313-20, R313-34, R313-35, R331-14, L313-20
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
 	  - Code de la construction et de l'habitation. - art. L313-26 (V)
 	  - Code de la construction et de l'habitation. - art. R331-14 (M)
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
@@ -38998,9 +39010,7 @@ concernés. Elles comprennent des clauses types approuvées par décret.
 
 	**Modifié par**:
 
-	  - Décret n°94-1237 du 31 décembre 1994 - art. 2 () JORF 7 janvier 1995
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+	  - Décret n°98-677 du 30 juillet 1998 - art. 6 () JORF 6 août 1998
 
 
 ###### Article R*313-31-1
@@ -39157,38 +39167,49 @@ représentant de l'Etat, de la décision d'autorisation de cession délivrée pa
 ###### Article R*313-32
 
 Sont déterminées, par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des
-finances, les conditions des prêts consentis par les organismes collecteurs en application de l'article R. 313-31 pour
+finances, les conditions des prêts consentis par les organismes collecteurs en application de l'article R. 313-31 (1°) pour
 l'acquisition ou la construction d'un logement dans le cas où le bénéficiaire a pris l'engagement de vendre son logement
 précédent dont l'occupation est incompatible avec l'exercice de sont activité professionnelle dans un nouveau lieu de
 travail.
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 27 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R313-31
-
-
-###### Article R*313-33
-
-Les sommes dont les associations mentionnées à l'article R. 313-9 (2°, a) sont redevables au titre des prélèvements prévus
-aux articles L. 313-10 et L. 313-12 ainsi que, dans les limites fixées par le ministre chargé de la construction et de
-l'habitation, leurs frais généraux et leurs cotisations à des organismes fédéraux peuvent être imputés sur les fonds qu'elles
-ont collectés de la participation des employeurs.
+Ces prêts peuvent être accordés aux salariés en situation de perte d'emploi lorsque le bénéficiaire du prêt a pris
+l'engagement de vendre son logement précédent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°98-677 du 30 juillet 1998 - art. 7 () JORF 6 août 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-746 du 22 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+
+
+###### Article R*313-33
+
+Les associations mentionnées à l'article R. 313-9 (2°, a) peuvent imputer sur les fonds de la participation des employeurs
+qu'elles ont collectés les prélèvements prévus aux articles L. 313-10, L. 313-12 et L. 313-25 ainsi que, dans les limites
+fixées par le ministre chargé du logement, leurs frais généraux.
+
+La contribution versée par ces associations à l'Union d'économie sociale du logement pour couvrir la différence de coût entre
+les concours financiers que l'union leur consent et les emprunts contractés à cet effet par celle-ci, de même que la
+contribution qu'elles versent à l'union en cas de non-remboursement par un collecteur des concours qu'il en a reçus, peuvent
+être imputées sur les fonds collectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Cité par**:
 
@@ -39197,11 +39218,18 @@ ont collectés de la participation des employeurs.
 
 	**Modifié par**:
 
-	  - Décret n°88-313 du 28 mars 1988 - art. 10 () JORF 3 avril 1988
+	  - Décret n°98-677 du 30 juillet 1998 - art. 8 () JORF 6 août 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 A, L313-10 L313-12
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. L313-10
+	  - Code de la construction et de l'habitation. - art. L313-12
+	  - Code de la construction et de l'habitation. - art. L313-25
 
 
 ###### Article R313-33-1
@@ -39346,18 +39374,27 @@ fin.
 
 Les organismes mentionnés à l'article R. 313-9 (2°, b) doivent recourir pour l'utilisation des sommes recueillies au titre de
 l'article R. 313-25 à l'une ou plusieurs des modalités [*utilisation fonds*] définies à l'article R. 313-31, dans les
-conditions fixées par l'arrêté définissant ces organismes.
+conditions fixées par l'arrêté définissant ces organismes. Dans le cadre de conventions conclues en application du 2° de
+l'article L. 313-19, les chambres de commerce et d'industrie peuvent également recourir aux modalités définies à l'article R.
+313-32.
 
 L'agrément prévu à l'article R. 313-21 est subordonné à un minimum de sommes collectées fixé pour chaque catégorie
-d'organismes par arrêté conjoint des ministres intéressés. En outre, en ce qui concerne les sociétés de crédit immobilier,
-l'agrément est également subordonné à la condition que la société ne comprenne pas aux postes d'administrateur ou de
-direction une personne à laquelle sont applicables les dispositions de l'article L. 313-29 ou qui a fait partie d'un conseil
-d'administration suspendu en application des dispositions de l'article L. 313-13.
+d'organismes par arrêté conjoint des ministres intéressés.
+
+En outre, en ce qui concerne les sociétés de crédit immobilier, l'agrément est également subordonné à la condition que la
+société ne comprenne pas aux postes d'administrateur ou de direction une personne à laquelle sont applicables les
+dispositions de l'article L. 313-29 ou qui a fait partie d'un conseil d'administration suspendu en application des
+dispositions de l'article L. 313-13.
 
 Les sommes dont les organismes énumérés au 2° (b et d) de l'article R. 313-9 sont redevables au titre des prélèvements prévus
 aux articles L. 313-10 et L. 313-12 ainsi que, dans les limites fixées par le ministre chargé du logement, leurs frais de
-gestion et leurs cotisations à des organismes fédéraux peuvent être imputés sur les fonds qu'ils ont collectés au titre de la
-participation des employeurs.
+gestion peuvent être imputés sur les fonds qu'ils ont collectés au titre de la participation des employeurs. Les chambres de
+commerce et d'industrie peuvent également imputer sur ces fonds le prélèvement prévu à l'article L. 313-25 et les
+contributions prévues au deuxième alinéa de l'article R. 313-33.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -39371,16 +39408,16 @@ participation des employeurs.
 
 	**Modifié par**:
 
-	  - Décret n°93-748 du 27 mars 1993 - art. 5 () JORF 30 mars 1993
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+	  - Décret n°98-677 du 30 juillet 1998 - art. 9 () JORF 6 août 1998
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-25, R313-31, R313-21, L313-29, L313-13, L313-10, L313-12
+	  - Code de la construction et de l'habitation R313-9, R313-25, R313-31, L313-19, R313-32, R313-21, L313-29, L313-13, L313-10, L313-12, L313-25, R313-33
 	  - Code de la construction et de l'habitation. - art. L313-10 (M)
 	  - Code de la construction et de l'habitation. - art. L313-12 (M)
 	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-25 (M)
 	  - Code de la construction et de l'habitation. - art. L313-29 (M)
 	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
 
@@ -39440,16 +39477,17 @@ produit de la participation des employeurs, ainsi que les réponses apportées �
 
 ###### Article R*313-35
 
-Les organismes prévus à l'article R. 313-9 (2., c) doivent utiliser les sommes dont ils disposent à l'acquisition et à
+Les organismes prévus à l'article R. 313-9 (2, c) doivent utiliser les sommes dont ils disposent à l'acquisition et à
 l'aménagement  de terrains, à la construction de logements ou à l'acquisition en vue de l'aménagement ou la remise en état de
 logements existants par les organismes eux-mêmes, ou, sur autorisation spéciale du ministre chargé de la construction et de
-l'habitation, par des sociétés filiales de ces organismes. Ils peuvent participer au financement d'annexes sociales
-conformément à l'article R. 313-31 (7.).
+l'habitation, par des sociétés filiales de ces organismes. Ils peuvent imputer sur ces sommes le montant des contributions
+dont la loi prévoit le versement à l'Etat. Ils peuvent participer au financement d'annexes sociales conformément à l'article
+R. 313-17 (I, 1°, a).
 
 Les organismes dans lesquels la fonction d'administrateur ou un emploi de direction a été confié à une personne à laquelle
 sont applicables les dispositions de l'article L. 313-29 ou qui a siégé au conseil d'administration d'une association
 suspendu en application de l'article L. 313-13, ne pourront pas être agréés ou conserver l'agrément prévu à l'article R.
-313-21 [*incompatibilité*].
+313-21.
 
 **Liens relatifs à cet article**
 
@@ -39459,13 +39497,11 @@ suspendu en application de l'article L. 313-13, ne pourront pas être agréés o
 
 	**Modifié par**:
 
-	  - Décret n°88-313 du 28 mars 1988 - art. 12 () JORF 3 avril 1988
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+	  - Décret n°98-677 du 30 juillet 1998 - art. 10 () JORF 6 août 1998
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-31 7, R313-21, L313-13, L313-29
+	  - Code de la construction et de l'habitation R313-9, R313-17, L313-29, L313-13, R313-21
 	  - Code de la construction et de l'habitation. - art. L313-13 (M)
 	  - Code de la construction et de l'habitation. - art. L313-29 (M)
 	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
@@ -39480,17 +39516,14 @@ suspendu en application de l'article L. 313-13, ne pourront pas être agréés o
 ###### Article R*313-36
 
 Dans le cadre des priorités définies par le Gouvernement, l'agence nationale établit le programme annuel d'emploi des fonds
-mentionnés au troisième alinéa de l'article L. 313-1 dont une fraction, fixée par arrêté des ministres chargés de la
-construction et de l'habitation, de l'économie et des affaires sociales, est imputée à une réserve nationale affectée sur
-décisions des ministres chargés de la construction et de l'habitation et des affaires sociales.
+mentionnés au troisième alinéa de l'article L. 313-1.
 
-Conformément à ce programme annuel, les organismes collecteurs mentionnés à l'article R. 313-9 doivent affecter ces fonds à
-des opérations agréées préalablement par les ministres chargés de la construction et de l'habitation et des affaires sociales
-et en priorité pour le logement des travailleurs immigrés et leur famille.
+Dans la limite des autorisations d'engagement résultant de cette programmation, les fonds sont affectés :
 
-En application de l'article L. 313-9, l'agence nationale autorise les organismes habilités à collecter la participation des
-employeurs à l'effort de construction, à utiliser directement tout ou partie des fonds mentionnés au troisième alinéa de
-l'article L. 313-1.
+a) Soit à des opérations dont la nature et les modalités sont définies par une convention conclue en application du 2° de
+l'article L. 313-19 par l'Etat et par l'Union d'économie sociale du logement au nom de ses associés collecteurs ;
+
+b) Soit à des opérations agréées par les ministres chargés du logement et des affaires sociales.
 
 **Liens relatifs à cet article**
 
@@ -39500,26 +39533,39 @@ l'article L. 313-1.
 
 	**Modifié par**:
 
-	  - Décret n°88-313 du 28 mars 1988 - art. 14 () JORF 4 avril 1988
+	  - Décret n°98-677 du 30 juillet 1998 - art. 11 () JORF 6 août 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-746 du 22 juin 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L313-1, R313-9, L313-9
-	  - Code de la construction et de l'habitation. - art. L313-1 (M)
-	  - Code de la construction et de l'habitation. - art. L313-9 (M)
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. L313-1
+	  - Code de la construction et de l'habitation. - art. L313-19
 
 
 ###### Article R*313-37
 
-L'agence nationale reçoit des organismes collecteurs des sommes destinées à permettre aux organismes utilisateurs directs
-dont les ressources seraient insuffisantes de réaliser des opérations agréées. A cette fin :
+Les paiements afférents aux opérations définies par une convention conclue entre l'Etat et l'Union d'économie sociale de
+logement sont autorisés par l'Agence nationale pour la participation des employeurs à l'effort de construction, sur
+proposition du préfet du département de localisation de chaque opération. Ces paiements sont réalisés par les associés
+collecteurs désignés par l'agence nationale, lesquels reçoivent les sommes nécessaires par appel de fonds auprès de l'Union
+d'économie sociale du logement.
+
+Les paiements afférents aux opérations ayant été agréées sont effectués sur autorisation de l'agence nationale par les
+organismes habilités à collecter la participation des employeurs.
+
+L'agence nationale reçoit des organismes collecteurs les sommes qu'elle ne les a pas autorisés à décaisser, ces sommes
+servant au paiement des opérations agréées pour lesquelles les ressources sont insuffisantes. A cette fin :
 
 a) Les organismes collecteurs doivent reverser à l'agence, dans les trois mois qui suivent la clôture de leur exercice, les
-sommes qu'elle ne les a pas autorisés à utiliser ; passé ce délai, les sommes sont majorées d'une pénalité dont le montant
+sommes qu'elle ne les a pas autorisés à décaisser ; passé ce délai, les sommes sont majorées d'une pénalité dont le montant
 résulte de l'application d'un barème établi par une délibération du conseil d'administration de l'agence approuvée par un
-arrêté des ministres chargés du logement et de l'économie.
+arrêté des ministres chargés du logement et de l'économie ;
 
-b) Elle peut, en tant que de besoin, enjoindre aux organismes utilisateurs directs le versement de sommes sans emploi.
+b) Elle peut, en tant que de besoin, enjoindre aux organismes collecteurs le versement de sommes sans emploi.
 
 **Liens relatifs à cet article**
 
@@ -39529,7 +39575,15 @@ b) Elle peut, en tant que de besoin, enjoindre aux organismes utilisateurs direc
 
 	**Modifié par**:
 
-	  - Décret n°92-240 du 16 mars 1992 - art. 14 () JORF 17 mars 1992
+	  - Décret n°98-677 du 30 juillet 1998 - art. 12 () JORF 6 août 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2009-746 du 22 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
 
 
 ##### Section 5 : Prêts des employeurs à leurs salariés et construction de logements par les employeurs.
