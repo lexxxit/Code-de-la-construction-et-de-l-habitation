@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-12-31
+Version Consolidée au 1997-01-01
 
 # Partie législative
 
@@ -7703,11 +7703,12 @@ l'habitat.
 
 Les dispositions de la présente section s'appliquent aux communes dont la population est au moins égale à 3 500 habitants,
 qui sont comprises, au sens du recensement général de la population, dans une agglomération de plus de 200 000 habitants et
-dans lesquelles à la fois [*champ d'application*]:
+dans lesquelles à la fois:
 
-- le nombre de logements sociaux au sens du 3° du III de l'article L. 234-12 du code des communes représente, au 1er janvier
-de la pénultienne année précédente, moins de 20 p. 100 des résidences principales au sens du II de l'article 1411 du code
-général des impôts ;
+- le nombre de logements locatifs sociaux mentionnés à l'article L. 2334-17 du code général des collectivités territoriales,
+majoré comme il est dit à l'article L. 302-5-1, et de logements sociaux en accession à la propriété définis par décret en
+Conseil d'Etat représente, au 1er janvier de la pénultienne année précédente, moins de 20 p. 100 des résidences principales
+au sens du II de l'article 1411 du code général des impôts ;
 
 - le rapport entre le nombre des bénéficiaires des prestations prévues aux articles L. 351-1 du présent code, L. 542-2 et L.
 831-1 du code de la sécurité sociale et le nombre de résidences principales au sens défini ci-dessus est inférieur à 18 p.
@@ -7718,16 +7719,12 @@ général des impôts ;
 	**Cite**:
 
 	  - CGI 1411
-	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
 	  - Code de la construction et de l'habitation. - art. L351-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 3 () JORF 24 janvier 1995
 
 	**Cité par**:
 
@@ -7810,6 +7807,14 @@ général des impôts ;
 	  - Code général des collectivités territoriales - art. L4253-2 (V)
 	  - Code général des impôts, CGI. - art. 1384 G (V)
 	  - Code général des impôts, CGI. - art. 279-0 bis A (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-987 du 14 novembre 1996 - art. 43 ()
+
+	**Modifié par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 43 () JORF 15 novembre 1996 en vigueur le 1er janvier 1997
 
 
 ###### Article L302-6
@@ -7933,7 +7938,7 @@ contribution est utilisé dans le département concerné.
 Les dispositions de l'article L. 302-7 ne sont pas applicables aux communes mentionnées à l'article L. 302-5 qui, au vu de
 leur programme local de l'habitat pour les engagements pris postérieurement au 31 décembre 1995 , se sont engagées par
 délibération à mettre en oeuvre, dans un délai maximum de trois ans, les actions foncières et acquisitions immobilières
-nécessaires à la réalisation, sur le territoire de la commune, d'un nombre de logements sociaux qui augmenté du nombre des
+nécessaires à la réalisation, sur le territoire de la commune, d'un nombre de logements sociaux qui, augmenté du nombre des
 logements de même nature commencés pendant la période triénnale, doit être au moins égal, d'une part, à 1 p. 100 du nombre de
 résidences principales au sens du II de l'article 1411 du code général des impôts et, d'autre part, à 9 p. 100 du nombre de
 logements construits sur la commune au cours des dix années qui ont précédé l'engagement.
@@ -7944,7 +7949,7 @@ L. 302-7.
 
 Sont considérés comme logements sociaux pour l'application du présent article :
 
-1° Les logements sociaux prévus au 2° du III de l'article L. 234-12 du code des communes ;
+1° Les logements sociaux locatifs et en accession à la propriété mentionnés à l'article L. 302-5;
 
 2° Les logements améliorés avec le concours financier de l'Agence nationale pour l'amélioration de l'habitat et faisant
 l'objet d'une convention conclue avec l'Etat en application de l'article L. 351-2 du présent code ;
@@ -7973,10 +7978,8 @@ réalisations de la période suivante.
 La période triennale commence le 1er janvier de l'année au cours de laquelle l'engagement est pris par le conseil municipal.
 Toutefois, si l'engagement a été pris avant le 1er janvier 1995, la période triennale commence le 1er janvier 1995.
 
-Les actions foncières et acquisitions immobilières réalisées
-
-en 1994 et les logements commencés en 1993 et 1994 sont comptabilisés au titre des réalisations de la période triennale
-commençant le 1er janvier 1995.
+Les actions foncières et acquisitions immobilières réalisées en 1994 et les logements commencés en 1993 et 1994 sont
+comptabilisés au titre des réalisations de la période triennale commençant le 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
@@ -7984,17 +7987,12 @@ commençant le 1er janvier 1995.
 
 	  - CGI 1411
 	  - Loi n°90-449 1990-05-31 art. 1
-	  - CODE DES COMMUNES. - art. L234-12 (M)
 	  - Code de la construction et de l'habitation. - art. L252-1 (M)
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi - art. 35 () JORF 31 décembre 1995
 
 	**Cité par**:
 
@@ -8018,6 +8016,10 @@ commençant le 1er janvier 1995.
 	  - Code de la construction et de l'habitation. - art. R302-16 (V)
 	  - Code de la construction et de l'habitation. - art. R302-26 (V)
 	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 43 () JORF 15 novembre 1996 en vigueur le 1er janvier 1997
 
 
 ###### Article L302-9
@@ -8211,6 +8213,49 @@ conditions définies aux articles L. 302-1 à L. 302-3.
 	  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. R302-13-1 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+
+
+##### Section 2 : Dispositions particulières à certaines agglomérations.
+
+###### Article L302-5-1
+
+La majoration prévue à l'article L. 302-5 est égale au nombre de logements locatifs sociaux dénombrés au 1er janvier 1994 en
+application de l'article L. 234-12 du code des communes dans sa rédaction antérieure à la loi n° 96-142 du 21 février 1996
+relative à la partie Législative du code général des collectivités territoriales, diminué du nombre de ces logements
+dénombrés à la même date en application de l'article L. 2334-17 du code général des collectivités territoriales dans sa
+rédaction issue de la loi n° 96-241 du 26 mars 1996 portant diverses dispositions relatives aux concours de l'Etat aux
+collectivités territoriales et aux mécanismes de solidarité financière entre collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Code de l'urbanisme - art. R211-9 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+
+	**Cite**:
+
+	  - Loi n°96-142 1996-02-21
+	  - Loi n°96-241 1996-03-26
+	  - CODE DES COMMUNES. - art. L234-12 (M)
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-987 du 14 novembre 1996 - art. 43 ()
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 43 () JORF 15 novembre 1996 en vigueur le 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
@@ -9069,6 +9114,10 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 231
+
 	**Cité par**:
 
 	  - Décret n°53-707 du 9 août 1953 - art. 2 (V)
@@ -9175,140 +9224,13 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 	  - SPEC_APPLI: Loi n°95-116 du 4 février 1995 - art. 106 (V)
 
-	**Cite**:
-
-	  - CGI 231
-
 	**Modifié par**:
 
-	  - Loi n°96-314 1996-04-12 art. 11 III, IV JORF 13 avril 1996
-	  - Loi n°96-314 du 12 avril 1996 - art. 11 (V) JORF 13 avril 1996
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 272
-
-
-###### Article L313-1-1
-
-Le contrat de réservation conclu au titre de la participation des employeurs à l'effort de construction est une convention
-par laquelle une personne, en contrepartie du versement de fonds issus de cette participation, s'oblige à affecter, pour une
-durée déterminée, des logements locatifs à l'usage de personnes désignées par son cocontractant.
-
-Nonobstant toute clause contraire, toute aliénation de ces logements substitue de plein droit l'acquéreur dans les droits et
-obligations du vendeur, y compris celles résultant du contrat de réservation annexé au contrat de vente. Cette disposition ne
-s'applique pas aux logements vendus dans les conditions prévues à l'article L. 443-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 2 (V) JORF 1 janvier 1988
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. L313-26 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L443-9 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*313-31 (M)
-
-
-###### Article L313-1-2
-
-Le prix maximal de cession des parts ou actions des sociétés immobilières dont 50 p. 100 au moins du capital ont été
-souscrits au titre de la participation des employeurs à l'effort de construction par des organismes agréés à collecter cette
-participation ou par des employeurs, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations
-à loyer modéré, ne peut être ni supérieur à leur valeur dans la situation nette de la société ni supérieur à leur valeur
-nominale majorée de 50 p. 100.
-
-Une dérogation aux dispositions de l'alinéa précédent peut être accordée par le ministre chargé du logement, après avis de
-l'Agence nationale pour la participation des employeurs à l'effort de construction, à la demande d'un actionnaire d'une de
-ces sociétés ayant acquis ses parts ou actions avant la publication de la loi n° 93-122 du 29 janvier 1993 relative à la
-prévention de la corruption et à la transparence de la vie économique et des procédures publiques à un prix supérieur à celui
-résultant de l'application dudit alinéa, et qui démontrerait que la cession de ses titres à ce prix entraînerait pour lui une
-spoliation.
-
-Toute cession de parts ou d'actions en violation des dispositions du présent article est frappée d'une nullité d'ordre
-public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Loi n°93-122 1993-01-29
-
-	**Créé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 62 () JORF 30 janvier 1993
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L313-1-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. L313-27 (V)
-
-
-###### Article L313-1-3
-
-Les statuts des sociétés mentionnées à l'article L. 313-1-2 doivent contenir des clauses conformes à des clauses types fixées
-par décret. Ce décret peut en outre apporter des restrictions aux règles d'usage et d'aliénation du patrimoine de ces
-sociétés.
-
-Ces sociétés, lorsqu'elles ont été constituées antérieurement à la publication de la loi n° 93-122 du 29 janvier 1993
-relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, doivent
-mettre leurs statuts en conformité avec les clauses types mentionnées à l'alinéa précédent, dans un délai de douze mois après
-la publication du décret établissant ces clauses types.
-
-Si l'assemblée des actionnaires ou des associés n'est pas en mesure de statuer régulièrement sur cette mise en conformité
-dans le délai imparti, le projet de mise en conformité des statuts est soumis à l'homologation du président du tribunal de
-commerce statuant sur requête des représentants légaux de la société.
-
-Il sera interdit aux présidents, administrateurs ou gérants de ces sociétés qui, volontairement, n'auront pas mis ou fait
-mettre les statuts en conformité avec les clauses types dans le délai imparti, pendant un délai de cinq années, de diriger,
-administrer ou gérer à un titre quelconque une des sociétés immobilières concernées par le présent article, et d'engager la
-signature d'une de ces sociétés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Loi n°93-122 1993-01-29
-	  - Code de la construction et de l'habitation. - art. L313-1-2 (T)
-
-	**Créé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 63 () JORF 30 janvier 1993
-
-	**Cité par**:
-
-	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 2 (V)
-	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 5 (V)
-	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE 6 (V)
-	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE I (V)
-	  - Décret n°93-750 du 27 mars 1993 - art. ANNEXE III (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. L313-28 (V)
 
 
 ###### Article L313-2
@@ -9485,6 +9407,10 @@ Cette cotisation est établie et recouvrée comme en matière d'impôts directs.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-1120 du 2 septembre 2002
@@ -9530,6 +9456,10 @@ de l'année suivant celle du paiement des salaires.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 bis (V)
@@ -9552,6 +9482,10 @@ Ces agents sont astreints au secret professionnel dans les conditions et sous le
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Anciens textes**:
 
@@ -9589,16 +9523,18 @@ respecter des ratios de couverture et de division des risques ;
 - les règles garantissant le bon emploi des fonds qu'elles collectent.
 
 Ses propositions sont publiques et rendues applicables dans les conditions fixées par le décret en Conseil d'Etat prévu par
-l'article L. 313-17.
+l'article L. 313-33.
 
 En cas de carence de l'Agence nationale, ces règles sont prises par voie réglementaire.
 
 L'Agence nationale est consultée par les ministres intéressés sur les décisions d'agrément des associations précitées.
 
-Elles est chargée, sous l'autorité de ces ministres, de contrôler le respect par ces associations des règles mentionnées aux
+Elle est chargée, sous l'autorité de ces ministres, de contrôler le respect par ces associations des règles mentionnées aux
 troisième, quatrième, cinquième et septième alinéas ci-dessus ainsi que des dispositions du présent code relatives à la
-collecte et à l'utilisation du produit de la participation définie à l'article L. 313-1. Son activité de contrôle fait
-l'objet d'un rapport annuel remis aux ministres intéressés qui peuvent le rendre public.
+collecte et à l'utilisation du produit de la participation définie à l'article L. 313-1. Elle contrôle en outre le respect
+des conventions que l'Union d'économie sociale du logement a conclues avec l'Etat et, sur demande de cette union, le respect
+des recommandations de l'union par ses associés. Son activité de contrôle fait l'objet d'un rapport annuel remis aux
+ministres intéressés qui peuvent le rendre public.
 
 A ce titre, notamment :
 
@@ -9611,8 +9547,8 @@ c) Elle peut demander la communication de tous documents comptables ;
 
 d) Elle propose au ministre chargé du logement la désignation de ceux de ses agents habilités à exercer les contrôles
 nécessaires à l'accomplissement des missions définies aux alinéas précédents. Ces agents sont astreints au secret
-professionnel dans les conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret ne peut leur être
-opposé, sauf par les auxiliaires de justice.
+professionnel dans les conditions et sous les peines prévues à l'article 226-13 et 226-14 du code pénal. Ce secret ne peut
+leur être opposé, sauf par les auxiliaires de justice.
 
 A la demande du ministre chargé du logement, l'Agence nationale pour la participation des employeurs à l'effort de
 construction peut contrôler les opérations réalisées à l'aide de fonds provenant de la participation des employeurs à
@@ -9623,8 +9559,7 @@ Les dispositions de l'alinéa précédent ne s'appliquent pas aux organismes d'h
 d'économie mixte exerçant à titre principal une activité de construction, d'acquisition ou de gestion de logements sociaux.
 
 L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des sommes investies au titre de la participation
-des employeurs à l'effort de construction et propose aux ministres intéressés les éventuelles adaptations du taux visé au
-premier alinéa de l'article L. 313-1.
+des employeurs à l'effort de construction.
 
 **Liens relatifs à cet article**
 
@@ -9659,75 +9594,23 @@ premier alinéa de l'article L. 313-1.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-1237 1996-12-30 art. 4, art. 6 II, VII JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la construction et de l'habitation. - art. L313-1 (M)
-	  - Code de la construction et de l'habitation. - art. L313-17 (M)
-
-
-###### Article L313-7-1
-
-Les dispositions de l'article L. 313-7, ainsi que celles du premier et du troisième alinéas de l'article L. 313-13, sont
-également applicables aux organismes agréés à collecter la participation des employeurs à l'effort de construction autres que
-les associations professionnelles ou interprofessionnelles mentionnées au premier alinéa dudit article L. 313-7.
-
-En cas de carence d'un de ces organismes à prendre les mesures de redressement visées au premier alinéa de l'article L.
-313-13, ou en cas d'urgence, le ministre chargé du logement peut, après avis de l'Agence nationale pour la participation des
-employeurs à l'effort de construction, rendu dans un délai qui ne peut excéder huit jours, retirer l'agrément de collecte de
-cet organisme.
-
-En cas de retrait d'agrément, le ministre chargé du logement transfère, sur proposition ou après avis de l'agence nationale,
-la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la participation des
-employeurs à l'effort de construction à une association ou un organisme agréé à collecter la participation, qu'il désigne, et
-nomme à cet effet, auprès de l'organisme en cause, un administrateur chargé de procéder au transfert.
-
-En cas de carence d'un des organismes visés par le présent article, ou lorsque l'administrateur nommé en application de
-l'alinéa précédent rencontre des difficultés du fait de l'organisme en cause, le ministre de tutelle de cet organisme, sur
-proposition du ministre chargé du logement, suspend les organes de direction ou en déclare les membres démissionnaires
-d'office.
-
-Les dispositions du premier alinéa du présent article ne s'appliquent pas aux organismes d'habitations à loyer modéré ou
-sociétés d'économie mixte exerçant, à titre principal, une activité de construction, d'acquisition ou de gestion de logements
-sociaux.
-
-Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 64 () JORF 30 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation L313-16 (3ème version)
-	  - Code de la construction et de l'habitation. - art. L313-16 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L313-10 (M)
-	  - Code de la construction et de l'habitation. - art. L313-11 (M)
-	  - Code de la construction et de l'habitation. - art. L313-12 (M)
-	  - Code de la construction et de l'habitation. - art. L313-16 (T)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L313-13 (M)
-	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-33 (V)
 
 
 ###### Article L313-8
 
-Les dispositions des articles 27, 28 et 29 de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement
-amiable des difficultés des entreprises sont applicables aux associations visées à l'article L. 313-7, y compris lorsqu'elles
-n'atteignent pas les seuils fixés par décret en Conseil d'Etat mentionnés auxdits articles 27 et 28.
+Les dispositions des articles L. 612-1, L. 612-2 et L. 612-3 du code de commerce sont applicables aux associations visées à
+l'article L. 313-7, y compris lorsqu'elles n'atteignent pas les seuils fixés par décret en Conseil d'Etat mentionnés auxdits
+articles L. 612-1 et L. 612-2.
 
 **Liens relatifs à cet article**
 
@@ -9735,16 +9618,16 @@ n'atteignent pas les seuils fixés par décret en Conseil d'Etat mentionnés aux
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
 	**Cite**:
 
-	  - Loi n°84-148 1984-03-01 art. 27, art. 28, art. 29
-	  - Loi n°84-148 du 1 mars 1984 - art. 28 (MMN)
-	  - Code de la construction et de l'habitation L313-7, 27, 28
+	  - Code de commerce. - art. L612-1 (M)
+	  - Code de commerce. - art. L612-2 (M)
+	  - Code de commerce. - art. L612-3 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1er janvier 1988
 
 
 ###### Article L313-9
@@ -9760,9 +9643,9 @@ A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1er janvier 1988
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
@@ -9780,7 +9663,7 @@ A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
 L'Agence nationale gère un fonds de garantie dont les règles d'intervention sont définies par arrêté conjoint des ministres
 intéressés, afin de faciliter la bonne fin des opérations engagées par les associations mentionnées à l'article L. 313-7 et
-organismes mentionnés au premier alinéa de l'article L. 313-7-1.
+organismes mentionnés au premier alinéa de l'article L. 313-16.
 
 Le fonds de garantie est alimenté par un prélèvement annuel opéré sur les fonds collectés par ces associations et organismes
 et dont le montant est déterminé par le conseil d'administration de l'Agence nationale dans la limite d'un plafond fixé par
@@ -9810,12 +9693,13 @@ arrêté conjoint des ministres intéressés, ainsi que par les produits financi
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
+	  - Loi n°96-1237 1996-12-30 art. 6 II, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
-	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-11
@@ -9823,7 +9707,7 @@ arrêté conjoint des ministres intéressés, ainsi que par les produits financi
 Le conseil d'administration est composé pour un quart de représentants de l'Etat, pour un quart de représentants des
 organisations d'employeurs représentatives au plan national, pour un quart de représentants des organisations de salariés
 représentatives au plan national et pour un quart de représentants des associations mentionnées à l'article L. 313-7 et
-organismes mentionnés au premier alinéa de l'article L. 313-7-1.
+organismes mentionnés au premier alinéa de l'article L. 313-16.
 
 **Liens relatifs à cet article**
 
@@ -9833,18 +9717,19 @@ organismes mentionnés au premier alinéa de l'article L. 313-7-1.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
+	  - Loi n°96-1237 1996-12-30 art. 6 II, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
-	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-12
 
 L'Agence nationale dispose, pour son fonctionnement, d'un prélèvement opéré chaque année sur les sommes collectées par les
-associations mentionnées à l'article L. 313-7 et aux organismes mentionnés au premier alinéa de l'article L. 313-7-1.
+associations mentionnées à l'article L. 313-7 et aux organismes mentionnés au premier alinéa de l'article L. 313-16.
 
 Le montant de ce prélèvement est déterminé annuellement par le conseil d'administration de l'Agence nationale dans la limite
 d'un plafond fixé par arrêté conjoint des ministres intéressés.
@@ -9864,12 +9749,13 @@ d'un plafond fixé par arrêté conjoint des ministres intéressés.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 65 () JORF 30 janvier 1993
+	  - Loi n°96-1237 1996-12-30 art. 6 II, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
-	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
 
 
 ###### Article L313-13
@@ -9878,20 +9764,28 @@ En cas d'irrégularité grave dans l'emploi des fonds, de faute grave dans la ge
 l'objet social ou de non-respect des conditions d'agrément, l'Agence nationale met l'association concernée en demeure de
 prendre, dans un délai déterminé, toute mesure de redressement utile.
 
-En cas de carence à l'expiration de ce délai, elle peut proposer au ministre chargé du logement de suspendre le conseil
-d'administration. S'il prononce cette suspension, le même ministre peut charger l'Agence nationale de prendre les mesures
-conservatoires qui s'imposent.
+En cas de carence à l'expiration de ce délai, elle peut proposer au ministre chargé du logement de suspendre un ou plusieurs
+dirigeants ou le conseil d'administration. S'il prononce cette suspension, le même ministre peut charger l'Agence nationale
+de prendre les mesures conservatoires qui s'imposent.
 
-L'Agence nationale peut proposer au ministre chargé du logement le retrait de l'agrément de l'association concernée ou de
-prononcer à l'encontre de celle-ci une sanction pécuniaire dont le montant est fixé compte tenu de la gravité des faits
+L'Agence nationale peut proposer au ministre chargé du logement l'interdiction d'un ou de plusieurs dirigeants, pour une
+durée de dix ans au maximum, ou le retrait de l'agrément de l'association concernée. Elle peut également proposer de
+prononcer à l'encontre de l'association une sanction pécuniaire dont le montant est fixé compte tenu de la gravité des faits
 reprochés ainsi que de la situation financière et de la dimension de l'organisme intéressé ; cette sanction pécuniaire, qui
 ne peut excéder 10 000 000 F, est recouvrée comme en matière d'impôts directs. Son produit est versé au fonds de garantie de
-l'Agence nationale pour la participation des employeurs à l'effort de construction. L'association concernée doit être mise en
-mesure de présenter ses observations préalablement au prononcé de l'une ou l'autre de ces sanctions. La décision du ministre
-prononçant des sanctions pécuniaires peut faire l'objet d'un recours de pleine juridiction devant le Conseil d'Etat.
+l'Agence nationale pour la participation des employeurs à l'effort de construction. L'association ou le dirigeant concerné
+doit être mis en mesure de présenter ses observations préalablement au prononcé de l'une des sanctions susmentionnées. La
+décision du ministre prononçant une sanction d'interdiction ou une sanction pécuniaire peut faire l'objet d'un recours de
+pleine juridiction devant la juridiction administrative.
+
+Les dispositions du présent article sont en outre applicables lorsque l'association ne souscrit pas sa quote-part du capital
+de l'Union d'économie sociale du logement, ne s'acquitte pas des contributions prévues aux articles L. 313-20 et L. 313-25,
+manque de manière grave et répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° de l'article
+L. 313-19 ou réalise des opérations en méconnaissance des dispositions du 4° du même article. Toutefois, la sanction est
+prononcée par le ministre après avis de l'Agence nationale et de l'union.
 
 En cas d'urgence, le ministre précité peut, après avis de l'Agence nationale rendu dans un délai qui ne peut excéder huit
-jours, suspendre le conseil d'administration ou retirer l'agrément.
+jours, suspendre un ou plusieurs dirigeants ou le conseil d'administration ou retirer l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -9919,11 +9813,14 @@ jours, suspendre le conseil d'administration ou retirer l'agrément.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 69 () JORF 30 janvier 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
+	  - Code de la construction et de l'habitation. - art. L313-25 (M)
 
 
 ###### Article L313-14
@@ -9939,7 +9836,7 @@ l'Agence nationale, à la dissolution de l'association, et nomme, par le même a
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 66 () JORF 30 janvier 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -9970,7 +9867,7 @@ l'Agence nationale.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 67 () JORF 30 janvier 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -9983,9 +9880,38 @@ l'Agence nationale.
 
 ###### Article L313-16
 
-Les interdictions prévues aux articles L. 423-10 et L. 423-11 sont applicables aux administrateurs et aux salariés des
-associations mentionnées à l'article L. 313-7 et des organismes mentionnés au premier alinéa de l'article L. 313-7-1 ainsi
-qu'aux administrateurs et aux salariés de l'agence nationale.
+Les dispositions de l'article L. 313-7, ainsi que celles du premier et du troisième alinéas de l'article L. 313-13, sont
+également applicables aux organismes agréés à collecter la participation des employeurs à l'effort de construction autres que
+les associations professionnelles ou interprofessionnelles mentionnées au premier alinéa dudit article L. 313-7.
+
+En cas de carence d'un de ces organismes à prendre les mesures de redressement visées au premier alinéa de l'article L.
+313-13, ou en cas d'urgence, le ministre chargé du logement peut, après avis de l'Agence nationale pour la participation des
+employeurs à l'effort de construction, rendu dans un délai qui ne peut excéder huit jours, retirer l'agrément de collecte de
+cet organisme.
+
+Lorsque l'organisme est associé de l'Union d'économie sociale du logement et qu'il ne souscrit pas sa quote-part du capital
+de cette union, ne s'acquitte pas des contributions prévues aux articles L. 313-20 et L. 313-25, manque de manière grave et
+répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° de l'article L. 313-19 ou réalise des
+opérations en méconnaissance des dispositions du 4° du même article, l'agence nationale met l'organisme en demeure de
+prendre, dans un délai déterminé, toute mesure de redressement utile. En cas de carence de l'organisme à prendre ces mesures
+de redressement, le ministre chargé du logement peut, après avis de l'agence nationale et de l'union, retirer l'agrément de
+collecte de cet organisme.
+
+En cas de retrait d'agrément, le ministre chargé du logement transfère, sur proposition ou après avis de l'agence nationale,
+la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la participation des
+employeurs à l'effort de construction à une association ou un organisme agréé à collecter la participation, qu'il désigne, et
+nomme à cet effet, auprès de l'organisme en cause, un administrateur chargé de procéder au transfert.
+
+En cas de carence d'un des organismes visés par le présent article, ou lorsque l'administrateur nommé en application de
+l'alinéa précédent rencontre des difficultés du fait de l'organisme en cause, le ministre de tutelle de cet organisme, sur
+proposition du ministre chargé du logement, suspend les organes de direction ou en déclare les membres démissionnaires
+d'office.
+
+Les dispositions du premier alinéa du présent article ne s'appliquent pas aux organismes d'habitations à loyer modéré ou
+sociétés d'économie mixte exerçant, à titre principal, une activité de construction, d'acquisition ou de gestion de logements
+sociaux.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -9995,7 +9921,8 @@ qu'aux administrateurs et aux salariés de l'agence nationale.
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 70 () JORF 30 janvier 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -10008,16 +9935,17 @@ qu'aux administrateurs et aux salariés de l'agence nationale.
 	  - Code de la construction et de l'habitation. - art. R313-35-7 (V)
 	  - Code de la construction et de l'habitation. - art. R313-57 (Ab)
 
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. L313-31 (M)
-
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
+	  - Code de la construction et de l'habitation. - art. L313-25 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+
+	**Anciens textes**:
+
 	  - Code de la construction et de l'habitation. - art. L313-7-1 (T)
-	  - Code de la construction et de l'habitation. - art. L423-10 (M)
-	  - Code de la construction et de l'habitation. - art. L423-11 (M)
 
 
 ###### Article L313-16-1
@@ -10049,18 +9977,26 @@ indirectes et dans l'exercice de ses fonctions :
 
 ###### Article L313-17
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment les conditions dans
-lesquelles les délibérations du conseil d'administration de l'agence nationale sont rendues exécutoires.
+L'Union d'économie sociale du logement est une société anonyme coopérative à capital variable, soumise aux règles applicables
+aux unions d'économie sociale régies, notamment, par le titre II bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
+de la coopération et aux dispositions de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, sous réserve des
+dispositions du présent chapitre.
+
+**Nota:**
+
+La loi n° 66-537 du 24 juillet 1966 a été abrogée par l'ordonnance n° 2000-912 du 18 septembre 2000 et codifiée en partie
+dans le code de commerce.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 1947-09-10
+	  - Loi n°66-537 1966-07-24
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Loi n°87-1128 du 31 décembre 1987 - art. 3 () JORF 1er janvier 1988
 
 	**Cité par**:
 
@@ -10084,6 +10020,762 @@ lesquelles les délibérations du conseil d'administration de l'agence nationale
 	  - Code de la construction et de l'habitation. - art. L342-2 (V)
 	  - Code général des impôts, CGI. - art. 1461 (M)
 	  - Code monétaire et financier - art. L511-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+
+###### Article L313-18
+
+L'Union d'économie sociale du logement a pour seuls associés :
+
+- à titre obligatoire, chaque organisme collecteur agréé aux fins de participer à la collecte des sommes définies à l'article
+L. 313-1 et ayant le statut d'association à caractère professionnel ou interprofessionnel ;
+
+- à titre obligatoire, chaque chambre de commerce et d'industrie agréée aux fins de participer à la collecte des sommes
+définies à l'article L. 313-1 ;
+
+- sur sa demande, toute organisation interprofessionnelle et représentative au plan national de salariés ou d'entreprises
+assujetties au versement de la participation des employeurs à l'effort de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 14 février 1979 - art. 3 (V)
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 10 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 50 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 57 (M)
+	  - Décret n°2013-777 du 27 août 2013 - art. (V)
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 5
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+	  - Arrêté du 28 octobre 2016 - art. 2 (V)
+	  - Arrêté du 28 octobre 2016 - art. 3 (V)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-13 (VT)
+	  - Code de la construction et de l'habitation. - art. L313-14 (V)
+	  - Code de la construction et de l'habitation. - art. L313-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. L313-16 (VD)
+	  - Code de la construction et de l'habitation. - art. L313-17 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-5 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-6 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-7 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-32 (V)
+	  - Code de la construction et de l'habitation. - art. L313-35-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-36 (V)
+	  - Code de la construction et de l'habitation. - art. L313-8 (Ab)
+	  - Code de la construction et de l'habitation. - art. L342-12 (V)
+	  - Code de la construction et de l'habitation. - art. L342-14 (VD)
+	  - Code de la construction et de l'habitation. - art. L342-16 (M)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L342-9 (M)
+	  - Code de la construction et de l'habitation. - art. L421-8 (V)
+	  - Code de la construction et de l'habitation. - art. R313-21 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-35-2 (VT)
+	  - Code de la construction et de l'habitation. - art. R342-14 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+	  - Code général des impôts, CGI. - art. 1461 (V)
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+	  - Code général des impôts, CGI. - art. 279-0 bis A (V)
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+
+
+###### Article L313-19
+
+L'Union d'économie sociale du logement :
+
+1° Représente les intérêts communs de ses associés, notamment auprès des pouvoirs publics ;
+
+2° Conclut avec l'Etat, après information des associés collecteurs, des conventions définissant des politiques nationales
+d'emploi des fonds issus de la participation des employeurs à l'effort de construction et des ressources du fonds
+d'intervention de l'union, à mettre en oeuvre par les associés collecteurs. L'union peut en outre conclure avec l'Etat des
+conventions ayant pour objet de favoriser la coopération entre associés, de coordonner les tâches de collecte, d'harmoniser
+les modalités d'emploi des fonds issus de la participation des employeurs à l'effort de construction, de contribuer, avec les
+associations départementales d'information sur le logement qui ont signé une convention avec l'Etat, à l'information sur le
+logement des salariés et d'améliorer la gestion des associés collecteurs ;
+
+3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne
+peuvent déroger aux conventions ci-dessus mentionnées ;
+
+4° Donne, dans les conditions prévues par ses statuts, un avis préalablement aux opérations par lesquelles les associés
+collecteurs convertissent ou transforment en titres ou subventions des créances constituées avec les fonds issus de la
+participation des employeurs à l'effort de construction ou par lesquelles ils cèdent ou prennent des participations financées
+avec les mêmes fonds. L'union peut demander une seconde délibération aux associés collecteurs ;
+
+5° Assure, dans les limites fixées par ses statuts, la gestion d'autres intérêts communs de ses associés et contribue au
+développement de leurs activités. Ces opérations sont retracées dans une comptabilité distincte.
+
+Les associés collecteurs communiquent à l'union les renseignements nécessaires à l'exercice de sa mission.
+
+Les statuts de l'union sont approuvés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 1 (Ab)
+	  - Arrêté du 16 mars 1992 - art. 7 (Ab)
+	  - Arrêté du 6 août 1993 - art. 1 (Ab)
+	  - Arrêté du 6 août 1993 - art. 6 (Ab)
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 4 (Ab)
+	  - Décret n°99-125 du 22 février 1999 - art. 1 (V)
+	  - Décret n°99-125 du 22 février 1999 - art. 2 (V)
+	  - Décret n°99-125 du 22 février 1999 - art. 4 (V)
+	  - Décret n°99-126 du 22 février 1999 - art. 1 (V)
+	  - Loi n°2001-1275 du 28 décembre 2001 - art. 26 (V)
+	  - Loi n°2001-1275 du 28 décembre 2001 - art. 116 (Ab)
+	  - Loi n°2002-1575 du 30 décembre 2002 - art. 38 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 12 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Arrêté du 17 mars 2015 - art. 1 (V)
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 4
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 5
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. D331-113 (V)
+	  - Code de la construction et de l'habitation. - art. L301-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-13 (VT)
+	  - Code de la construction et de l'habitation. - art. L313-16 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-5 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-7 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-5 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-6 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
+	  - Code de la construction et de l'habitation. - art. L313-21 (Ab)
+	  - Code de la construction et de l'habitation. - art. L313-22 (Ab)
+	  - Code de la construction et de l'habitation. - art. L313-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. L313-25 (Ab)
+	  - Code de la construction et de l'habitation. - art. L313-26-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-26-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-33 (V)
+	  - Code de la construction et de l'habitation. - art. L313-35-1 (V)
+	  - Code de la construction et de l'habitation. - art. L342-14 (V)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. L442-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-34 (VD)
+	  - Code de la construction et de l'habitation. - art. R*313-36 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*321-10 (VD)
+	  - Code de la construction et de l'habitation. - art. R*441-5 (V)
+	  - Code de la construction et de l'habitation. - art. R313-24 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-37-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-58 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-62 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-2-1 (V)
+	  - Code général des impôts, CGI. - art. 1461 (V)
+	  - Code monétaire et financier - art. L612-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+
+###### Article L313-20
+
+Les stipulations des conventions prévues au 2° de l'article L. 313-19 s'imposent aux associés.
+
+Pour l'exécution de ces conventions par les associés collecteurs, l'union dispose d'un fonds d'intervention qui contribue à
+la bonne adaptation des ressources des associés collecteurs aux besoins locaux, compte tenu des politiques nationales et
+locales d'emploi de la participation des employeurs à l'effort de construction. Les opérations du fonds sont retracées dans
+une comptabilité distincte.
+
+Chaque associé collecteur apporte sa contribution au fonds d'intervention. Le conseil d'administration de l'union fixe, après
+consultation du comité des collecteurs mentionné à l'article L. 313-21, le montant des contributions sous la forme de
+versements, de transferts de créances constituées avec des fonds issus de la participation des employeurs à l'effort de
+construction ou d'inscriptions, au bilan de ces associés, de dettes dont le paiement à l'union est garanti par les actifs des
+associés issus de cette participation.
+
+Le fonds peut également être alimenté par toutes ressources de l'union.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°99-125 du 22 février 1999 - art. 1 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 85 (V)
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Décret n°2014-1316 du 3 novembre 2014 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 5
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-13 (VT)
+	  - Code de la construction et de l'habitation. - art. L313-16 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-17-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-7 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19-6 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20-2 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-23 (V)
+	  - Code de la construction et de l'habitation. - art. L313-27 (V)
+	  - Code de la construction et de l'habitation. - art. L313-33 (M)
+	  - Code de la construction et de l'habitation. - art. L313-35-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-36 (V)
+	  - Code de la construction et de l'habitation. - art. L342-16 (M)
+	  - Code de la construction et de l'habitation. - art. L423-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-18 (V)
+	  - Code de la construction et de l'habitation. - art. R313-29-8 (V)
+	  - Code des assurances - art. L310-12 (V)
+	  - Code des assurances - art. R332-3-4 (V)
+	  - Code des assurances - art. R426-1 (V)
+	  - Code des assurances - art. R426-2 (V)
+	  - Code des assurances - art. R426-5 (V)
+	  - Code général des impôts, CGI. - art. 1461 (V)
+	  - Code monétaire et financier - art. L612-2 (VT)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-21 (V)
+
+
+###### Article L313-21
+
+Le conseil d'administration de l'union comporte cinq représentants des associés collecteurs, élus en son sein, par le comité
+des collecteurs, cinq représentants permanents au plus désignés par les organisations d'employeurs associées et cinq
+représentants permanents au plus désignés par les organisations de salariés associées. Un suppléant de chacun de ces
+représentants est élu ou désigné dans les mêmes conditions. Le conseil d'administration est présidé par l'un de ces
+représentants. Ces représentants et leurs suppléants ne peuvent être propriétaires d'actions de l'union.
+
+Le comité des collecteurs est élu pour trois ans par les associés collecteurs dans les conditions fixées par les statuts. Il
+est renouvelé par tiers chaque année. Il doit être réuni dès que la demande en est faite par le quart des associés
+collecteurs. Il peut demander la réunion du conseil d'administration sur un ordre du jour déterminé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L313-20 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-34 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*313-35 (Ab)
+
+
+###### Article L313-22
+
+Le comité paritaire des emplois est composé des représentants permanents des organisations d'employeurs et de salariés
+associées ou de leurs suppléants. Sur proposition du comité paritaire, notamment en vue de la conclusion avec l'Etat des
+conventions prévues au 2° de l'article L. 313-19, le conseil d'administration de l'union délibère sur les politiques d'emploi
+des fonds issus de la participation des employeurs à l'effort de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°2013-777 du 27 août 2013 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-33 (V)
+	  - Code de la construction et de l'habitation. - art. L313-34 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+
+
+###### Article L313-23
+
+Deux commissaires du Gouvernement représentent l'Etat auprès de l'union. Ils assistent aux séances du conseil
+d'administration et peuvent se faire communiquer tous documents. Ils peuvent conjointement demander que l'union procède à une
+seconde délibération sur les avis prévus au 4° de l'article L. 313-19 et sur les décisions relatives aux contributions
+prévues à l'article L. 313-20. La confirmation de la décision prise par le conseil d'administration en première délibération
+ne peut être acquise qu'à la majorité des membres composant le conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L313-33 (V)
+	  - Code de la construction et de l'habitation. - art. L313-34 (M)
+	  - Code de la construction et de l'habitation. - art. R313-59 (Ab)
+
+
+###### Article L313-24
+
+Toute augmentation du capital de l'union par incorporation des réserves, bénéfices ou primes d'émission est interdite, sauf
+dérogation accordée par l'autorité administrative.
+
+L'union ne peut procéder à l'amortissement de son capital et ne peut servir aucun dividende, intérêt ou rémunération de
+quelque nature que ce soit à son capital.
+
+Le prix maximal de cession des actions de l'union est limité au montant nominal de ces actions.
+
+Les opérations intervenues en violation des dispositions du présent article sont frappées d'une nullité d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 1
+
+
+###### Article L313-25
+
+Pour ses frais de fonctionnement afférents aux attributions prévues aux 1° à 4° de l'article L. 313-19, l'union dispose d'un
+prélèvement opéré chaque année sur les sommes collectées par les associés collecteurs. Elle en détermine le montant annuel
+dans la limite d'un plafond fixé par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Arrêté du 15 juillet 2004 - art. 1 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. L313-13 (VT)
+	  - Code de la construction et de l'habitation. - art. L313-16 (V)
+	  - Code de la construction et de l'habitation. - art. L342-16 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-33 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*313-34 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-18 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-6 (V)
+	  - Code de la construction et de l'habitation. - art. R313-39 (V)
+	  - Code de la construction et de l'habitation. - art. R313-61 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+
+
+##### Section 4 : Dispositions diverses.
+
+###### Article L313-26
+
+Le contrat de réservation conclu au titre de la participation des employeurs à l'effort de construction est une convention
+par laquelle une personne, en contrepartie du versement de fonds issus de cette participation, s'oblige à affecter, pour une
+durée déterminée, des logements locatifs à l'usage de personnes désignées par son cocontractant. 
+
+Nonobstant toute clause contraire, toute aliénation de ces logements substitue de plein droit l'acquéreur dans les droits et
+obligations du vendeur, y compris celles résultant du contrat de réservation annexé au contrat de vente. Cette disposition ne
+s'applique pas aux logements vendus dans les conditions prévues à l'article L. 443-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Arrêté du 1er août 2014 - art. Annexe 4 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-13 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1-1 (T)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-9 (V)
+
+
+###### Article L313-27
+
+Le prix maximal de cession des parts ou actions des sociétés immobilières dont 50 % au moins du capital ont été souscrits au
+titre de la participation des employeurs à l'effort de construction par des organismes agréés à collecter cette participation
+ou par des employeurs, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations à loyer
+modéré, ne peut être ni supérieur à leur valeur dans la situation nette de la société ni supérieur à leur valeur nominale
+majorée de 50 %.
+
+Une dérogation aux dispositions de l'alinéa précédent peut être accordée par le ministre chargé du logement, après avis de
+l'Agence nationale pour la participation des employeurs à l'effort de construction, à la demande d'un actionnaire d'une de
+ces sociétés ayant acquis ses parts ou actions avant la publication de la loi n° 93-122 du 29 janvier 1993 relative à la
+prévention de la corruption et à la transparence de la vie économique et des procédures publiques à un prix supérieur à celui
+résultant de l'application dudit alinéa, et qui démontrerait que la cession de ses titres à ce prix entraînerait pour lui une
+spoliation.
+
+Toute cession de parts ou d'actions en violation des dispositions du présent article est frappée d'une nullité d'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°93-122 1993-01-29
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°2013-777 du 27 août 2013 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-28 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-29-6 (V)
+	  - Code de la construction et de l'habitation. - art. R313-44 (V)
+	  - Code de la construction et de l'habitation. - art. R342-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1-2 (T)
+
+
+###### Article L313-28
+
+Les statuts des sociétés mentionnées à l'article L. 313-27 doivent contenir des clauses conformes à des clauses types fixées
+par décret. Ce décret peut en outre apporter des restrictions aux règles d'usage et d'aliénation du patrimoine de ces
+sociétés.
+
+Ces sociétés, lorsqu'elles ont été constituées antérieurement à la publication de la loi n° 93-122 du 29 janvier 1993
+relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, doivent
+mettre leurs statuts en conformité avec les clauses types mentionnées à l'alinéa précédent, dans un délai de douze mois après
+la publication du décret établissant ces clauses types.
+
+Si l'assemblée des actionnaires ou des associés n'est pas en mesure de statuer régulièrement sur cette mise en conformité
+dans le délai imparti, le projet de mise en conformité des statuts est soumis à l'homologation du président du tribunal de
+commerce statuant sur requête des représentants légaux de la société.
+
+Il sera interdit aux présidents, administrateurs ou gérants de ces sociétés qui, volontairement, n'auront pas mis ou fait
+mettre les statuts en conformité avec les clauses types dans le délai imparti, pendant un délai de cinq années, de diriger,
+administrer ou gérer à un titre quelconque une des sociétés immobilières concernées par le présent article, et d'engager la
+signature d'une de ces sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°93-122 1993-01-29
+	  - Code de la construction et de l'habitation. - art. L313-27 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-1237 1996-12-30 art. 6 IV, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°2013-777 du 27 août 2013 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III aux articles R313-31, R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe V aux articles R313-31, R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe VI à l'article R313-31-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1-3 (T)
+
+
+###### Article L313-29
+
+Ne peuvent participer en droit ou en fait, directement ou par personne interposée, pour leur compte ou pour celui d'autrui, à
+la fondation ou à la gestion d'organismes collecteurs de la participation des employeurs à l'effort de construction :
+
+1° Les personnes condamnées pour crime de droit commun, faux en écritures privées, de commerce ou de banque prévus par
+l'article 441-1 du nouveau code pénal, banqueroute, vol, abus de confiance, escroquerie, soustraction commise par dépositaire
+public, extorsion de fonds, de signatures, de valeurs, émission de chèque sans provision, atteinte au crédit de l'Etat, faux
+serment, faux témoignage, subornation de témoins ou pour tentative ou complicité d'un des crimes ou délits ci-dessus
+mentionnés;
+
+2° Les personnes condamnées pour l'un des délits prévus, soit par la loi n° 57-908 du 7 août 1957 favorisant la construction
+de logements et les équipements collectifs, lorsque la condamnation comporte l'interdiction de se livrer à l'une des
+activités citées au présent article, soit par l'ordonnance n° 58-1229 du 16 décembre 1958 portant réglementation des agences
+de transactions immobilières, ou par la loi n° 60-580 du 21 juin 1960 interdisant certaines pratiques en matière de
+transaction portant sur des immeubles et des fonds de commerce lorsque la condamnation comporte fermeture définitive de
+l'établissement;
+
+3° Les personnes empêchées d'exercer un commerce en vertu de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement
+des professions industrielles ou commerciales, ainsi que les personnes condamnées en application, soit du décret du 14 juin
+1938 sur les entreprises d'assurances, repris par le code des assurances, livre III, titre II, chapitre VIII, et livre V,
+titre Ier, chapitre IV, section IV, soit des lois des 13 et 14 juin 1941 relatives à la réglementation et à l'organisation de
+la profession bancaire et des professions qui s'y rattachent, soit de la loi n° 52-332 du 24 mars 1952 relative aux
+entreprises de crédit différé, soit de l'article L. 241-6 ;
+
+4° Les faillis non réhabilités ;
+
+5° Les anciens officiers ministériels destitués ou révoqués ;
+
+6° Les avocats, architectes, experts comptables, comptables agréés, géomètres experts rayés de leur ordre par mesure
+disciplinaire;
+
+7° Les personnes interdites et les personnes suspendues en application de l'article L. 313-13.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1938-06-14
+	  - Loi n°47-1635 1947-08-30
+	  - Loi n°52-332 1952-03-24
+	  - Loi n°57-908 1957-08-07
+	  - Ordonnance 58-1229 1958-12-16
+	  - Loi n°60-580 1960-06-21
+	  - Code pénal - art. 441-1 (M)
+	  - Code de la construction et de l'habitation. - art. L241-6 (M)
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 5 () JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-30 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-27 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-34 (AbD)
+	  - Code de la construction et de l'habitation. - art. R*313-35 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-22 (V)
+	  - Code de la construction et de l'habitation. - art. R313-23 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-2 (T)
+
+
+###### Article L313-30
+
+Les infractions aux dispositions de l'article L. 313-29 sont punie d'un emprisonnement de deux ans et d'une amende de 120 000
+F, ou de l'une de ces deux peines seulement [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 1996-12-30 art. 6 IV, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-29 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-3 (M)
+	  - Code de la construction et de l'habitation. - art. L313-3 (T)
+
+
+###### Article L313-31
+
+Les interdictions prévues aux articles L. 423-10 et L. 423-11 sont applicables aux administrateurs et aux salariés des
+associations mentionnées à l'article L. 313-7 et des organismes mentionnés au premier alinéa de l'article L. 313-16 ainsi
+qu'aux administrateurs et aux salariés de l'agence nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 1996-12-30 art. 6 II, VI JORF 1er janvier 1997
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation L313-16 (2ème version)
+	  - Code de la construction et de l'habitation. - art. L313-16 (T)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L423-10 (M)
+	  - Code de la construction et de l'habitation. - art. L423-11 (M)
+
+
+###### Article L313-32
+
+Est puni d'un emprisonnement de cinq ans et d'une amende de 1 000 000 F le fait pour un dirigeant d'un organisme collecteur
+de la participation des employeurs à l'effort de construction de faire, de mauvaise foi, à des fins personnelles directes ou
+indirectes et dans l'exercice de ses fonctions :
+
+- des biens ou du crédit de l'organisme un usage contraire à l'objet de celui-ci ;
+
+- des pouvoirs qu'il possédait ou des voix dont il disposait un usage contraire à l'objet de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L313-16-1 (T)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R313-23 (VD)
+
+
+###### Article L313-33
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre. Il fixe notamment les conditions dans
+lesquelles les délibérations du conseil d'administration de l'Agence nationale pour la participation des employeurs à
+l'effort de construction sont rendues exécutoires ainsi que les conditions de dépôt et de placement des disponibilités
+financières du fonds d'intervention de l'Union d'économie sociale du logement en attente de l'emploi fixé par les conventions
+prévues au 2° de l'article L. 313-19. Il fixe enfin le délai à l'expiration duquel, faute de réponse de l'union, l'avis prévu
+au 4° de l'article L. 313-19 est réputé rendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 14 février 1979 - art. 3 (V)
+	  - Décret n°2009-1155 du 30 septembre 2009 - art. 1 (V)
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Décret n°2010-464 du 6 mai 2010 - art. 1 (V)
+	  - Décret n°2012-1428 du 19 décembre 2012 - art. 1 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Décret n°2015-1654 du 11 décembre 2015 (V)
+	  - Loi n°2016-719 du 1er juin 2016 - art. 2 (V)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-7 (V)
+	  - Code de la construction et de l'habitation. - art. L342-14 (VD)
+	  - Code de la construction et de l'habitation. - art. L342-2 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-45-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-19-3 (V)
+	  - Code monétaire et financier - art. L511-7 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 
 #### Chapitre V : Epargne-logement-Dispositions transitoires applicables à l'épargne-construction 
@@ -32076,6 +32768,44 @@ alinéa dudit article.
 	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
 
 
+###### Article R302-27
+
+Les logements sociaux en accession à la propriété prévus à l'article L. 302-5 sont :
+
+- les logements achevés depuis moins de dix ans et occupés par leur propriétaire si celui-ci a financé ce logement dans les
+conditions prévues aux articles R. 331-32 à R. 331-62, sous réserve que leur nombre soit au moins égal à cinq par opération à
+la date du permis de construire ;
+
+- les logements ayant bénéficié, depuis moins de quinze ans, de l'avance remboursable ne portant pas intérêt prévue à
+l'article R. 317-1 en complément d'un prêt garanti par l'Etat en application de l'article R. 312-3-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-119 du 10 février 1997 - art. 1 () JORF 12 février 1997 en vigueur le 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cité par**:
+
+	  - Décret n°2015-638 du 8 juin 2015 (V)
+	  - Code de la construction et de l'habitation. - art. R391-8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L302-5, R331-32 à R331-62, R317-1, R312-3-1
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
 
 #### Chapitre Ier : Primes et prêts à la construction.
@@ -35272,31 +36002,39 @@ finance également des travaux d'amélioration.
 L'Agence nationale pour la participation des employeurs à l'effort de construction remplit les missions prévues aux articles
 L. 313-7 à L. 313-15. A ce titre, elle propose aux ministres chargés de la construction et de l'habitation et de l'économie :
 
-" a) Les dispositions relatives aux clauses type et aux obligations comptables de nature réglementaire des associations
+a) Les dispositions relatives aux clauses type et aux obligations comptables de nature réglementaire des associations
 mentionnées à l'article L. 313-7 ;
 
-" b) Les dispositions réglementaires permettant le bon emploi des fonds collectés par les associations précitées ;
+b) Les dispositions réglementaires permettant le bon emploi des fonds collectés par les associations et organismes mentionnés
+aux articles L. 313-7 et L. 313-16.
 
-" Les ministres peuvent la consulter sur les mesures destinées à favoriser le logement des salariés des entreprises
-assujetties de moins de cinquante salariés. "
+c) Les dispositions relatives aux obligations comptables de nature réglementaire des organismes mentionnés au 2° (b et d) de
+l'article R. 313-9 pour ce qui concerne la collecte et l'utilisation par ceux-ci du produit de la participation des
+employeurs.
 
-" Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes investies par les employeurs au titre de l'article
-L. 313-1.
+Les ministres peuvent la consulter sur les mesures destinées à favoriser le logement des salariés des entreprises assujetties
+de moins de cinquante salariés.
+
+Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes investies par les employeurs au titre de l'article L.
+313-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°92-240 du 16 mars 1992 - art. 13 () JORF 17 mars 1992
+	  - Décret n°93-748 1993-03-27 art. 6 I, II JORF 30 mars 1993
+	  - Décret n°93-748 du 27 mars 1993 - art. 6 () JORF 30 mars 1993
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L313-7 à L313-15, L313-7, L313-1
+	  - Code de la construction et de l'habitation L313-7 à L313-15, L313-7, L313-16, R313-9, L313-1
 	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L313-16 (M)
 	  - Code de la construction et de l'habitation. - art. L313-7 (M)
 
 	**Cité par**:
