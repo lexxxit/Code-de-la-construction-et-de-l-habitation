@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-06-02
+Version Consolidée au 1990-07-19
 
 # Partie législative
 
@@ -34282,6 +34282,49 @@ d'effet de leur abrogation restent régies par les dispositions alors en vigueur
 	  - Code de la construction et de l'habitation R322-15 b, R331-41 (1 et 2)
 
 
+###### Article R322-16 bis
+
+Par dérogation à l'article R. 322-15 b, les personnes physiques bénéficiaires de la prime à l'amélioration de l'habitat
+prévue à l'article R. 322-1, qui passent un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à
+l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes, doivent
+respecter le loyer maximum fixé en application de l'arrêté prévu à l'article R. 331-41 et calculé au prorata de la surface
+habitable louée.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 6
+	  - Code de la construction et de l'habitation. - art. R322-1 (M)
+	  - Code de la construction et de l'habitation. - art. R322-15 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 1 () JORF 19 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+
 ###### Article R322-17
 
 Le remboursement de la prime est effectué sous déduction d'un abattement de 5 p. 100 [*taux*] par an à compter de la date de
@@ -37778,6 +37821,39 @@ la construction et de l'habitation.
 	  - Code de la construction et de l'habitation. - art. R331-61-1 (V)
 
 
+###### Article R331-35
+
+Pour pouvoir faire l'objet d'une décision favorable, les demandeurs de prêts aidés doivent s'engager à ce que, pendant la
+durée de remboursement du prêt, les logements ne soient :
+
+a) Ni transformés en locaux commerciaux ou professionnels ;
+
+b) Ni affectés à la location saisonnière ou en meublé, à l'exception du cas mentionné à l'article R. 331-41 bis ;
+
+c) Ni utilisés comme résidence secondaire ;
+
+d) Ni occupés à titre d'accessoire d'un contrat de travail ;
+
+e) Ni détruits sans qu'il soit procédé à leur reconstruction dans un délai de quatre ans à compter du sinistre.
+
+Un arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances fixe les exceptions
+aux b et d en milieu rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 2 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-41 bis (V)
+
+
 ###### Article R331-36
 
 Ne peuvent donner lieu au bénéfice des prêts définis par la présente section :
@@ -37909,6 +37985,33 @@ prestation de services.
 	  - Code de la construction et de l'habitation. - art. R331-50 (M)
 	  - Code de la construction et de l'habitation. - art. R331-53 (M)
 	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+
+
+###### Article R331-41 bis
+
+Les personnes physiques accédant à la propriété mentionnées à l'article R. 331-39, qui passent un contrat conforme à
+l'article L. 443-1 du code de l'action sociale et des familles, doivent respecter le loyer maximum fixé en application de
+l'arrêté prévu à l'article R. 331-41 et calculé au prorata de la surface habitable louée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 3 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-35 (V)
 
 
 ###### Article R331-42
@@ -39751,6 +39854,75 @@ celles fixées par la convention type mentionnée à l'alinéa précédent.
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
 
 
+###### Article R331-66
+
+Peuvent bénéficier de ces prêts :
+
+1° Les personnes physiques qui, pour leur habitation familiale, construisent ou acquièrent des logements neufs et celles qui
+acquièrent des logements existants, en vue de leur amélioration.
+
+Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
+le livre II, titre 1er, chapitres II ou III du présent code (première partie).
+
+2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
+travaux destinés à réduire les dépenses d'énergie [*économies*].
+
+3° En ce qui concerne les opérations mentionnées au 5° de l'article R.331-63, les personnes qui bénéficient de l'aide
+personnalisée au logement au titre du prêt faisant l'objet du remboursement anticipé.
+
+Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
+au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de
+leur conjoint [*durée*].
+
+Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux,
+
+soit l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque
+le logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un
+département ou territoire d'outre-mer ou de l'étranger.
+
+Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus, pour des raisons professionnelles ou familiales,
+destiner le logement à leur résidence principale, ils peuvent être autorisés à le louer dans des conditions fixées par arrêté
+conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
+
+Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné peuvent passé un contrat conforme à l'article
+6 de la loi n° 89-475 du 10 juillet 1989 relative à l'acceuil par des particuliers à leur domicile, à titre onéreux, de
+personnes agées ou handicapées adultes.
+
+Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
+l'article R. 331-63 dans des immeubles où les logements appartenant à des personnes physiques et à usage de résidence
+principale représentent la moitié au moins du total des voix [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 3 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-12 (V)
+	  - Code de la construction et de l'habitation. - art. R313-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-70 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17 (V)
+	  - Code rural et de la pêche maritime - art. R716-33 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 4 () JORF 19 juillet 1990
+
+
 ###### Article R331-67
 
 Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales
@@ -39862,6 +40034,40 @@ Les normes de surface et d'habitabilité sont fixées par arrêté du ministre c
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+
+###### Article R331-70
+
+Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager [*obligation*] à ce que, pendant toute la durée
+d'amortissement du prêt, le logement financé au moyen de ce prêt ne soit :
+
+a) Ni transformé en local commercial et professionnel ;
+
+b) Ni affecté à la location saisonnière ou en meublé plus de quatre mois par an à l'exception du cas mentionné au cinquième
+alinéa de l'article R. 331-66.
+
+c) Ni utilisé comme résidence secondaire ;
+
+d) Ni occupé à titre d'accessoire à un contrat de travail.
+
+Un arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances fixe les exceptions
+aux règles b et d en milieu rural.
+
+Toute violation de cet engagement entraîne le remboursement du prêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 5 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-66 (M)
 
 
 ##### Sous-section 2 : Caractéristiques.
@@ -40319,41 +40525,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ##### SECTION II : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété
 
-##### SOUS-SECTION I : Conditions d'octroi des prêts.
-
-###### Article R331-35
-
-Pour pouvoir faire l'objet d'une décision favorable, les demandeurs de prêts aidés doivent s'engager [*obligation*] à ce que,
-pendant la durée de remboursement du prêt, les logements ne soient :
-
-a) Ni transformés en locaux commerciaux ou professionnels ;
-
-b) Ni affectés à la location saisonnière ou en meublé ;
-
-c) Ni utilisés comme résidence secondaire ;
-
-d) Ni occupés à titre d'accessoire d'un contrat de travail ;
-
-e) Ni détruits sans qu'il soit procédé à leur reconstruction dans un délai de quatre ans à compter du sinistre.
-
-Un arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances fixe les exceptions
-aux b et d en milieu rural.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-
 ##### SOUS-SECTION II : Caractéristiques des prêts.
 
 ###### Article R331-54
@@ -40404,107 +40575,6 @@ de la construction et de l'habitation et des finances.
 	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-56 (M)
 	  - Code de la construction et de l'habitation. - art. R331-57 (M)
-
-
-##### SECTION III : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements
-
-##### SOUS-SECTION I : Conditions d'octroi des prêts.
-
-###### Article R331-66
-
-Peuvent bénéficier de ces prêts :
-
-1° Les personnes physiques qui, pour leur habitation familiale, construisent ou acquièrent des logements neufs et celles qui
-acquièrent des logements existants, en vue de leur amélioration.
-
-Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
-le livre II, titre 1er, chapitres II ou III du présent code (première partie).
-
-2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans ce logement, des travaux d'amélioration et des
-travaux destinés à réduire les dépenses d'énergie [*économies*].
-
-3° En ce qui concerne les opérations mentionnées au 5° de l'article R.331-63, les personnes qui bénéficient de l'aide
-personnalisée au logement au titre du prêt faisant l'objet du remboursement anticipé.
-
-Ces bénéficiaires doivent destiner le logement à leur résidence principale, c'est-à-dire l'occupation personnelle du logement
-au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants ou ceux de
-leur conjoint [*durée*].
-
-Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux, soit
-l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque le
-logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un département
-ou territoire d'outre-mer ou de l'étranger.
-
-Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus, pour des raisons professionnelles ou familiales,
-destiner le logement à leur résidence principale, ils peuvent être autorisés à le louer dans des conditions fixées par arrêté
-conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
-
-Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
-l'article R. 331-63 dans des immeubles où les logements appartenant à des personnes physiques et à usage de résidence
-principale représentent la moitié au moins du total des voix [*condition*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 3 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-12 (V)
-	  - Code de la construction et de l'habitation. - art. R313-14 (V)
-	  - Code de la construction et de l'habitation. - art. R331-70 (V)
-	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17 (V)
-	  - Code rural et de la pêche maritime - art. R716-33 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-
-###### Article R331-70
-
-Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager [*obligation*] à ce que, pendant toute la durée
-d'amortissement du prêt, le logement financé au moyen de ce prêt ne soit :
-
-a) Ni transformé en local commercial et professionnel ;
-
-b) Ni affecté à la location saisonnière ou en meublé plus de quatre mois par an ;
-
-c) Ni utilisé comme résidence secondaire ;
-
-d) Ni occupé à titre d'accessoire à un contrat de travail.
-
-Un arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances fixe les exceptions
-aux règles b et d en milieu rural.
-
-Toute violation de cet engagement entraîne le remboursement du prêt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
 ### Titre V : Aide personnalisée au logement
@@ -41992,6 +42062,64 @@ l'article R. 331-75.
 
 	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-75 (M)
+
+
+###### Article R351-17
+
+L'aide personnalisée ne peut être attribuée au profit d'un même bénéficiaire ou d'une même famille au titre de plusieurs
+logements.
+
+L'aide personnalisée et l'allocation de logement prévue aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale ne
+peuvent être cumulées ni au profit du même bénéficiaire ou de la même famille, ni au titre d'un même logement sauf dans le
+cas où les personnes physiques accédant à la propriété mentionnées aux articles R. 331-39 et R. 331-66 passent un contrat
+conforme à l'article L. 443-1 du code de l'action sociale et des familles    Lorsque les conditions d'ouverture du droit à
+l'aide personnalisée sont remplies au titre d'un logement, seule cette aide est attribuée pour ce logement.
+
+Toutefois, en cas de séparation légale ou de fait des conjoints entraînant la création de deux foyers distincts et
+l'occupation de deux résidences principales constatées par l'organisme payeur lors de l'ouverture du droit ou du début de la
+période de paiement, l'aide personnalisée peut être accordée à chacun des conjoints, même si l'autre conjoint bénéficie de
+l'aide personnalisée ou de l'allocation de logement.
+
+Lorsqu'une personne bénéficie de l'allocation de logement au titre de l'acquisition du logement qu'elle occupe et qu'il lui
+est accordé un prêt aidé par l'Etat en accession à la propriété pour l'agrandissement dudit logement ou un prêt conventionné
+pour son amélioration, seule l'aide personnalisée lui est attribuée dans les conditions prévues à l'article R. 351-2 (2e
+alinéa, a) et le droit à l'allocation de logement est éteint à compter de l'ouverture du droit à l'aide personnalisée.
+
+Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent le même logement et qu'ils sont
+copropriétaires du logement et cotitulaires du prêt ouvrant droit à l'aide personnalisée ou cotitulaires du bail ou de
+l'engagement de location ou qu'ils ont passé un contrat conforme à l'article L. 443-1 du code de l'action sociale et des
+familles, l'aide personnalisée peut être accordée à chacune de ces personnes ou ménages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-66 (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 6 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
+	  - Code de la construction et de l'habitation. - art. R331-66 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
 
 
 ###### Article R351-17-1
@@ -43596,25 +43724,24 @@ nouvelle convention peut être conclue dans les conditions prévues par la prés
 ###### Article R353-37
 
 Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins
-huit mois [*durée*] par an. Ils ne peuvent faire l'objet de sous-location et doivent répondre aux conditions d'occupation
-suffisante telles que définies par l'article L. 621-2.
+huit mois par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un
+contrat conforme à l'article L. 443-1 du code de l'action sociale et des familles et doivent répondre aux conditions
+d'occupation suffisante telles que définies par l'article L. 621-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-1131 1977-10-04 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L621-2 (V)
 
 
@@ -44497,6 +44624,28 @@ ou à faire par eux sur l'immeuble.
 	  - Code de la construction et de l'habitation. - art. R353-69 (V)
 
 
+###### Article R353-68
+
+Les logements conventionnés sont loués nus à des personnes physiques et occupés, à titre  de résidence principale, au moins
+huit mois par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un
+contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur
+domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+
 ###### Article R353-69
 
 Les conventions fixent les conditions d'occupation des logements, conformément à celles prévues par l'article R. 441-3.
@@ -45058,26 +45207,6 @@ paiement de l'aide personnalisée au logement.
 
 ##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.
 
-###### Article R353-68
-
-Les logements conventionnés sont loués nus à des personnes physiques et occupés, à titre  de résidence principale, au moins
-huit mois [*durée*] par an. Ils ne peuvent faire l'objet de sous-location.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-416 1980-06-10 art. 1 JORF 13 juin 1980
-
-
 ###### Article R353-72
 
 La valeur maximale du loyer annuel au mètre carré de surface corrigée, telle que résultant des dispositions de l'article R.
@@ -45293,6 +45422,30 @@ b) Au plus tard le 1er octobre sous forme de régularisation.
 	  - Décret n°80-415 1980-06-10 ART. 4 JORF 13 juin 1980
 
 
+###### Article R353-96
+
+Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
+huit mois [*durée*] par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le
+locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers
+à leur domicile, à titre onéreux, de personnes agées ou handicapées et doivent répondre aux conditions d'occupation
+suffisante telles que définies par l'article L. 621-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 6
+	  - Code de la construction et de l'habitation. - art. L621-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+
 ##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
 
 ###### Article R353-91
@@ -45393,31 +45546,6 @@ faites ou à faire par eux sur l'immeuble.
 
 	  - Code de la construction et de l'habitation. - art. R353-100 (V)
 	  - Code de la construction et de l'habitation. - art. R353-97 (M)
-
-
-###### Article R353-96
-
-Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
-huit mois [*durée*] par an. Ils ne peuvent faire l'objet de sous-location et doivent répondre aux conditions d'occupation
-suffisante telles que définies par l'article L. 621-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L621-2 (V)
 
 
 ###### Article R353-97
@@ -46197,6 +46325,29 @@ dans les conditions du présent décret.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
+###### Article R353-131
+
+Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
+huit mois par an. Ils ne peuvent faire l'objet de sous-location, sauf au profit de personnes ayant passé avec le locataire un
+contrat conforme à l'article L. 443-1 du code de l'action sociale et des familles. Ils doivent répondre aux conditions
+d'occupation suffisante, telles que définies par l'article L.621-2 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L621-2 (V)
+
+
 ###### Article R353-132
 
 Au moins quinze jours avant la date de signature du bail, en cas de vacance du logement, le bailleur adresse au candidat
@@ -46571,23 +46722,6 @@ personnalisée au logement.
 
 
 ##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.
-
-###### Article R353-131
-
-Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
-huit mois par an. Ils ne peuvent faire l'objet de sous-location. Ils doivent répondre aux conditions d'occupation suffisante,
-telle que définies par l'article L. 621-2 du code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L621-2 (V)
-
 
 ###### Article R353-134
 
@@ -47003,6 +47137,33 @@ avant leur date d'expiration.
 	  - Code de la construction et de l'habitation. - art. R331-41 (M)
 
 
+###### Article R353-168
+
+Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par
+an. Ils ne peuvent faire l'objet de sous-location, sauf au profit de personnes ayant passé avec le locataire un contrat
+conforme à l'article L. 443-1 du code de l'action sociale et des familles.
+
+Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
+l'article R. 331-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
 ###### Article R353-169
 
 Le bailleur est tenu de proposer au locataire un contrat de location conforme à la convention.
@@ -47178,28 +47339,6 @@ Le préfet s'assure de la publication des conventions au fichier immobilier ou d
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-41 (M)
-
-
-##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).
-
-###### Article R353-168
-
-Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par an
-[*durée d'occupation - minimum*]. Ils ne peuvent faire l'objet de sous-location.
-
-Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
-l'article R. 331-20.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-41 3
-	  - Code de la construction et de l'habitation. - art. R331-20 (M)
 
 
 ##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.
@@ -47446,35 +47585,6 @@ en outre, reproduire, en caractère très apparents, le texte intégral de l'art
 
 ##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
 
-###### Article R353-202
-
-Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par
-an. Ils ne peuvent faire l'objet de sous-location.
-
-Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
-l'article R. 331-42.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-42 (M)
-
-
-##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
-
 ###### Article R353-200
 
 Les conventions conclues en application de l'article L. 351-2 (3°) entre l'Etat et les personnes physiques ou morales
@@ -47521,6 +47631,32 @@ avant leur date d'expiration.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-202
+
+Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par
+an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un contrat
+conforme à l'article L. 443-1 du code de l'action sociale et des familles.
+
+Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
+l'article R. 331-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
 
 
 ###### Article R353-203
@@ -47792,65 +47928,6 @@ application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
 
 ##### Section 1 : Aide personnalisée
 
-##### Sous-section 3 : Conditions particulières.
-
-###### Article R351-17
-
-L'aide personnalisée ne peut être attribuée au profit d'un même bénéficiaire ou d'une même famille au titre de plusieurs
-logements.
-
-L'aide personnalisée et l'allocation de logement prévue à l'article L. 510 (5°) du code de la sécurité sociale et par la loi
-n° 71-532 du 16 juillet 1971 ne peuvent être cumulées ni au titre d'un même logement, ni au profit du même bénéficiaire ou de
-la même famille.
-
-Lorsque les conditions d'ouverture du droit à l'aide personnalisée sont remplies au titre d'un logement, seule cette aide est
-attribuée pour ce logement.
-
-DECR. 677 du 29 juin 1981 :
-
-Toutefois, en cas de séparation légale ou de fait des conjoints entraînant la création de deux foyers distincts et
-l'occupation de deux résidences principales constatées par l'organisme payeur lors de l'ouverture du droit ou du début de la
-période de paiement, l'aide personnalisée peut être accordée à chacun des conjoints, même si l'autre conjoint bénéficie de
-l'aide personnalisée ou de l'allocation de logement.
-
-Lorsqu'une personne bénéficie de l'allocation de logement au titre de l'acquisition du logement qu'elle occupe et qu'il lui
-est accordé un prêt aidé par l'Etat en accession à la propriété pour l'agrandissement dudit logement ou un prêt conventionné
-pour son amélioration, seule l'aide personnalisée lui est attribuée dans les conditions prévues à l'article R. 351-2 (2è
-alinéa, a) et le droit à l'allocation de logement est éteint à compter de l'ouverture du droit à l'aide personnalisée.
-
-Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent le même logement et qu'ils sont
-copropriétaires du logement et cotitulaires du prêt ouvrant droit à l'aide personnalisée ou cotitulaires du bail ou de
-l'engagement de location, l'aide personnalisée peut être accordée à chacune de ces personnes ou ménages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
-	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
-	  - Arrêté du 3 juillet 1978 - art. 9 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-	  - Code de la construction et de l'habitation. - art. R351-66 (V)
-
-	**Modifié par**:
-
-	  - Décret n°81-677 1981-06-29 ART. 10, ART. 11 JORF 30 JUIN 1981
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L510 5
-	  - Code de la construction et de l'habitation. - art. R351-2 (M)
-	  - Loi n°71-532 1971-07-16
-
-
 ##### Sous-section 5 : Prime de déménagement.
 
 ###### Article R351-25
@@ -47893,15 +47970,14 @@ l'habitation, de l'agriculture et de la sécurité sociale, auquel cas l'aide pe
 
 Lorsque le bénéficiaire est locataire d'un logement compris dans un patrimoine conventionné comportant moins de dix
 logements, l'aide personnalisée est versée au bailleur ou au gestionnaire, s'il en fait la demande ; dans le cas contraire,
-elle est versée au locataire.
-
-En outre, elles est versée directement au bénéficiaire qui est dans l'une des situations suivantes :
+elle est versée au locataire.     En outre, elles est versée directement au bénéficiaire qui est dans l'une des situations
+suivantes :
 
 - locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 :
 
 - propriétaire qui a contracté plusieurs prêts et qui n'a pas donné mandat à un établissement habilité, lorsque aucune des
 mensualités de remboursement de ces prêts n'est supérieure ou égale pour la première année au montant de l'aide
-personnalisée.
+personnalisée.    - personnes mentionnées à l'article L. 351-15.
 
 Pour l'application du présent article :
 
@@ -47918,10 +47994,10 @@ prêt entrant dans le champ d'application de l'article R. 351-2.
 
 	**Cite**:
 
-	  - Arrêté  1978-03-09
-	  - Loi n°77-1 1977-01-03 TITRE V
-	  - Code de la construction et de l'habitation L351-8, R351-2, L353-9, L212-1 à L212-13, L213-1 à L213-15
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
+	  - Arrêté 1978-03-09
+	  - Loi n°77-1 1977-01-03
+	  - Code de la construction et de l'habitation R351-2, L351-15, L353-9, L212-1 à L212-13, L213-1 à L213-15
+	  - Code de la construction et de l'habitation. - art. L351-15 (V)
 	  - Code de la construction et de l'habitation. - art. L353-9 (V)
 	  - Code de la construction et de l'habitation. - art. R351-2 (M)
 
@@ -47931,7 +48007,7 @@ prêt entrant dans le champ d'application de l'article R. 351-2.
 
 	**Modifié par**:
 
-	  - Décret n°84-1160 1984-12-21 art. 6 JORF 22 décembre 1984
+	  - Décret n°90-635 du 18 juillet 1990 - art. 7 () JORF 19 juillet 1990
 
 	**Cité par**:
 
@@ -63689,6 +63765,155 @@ La publication de la convention se fait à l'initiative de l'administration qui 
 
 ## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.
 
+###### Article Annexe I à l'article R353-32
+
+Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction
+et de l'habitation, représenté par le préfet,
+
+D'une part,
+
+et M. ... (1),
+
+ou
+
+et la société représentée par ... (1), dénommé(e) ci-après, le bailleur,
+
+D'autre part,
+
+sont convenus de ce qui suit :
+
+1. - Description du programme conventionné.
+
+Art. 1 - Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L.
+353-13 pour le programme de ... décrit plus précisément dans le document à la présente convention et faisant l'objet de
+travaux d'amélioration financés sans aucune aide spécifique de l'Etat, ou bénéficiant de subventions octroyées par l'agence
+nationale pour l'amélioration de l'habitat.
+
+Dans le cas où les travaux font l'objet d'une demande d'aide de l'agence, ils seront réalisés sous réserve de l'obtention de
+cette aide.
+
+La signature de la présente convention ouvre, pendant sa durée, le droit à l'aide personnalisée au logement dans les
+conditions définies dans le livre III, titre V (1ère partie) du code précité.
+
+Art. 2 - Durée de la convention.
+
+Les prêts conventionnés sont des prêts amortissables en dix ans au minimum et vingt ans au maximum. Toutefois, lorsqu'ils
+financent des opérations d'amélioration de logements, ces durées sont de cinq ans au minimum et douze ans au maximum.
+
+Lorsqu'ils sont consentis avant la date d'achèvement des travaux, la période d'amortissement choisie est précédée d'une
+période d'anticipation.
+
+En conséquence, la possibilité d'accorder aux bénéficiaires tout autre crédit d'anticipation des prêts conventionnés est
+exclue.
+
+2. - Engagements particuliers applicables au présent programme conventionné.
+
+Art. 3 - Réservation à des familles ou à des occupants sortant d'habitat insalubre.
+
+Le bailleur, compte tenu de l'importance de la liste des prioritaires dressée par les services préfectoraux, s'engage à
+affecter au fur et à mesure des vacances au minimum ... p. 100 des logements du programme considéré à des familles ou des
+occupants sortant soit d'habitat insalubre ou surpeuplé, soit d'une cité de transit ou provisoire ou d'un centre
+d'hébergement.
+
+Dans l'hypothèse où ce pourcentage n'est pas nul, le bailleur s'engage à signaler aux services préfectoraux les logements
+devenus vacants.
+
+Cette réservation porte au minimum sur un nombre entier de logements, immédiatement inférieur au chiffre résultant de ce
+pourcentage. Cette règle s'applique de plein droit à chaque copropriétaire en cas de mise en copropriété du programme faisant
+l'objet de la présente convention.
+
+Art. 4 - Montant maximum du loyer et modalités de révision.
+
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface corrigée, ne doit pas excéder le loyer
+maximum qui est fixé à ... F annuels le mètre carré de surface corrigée.
+
+Cette surface est calculée conformément aux dispositions de l'article R. 442-1 du code de la construction et de l'habitation
+et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+
+Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
+de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
+moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la
+précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+
+Dans la limite du loyer maximum tel que défini ci-dessus, le loyer pratiqué :
+
+1° Peut être révisé chaque année le 1er juillet au cours de la période triennale en fonction des variations de la moyenne sur
+quatre trimestres de l'indice du coût de la construction. Cette moyenne est celle de l'indice du coût de la construction à la
+date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du
+quatrième trimestre de l'année précédente.
+
+Au cours de la première période triennale, le montant du loyer applicable chaque 1er juillet peut être fixé dans le bail ; il
+peut être révisé en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction, dans
+les mêmes conditions que celles de l'alinéa précédent.
+
+2° Peut être réajusté à l'expiration de chaque période triennale le 1er juillet suivant la date d'expiration du bail ;
+
+Une information sur le loyer maximum et le loyer pratiqué par type de logement peut être demandée par le locataire à la
+signature du bail, et à l'expiration de chaque période triennale en cas de réajustement du loyer pratiqué dans la limite du
+loyer maximum.
+
+Art. 5 - Par dérogation aux dispositions de l'article 19 de l'annexe à la présente convention, à tire transitoire et sous
+réserve de mention expresse dans le bail, le paiement à terme à échoir peut être maintenu temporairement par le bailleur qui
+s'engage à pratiquer le paiement à terme échu au plus tard le ....
+
+Art. 6 - Reprise pour occupation personnelle.
+
+Par dérogation aux dispositions de l'article 3 de l'annexe à la présente convention relatif aux conditions d'occupation et de
+peuplement des logements lorsque le propriétaire est une personne physique, il peut occuper les logements vacants à titre
+personnel ou les faire occuper par son conjoint, ses ascendants ou descendants ou ceux de son conjoint. L'occupation doit
+être exclusivement à titre de résidence principale et, lorsque le programme bénéficie de subventions octroyées par l'agence
+nationale pour l'amélioration de l'habitat, porte aux maximum sur le nombre entier de logements immédiatement inférieur ...
+p. 100 du nombre total de logements conventionnés en la possession dudit propriétaire, soit ... logements.
+
+Si ces logements deviennent à nouveau vacants avant la date d'expiration de la convention, le propriétaire bailleur qui a
+exercé son droit de reprise s'engage à les relouer dans les conditions définies par la présente convention pour la durée
+restant à courir ou à les faire occuper dans les conditions définies à l'alinéa 1er ci-dessus.
+
+Si les logements conventionnés font l'objet d'une mise en copropriété, le copropriétaire ne peut les occuper que sous réserve
+du respect des conditions définies à l'alinéa 1er ci-dessus.
+
+Dans le cas où certains des logements conventionnés feraient l'objet de mutation à titre gratuit ou onéreux, le quota défini
+ci-dessus serait opposable au propriétaire ; cependant, ce quota n'est pas opposable au propriétaire qui, ancien locataire ou
+occupant de bonne foi des lieux, acquiert la propriété de son logement dans les conditions définies par le décret n° 77-742
+du 30 juin 1977 pris pour l'application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975 modifiée relative à la
+protection des occupants de locaux à usage d'habitation.
+
+Art. 7 - Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe à la convention type
+annexée à l'article R. 353-32 dont il déclare avoir pris connaissance et reconnaît qu'une copie lui a été remise.
+
+(1) Personne physique ou morale identifiée conformément aux dispositions, selon le cas, des articles 5 ou 6 du décret n°
+55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
+	  - Décret n°60-1063 1960-10-01 art. 4
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
+	  - Décret n°77-742 1977-06-30
+	  - Code de la construction et de l'habitation L351-2, L353-1 à L353-13, R442-1, R353-32
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-32 (M)
+	  - Code de la construction et de l'habitation. - art. R442-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°80-429 1980-06-16 annexe JONC 18 juin 1980
+
+	**Modifié par**:
+
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°95-42 du 11 janvier 1995 - art. 2 () JORF 13 janvier 1995
+
+
 ###### Article Annexe III à l'article R353-32
 
 Engagements de portée générale applicables à tout programme conventionné.
@@ -64939,6 +65164,152 @@ Nombre de logements/surface par logement/numéro des logements :
 
 ## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).
 
+###### Article Annexe III à l'article R353-166
+
+Article 1er.
+
+Engagements de portée générale applicable au logement.
+
+Le logement conventionné est soumis aux dispositions de la loi n° 82-526 du 22 juin 1982 relative aux droits et obligations
+des locataires et des bailleurs, sous réserve des dispositions de l'article 75 (3°) de ladite loi.
+
+Article 2.
+
+Le logement doit être loué nu à des personnes physiques à titre de résidence principale et occupé au moins huit mois par an.
+Il ne peut faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un contrat conforme à
+l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
+onéreux, de personnes âgées ou handicapées adultes.
+
+Le logement est loué à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions
+prévues par l'article R. 331-42 du code de la construction et de l'habitation.
+
+Article 3.
+
+La convention se renouvelle pour des périodes triennales, sous réserve de dénonciation par l'une ou l'autre des parties.
+
+Si la dénonciation émane du bailleur, elle fait l'objet d'un acte authentique (acte notarié ou par ministère d'huissier de
+justice) notifié six mois avant l'expiration de la convention ; si elle émane de l'Etat, elle fait l'objet d'un acte
+administratif notifié dans le même délai.
+
+Article 4.
+
+Le bailleur qui désire exercer son droit de reprise du logement à la date d'expiration de la convention, doit, six mois avant
+cette date, notifier son intention au locataire par lettre recommandée avec demande d'avis de réception.
+
+Article 5.
+
+La présente convention peut être révisée à la demande de l'une ou l'autre des parties. Les frais de publication sont pris en
+charge par la partie qui sollicite la révision.
+
+Article 6.
+
+Lorsque le locataire en fait la demande, le bailleur est tenu de lui remettre une copie de la convention.
+
+Article 7.
+
+En cas d'inexécution par le bailleur de ses engagements contractuels tels que non-respect du loyer maximum ou faute grave à
+l'égard des organismes chargés du paiement de l'aide personnalisée au logement, l'administration, après mise en demeure par
+lettre recommandée avec demande d'avis de réception demeurée sans effet pendant un délai de deux mois, peut procéder
+unilatéralement à la résiliation de la présente convention.
+
+Il sera fait application des dispositions prévues à l'article L. 353-6 relatives au maintien des locataires dans les lieux,
+le loyer étant celui fixé par la convention diminué de l'aide personnalisée au logement désormais prise en charge par le
+bailleur.
+
+Le bailleur s'engage dans un délai de quinze jours à compter de la date à laquelle la résiliation est devenue définitive à la
+notifier aux locataires et aux organismes payeurs concernés.
+
+Article 8.
+
+En cas de dissimulation ou fraude pour imposer ou tenter d'imposer au locataire un loyer dépassant le prix fixé par la
+convention, le bailleur sera passible des sanctions pénales prévues à l'article L. 353-10 du code précité, sans préjudice de
+l'application de l'article 70 de la loi n° 82-526 du 22 juin 1982.
+
+Article 9.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le bailleur est tenu de fournir
+au préfet les informations et les documents nécessaires au plein exercice de ce contrôle.
+
+Article 10.
+
+Le préfet s'assure de la publication de la convention au fichier immobilier ou de son inscription au livre foncier.
+
+Article 11.
+
+La convention s'applique de plein droit à tout nouveau propriétaire en cas de mutation à titre gratuit ou onéreux des
+logements conventionnés.
+
+Article 12.
+
+Le logement conventionné doit être maintenu à usage locatif pendant la durée de la convention.
+
+Toutefois, en cas de vacance du logement, le bailleur peut occuper le logement ou le faire occuper par son conjoint, ses
+ascendants, ses descendants ou ceux de son conjoint.
+
+L'occupation doit être exclusivement à titre de résidence principale.
+
+Si le logement devient à nouveau vacant avant la date d'expiration de la convention, le bailleur, qui a exercé son droit de
+reprise, doit le relouer dans les conditions définies par la convention.
+
+Article 13.
+
+Le bailleur s'engage à proposer à tout candidat locataire un contrat de location conforme à la convention, auquel est jointe
+une notice d'information relative à l'aide personnalisée au logement.
+
+Article 14.
+
+Le contrat de location est conclu pour une durée de trois ans. Toutefois, s'il est conclu avant le 30 juin suivant le
+troisième anniversaire de la prise d'effet de la convention, sa durée est égale à la période restant à courir jusqu'à la date
+du 30 juin mentionnée ci-dessus.
+
+Pendant la durée de la convention, sous réserve du respect des obligations définies par l'article 18 de la loi n° 82-526 du
+22 juin 1982, le contrat de location se renouvelle pour des périodes triennales, sauf refus du locataire notifié selon la
+procédure définies par l'article 15 ci-dessous.
+
+En cas de vacance intervenant au cours du contrat de location, le nouveau locataire est substitué de plein droit à l'ancien
+locataire.
+
+Article 15.
+
+Le locataire peut donner congé à tout moment sous réserve d'un délai de préavis de trois mois, ramené à un mois en cas de
+changement de résidence pour des raisons familiales graves ou des raisons professionnelles.
+
+Tout congé est donné par lettre recommandée avec demande d'avis de réception, le préavis partant de la date d'envoi et le
+cachet de la poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le contrat de
+location produit effet jusqu'au dernier jour du mois.
+
+Le locataire est redevable du loyer et des charges pendant le délai de préavis, sauf si le logement est occupé avant la fin
+du préavis par un autre locataire en accord avec le bailleur.
+
+Article 16.
+
+Le loyer est payé par fraction mensuelle à terme échu.
+
+Article 17.
+
+Le bailleur peut demander au locataire, lors de la signature du contrat de location, le versement d'un dépôt de garantie qui
+ne peut être supérieur à deux mois de loyer en principal.
+
+Article 18.
+
+Le bailleur est tenu à l'égard des organismes payeurs de l'aide personnalisée au logement (A.P.L.) :
+
+De fournir les renseignements prévus par l'imprimé de demande d'A.P.L. pour le locataire demandeur de l'aide ;
+
+De signaler immédiatement le départ du locataire bénéficiaire de l'A.P.L..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+
 ### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.
 
 ###### Article Annexe II à l'article R353-166, art. 1
@@ -65068,6 +65439,173 @@ Durée.
 
 
 ## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.
+
+###### Article Annexe III à l'article R353-200
+
+Engagements de portée générale applicables à tout logement conventionné.
+
+Article 1er.
+
+Les logements conventionnés sont soumis aux dispositions de la loi n° 82-526 du 22 juin 1982 relative aux droits et
+obligations des locataires et des bailleurs, sous réserve des dispositions de l'article 75 (3°) de ladite loi.
+
+Article 2.
+
+Les logements doivent être loués nus, à des personnes physiques, à titre de résidence principale et occupés au moins huit
+mois par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un
+contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur
+domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
+
+Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les
+conditions prévues par l'article R. 331-42 du code de la construction et de l'habitation.
+
+Article 3.
+
+La convention se renouvelle pour des périodes triennales, sous réserve de dénonciation par l'une ou l'autre des parties.
+
+Si la dénonciation émane du bailleur, elle fait l'objet d'un acte authentique (acte notarié ou par un ministère d'huissier de
+justice) notifié six mois avant l'expiration de la convention ; si elle émane de l'Etat, elle fait l'objet d'un acte
+administratif notifié dans le même délai.
+
+Article 4.
+
+La présente convention peut être révisée à la demande de l'une ou l'autre des parties. Les frais de publication sont pris en
+charge par la partie qui sollicite la révision.
+
+Article 5.
+
+La convention est tenue à la disposition permanente des locataires ou de leurs associations qui peuvent en prendre
+connaissance chez le gardien ou, en l'absence d'un gardien, au siège du bailleur.
+
+Cette information est mentionnée par affichage et de façon très apparente dans les parties communes de l'immeuble.
+
+Le bailleur s'engage à tenir à la disposition des locataires dans les lieux ou des candidats locataires les notices
+d'information relatives à l'aide personnalisée au logement.
+
+Article 6.
+
+En cas d'inexécution par le bailleur de ses engagements contractuels tels que non-respect du loyer maximum ou faute grave à
+l'égard des organismes chargés du paiement de l'aide personnalisée au logement, l'administration, après mise en demeure par
+lettre recommandée avec avis de réception demeurée sans effet pendant un délai de deux mois, peut procéder unilatéralement à
+la résiliation de la présente convention.
+
+Il sera fait application des dispositions prévues à l'article L. 353-6 relatives au maintien des locataires dans les lieux,
+le loyer étant celui fixé par la convention diminué de l'aide personnalisée au logement désormais prise en charge par le
+bailleur.
+
+Le bailleur s'engage dans un délai de quinze jours à compter de la date à laquelle la résiliation est devenue définitive à la
+notifier aux locataires et aux organismes payeurs concernés.
+
+Article 7.
+
+En cas de dissimulation ou fraude pour imposer ou tenter d'imposer au locataire un loyer dépassant le prix fixé par la
+convention, le bailleur sera passible des sanctions pénales prévues à l'article L. 353-10 du code précité, sans préjudice de
+l'application de l'article 70 de la loi n° 82-526 du 22 juin 1982.
+
+Article 8.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le bailleur est tenu de fournir
+au préfet les informations et les documents nécessaires au plein exercice de ce contrôle.
+
+Article 9.
+
+Le préfet s'assure de la publication de la convention au fichier immobilier ou de son inscription au livre foncier.
+
+Article 10.
+
+La convention s'applique de plein droit à tout nouveau propriétaire en cas de mutation à titre gratuit ou onéreux des
+logements conventionnés.
+
+Article 11.
+
+Les logements conventionnés doivent être maintenus à usage locatif pendant la durée de la convention.
+
+Lorsqu'un logement est vendu au locataire, ce dernier peut occuper le logement à titre personnel ou le faire occuper par son
+conjoint, ses ascendants ou descendants ou ceux de son conjoint. L'occupation doit être exclusivement à titre de résidence
+principale.
+
+Si le logement devient vacant avant la date d'expiration de la convention, le bailleur s'engage à le relouer dans les
+conditions définies par la convention. Toutefois, lorsque le bailleur est une personne physique, il peut l'occuper ou le
+faire occuper dans les conditions définies au précédent alinéa.
+
+Article 12.
+
+Le bailleur s'engage à proposer à tout candidat locataire un contrat de location conforme à la convention, auquel est jointe
+une notice d'information relative à l'aide personnalisée au logement.
+
+Article 13.
+
+Lorsque le bailleur est un organisme d'habitations à loyer modéré, les dispositions de l'article L. 353-15 du code de la
+construction et de l'habitation sont applicables aux locataires.
+
+Article 14.
+
+Lorsque le bailleur est une personne physique ou une personne morale autre qu'un organisme d'habitations à loyer modéré, le
+contrat de location est conclu pour une durée de trois ans. Toutefois, s'il est conclu avant le 30 juin suivant le troisième
+anniversaire de la prise d'effet de la convention, sa durée est égale à la période restant à courir jusqu'à la date du 30
+juin mentionnée ci-dessus.
+
+Pendant la durée de la convention, sous réserve du respect des obligations définies par l'article 18 de la loi n° 82-526 du
+22 juin 1982, le contrat de location se renouvelle pour des périodes triennales, sauf refus du locataire notifié selon la
+procédure définie par l'article 15 ci-dessus.
+
+En cas de vacance intervenant au cours du contrat de location, le nouveau locataire est substitué de plein droit à l'ancien
+locataire.
+
+Article 15.
+
+Le locataire peut donner congé à tout moment sous réserve d'un délai de préavis de trois mois, ramené à un mois en cas de
+changement de résidence pour des raisons familiales graves ou des raisons professionnelles.
+
+Tout congé est donné par lettre recommandée avec demande d'avis de réception, le préavis partant de la date d'envoi et le
+cachet de la poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le contrat de
+location produit effet jusqu'au dernier jour du mois.
+
+Le locataire est redevable du loyer et des charges pendant le délai de préavis, sauf si le logement est occupé avant la fin
+du préavis par un autre locataire en accord avec le bailleur.
+
+Article 16.
+
+Le loyer est payé par fraction mensuelle à terme échu.
+
+En cas de versement de l'aide personnalisée au logement en tiers payant, le montant de cette aide doit figurer sur la
+quittance.
+
+Article 17.
+
+Le bailleur peut demander au locataire, lors de la signature du contrat de location, le versement d'un dépôt de garantie qui
+ne peut être supérieur à deux mois de loyer en principal.
+
+Article 18.
+
+Le bailleur est tenu à l'égard des organismes payeurs de l'aide personnalisée au logement (A.P.L.) :
+
+de fournir les renseignements prévus par l'imprimé de demande d'A.P.L. pour chaque locataire demandeur de l'aide ;
+
+de signaler immédiatement tout départ de locataire bénéficiaire de l'A.P.L..
+
+Si l'A.P.L. est versée en tiers-payant, le bailleur doit en outre (1) :
+
+établir les liaisons nécessaires avec les organismes payeurs en vue de passer un accord définissant les conditions de
+versement de l'A.P.L. ;
+
+saisir le cas échéant l'instance départementale chargée d'examiner les cas dans lesquels les bénéficiaires de l'A.P.L. ne
+règlent pas la dépense de logement restant à leur charge.
+
+(1) Si la convention porte sur moins de dix logements, le bailleur doit, s'il souhaite le versement en tiers-payant, le faire
+connaître à l'organisme payeur ; à défaut, l'A.P.L. est versée directement au locataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
 
 ### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.
 
