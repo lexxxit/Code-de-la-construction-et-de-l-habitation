@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-12-17
+Version Consolidée au 1998-12-22
 
 # Partie législative
 
@@ -9085,20 +9085,28 @@ L'article L. 312-3 est applicable aux chambres de commerce et d'industrie.
 Les employeurs, occupant au minimum dix salariés, à l'exception de l'Etat, des collectivités locales et de leurs
 établissements publics administratifs, assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime agricole au regard des lois sur la sécurité
-sociale pour lesquelles des règles spéciales ont été édictées en application du 3 a dudit article 231, doivent consacrer au
-financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux, de
-construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant à
-compter du 1er janvier 1991, 0,55 p. 100 et, à compter du 1er janvier 1992, 0,45 p. 100 au moins du montant, entendu au sens
-des règles prévues au chapitres Ier et II du titre IV du livre II du code de la sécurité sociale, des rémunérations versées
-par eux au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère
-industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics
-ayant le même caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant le 30 juin 1991 pourront, pour
-la fraction excédant les sommes dues avec un taux de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison
-des salaires payés en 1991.
+sociale pour lesquelles des règles spéciales ont été édictées en application du a du 3 dudit article 231, doivent consacrer
+des sommes représentant 0,45 % au moins du montant, entendu au sens des règles prévues aux chapitres Ier et II du titre IV du
+livre II du code de la sécurité sociale, des rémunérations versées par eux au cours de l'exercice écoulé au financement :
 
-Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion d'indemnités de dommages de guerre, ont investi au
-cours d'un exercice, postérieurement à l'exercice 1948, une somme supérieure à celle prévue à l'alinéa précédent peuvent
-reporter l'excédent sur les exercices postérieurs au 1er septembre 1953.
+a) De construction ou d'acquisition de logements, d'aménagement ou de remise en état de logements anciens, d'acquisition et
+d'aménagement de terrains destinés exclusivement à la construction de logements sociaux ;
+
+b) De prise en charge temporaire, en cas de difficultés exceptionnelles des emprunteurs, d'une partie des remboursements de
+prêts immobiliers destinés à l'accession sociale à la propriété ;
+
+c) D'aides directes à des personnes physiques pour le changement de logement ou le maintien dans celui-ci et l'accès au
+logement locatif, de garanties de loyer et charges apportées aux bailleurs ;
+
+d) De dépenses d'accompagnement social dans le domaine du logement ;
+
+e) D'aides à des organismes agréés d'information du public sur le logement.
+
+Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux
+organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même caractère.
+
+Les employeurs qui, au moyen de leurs ressources propres, ont investi au cours d'un exercice une somme supérieure à celle
+prévue au premier alinéa peuvent reporter l'excédent sur les exercices postérieurs.
 
 Une fraction de la somme à investir doit, dans la limite d'un neuvième, être réservée par priorité aux logements des
 travailleurs immigrés et de leurs familles.
@@ -9225,13 +9233,10 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 	  - CGI 231
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 1 V
-
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 1 () JORF 3 juillet 1998
+	  - Loi n°98-1164 1998-12-18 art. 1 I, II JORF 22 décembre 1998
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 1 () JORF 22 décembre 1998
 
 	**Anciens textes**:
 
@@ -9642,7 +9647,7 @@ articles L. 612-1 et L. 612-2.
 ###### Article L313-9
 
 En application des orientations définies annuellement par le Gouvernement, l'Agence nationale établit le programme d'emploi
-annuel des fonds mentionnés au troisième alinéa de l'article L. 313-1.
+annuel des fonds mentionnés au neuvième alinéa de l'article L. 313-1.
 
 A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
@@ -9654,7 +9659,7 @@ A cet effet, elle recueille et redistribue tout ou partie de ces fonds.
 
 	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 1 () JORF 22 décembre 1998
 
 	**Cite**:
 
@@ -9789,9 +9794,9 @@ pleine juridiction devant la juridiction administrative.
 
 Les dispositions du présent article sont en outre applicables lorsque l'association ne souscrit pas sa quote-part du capital
 de l'Union d'économie sociale du logement, ne s'acquitte pas des contributions prévues aux articles L. 313-20 et L. 313-25,
-manque de manière grave et répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° de l'article
-L. 313-19 ou réalise des opérations en méconnaissance des dispositions du 4° du même article. Toutefois, la sanction est
-prononcée par le ministre après avis de l'Agence nationale et de l'union.
+manque de manière grave et répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° et 2° bis de
+l'article L. 313-19 ou réalise des opérations en méconnaissance des dispositions du 4° du même article. Toutefois, la
+sanction est prononcée par le ministre après avis de l'Agence nationale et de l'union.
 
 En cas d'urgence, le ministre précité peut, après avis de l'Agence nationale rendu dans un délai qui ne peut excéder huit
 jours, suspendre un ou plusieurs dirigeants ou le conseil d'administration ou retirer l'agrément.
@@ -9822,8 +9827,7 @@ jours, suspendre un ou plusieurs dirigeants ou le conseil d'administration ou re
 
 	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 2 () JORF 22 décembre 1998
 
 	**Cite**:
 
@@ -9900,11 +9904,11 @@ cet organisme.
 
 Lorsque l'organisme est associé de l'Union d'économie sociale du logement et qu'il ne souscrit pas sa quote-part du capital
 de cette union, ne s'acquitte pas des contributions prévues aux articles L. 313-20 et L. 313-25, manque de manière grave et
-répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° de l'article L. 313-19 ou réalise des
-opérations en méconnaissance des dispositions du 4° du même article, l'agence nationale met l'organisme en demeure de
-prendre, dans un délai déterminé, toute mesure de redressement utile. En cas de carence de l'organisme à prendre ces mesures
-de redressement, le ministre chargé du logement peut, après avis de l'agence nationale et de l'union, retirer l'agrément de
-collecte de cet organisme.
+répétée aux recommandations de l'union, ne respecte pas les conventions prévues au 2° et 2°bis de l'article L. 313-19 ou
+réalise des opérations en méconnaissance des dispositions du 4° du même article, l'agence nationale met l'organisme en
+demeure de prendre, dans un délai déterminé, toute mesure de redressement utile. En cas de carence de l'organisme à prendre
+ces mesures de redressement, le ministre chargé du logement peut, après avis de l'agence nationale et de l'union, retirer
+l'agrément de collecte de cet organisme.
 
 En cas de retrait d'agrément, le ministre chargé du logement transfère, sur proposition ou après avis de l'agence nationale,
 la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la participation des
@@ -9930,8 +9934,7 @@ Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'app
 
 	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 2 () JORF 22 décembre 1998
 
 	**Cité par**:
 
@@ -10130,6 +10133,10 @@ les modalités d'emploi des fonds issus de la participation des employeurs à l'
 associations départementales d'information sur le logement qui ont signé une convention avec l'Etat, à l'information sur le
 logement des salariés et d'améliorer la gestion des associés collecteurs ;
 
+2° bis. Assure, à compter d'une date fixée par décret et dans des conditions fixées par convention avec l'Etat, le
+financement des aides prévues au b de l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis par le
+fonds de garantie de l'accession sociale à la propriété mentionné au troisième alinéa de l'article L. 312-1 ;.
+
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne
 peuvent déroger aux conventions ci-dessus mentionnées ;
 
@@ -10217,28 +10224,60 @@ Les statuts de l'union sont approuvés par décret en Conseil d'Etat.
 	  - Code général des impôts, CGI. - art. 1461 (V)
 	  - Code monétaire et financier - art. L612-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 2 () JORF 22 décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-1164 du 18 décembre 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°99-126 du 22 février 1999 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
 ###### Article L313-20
 
-Les stipulations des conventions prévues au 2° de l'article L. 313-19 s'imposent aux associés.
+Les stipulations des conventions prévues au 2° et au 2° bis de l'article L. 313-19 s'imposent aux associés.
 
-Pour l'exécution de ces conventions par les associés collecteurs, l'union dispose d'un fonds d'intervention qui contribue à
-la bonne adaptation des ressources des associés collecteurs aux besoins locaux, compte tenu des politiques nationales et
-locales d'emploi de la participation des employeurs à l'effort de construction. Les opérations du fonds sont retracées dans
-une comptabilité distincte.
+Pour l'exécution de ces conventions, l'Union d'économie sociale du logement dispose, d'une part, d'un fonds d'intervention
+et, d'autre part, d'un fonds de soutien.
 
-Chaque associé collecteur apporte sa contribution au fonds d'intervention. Le conseil d'administration de l'union fixe, après
+Le fonds d'intervention contribue à la bonne adaptation des ressources des associés collecteurs aux besoins locaux, compte
+tenu des politiques nationales et locales d'emploi de la participation des employeurs à l'effort de construction.
+
+Le fonds de soutien met à la disposition de la société gérant le fonds de garantie de l'accession sociale à la propriété
+mentionné au troisième alinéa de l'article L. 312-1 les sommes destinées à financer les aides prévues au 2° bis de l'article
+L. 313-19.
+
+La convention prévue au 2° bis de l'article L. 313-19 définit les modalités d'alimentation de ce fonds, ainsi que les
+modalités de prise en charge temporaire des prêts, et, notamment, la part de mensualités reportée, le nombre de mensualités
+reportées, le délai de carence et les éventuelles périodes de franchise. Elle prévoit une clause de révision dans le cas où
+les conditions d'attribution des prêts mentionnés au troisième alinéa de l'article L. 312-1 sont modifiées de manière
+substantielle.
+
+Un décret, pris après consultation de l'Union d'économie sociale du logement, fixe les règles de dotation du fonds de soutien
+par l'union, les règles régissant son fonctionnement administratif et financier, les normes de gestion destinées à garantir
+sa solvabilité et l'équilibre de sa structure financière ainsi que les ratios de couverture des risques.
+
+L'union garantit l'équilibre financier du fonds de soutien.
+
+Une convention entre l'Union d'économie sociale du logement et la société de gestion du fonds de garantie de l'accession
+sociale, homologuée par arrêté interministériel, fixe notamment le mode de calcul des sommes à verser, les conditions de
+contrôle et les modalités de mise en oeuvre de la garantie d'équilibre financier du fonds.
+
+Chaque associé collecteur apporte sa contribution à chaque fonds. Le conseil d'administration de l'union fixe, après
 consultation du comité des collecteurs mentionné à l'article L. 313-21, le montant des contributions sous la forme de
 versements, de transferts de créances constituées avec des fonds issus de la participation des employeurs à l'effort de
 construction ou d'inscriptions, au bilan de ces associés, de dettes dont le paiement à l'union est garanti par les actifs des
 associés issus de cette participation.
 
-Le fonds peut également être alimenté par toutes ressources de l'union.
+Chaque fonds peut également être alimenté par toutes ressources de l'union.
+
+Les opérations de chacun des fonds et, au sein du fonds d'intervention, de chacune des politiques d'emploi mentionnées au 2°
+de l'article L. 313-19 sont retracées dans une comptabilité distincte.
 
 **Liens relatifs à cet article**
 
@@ -10246,10 +10285,10 @@ Le fonds peut également être alimenté par toutes ressources de l'union.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°98-1164 1998-12-18 art. 3 I, II, III JORF 22 décembre 1998
+	  - Loi n°98-1164 du 18 décembre 1998 - art. 3 () JORF 22 décembre 1998
 
 	**Cité par**:
 
@@ -10293,6 +10332,7 @@ Le fonds peut également être alimenté par toutes ressources de l'union.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 	  - Code de la construction et de l'habitation. - art. L313-21 (V)
 
 
