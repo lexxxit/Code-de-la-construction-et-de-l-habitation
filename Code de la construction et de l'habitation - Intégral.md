@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-11-20
+Version Consolidée au 1991-11-29
 
 # Partie législative
 
@@ -26006,87 +26006,15 @@ pris en considération lorsqu'ils n'ont pas un caractère substantiel, ni les ma
 	  - Code de la construction et de l'habitation. - art. R*222-9 (V)
 
 
-### Titre III : Contrat de construction d'une maison individuelle
+### Titre III : Construction d'une maison individuelle.
 
-#### Chapitre unique.
+#### Chapitre Ier : Construction d'une maison individuelle avec fourniture de plan.
 
 ###### Article R*231-1
 
-Le présent titre s'applique aux contrats relatifs à la construction d'immeubles ne comportant qu'un seul logement et régis
-par les articles L. 231 et L. 231-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L231, L231-2
-	  - Code de la construction et de l'habitation. - art. L231-2 (M)
-
-
-###### Article R*231-2
-
-A tout contrat soumis au présent titre doit être joint le plan de la construction à édifier avec les coupes et élévations,
-les cotes utiles et l'indication des surfaces de chacune des pièces, des dégagements et des dépendances avec la mention des
-éléments d'équipement intérieur ou extérieur qui sont indispensables à l'implantation et à l'utilisation ou à l'habitation de
-l'immeuble en distinguant ceux de ces éléments qui sont compris dans le prix et ceux qui n'y sont pas compris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*231-3
-
-Est également annexée au contrat une notice descriptive conforme à un modèle type agréé par arrêté ministériel donnant les
-caractéristiques techniques tant de l'immeuble lui-même que des travaux d'équipement intérieur ou extérieur qui sont
-indispensables à l'implantation et à l'utilisation de l'immeuble en faisant entre ces éléments la distinction prévue à
-l'article R. 231-2 selon que ces éléments sont ou non compris dans le prix et indiquant le coût de ceux desdits éléments non
-compris dans le prix.
-
-Si, afin de tenir compte de ses frais propres et de ses diligences pour le raccordement de l'immeuble soit à l'égout, soit
-aux distributions assurées par les services publics notamment aux distributions d'eau, de gaz, d'électricité ou de chauffage,
-la personne qui se charge de la construction entend réclamer une rémunération en sus des sommes dues aux services publics
-concernés, le contrat fait état de cette rémunération et en indique le montant ou le mode de calcul.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R231-2
-
-
-###### Article R*231-4
-
-Pour l'application du d de l'alinéa 1er de l'article L. 231-1, le prix convenu s'entend [*définition*] du prix global défini
-au contrat, éventuellement révisé conformément aux articles L. 231-1-1 et L. 231-1-2.
-
-Les honoraires afférents à l'établissement du plan sont compris dans le prix convenu.
-
-Le maître de l'ouvrage doit indemnité, en sus du prix convenu, à la personne qui se charge de la construction pour les
-inconvénients que cette personne subirait de son fait. Le contrat peut prévoir une évaluation forfaitaire des indemnités dues
-par le maître de l'ouvrage en cas de retard de paiement.
+Le présent chapitre s'applique aux contrats relatifs à la construction d'un immeuble à usage d'habitation ou à usage
+professionnel et d'habitation ne comportant pas plus de deux logements destinés au même maître de l'ouvrage et régis par le
+chapitre Ier du titre III du livre II du présent code, partie Législative.
 
 **Liens relatifs à cet article**
 
@@ -26094,11 +26022,108 @@ par le maître de l'ouvrage en cas de retard de paiement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+
+###### Article R*231-2
+
+Il est satisfait aux obligations prévues au a de l'article L. 231-2 par les énonciations suivantes portées au contrat : 
+
+1. En ce qui concerne la désignation du terrain : sa situation avec l'indication de son adresse ou lieudit ainsi que sa
+surface et sa désignation cadastrale ; 
+
+2. En ce qui concerne le titre de propriété ou les droits réels permettant de construire : la nature des droits, la nature du
+titre, sa date, l'indication des nom et adresse du rédacteur de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L231-1 AL. 1 D, L231-1-1, L231-1-2
-	  - Code de la construction et de l'habitation. - art. L231-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+
+
+###### Article R*231-3
+
+En application du c de l'article L. 231-2, à tout contrat, qu'il soit ou non assorti de conditions suspensives, doit être
+joint le plan de la construction à édifier, précisant les travaux d'adaptation au sol, les coupes et élévations, les cotes
+utiles et l'indication des surfaces de chacune des pièces, des dégagements et des dépendances. Le plan indique en outre les
+raccordements aux réseaux divers décrits à la notice prévue à l'article R. 231-4 et les éléments d'équipement intérieur ou
+extérieur qui sont indispensables à l'implantation, à l'utilisation et à l'habitation de l'immeuble. 
+
+Un dessin d'une perspective de l'immeuble est joint au plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-4 (V)
+
+
+###### Article R*231-4
+
+I.-Est aussi annexée au contrat visé à l'article L. 231-2 une notice descriptive conforme à un modèle type agréé par arrêté
+du ministre chargé de la construction et de l'habitation indiquant les caractéristiques techniques tant de l'immeuble lui-
+même que des travaux d'équipement intérieur ou extérieur qui sont indispensables à l'implantation et à l'utilisation de
+l'immeuble. 
+
+II.-Cette notice fait la distinction prévue à l'article L. 231-2 (d) entre ces éléments selon que ceux-ci sont ou non compris
+dans le prix convenu. Elle indique le coût de ceux desdits éléments dont le coût n'est pas compris dans le prix. 
+
+La notice mentionne les raccordements de l'immeuble à l'égout et aux distributions assurées par les services publics,
+notamment aux distributions d'eau, de gaz, d'électricité ou de chauffage, en distinguant ceux qui sont inclus dans le prix
+et, s'il y a lieu, ceux dont le coût reste à la charge du maître de l'ouvrage. 
+
+La notice doit porter, de la main du maître de l'ouvrage, une mention signée par laquelle celui-ci précise et accepte le coût
+des travaux à sa charge qui ne sont pas compris dans le prix convenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
 
 	**Cité par**:
 
@@ -26108,16 +26133,14 @@ par le maître de l'ouvrage en cas de retard de paiement.
 
 ###### Article R*231-5
 
-L'indice mentionné à l'article L. 231-1-1 est l'index national du bâtiment tous corps d'état dénommé BT 01 , créé par le
-ministre chargé de l'économie et des finances et utilisé pour la révision des prix des marchés de construction de bâtiment.
-Il traduit la variation des côuts salariaux y compris les charges annexes, des côuts des matériaux et de leur transport, des
-côuts d'utilisation , amortissement compris, des matériels mis en oeuvre ainsi que des côuts des produits et services divers
-nécessaires à la gestion  des entreprises définis par décision du ministre chargé de l'Economie et des Finances et publiés au
-Bulletin officiel de la concurrence et de la consommation.
+Pour l'application du d de l'article L. 231-2, le prix convenu s'entend du prix global défini au contrat éventuellement
+révisé ; il inclut en particulier : 
 
-L'index BT 01 est publié mensuellement au Journal officiel par le ministre chargé de la construction et de l'habitation.
+1. Le coût de la garantie de livraison et, s'il y a lieu, celui de la garantie de remboursement ; 
 
-La limite mentinnée à l'article L. 231-1-1 est fixée à 70 p.  100.
+2. Le coût du plan et, s'il y a lieu, les frais d'études du terrain pour l'implantation du bâtiment ; 
+
+3. Le montant des taxes dues par le constructeur sur le coût de la construction.
 
 **Liens relatifs à cet article**
 
@@ -26125,36 +26148,31 @@ La limite mentinnée à l'article L. 231-1-1 est fixée à 70 p.  100.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
 	**Modifié par**:
 
-	  - Décret n°85-829 1985-07-29 art. 2 JORF 3 aout 1985
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L231-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
 
 
 ###### Article R*231-6
 
-"Le pourcentage maximum du prix total, exigible aux différents stades de la construction d'après l'état d'avancement des
-travaux, est fixé, par application du troisième alinéa de l'article L. 242-2, de la manière suivante :
+L'indice mentionné à l'article L. 231-11 est l'index national du bâtiment tous corps d'état dénommé BT 01, créé par le
+ministre chargé de l'économie et des finances et utilisé pour la révision des prix des marchés de construction de bâtiment.
+Il traduit la variation des coûts salariaux, y compris les charges annexes, des coûts des matériaux et leur transport, des
+coûts d'utilisation, amortissement compris, des matériels mis en oeuvre ainsi que des coûts des produits et services divers
+nécessaires à la gestion des entreprises définis par décision du ministre chargé de l'économie et des finances et publiés au
+Bulletin officiel de la concurrence et de la consommation.
 
-"  5 p. 100 [*pourcentage*] à la signature du contrat ;
+L'index BT 01 est publié mensuellement au Journal officiel par le ministre chargé de la construction et de l'habitation.
 
-" 15 p. 100 à la délivrance du permis de construire ;
-
-" 25 p. 100 à l'achèvement des fondations ;
-
-" 40 p. 100 à l'achèvement des murs ;
-
-" 60 p. 100 à la mise hors d'eau ;
-
-" 75 p. 100 à l'achèvement des cloisons et à la mise hors d'air ;
-
-" 95 p. 100 à l'achèvement des travaux d'équipement, de plomberie, de menuiserie et de chauffage.
-
-" Le solde est payable à la réception des travaux. Toutefois, lorsque le maître de l'ouvrage a fait des réserves lors de la
-réception, une somme égale à 5 p. 100 du prix convenu est consignée jusqu'à la levée de ces réserves. "
+La limite mentionnée à l'article L. 231-11 est fixée à 70 p. 100.
 
 **Liens relatifs à cet article**
 
@@ -26162,9 +26180,13 @@ réception, une somme égale à 5 p. 100 du prix convenu est consignée jusqu'à
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
 	**Modifié par**:
 
-	  - Décret n°89-700 1989-09-26 art. 1 JORF 27 septembre 1989
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cité par**:
 
@@ -26172,27 +26194,58 @@ réception, une somme égale à 5 p. 100 du prix convenu est consignée jusqu'à
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L242-2 (M)
+	  - Code de la construction et de l'habitation. - art. L231-11 (V)
 
 
 ###### Article R*231-7
 
-La demande d'exécution des travaux au premier alinéa de l'article L. 231-2 est valablement faite par lettre recommandée avec
-demande d'avis de réception.
+I.-Le pourcentage maximum du prix convenu, exigible aux différents stades de la construction d'après l'état d'avancement des
+travaux, est fixé, par application du troisième alinéa de l'article L. 242-2, de la manière suivante : 
+
+15% à l'ouverture du chantier, pourcentage incluant éventuellement celui du dépôt de garantie ; 
+
+25% à l'achèvement des fondations ; 
+
+40% à l'achèvement des murs ; 
+
+60% à la mise hors d'eau ; 
+
+75% à l'achèvement des cloisons et à la mise hors d'air ; 
+
+95% à l'achèvement des travaux d'équipement, de plomberie, de menuiserie et de chauffage. 
+
+II.-Le solde du prix est payable dans les conditions suivantes : 
+
+1. Lorsque le maître de l'ouvrage se fait assister, lors de la réception, par un professionnel mentionné à l'article L.
+231-8, à la levée des réserves qui ont été formulées à la réception ou, si aucune réserve n'a été formulée, à l'issue de la
+réception ; 
+
+2. Lorsque le maître de l'ouvrage ne se fait pas assister par un professionnel pour la réception, dans les huit jours qui
+suivent la remise des clés consécutive à la réception, si aucune réserve n'a été formulée, ou, si des réserves ont été
+formulées, à la levée de celles-ci. 
+
+Dans le cas où des réserves sont formulées, une somme au plus égale à 5% du prix convenu est, jusqu'à la levée des réserves,
+consignée entre les mains d'un consignataire accepté par les deux parties ou, à défaut, désigné par le président du tribunal
+de grande instance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L231-2 (M)
+	  - Code de la construction et de l'habitation. - art. L231-8 (V)
+	  - Code de la construction et de l'habitation. - art. L242-2 (V)
 
 	**Cité par**:
 
@@ -26201,14 +26254,23 @@ demande d'avis de réception.
 
 ###### Article R*231-8
 
-Pour garantir la bonne exécution de sa mission, la personne qui s'est chargée de la construction doit justifier d'une
-garantie de remboursement et d'une garantie de livraison au prix convenu, dans les limites et conditions définies au présent
-article et aux articles suivants du présent chapitre.    " La garantie de remboursement est donnée pour le cas où soit les
-autorisations administratives, soit les prêts ne seraient pas obtenus. Elle porte sur les sommes que le maître de l'ouvrage a
-versées avant la date mentionnée à l'article L. 231-1-2. "
+I. - Lorsque le contrat n'a pas stipulé un dépôt de garantie conforme à l'article L. 231-4-III, il prévoit un paiement
+n'excédant pas 5 p. 100 du prix convenu de la construction au jour de la signature ainsi qu'un paiement n'excédant pas 5 p.
+100 dudit prix à la délivrance du permis de construire. En ce cas une attestation de garantie de remboursement est annexée au
+contrat.
 
-La garantie de livraison au prix convenu a pour but de protéger le maître de l'ouvrage contre les risques d'inexécution ou de
-mauvaise exécution de la construction telle qu'elle est prévue au contrat.
+II. - La garantie de remboursement est constituée par une caution solidaire donnée par un établissement de crédit ou une
+entreprise d'assurance agréés à cet effet.
+
+La garantie est donnée :
+
+1. Pour le cas où le contrat ne peut être exécuté faute de réalisation des conditions suspensives dans le délai prévu ;
+
+2. Pour le cas où le chantier n'est pas ouvert à la date convenue ;
+
+3. Pour le cas où le maître de l'ouvrage exerce la faculté de rétractation prévue à l'article L. 271-1.
+
+Cette garantie prend fin à la date d'ouverture du chantier.
 
 **Liens relatifs à cet article**
 
@@ -26216,34 +26278,32 @@ mauvaise exécution de la construction telle qu'elle est prévue au contrat.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
 	**Modifié par**:
 
-	  - Décret n°89-700 1989-09-26 art. 2 JORF 27 septembre 1989
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 
 ###### Article R*231-9
 
-Dans le cas où le contrat contient une clause permettant à l'une ou à l'autre des parties de le résilier dans le mois de la
-signature, la garantie de remboursement prévue au deuxième alinéa de l'article R. 231-8 est étendue au remboursement des
-sommes versées par le maître de l'ouvrage avant la résiliation du contrat.
+La déclaration d'ouverture du chantier est notifiée par le constructeur à l'établissement garant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation R231-8
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cité par**:
 
@@ -26252,17 +26312,7 @@ sommes versées par le maître de l'ouvrage avant la résiliation du contrat.
 
 ###### Article R*231-10
 
-" La garantie de remboursement prévue aux articles R. 231-8 et R. 231-9 est constituée :
-
-" 1. Soit par une convention de cautionnement dans laquelle un établissement de crédit ou une entreprise d'assurance agréée à
-cet effet s'oblige, solidairement avec la personne qui s'est chargée de la construction, à rembourser les versements
-effectués par le maître de l'ouvrage au cas où ce remboursement serait dû ;
-
-" 2. Soit par la consignation de la somme versée avant la date fixée à l'article L. 231-1-2. La personne qui se charge de la
-construction doit, dans les huit jours qui suivent le versement, donner justification au maître de l'ouvrage de la
-consignation au bénéfice de ce dernier en précisant la date de celle-ci ainsi que le nom et l'adresse du consignataire.
-
-" La garantie de remboursement prend fin à la date d'ouverture du chantier. "
+Les mises en demeure visées au II de l'article L. 231-6 sont faites par acte d'huissier.
 
 **Liens relatifs à cet article**
 
@@ -26270,36 +26320,23 @@ consignation au bénéfice de ce dernier en précisant la date de celle-ci ainsi
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
 	**Modifié par**:
 
-	  - Décret n°89-700 1989-09-26 art. 3 JORF 27 septembre 1989
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R231-8, R231-9, L231-1-2
-	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
-	  - Loi n°1917-03-13
+	  - Code de la construction et de l'habitation. - art. L231-6 (V)
 
 
 ###### Article R*231-11
 
-"La garantie de livraison au prix convenu prévue à l'article R. 231-8 est constituée par une convention de cautionnement dans
-laquelle un établissement de crédit ou une entreprise d'assurance agréée à cet effet s'oblige, à compter de la date
-d'ouverture du chantier, à achever l'exécution du contrat. A cet effet, la déclaration d'ouverture du chantier est notifiée
-par la personne qui s'est chargée de la construction à l'établissement garant. Dans les huit jours de la réception de cette
-déclaration, l'établissement garant délivre une attestation de caution au maître de l'ouvrage au titre de chaque
-construction. "
-
-Si la personne qui s'est chargée de la construction justifie qu'elle est couverte contre les conséquences pécuniaires de la
-responsabilité civile professionnelle qu'elle peut encourir en raison de son activité et de la responsabilité mise à sa
-charge par les articles 1792 et 2270 du code civil, reproduits aux articles L. 111-13 et L. 111-20 du présent code, par un
-contrat souscrit par elle auprès d'une société d'assurance ou d'un assureur agréé en application des articles L. 321-1 et L.
-321-2 du code des assurances, le garant n'est tenu à l'égard du maître de l'ouvrage que des dépassements du prix convenu
-excédant 5 p. 100 dudit prix 
-
-En aucun cas, le remboursement des sommes versées en exécution du présent article ne peut être demandé au maître de
-l'ouvrage. La garantie cesse lorsque la réception des travaux a lieu sans réserves ou, en cas de réserves, lorsque ces
-réserves ont été levées.
+La demande d'exécution des travaux prévus à l'article L. 231-7 est valablement faite par lettre recommandée avec demande
+d'avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -26307,41 +26344,37 @@ réserves ont été levées.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
 	**Modifié par**:
 
-	  - Décret n°89-700 1989-09-26 art. 4 JORF 27 septembre 1989
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cite**:
 
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 2270 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-2 (M)
-	  - Code de la construction et de l'habitation L111-13, L111-20, R231-8
-	  - Code de la construction et de l'habitation. - art. L111-13 (V)
-	  - Code de la construction et de l'habitation. - art. L111-20 (V)
-	  - Loi n°1917-03-13
+	  - Code de la construction et de l'habitation. - art. L231-7 (V)
 
 
 ###### Article R*231-12
 
-Lorsque par suite de la défaillance de la personne qui s'est chargée de la construction, les travaux ne sont pas achevés dans
-le délai contractuel d'exécution, l'organisme garant peut, à son choix, verser les sommes excédant le prix convenu qui sont
-nécessaires à la réalisation de la construction faisant l'objet du contrat en cours :
-
-- soit au maître de l'ouvrage ;
-
-- soit à la personne que ledit organisme aura choisie pour se substituer à la personne défaillante.
+La copie des contrats de sous-traitance est adressée à l'établissement garant dans les huit jours de la signature de ces
+contrats.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cité par**:
 
@@ -26350,89 +26383,227 @@ nécessaires à la réalisation de la construction faisant l'objet du contrat en
 
 ###### Article R*231-13
 
-Le contrat précise les modalités d'application des articles R. 231-8 à R. 231-12 compte tenu des modes de garantie choisis
-par la personne qui s'est chargée de la construction.
+Sont approuvées les clauses types mentionnées au dernier alinéa de l'article L. 231-2 et figurant en annexe au présent code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation R231-8 à R231-12
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
 
-
-###### Article R*231-14
-
-Lorsque la construction est réalisée par un groupement d'entreprises, le contrat peut désigner un membre du groupement qui
-est réputé s'être chargé de la totalité de la construction, en ce qui concerne les garanties prévues aux articles R. 231-8 à
-R. 231-13. La défaillance du membre du groupement ainsi désigné autorise le maître de l'ouvrage à user des garanties prévues
-au contrat sans le priver des recours qu'il pourrait éventuellement exercer contre chacune des entreprises ayant réalisé la
-construction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R231-8 à R231-13
-
-
-###### Article R*231-15
-
-La personne qui s'est chargée de la construction est dispensée de fournir la caution prévue à l'article R. 231-11 si les
-paiements sont faits en fonction de l'état d'avancement des travaux justifié selon les modalités prévues au contrat et si le
-montant cumulé de ces paiements n'excède pas :
-
-3 p. 100 du prix convenu à la signature du contrat ;
-
-20 p. 100 à l'achèvement des fondations ;
-
-45 p. 100 à la mise hors d'eau ;
-
-75 p. 100 à l'achèvement des travaux d'équipement, de plomberie, de menuiserie et de chauffage.
-
-Le solde est payable à la réception des travaux. Toutefois, lorsque le maître de l'ouvrage a fait des réserves lors de cette
-réception, une somme au plus égale à 15 p. 100 du prix convenu peut être consignée par le maître de l'ouvrage jusqu'à la
-levée de ces réserves.
-
-La personne qui s'est chargée de la construction peut exiger que le maître de l'ouvrage, préalablement à l'ouverture du
-chantier, constitue un dépôt de garantie ne pouvant excéder 15 p. 100 du prix convenu. Ce dépôt de garantie est fait à un
-compte particulier, ouvert au nom du maître de l'ouvrage dans une banque ou un établissement financier habilité à cet effet,
-ou chez un notaire. A la réception des travaux, le maître de l'ouvrage dispose de cette somme pour régler le prix du contrat,
-sauf si le dépôt est maintenu, en tout ou en partie, pour tenir lieu de la consignation mentionnée à l'alinéa précédent pour
-le cas de réception avec réserves.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R231-11
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+
+
+###### Article R*231-14
+
+En cas de retard de livraison, les pénalités prévues au i de l'article L. 231-2 ne peuvent être fixées à un montant inférieur
+à 1/3 000 du prix convenu par jour de retard. 
+
+Le contrat peut prévoir à la charge du maître de l'ouvrage une pénalité pour retard de paiement. Toutefois, le taux de celle-
+ci ne peut excéder 1% par mois calculé sur les sommes non réglées si la pénalité pour retard de livraison est limitée à 1/3
+000 du prix par jour de retard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1202 1991-11-27 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°91-1202 du 27 novembre 1991 - art. 1 () JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+
+
+#### Chapitre II : Construction d'une maison individuelle sans fourniture de plan.
+
+###### Article R*232-1
+
+Le présent chapitre s'applique aux contrats ayant au moins pour objet l'exécution de gros oeuvre, de mise hors d'eau et hors
+d'air d'un immeuble à usage d'habitation ou à usage professionnel et d'habitation, ne comportant pas plus de deux logements
+destinés au même maître de l'ouvrage et régis par le chapitre II du titre III du livre II du présent code, partie
+Législative, par exclusion des contrats de construction avec fourniture de plan régis par les dispositions du chapitre Ier du
+présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+
+###### Article R*232-2
+
+Dans l'hypothèse où un plan a été établi pour la réalisation des travaux prévus par un contrat relevant du présent chapitre,
+le maître de l'ouvrage doit indiquer le nom ou la raison sociale ainsi que l'adresse de l'auteur de ce plan. Le plan est
+joint au contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+
+###### Article R*232-3
+
+La désignation du terrain prévue au a de l'article L. 232-1 résulte de l'indication de son adresse ou lieudit, de sa surface
+et de sa désignation cadastrale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
+
+
+###### Article R*232-4
+
+La consistance et les caractéristiques techniques de l'immeuble à réaliser sont décrites dans une notice analogue à celle qui
+est mentionnée au I de l'article R. 231-4. Cette notice est annexée au contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*231-4 (V)
+
+
+###### Article R*232-5
+
+En application du c de l'article L. 232-1, le contrat prévoit l'échelonnement des paiements au fur et à mesure de l'exécution
+des travaux. 
+
+Un solde de 5 % du prix est payable à l'expiration de la garantie de livraison dans les conditions analogues à celles qui
+sont fixées au II de l'article R. 231-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-7 (V)
+
+
+###### Article R*232-6
+
+Les dispositions des articles R. 231-9, R. 231-10 et R. 231-12 sont applicables au contrat prévu au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1201 1991-11-27 art. 2
+
+	**Créé par**:
+
+	  - Décret n°91-1201 du 27 novembre 1991 - art. 1 (V) JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*231-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-9 (V)
+
+
+###### Article R*232-7
+
+En cas de retard de livraison, les pénalités prévues au d de l'article L. 232-1 ne peuvent être fixées à un montant inférieur
+à 1/3 000 du prix convenu par jour de retard. 
+
+Le contrat peut prévoir à la charge du maître de l'ouvrage une pénalité pour retard de paiement. Toutefois, le taux de celle-
+ci ne peut excéder 1% par mois calculé sur les sommes non réglées si la pénalité pour retard de livraison est limitée à 1/3
+000 du prix par jour de retard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1202 1991-11-27 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-1202 du 27 novembre 1991 - art. 1 () JORF 29 novembre 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
 
 
 ### Titre V : Bail à construction
