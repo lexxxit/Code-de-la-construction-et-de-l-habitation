@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2001-12-01
 
 # Partie législative
 
@@ -52257,8 +52257,8 @@ Soit enfants du bénéficiaire ou de son conjoint.
 ###### Article R351-7
 
 I. - Il est procédé à une évaluation forfaitaire des ressources du bénéficiaire et, le cas échéant, de son conjoint, dès lors
-que l'un ou l'autre perçoit une rémunération mensuelle et ne perçoit pas l'allocation mentionnée à l'article 4 de la loi n°
-88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion :
+que l'un ou l'autre perçoit une rémunération mensuelle et ne perçoit ni l'allocation mentionnée à l'article L. 262-3 du code
+de l'action sociale et des familles ni l'allocation mentionnée à l'article L. 821-1 du code de la sécurité sociale :
 
 a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et, le cas échéant, de son conjoint, perçues au
 titre de l'année civile de référence et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à 812
@@ -52269,9 +52269,10 @@ b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du
 c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
 conformément à l'article R. 351-5 pendant l'année civile de référence.
 
-La condition relative à l'existence d'une activité professionnelle rémunérée ou à la perception de l'allocation mentionnée à
-l'article 4 de la loi du 1er décembre 1988 précitée est appréciée au cours du mois civil précédant l'ouverture du droit ou du
-mois de mai précédant le renouvellement du droit.
+La condition relative à l'existence d'une activité professionnelle rémunérée, à la perception de l'allocation mentionnée à
+l'article L. 262-3 du code de l'action sociale et des familles ou à celle de l'allocation mentionnée à l'article L. 821-1 du
+code de la sécurité sociale est appréciée au cours du mois civil précédant l'ouverture du droit ou du mois de mai précédant
+le renouvellement du droit.
 
 II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
 précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
@@ -52292,12 +52293,11 @@ Pour une personne titulaire d'un contrat de travail autre qu'un contrat à duré
 ans à la date de l'ouverture ou du renouvellement du droit ou de la demande de révision mentionnée à l'alinéa précédent,
 l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la rémunération mensuelle considérée.
 
-**Nota:**
-
-[*NOTA : Décret 2000-635 2000-07-07 art. 7 : les dispositions du présent décret sont applicables à compter du 1er juillet
-2000, à l'exception des dispositions du 3° de l'article 3 créant le III qui entreront en vigueur le 1er octobre 2000.*]
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -52305,7 +52305,6 @@ l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la ré
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - SPEC_APPLI: Décret n°2000-635 du 7 juillet 2000 - art. 7 (V)
 
 	**Cité par**:
 
@@ -52331,60 +52330,16 @@ l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la ré
 
 	**Cite**:
 
-	  - CGI 158
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
-	  - Code de la construction et de l'habitation R351-5, 83
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - CGI 83, 158
+	  - Code de la sécurité sociale. - art. L821-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-3 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 3 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 1 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
 
 
 ##### Sous-section 3 : Conditions particulières.
-
-###### Article R351-11
-
-Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
-de résidence séparée imposée par ses conditions de travail, il est procédé, à partir du premier jour du mois civil suivant
-celui au cours duquel ces charges apparaissent, à un abattement forfaitaire sur les ressources du ménage déterminées dans les
-conditions prévues aux articles R. 351-5 et R. 351-7. Le montant de cet abattement est fixé par arrêté conjoint des ministres
-chargés de la sécurité sociale, du budget, de l'agriculture et du logement.
-
-Lorsque les charges de loyer supplémentaires disparaissent, l'abattement prévu au premier alinéa est supprimé à partir du
-premier jour du mois civil au cours duquel lesdites charges disparaissent [*date d'effet*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 bis (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 quater (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 ter (M)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-65 (V)
-
-	**Modifié par**:
-
-	  - Décret n°97-79 du 30 janvier 1997 - art. 4 () JORF 31 janvier 1997 en vigueur le 1er février 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
 
 ###### Article R351-12
 
@@ -52499,7 +52454,7 @@ La participation personnelle est la somme d'une participation minimale et du ré
 participation aux ressources du bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un montant fixé
 forfaitairement. Ce forfait est calculé, dans les conditions fixées par arrêté conjoint des ministres chargés du logement, du
 budget, de la sécurité sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum d'insertion, fixé en
-application de l'article 3 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
+application de l'article L. 262-2 du code de l'action sociale et des familles.
 
 La participation minimale est définie par le même arrêté.
 
@@ -52517,14 +52472,14 @@ Les ressources sont appréciées conformément à l'article R. 351-5 et arrondie
 	  - Arrêté du 26 décembre 2016 (V)
 	  - Code de la construction et de l'habitation. - art. R351-17-5 (V)
 
-	**Cite**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 3 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2000-1273 du 26 décembre 2000 - art. 1 () JORF 28 décembre 2000
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 3 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
 ##### PARAGRAPHE II : Dispositions relatives aux propriétaires.
@@ -52812,49 +52767,6 @@ montants sont arrondis au franc le plus proche.
 	  - Arrêté du 30 décembre 2010 - art. 4 (V)
 	  - Code de la construction et de l'habitation. - art. R351-28-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-
-
-##### Sous-section 7 : Dispositions diverses.
-
-###### Article R351-29
-
-Pour l'application de la présente section :
-
-- est assimilé au conjoint mentionné aux articles R. 351-1, R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10, R. 351-12 à R.
-351-14-1, R. 351-17 et R. 351-28-1, la personne vivant en concubinage avec le bénéficiaire de l'aide personnalisée au
-logement ou le partenaire lié à celui-ci par un pacte civil de solidarité ;
-
-- la notion de couple mentionnée à l'article R. 351-16 s'applique aux personnes mariées, vivant en concubinage ou liées par
-un pacte civil de solidarité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999
-	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999 - art. 1 ()
-
-	**Modifié par**:
-
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 6 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-1, R351-1-1, R351-5 à R351-8, R351-10, R351-12 à R351-14-1, R351-17, R351-28-1, R351-16
-	  - Code de la construction et de l'habitation. - art. R351-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-16 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17 (M)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
 ##### Section 1 : Aide personnalisée
@@ -53347,6 +53259,49 @@ est supprimé à partir du premier jour du mois civil au cours duquel intervient
 	**Modifié par**:
 
 	  - Décret n°88-516 1988-05-03 art. 2 2. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+
+
+###### Article R351-11
+
+Lorsque le bénéficiaire justifie qu'en raison d'obligations professionnelles, lui-même ou, le cas échéant, son conjoint est
+contraint d'occuper de manière habituelle un logement distinct de celui de son ou de leur lieu de résidence principale et
+qu'il supporte des charges de loyer supplémentaires afférentes à ce logement, il est procédé à un abattement forfaitaire sur
+les ressources de la personne ou du ménage déterminées dans les conditions prévues aux articles R. 351-5 et R. 351-7.
+
+L'abattement est appliqué à compter du premier jour du mois civil suivant celui au cours duquel le bénéficiaire doit
+supporter ces charges. Il est supprimé à compter du premier jour du mois civil au cours duquel le bénéficiaire cesse de les
+supporter.
+
+Le montant de cet abattement est fixé par un arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
+l'agriculture et du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 bis (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 quater (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 ter (M)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-65 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 2 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ###### Article R351-13-1
@@ -54400,6 +54355,46 @@ au I.
 	  - Code de la construction et de l'habitation. - art. R351-30 (M)
 
 
+###### Article R351-29
+
+Pour l'application de la présente section :
+
+- est assimilé au conjoint mentionné aux articles R. 351-1, R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10 à R. 351-14-1, R.
+351-17 et R. 351-28-1, la personne vivant en concubinage avec le bénéficiaire de l'aide personnalisée au logement ou le
+partenaire lié à celui-ci par un pacte civil de solidarité ;
+
+- la notion de couple mentionnée à l'article R. 351-16 s'applique aux personnes mariées, vivant en concubinage ou liées par
+un pacte civil de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999
+	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 4 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-1, R351-1-1, R351-5 à R351-8, R351-10 à R351-14-1, R351-17, R351-28-1, R351-16
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-16 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-66 (M)
+
+
 ###### Article R351-32
 
 Un décret fixe les modalités d'application de la présente section aux personnes résidant dans les départements d'outre-mer
@@ -54809,6 +54804,37 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 
 ##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
 
+###### Article R*351-48
+
+La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le préfet ou son
+représentant.
+
+Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
+travail, de l'emploi et de la politique sociale agricoles compétent, du directeur départemental des affaires sanitaires et
+sociales, du président du conseil d'administration de la caisse d'allocations familiales concernée, du président du conseil
+d'administration de la caisse de mutualité sociale agricole compétente ou de leurs représentants respectifs, de deux
+représentants des usagers désignés par le préfet sur proposition des organisations les plus représentatives au niveau du
+département, d'un représentant désigné par le conseil général et d'un représentant de l'union départementale des associations
+familiales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 5 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-37 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
 ###### Article R351-47
 
 Les compétences prévues à l'article L. 351-14 sont exercées par la section des aides publiques au logement du conseil
@@ -54994,39 +55020,6 @@ logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
-
-###### Article R*351-48
-
-La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le préfet ou son
-représentant.
-
-Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
-travail, de l'emploi et de la politique sociale agricoles compétent, du directeur régional des affaires sanitaires et
-sociales compétent, du directeur départemental des affaires sanitaires et sociales, du président du conseil d'administration
-de la caisse d'allocations familiales concernée, du président du conseil d'administration de la caisse de mutualité sociale
-agricole compétente ou de leurs représentants respectifs, de deux représentants des usagers désignés par le préfet sur
-proposition des organisations les plus représentatives au niveau du département, d'un représentant désigné par le conseil
-général et d'un représentant de l'union départementale des associations familiales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°95-638 du 6 mai 1995 - art. 2 () JORF 7 mai 1995
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-37 (M)
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
@@ -55339,6 +55332,29 @@ familiales.
 	  - Code de la construction et de l'habitation. - art. R351-11 (M)
 
 
+###### Article R351-66
+
+Les articles R. 351-4 à R. 351-16, R. 351-17, R. 351-17-1, R. 351-22 à R. 351-26, R. 351-28 à R. 351-29 et R. 351-32 sont
+applicables aux personnes résidant dans un logement foyer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 6 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-4 à R351-16, R351-17, R351-17-1, R351-22 à R351-26, R351-28 à R351-29, R351-32
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-32 (M)
+
+
 ##### Section 4 : Dispositions particulières aux logements-foyers.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
@@ -55605,25 +55621,6 @@ entièrement refondu en 1997 et ces termes supprimés.
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-
-###### Article R351-66
-
-Les articles R. 351-4 à R. 351-10, R. 351-12 à R. 351-17, R. 351-22 à R. 351-26, R. 351-28, R. 351-29 et R. 351-32 sont
-applicables aux personnes résidant dans un logement-foyer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-4 à R351-10, R351-12 à R351-17, R351-22 à R351-26, R351-28, R351-29, R351-32
-	  - Code de la construction et de l'habitation. - art. R351-28 (M)
-	  - Code de la construction et de l'habitation. - art. R351-29 (M)
-	  - Code de la construction et de l'habitation. - art. R351-32 (M)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
