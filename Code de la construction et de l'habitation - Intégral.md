@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-10-30
+Version Consolidée au 1999-12-12
 
 # Partie législative
 
@@ -3087,9 +3087,9 @@ l'exception des articles L. 111-5, L. 111-6, L. 111-7 à L. 111-8-3, L. 111-9 à
 - aux articles L. 111-8 et L. 111-8-2, les références au code de l'urbanisme sont supprimées et les mots : "permis de
 construire" sont remplacés par les mots : "autorisation de construire" ;
 
-- à l'article L. 118-8-2, les mots : "ladite autorisation" sont remplacés par les mots : "cette dernière autorisation" ;
+- à l'article L. 111-8-2, les mots : "ladite autorisation" sont remplacés par les mots : "cette dernière autorisation" ;
 
-- à l'article L. 125-2, la date de mise en conformité des installations est fixée au 31 décembre 2001.
+- à l'article L. 125-2, la date : "31 décembre 1992" est remplacée par la date : "31 décembre 2001".
 
 **Liens relatifs à cet article**
 
@@ -3097,13 +3097,13 @@ construire" sont remplacés par les mots : "autorisation de construire" ;
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°98-521 du 24 juin 1998 - art. 1 () JORF 27 juin 1998 en vigueur le 27 décembre 1998
+	  - Loi n°99-1038 du 9 décembre 1999 - art. 3 () JORF 12 décembre 1999
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1, L125-2, L131-1 à L131-6, L111-8, L111-8-2, L118-8-2
+	  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1, L125-2, L131-1 à L131-6, L111-8, L111-8-2
 	  - Code de la construction et de l'habitation. - art. L111-5 (M)
 	  - Code de la construction et de l'habitation. - art. L111-6 (M)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
