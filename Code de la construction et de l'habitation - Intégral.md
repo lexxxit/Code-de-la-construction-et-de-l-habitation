@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-07-03
+Version Consolidée au 2003-07-22
 
 # Partie législative
 
@@ -23069,6 +23069,31 @@ d'économie mixte locales versent à la Caisse de garantie du logement locatif s
 
 	  - Loi n°2000-1208 2000-12-13 art. 165 2° JORF 14 décembre 2000
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 165
+
+
+###### Article L472-1-6
+
+Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, lorsque les logements locatifs
+sociaux font l'objet de travaux d'amélioration avec le concours financier de l'Etat prévu aux articles R. 323-13 à R. 323-21,
+il n'est pas fait application des dispositions de la seconde phrase du quatrième alinéa de l'article L. 442-1. Le bailleur
+peut, dans les limites déterminées par l'autorité administrative, fixer, à compter de la date d'achèvement des travaux, un
+nouveau loyer qui est applicable dès sa notification aux titulaires de baux en cours ou aux bénéficiaires du droit au
+maintien dans les lieux sans qu'il soit nécessaire de leur donner congé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 45 () JORF 22 juillet 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R323-13 à R323-21, L442-1
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
 ###### Article L472-2
