@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-11-27
+Version Consolidée au 2004-12-10
 
 # Partie législative
 
@@ -3368,6 +3368,163 @@ n'ont pas satisfait aux obligations du présent chapitre.
 	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
 
 
+#### Chapitre IV : Diagnostic de performance énergétique
+
+###### Article L134-1
+
+Le diagnostic de performance énergétique d'un bâtiment ou d'une partie de bâtiment est un document qui comprend la quantité
+d'énergie effectivement consommée ou estimée pour une utilisation standardisée du bâtiment ou de la partie de bâtiment et une
+classification en fonction de valeurs de référence afin que les consommateurs puissent comparer et évaluer sa performance
+énergétique. Il est accompagné de recommandations destinées à améliorer cette performance.
+
+Il est établi par une personne physique ou morale satisfaisant à des critères de compétence définis par décret en Conseil
+d'Etat.
+
+Les activités de cette personne doivent être couvertes par une assurance contre les conséquences de sa responsabilité
+professionnelle. Elle ne doit avoir aucun lien de nature â porter atteinte à son impartialité et à son indépendance ni avec
+le ou les propriétaires ou leurs mandataires qui font appel à elle, ni avec une entreprise susceptible d'effectuer des
+travaux sur les ouvrages, installations ou équipements pour lesquels elle réalise le diagnostic.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 24-4 (VD)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-2 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-3 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-1 (V)
+	  - Arrêté du 24 décembre 2012 - art. 1 (VD)
+	  - Décret n°2016-412 du 7 avril 2016 - art. 1
+	  - Code de l'énergie - art. L231-2 (VD)
+	  - Code de l'énergie - art. R234-5 (V)
+	  - Code de la construction et de l'habitation. - art. L134-2 (V)
+	  - Code de la construction et de l'habitation. - art. L134-3 (M)
+	  - Code de la construction et de l'habitation. - art. L134-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L134-4 (V)
+	  - Code de la construction et de l'habitation. - art. L134-5 (V)
+	  - Code de la construction et de l'habitation. - art. L271-4 (V)
+	  - Code de la construction et de l'habitation. - art. L271-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*134-5-5 (V)
+	  - Code de la construction et de l'habitation. - art. R131-28-4 (V)
+	  - Code de la construction et de l'habitation. - art. R134-4-1 (T)
+	  - Code de la construction et de l'habitation. - art. R134-4-3 (V)
+	  - Code de la construction et de l'habitation. - art. R443-11-1 (VD)
+	  - Code général des impôts, CGI. - art. 200 quater (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+
+
+###### Article L134-2
+
+Lors de la construction d'un bâtiment ou d'une extension de bâtiment, le maître de l'ouvrage fait établir le diagnostic
+mentionné à l'article L. 134-1. Il le remet au propriétaire du bâtiment au plus tard à la réception de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 9 (V)
+	  - Arrêté du 28 décembre 2012 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20 (V)
+	  - Code de la construction et de l'habitation. - art. R134-4-1 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L134-1 (M)
+
+
+###### Article L134-3
+
+I. - A compter du 1er juillet 2006, les candidats acquéreurs peuvent obtenir du vendeur d'un bâtiment ou d'une partie d'un
+bâtiment communication du diagnostic mentionné à l'article L. 134-1. Ce diagnostic, fourni par le vendeur, est annexé à toute
+promesse de vente ou, à défaut de promesse, à l'acte authentique de vente.
+
+II. - A compter du 1er juillet 2007, les candidats locataires peuvent obtenir du bailleur d'un bâtiment ou d'une partie d'un
+bâtiment communication du diagnostic mentionné à l'article L. 134-1.
+
+A compter de la même date, ce diagnostic est annexé à tout nouveau contrat de location aux frais du bailleur.
+
+III. - Le diagnostic visé au présent article doit avoir été établi depuis moins de dix ans. Lorsque l'objet de la vente ou de
+la location est un lot de copropriété, le diagnostic porte exclusivement sur la partie privative du lot.
+
+IV. - Le diagnostic de performance énergétique n'a qu'une valeur informative. L'acquéreur ou le locataire ne peut se
+prévaloir des informations contenues dans ce diagnostic à l'encontre du propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 avril 2012 - art. 4 (VD)
+	  - Code de la construction et de l'habitation. - art. L731-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R134-4-1 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L134-1 (M)
+
+
+###### Article L134-4
+
+Dans certaines catégories de bâtiments, le propriétaire ou, s'il y a lieu, le gestionnaire affiche à l'intention du public le
+diagnostic mentionné à l'article L. 134-1 datant de moins de dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L134-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L271-6 (V)
+	  - Code de la construction et de l'habitation. - art. R134-4-3 (V)
+
+
+###### Article L134-5
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+
+
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
 
 #### Chapitre II : Etudes et recherches techniques intéressant les industries du bâtiment.
@@ -6515,25 +6672,26 @@ emprunteurs dans le domaine immobilier.
 ###### Article L231-13
 
 Le constructeur est tenu de conclure par écrit les contrats de sous-traitance avant tout commencement d'exécution des travaux
-à la charge du sous-traitant. Ces contrats comportent les énonciations suivantes :
+à la charge du sous-traitant. Ces contrats comportent les énonciations suivantes : 
 
 a) La désignation de la construction ainsi que les nom et adresse du maître de l'ouvrage et de l'établissement qui apporte la
-garantie prévue à l'article L. 231-6 ;
+garantie prévue à l'article L. 231-6 ; 
 
-b) La description des travaux qui en font l'objet, conforme aux énonciations du contrat de construction ;
+b) La description des travaux qui en font l'objet, conforme aux énonciations du contrat de construction ; 
 
-c) Le prix convenu et, s'il y a lieu, les modalités de sa révision ;
+c) Le prix convenu et, s'il y a lieu, les modalités de sa révision ; 
 
-d) Le délai d'exécution des travaux et le montant des pénalités de retard ;
+d) Le délai d'exécution des travaux et le montant des pénalités de retard ; 
 
 e) Les modalités de règlement du prix, qui ne peut dépasser un délai de trente jours à compter de la date du versement
 effectué au constructeur par le maître de l'ouvrage ou le prêteur, en règlement de travaux comprenant ceux effectués par le
-sous-traitant et acceptés par le constructeur ;
+sous-traitant et acceptés par le constructeur ; 
 
-f) Le montant des pénalités dues par le constructeur en cas de retard de paiement ;
+f) Le montant des pénalités dues par le constructeur en cas de retard de paiement ; 
 
 g) La justification de l'une ou l'autre des garanties de paiement prévues à l'article 14 de la loi n° 75-1334 du 31 décembre
-1975 relative à la sous-traitance.
+1975 relative à la sous-traitance ou de toute autre garantie, délivrée par un établissement de crédit ou une entreprise
+d'assurance, de nature à garantir le paiement des sommes dues au titre du sous-traité. 
 
 Copie des contrats de sous-traitance est adressée par le constructeur à l'établissement qui apporte la garantie prévue à
 l'article L. 231-6.
@@ -6543,19 +6701,15 @@ l'article L. 231-6.
 	**Cite**:
 
 	  - Loi n°75-1334 du 31 décembre 1975 - art. 14 (V)
-	  - Code de la construction et de l'habitation. - art. L231-6 (M)
+	  - Code de la construction et de l'habitation. - art. L231-6 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
-
-	**Créé par**:
-
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 1 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 39 () JORF 10 décembre 2004
 
 	**Cité par**:
 
