@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-11-01
+Version Consolidée au 1982-11-13
 
 # Partie législative
 
@@ -9512,23 +9512,32 @@ ceux appartenant aux collectivités locales et gérés par lesdits organismes.
 
 ###### Article L353-15
 
-Par dérogation à l'article L. 442-6, seules les dispositions des chapitres 1er, V, VI, des premier et deuxième alinéas de
-l'article 32 bis, de l'article 38 et de l'alinéa premier de l'article 78 de la loi n. 48-1360 du 1er septembre 1948 modifiée,
-sont applicables aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14 [*appartenant aux
-HLM et aux collectivités locales*].
+Par dérogation à l'article L. 442-6, seules les dispositions des chapitres Ier, V, VI, des premier et deuxième alinéas de
+l'article 32 bis et de l'alinéa premier de l'article 78 de la loi n° 48-1360 du 1er septembre 1948 modifiée, sont applicables
+aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14 [*appartenant aux HLM et aux
+collectivités locales*].
+
+Les charges récupérables sont exigibles dans les conditions prévues à l'article L. 442-3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01 ART. 32 BIS, ART. 38, ART. 78
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
+	  - Loi n°48-1360 1948-09-01 ART. 78 AL. 1, ART. 32 bis AL. 1 AL. 2
 	  - Code de la construction et de l'habitation. - art. L353-14 (M)
 	  - Code de la construction et de l'habitation. - art. L442-6 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°81-1161 1981-12-30 art. 9 III *application à compter de la publication du décret (955 du 9 novembre 1982 J.O. du 13 novembre 1982) fixant la liste des charges récupérables*
+
+	**Modifié par**:
+
+	  - Loi n°81-1161 du 30 décembre 1981 - art. 9 () JORF 31 DECEMBRE 1981
 
 	**Cité par**:
 
@@ -11894,21 +11903,29 @@ prévue à l'article 32 de la loi n° 48-1360 du 1er septembre 1948 modifiée.
 
 ###### Article L442-3
 
-Le remboursement des prestations, taxes locatives et fournitures individuelles s'opère, dans les immeubles appartenant aux
-organismes d'habitations à loyer modéré, conformément aux dispositions de l'article 38 de la loi n. 48-1360 du 1er septembre
-1948 précitée.
+Dans les immeubles appartenant aux organismes d'habitation à loyer modéré, les charges récupérables [*définition*], sommes
+accessoires au loyer principal, sont exigibles en contrepartie :
+
+- des services rendus liés à l'usage des différents éléments de la chose louée ;
+
+- des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun sur la chose louée, qui ne sont
+pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
+
+- du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
+
+- La liste de ces charges est fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-1360 1948-09-01 ART. 38
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°81-1161 1981-12-30 art. 9 III *application à compter de la publication du décret (955 du 9 novembre 1982 J.O. du 13 novembre 1982) fixant la liste des charges récupérables*
+
+	**Créé par**:
 
 	  - Loi n°81-1161 du 30 décembre 1981 - art. 9 () JORF 31 DECEMBRE 1981
 
@@ -11923,10 +11940,6 @@ organismes d'habitations à loyer modéré, conformément aux dispositions de l'
 	  - Code de la construction et de l'habitation. - art. L353-15 (V)
 	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 	  - Code de la construction et de l'habitation. - art. L472-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 218
 
 
 ###### Article L442-4
