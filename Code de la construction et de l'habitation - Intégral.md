@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-01-01
+Version Consolidée au 1996-03-05
 
 # Partie législative
 
@@ -15436,7 +15436,9 @@ en concurrence et d'exécution prévus par le code des marchés publics dans des
 
 ### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.
 
-#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnités d'occupation. 
+#### Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité.
+
+##### Section 1 : Conditions d'attribution des logements et plafonds de ressources.
 
 ###### Article L441-1
 
@@ -15458,20 +15460,20 @@ sont nulles de plein droit.
 Il détermine également les limites et conditions de réservation des logements par le représentant de l'Etat dans le
 département au profit des personnes prioritaires, notamment mal logées ou défavorisées.
 
-" Les organismes d'habitations à loyer modéré informent chaque année le conseil municipal des communes sur le territoire
+Les organismes d'habitations à loyer modéré informent chaque année le conseil municipal des communes sur le territoire
 desquelles ils possèdent plus de cent logements de la politique générale qu'ils poursuivent en ce qui concerne notamment
 l'entretien, les travaux de réhabilitation ou d'aménagement, le loyer et la politique d'attribution de ces logements et les
 demandes en attente.
 
-" Le maire d'une commune sur le territoire de laquelle sont implantés des logements à usage locatif est entendu, à sa
-demande, par le conseil d'administration des organismes d'habitations à loyer modéré. Il est informé tous les trois mois des
+Le maire d'une commune sur le territoire de laquelle sont implantés des logements à usage locatif est entendu, à sa demande,
+par le conseil d'administration des organismes d'habitations à loyer modéré. Il est informé tous les trois mois des
 attributions de logements effectuées par ces organismes.
 
-" Il participe aux délibérations de la commission d'attribution des logements.
+Il participe aux délibérations de la commission d'attribution des logements.
 
-" Les dispositions des quatrième et cinquième alinéas sont applicables aux sociétés civiles immobilières dont le capital est
+Les dispositions des quatrième et cinquième alinéas sont applicables aux sociétés civiles immobilières dont le capital est
 constitué majoritairement par les fonds provenant de la participation des employeurs à l'effort de construction et aux
-sociétés d'économie mixte locales d'aménagement et de construction. "
+sociétés d'économie mixte locales d'aménagement et de construction.
 
 **Liens relatifs à cet article**
 
@@ -15580,7 +15582,7 @@ sociétés d'économie mixte locales d'aménagement et de construction. "
 
 	**Modifié par**:
 
-	  - Loi - art. 37 ()
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
 
 
 ###### Article L441-1-1
@@ -15589,11 +15591,11 @@ Il est créé, dans chaque organisme d'habitations à loyer modéré, une commis
 nominativement chaque logement locatif, composée de six membres qui élisent en leur sein un président qui dispose d'une voix
 prépondérante.
 
-" En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de
+En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de
 ladite commission.
 
-" Un décret détermine les conditions d'application du présent article et précise notamment les règles relatives à la
-composition de la commission. "
+Un décret détermine les conditions d'application du présent article et précise notamment les règles relatives à la
+composition de la commission.
 
 **Liens relatifs à cet article**
 
@@ -15637,9 +15639,9 @@ composition de la commission. "
 	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
 	  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 38 ()
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
 
 
 ###### Article L441-1-2
@@ -15649,18 +15651,14 @@ la participation des employeurs à l'effort de construction, et lorsqu'une parti
 ensemble anciennement classé en zone à urbaniser par priorité, une commission d'attribution chargée d'attribuer
 nominativement chacun de ces logements locatifs.
 
-" Le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de ladite
-commission. "
+Le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de ladite
+commission.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Loi - art. 39 ()
 
 	**Cité par**:
 
@@ -15686,42 +15684,46 @@ commission. "
 	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
 	  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
+	**Modifié par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
 
 ###### Article L441-2
 
 Les conditions d'application des règles prévues à l'article L. 441-1, notamment les critères de priorité pour l'attribution
 des logements et les conditions de leur réservation au profit des personnes prioritaires, ainsi que les modalités de
 l'information du représentant de l'Etat prévue au cinquième alinéa du présent article, sont, pour chaque département,
-précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat.    " Ce
-règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, ainsi que des
-besoins évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la loi
-n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat.
 
-" Lorsque la situation du logement social d'un secteurgéographique le nécessite, des protocoles d'occupation du patrimoine
+Ce règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, ainsi que
+des besoins évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la
+loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+
+Lorsque la situation du logement social d'un secteur géographique le nécessite, des protocoles d'occupation du patrimoine
 social sont conclus, à l'initiative d'au moins deux des partenaires, par le représentant de l'Etat dans le département, des
 collectivités territoriales et des organismes d'habitations à loyer modéré. Peuvent être associés à ces protocoles les autres
 organismes bénéficiaires de réservations dans le patrimoine concerné.
 
-" Les protocoles d'occupation du patrimoine social ont pour objet de fixer des objectifs en termes d'accueil de populations
+Les protocoles d'occupation du patrimoine social ont pour objet de fixer des objectifs en termes d'accueil de populations
 défavorisées et d'en déterminer les modalités d'application ainsi que les mesures de solvabilisation et d'accompagnement
 social nécessaires. Ils définissent les conditions de l'intervention des différents organismes concernés en tenant compte de
 leur bilan social et de l'état de l'occupation de leur patrimoine. Un bilan des protocoles demandés, en cours d'élaboration
 ou conclus dans le département, est présenté au conseil départemental de l'habitat, appelé à donner son avis, au moins une
-fois par an. "
+fois par an.
 
 Le représentant de l'Etat dans le département s'assure du respect des règles prévues à l'article L. 441-1 et aux alinéas
 précédents du présent article. A cette fin, chaque organisme lui communique au moins deux fois par an toutes les informations
-nécessaires sur les logements mis en location ou devenant vacants et sur les attributions prononcées.
+nécessaires sur les logements mis en location ou devenant vacants et sur les attributions prononcées.    Lorsqu'au terme d'un
+délai de six mois après qu'il a été demandé par le représentant de l'Etat dans le département, aucun protocole n'a été
+conclu, celui-ci peut désigner aux organismes d'habitations à loyer modéré des personnes prioritaires que ceux-ci sont tenus
+de loger. Ces désignations s'imputent sur les droits à réservation du représentant de l'Etat dans le département. Elles sont
+prononcées en tenant compte de l'état de l'occupation du patrimoine de l'organisme au regard de la nécessaire diversité de la
+composition sociale de chaque quartier, de chaque commune et de chaque département, en vue de faire contribuer, de manière
+équilibrée, chaque commune au logement des personnes et familles défavorisées.
 
-" Lorsqu'au terme d'un délai de six mois après qu'il a été demandé par le représentant de l'Etat dans le département, aucun
-protocole n'a été conclu, celui-ci peut désigner aux organismes d'habitations à loyer modéré des personnes prioritaires que
-ceux-ci sont tenus de loger. Ces désignations s'imputent sur les droits à réservation du représentant de l'Etat dans le
-département. Elles sont prononcées en tenant compte de l'état de l'occupation du patrimoine de l'organisme au regard de la
-nécessaire diversité de lacomposition sociale de chaque quartier, de chaque commune et de chaque département, en vue de faire
-contribuer, de manière équilibrée, chaque commune au logement des personnes et familles défavorisées.
-
-" Le représentant de l'Etat dans le département dispose de la même faculté vis-à-vis d'un organisme d'habitations à loyer
-modéré qui a refusé de signer le protocole ou n'a pas observé ses dispositions. "
+Le représentant de l'Etat dans le département dispose de la même faculté vis-à-vis d'un organisme d'habitations à loyer
+modéré qui a refusé de signer le protocole ou n'a pas observé ses dispositions.
 
 En cas d'inobservation de ces règles par un organisme, après épuisement des voies de conciliation et mise en demeure, le
 représentant de l'Etat dans le département peut, pour une durée qui ne peut excéder un an, désigner un délégué spécial chargé
@@ -15768,7 +15770,7 @@ conventions régulièrement signées.
 
 	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 15 () JORF 2 juin 1990
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
 
 	**Liens**:
 
@@ -15781,16 +15783,30 @@ conventions régulièrement signées.
 	  - Code de la construction et de l'habitation. - art. L441-1 (M)
 
 
+##### Section 2 : Supplément de loyer de solidarité.
+
 ###### Article L441-3
 
-Les organismes d'habitations à loyer modéré peuvent exiger des locataires dont les ressources dépassent les plafonds fixés
-pour l'attribution du logement à loyer modéré qu'ils occupent le paiement d'un supplément en sus du loyer principal et des
-charges locatives. Le montant de ce supplément est déterminé selon un barème qu'ils établissent par immeuble ou groupe
-d'immeubles, en fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du nombre et de l'âge des
-personnes vivant au foyer. Le représentant de l'Etat dans le département du siège de l'organisme et celui du département du
-lieu de situation des logements reçoivent communication du barème. A défaut d'opposition motivée du représentant de l'Etat
-dans le département du siège de l'organisme dans le délai d'un mois à compter de la plus tardive de ces communications, ce
-barème est exécutoire.
+Les organismes d'habitations à loyer modéré peuvent exiger des locataires des logements visés au premier alinéa de l'article
+L. 441-1 le paiement d'un supplément de loyer de solidarité en sus du loyer principal et des charges locatives dès lors qu'au
+cours du bail les ressources de l'ensemble des personnes vivant au foyer excèdent d'au moins 10 p. 100 les plafonds de
+ressources en vigueur pour l'attribution de ces logements. Ils doivent exiger le paiement d'un tel supplément dès lors qu'au
+cours du bail le dépassement du plafond de ressources est d'au moins 40 p. 100.
+
+Les ressources sont appréciées selon les modalités applicables en matière d'attribution des logements. Toutefois, les
+dernières ressources connues de l'ensemble des personnes vivant au foyer sont prises en compte sur demande du locataire qui
+justifie que ces ressources sont inférieures d'au moins 10 p. 100 à celles de l'année de référence. En outre, il est tenu
+compte de l'évolution de la composition familiale intervenue dans l'année en cours à la condition qu'elle soit dûment
+justifiée.
+
+Les plafonds pris en compte sont ceux qui sont applicables à la date à laquelle le supplément de loyer est exigé.
+
+Chaque organisme d'habitations à loyer modéré détermine, selon les conditions fixées ci-après, les modalités de calcul du
+montant du supplément de loyer de solidarité.
+
+Les dispositions du présent article ne sont pas applicables dans les zones de revitalisation rurale telles que définies par
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, les grands ensembles
+et les quartiers d'habitat dégradé mentionnés au I de l'article 1466 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -15839,9 +15855,350 @@ barème est exécutoire.
 	  - Code de la construction et de l'habitation. - art. L452-4 (V)
 	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
 
+	**Cite**:
+
+	  - Loi n°95-115 1995-02-04
+	  - CGI 1466 A
+
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 22 (V) JORF 10 février 1994
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996 Rectificatif JORF 28 mars 1996
+
+
+###### Article L441-4
+
+Le montant du supplément de loyer de solidarité est obtenu en appliquant le coefficient de dépassement du plafond de
+ressources au supplément de loyer de référence du logement.
+
+Ce montant est plafonné lorsque, cumulé avec le montant du loyer principal, il excède 25 p. 100 des ressources de l'ensemble
+des personnes vivant au foyer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Décret n°2009-930 du 29 juillet 2009 (V)
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 19 mars 2014 - art. (M)
+	  - Code de la construction et de l'habitation. - art. L442-12 (M)
+	  - Code de la construction et de l'habitation. - art. R441-20-1 (Ab)
+
+
+###### Article L441-5
+
+L'organisme d'habitations à loyer modéré fixe par département les valeurs du coefficient de dépassement du plafond de
+ressources en fonction de l'importance de ce dépassement. Il peut également tenir compte dans la fixation de ce coefficient
+du nombre et de l'âge des personnes vivant au foyer.
+
+Les valeurs de ce coefficient sont au moins égales à celles du coefficient prévu à l'article L. 441-8.
+
+L'organisme fixe un seuil de dépassement du plafond de ressources en deçà duquel le supplément de loyer n'est pas exigible.
+Ce seuil ne peut ni être inférieur à 10 p. 100 ni excéder 40 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-22 (VT)
+
+
+###### Article L441-6
+
+L'organisme d'habitations à loyer modéré fixe le montant par mètre carré habitable du supplément de loyer de référence en
+tenant compte de la qualité et de la situation géographique de l'immeuble ou du groupe d'immeubles.
+
+Le montant moyen par mètre carré habitable des suppléments de loyer de référence est au moins égal à celui prévu à l'article
+L. 441-8. Ce montant minimal s'impose à chaque organisme d'habitations à loyer modéré pour ses logements situés dans une même
+zone et dans un même département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+
+###### Article L441-7
+
+L'organisme d'habitations à loyer modéré communique la délibération relative au mode de calcul du supplément de loyer au
+représentant de l'État dans le département du siège de l'organisme et à celui du lieu de situation des logements. A cette
+délibération sont annexés les éléments permettant le calcul du montant moyen par mètre carré des suppléments de loyer de
+référence.
+
+Cette délibération devient exécutoire à l'expiration du délai d'un mois à compter de sa communication si, dans ce délai, le
+représentant de l'Etat dans le département du lieu de situation du logement concerné n'a pas demandé une seconde
+délibération, notamment eu égard au montant des loyers pratiqués dans le voisinage pour des immeubles ou groupes d'immeubles
+équivalents et dont les loyers sont fixés en application de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à
+améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.
+
+La demande de seconde délibération est motivée. Elle est communiquée aux membres de l'organe délibérant de l'organisme
+d'habitations à loyer modéré préalablement à la seconde délibération. La seconde délibération est exécutoire dès que le
+représentant de l'Etat en a reçu communication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 17 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 13 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*441-24 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 71 () JORF 16 juillet 2006
+
+
+###### Article L441-8
+
+En l'absence de délibération exécutoire, le supplément de loyer appliqué par l'organisme d'habitations à loyer modéré est
+calculé par lui en fonction :
+
+- des valeurs du coefficient de dépassement du plafond de ressources déterminées par décret en Conseil d'Etat ; le seuil de
+dépassement du plafond de ressources prévu par ledit décret en deçà duquel le supplément de loyer n'est pas exigible est de
+40 p. 100 ;
+
+- du montant par mètre carré habitable du supplément de loyer de référence fixé par décret en Conseil d'Etat selon les zones
+géographiques tenant compte notamment de la population des agglomérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L441-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-9 (V)
+
+
+###### Article L441-9
+
+L'organisme d'habitations à loyer modéré demande annuellement à chaque locataire communication des avis d'imposition ou de
+non-imposition à l'impôt sur le revenu et des renseignements concernant l'ensemble des personnes vivant au foyer permettant
+de calculer l'importance du dépassement éventuel du plafond de ressources et de déterminer si le locataire est redevable du
+supplément de loyer. Le locataire est tenu de répondre à cette demande dans un délai d'un mois. L'organisme d'habitations à
+loyer modéré n'est pas tenu de présenter cette demande aux locataires bénéficiant de l'aide personnalisée au logement
+mentionnée à l'article L. 351-1.
+
+A défaut et après mise en demeure restée infructueuse pendant quinze jours, l'organisme d'habitations à loyer modéré liquide
+provisoirement le supplément de loyer. Pour cette liquidation, il est fait application d'un coefficient de dépassement du
+plafond de ressources égal au coefficient maximal adopté par l'organisme ou, à défaut, égal à la valeur maximale prévue par
+le décret mentionné à l'article L. 441-8. L'organisme d'habitations à loyer modéré perçoit en outre une indemnité pour frais
+de dossier dont le montant maximum est fixé par décret en Conseil d'Etat.
+
+Lorsque le locataire a communiqué les renseignements et avis mentionnés au premier alinéa, le supplément de loyer afférent à
+la période de retard est liquidé définitivement. Le trop-perçu de supplément de loyer est reversé au locataire dans les deux
+mois.
+
+La mise en demeure comporte la reproduction du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Cité par**:
+
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 2 (V)
+	  - Loi n°96-162 du 4 mars 1996 - art. 3 (Ab)
+	  - Arrêté du 22 octobre 2008 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 bis ZC (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-3-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L442-5 (V)
+	  - Code de la construction et de l'habitation. - art. L442-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L482-3 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-93-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-25 (VT)
+	  - Code de la construction et de l'habitation. - art. R441-26 (VD)
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+
+###### Article L441-10
+
+Les organismes d'habitations à loyer modéré communiquent au représentant de l'Etat dans le département du lieu de situation
+des logements les renseignements statistiques et financiers permettant l'établissement d'un rapport annuel sur l'application
+du supplément de loyer dans le département. Ce rapport est soumis pour avis au conseil départemental de l'habitat.
+
+Le Gouvernement dépose tous les deux ans, sur le bureau des assemblées, un rapport sur l'application du supplément de loyer
+de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 1996 - art. 1 (V)
+	  - Arrêté du 24 décembre 2008 - art. 1 (V)
+	  - Arrêté du 29 décembre 2009 - art. 1 (V)
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 24 juin 2011 - art. 1 (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. 1 (V)
+	  - Arrêté du 11 février 2013 - art. 1 (V)
+	  - Arrêté du 11 février 2013 - art. Annexe (V)
+	  - Arrêté du 19 mars 2014 - art. (M)
+	  - Arrêté du 19 mars 2014 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R441-27 (V)
+
+
+###### Article L441-11
+
+L'organisme d'habitations à loyer modéré qui n'a pas exigé le paiement du supplément de loyer ou qui n'a pas procédé aux
+diligences lui incombant pour son recouvrement, à l'exclusion de celles relevant de la responsabilité propre d'un comptable
+public, est passible d'une pénalité dont le montant est égal à 50 % des sommes exigibles et non mises en recouvrement.
+
+La sanction est prononcée par le représentant de l'Etat dans le département de situation du logement après que l'organisme
+d'habitations à loyer modéré a été appelé à présenter ses observations.
+
+Le montant de la pénalité est recouvré au profit de l'Etat comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L342-14 (V)
+	  - Code de la construction et de l'habitation. - art. R441-28 (V)
+
+
+###### Article L441-12
+
+Les dispositions de la présente section sont applicables de plein droit nonobstant toute convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*441-16-2 (V)
+
+
+###### Article L441-13
+
+Les dispositions de la présente section sont applicables aux personnes morales autres que les organismes d'habitations à
+loyer modéré et les sociétés d'économie mixte, pour les logements à usage locatif leur appartenant et ouvrant droit à l'aide
+personnalisée au logement en application des 2° et 3° de l'article L. 351-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+
+
+###### Article L441-14
+
+Par dérogation aux articles L. 441-3, L. 441-13, L. 472-1-2 et L. 481-3, les dispositions de la présente section ne sont pas
+applicables aux logements financés à compter du 5 janvier 1977 au moyen de prêts locatifs aidés par l'Etat accordés par le
+Crédit foncier de France, aux logements financés au moyen de prêts conventionnés des banques et établissements financiers et,
+dans les départements d'outre-mer, aux immeubles à loyer moyen.
+
+Ces dispositions ne sont pas applicables aux logements ayant bénéficié d'une subvention de l'Agence nationale pour
+l'amélioration de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+
+###### Article L441-15
+
+Un décret en Conseil d'Etat détermine en tant que de besoin les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 13 (Ab)
 
 
 #### Chapitre II : Loyers et divers.
@@ -15936,8 +16293,9 @@ la limite de leurs loyers plafonds.
 
 Toute délibération d'un organisme d'habitations à loyer modéré relative aux loyers applicables à compter du 1er juillet 1987
 est transmise deux mois avant son entrée en vigueur au représentant de l'Etat dans le département du siège de l'organisme et
-à celui du département du lieu de situation des logements. Le représentant de l'Etat dans le département du siège de
-l'organisme peut, dans le délai d'un mois à compter de la plus tardive de ces transmissions,.
+à celui du département du lieu de situation des logements. Le représentant de l'Etat dans le département du lieu de situation
+des logements peut, dans le délai d'un mois à compter de la plus tardive de ces transmissions, demander à l'organisme une
+nouvelle délibération.
 
 **Liens relatifs à cet article**
 
@@ -15945,19 +16303,19 @@ l'organisme peut, dans le délai d'un mois à compter de la plus tardive de ces 
 
 	  - Décret n°78-621 1978-05-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-112 1994-02-09 art. 22 IV
-
-	**Modifié par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 22 (V) JORF 10 février 1994
-
 	**Cité par**:
 
 	  - Loi n°94-112 du 9 février 1994 - art. 22 (V)
 	  - Loi n°96-162 du 4 mars 1996 - art. 4 (Ab)
 	  - Code de la construction et de l'habitation. - art. L472-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-162 1996-03-04 art. 4 II
+
+	**Modifié par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 4 (Ab) JORF 5 mars 1996
 
 
 ###### Article L442-2
@@ -16029,18 +16387,18 @@ La liste de ces charges est fixée par décret en Conseil d'Etat.
 
 ###### Article L442-4
 
-Des changements de locaux peuvent être imposés aux locataires ou occupants en vue d'une meilleure utilisation familiale, dans
-les conditions précisées par arrêté du ministre chargé de la construction et de l'habitation.
+En cas de sous-occupation du logement, il peut être attribué au locataire un nouveau logement correspondant à ses besoins,
+nonobstant les plafonds de ressources prévus à l'article L. 441-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 219
+	  - Loi n°96-162 du 4 mars 1996 - art. 5 () JORF 5 mars 1996
 
 	**Cité par**:
 
@@ -16048,6 +16406,61 @@ les conditions précisées par arrêté du ministre chargé de la construction e
 	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 	  - Code de la construction et de l'habitation. - art. R*441-35 (Ab)
 	  - Code de la construction et de l'habitation. - art. R442-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+
+
+###### Article L442-5
+
+Le Gouvernement dépose tous les trois ans et pour la première fois le 1er juillet 1997, sur le bureau des assemblées, un
+rapport sur l'occupation des logements d'habitations à loyer modéré et son évolution.
+
+A cette fin, les organismes d'habitations à loyer modéré communiquent les renseignements statistiques nécessaires au
+représentant de l'Etat dans le département du lieu de situation des logements après avoir procédé à une enquête auprès de
+leurs locataires. Les locataires sont tenus de répondre dans le délai d'un mois. A défaut, le locataire défaillant est
+redevable à l'organisme d'habitations à loyer modéré d'une pénalité de 50 F, majorée de 50 F par mois entier de retard.
+
+L'enquête mentionnée à l'alinéa précédent vaut enquête au sens de l'article L. 441-9.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment le contenu de l'enquête et la
+liste des renseignements statistiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 2 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 39 (V)
+	  - Arrêté du 8 mars 2016 (V)
+	  - Arrêté du 8 mars 2016 - art. (V)
+	  - Arrêté du 8 mars 2016 - art. 1 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 78 (V)
+	  - Code de la construction et de l'habitation. - art. *R442-13 (V)
+	  - Code de la construction et de l'habitation. - art. *R442-14 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*445-7 (V)
+	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-93-1 (V)
+	  - Code général des collectivités territoriales - art. L5219-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 6 () JORF 5 mars 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-9 (M)
 
 
 ###### Article L442-6
@@ -16358,10 +16771,7 @@ locales ou à des groupements de collectivités locales et gérés par lesdits o
 titre IV du livre IV, les sections I et II du chapitre III du même titre ainsi que la section II du chapitre III du titre V
 du livre III sont applicables aux logements construits en application du titre II de la loi du 13 juillet 1928 établissant un
 programme de construction ou d'habitation à bon marché et de logements, en vue de remédier à la crise de l'habitation, qui ne
-sont pas gérés par un organisme d'H.L.M.. Le plafond de ressources à prendre en compte pour l'application de l'article L.
-441-3 sera, pour les locataires de logements construits en application de la loi du 13 juillet 1928 précitée, supérieur de 50
-p. 100 aux plafonds de ressources applicables aux bénéficiaires de la législation sur les habitations à loyer modéré et des
-nouvelles aides de l'Etat en secteur locatif. "
+sont pas gérés par un organisme d'H.L.M..
 
 **Liens relatifs à cet article**
 
@@ -16369,13 +16779,9 @@ nouvelles aides de l'Etat en secteur locatif. "
 
 	  - Décret n°78-621 1978-05-31
 
-	**Anciens textes**:
-
-	  - Loi n°86-1290 1986-12-23
-
 	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 24 () JORF 2 juin 1990
+	  - Loi n°96-162 du 4 mars 1996 - art. 7 () JORF 5 mars 1996
 
 	**Cité par**:
 
@@ -16385,7 +16791,7 @@ nouvelles aides de l'Etat en secteur locatif. "
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L442-1 à L442-9, l441-3
+	  - Code de la construction et de l'habitation L442-1 à L442-9
 	  - Loi n°1928-07-13
 
 
@@ -16878,6 +17284,29 @@ département peut autoriser l'organisme à vendre à un prix inférieur.
 	  - Code de la construction et de l'habitation. - art. L443-15-2-3 (VD)
 	  - Code de la construction et de l'habitation. - art. R443-19 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
+
+
+###### Article L443-12-1
+
+Lorsque le locataire achète le logement qu'il occupe, les suppléments de loyer payés au cours des cinq années qui précèdent
+l'acte authentique s'imputent sur le prix de vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 8 () JORF 5 mars 1996
+
+	**Cité par**:
+
+	  - Arrêté du 5 décembre 2007 (V)
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 11 février 2013 - art. Annexe (V)
 
 
 ###### Article L443-13
@@ -17732,24 +18161,16 @@ de l'article précédent.
 
 ###### Article L472-1-2
 
-Les sociétés d'économie mixte constituées dans les départements d'outre-mer en application de la loi n° 46-860 du 30 avril
-1946 et les sociétés d'économie mixte locales peuvent exiger des locataires dont les ressources dépassent les plafonds fixés
-pour l'attribution du logement qu'ils occupent le paiement d'un supplément en sus du loyer principal et des charges
-locatives. Le montant de ce supplément est déterminé selon un barème qu'elles établissent par immeuble ou groupe d'immeubles
-en fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du nombre et de l'âge des personnes vivant
-au foyer. A défaut d'opposition motivée du représentant de l'Etat dans le département dans le délai d'un mois après qu'il lui
-a été notifié, ce barème est exécutoire.
-
-Ce supplément peut être demandé, dès la date d'entrée en vigueur de la loi n° 94-638 du 25 juillet 1994 tendant à favoriser
-l'emploi, l'insertion et les activités économiques dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à
-Mayotte, aux titulaires de baux en cours ou aux bénéficiaires du droit au maintien dans les lieux.
+Les dispositions de la section 2 du chapitre Ier du titre IV et de l'article L. 442-5 du présent livre sont applicables dans
+les départements d'outre-mer aux sociétés d'économie mixte constituées en application de la loi n° 46-860 du 30 avril 1946
+précitée et aux sociétés d'économie mixte locales pour les logements à usage locatif leur appartenant et construits, acquis
+ou améliorés avec le concours financier de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°46-860 1946-04-30
-	  - Loi n°94-638 1994-07-25
 
 	**Codifié par**:
 
@@ -17766,9 +18187,52 @@ Mayotte, aux titulaires de baux en cours ou aux bénéficiaires du droit au main
 	  - Arrêté du 8 mars 2016 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. L472-1-4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-638 du 25 juillet 1994 - art. 40 () JORF 27 juillet 1994
+	  - Loi n°96-162 du 4 mars 1996 - art. 9 () JORF 5 mars 1996
+
+
+###### Article L472-1-3
+
+A compter du 1er janvier 1997, les dispositions des articles L. 442-1, à l'exception du troisième alinéa, à L. 442-2 sont
+applicables aux sociétés d'économie mixte constituées en application de la loi n° 46-860 du 30 avril 1946 et aux sociétés
+d'économie mixte locales, dans les départements de Guadeloupe, de Martinique, de Guyane et de la Réunion, pour les logements
+à usage locatif leur appartenant, ou appartenant à l'Etat, à une collectivité locale ou à un groupement de collectivités
+locales et gérés par lesdites sociétés.
+
+Toutefois, l'application de ces dispositions à l'une des sociétés précitées ne peut intervenir que consécutivement à la
+passation d'une convention révisable annuellement entre cette société et l'Etat, définissant notamment des objectifs de
+loyers.
+
+Les logements concernés doivent avoir été construits, acquis ou améliorés avec le concours financier de l'Etat, apporté selon
+les modalités prévues à l'article L. 472-1 ou sous forme de prêt spécial du Crédit foncier de France, assorti d'une prime de
+l'Etat, ou sous forme de prêts de la Caisse centrale de coopération économique.
+
+Les modifications de loyer pouvant résulter de ces dispositions peuvent s'appliquer aux baux en cours, à la date de révision
+convenue entre les parties ou, à défaut, au terme de chaque année de contrat.
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-860 1946-04-30
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 40 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 64 () JORF 9 juillet 1996
 
 
 ###### Article L472-2
@@ -17919,8 +18383,8 @@ administrative.
 
 ###### Article L481-3
 
-Le chapitre Ier du titre IV du présent livre est applicable aux sociétés d'économie mixte pour les logements faisant l'objet
-des conventions régies par le chapitre III du titre V du livre III du présent code. "
+Le chapitre Ier du titre IV du présent livre et l'article L. 442-5 sont applicables aux sociétés d'économie mixte pour les
+logements faisant l'objet des conventions régies par le chapitre III du titre V du livre III du présent code.
 
 **Liens relatifs à cet article**
 
@@ -17928,15 +18392,15 @@ des conventions régies par le chapitre III du titre V du livre III du présent 
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°96-162 du 4 mars 1996 - art. 6 () JORF 5 mars 1996
+
 	**Cité par**:
 
 	  - Arrêté du 24 juin 2011 - art. (V)
 	  - Arrêté du 4 janvier 2012 - art. (V)
 	  - Arrêté du 11 février 2013 - art. Annexe (V)
-
-	**Créé par**:
-
-	  - Loi n°90-449 1990-06-02 art. 12 JORF 2 juin 1990
 
 
 ###### Article L481-4
