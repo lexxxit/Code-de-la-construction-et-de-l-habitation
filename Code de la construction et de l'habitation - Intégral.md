@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-09-15
+Version Consolidée au 1998-11-13
 
 # Partie législative
 
@@ -37283,10 +37283,10 @@ sécurité sociale et par les textes réglementaires pris pour l'application de 
 
 ###### Article R*313-3
 
-Les employeurs sont tenus de produire chaque année, avant le 16 avril, une déclaration mentionnant notamment, pour l'année
-écoulée, le montant des sommes à consacrer à la participation, le montant des sommes employées à ce titre et les modalités
-suivant lesquelles cet emploi a été réalisé. Cette déclaration est remise, en double exemplaire, au service des impôts chargé
-de l'établissement éventuel de la cotisation prévue à l'article L. 313-4.
+Les employeurs sont tenus de produire chaque année, au plus tard le 30 avril [*date limite*], une déclaration mentionnant
+notamment, pou l'année écoulée, le montant des sommes à consacrer à la participation, le montant des sommes employées à ce
+titre et les modalités suivant lesquelles cet emploi a été réalisé. Cette déclaration est remise, en double exemplaire, au
+service des impôts chargé de l'établissement éventuel de la cotisation prévue à l'article L. 313-4.
 
 A la déclaration est annexé un état faisant apparaître la répartition de la participation des employeurs à l'effort de
 construction entre les différents établissements des entreprises.
@@ -37295,7 +37295,11 @@ construction entre les différents établissements des entreprises.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°98-1022 du 10 novembre 1998 - art. 3 () JORF 13 novembre 1998
 
 	**Cité par**:
 
@@ -37306,11 +37310,8 @@ construction entre les différents établissements des entreprises.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L313-4, annexe
 	  - Code de la construction et de l'habitation. - art. L313-4 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-13-28 art. 3
 
 
 ###### Article R*313-5
