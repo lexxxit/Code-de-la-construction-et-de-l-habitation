@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-11-23
+Version Consolidée au 1983-12-07
 
 # Partie législative
 
@@ -35580,13 +35580,13 @@ Le montant des prêts prévus à l'article R. 331-32 destinés à financer les l
 les conditions définies à l'article R. 331-48 est fixé en fonction de la surface des logements, compte tenu de leur
 localisation, de la situation de famille du bénéficiaire et des ressources des occupants.
 
-Dans les autres cas, le montant des prêts prévus à l'article R. 331-32 peut atteindre 70 p. 100 du prix de vente du logement
+Dans les autres cas, le montant des prêts prévus à l'article R. 331-32 peut atteindre 75 p. 100 du prix de vente du logement
 défini à l'article R.331-52 (5.). Le taux maximum est porté à 90 p. 100 pour les ménages bénéficiaires ayant au moins trois
 enfants à charge, dont un de moins de quatre ans à la date du dépôt de la demande de décision favorable, de transfert ou de
 maintien.
 
 Toutefois, lorsque les ressources du ménage bénéficiaire définies à l'article R. 331-42 sont inférieures à un plafond, le
-montant des prêts peut atteindre 80 p. 100 du prix de vente mentionné à l'alinéa précédent. Le taux maximum est porté à 100
+montant des prêts peut atteindre 85 p. 100 du prix de vente mentionné à l'alinéa précédent. Le taux maximum est porté à 100
 p. 100 pour les ménages ayant au moins trois enfants à charge, dont un de moins de quatre ans à la date du dépôt de la
 demande de décision favorable, de transfert ou de maintien.
 
@@ -35612,10 +35612,23 @@ l'habitation et des finances.
 
 	**Cite**:
 
+	  - Décret n°83-1041 1983-12-06
+	  - Décret n°84-755 1984-08-06
 	  - Code de la construction et de l'habitation R331-52 5
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 	  - Code de la construction et de l'habitation. - art. R331-42 (M)
 	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1041 1983-12-06 ART. 1 JORF 7 DECEMBRE 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1041 1983-12-06 art. 1 : Les montants des prêts peuvent jusqu'au 30 juin 1984 atteindre respectivement 75 p. 100 et 80 p. 100 du prix de vente des logements
+	  - SPEC_APPLI: Décret n°84-755 1984-08-06 art. 1 : Les dispositions du décret n°84-1041 du 6 décembre 1983 modifiant l'article R. 331-53 du code de la construction et de l'habitation sont prorogées jusqu'au 30 septembre 1984
+	  - SPEC_APPLI: Décret n°84-950 1984-10-25 art. 1 : Les montants des prêts peuvent, du 1er octobre 1984 au 30 juin 1985 *période*, atteindre respectivement 72,5 p. 100 et 82,5 p. 100 du prix de vente des logements défini à l'article R. 331-52 (5°) du même code
+	  - SPEC_APPLI: Décret n°85-839 1985-08-07 art. 1 : les montants des prêts peuvent, *date de départ* à compter du 1er juillet 1985, atteindre respectivement 72,5 p. 100 et 82,5 p. 100 du prix de vente des logements définis à l'article R. 331-52 (5°) du même code
 
 
 ###### Article R331-54
@@ -36144,21 +36157,21 @@ Des prêts conventionnés peuvent être accordés [*définition, objet*], dans l
 financer [*opérations*] :
 
 1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
-logements ou leur acquisition ; 
-
-2. L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
+logements ou leur acquisition ; est assimilée à la construction de logements l'aménagement à usage de logement de locaux non
+destinés à l'habitation.    2. L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
 3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
 
 4. Les travaux destinés à réduire les dépenses d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait
-l'objet avant cette date, d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
+l'objet, avant cette date, d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
 garantissant contractuellement l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
 
 Un arrêté du ministre chargé de la construction et de l'habitation précise les conditions d'application du 4., notamment les
 modalités de calcul et de contrôle des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités de mise
 en oeuvre de la garantie.
 
-5. Jusqu'au 31 décembre 1983 [*date*], les travaux d'amélioration de logements achevés depuis au moins dix ans.
+5. les travaux d'amélioration de logements achevés depuis au moins dix ans. Un arrêté conjoint des ministres chargés des
+finances et du logement fixe le montant minimal de ces travaux.
 
 **Liens relatifs à cet article**
 
