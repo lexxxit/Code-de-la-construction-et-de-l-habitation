@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-09-17
+Version Consolidée au 1985-09-24
 
 # Partie législative
 
@@ -25279,50 +25279,6 @@ droit annulés.
 	  - Code de la construction et de l'habitation. - art. R*311-62 (V)
 
 
-###### Article R*311-16
-
-Les décisions concernant les primes peuvent, dans un délai de deux mois à compter de leur notification, être déférées au
-ministre chargé de la construction et de l'habitation. Celui-ci peut également les évoquer dans le même délai.
-
-Le ministre statue après avoir pris l'avis d'une commission composée de deux représentants du ministre chargé des finances,
-et placée sous la présidence d'un membre du Conseil d'Etat ou d'un magistrat de la Cour des comptes.
-
-Participent à cette commission à titre consultatif ;
-
-- un représentant du ministre de l'intérieur ;
-
-- un représentant du ministre chargé de l'agriculture ;
-
-- un représentant du ministre chargé de la santé ;
-
-- le gouverneur du Crédit foncier de France ou son délégué ;
-
-- le président directeur général du Comptoir des entrepreneurs ou son délégué ;
-
-- un architecte représentant l'ordre national des architectes ;
-
-- un représentant de la fédération nationale du bâtiment et des travaux publics ;
-
-- pour les décisions concernant les départements d'outre-mer, un représentant du ministre chargé des départements et
-territoires d'outre-mer.
-
-Les modalités de fonctionnement de cette commission sont fixées par arrêté du ministre chargé de la construction et de
-l'habitation et du ministre chargé des finances.
-
-La décision du ministre chargé de la construction et de l'habitation est notifiée au Crédit foncier de France et, par lettre
-recommandée, à l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-66 1972-01-24 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
 ##### Sous-section 3 : Suspension, suppression ou annulation des primes.
 
 ###### Article R*311-17
@@ -26504,22 +26460,18 @@ chargé des finances, et édifiés par :
 et consignations ou d'un organisme habilité à collecter la participation des employeurs à l'effort de construction, en
 application de l'article R. 313-9 2 ;
 
-- des personnes physiques ou morales ayant obtenu un avis favorable de la commission des primes prévues à l'article R.
-311-16.
+- des personnes physiques ou morales ayant obtenu l'agrément du préfet sur avis conforme du directeur départemental de
+l'équipement et du trésorier-payeur général du département.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-66 1972-01-24 art. 56
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R313-9, R311-16
+	  - Décret n°85-1004 1985-09-19 art. 2 JORF 24 septembre 1985
 
 	**Cité par**:
 
@@ -32178,38 +32130,6 @@ d'effet de leur abrogation restent régies par les dispositions alors en vigueur
 	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
-###### Article R322-12
-
-Les décisions concernant les primes peuvent, dans un délai de deux mois à compter de leur notification, être déférées au
-ministre chargé de la construction et de l'habitation. Celui-ci peut également les évoquer dans le même délai [*autorité
-compétente*].
-
-Le ministre statue après avoir pris l'avis de la commission prévue par l'article R. 331-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
-
-	**Abrogé par**:
-
-	  - Décret n°85-1004 1985-09-19 ART. 1 JORF 24 SEPTEMBRE 1985
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R322-14 (M)
-	  - Code de la construction et de l'habitation. - art. R322-15 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-12 (Ab)
-
-
 ###### Article R322-13
 
 Sous peine d'annulation de la décision d'octroi de prime et de remboursement des sommes déjà perçues :
@@ -33952,31 +33872,6 @@ Une prorogation de ce délai peut être accordée par le préfet selon la procé
 	  - Code de la construction et de l'habitation R324-11
 
 
-###### Article R*324-13
-
-Les décisions concernant les primes peuvent, dans un délai de deux mois à compter de leur notification, être déférées par les
-bénéficiaires au ministre chargé de la construction et de l'habitation. Celui-ci peut également les évoquer dans le même
-délai.    Le ministre statue après avoir pris l'avis de la commission mentionnée à l'article R. 311-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-94 1978-01-26 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1004 1985-09-19 art. 1 JORF 24 septembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R311-16
-
-
 ###### Article R*324-14
 
 Sous peine d'annulation de la décision d'octroi de prime et, le cas échéant, de remboursement de la prime :
@@ -35382,79 +35277,6 @@ maximum de six mois aprés la date de la décision favorable, faute de quoi ladi
 	  - Code de la construction et de l'habitation. - art. R331-6 (M)
 
 
-###### Article R331-12
-
-Lorsque le préfet a rejeté la demande de décision favorable ou n'a pas répondu dans le délai de quatre mois, le demandeur
-peut, dans un délai de deux mois, saisir le ministre chargé de la construction et de l'habitation.
-
-Le ministre statue après avoir pris l'avis d'une commission composée d'un membre du Conseil d'Etat et de huit membres, dont
-quatre représentants de l'administration, un représentant des établissements financiers, un représentant des organismes
-constructeurs et deux représentants des usagers, tous nommés par le ministre.
-
-Les modalités de fonctionnement de cette commission sont fixées par arrêté des ministres chargés de la construction et de
-l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-934 du 27 juillet 1977 - art. 12, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1004 1985-09-19 art. 1 JORF 24 septembre 1985
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
-	  - Arrêté du 29 juillet 1987 - art. 1 (VD)
-	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
-	  - Arrêté du 29 juillet 1987 - art. Annexe II (V)
-	  - Arrêté du 16 mars 1992 - art. 2 (M)
-	  - Arrêté du 16 mars 1992 - art. 4 (M)
-	  - Arrêté du 6 mars 2001 - art. 3 (Ab)
-	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
-	  - Arrêté du 3 mai 2002 - art. 1 (M)
-	  - Arrêté du 26 mars 2004 - art. 5 (V)
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-	  - Arrêté du 3 juin 2010 - art. 3 (V)
-	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
-	  - Arrêté du 22 décembre 2015 - art.
-	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-7 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
-	  - Code de la construction et de l'habitation. - art. R*472-3 (V)
-	  - Code de la construction et de l'habitation. - art. R255-2 (V)
-	  - Code de la construction et de l'habitation. - art. R302-16 (V)
-	  - Code de la construction et de l'habitation. - art. R322-12 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-14 (M)
-	  - Code de la construction et de l'habitation. - art. R353-11 (V)
-	  - Code de la construction et de l'habitation. - art. R353-16 (V)
-	  - Code de la construction et de l'habitation. - art. R353-163 (V)
-	  - Code de la construction et de l'habitation. - art. R353-65 (V)
-	  - Code de la construction et de l'habitation. - art. R353-93 (V)
-	  - Code de la construction et de l'habitation. - art. R381-4 (V)
-	  - Code de la construction et de l'habitation. - art. R391-8 (M)
-	  - Code de la construction et de l'habitation. - art. R441-1-2 (V)
-	  - Code de la construction et de l'habitation. - art. R523-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1992
-	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. ANNEXE (V)
-
-
 ###### Article R331-13
 
 La créance en principal, intérêts et accessoires des prêts prévus à l'article R. 331-1, est garantie suivant les règles
@@ -36801,33 +36623,6 @@ délai maximum de six mois après la date de la décision favorable, faute de qu
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-52 (V)
-
-
-###### Article R331-45
-
-Lorsque le préfet a rejeté la demande de décision favorable ou n'a pas répondu dans le délai de quatre mois, le demandeur
-peut, dans un délai de deux mois, saisir le ministre chargé de la construction et de l'habitation.
-
-Le ministre statue après avoir pris l'avis d'une commission présidée par un conseiller d'Etat et composée de huit membres,
-dont quatre représentants de l'administration, un représentant des établissements financiers, un représentant des usagers,
-tous nommés par le ministre.
-
-Les modalités de fonctionnement de cette commission sont fixées par arrêté des ministres chargés de la construction et de
-l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-944 du 27 juillet 1977 - art. 14, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1004 1985-09-19 art. 1 JORF 24 septembre 1985
 
 
 ###### Article R331-46
