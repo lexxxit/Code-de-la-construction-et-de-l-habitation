@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-04
 
 # Partie législative
 
@@ -15708,6 +15708,10 @@ l'exécution des dispositions des titres préliminaires, IV, V et VI du présent
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
@@ -15728,6 +15732,10 @@ les mesures d'application nécessitées par la situation particulière des dépa
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
 
 	**Cité par**:
 
@@ -15754,17 +15762,42 @@ L. 301-3 à L. 301-5, L. 312-4-1, L. 312-5-1, L. 312-5-2 et L. 364-1.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+	  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L301-3 à L301-5, L312-4-1, L312-5-1, L312-5-2, L364-1
-	  - Code de la construction et de l'habitation. - art. L312-4-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-3 (V)
+	  - Code de la construction et de l'habitation. - art. L312-4-1 (V)
 	  - Code de la construction et de l'habitation. - art. L312-5-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L312-5-2 (M)
-	  - Code de la construction et de l'habitation. - art. L364-1 (M)
+	  - Code de la construction et de l'habitation. - art. L312-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L364-1 (V)
+
+
+###### Article L371-4
+
+Les articles L. 315-1 à L. 315-6 sont applicables à Mayotte. Toutefois, le dernier alinéa de l'article L. 315-5 ne sera
+applicable que lorsque le code général des impôts sera entré en vigueur à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L315-1 à L315-6, L315-5
+	  - Code de la construction et de l'habitation. - art. L315-5 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L732-8 (V)
 
 
 ## Livre IV : Habitations à loyer modéré.
@@ -38207,6 +38240,60 @@ condition suspensive de la justification de ce financement dans les six mois sui
 	  - Code de la construction et de l'habitation. - art. R*261-18-1 (Ab)
 
 
+###### Article R*261-19
+
+La garantie d'achèvement résulte également : 
+
+a) Si la vente porte sur une maison individuelle, dont les fondations sont achevées et à condition que les versements prévus
+n'excèdent pas au total : 
+
+20 % du prix à l'achèvement des fondations ; 
+
+45 % à la mise hors d'eau ; 
+
+85 % à l'achèvement de la maison. 
+
+Le solde est payé ou consigné comme il est dit pour le solde prévu à l'article R. 261-14. 
+
+Lorsque la maison fait partie d'un ensemble de plus de vingt maisons et que son utilisation implique celle d'équipements
+extérieurs communs, le bénéfice des dispositions ci-dessus du présent article est subordonné soit à la réalisation préalable
+des équipements nécessaires à l'utilisation de la maison vendue, soit à l'existence pour ces derniers de la garantie
+d'achèvement prévue par l'article R. 261-21. 
+
+L'exécution des équipements ci-dessus est établie par certificat d'une personne qualifiée à cet effet ; 
+
+b) Si la vente est réalisée par une société d'économie mixte de construction agréée à cet effet par le ministre chargé des
+finances et le ministre chargé de la construction et de l'habitation ou dont une collectivité publique détient au moins 35 %
+du capital social.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1166 1967-12-22 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-933 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2016-359 du 25 mars 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*261-14
+	  - Code de la construction et de l'habitation. - art. R*261-21 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R662-1 (V)
+
+
 ###### Article R*261-20
 
 Pour l'application des dispositions de l'article R. 261-18, b, le contrat doit préciser :
@@ -38349,53 +38436,31 @@ une personne désignée dans les conditions prévues par l'article R. 261-2.
 	  - Code de la construction et de l'habitation R261-2
 
 
-##### Section 4 : Garanties d'achèvement et de remboursement.
+###### Article R*261-24-1
 
-###### Article R*261-19
+Lorsqu'une vente en l'état futur d'achèvement est réalisée par un organisme d'habitations à loyer modéré, les garanties de
+remboursement et d'achèvement prévues à l'article L. 453-3 résultent de la détention par l'organisme vendeur de la garantie
+accordée par la société de garantie des organismes d'habitations à loyer modéré dans les conditions fixées à l'article L.
+453-1. 
 
-La garantie d'achèvement résulte également :
-
-a) Si la vente porte sur une maison individuelle, dont les fondations sont achevées et à condition que les versements prévus
-n'excèdent pas au total [*montant*] :
-
-20 p. 100 du prix à l'achèvement des fondations ;
-
-45 p. 100 à la mise hors d'eau ;
-
-85 p. 100 à l'achèvement de la maison.
-
-Le solde est payé ou consigné comme il est dit pour le solde prévu à l'article R. 261-14.
-
-Lorsque la maison fait partie d'un ensemble de plus de vingt maisons et que son utilisation implique celle d'équipements
-extérieurs communs, le bénéfice des dispositions ci-dessus du présent article est subordonné soit à la réalisation préalable
-des équipements nécessaires à l'utilisation de la maison vendue, soit à l'existence pour ces derniers de la garantie
-d'achèvement prévue par l'article R. 261-21.
-
-L'exécution des équipements ci-dessus est établie par certificat d'une personne qualifiée à cet effet ;
-
-b) Si la vente est réalisée par une société d'économie mixte de construction agréée à cet effet par le ministre chargé des
-finances et le ministre chargé de la construction et de l'habitation ou dont une collectivité publique détient au moins 35 p.
-100 du capital social ;
-
-c) Si la vente est réalisée par un organisme d'habitations à loyer modéré.
+Le contrat de vente, auquel est annexée une attestation de la société de garantie des organismes d'habitations à loyer modéré
+établie depuis moins de six mois, précise que l'acheteur reconnaît être averti de la teneur des garanties mentionnées à
+l'alinéa précédent.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 ART. 23 (Décret 72-489 1972-06-13 ART. 2)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Créé par**:
+
+	  - Décret n°2004-933 du 2 septembre 2004 - art. 1 () JORF 4 septembre 2004
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R261-14
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R662-1 (V)
+	  - Code de la construction et de l'habitation. - art. L453-1 (V)
+	  - Code de la construction et de l'habitation. - art. L453-3 (V)
 
 
 ##### Section 5 : Contrat préliminaire.
