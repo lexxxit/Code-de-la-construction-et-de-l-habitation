@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2001-12-30
 
 # Partie législative
 
@@ -31497,6 +31497,172 @@ et les caractéristiques des bâtiments ainsi que leurs équipements et installa
 	  - Décret n°2000-547 du 16 juin 2000 - art. 4 () JORF 22 juin 2000
 
 
+#### Chapitre VII : Gardiennage ou surveillance de certains immeubles d'habitation.
+
+###### Article R*127-1
+
+Afin de satisfaire à l'obligation prévue à l'article L. 127-1 du présent code, le bailleur fait assurer, dans les conditions
+et selon les modalités prévues au présent chapitre, le gardiennage ou la surveillance des immeubles collectifs à usage
+locatif dont il a la gestion.
+
+Les dispositions du premier alinéa s'appliquent à tout bailleur dès lors qu'il gère cent logements locatifs ou plus dans un
+immeuble ou groupe d'immeubles collectifs formant un ensemble situé soit dans une zone urbaine sensible définie au 3° de
+l'article 42 de la loi n° 95-115 du 4 février 1995, soit dans une commune dont la population dépasse 25 000 habitants ou qui
+est comprise dans une aire urbaine d'un seul tenant regroupant au moins 50 000 habitants et dont une ou plusieurs communes
+comptent plus de 15 000 habitants.
+
+**Nota:**
+
+Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002 aux
+logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la construction
+et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des impôts et à
+compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2001-1361 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R271-1 (VD)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-10 (VT)
+	  - Code de la construction et de l'habitation. - art. R*152-9 (VT)
+
+
+###### Article R*127-2
+
+Les fonctions de gardiennage ou de surveillance sont assurées sur l'ensemble de l'année par au moins une personne à temps
+plein ou équivalent temps plein par tranche de cent logements.
+
+Les personnes affectées à ces fonctions sont employées par le bailleur en qualité de concierges, de gardiens ou d'employés
+d'immeuble à usage d'habitation. Le bailleur peut, à titre de complément, recourir à des agents de prévention et de médiation
+ou à des correspondants de nuit. Le bailleur peut également faire assurer le gardiennage ou la surveillance par un
+prestataire de services.
+
+**Nota:**
+
+Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002 aux
+logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la construction
+et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des impôts et à
+compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1361 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-9 (VT)
+	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R271-2 (VD)
+
+
+###### Article R*127-3
+
+Le ou les conseils de concertation locative prévus à l'article 44 ter de la loi n° 86-1290 du 23 décembre 1986 sont consultés
+par le bailleur sur le dispositif de gardiennage ou de surveillance qu'il envisage de mettre en oeuvre en application du
+présent chapitre ainsi que sur ses modifications.
+
+**Nota:**
+
+Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002 aux
+logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la construction
+et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des impôts et à
+compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 du 23 décembre 1986
+
+	**Créé par**:
+
+	  - Décret n°2001-1361 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R271-3 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+###### Article R*127-4
+
+A la demande du préfet, le bailleur lui fait connaître, dans les deux mois suivants, les mesures qu'il a prises pour
+l'application du présent chapitre.
+
+**Nota:**
+
+NOTA : Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002
+aux logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la
+construction et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des
+impôts et à compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1361 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-9 (VT)
+
+
 ### Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites.
 
 #### Chapitre Ier : Chauffage des immeubles
@@ -33078,6 +33244,51 @@ Est punie de la même peine l'opposition à l'exercice des fonctions des agents 
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation R152-8
+
+
+##### Section 4 : Gardiennage ou surveillance de certains immeubles d'habitation.
+
+###### Article R*152-7
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour le bailleur défini à l'article R. 127-1 de
+se soustraire aux obligations de surveillance et de gardiennage qui lui incombent en application des articles R. 127-1 et R.
+127-2. Le contrevenant encourt autant d'amendes qu'il manque de gardiens par tranche de cent logements locatifs dont il a la
+gestion.
+
+Le fait pour le bailleur de ne pas déférer à la demande qui lui est faite en application de l'article R. 127-4 ou de
+transmettre des informations mensongères ou erronées est puni de la même peine d'amende prévue pour les contraventions de la
+5e classe.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
+pénal, des infractions définies au présent article. La peine encourue par les personnes morales est l'amende selon les
+formalités prévues par l'article 131-41 du code pénal.
+
+**Nota:**
+
+NOTA : Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002
+aux logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la
+construction et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des
+impôts et à compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1361 du 28 décembre 2001 - art. 2 () JORF 30 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
+	  - Code de la construction et de l'habitation R127-1, R127-2, R127-4
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer.
