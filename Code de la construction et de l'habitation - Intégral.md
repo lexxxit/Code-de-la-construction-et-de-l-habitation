@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1993-08-29
 
 # Partie législative
 
@@ -11164,6 +11164,27 @@ caractéristiques et les conditions d'octroi sont fixées par décret.
 	**Modifié par**:
 
 	  - Loi n°91-457 du 15 mai 1991 - art. 8 () JORF 17 mai 1991
+
+
+###### Article L351-2-1
+
+L'aide personnalisée au logement est attribuée dans les conditions fixées par le présent titre aux personnes de nationalité
+française et aux personnes de nationalité étrangère titulaires d'un des titres de séjour ou documents justifiant de la
+régularité du séjour et prévus en application de l'article L. 512-2 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 40 () JORF 29 août 1993
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L512-2 (M)
 
 
 ###### Article L351-3
