@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-03-19
 
 # Partie législative
 
@@ -31675,6 +31675,130 @@ des frais de constitution d'hypothèque et autres relatifs à la réalisation du
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
+###### Article R312-3-1
+
+La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 ne peut être accordée qu'aux prêts conventionnés
+mentionnés aux articles R. 331-63 à R. 331-77, consentis par des établissements de crédit ayant conclu une convention avec la
+société de gestion du fonds de garantie de l'accession sociale à la propriété, à des personnes physiques dont les revenus
+sont inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé
+du budget et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°80-473 du 28 juin 1980 - art. 3 (Ab)
+	  - Arrêté du 16 mars 1992 - art. 1 (Ab)
+	  - Arrêté du 16 mars 1992 - art. 2 (Ab)
+	  - Arrêté du 16 mars 1992 - art. 4 (Ab)
+	  - Arrêté du 18 mars 1993 - art. 1 (Ab)
+	  - Arrêté du 6 août 1993 - art. 1 (Ab)
+	  - Arrêté du 6 août 1993 - art. 2 (Ab)
+	  - Arrêté du 6 août 1993 - art. 4 (Ab)
+	  - Arrêté du 3 septembre 1993 - art. 1 (V)
+	  - Arrêté du 8 juillet 1994 - art. 3 (Ab)
+	  - Décret n°94-648 du 22 juillet 1994 - art. 4 (M)
+	  - Décret n°95-476 du 27 avril 1995 - art. 2 (Ab)
+	  - Décret n°95-476 du 27 avril 1995 - art. 4 (Ab)
+	  - Arrêté du 2 mai 1995 - art. 2 (Ab)
+	  - Arrêté du 29 avril 1997 - art. 15 (V)
+	  - Arrêté du 4 octobre 2001 - art. 2 (V)
+	  - Arrêté du 4 octobre 2001 - art. Annexe I (M)
+	  - Arrêté du 25 août 2003 - art. 2 (Ab)
+	  - Arrêté du 31 janvier 2005 - art. 4 (V)
+	  - Décret n°2013-1297 du 27 décembre 2013 - art. 4 (V)
+	  - Code de la consommation - art. R312-3 (MMN)
+	  - Code de la consommation - art. R313-27 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (V)
+	  - Code de la construction et de l'habitation. - art. R302-27 (Ab)
+	  - Code de la construction et de l'habitation. - art. R31-10-12 (V)
+	  - Code de la construction et de l'habitation. - art. R312-3-2 (M)
+	  - Code de la construction et de l'habitation. - art. R317-14 (V)
+	  - Code de la construction et de l'habitation. - art. R317-17 (V)
+	  - Code de la construction et de l'habitation. - art. R317-23 (V)
+	  - Code de la construction et de l'habitation. - art. R317-24 (V)
+	  - Code de la construction et de l'habitation. - art. R317-5 (V)
+	  - Code de la construction et de l'habitation. - art. R318-16 (V)
+	  - Code de la construction et de l'habitation. - art. R318-19 (V)
+	  - Code de la construction et de l'habitation. - art. R318-20 (V)
+	  - Code de la construction et de l'habitation. - art. R318-21 (V)
+	  - Code de la construction et de l'habitation. - art. R318-22 (V)
+	  - Code de la construction et de l'habitation. - art. R331-66 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 septembre 1993
+	  - TXT_SOURCE: Arrêté du 3 septembre 1993 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°1993-03-18 art. 1 JORF 19 mars 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L312-1, R331-63 à R331-77
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+
+
+###### Article R312-3-2
+
+Le fonds de garantie de l'accession sociale à la propriété est financé par une contribution des établissements de crédit et
+une dotation de l'Etat. La contribution d'un établissement de crédit dépend du taux de sinistre des prêts garantis qu'il
+accorde. Cette contribution est au moins égale à la dotation initiale de l'Etat afférente à ces prêts. En cas d'insuffisance
+des disponibilités de la société de gestion du fonds de garantie de l'accession sociale à la propriété, l'Etat fournit à
+celle-ci les ressources nécessaires afin d'honorer ses engagements liés à la garantie mentionnée au troisième alinéa de
+l'article L. 312-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R312-3-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R312-3-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°1993-03-18 art. 1 JORF 19 mars 1993
+
+
+###### Article R312-3-3
+
+Le ministre chargé de l'économie et le ministre chargé du logement sont autorisés à conclure conjointement avec la société de
+gestion du fonds de garantie de l'accession sociale à la propriété mentionnée au troisième alinéa de l'article L. 312-1 une
+convention prévoyant les modalités d'application de l'article R. 312-3-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R31-10-12 (V)
+
+	**Créé par**:
+
+	  - Décret n°1993-03-18 art. 1 JORF 19 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
 ##### Sous-section 2 : Consolidation des prêts aux sociétés de construction.
 
 ###### Article R312-4
@@ -43241,6 +43365,46 @@ global initialement fixé ne soit pas augmenté. "
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
 
+##### Sous-section 1 : Conditions d'octroi.
+
+###### Article R331-67
+
+Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales qui destinent
+un ou des logements à la location. L'octroi de ces prêts n'est pas subordonné à la passation d'une convention régie par le
+titre V, chapitre III, du présent livre (1re partie) sauf lorsque ces prêts financent les opérations visées à l'article R.
+331-63 (3°).
+
+Ces prêts ne peuvent pas bénéficier de la garantie de l'Etat mentionnée au troisième alinéa de l'article L. 312-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 10 (Ab)
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Arrêté du 7 mars 1978 - art. 4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-64 (V)
+	  - Code de la construction et de l'habitation. - art. R331-68 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-70 (V)
+	  - Code de la construction et de l'habitation. - art. R353-126 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+	**Modifié par**:
+
+	  - Décret n°1993-03-18 art. 5 JORF 19 mars 1993
+
+
 ##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.
 
 ###### Article R331-76-1
@@ -43595,41 +43759,6 @@ principale représentent la moitié au moins du total des voix [*condition*].
 	  - Décret n°91-1111 du 25 octobre 1991 - art. 2 () JORF 26 octobre 1991
 
 
-###### Article R331-67
-
-Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales
-[*bénéficiaires*] qui destinent un ou des logements à la location. L'octroi de ces prêts n'est pas subordonné à la passation
-d'une convention régie par le titre V, chapitre III, du présent livre (1ère partie) sauf lorsque ces prêts financent les
-opérations visées à l'article R. 331-63 (3°). "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-1111 du 25 octobre 1991 - art. 3 () JORF 26 octobre 1991
-
-	**Cité par**:
-
-	  - Arrêté du 16 mars 1992 - art. 10 (Ab)
-	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
-	  - Arrêté du 7 mars 1978 - art. 4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*313-15 (M)
-	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-64 (V)
-	  - Code de la construction et de l'habitation. - art. R331-68 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-70 (V)
-	  - Code de la construction et de l'habitation. - art. R353-126 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-
 ###### Article R331-68
 
 Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1. et 3.) doivent respecter
@@ -43840,26 +43969,30 @@ constantes et des prêts à annuités progressives selon les modalités définie
 
 ###### Article R331-74
 
-Le taux d'intérêt des prêts conventionnés ne peut excéder un taux maximum qui résulte de l'addition :
+Le taux d'intérêt des prêts conventionnés ne peut excéder un taux maximum qui résulte de l'addition d'un taux de référence et
+d'une marge, variable en fonction des caractéristiques du prêt.
 
-- d'un taux de référence, déterminé trimestriellement par le Crédit foncier de France, selon des modalités définies par la
-convention type prévue à l'article R. 331-65 ;
+Les modalités de détermination et de révision du taux de référence et le niveau de la marge sont fixés par arrêté du ministre
+chargé de l'économie.
 
-- et d'une marge fixée par cette même convention.
+Toutefois, le niveau de la marge des prêts conventionnés bénéficiant de la garantie de l'Etat mentionnée au troisième alinéa
+de l'article L. 312-1 est fixé par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du
+logement.
+
+Le taux de référence est publié par le Crédit foncier de France.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°1993-03-18 art. 8 JORF 19 mars 1993
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 18 mars 1993
 	  - TXT_SOURCE: Arrêté du 18 mars 1993 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
@@ -43877,7 +44010,7 @@ convention type prévue à l'article R. 331-65 ;
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-65 (M)
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
 ###### Article R331-75
