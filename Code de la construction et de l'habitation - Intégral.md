@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2000-12-16
 
 # Partie législative
 
@@ -76957,6 +76957,62 @@ l'administrateur désigné, selon les formes prévues à l'article R. 51-1 du co
 	  - Code de procédure pénale - art. R51 (V)
 	  - Code de procédure pénale - art. R51-1 (V)
 	  - Code de la construction et de l'habitation. - art. L651-10 (V)
+
+
+### Titre VI : Dispositions relatives à l'outre-mer.
+
+#### Chapitre II : Dispositions relatives à la Polynésie française.
+
+###### Article R662-1
+
+Les articles R. 261-1 à R. 261-7, le premier alinéa de l'article R. 261-8, les articles R. 261-10 à R. 261-14, les articles
+R. 261-17 et R. 261-18, le a de l'article R. 261-19, les articles R. 261-20 à R. 261-33 sont applicables en Polynésie
+française sous réserve des adaptations suivantes :
+
+- le quatrième alinéa de l'article R. 261-2 est ainsi rédigé : 
+
+Cette personne est désignée par ordonnance sur requête, non susceptible de recours, du président du tribunal de première
+instance du lieu de l'immeuble, parmi celles que le tribunal commet habituellement. ;
+
+- à l'article R. 261-3, après les mots : " aux règles de la publicité foncière ", sont ajoutés les mots : " applicables
+localement " ;
+
+- à l'article R. 261-7, les mots : " y compris de ceux qui sont prévus au second alinéa de l'article R. 111-24 du présent
+code " sont supprimés ;
+
+- le premier alinéa de l'article R. 261-17 est ainsi rédigé : 
+
+La garantie de l'achèvement de l'immeuble résulte soit de l'existence de conditions propres à l'opération, soit de
+l'intervention, dans les conditions prévues ci-après, d'une banque ou d'un établissement financier habilité à faire des
+opérations de crédit immobilier. ;
+
+- à l'article R. 261-24, les mots : " prévue à l'article R. 460-1 du code de l'urbanisme " sont remplacés par les mots : "
+prévue par les règles applicables localement relatives à la déclaration d'achèvement des travaux ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-1227 du 13 décembre 2000 - art. 1 () JORF 16 décembre 2000
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R460-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*111-24 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-19 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-20 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-24 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-8 (V)
 
 
 # Annexes
