@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-10-23
+Version Consolidée au 1999-10-30
 
 # Partie législative
 
@@ -67402,11 +67402,8 @@ l'autorisation du ministre chargé des finances, les dons et legs.
 
 ###### Article R*431-33
 
-La caisse est administrée par un conseil d'administration de dix membres désignés par arrêté du ministre chargé des finances
-et du ministre chargé de la construction et de l'habitation. Ce conseil d'administration comprend [*composition*] :
-
-- deux représentants des organismes d'habitations à loyer modéré, dont l'un, ayant la qualité de représentant de
-collectivités locales, est président du conseil d'administration ;
+La caisse est administrée par un conseil d'administration de dix membres désignés pour une durée de trois ans renouvelable
+par arrêté du ministre chargé des finances et du ministre chargé de la construction et de l'habitation. Ce conseil comprend :
 
 - un conseiller d'Etat ou un conseiller maître à la Cour des comptes ;
 
@@ -67418,7 +67415,15 @@ collectivités locales, est président du conseil d'administration ;
 
 - le directeur général de la Caisse des dépôts et consignations ou son représentant ;
 
+- deux représentants des organismes d'habitation à loyer modéré dont l'un a la qualité d'élu local ;
+
 - un représentant des sociétés d'économie mixte susceptibles de bénéficier des prêts de la caisse.
+
+Le conseil d'administration élit en son sein un président parmi les représentants des organismes d'habitation à loyer modéré.
+
+En cas de vacance de la présidence du conseil d'administration, les fonctions du président sont exercées, jusqu'à l'élection
+du nouveau président qui doit intervenir dans un délai de deux mois à compter de la vacance, par un des représentants du
+ministre chargé de la construction et de l'habitation que le ministre désigne à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -67428,7 +67433,11 @@ collectivités locales, est président du conseil d'administration ;
 
 	**Modifié par**:
 
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+	  - Décret n°99-918 du 27 octobre 1999 - art. 1 () JORF 30 octobre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
 
 
 ###### Article R*431-34
