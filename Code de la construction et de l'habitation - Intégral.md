@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-11-27
+Version Consolidée au 1985-12-28
 
 # Partie législative
 
@@ -34267,36 +34267,6 @@ de l'habitation et du ministre chargé des finances.
 
 
 ### Titre II : Amélioration de l'habitat.
-
-#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat, statut.
-
-###### Article R*321-17
-
-Une convention entre le Crédit foncier de France et l'Etat détermine les modalités de liquidation du fonds national
-d'amélioration de l'habitat et du transfert de son actif à l'agence nationale pour l'amélioration de l'habitat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-806 1971-09-29 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1380 1985-12-27 art. 1 JORF 28 décembre 1985
-
-	**Cité par**:
-
-	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
-	  - Arrêté du 1er août 2014 - art. Annexe 1 (V)
-	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
-	  - Code de la construction et de l'habitation. - art. R*321-5 (V)
-	  - Code de la construction et de l'habitation. - art. R321-21-1 (V)
-
 
 #### Chapitre III : Subventions de l'Etat
 
