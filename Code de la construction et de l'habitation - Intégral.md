@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-03-13
+Version Consolidée au 1999-03-27
 
 # Partie législative
 
@@ -59502,16 +59502,29 @@ d) Pour les usagers, douze membres représentant :
 
 - la Confédération générale des cadres.
 
-e) Six personnalités choisies en raison de leur compétence par le ministre chargé de la construction et de l'habitation.
+e) Pour les associations d'insertion et de défense des personnes en situation d'exclusion par le logement, quatre membres, à
+savoir :
 
-Les membres mentionnés aux c et d du présent article sont désignés par l'organisme qu'ils représentent. Des suppléants des
-membres mentionnés aux b, c et d sont désignés en nombre égal et dans les mêmes conditions que les titulaires.
+- deux membres représentant l'Union nationale interfédérale des oeuvres et organismes privés sanitaires et sociaux ;
+
+- un membre représentant Aide à toute détresse Quart-Monde (ATD Quart-Monde) ;
+
+- un membre représentant Droit au logement (DAL).
+
+f) Six personnalités choisies en raison de leur compétence par le ministre chargé de la construction et de l'habitation.
+
+Les membres mentionnés aux c, d et e du présent article sont désignés par l'organisme qu'ils représentent. Des suppléants des
+membres mentionnés aux b, c, d et e sont désignés en nombre égal et dans les mêmes conditions que les titulaires.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-236 du 24 mars 1999 - art. 1 () JORF 27 mars 1999
 
 	**Cité par**:
 
@@ -60069,50 +60082,6 @@ compétences prévues par l'article 41 ter de la même loi dans les conditions d
 
 ##### Section 2 : Composition et fonctionnement.
 
-###### Article R362-10
-
-Outre son président, le conseil départemental de l'habitat est composé :
-
-a) De trente-six membres [*nombre*] nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
-
-1° Pour un tiers,[*proportion*] de représentants du conseil général, des communes et des groupements de communes du
-département désignés dans les conditions fixées à l'article R. 362-12 ;
-
-2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
-mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14;
-
-3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés, de représentants des
-partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
-personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
-fixées à l'article R. 362-14.
-
-b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
-
-Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°95-638 du 6 mai 1995 - art. 5 () JORF 7 mai 1995
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-48 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-12 (M)
-	  - Code de la construction et de l'habitation. - art. R362-14 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
 ###### Article R362-18-1
 
 Il est créé au sein du conseil départemental de l'habitat un comité permanent, qui émet en son nom un avis sur toute
@@ -60170,6 +60139,51 @@ Le président du conseil départemental de l'habitat est le préfet.
 
 	**Cité par**:
 
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-10
+
+Outre son président, le conseil départemental de l'habitat est composé :
+
+a) De trente-six membres nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
+
+1° Pour un tiers, de représentants du conseil général, des communes et des groupements de communes du département désignés
+dans les conditions fixées à l'article R. 362-12 ;
+
+2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
+mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14 ;
+
+3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés de représentants
+d'associations d'insertion et de défense des personnes en situation d'exclusion par le logement, de représentants des
+partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
+personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
+fixées à l'article R. 362-14.
+
+b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
+
+Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-236 du 24 mars 1999 - art. 2 () JORF 27 mars 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-48 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-12 (M)
+	  - Code de la construction et de l'habitation. - art. R362-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
