@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-12-28
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -11792,18 +11792,27 @@ ces dispositions.
 
 ###### Article L315-4
 
-Les bénéficiaires d'un prêt d'épargne-logement reçoivent de l'Etat une prime d'épargne dont le montant est fixé compte tenu
-de leur effort d'épargne.
+Les bénéficiaires d'un prêt d'épargne-logement reçoivent de l'Etat, lors de la réalisation du prêt, une prime d'épargne dont
+le montant est fixé compte-tenu de leur effort d'épargne.
+
+**Nota:**
+
+Loi 2002-1575 2002-12-30 finances art. 80 II : les présentes dispositions s'appliquent aux comptes d'épargne-logement ouverts
+à compter du 12 décembre 2002.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°65-554 1965-07-10 art. 6
+	  - Loi n°65-554 1965-07-10 ART. 6
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°2002-1575 art. 80 (V) JORF 31 décembre 2002
 
 
 ###### Article L315-5
