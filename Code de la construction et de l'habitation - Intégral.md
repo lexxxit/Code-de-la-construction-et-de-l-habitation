@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-12-05
+Version Consolidée au 1984-12-22
 
 # Partie législative
 
@@ -38151,6 +38151,35 @@ payeur est la caisse de mutualité sociale agricole compétente.
 	  - Code de la construction et de l'habitation. - art. R351-9 (V)
 
 
+###### Article R351-28
+
+Lorsque le bénéficiaire de l'aide personnalisée est un locataire, son versement intervient mensuellement à terme échu.
+
+Lorsque le bénéficiaire est un propriétaire, l'aide personnalisée est versée :
+
+- à l'établissement habilité, selon la même périodicité que le paiement des charges d'emprunt en cas de prêt unique ;
+
+- à l'établissement habilité ou au bénéficiaire, mensuellement, à terme échu, ou selon la périodicité la plus courte de
+celles prévues par les différents contrats de prêts.
+
+Lorsque le bénéficiaire est un accédant titulaire d'un contrat de location-accession, l'aide personnalisée est versée selon
+la même périodicité que le paiement de la redevance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 7 JORF 22 décembre 1984
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-66 (M)
+
+
 ##### Sous-section 7 : Dispositions diverses.
 
 ###### Article R351-32
@@ -43259,6 +43288,54 @@ l'engagement de location, l'aide personnalisée peut être accordée à chacune 
 	  - Loi n°71-532 1971-07-16
 
 
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
+
+###### Article R351-18
+
+Le montant de l'aide personnalisée est obtenu par l'application de la formule :
+
+A.P.L. = K (L+C-L.),    dans laquelle    a) A.P.L. représente le montant mensuel de l'aide personnalisée ;
+
+b) K représente le coefficient de prise  en charge défini à l'article R. 351-19 ;
+
+c) L représente pour une période d'un mois :
+
+- soit le loyer principal effectivement payé pris en compte dans la limite du loyer de référence fixé à l'article R. 351-20
+- soit la somme prise en compte au titre des opérations d'accession, d'amélioration ou de location-accession prévues par
+l'article R. 351-1, dans la limite de la mensualité de référence fixée à l'article R. 351-20 ;
+
+d) C représente le montant forfaitaire des charges défini à l'article R. 351-20 ;
+
+e) L. représente le loyer principal minimum, tel que défini à l'article R. 351-21, qui doit rester à la charge du locataire
+ou du propriétaire compte tenu des ressources et de la composition de la famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 3 jorf 22 décembre 1984
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-1-I
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-21 (M)
+
+
 ##### Sous-section 5 : Prime de déménagement.
 
 ###### Article R351-25
@@ -43277,6 +43354,74 @@ de la sécurité sociale.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+##### Sous-section 6 : Modalités de liquidation et de versement.
+
+###### Article R351-27
+
+L'aide personnalisée est versée selon les modalités techniques précisées par les conventions nationales prévues à l'article
+L. 351-8 :
+
+- au bailleur ou au gestionnaire répondant aux conditions fixées par l'arrêté du 9 mars 1978 relatif à l'agrément des
+personnes ou organismes habilités à gérer des immeubles faisant l'objet d'une convention régie par le titre V de la loi n.
+77-1 du 3 janvier 1977, lorsque le bénéficiaire est locataire : ce versement peut faire l'objet d'avances dans des cas et
+selon des conditions définies par arrêté conjoint des ministres chargés de la sécurité sociale, de l'agriculture, des
+finances et de la construction et de l'habitation ;
+
+- à l'établissement habilité à cette fin lorsque le bénéficiaire est propriétaire du logement ; cet établissement est
+l'établissement prêteur, lorsque le bénéficiaire est un propriétaire qui a contracté un prêt unique entrant dans le champ
+d'application de l'article R. 351-2 et, lorsque le propriétaire a contracté plusieurs prêts, l'établissement qui a accordé le
+prêt principal répondant aux critères dudit article R. 351-2 sauf si le propriétaire a donné mandat à un autre établissement
+répondant à des caractéristiques définies par arrêté conjoint des ministres chargés des finances, de la construction et de
+l'habitation, de l'agriculture et de la sécurité sociale, auquel cas l'aide personnalisée est versée à cet établissement.
+
+Lorsque le bénéficiaire est locataire d'un logement compris dans un patrimoine conventionné comportant moins de dix
+logements, l'aide personnalisée est versée au bailleur ou au gestionnaire, s'il en fait la demande ; dans le cas contraire,
+elle est versée au locataire.
+
+En outre, elles est versée directement au bénéficiaire qui est dans l'une des situations suivantes :
+
+- locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 :
+
+- propriétaire qui a contracté plusieurs prêts et qui n'a pas donné mandat à un établissement habilité, lorsque aucune des
+mensualités de remboursement de ces prêts n'est supérieure ou égale pour la première année au montant de l'aide
+personnalisée.
+
+Pour l'application du présent article :
+
+- sont considérés comme établissement habilité le vendeur, en cas de vente à terme, ou de location-accession, et les sociétés
+faisant l'objet des dispositions des articles L. 212-1 à L. 212-13 [*sociétés constituées en vue de l'attribution d'immeubles
+par fractions divisés*] et L. 213-1 à L. 213-15 [*sociétés coopératives de construction*] lorsqu'elles ont été bénéficiaires
+du prêt principal ;
+
+- est assimilé au propriétaire l'accédant titulaire d'un contrat de location-accession, et le porteur de parts ou d'actions
+de sociétés donnant vocation à l'attribution en propriété du logement qu'il occupe dès lors qu'il bénéficie directement d'un
+prêt entrant dans le champ d'application de l'article R. 351-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1978-03-09
+	  - Loi n°77-1 1977-01-03 TITRE V
+	  - Code de la construction et de l'habitation L351-8, R351-2, L353-9, L212-1 à L212-13, L213-1 à L213-15
+	  - Code de la construction et de l'habitation. - art. L351-8 (M)
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 6 JORF 22 décembre 1984
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D271-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*351-31 (VD)
 
 
 ##### Sous-section 7 : Dispositions diverses.
@@ -43474,6 +43619,10 @@ donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 4.), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du 22 juin
 1982 relative aux droits et obligations des locataires et des bailleurs.
 
+- soit un logement faisant l'objet d'un contrat de location-accession conclu dans les conditions prévues par la loi n° 84-595
+du 12 juillet 1984 définissant la location-accession à la propriété immobilière et qui a été construit ou acquis dans les
+conditions définies par l'article L. 351-2 (6.).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -43482,14 +43631,15 @@ donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
 	**Cite**:
 
-	  - lOI 82-526 1982-06-22
+	  - Loi n°82-526 1982-06-22
+	  - Loi n°84-595 1984-07-12
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L352-1 (V)
 	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°84-12 1984-01-04 ART. 1 JORF 6 JANVIER 1984
+	  - Décret n°84-1160 1984-12-21 art. 1 JORF 22 décembre 1984
 
 	**Cité par**:
 
@@ -43503,6 +43653,45 @@ donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
+
+###### Article R351-2-1
+
+L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
+d'un prêt défini par les articles R. 331-59-8 et suivants et supporte les charges afférentes à ce prêt [*bénéficiaire*].
+
+Le droit à l'aide personnalisée est ouvert :
+
+Soit, si l'accédant n'occupe pas le logement à la date de signature du contrat de location-accession, à compter du mois au
+cours duquel se situe son entrée dans les lieux ;
+
+Soit, si l'accédant occupe le logement à la date de signature du contrat de location-accession, à compter du mois au cours
+duquel se situe cette date.
+
+L'aide personnalisée est versée à compter de la première échéance due au titre de ce contrat et postérieure à la date
+d'entrée dans les lieux ou de signature du contrat si l'accédant est déjà dans les lieux.
+
+Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
+alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 2 JORF 22 décembre 1984
+
+	**Cité par**:
+
+	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-59-8 et s., R331-59-16 al. 1
+
 
 ###### Article R351-5
 
@@ -43976,64 +44165,21 @@ Le montant de l'aide personnalisée versée au bénéficiaire qui occupe le loge
 de période de paiement lorsque la période de remboursement du prêt ouvrant droit à l'aide personnalisée fait suite à une
 période de différé d'amortissement.
 
+Le montant de l'A.P.L. due à l'accédant titulaire d'un contrat de location-accession est révisé en cours de période de
+paiement lors de chaque révision de la redevance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 4 JORF 22 décembre 1984
+
 
 ##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
-
-###### Article R351-18
-
-Le montant de l'aide personnalisée est obtenu par l'application de la formule :
-
-A.P.L. = K (L+C-L.),    dans laquelle    a) A.P.L. représente le montant mensuel de l'aide personnalisée ;
-
-b) K représente le coefficient de prise  en charge défini à l'article R. 351-19 ;
-
-c) L représente pour une période d'un mois :
-
-- soit le loyer principal effectivement payé pris en compte dans la limite du loyer de référence fixé à l'article R. 351-20
-- soit la somme prise en compte au titre des opérations prévues par l'article R. 351-1, dans la limite de la mensualité de
-référence fixée à l'article R. 351-20 ;
-
-d) C représente le montant forfaitaire des charges défini à l'article R. 351-20 ;
-
-e) L. représente le loyer principal minimum, tel que défini à l'article R. 351-21, qui doit rester à la charge du locataire
-ou du propriétaire compte tenu des ressources et de la composition de la famille.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-22 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-	  - Code de la construction et de l'habitation. - art. R351-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-21 (M)
-
 
 ###### Article R351-19
 
@@ -44105,27 +44251,20 @@ résultat étant divisé par douze.
 Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés des finances, de la
 construction et de l'habitation, de l'agriculture et de la sécurité sociale en distinguant :
 
-- les logements neufs occupés par leur propriétaire ;
+- les logements construits ou acquis et améliorés, occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de
+location-accession ;
 
-- les logements existants occupés par leur propriétaire et les logements locatifs.
+- les logements existants améliorés, occupés par leur propriétaire et les logements locatifs.
 
 Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
 
-Le loyer mimimum mensuel est arrondi au franc inférieur.
+Le loyer minimum mensuel est arrondi au franc inférieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
@@ -44137,6 +44276,10 @@ Le loyer mimimum mensuel est arrondi au franc inférieur.
 	  - Arrêté du 3 juillet 1978 - art. 10 (V)
 	  - Arrêté du 30 juin 1979 - art. 4 (M)
 	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°84-1160 1984-12-21 art. 5 JORF 22 décembre 1984
 
 	**Cite**:
 
@@ -44204,100 +44347,6 @@ l'emménagement dans la résidence définitive.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-22 (M)
-
-
-##### Sous-section 6 : Modalités de liquidation et de versement.
-
-###### Article R351-27
-
-L'aide personnalisée est versée selon les modalités techniques précisées par les conventions nationales prévues à l'article
-L. 351-8 :
-
-- au bailleur ou au gestionnaire répondant aux conditions fixées par l'arrêté du 9 mars 1978 relatif à l'agrément des
-personnes ou organismes habilités à gérer des immeubles faisant l'objet d'une convention régie par le titre V de la loi n.
-77-1 du 3 janvier 1977, lorsque le bénéficiaire est locataire : ce versement peut faire l'objet d'avances dans des cas et
-selon des conditions définies par arrêté conjoint des ministres chargés de la sécurité sociale, de l'agriculture, des
-finances et de la construction et de l'habitation ;
-
-- à l'établissement habilité à cette fin lorsque le bénéficiaire est propriétaire du logement ; cet établissement est
-l'établissement prêteur, lorsque le bénéficiaire est un propriétaire qui a contracté un prêt unique entrant dans le champ
-d'application de l'article R. 351-2 et, lorsque le propriétaire a contracté plusieurs prêts, l'établissement qui a accordé le
-prêt principal répondant aux critères dudit article R. 351-2 sauf si le propriétaire a donné mandat à un autre établissement
-répondant à des caractéristiques définies par arrêté conjoint des ministres chargés des finances, de la construction et de
-l'habitation, de l'agriculture et de la sécurité sociale, auquel cas l'aide personnalisée est versée à cet établissement.
-
-Lorsque le bénéficiaire est locataire d'un logement compris dans un patrimoine conventionné comportant moins de dix
-logements, l'aide personnalisée est versée au bailleur ou au gestionnaire, s'il en fait la demande ; dans le cas contraire,
-elle est versée au locataire.
-
-En outre, elles est versée directement au bénéficiaire qui est dans l'une des situations suivantes :
-
-- locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 :
-
-- propriétaire qui a contracté plusieurs prêts et qui n'a pas donné mandat à un établissement habilité, lorsque aucune des
-mensualités de remboursement de ces prêts n'est supérieure ou égale pour la première année au montant de l'aide
-personnalisée.
-
-Pour l'application du présent article :
-
-- sont assimilés à l'établissement prêteur le vendeur, en cas de vente à terme, et les sociétés faisant l'objet des
-dispositions des articles L. 212-1 à L. 212-13 [*sociétés constituées en vue de l'attribution d'immeubles par fractions
-divisés*] et L. 213-1 à L. 213-15 [*sociétés coopératives de construction*] lorsqu'elles ont été bénéficiaires du prêt
-principal :
-
-- est assimilé au propriétaire le porteur de parts ou d'actions de sociétés donnant vocation à l'attribution en propriété du
-logement qu'il occupe dès lors qu'il bénéficie directement d'un prêt entrant dans le champ d'application de l'article R.
-351-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1978-03-09
-	  - Loi n°77-1 1977-01-03 TITRE V
-	  - Code de la construction et de l'habitation L351-8, R351-2, L353-9, L212-1 à L212-13, L213-1 à L213-15
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
-	  - Code de la construction et de l'habitation. - art. L353-9 (V)
-	  - Code de la construction et de l'habitation. - art. R351-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-391 1980-06-02 ART. 3 JORF 4 JUIN 1980
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D271-2 (VD)
-	  - Code de la construction et de l'habitation. - art. R*351-31 (VD)
-
-
-###### Article R351-28
-
-Lorsque le bénéficiaire de l'aide personnalisée est un locataire, son versement intervient mensuellement à terme échu.
-
-Lorsque le bénéficiaire est un propriétaire, l'aide personnalisée est versée :
-
-- à l'établissement habilité, selon la même périodicité que le paiement des charges d'emprunt en cas de prêt unique ;
-
-- à l'établissement habilité ou au bénéficiaire, mensuellement, à terme échu, ou selon la périodicité la plus courte de
-celles prévues par les différents contrats de prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
 ##### Section 3 : Commission départementale de l'aide personnalisée.
