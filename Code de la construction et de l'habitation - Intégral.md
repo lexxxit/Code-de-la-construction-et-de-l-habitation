@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-11-13
 
 # Partie législative
 
@@ -55430,6 +55430,45 @@ d'habitations à loyer modéré et, notamment, à celles fixées par l'article L
 
 ##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
 
+###### Article R*443-4
+
+Tout changement d'affectation, toute location ou sous-location partielle ou totale, meublée ou non meublée, d'une habitation
+à loyer modéré par l'accédant à la propriété est subordonné, pendant toute la durée du concours de l'Etat, à l'autorisation
+de l'organisme par l'intermédiaire duquel ce concours a été obtenu. L'autorisation est donnée sur avis favorable du [*comité
+départemental des habitations à loyer modéré*] conseil départemental de l'habitat. Toutefois, n'ont pas à solliciter cette
+autorisation, sauf en cas de changement d'affectation, les accédants à la propriété justifiant, auprès de l'organisme
+susmentionné, que l'inoccupation d'un logement ou sa location est motivée par des raisons professionnelles rendant
+incompatible l'occupation personnelle et familiale de leur logement avec l'exercice de leurs activités professionnelles dans
+un nouveau lieu de travail. Ils doivent indiquer à l'organisme la date à laquelle le logement cesse d'être leur résidence
+principale. A l'expiration d'un délai de trois ans à compter de cette date, les intéressés doivent solliciter l'autorisation
+susmentionnée. Cette autorisation ne pourra être inférieure à trois ans. Le prix de location ne peut être supérieur au
+montant des loyers prévus aux articles L. 442-1 à L. 442-9. Toute infraction aux dispositions du présent article entraîne le
+remboursement immédiat du montant des concours financiers accordés [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-1252 1977-11-10 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+	**Modifié par**:
+
+	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L442-1 à L442-9
+
+
 ###### Article R443-1
 
 La décision administrative prévue à l'article L. 443-1 est prise par arrêté conjoint du ministre chargé de la construction et
@@ -55518,396 +55557,134 @@ nationale de prévoyance.
 	  - Code de l'urbanisme 229
 
 
-##### Section 2 : Accession à la propriété des locataires d'habitations à loyer modéré. 
+###### Article R443-5
 
-###### Article R443-10
-
-Les demandes formulées par les locataires d'habitations à loyer modéré en vue de l'accession à la propriété en application
-des articles L. 443-7 et L. 443-8 doivent :
-
-1. Concerner les logements construits depuis plus de dix ans, ce délai étant décompté à partir de la date de la réception
-provisoire ;
-
-2. Etre souscrites soit par les locataires d'un de ces logements justifiant avoir joui pendant plus de cinq ans, d'une
-manière continue ou non, de la qualité de locataire d'organismes d'habitations à loyer modéré ou d'organismes ayant construit
-avec le bénéfice de la législation sur les habitations à loyer modéré, soit par les locataires ou les occupants de bonne foi
-et avec titres des cités d'expérience justifiant du même délai.
-
-Les logements-foyers destinés notamment aux personnes âgées, aux jeunes travailleurs, aux travailleurs migrants et aux
-étudiants ne peuvent faire l'objet d'une opération d'achat dans le cadre des dispositions des articles L. 443-7 à L. 443-15.
+Lorsque l'emprunteur, qui n'a pas été admis à contracter l'assurance prévue à l'article L. 443-2, alinéa 1er, en raison de
+son état de santé ou des risques anormaux que présente sa profession, entend se prévaloir de la faculté qui lui est accordée
+par l'alinéa 2 dudit article, l'assurance est contractée en son lieu et place par son conjoint ou par un tiers, dans les
+conditions prévues par les articles L. 131-1 à L. 131-3 et L. 132-1 à L. 132-28 du code des assurances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L443-7 à L443-15
-	  - Code de la construction et de l'habitation. - art. L443-8 (M)
-
-
-###### Article R443-11
-
-Les demandes d'acquisition sont adressées aux organismes propriétaires, par lettre recommandée avec demande d'avis de
-réception, dans les formes déterminées par arrêté du ministre chargé de la construction et de l'habitation.
-
-Si la demande d'acquisition ne comporte pas les renseignements ou pièces annexes prévus par l'arrêté, l'organisme invite le
-demandeur à compléter sa demande. Celle-ci ne prend date qu'à compter de la réception du dossier dûment complété.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-12 (M)
-
-
-###### Article R443-12
-
-L'organisme propriétaire doit, dans un délai de trois mois à compter de la réception de la demande du locataire, faire
-connaître à ce dernier s'il s'oppose ou non à la vente.
-
-A défaut de réponse dans ledit délai, l'organisme est réputé ne pas s'y opposer [*accord tacite*].
-
-L'opposition dûment motivée doit être notifiée au préfet et au demandeur par lettre recommandée, avec demande d'avis de
-réception, dans les trois mois de la demande prévue à l'article R. 443-11.
-
-Le candidat acquéreur, à défaut d'une telle notification, peut, à l'expiration du délai, se prévaloir de l'accord de
-l'organisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 3, art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. *R443-12-1 (V)
-	  - Code de la construction et de l'habitation. - art. R481-8-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R443-11 (M)
-
-
-###### Article R443-13
-
-Après avoir pris l'avis du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat, le
-préfet décide du caractère sérieux et légitime des motifs d'opposition invoqués par l'organisme.
-
-Peuvent notamment être considérées comme tels [*définition*] l'insolvabilité notoire du locataire, l'inexécution par lui de
-ses obligations, l'utilité de maintenir à usage locatif certains immeubles en raison de leur état ou de circonstances
-économiques locales impérieuses, l'existence de conventions passées par les organismes pour la réservation de logements
-telles que celles passées avec l'Etat au titre des articles R. 314-5 et R. 431-3 ou avec des entreprises au titre de la
-participation des employeurs à l'effort de construction.
-
-La décision du préfet est notifiée à l'organisme et au candidat acquéreur dans le délai de deux mois à compter de la
-notification d'opposition.
-
-Si cette décision rejette les motifs invoqués par l'organisme, celui-ci est tenu de consentir à la vente, sous réserve des
-dispositions de l'article R. 443-14, alinéa 2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-	**Cité par**:
-
-	  - Arrêté du 23 juillet 1987 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R*423-12 (V)
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R443-14 AL. 2
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
-	  - Code de la construction et de l'habitation. - art. R431-3 (V)
+	  - Code des assurances - art. L131-1 (M)
+	  - Code des assurances - art. L131-2 (M)
+	  - Code des assurances - art. L131-3 (V)
+	  - Code des assurances L132-1 à L132-28
+	  - Code de la construction et de l'habitation L443-2 AL. 1 ET AL. 2
+
+	**Anciens textes**:
+
+	  - Décret  1921-03-21 art. 3 al. 3
 
 
-###### Article R443-14
+###### Article R443-6
 
-L'organisme est tenu, dans le délai de quinze jours à compter de la date à laquelle le candidat acquéreur peut se prévaloir
-de son accord exprès ou tacite, de saisir les services fiscaux (domaines) en vue d'obtenir l'estimation du logement
-considéré. Cette estimation doit être fournie dans un délai de trois mois elle prend pour base le prix des appartements
-libres à la vente.
+Lorsque le contrat d'acquisition, de location ou de prêt est résilié, par suite de libération anticipée totale de l'assuré ou
+pour toute autre cause, la police d'assurance peut être résiliée à la date du dernier jour de la période annuelle d'assurance
+en cours et, dans ce cas, il est remboursé une somme égale au montant à cette date, de la provision mathématique du contrat
+calculée d'après le tarif en vigueur au début de l'assurance.
 
-Au cas où cette valeur est inférieure au prix de revient réel du logement diminué des amortissements déjà effectués portés
-dans la comptabilité de l'organisme propriétaire, celui-ci peut s'opposer à la vente.
+Ce paiement est effectué sur la quittance collective de l'assuré et de l'organisme bénéficiaire de l'assurance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-840 1966-11-14 art. 6
+	  - Décret  1921-03-21 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Arrêté du 23 juillet 1987
-	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 3 (V)
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+
+
+###### Article R443-7
+
+Il ne peut être procédé au transfert du bénéfice d'une assurance, sauf au profit de l'Etat.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 23 juillet 1987 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R443-15 (V)
-	  - Code de la construction et de l'habitation. - art. R443-17 (V)
-	  - Code de la construction et de l'habitation. - art. R443-20 (Ab)
-
-
-###### Article R443-15
-
-Faute par l'organisme d'avoir procédé dans le délai prévu à l'article R. 443-14 à la saisine de l'administration des services
-fiscaux (domaines), le candidat peut requérir le préfet d'y procéder d'office.
-
-A défaut par l'organisme d'avoir procédé dans le délai d'un mois à compter du jour où il a reçu l'estimation des services
-fiscaux (domaines) à la notification des conditions de vente, le candidat acquéreur peut également requérir le préfet de
-mettre l'organisme en demeure d'y procéder.
-
-**Liens relatifs à cet article**
+	  - Code de la construction et de l'habitation. - art. R443-8 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°66-840 1966-11-14 art. 8
+	  - Décret  1921-03-21 art. 15
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
-	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R443-12 (M)
-	  - Code de la construction et de l'habitation. - art. R443-16 (M)
+###### Article R443-8
+
+Les prêts accordés par les sociétés de crédit immobilier sont soumis aux dispositions générales des contrats d'assurance
+régis par le code des assurances (livre Ier), par les dispositions du présent livre et notamment les articles R. 443-1 et R.
+443-7 ainsi que par les dispositions particulières ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R443-14 (M)
+	  - Code de la construction et de l'habitation R443-7 (RENVOI)
 
 
-###### Article R443-16
+###### Article R443-9
 
-Les modalités de paiement qui font l'objet de la notification [*des conditions de vente*] prévue à l'article R. 443-15 sont
-les suivantes :
+Les sociétés d'habitations à loyer modéré ayant obtenu des avances de sociétés de crédit immobilier ne peuvent transférer le
+bénéfice des assurances souscrites en garantie des prêts hypothécaires consentis au moyen de ces avances qu'au profit de ces
+dernières sociétés.
 
-- l'acquéreur doit régler 20 p. 100 du prix de la cession au moment de la signature de l'acte d'acquisition ;
+Les sociétés de crédit immobilier ne peuvent transporter le bénéfice des assurances transférées à leur profit par les
+sociétés d'habitations à loyer modéré, ou celui des assurances souscrites directement à leur profit, sauf lorsque la cession
+des créances hypothécaires garanties par ces assurances est autorisée par la commission d'attribution des prêts, conformément
+aux dispositions de l'article R. 431-1.
 
-- le solde du prix est réglé par des versements mensuels constants échelonnés sur quinze ans si les ressources de l'acquéreur
-ne dépasse pas le plafond fixé pour l'accession à la propriété dans les habitations à loyer modéré et sur sept ans dans le
-cas contraire ;
-
-- les sommes dues portent intérêt au taux de 5 p. 100 net de toutes rémunérations et charges annexes.
-
-Tout acquéreur peut acquitter au comptant le prix de vente ou effectuer des versements anticipés.
+Le transport s'effectue, dans ces divers cas, par avenant à la police d'assurance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-840 1966-11-14 art. 9
+	  - Décret  1921-09-03 art. 5 al. 2, al. 3, al. 4
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R443-15 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-22 (M)
-
-
-###### Article R443-17
-
-Dans les cas où l'article 1er de la loi n. 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis
-est applicable, l'organisme est tenu d'établir un état descriptif de division de l'immeuble, un état de répartition des
-charges, ainsi qu'un règlement de copropriété conforme à un règlement-type établi par le ministre chargé de la construction
-et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°65-557 du 10 juillet 1965 - art. 1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
-
-
-###### Article R443-18
-
-A compter de la notification des conditions de vente par l'organisme, le candidat acquéreur doit souscrire dans les trois
-mois un engagement d'acquisition. Faute d'avoir souscrit cet engagement dans ledit délai, le candidat est réputé avoir
-renoncé à l'acquisition ; il ne peut, pendant une période de deux ans, déposer une nouvelle demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 du 31 mai 1978, v. init.
-
-
-###### Article R443-19
-
-Dans le cas de logements construits dans un immeuble collectif, l'organisme peut surseoir à la réalisation de la vente
-jusqu'au moment où des engagements d'acquisition ont été souscrits pour 20 p. 100 au moins des logements compris dans un même
-bâtiment ou dans une section de bâtiment desservie par un  même escalier. Si plus de deux ans se sont écoulés depuis la
-dernière estimation des services fiscaux (domaines), l'organisme peut, de sa propre initiative ou à la requête du candidat
-acquéreur, provoquer une nouvelle estimation du logement et, si cette dernière varie de plus du dixième par rapport au prix
-de vente accepté antérieurement par le candidat acquéreur, il doit procéder à une révision de ce prix. L'organisme notifie ce
-nouveau prix au candidat acquéreur qui, dans les trois mois [*délai*], doit lui faire connaître par lettre recommandée avec
-demande d'avis de réception s'il renonce ou s'il maintient son engagement d'acquisition.
-
-Dès que le pourcentage fixé à l'alinéa 1er est atteint, le candidat acquéreur doit, sur demande de l'organisme, confirmer son
-engagement d'acquisition.
-
-La liste des locataires ayant souscrit des engagements d'acquisition doit être affichée au vu du public dans les locaux de
-l'organisme [*publicité*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R443-20
-
-Jusqu'à l'expiration du délai de dix ans à compter de la date de l'acte authentique translatif de propriété, toute aliénation
-volontaire d'un logement acquis dans les conditions prévues par les articles L. 443-7 à L. 443-15 est subordonnée à une
-déclaration préalable du propriétaire indiquant les prix ou les conditions de l'aliénation envisagée.
-
-Cette déclaration, établie dans les formes prescrites par arrêté du ministre chargé de la construction et de l'habitation,
-doit être adressée par lettre recommandée avec demande d'avis de réception à l'organisme vendeur ou, s'il y a lieu, à
-l'organisme auquel a été dévolu l'actif de celui-ci.
-
-Dans les deux mois de la déclaration, l'organisme doit notifier au propriétaire sa décision d'exercer ou non le droit de
-rachat préférentiel institué à son profit par l'article L. 443-14. Le défaut de notification dans le délai vaut renonciation
-à l'exercice du droit.
-
-Lorsque l'organisme décide d'acquérir le logement, la notification de cette décision au propriétaire doit préciser soit son
-acceptation du prix et des conditions proposées, soit son offre d'acquérir au prix fixé par les services fiscaux (domaines).
-
-A compter de la notification de cette offre, le propriétaire doit, dans le mois, faire connaître à l'organisme qu'il accepte
-l'offre ou qu'il renonce à l'aliénation. Le silence du propriétaire vaut, à l'expiration de ce délai, renonciation à
-l'aliénation.
-
-S'il y a lieu, le droit de rachat préférentiel est transféré de plein droit à l'organisme d'habitations à loyer modéré ou à
-la fédération d'organismes d'habitations à loyer modéré auquel a été dévolu l'excédent d'actif de l'organisme vendeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L443-7 à L443-15
-
-
-###### Article R443-21
-
-L'aliénation du logement entraîne le paiement immédiat des sommes qui pourraient être encore dues par le premier acquéreur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-22 (V)
-
-
-###### Article R443-22
-
-Pour l'application des dispositions de la présente section aux actionnaires des sociétés anonymes coopératives d'habitations
-à loyer modéré ayant bénéficié de logements construits dans le cadre de l'ancien article 174 du code de l'urbanisme et de
-l'habitation, les conditions financières définies à l'article R. 443-16 [*modalités de paiement*] sont applicables, déduction
-faite des sommes versées antérieurement par lesdits actionnaires à titre d'apport, et notamment sous forme de souscription
-d'actions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-840 1966-11-14 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de l'urbanisme 174
-	  - Code de la construction et de l'habitation. - art. R443-16 (M)
+	  - Code de la construction et de l'habitation. - art. R431-1 (V)
 
 
 ##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
@@ -56209,6 +55986,634 @@ l'article 5 de la loi n. 65-557 du 10 juillet 1965 sur la copropriété.
 
 	  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
+
+#### Chapitre III : Accession à la propriété et autres cessions.
+
+##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
+
+##### Section 2 : Dispositions applicables aux cessions d'éléments du patrimoine immobilier. 
+
+###### Article R443-10
+
+En application de l'article L. 443-7, l'organisme propriétaire peut vendre :
+
+1° Les maisons individuelles construites par l'organisme depuis plus de vingt ans, ce délai courant à compter de la date de
+déclaration d'achèvement des travaux mentionnés à l'article R 460-1 du code de l'urbanisme, ou acquises par l'organisme
+depuis plus de vingt ans à compter de la date de l'acte d'acquisition.
+
+Est considérée comme maison individuelle le bâtiment d'habitation comportant un accès direct vers l'extérieur et ne
+comprenant qu'un seul logement, au sens du troisième alinéa de l'article R. 111-1 ;
+
+2° Les logements situés dans un immeuble collectif, contruits par l'organisme depuis plus de dix ans, ce délai courant à
+compter de la date de déclaration d'achèvement des travaux mentionnés à l'article R. 460-1 du code de l'urbanisme, ou acquis
+par l'organisme depuis plus de dix ans.
+
+Est considéré comme immeuble collectif tout immeuble dont les caractéristiques ne répondent pas à celles définies au 1° ci-
+dessus.
+
+Les logements mentionnés aux 1° et 2° ci-dessus qui ont fait l'objet de travaux d'amélioration avec l'aide de l'Etat ou d'une
+collectivité publique ne peuvent être cédés qu'à l'expiration d'un délai de cinq ans à compter de la date de déclaration
+d'achèvement des travaux ou de la réception des travaux par le maître de l'ouvrage.
+
+Les immeubles collectifs et les logements qu'ils comportent ainsi que les maisons individuelles visés à l'article L. 443-7 ne
+peuvent être cédés que s'ils satisfont aux normes techniques énoncées en annexe au présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2, JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L443-7 à L443-15
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+
+
+###### Article R443-11
+
+Les logements visés à l'article L. 443-7 peuvent être acquis par les personnes physiques locataires de façon continue du même
+organisme d'habitations à loyer modéré depuis plus de cinq ans à compter de la date de signature de leur premier contrat de
+location.
+
+Lorsqu'il saisit, au titre des articles L. 443-7 ou L. 443-8 les autorités visées à l'article L. 443-9, l'organisme adresse à
+celles-ci les informations utiles, et notamment celles relatives à la localisation, à la dimension et à l'ancienneté du ou
+des logements concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Code de la construction et de l'habitation. - art. L443-9 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-12 (M)
+
+
+###### Article R443-12
+
+Les candidats à l'acquisition de leur logement saisissent l'organisme propriétaire de cette demande par lettre recommandée.
+Lorsque pour un même immeuble collectif le pourcentage de ces demandes fixé au sixième alinéa de l'article L. 443-7 est
+atteint, l'organisme dispose d'un délai d'un mois pour saisir les autorités visées à l'article L. 443-9.
+
+En cas de décision négative, soit que l'organisme lui-même, soit que l'une des autorités visées au premier alinéa de
+l'article L. 443-9 ait refusé son accord, l'organisme notifie la décision de refus d'aliéner aux candidats acquéreurs dans le
+délai de deux mois qui suit la dernière des réponses, expresse ou tacite, de ces autorités, et, lorsque le représentant de
+l'Etat exprime un refus, en indique les motifs.
+
+En cas d'accord de ces autorités, et à défaut d'y avoir préalablement procédé, l'organisme propriétaire saisit le service des
+domaines dans le délai de deux mois après que le dernier des accords requis et, le cas échéant, l'avis prévu au 2e alinéa de
+l'article L. 443-9 ont été donnés. La décision d'aliéner assortie du prix de vente fixé par l'organisme propriétaire,
+conformément à l'article L. 443-10, est définitivement arrêtée dans les deux mois qui suivent l'estimation du service des
+domaines.
+
+Dans le même délai l'organisme informe les candidats acquéreurs de la décision positive, du prix fixé de la possibilité pour
+l'acquéreur de se libérer du prix de vente par des paiements échelonnés conformément à l'article R. 443-15.
+
+A compter de cette notification le candidat acquéreur doit souscrire dans les trois mois un engagement d'acquisition. A
+défaut il est réputé avoir renoncé à l'acquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. *R443-12-1 (V)
+	  - Code de la construction et de l'habitation. - art. R481-8-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-9 (M)
+	  - Code de la construction et de l'habitation. - art. R443-15 (M)
+
+
+###### Article R443-13
+
+Après avoir, pour vendre des logements, en application de l'article L. 443-8, recueilli, le cas échéant, l'avis mentionné au
+deuxième alinéa de l'article L. 443-9 et reçu les accords prévus au premier alinéa du même article, l'organisme propriétaire
+informe les locataires des mises en vente envisagées en indiquant le prix et les conditions de la vente.
+
+Cette information est faite par voie d'affichage au siège social de l'organisme propriétaire, dans les immeubles appartenant
+à l'organisme et situés dans une zone comprenant la commune d'implantation des logements vacants et les communes limitrophes
+ou, si la commune est divisée en arrondissements, l'arrondissement d'implantation, les arrondissements et les autres communes
+limitrophes de cet arrondissement, ainsi qu'à la mairie de la commune ou de l'arrondissement d'implantation.
+
+Dans les départements ou parties de département, autres que ceux compris dans la zone définie au précédent alinéa, où il est
+effectivement propriétaire de logements, l'organisme fait procéder à une publicité relative à la mise en vente des logements
+dans deux journaux régionaux ou locaux diffusés dans ces départements.
+
+Le droit de priorité des locataires s'exerce pendant une durée de soixante jours à compter de la date où l'ensemble de ces
+affichages et publications est intervenu. Dans ce délai les locataires intéressés peuvent faire connaître leur intention
+d'acquérir par lettre recommandée avec demande d'avis de réception.
+
+Au terme de ce délai l'organisme dispose de soixante jours pour faire connaître aux candidats la suite donnée à leur demande.
+
+La décision de l'organisme de donner suite à la demande d'achat d'un logement par un tiers ne justifiant d'aucun droit de
+priorité ne peut intervenir qu'au terme des délais et de la procédure ci-dessus définis, et si aucun candidat propriétaire ne
+s'est déclaré ou n'a été retenu pour ce logement.
+
+En dehors du cas où il a consenti la vente à un autre de ses locataires, l'organisme ne peut refuser la vente à un locataire
+demandant à bénéficier du droit de priorité et vendre à un tiers non locataire que pour des motifs sérieux et légitimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 1987 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R*423-12 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R443-14 AL. 2
+	  - Code de la construction et de l'habitation. - art. R314-5 (M)
+	  - Code de la construction et de l'habitation. - art. R431-3 (V)
+
+
+###### Article R443-14
+
+Le prix de vente d'un logement cédé en application des articles L. 443-7 et L. 443-8 est fixé par l'organisme, propriétaire
+dans les conditions définies à l'article L. 443-10. En vue de la fixation de ce prix, l'organisme propriétaire saisit le
+service des domaines.
+
+L'estimation du service des domaines doit être fournie dans un délai de trois mois à compter de sa saisine par l'organisme.
+Elle est valable pendant une durée de deux ans à compter de sa notification.
+
+La valeur résultant de l'actualisation du côut initial est établie de la façon suivante :
+
+1° Pour les immeubles achevés antérieurement au 30 septembre 1953, elle résulte de l'application au prix de revient d'un
+rapport établi suivant les modalités définies par le ministre chargé de la construction et de l'habitation en fonction des
+indices existants à la date de l'achèvement de la construction en vigueur à la date de la vente ;
+
+2° Pour les immeubles achevés à compter du 1er octobre 1953, elle résulte de l'application au prix de revient du rapport
+existant entre l'indice du coût de la construction en vigueur à la date de l'achèvement de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 23 juillet 1987
+	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 juillet 1987 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 1987 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R443-15 (V)
+	  - Code de la construction et de l'habitation. - art. R443-17 (V)
+	  - Code de la construction et de l'habitation. - art. R443-20 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-13 art. 1, art. 2 JORF 13 novembre 1985
+
+
+###### Article R443-15
+
+Lorsque l'acquéreur choisit de se libérer du paiement du prix de la vente visée aux articles L. 443-7 et L. 443-8 par des
+versements échelonnés dans le temps en application des dispositions de l'article L. 443-10-1 l'organisme vendeur est tenu de
+lui consentir, sous réserve de ses capacités de remboursement, un crédit dont le montant et les caractéristiques sont fixées
+comme suit en fonction de ses ressources :
+
+1° Lorsque les ressources de l'acquéreur ne dépassent pas la limite visée à l'article R. 331-42 le montant du crédit accordé
+par l'organisme est au plus égal à 70 p. 100 du prix de vente du logement si les ressources de l'acquéreur sont comprises
+entre 70 p. 100 et 100 p. 100 de cette limite, à 80 p. 100 du prix de vente si elles sont inférieures à 70 p. 100 de cette
+limite.
+
+Dans les deux cas, le montant du crédit est porté à 90 p. 100 pour les acquéreurs ayant au moins trois enfants à charge dont
+un de moins de quatre ans, à la date de la vente.
+
+Les caractéristiques financières du crédit sont celles des prêts à taux fixes définis à l'article R. 331-54.
+
+Les versements effectués par l'acquéreur au titre du remboursement du crédit ne peuvent pas être échelonnés sur une durée
+inférieure à quinze ans, sauf accord contraire entre les parties.
+
+Dans ce dernier cas, le taux actuariel théorique du crédit d'une durée inférieure à quinze ans ainsi consenti est égal au
+taux actuariel théorique des prêts à taux fixes d'une durée de quinze ans définis à l'article R. 331-54 ;
+
+2° Lorsque les ressources de l'acquéreur sont supérieures à la limite mentionnée à l'article R. 331-42, la durée du crédit
+est au plus égale à celui des prêts de même durée définis à l'article R. 331-54, majoré d'un point.
+
+Toute personne physique se portant acquéreur d'un logement dans les conditions définies aux articles L. 443-7 et . 443-8 et
+bénéficiant des facilités de paiement fixées aux 1° et 2° du présent article acquitte au moins 10 p. 100 du prix de la vente
+au moment de la signature de l'acte.
+
+La valeur des taux mentionnés au présent article est celle en vigueur au moment de l'offre de crédit faite par l'organisme à
+l'acquéreur.
+
+Dans tous les cas d'application du présent article, l'acquéreur doit souscrire un contrat d'assurance dans les conditions
+prévues à l'article L. 443-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L443-2 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
+	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-12 (M)
+	  - Code de la construction et de l'habitation. - art. R443-16 (M)
+
+
+###### Article R443-16
+
+Lorsqu'un acquéreur répondant aux conditions définies à l'article R. 443-15 (1°) se libère du paiement du prix de vente par
+des versements échelonnés, il peut bénéficier de l'aide personnalisée au logement dans les conditions fixées par les
+dispositions du chapitre 1er du titre V du livre III du présent code (partie législative), relatives aux personnes qui sont
+propriétaires du logement qu'elles occupent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-22 (M)
+
+
+###### Article R443-17
+
+Pour la détermination des sommes à rembourser par un organisme d'habitations à loyer modéré en cas de vente de logement,
+l'organisme vendeur établit le prix de revient du logement et les modalités de financement de la construction ou de
+l'acquisition et de l'amélioration de l'immeuble en cause ou de l'ensemble de logements ayant fait l'objet d'un même
+financement ainsi que la part affectée au financement du logement vendu, en distinguant les prêts selon leur nature, et les
+subventions selon leur origine et leur nature.
+
+L'aide publique à rembourser comprend les primes, subventions ou bonifications d'intérêt attribuées directement ou
+indirectement par l'Etat à l'organisme vendeur à raison du logement vendu, sauf application au profit de l'Etat des
+dispositions de l'article L. 443-15.
+
+Le commissaire de la République du département où est situé le siège de l'organisme vérifie l'exactitude des calculs établis
+par l'organisme vendeur.
+
+Le montant de l'aide publique à rembourser ainsi que les modalités de son reversement en recettes diverses au budget général
+sont ensuite définis par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de
+l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
+
+
+###### Article R443-17-1
+
+1. En cas de vente de logement avec paiement au comptant en application des dispositions des articles L. 443-7, L. 443-8 et
+L. 443-10-1, l'organisme vendeur peut conserver le bénéfice des prêts assortis d'une aide de l'Etat qu'il a obtenus pour le
+financement de la construction ou de l'acquisition et de l'amélioration du logement vendu, aux conditions figurant dans le
+contrat de prêt. L'aide publique définie à l'article R. 443-17 est immédiatement remboursée à l'Etat.
+
+2. En cas d'aliénation à une personne physique ou morale autre qu'un organisme d'habitations à loyer modéré, d'un élément de
+patrimoine immobilier, en application des dispositions de l'article L. 443-14, le capital restant dû des prêts assortis d'une
+aide de l'Etat obtenus pour le financement de la construction ou de l'acquisition et de l'amélioration du bien est remboursé
+immédiatement à l'Etat ou à l'établissement prêteur.
+
+L'aide publique définie à l'article R. 443-17 est immédiatement remboursée à l'Etat.
+
+3° Les dispositions du paragraphe 2 s'appliquent en cas de démolition d'un élément du patrimoine. Cependant, à titre
+exceptionnel, le ministre chargé de la construction et de l'habitation et le ministre chargé de l'économie et des finances
+peuvent compte tenu de sa situation financière et des justifications fournies sur la démolition entreprise, dispenser
+l'organisme du remboursement immédiat du capital restant dû des prêts.
+
+Le ministre chargé de la construction et de l'habitation et le ministre chargé de l'économie et des finances peuvent dans les
+mêmes conditions dispenser l'organisme du remboursement de l'aide publique.
+
+4. En cas d'aliénation au profit d'un autre organisme d'habitations à loyer modéré, et à la condition que le bien cédé
+conserve sa destination d'origine, les prêts initialement obtenus sont transférés, sans modification de leurs
+caractéristiques, à l'organisme bénéficiaire de l'aliénation, sous réserve du maintien de la garantie obtenue lors de
+l'octroi de ces prêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Code de la construction et de l'habitation. - art. R443-17 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-18 (Ab)
+
+
+###### Article R443-17-2
+
+En cas de vente avec paiement échelonné en application de l'article L. 443-10-1, l'organisme vendeur n'est pas tenu au
+remboursement immédiat des aides publiques et des prêts assortis d'une aide de l'Etat qu'il a obtenus pour le financement de
+la construction ou de l'acquisition et de l'amélioration du logement vendu.
+
+Les fonds versés par l'acquéreur sont répartis par l'organisme vendeur de la façon suivante :
+
+Les sommes reçues au comptant lors de la signature du contrat sont affectées pour moitié à l'Etat au titre du remboursement
+des aides publiques dans la limite de leur montant, le solde étant attribué à l'organisme vendeur.
+
+Les sommes reçues mensuellement au titre des versements échelonnés sont réparties dans l'ordre suivant :
+
+a) Au bénéfice de l'Etat et des autres prêteurs au titre du paiement des annuités de remboursement des prêts, dans la limite
+du douzième des annuités normales de ces prêts, et s'il y a lieu au prorata de celles-ci.
+
+b) Au bénéfice de l'organisme vendeur pour le solde dans la limite de la moitié du versement ;
+
+c) Au bénéfice de l'Etat pour le solde, au titre du remboursement de l'aide publique jusqu'à remboursement de la totalité de
+celle-ci ;    d) A l'organisme vendeur pour le solde après remboursement de la totalité de l'aide publique.
+
+L'organisme vendeur informe les prêteurs de la conclusion du contrat de vente et communique au commissaire de la République
+un échéancier du remboursement de l'aide de l'Etat établi sur les bases précédentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-18 (Ab)
+
+
+###### Article R443-18
+
+En application des dispositions de l'article L. 443-11, les sommes reçues par l'organisme vendeur à la suite des aliénations
+qu'il a consenties à quelque titre que ce soit, et conservées par lui en application des articles R. 443-17-1 et R. 443-17-2,
+reçoivent les affectations suivantes :
+
+Elles sont obligatoirement utilisées, ainsi que leurs produits pour financer :
+
+1° Des opérations de construction ou d'acquisition-amélioration de logements ouvrant droit au bénéfice des prêts visés aux
+articles R. 331-1 à R. 331-31 ;
+
+2° Des opérations de construction ou d'acquisition-amélioration de logements en vue de leur location ouvrant droit aux prêts
+visés aux articles R. 331-63 à R. 331-77 ;
+
+3° Des opérations de construction et de mise en vente de logements codifiées aux articles R. 331-59-8 à R. 331-59-18 ;
+
+4° Des travaux d'amélioration de logements ouvrant droit à une subvention de l'Etat visée aux articles R. 323-1 à R.
+323-11-1, ou à l'aide personnalisée au logement visée à l'article L. 351-1 ;
+
+5° Des travaux d'amélioration de logements ouvrant droit aux subventions visées aux articles R. 323-12 à R. 323-20 et R.
+323-21 à R. 323-30 ;
+
+6° Des opérations de construction et d'amélioration de logements financés à l'aide de prêts et concours financiers divers aux
+organismes d'habitation à loyer modéré visés au chapitre 1er du titre III du livre IV et des primes et prêts à la
+construction visées au chapitre 1er du titre 1er du livre III ;
+
+7° Des travaux de grosses réparations des logements à la condition que la provision pour grosses réparations concernant la
+totalité des immeubles bâtis appartenant à l'organisme soit au moins égale au montant fixé par la réglementation comptable
+applicable aux organismes d'habitations à loyer modéré.
+
+Au cas où leur affectation ne peut être immédiate, elles sont comptabilisées dans un compte spécial de la comptabilité de
+l'organisme vendeur, utilisées à des placements compatibles avec la réglementation applicable aux organismes d'habitations à
+loyer modéré et inscrites ainsi que leurs produits dans l'annexe des comptes annuels établis en application de l'article 8 du
+code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de commerce 8
+	  - Code de la construction et de l'habitation L443-11, R443-17-1, R443-17-2, R331-1 à R331-31, R331-63 à R331-77, R331-59-8 à R331-59-18, R323-1 à R323-11-1, L351-1, R323-12 à R323-20, R323-21 à R323-30
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L443-11 (M)
+	  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R443-17-2 (Ab)
+
+
+###### Article R443-19
+
+Le contrat de vente du logement doit faire mention des prescriptions des articles L. 443-12 et L. 443-13. Il doit prévoir que
+toute aliénation ultérieure est subordonnée au paiement immédiat des sommes encore dues par l'acquéreur initial à l'organisme
+vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-12 (M)
+	  - Code de la construction et de l'habitation. - art. L443-13 (M)
+
+
+###### Article R443-20
+
+Le prix des éléments du patrimoine immobilier, vendus en application de l'article R. 443-14 ne peut être inférieur, sauf en
+cas de cession à un organisme d'HLM ou à une collectivité publique, ou en cas d'opérations entreprises en vue de permettre
+l'accession à la propriété, à l'évaluation faite par le service des domaines, dans les mêmes conditions que celles fixées à
+l'article R. 443-14.
+
+Les personnes physiques acquéreurs de logement, en application des dispositions de l'article L. 443-14, ne doivent pas
+disposer de ressources supérieures à la limite visée à l'article R. 331-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
+	  - Code de la construction et de l'habitation. - art. R443-14 (M)
+
+
+###### Article R443-21
+
+Lorsque le ou les logements vendus, en application des articles L. 443-7, L. 443-8 ou L. 443-14, ont fait l'objet d'une
+convention de réservation au profit d'une personne morale au titre des articles R. 314-4, R. 441-11 ou R. 441-19, cette
+convention ne fait pas obstacle à la vente.
+
+Toutefois, l'organisme est tenu, à moins que les parties n'en disposent autrement, de mettre à la disposition du
+réservataire, au moment de la vente, un logement équivalent.
+
+A défaut, le premier logement équivalent disponible doit être proposé prioritairement au réservataire.
+
+Pour déterminer l'équivalence du logement, il est notamment tenu compte des caractéristiques techniques et du lieu
+d'implantation du logement proposé à la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+	  - Code de la construction et de l'habitation. - art. L443-8 (M)
+	  - Code de la construction et de l'habitation. - art. R314-4 (M)
+	  - Code de la construction et de l'habitation. - art. R441-11 (M)
+	  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-22 (V)
+
+
+###### Article R443-22
+
+Tant que l'organisme demeure propriétaire d'au moins un logement situé dans un immeuble collectif, il assure de droit, sauf
+s'il y renonce, les fonctions de syndic de la copropriété.
+
+Il est alors tenu d'établir un état descriptif de division de l'immeuble, un état de répartition des charges, ainsi qu'un
+règlement de copropriété conforme à un règlement type établi par le ministre chargé de la construction et de l'habitation. Sa
+rémunération en tant que syndic est fixée par le commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
+
+
+##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
 
 ### Titre V : Contrôle
 
