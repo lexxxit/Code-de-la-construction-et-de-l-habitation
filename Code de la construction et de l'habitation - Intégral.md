@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-07-03
+Version Consolidée au 2004-08-01
 
 # Partie législative
 
@@ -54547,230 +54547,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 #### Chapitre Ier : Dispositions générales
 
-##### Section 1 : Aide personnalisée.
-
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
-
-###### Article R351-5
-
-I. - Les ressources prises en considération pour le calcul de l'aide personnalisée sont celles perçues par le bénéficiaire,
-son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme vivant habituellement au foyer les
-personnes y ayant résidé plus de six mois au cours de l'année civile précédant la période de paiement prévue par l'article R.
-351-4 et qui y résident encore au moment de la demande ou au début de la période de paiement.
-
-Sont retenues les ressources perçues pendant ladite année civile, appréciées selon les dispositions ci-dessous et après
-application le cas échéant des dispositions des articles R. 351-6, R. 351-7-1, R. 351-7-2 et R. 351-10 à R. 351-14-1, sauf
-dans les cas prévus à l'article R. 351-7 où sont retenues les ressources évaluées forfaitairement conformément aux
-dispositions dudit article.
-
-II. -  Les ressources prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement
-de l'impôt sur le revenu d'après le barème, des revenus taxés à un taux proportionnel ou soumis à un prélèvement libératoire
-de l'impôt sur le revenu, ainsi que des revenus perçus hors de France ou versés par une organisation internationale.
-
-Est également prise en considération, suivant les règles applicables en matière d'imposition aux traitements et salaires
-prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts,
-l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du code de la sécurité sociale.
-
-Ne sont pas déduits du décompte des ressources les déficits constatés au cours d'une année antérieure à celle qui est prise
-en considération et qui font l'objet d'un report, en vertu de l'article 156-I du code général des impôts.
-
-Sont déduits de ce décompte :
-
-- les frais de garde des enfants à charge, dans la limite d'un montant fixé par arrêté des ministres chargés du logement, du
-budget, de la sécurité sociale et de l'agriculture ;
-
-- les créances alimentaires mentionnées au 2° du II de l'article 156 du code général des impôts ;
-
-- l'abattement mentionné à l'article 157 bis du code général des impôts pour les personnes nées avant le 1er janvier 1931 et
-pour les personnes invalides.
-
-Sont exclus de ce décompte :
-
-- l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et
-servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes définies au I du présent article ;
-
-- les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
-code général des impôts.
-
-III. - Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du
-réexamen du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au présent
-article. Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des
-prix à la consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé
-au projet de loi finances.
-
-IV. - Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 815-8 du code de la
-sécurité sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont :
-
-Soit ascendants du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas
-d'inaptitude au travail ;
-
-Soit "grands infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants,
-descendants ou collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ;
-
-Soit enfants du bénéficiaire ou de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
-	  - Arrêté du 3 juillet 1978 - art. 11 bis (M)
-	  - Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
-	  - Arrêté du 14 août 1987 - art. 8 (Ab)
-	  - Décret n°97-289 du 28 mars 1997 - art. 21 (V)
-	  - Décret n°97-289 du 28 mars 1997 - art. 22 (V)
-	  - Décret n°2016-1385 du 12 octobre 2016 (V)
-	  - Décret n°2016-1385 du 12 octobre 2016 - art. 2
-	  - Code de l'action sociale et des familles - art. R117-8 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-10 (V)
-	  - Code de la construction et de l'habitation. - art. R351-11 (V)
-	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-17-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-19 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-	  - Code de la construction et de l'habitation. - art. R351-6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-61 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-8 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 bis (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
-
-	**Cite**:
-
-	  - CGI 158, 156, 157 bis, 199 septies
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 169 (M)
-	  - Code de la sécurité sociale. - art. L431-1 (V)
-	  - Code de la sécurité sociale. - art. L815-8 (M)
-	  - Code de la construction et de l'habitation R351-4, R351-6, R351-7-1, R351-7-2, R351-10 à R351-14-1, R351-7, 83
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°97-79 du 30 janvier 1997 - art. 1 () JORF 31 janvier 1997 en vigueur le 1er février 1997
-
-
-##### Sous-section 3 : Conditions particulières.
-
-###### Article R351-12
-
-Il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient l'événement ou le
-changement de situation, sous réserve que la preuve en soit apportée :
-
-Des ressources du conjoint du bénéficiaire :
-
-- soit décédé ;
-
-- soit absent du domicile en raison d'une décision de justice prononçant le divorce ;
-
-- soit absent du domicile en raison d'une décision de justice autorisant la résidence séparée ou homologuant, en cas de
-demande conjointe en divorce, la convention temporaire passée à ce sujet entre les époux ;
-
-- soit absent du domicile en raison d'une séparation de fait des époux ;
-
-Des revenus d'activité professionnelle ni des indemnités de chômage perçues par le conjoint du bénéficiaire ;
-
-- soit appelé sous les drapeaux ;
-
-- soit détenu, les ressources du conjoint étant toutefois prises en considération s'il est placé dans le régime de semi-
-liberté ;
-
-- soit cessant toute activité professionnelle pour se consacrer à un enfant de moins de trois ans ou à plusieurs enfants ;
-
-Lorsque l'une des situations mentionnées au présent article prend fin, il est tenu compte :
-
-Des ressources perçues par le conjoint du bénéficiaire à partir du premier jour du mois au cours duquel la vie commune est
-reprise ;
-
-Des revenus d'activité professionnelle ou des indemnités de chômage à partir du premier jour du mois au cours duquel :
-
-- soit la période d'accomplissement du service national ou de détention expire ;
-
-- soit les conditions relatives à l'âge ou au nombre d'enfants auxquels l'intéressé se consacre ne sont plus remplies ou il
-reprend une activité professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R351-29
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 1 JORF 3 septembre 1985
-
-
-###### Article R351-13
-
-Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande
-[*délai, point départ*] , ou pendant au moins deux mois consécutifs au cours de la période de paiement, en chômage total et
-perçoit l'allocation d'assurance prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit
-l'allocation spécifique prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par
-l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir
-du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation. Le nombre minimal
-d'heures de chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de quarante heures sur
-une période de deux mois consécutifs.
-
-La rémunération perçue par les personnes relevant des conventions conclues en application du deuxième alinéa de l'article L.
-961-1 du code du travail est assimilée, pendant la durée de la formation et pour l'application des dispositions de l'alinéa
-précédent, à l'allocation de chômage à laquelle elle s'est substituée lors de l'entrée en formation.
-
-Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement est supprimé à partir du premier jour du mois
-civil au cours duquel intervient la reprise d'activité.
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°94-817 1994-09-21 art. 1 JORF 21 septembre 1994
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-25 (AbD)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L961-1 (M)
-
-
 ##### Section 1 : Aide personnalisée
 
 ##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
@@ -55100,6 +54876,129 @@ réunies.
 	  - Code de la construction et de l'habitation. - art. R351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R351-2-1 (M)
 	  - Code de la construction et de l'habitation. - art. R351-3 (M)
+
+
+###### Article R351-5
+
+I. - Les ressources prises en considération pour le calcul de l'aide personnalisée sont celles perçues par le bénéficiaire,
+son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme vivant habituellement au foyer les
+personnes y ayant résidé plus de six mois au cours de l'année civile précédant la période de paiement prévue par l'article R.
+351-4 et qui y résident encore au moment de la demande ou au début de la période de paiement.
+
+Sont retenues les ressources perçues pendant ladite année civile, appréciées selon les dispositions ci-dessous et après
+application le cas échéant des dispositions des articles R. 351-6, R. 351-7-1, R. 351-7-2 et R. 351-10 à R. 351-14-1, sauf
+dans les cas prévus à l'article R. 351-7 où sont retenues les ressources évaluées forfaitairement conformément aux
+dispositions dudit article.
+
+II. -  Les ressources prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement
+de l'impôt sur le revenu d'après le barème, des revenus taxés à un taux proportionnel ou soumis à un prélèvement libératoire
+de l'impôt sur le revenu, ainsi que des revenus perçus hors de France ou versés par une organisation internationale.
+
+Est également prise en considération, suivant les règles applicables en matière d'imposition aux traitements et salaires
+prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts,
+l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du code de la sécurité sociale.
+
+Sont également prises en compte les majorations de retraite ou de pensions pour enfants exonérées de l'impôt sur le revenu en
+application du 2° ter de l'article 81 du code général des impôts à l'exception de celles correspondant aux retraites ou
+pensions liquidées avant le 1er janvier 2004 et dont sont titulaires les personnes bénéficiant, au 30 juin 2005, de l'aide
+personnalisée au logement (NOTA).
+
+Ne sont pas déduits du décompte des ressources les déficits constatés au cours d'une année antérieure à celle qui est prise
+en considération et qui font l'objet d'un report, en vertu du I de l'article 156 du code général des impôts.
+
+Sont déduits de ce décompte :
+
+- les créances alimentaires mentionnées au 2° du II de l'article 156 du code général des impôts ;
+
+- l'abattement mentionné à l'article 157 bis du code général des impôts pour les personnes nées avant le 1er janvier 1931 et
+pour les personnes invalides.
+
+Sont exclus de ce décompte :
+
+- l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et
+servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes définies au I du présent article ;
+
+- les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
+code général des impôts.
+
+III. - Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du
+réexamen du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au présent
+article. Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des
+prix à la consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé
+au projet de loi finances.
+
+IV. - Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 815-8 du code de la
+sécurité sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont :
+
+Soit ascendants du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas
+d'inaptitude au travail ;
+
+Soit "grands infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants,
+descendants ou collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ;
+
+Soit enfants du bénéficiaire ou de son conjoint.
+
+**Nota:**
+
+NOTA : Cet alinéa entre en vigueur le 1er juillet 2005 (Voir décret n° 2004-705, article 4).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 11 bis (M)
+	  - Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
+	  - Arrêté du 14 août 1987 - art. 8 (Ab)
+	  - Décret n°97-289 du 28 mars 1997 - art. 21 (V)
+	  - Décret n°97-289 du 28 mars 1997 - art. 22 (V)
+	  - Décret n°2016-1385 du 12 octobre 2016 (V)
+	  - Décret n°2016-1385 du 12 octobre 2016 - art. 2
+	  - Code de l'action sociale et des familles - art. R117-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-10 (V)
+	  - Code de la construction et de l'habitation. - art. R351-11 (V)
+	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-17-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-19 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-8 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 bis (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
+	  - SPEC_APPLI: Décret n°2004-705 2004-07-15 art. 4 : date d'entrée en vigueur
+
+	**Cite**:
+
+	  - CGI 158, 156, 157 bis, 199 septies, 80, 81
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 169 (M)
+	  - Code de la sécurité sociale. - art. L431-1 (V)
+	  - Code de la sécurité sociale. - art. L815-8 (M)
+	  - Code de la construction et de l'habitation R351-4, R351-6, R351-7-1, R351-7-2, R351-10 à R351-14-1, R351-7, 83
+	  - Code de la construction et de l'habitation. - art. R351-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2004-705 2004-07-15 art. 1 I, II JORF 17 juillet 2004 en vigueur le 1er août 2004
+	  - Décret n°2004-705 du 15 juillet 2004 - art. 1 () JORF 17 juillet 2004 en vigueur le 1er août 2004
 
 
 ###### Article R351-6
@@ -55466,6 +55365,107 @@ l'agriculture et du logement.
 
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+
+
+###### Article R351-12
+
+Il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient l'événement ou le
+changement de situation, sous réserve que la preuve en soit apportée :
+
+Des ressources du conjoint du bénéficiaire :
+
+- soit décédé ;
+
+- soit absent du domicile en raison d'une décision de justice prononçant le divorce ;
+
+- soit absent du domicile en raison d'une décision de justice autorisant la résidence séparée ou homologuant, en cas de
+demande conjointe en divorce, la convention temporaire passée à ce sujet entre les époux ;
+
+- soit absent du domicile en raison d'une séparation de fait des époux ;
+
+Des revenus d'activité professionnelle ni des indemnités de chômage perçues par le conjoint du bénéficiaire :
+
+- soit détenu, les ressources du conjoint étant toutefois prises en considération s'il est placé dans le régime de semi-
+liberté ;
+
+- soit cessant toute activité professionnelle pour se consacrer à un enfant de moins de trois ans ou à plusieurs enfants ;
+
+Lorsque l'une des situations mentionnées au présent article prend fin, il est tenu compte :
+
+Des ressources perçues par le conjoint du bénéficiaire à partir du premier jour du mois au cours duquel la vie commune est
+reprise ;
+
+Des revenus d'activité professionnelle ou des indemnités de chômage à partir du premier jour du mois au cours duquel :
+
+- soit la période de détention expire ;
+
+- soit les conditions relatives à l'âge ou au nombre d'enfants auxquels l'intéressé se consacre ne sont plus remplies ou il
+reprend une activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R351-29
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-705 du 15 juillet 2004 - art. 2 () JORF 17 juillet 2004 en vigueur le 1er août 2004
+
+
+###### Article R351-13
+
+Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande, ou
+pendant au moins deux mois consécutifs au cours de la période de paiement, en chômage total et perçoit l'allocation
+d'assurance prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit l'allocation spécifique
+prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par l'intéressé pendant
+l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir du premier jour du
+deuxième mois civil suivant celui au cours duquel est intervenu le changement de situation. Le nombre minimal d'heures de
+chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 est de quarante heures sur une période de deux mois
+consécutifs.
+
+La rémunération perçue par les personnes relevant des conventions conclues en application du deuxième alinéa de l'article L.
+961-1 du code du travail est assimilée, pendant la durée de la formation et pour l'application des dispositions de l'alinéa
+précédent, à l'allocation de chômage à laquelle elle s'est substituée lors de l'entrée en formation.
+
+Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement est supprimé à partir du premier jour du mois
+civil au cours duquel intervient la reprise d'activité.
+
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-705 du 15 juillet 2004 - art. 3 () JORF 17 juillet 2004 en vigueur le 1er août 2004
+
+	**Cite**:
+
+	  - Code du travail - art. L351-25 (AbD)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L961-1 (M)
 
 
 ###### Article R351-13-1
