@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-01-29
+Version Consolidée au 2003-02-27
 
 # Partie législative
 
@@ -72024,6 +72024,9 @@ conditions prévues par le règlement intérieur.
 La conférence intercommunale du logement, saisie de l'accord départemental ainsi qu'il est dit à l'article L. 441-1-5,
 formule un avis dans les trente jours suivant sa saisine.
 
+Les dispositions du présent article s'appliquent aux conférences communales du logement créées en région d'Ile-de-France en
+application du dernier alinéa de l'article L. 441-1-4.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -72032,7 +72035,7 @@ formule un avis dans les trente jours suivant sa saisine.
 
 	**Modifié par**:
 
-	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
+	  - Décret n°2003-155 du 24 février 2003 - art. 1 () JORF 27 février 2003
 
 	**Cite**:
 
@@ -72047,6 +72050,8 @@ intercommunale, dont le territoire comporte des logements locatifs sociaux. Son 
 moitié d'entre eux, représentant au moins les deux tiers de la population de ces communes, ou d'au moins les deux tiers
 d'entre eux, représentant au moins la moitié de la population.
 
+La charte communale prévue au dernier alinéa de l'article L. 441-1-5 est adoptée par le conseil municipal.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -72055,7 +72060,11 @@ d'entre eux, représentant au moins la moitié de la population.
 
 	**Modifié par**:
 
-	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
+	  - Décret n°2003-155 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1677 du 28 novembre 2007 - art. 5
 
 	**Cite**:
 
@@ -72089,6 +72098,9 @@ désigné par le préfet.
 III. - L'organisation représentative des sociétés d'économie mixte de construction et de gestion de logements sociaux désigne
 en outre trois représentants.
 
+Chaque organisation de locataires siégeant à la Commission nationale de concertation désigne également deux représentants des
+associations de locataires qui lui sont affiliées.
+
 IV. - Tout membre de la conférence régionale du logement d'Ile-de-France peut se faire représenter ou donner mandat à un
 autre membre dans les conditions prévues par le règlement intérieur.
 
@@ -72100,7 +72112,11 @@ autre membre dans les conditions prévues par le règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
+	  - Décret n°2003-155 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1677 du 28 novembre 2007 - art. 5
 
 
 ###### Article R441-9
@@ -72127,7 +72143,11 @@ ressort de leur compétence. Ces commissions comprennent des représentants des 
 d'administration ou de surveillance visées aux alinéas précédents, en proportions identiques à celles mentionnées auxdits
 alinéas. Ces représentants sont désignés par le conseil d'administration ou de surveillance sur proposition, pour chaque
 catégorie d'entre eux, des membres correspondants dudit conseil. Ces représentants ne sont pas nécessairement membres de ce
-conseil.
+conseil ;
+
+Lorsque l'attribution des logements figure au nombre des missions confiées par un mandat de gérance conclu en application de
+l'article L. 442-9, le président de la commission d'attribution de l'organisme mandant participe, avec voix délibérative, aux
+séances de la commission d'attribution du mandataire pour l'attribution des logements faisant l'objet du mandat.
 
 II. - Le conseil d'administration ou de surveillance de l'organisme définit les orientations qui guident l'attribution des
 logements et sont communes aux commissions s'il en est constitué plusieurs. Il établit également un règlement intérieur pour
@@ -72159,7 +72179,7 @@ La ou les commissions rendent compte de leur activité au conseil d'administrati
 
 	**Modifié par**:
 
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 9 () JORF 14 septembre 2002
+	  - Décret n°2003-155 du 24 février 2003 - art. 1 () JORF 27 février 2003
 
 	**Cité par**:
 
@@ -72178,8 +72198,9 @@ La ou les commissions rendent compte de leur activité au conseil d'administrati
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L441-2, R421-23, R421-63, R422-2, R422-9-1, R481-1
+	  - Code de la construction et de l'habitation L441-2, R421-23, R421-63, R422-2, R422-9-1, R481-1, L442-9
 	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-9 (M)
 
 
 ###### Article R441-10
@@ -72826,73 +72847,6 @@ ministre chargé des finances agissant par décision conjointe.
 	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
-###### Article R442-4
-
-Les changements [*de locaux*] qui peuvent être imposés aux locataires ou occupants en vue d'une meilleure utilisation
-familiale, conformément à l'article L. 442-4 le sont dans des conditions fixées par arrêté du ministre chargé de la
-construction et de l'habitation après avis du conseil supérieur des habitations à loyer modéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V) JORF 27 février 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V)
-	  - Arrêté du 2 novembre 1955 - art. 1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 219
-	  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L442-4 (M)
-
-
-###### Article R442-5
-
-L'autorisation nécessaire aux offices et sociétés d'habitations à loyer modéré pour mettre leurs immeubles en gérance
-conformément à l'article L. 442-9 est donnée par arrêté du ministre chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V) JORF 27 février 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 224
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L442-9 (M)
-
-
 ###### Article R442-5-1
 
 Les logements-foyers mentionnés au troisième alinéa de l'article L. 442-8 sont les résidences sociales prévues au 2 de
@@ -73197,6 +73151,304 @@ détaillée des renseignements statistiques, leurs modalités de présentation e
 	**Créé par**:
 
 	  - Décret n°96-1163 du 26 décembre 1996 - art. 1 () JORF 29 décembre 1996
+
+
+##### Section 4 : Gérance d'immeubles.
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R*442-15
+
+Tout mandat de gérance d'immeubles qu'accorde ou accepte un organisme d'habitations à loyer modéré est écrit.
+
+Le mandat précise notamment :
+
+1° Le ou les immeubles sur lesquels porte le mandat ;
+
+2° La durée du mandat et les conditions de sa résiliation éventuelle ;
+
+3° Les pouvoirs du mandataire ;
+
+4° Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes ou de procéder à des dépenses :
+
+a) Les conditions dans lesquelles les fonds nécessaires aux dépenses sont mis à disposition du mandataire ;
+
+b) Les conditions dans lesquelles les sommes encaissées par le mandataire pour le compte du mandant sont reversées à ce
+dernier ;
+
+c) Dans le cas où le mandant est doté d'un comptable public, le plafond du montant de l'avance permanente dont peut disposer
+le mandataire ;
+
+5° La rémunération du mandataire et ses modalités de règlement par le mandant ;
+
+6° La périodicité trimestrielle ou semestrielle de la reddition des comptes et ses modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. D442-15 (V)
+
+
+###### Article R*442-16
+
+Avant l'exécution du mandat, le mandataire souscrit une assurance couvrant les conséquences pécuniaires de la responsabilité
+civile qu'il peut encourir en raison des actes qu'il accomplit au titre du mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. D442-16 (V)
+
+
+###### Article R*442-17
+
+Dans tous les documents qu'il établit au titre du mandat, le mandataire fait figurer la dénomination du mandant et la mention
+qu'il agit au nom et pour le compte de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. D442-17 (V)
+
+
+###### Article R*442-18
+
+Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes ou de procéder à des dépenses au nom et pour le
+compte du mandant, le mandataire tient une comptabilité séparée retraçant l'intégralité des produits et charges constatés et
+des mouvements de caisse opérés au titre du mandat.
+
+Le mandant met à la disposition du mandataire les fonds nécessaires aux dépenses. Le mandataire ne peut en faire l'avance,
+sauf cas d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. D442-18 (V)
+
+
+###### Article R*442-19
+
+Lorsqu'il entre dans les pouvoirs du mandataire de détenir des fonds appartenant au mandant, le mandataire dépose sans délai
+l'intégralité de ces fonds sur un compte exclusivement réservé aux opérations du mandat.
+
+Toutefois, les dispositions du présent article ne s'appliquent pas au mandataire doté d'un comptable public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. D442-19 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. D442-20 (V)
+
+
+###### Article R*442-20
+
+Lorsque le mandant est doté d'un comptable public, s'appliquent les dispositions suivantes :
+
+I. - Le mandant transmet l'ampliation du mandat dès sa conclusion à son comptable public.
+
+II. - Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier alinéa de l'article R. 442-19, le compte est
+ouvert auprès du Trésor, de la Caisse des dépôts et consignations, de La Poste, d'une caisse d'épargne et de prévoyance ou,
+sur autorisation du ministre chargé des finances, d'un autre établissement de crédit.
+
+III. - Lorsque le mandat stipule que le mandataire dispose d'une avance permanente, l'ordonnateur du mandant fixe le montant
+de cette avance dans la limite du plafond prévu par le mandat.
+
+IV. - Lorsqu'il entre dans les pouvoirs du mandataire de poursuivre l'exécution forcée et de pratiquer les mesures
+conservatoires au nom et pour le compte du mandant, l'ordonnateur du mandataire doté d'un comptable public émet les titres de
+recettes exécutoires et, après autorisation du même ordonnateur, le comptable du mandataire procède aux poursuites comme en
+matière de contributions directes. Le mandataire qui n'est pas doté d'un comptable public ne peut se prévaloir d'un titre
+exécutoire émis par le mandant. Muni de l'un des titres exécutoires mentionnés aux 1° à 5° de l'article 3 de la loi n° 91-650
+du 9 juillet 1991 portant réforme des procédures civiles d'exécution, il en poursuit l'exécution forcée selon les règles du
+droit commun applicable en la matière.
+
+V. - Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes ou de procéder à des dépenses, la reddition
+des comptes intervient dans des délais permettant au comptable public du mandant de produire son compte financier.
+
+La reddition des comptes retrace la totalité des opérations de dépenses et de recettes décrites par nature sans contraction
+entre elles ainsi que la totalité des opérations de trésorerie par nature. Elle comporte en outre la balance générale des
+comptes arrêtée à la date de la reddition, les états de développement des soldes certifiés par le mandataire conformes à la
+balance générale des comptes, la situation de trésorerie de la période et l'état nominatif des impayés par débiteur.
+
+A la demande du mandant, le mandataire produit tout ou partie des pièces justificatives des opérations retracées dans la
+reddition des comptes. Ces pièces justificatives, reconnues exactes par le mandataire, sont constituées de tous documents de
+nature à justifier l'objet et le montant des dépenses et des recettes et, le cas échéant, le caractère irrécouvrable de ces
+dernières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°91-650 1991-07-09 art. 3
+	  - Code de la construction et de l'habitation R442-19
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+
+###### Article R*442-21
+
+Lorsque les dispositions du code des marchés publics sont applicables aux contrats du mandant et qu'il entre dans les
+pouvoirs du mandataire de passer des marchés publics au nom et pour le compte du mandant, la personne représentant le pouvoir
+adjudicateur est la personne désignée à cet effet par le mandataire ou, à défaut, le représentant légal du mandataire.
+
+La personne représentant le pouvoir adjudicateur peut, sous sa responsabilité, déléguer sa signature à des personnes placées
+sous son autorité.
+
+Lorsque le mandataire ne dispose pas d'une commission d'appel d'offres, la commission d'appel d'offres compétente est celle
+du mandant. Elle est convoquée par le mandant à la demande du mandataire. Le mandataire participe à la séance de la
+commission avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 10 (V)
+
+
+##### Sous-section 2 : Mandats soumis à autorisation.
+
+###### Article R*442-22
+
+Lorsqu'une autorisation est requise avant la mise en gérance d'immeubles en application du premier alinéa de l'article L.
+442-9 ou avant la prise en gérance d'immeubles en application du troisième alinéa du même article, la demande d'autorisation
+est adressée par l'organisme d'habitations à loyer modéré au préfet du département du lieu de situation des immeubles. Le
+dossier de la demande comporte le projet de mandat et les délibérations du conseil d'administration, du conseil de
+surveillance ou de l'organe délibérant du mandant et du mandataire portant approbation de ce projet.
+
+Lorsque le mandataire est doté d'un comptable public, le préfet se prononce après avis du trésorier-payeur général dont
+dépend le poste comptable du mandataire.
+
+En l'absence de décision du préfet notifiée dans le délai de deux mois à compter de la réception d'une demande présentée en
+application du troisième alinéa de l'article L. 442-9, l'autorisation est réputée accordée.
+
+L'organisme d'habitations à loyer modéré titulaire de l'autorisation transmet copie du mandat signé au préfet et, dans le cas
+prévu au deuxième alinéa, au trésorier-payeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L442-9 (M)
+
+
+###### Article R*442-23
+
+Avant d'accepter, en application selon le cas de l'antépénultième alinéa de l'article L. 421-1, du dernier alinéa de
+l'article L. 421-4, du douzième alinéa de l'article L. 422-2 ou du septième alinéa de l'article L. 422-3, un mandat de
+gérance portant sur des logements situés dans des copropriétés connaissant des difficultés importantes de fonctionnement,
+l'organisme d'habitations à loyer modéré adresse simultanément une demande d'autorisation au maire de la commune
+d'implantation de ces logements et au préfet.
+
+Le dossier de la demande comporte le projet de mandat, la décision du mandant et la délibération du conseil d'administration
+ou du conseil de surveillance du mandataire portant approbation de ce projet. Il est complété par l'exposé sommaire des
+difficultés de la copropriété.
+
+A défaut d'opposition du préfet ou du maire notifiée dans le délai de deux mois, l'autorisation est réputée accordée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 1 () JORF 27 février 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
 
 
 #### Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.
