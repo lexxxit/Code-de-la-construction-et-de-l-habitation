@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-13
+Version Consolidée au 2001-12-15
 
 # Partie législative
 
@@ -37386,6 +37386,217 @@ L'inventaire est établi selon des modalités définies par arrêté du ministre
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. R302-15 (M)
+
+
+###### Article R302-30
+
+Peuvent être déduites du prélèvement prévu à l'article L. 302-7 du présent code les dépenses et les moins-values, énumérées
+ci-après, supportées par les communes pour atteindre les objectifs de réalisation de logements locatifs sociaux définis à
+l'article L. 302-8 du même code :
+
+1° I. - Pour leur montant intégral, les subventions foncières, quelle que soit leur forme, bénéficiant directement à ceux,
+propriétaires ou maîtres d'ouvrage, qui réalisent sur des terrains ou des biens immobiliers des opérations ayant pour objet
+la création de logements locatifs sociaux au sens de l'article L. 302-5 du présent code.
+
+II. - Pour tout ou partie de leur montant, les subventions versées à l'aménageur d'une zone d'aménagement concerté créée en
+application de l'article L. 311-1 du code de l'urbanisme qui opère dans le cadre d'une convention publique d'aménagement
+mentionnée à l'article L. 300-4 du même code, lorsque la charge foncière par mètre carré de surface hors oeuvre nette payée à
+l'aménageur de la zone par le maître d'ouvrage des logements locatifs sociaux est inférieure ou égale à la charge foncière
+moyenne par mètre carré de surface hors oeuvre nette autorisée pour l'ensemble de la zone, telle que cette dernière peut être
+évaluée à partir du dernier compte rendu financier fourni à la commune par l'aménageur de la zone en application de l'article
+L. 300-5 du même code. Il y a alors lieu à déduction au prorata de la surface hors oeuvre nette des logements locatifs
+sociaux rapportée à la surface hors oeuvre nette totale autorisée dans le cadre de l'aménagement d'ensemble de la zone
+d'aménagement concerté.
+
+2° Le coût des travaux engagés pour viabiliser des terrains ou des biens immobiliers appartenant à la commune et mis
+ultérieurement par elle à disposition de maîtres d'ouvrages par bail emphytéotique, bail à construction ou bail à
+réhabilitation, dans la mesure où ces travaux sont effectivement destinés à la construction de logements locatifs sociaux.
+Les dépenses ainsi supportées sont déductibles au prorata de la surface hors oeuvre nette des logements locatifs sociaux
+créés. La déduction n'est toutefois possible qu'autant que la délibération du conseil municipal autorisant les travaux
+mentionnés ci-dessus précise le nombre de logements locatifs sociaux projetés et identifie chaque maître d'ouvrage concerné.
+
+3° Les moins-values correspondant à la différence entre le prix de cession de terrains ou de biens immobiliers devant
+effectivement donner lieu à la réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la date de la
+cession, par le service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme - art. L300-5 (Ab)
+	  - Code de l'urbanisme - art. L311-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-16 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-17 (M)
+	  - Code de la construction et de l'habitation. - art. R302-18 (M)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+	  - Code de la construction et de l'habitation. - art. R302-32 (T)
+
+
+###### Article R302-31
+
+Les communes concernées par le prélèvement prévu à l'article L. 302-5 du présent code adressent chaque année au préfet, au
+plus tard le 31 octobre, un état, certifié conforme par l'ordonnateur, des dépenses et moins-values, déductibles dans les
+conditions fixées à l'article R. 302-30, qu'elles ont effectivement supportées au titre de l'exercice précédent.
+
+Cet état des dépenses déductibles indique, pour chaque opération ayant pour objet la réalisation de logements locatifs
+sociaux :
+
+a) Sa localisation ;
+
+b) Le nombre et la surface des logements locatifs sociaux programmés ;
+
+c) Le montant des dépenses effectivement supportées au titre du 1° et du 2° de l'article R. 302-30, tel qu'il ressort du
+compte administratif ;
+
+d) Les éléments, comptables et autres, pris en compte pour le calcul de la moins-value supportée au titre du 3° de l'article
+R. 302-30 ;
+
+e) La date de la délibération ayant autorisé la dépense ou la cession.
+
+Les délibérations mentionnées à l'alinéa ci-dessus, ainsi que tous autres documents propres à justifier que les dépenses
+figurant dans l'état remplissent les conditions requises pour être admises en déduction, sont annexées à celui-ci.
+
+L'état des dépenses déductibles sera annexé au budget primitif de l'exercice au titre duquel le prélèvement est établi.
+
+**Nota:**
+
+NOTA : Décret 2001-1194 2001-12-13 art. 2 : Pour la production de l'état afférent aux dépenses ou moins-values supportées au
+titre de l'exercice 2000, qui seront imputées sur le prélèvement opéré au titre de l'exercice 2002, la date limite mentionnée
+à l'article R. 302-31 est reportée au 31 décembre 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
+
+	**Transféré par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. R302-30 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-17 (M)
+	  - Code de la construction et de l'habitation. - art. R302-18 (M)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+	  - Code de la construction et de l'habitation. - art. R302-32 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-17 (M)
+
+
+###### Article R302-32
+
+Si dans un délai de deux ans après la déduction opérée en application de l'article L. 302-7 du présent code l'opération de
+logements sociaux n'a pas reçu un commencement d'exécution, les sommes ainsi déduites sont ajoutées au prélèvement de l'année
+en cours. Pour l'application du présent article, le commencement d'exécution est la signature de la convention visée à
+l'article L. 351-2 du même code, conclue entre l'Etat et le maître d'ouvrage de l'opération.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 ne correspondent manifestement pas au
+financement d'une opération de logement locatif social tel que défini à l'article R. 302-30, les sommes correspondantes ne
+seront pas admises en déduction.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 s'avèrent ne pas entrer dans le champ défini à
+l'article R. 302-30 du présent code, les sommes indûment déduites seront ajoutées au prélèvement de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
+
+	**Transféré par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+	  - Code de la construction et de l'habitation. - art. R302-30 (M)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-18 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-18 (M)
+
+
+###### Article R302-33
+
+Le prélèvement mentionné à l'article L. 302-7 du présent code dont le montant est arrêté par le préfet est imputé chaque
+année sur les attributions mentionnées au premier alinéa de l'article L. 2332-2 du code général des collectivités
+territoriales. Il est effectué par neuvième à partir du mois de mars et jusqu'au mois de novembre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
+
+	**Transféré par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2332-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-19 (Ab)
+	  - Code de la construction et de l'habitation. - art. R302-19 (M)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
