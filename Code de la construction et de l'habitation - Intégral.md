@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-09-04
+Version Consolidée au 1985-09-07
 
 # Partie législative
 
@@ -21763,29 +21763,31 @@ de chauffage*].
 Les sociétés de construction demeurent régies, outre les dispositions les concernant reproduites à la première partie du
 présent code :
 
-- en ce qui concerne les sociétés civiles constituées en vue de la vente d'immeubles, par les articles 1 à 6 du décret n.
+- en ce qui concerne les sociétés civiles constituées en vue de la vente d'immeubles, par les articles 1 à 6 du décret n°
 72-1235 du 29 décembre 1972, ci-après reproduits sous les articles R. 211-1 à R. 211-6 ;
 
 - en ce qui concerne les sociétés constituées en vue de l'attribution d'immeubles aux associés par fractions divises, par les
-articles 1 à 16 du décret n. 72-1236 du 29 décembre 1972, ci-après reproduits sous les articles R. 212-1 à R. 212-16, et les
-articles 1 et 2 du décret n. 75-126 du 5 mars 1975, ci-après reproduits sous les articles R. 212-17 et R. 212-18 ;
+articles 1 à 16 du décret n° 72-1236 du 29 décembre 1972, ci-après reproduits sous les articles R. 212-1 à R. 212-16, et les
+articles 1 et 2 du décret n° 75-126 du 5 mars 1975, ci-après reproduits sous les articles R. 212-17 et R. 212-18 ;
 
-- en ce qui concerne les sociétés coopératives de construction, par les articles 1 à 17 du décret n. 72-1237 du 29 décembre
-1972, ci-après reproduits sous les articles R. 213-1 à R. 213-17.
+- en ce qui concerne les sociétés coopératives de construction, par les articles R. 213-1 à R. 213-17-3.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°72-1235 1972-12-29 ART. 1 A 6
-	  - Décret n°72-1236 1972-12-29 ART. 1 A 16
-	  - Décret n°72-1237 1972-12-29 ART. 1 A 17
-	  - Décret n°75-126 1975-03-05 ART. 1 ET 2
-	  - Code de la construction et de l'habitation R213-1 A R213-17
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-943 1985-09-05 art. 2 JORF 7 septembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*211-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*212-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*212-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*213-1 (V)
 
 
 #### Chapitre Ier : Sociétés civiles constituées en vue de la vente d'immeubles.
@@ -22833,6 +22835,68 @@ réduction du capital et apporte aux statuts les modifications nécessaires.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L213-12 (V)
+
+
+###### Article R*213-17-1
+
+Dans le cas prévu à l'article 30 bis de la loi du 16 juillet 1971 susvisée, la société coopérative de construction communique
+au tiers mentionné par cet article, et désigné par le locataire-accédant le projet de contrat de location-accession dans
+lequel doit figurer la clause prévoyant l'engagement de ce tiers exigée par les dispositions dudit article 30 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-579 du 16 juillet 1971 - art. 30 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°85-943 1985-09-05 art. 1 JORF 7 septembre 1985
+
+
+###### Article R*213-17-2
+
+Si le tiers qui doit lever ou faire lever l'option n'est pas un des organismes inscrits sur la liste prévue à l'article 15 de
+la loi du 12 juillet 1984 susvisée ou une des sociétés ou organismes mentionnés à l'article 17 de cette loi, ce tiers doit
+justifier d'une convention de cautionnement aux termes de laquelle l'un des organismes inscrits sur la liste précitée
+s'oblige, solidairement avec lui, envers la société coopérative à payer le prix à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 du 12 juillet 1984 - art. 15 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 17 (V)
+
+	**Créé par**:
+
+	  - Décret n°85-943 1985-09-05 art. 1 JORF 7 septembre 1985
+
+
+###### Article R*213-17-3
+
+La société coopérative notifie au tiers que l'accédant renonce à acquérir la propriété du local faisant l'objet du contrat de
+location-accession. Cette notification est effectuée par lettre recommandée avec demande d'avis de réception dans un délai
+n'excédant pas un mois à compter de cette renonciation. Le tiers doit lever ou faire lever l'option prévue par le contrat
+dans un délai n'excédant pas trois mois à compter de cette notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°85-943 1985-09-05 art. 1 JORF 7 septembre 1985
 
 
 ### Titre II : Promotion immobilière.
