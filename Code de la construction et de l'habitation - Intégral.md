@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-04-03
 
 # Partie législative
 
@@ -28486,6 +28486,380 @@ d'achat mentionnée au c ci-dessus, ne s'est pas porté acquéreur.
 
 ##### Section 3 : Organismes collecteurs de la participation des employeurs.
 
+##### Sous-section 4 : Agence nationale pour la participation des employeurs à l'effort de construction.
+
+###### Article R313-35-1
+
+L'Agence nationale pour la participation des employeurs à l'effort de construction remplit les missions prévues aux articles
+L. 313-7 à L. 313-15. A ce titre, elle propose notamment aux ministres chargés de la construction et de l'habitation et de
+l'économie :
+
+" a) Les dispositions relatives aux clauses type et aux obligations comptables de nature réglementaire des associations
+mentionnées à l'article L. 313-7 ;
+
+" b) Les dispositions réglementaires permettant le bon emploi des fonds collectés par les associations précitées ;
+
+" c) Les modalités d'utilisation des fonds collectés par les associations précitées destinées à favoriser le logement des
+salariés des entreprises assujetties de moins de cinquante salariés.
+
+" Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes investies par les employeurs au titre de l'article
+L. 313-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-7 à L313-15, L313-1
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*313-29 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-35-5 (VT)
+
+
+###### Article R313-35-2
+
+Elle est administrée par un conseil d'administration dont la composition est la suivante :
+
+" - deux [*nombre*] représentants du ministre chargé de la construction et de l'habitation ;
+
+" - un représentant du ministre chargé des affaires sociales ;
+
+" - un représentant du ministre chargé de l'économie ;
+
+" - un représentant du ministre chargé du budget,
+
+nommés respectivement, ainsi que leur suppléant, par chacun des ministres intéressés ;
+
+" b) Cinq représentants des salariés désignés respectivement par :
+
+" - la confédération générale du travail (C.G.T.) ;
+
+" - la confédération française démocratique du travail (C.F.D.T.) ;
+
+" - la confédération générale du travail-force ouvrière (C.G.T.-F.O.) ;
+
+" - la confédération française des travailleurs chrétiens (C.F.T.C.) ;
+
+" - la confédération française de l'encadrement - confédération générale des cadres (C.F.E.-C.G.C.) ;
+
+" c) Cinq représentants des employeurs :
+
+" - quatre désignés par le conseil national du patronat français (C.N.P.F.) ;
+
+" - un désigné par la confédération générale des petites et moyennes entreprises (C.G.P.M.E.) ;
+
+" d) Cinq représentants des associations mentionnées à l'article R. 313-9 (2°) a) désignés par l'union nationale
+interprofessionnelle du logement (U.N.I.L.).
+
+" Les administrateurs mentionnés aux b, c et d ci-dessus sont nommés pour une période de trois ans renouvelable par arrêté du
+ministre chargé de la construction et de l'habitation. Les membres démissionnaires, décédés, ou qui perdent la qualité au
+titre de laquelle ils ont été nommés, sont remplacés. Leurs remplaçants sont désignés pour la durée du mandat restant à
+courir.
+
+" Participent, avec voix consultative, aux travaux du conseil d'administration le directeur général et le contrôleur d'Etat
+de l'agence nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cité par**:
+
+	  - Décret n°93-748 du 27 mars 1993 - art. 10 (Ab)
+	  - Décret n°97-143 du 14 février 1997 - art. 2 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-35-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R313-35-8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-9 (M)
+
+
+###### Article R313-35-3
+
+Le conseil d'administration règle par ses délibérations les affaires de l'agence. Ces délibérations portent sur les matières
+comprises dans les attributions de l'agence nationale en application des articles L. 313-7, L. 313-9, L. 313-10 et L. 313-12
+à L. 313-15 et, en outre, sur les objets suivants :
+
+L'approbation de l'état prévisionnel des recettes et des dépenses annuelles et de ses modificatifs ;
+
+L'approbation des comptes annuels ;
+
+Les conditions générales applicables aux marchés et aux contrats de toute nature conclus par l'agence et l'approbation
+desdits marchés et contrats dont le montant excède une somme fixée par le règlement intérieur ;
+
+Le choix des prestataires d'études et de travaux statistiques nécessaires à l'information de l'agence ;
+
+L'approbation du règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-7, L313-9, L313-10 et L313-12 à L313-15
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. L313-9 (M)
+
+
+###### Article R313-35-4
+
+Les délibérations relatives à l'état prévisionnel des recettes et des dépenses et à ses modificatifs sont exécutoires après
+avoir été approuvées par le ministre chargé de la construction et de l'habitation et par le ministre chargé de l'économie et
+des finances.
+
+Les délibérations relatives aux conditions générales qui régissent les marchés, au règlement intérieur et au programme
+d'emploi annuel des fonds mentionnés au troisième alinéa de l'article L. 313-1, conformément aux dispositions prévues à
+l'article R. 313-36, sont exécutoires dans le délai d'un mois à compter de la date de leur transmission aux ministres
+représentés au conseil d'administration, à moins que l'un de ces ministres n'y fasse opposition ou ne demande qu'il soit
+sursis à leur application.
+
+Les autres délibérations sont exécutoires de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L313-1, R313-36
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+
+
+###### Article R313-35-5
+
+Les règles et les normes proposées par l'agence nationale en application de l'article L. 313-7 et, notamment, les clauses
+statutaires type applicables aux associations mentionnées audit article, sont publiées au Bulletin officiel du ministère
+chargé de la construction et de l'habitation. Leur application est subordonnée à l'intervention d'un décret. Les ministres
+représentés au conseil d'administration peuvent demander à l'agence nationale de leur soumettre, sur des points qu'ils
+précisent et dans un délai qu'ils déterminent, des propositions portant sur les normes et les règles mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*313-30 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-33-3 (Ab)
+
+
+###### Article R313-35-6
+
+Le conseil d'administration se réunit à la diligence de son président et au moins une fois par trimestre. La convocation est
+de droit lorsqu'elle est demandée par le ministre chargé de la construction et de l'habitation ou par le ministre chargé de
+l'économie et des finances.
+
+Le conseil délibère valablement si la moitié au moins de ses membres sont présents ou représentés. Si ce quorum n'est pas
+atteint, le conseil est convoqué avec le même ordre du jour dans un délai minimum de vingt jours ; il délibère alors sans
+condition de quorum.
+
+Un administrateur ne peut disposer que d'un seul mandat de représentation. Le mandant et le mandataire doivent siéger au
+conseil d'administration au titre de la même catégorie.
+
+Les délibérations sont prises à la majorité des membres présents ou représentés. Toutefois, les délibérations portant sur les
+propositions mentionnées à l'article L. 313-7 sont prises à la majorité des trois cinquièmes des membres présents ou
+représentés. En cas de partage égal des voix, celle du président est prépondérante.
+
+Les administrateurs sont tenus au secret des délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R313-35-2 (VT)
+
+
+###### Article R313-35-7
+
+Le président de l'agence nationale est élu pour trois ans [*durée, mandat*] par le conseil d'administration parmi les
+représentants des organisations d'employeurs. Sa nomination est soumise à l'approbation du ministre chargé de la construction
+et de l'habitation.
+
+" Le président représente l'agence en justice et dans les actes de la vie civile ; à ce titre, il a qualité pour signer les
+marchés et les contrats préparés par les services de l'agence. Il veille à la diffusion des informations de caractère général
+et statistiques recueillies par l'agence pour l'exécution de ses missions.
+
+" Il fixe l'ordre du jour des réunions du conseil d'administration.
+
+" Sans préjudice des missions de contrôle sur les associations mentionnées à l'article R. 313-9 (2°, a) que les ministres
+représentés au conseil d'administration peuvent à tout moment assigner à l'agence, le président du conseil d'administration
+soumet à l'agrément de ces ministres un programme annuel de contrôle desdites associations et présente, chaque année, le
+rapport qui rend compte aux mêmes ministres des résultats des contrôles effectués.
+
+" Par délégation du conseil d'administration, le président est habilité, après consultation du comité permanent prévu à
+l'article suivant, à exercer les attributions de l'agence nationale dans les cas prévus au premier et au dernier alinéa de
+l'article L. 313-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-9, L313-13
+	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R313-21 (V)
+	  - Code de la construction et de l'habitation. - art. R313-35-8 (V)
+
+
+###### Article R313-35-8
+
+Il est créé un comité permanent, placé sous la présidence du président de l'agence, que celui-ci peut consulter sur toute
+question relevant de ses attributions. Il en prend obligatoirement l'avis dans les cas prévus au dernier alinéa de l'article
+R. 313-35-7.
+
+Le comité permanent comprend : d'une part, les représentants au conseil d'administration du ministre chargé de la
+construction et de l'habitation et celui du ministre chargé de l'économie, d'autre part, deux membres de ce conseil, désignés
+par lui et représentant chacun une des catégories mentionnées aux b et d de l'article R. 313-35-2.
+
+Le directeur général assiste aux séances du comité permanent.
+
+Les membres du comité sont tenus au secret des délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R313-35-2 (M)
+	  - Code de la construction et de l'habitation. - art. R313-35-7 (M)
+
+
+###### Article R313-35-9
+
+Le fonctionnement de l'agence est assuré par un directeur général nommé pour trois ans par le ministre chargé de la
+construction et de l'habitation après avis du conseil d'administration.
+
+Le directeur général dirige l'ensemble des services ;
+
+Il assure l'exécution des décisions du conseil d'administration ;
+
+Il nomme et licencie le personnel ;
+
+Il liquide les dépenses de l'agence ; il liquide et met en recouvrement les recettes ; il donne tous reçus, quittances et
+décharges ;
+
+Il prépare les réunions du conseil d'administration et donne son avis sur l'ordre du jour des séances ;
+
+Il rend compte au conseil des activités de l'agence ;
+
+Il peut recevoir toute délégation de pouvoirs du président, sauf dans les matières pour lesquelles celui-ci a reçu une
+délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+
+###### Article R313-35-10
+
+Le personnel de l'agence est constitué par des agents contractuels répartis en plusieurs catégories selon les fonctions
+qu'ils exercent et par des fonctionnaires détachés de leur administration d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+
+###### Article R313-35-11
+
+La comptabilité de l'agence nationale est tenue et ses opérations comptables sont exécutées suivant les usages du commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 13 () JORF 3 avril 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1617 du 23 décembre 2010 - art. 1
+
+
 ##### Sous-section 1 : Dispositions de caractère général.
 
 ###### Article R*313-23
@@ -28520,6 +28894,10 @@ intervenues entre ces organismes et les employeurs.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R313-31 2 B
@@ -28538,13 +28916,13 @@ subventions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 19
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
 
 	**Cite**:
 
@@ -28557,8 +28935,8 @@ Les sommes recueillies au titre de la participation des employeurs par les organ
 
 a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
 
-b) Les versements effectués par d'autres organismes collecteurs ou par l'organisme mentionné à l'article R. 313-36 (alinéa
-2) ;
+b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence nationale pour la participation des
+employeurs à l'effort de construction ;
 
 c) Les remboursements de prêts consentis à l'aide de la participation des employeurs ainsi que le produit net de la cession
 d'éléments d'actif constitués à l'aide de cette participation ;
@@ -28569,9 +28947,9 @@ e) Les produits financiers nets résultant de chacun des placements des sommes e
 313-31 pour la fraction excédant 4 p. 100.
 
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2. a, b) ou à
-l'organisme mentionné à l'article R. 313-36 (alinéa 2) sont déduits de ces sommes.
+l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes.
 
-Le montant des sommes em attente d'un emploi conforme à l'article R. 313-31 ne peut dépasser une fraction des sommes
+Le montant des sommes en attente d'un emploi conforme à l'article R. 313-31 ne peut dépasser une fraction des sommes
 recueillies au titre de l'exercice précédent, définie par arrêté du ministre chargé de la construction et de l'habitation et
 du ministre chargé de l'industrie et du commerce.
 
@@ -28581,26 +28959,41 @@ du ministre chargé de l'industrie et du commerce.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 4 () JORF 3 avril 1988
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 A
+	  - Code de la construction et de l'habitation, R313-8, R313-9, R313-10, R313-11, R313-36 al. 2, R313-31, R313-9 2 A B
 
 
 ###### Article R313-21
 
-Les organismes énumérés à l'article R. 313-9 sont habilités à collecter la participation des employeurs en vertu d'un
-agrément accordé, après avis du Comité national de la participation des employeurs, par un arrêté conjoint des ministres
-intéressés, qui tient compte notamment des politiques locales de l'habitat. Ils sont soumis au contrôle du ministre chargé
-des finances et du ministre chargé de la construction et de l'habitation dans des conditions fixées par arrêté conjoint de
-ces ministres.
+" Les organismes énumérés au 2° de l'article R. 313-9 sont habilités à collecter la participation des employeurs à l'effort
+de construction en vertu d'un agrément accordé par un arrêté conjoint des ministres chargés de la construction et de
+l'habitation et de l'économie et des finances qui tient compte notamment des politiques locales de l'habitat. Cet arrêté est
+contresigné par le ministre chargé du commerce lorsque l'agrément concerne une chambre de commerce et d'industrie, ou par le
+ministre chargé des affaires sociales lorsqu'il concerne une caisse d'allocations familiales.
 
-Ils doivent [*obligation*] rendre compte chaque année au directeur départemental de l'équipement du lieu de leur siège
-social, de l'importance des sommes recueillies et de l'utilisation de ces sommes selon les modalités fixées par arrêté du
-ministre chargé de la construction et de l'habitation.
+" L'arrêté d'agrément est pris après avis de l'Agence nationale mentionnée à l'article L. 313-7 pour les associations
+mentionnées au 2° a de l'article R. 313-9 et après avis du Comité national de la participation des employeurs pour les
+organismes mentionnés au 2° b et c du même article ".
+
+" Les organismes mentionnés au 2° a, b et  c de l'article R. 313.9  doivent [*obligation*] rendre compte chaque année au
+directeur départemental de l'équipement du lieu de leur siège social, de l'importance des sommes recueillies et de
+l'utilisation de ces sommes selon les modalités fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
 Ils doivent utiliser les sommes qui leur sont versées par les employeurs dans les conditions prévues par le présent chapitre.
 Des conventions peuvent être conclues entre l'Etat et les organismes collecteurs en vue de définir les modalités
 d'affectation de ces sommes pour répondre aux orientations sociales de la politique du logement.
+
+" Le contrôle des organismes énumérés au 2° b et c de l'article R. 313-9 est exercé par le ministre chargé de l'économie et
+des finances et par le ministre chargé de la construction et de l'habitation dans des conditions fixées par arrêté conjoint
+de ces ministres. Celui des associations désignées au 2° a du même article est assuré, sous l'autorité des mêmes ministres,
+par l'Agence nationale pour la participation des employeurs à l'effort de construction dans les conditions prévues à
+l'article R. 313-35-7, sans préjudice des contrôles exercés par ces ministres dans les conditions qu'ils fixent. "
 
 **Liens relatifs à cet article**
 
@@ -28610,7 +29003,9 @@ d'affectation de ces sommes pour répondre aux orientations sociales de la polit
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 3 JORF 25 janvier 1986
+	  - Décret n°88-313 1988-03-28 art. 1, art. 2 I, II, III JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 2 () JORF 3 avril 1988
 
 	**Cité par**:
 
@@ -28623,33 +29018,35 @@ d'affectation de ces sommes pour répondre aux orientations sociales de la polit
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9
+	  - Code de la construction et de l'habitation R313-9, L313-7, R313-35-7
+	  - Code de la construction et de l'habitation. - art. L313-7 (M)
+	  - Code de la construction et de l'habitation. - art. R313-35-7 (M)
 
 
 ###### Article R313-22
 
-Les organismes qui ne remplissent plus les conditions prévues aux articles R. 313-28, R. 313-34, R. 313-35, ou qui ne peuvent
-justifier d'une utilisation des sommes recueillies conformément aux dispositions des sections I à V du présent chapitre ou
-qui n'ont pas fait diligence pour utiliser ces fonds peuvent, par décision du ministre chargé de la construction et de
-l'habitation, se voir interdire de recueillir cette participation [*contrôle*].
+Les organismes énumérés au 2° b et c de l'article R. 313-9 qui ne remplissent plus les conditions prévues aux articles
+R.313-28, R. 313-34, R. 313-35, ou qui ne peuvent justifier d'une utilisation des sommes recueillies conformément aux
+dispositions des sections I à V du présent chapitre ou qui n'ont pas fait diligence pour utiliser ces fonds peuvent, par
+décision du ministre chargé de la construction et de l'habitation, se voir interdire de recueillir cette participation
+[*contrôle*].
 
 Les versements qui seraient faits à ces organismes par des employeurs postérieurement à la date d'effet de cette décision ne
 seraient pas libératoires de l'obligation d'investir.
 
-Le ministre chargé de la construction et de l'habitation peut, en outre, en cas de défaillance grave, soit enjoindre à
-l'organisme intéressé de transférer à un autre organisme collecteur désigné par lui la situation active et passive résultant
-de l'encaissement et de l'emploi des ressources au titre de la participation obligatoire, à charge pour ce dernier de
-l'utiliser aux fins prévues par la réglementation, soit confier à une personne physique ou morale qu'il désigne la mission de
-reconstituer les comptes au regard de la réglementation en vigueur, de conserver et de gérer les fonds recueillis au titre de
-la participation obligatoire, les produits de ces fonds ainsi que les prélèvements réglementaires effectués au titre de
-l'article R. 313-33 et d'arrêter les comptes. La personne désignée par le ministre rend compte de sa mission dans le délai
-qui lui est imparti. L'acte arrêtant les comptes est approuvé par le ministre chargé de la construction et de l'habitation.
-Les conditions du transfert à un autre organisme collecteur de la situation active et passive résultant de l'encaissement et
-de l'emploi des ressources au titre de la participation obligatoire sont fixées par décision du ministre chargé de la
-construction et de l'habitation.
-
-Les décisions prises par le ministre chargé de la construction et de l'habitation en application du présent article font
-l'objet d'une publicité dans les formes et conditions fixées par arrêté ministériel.
+Le ministre chargé de la construction et de l'habitation peut, en outre, en cas de défaillance grave, d'un organisme
+mentionné aux b et c du 2° de l'article R. 313-9  soit enjoindre à l'organisme intéressé de transférer à un autre organisme
+collecteur désigné par lui la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre
+de la participation obligatoire, à charge pour ce dernier de l'utiliser aux fins prévues par la réglementation, soit confier
+à une personne physique ou morale qu'il désigne la mission de reconstituer les comptes au regard de la réglementation en
+vigueur, de conserver et de gérer les fonds recueillis au titre de la participation obligatoire, les produits de ces fonds
+ainsi que les prélèvements réglementaires effectués au titre de l'article R. 313-33 et d'arrêter les comptes. La personne
+désignée par le ministre rend compte de sa mission dans le délai qui lui est imparti. L'acte arrêtant les comptes est
+approuvé par le ministre chargé de la construction et de l'habitation. Les conditions du transfert à un autre organisme
+collecteur de la situation active et passive résultant de l'encaissement et de l'emploi des ressources au titre de la
+participation obligatoire sont fixées par décision du ministre chargé de la construction et de l'habitation. Les décisions
+prises par le ministre chargé de la construction  l> et de l'habitation en application du présent article font l'objet d'une
+publicité dans les formes et conditions fixées par arrêté ministériel.
 
 Les dispositions du présent article sont applicables aux organismes à la fondation ou à la gestion desquels participent les
 personnes désignées par l'article L. 313-2.
@@ -28659,10 +29056,6 @@ personnes désignées par l'article L. 313-2.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-108 1986-01-21 art. 4, art. 5 JORF 25 janvier 1986
 
 	**Cité par**:
 
@@ -28689,13 +29082,15 @@ personnes désignées par l'article L. 313-2.
 	  - Code de la construction et de l'habitation. - art. R313-43 (V)
 	  - Code rural et de la pêche maritime - art. R716-32 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code de la construction R313-30
+	  - Décret n°88-313 1988-03-28 art. 1, art. 3 I, II JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 1 () JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 3 () JORF 3 avril 1988
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L313-2, R313-28, r313-34, r313-35
+	  - Code de la construction et de l'habitation L313-2, R313-28, R313-34, R313-35, R313-9
 	  - Code de la construction et de l'habitation. - art. L313-2 (T)
 
 
@@ -28753,24 +29148,12 @@ directeur départemental de l'équipement du lieu de leur siège social.
 
 ###### Article R*313-28
 
-L'agrément comme organismes collecteurs, en application de l'article R. 313-21, des associations mentionnées à l'article R.
-313-9 (2°, a) est subordonné au respect des conditions suivantes :
+L'agrément des associations mentionnées à l'article R. 313-9 (2°, a) est retiré si elles cessent de satisfaire à l'une des
+conditions mentionnées à l'article R. 313-27.
 
-1° Les associations mentionnées à l'article R. 313-9 (2°, a) doivent grouper au moins cent employeurs assujettis à la
-participation pour pouvoir collecter celle-ci [*nombre, effectif*];
-
-ce minimum est réduit à trente si la majorité des membres de l'association est composée de syndicats professionnels ou
-interprofessionnels ;
-
-2° Les associations mentionnées ci-dessus doivent, à la fin de chaque exercice, avoir collecté au sens de l'article R. 313-25
-(a) des sommes supérieures à un montant fixé par arrêté du ministre chargé de la construction et de l'habitation ;
-
-3° Les associations comprenant parmi leurs administrateurs ou dirigeants une personne à laquelle sont applicables les
-dispositions de l'article L. 313-2 ne peuvent être agréées ou conserver l'agrément ;
-
-4° Les associations dont un administrateur ou un dirigeant a exercé l'une ou l'autre de ces fonctions au cours des douze mois
-précédant une décision d'interdiction dans une association ou un organisme mentionné à l'article R. 313-9 (2°) ne peuvent
-être agréées ou conserver le bénéfice de l'agrément.
+" Il en est de même pour les associations qui n'ont pas recueilli à la fin d'un exercice, au titre des versements mentionnés
+à l'article R. 313-25 a, un montant fixé par arrêté conjoint du ministre chargé de la construction et de l'habitation et du
+ministre chargé de l'économie. "
 
 **Liens relatifs à cet article**
 
@@ -28780,7 +29163,7 @@ précédant une décision d'interdiction dans une association ou un organisme me
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 6 JORF 25 janvier 1986
+	  - Décret n°88-313 du 28 mars 1988 - art. 6 () JORF 3 avril 1988
 
 	**Cité par**:
 
@@ -28788,90 +29171,80 @@ précédant une décision d'interdiction dans une association ou un organisme me
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 A, R313-21, R313-25, L313-2
-	  - Code de la construction et de l'habitation. - art. L313-2 (T)
-	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
+	  - Code de la construction et de l'habitation R313-9 2 A, R313-27, R313-25
 
 
 ###### Article R*313-29
 
-Les associations qui, à la clôture d'un exercice, ne remplissent plus les conditions fixées à l'article précédent cessent de
-pouvoir collecter la participation des employeurs. Elles doivent en informer le directeur départemental de l'équipement du
-lieu de leur siège social selon les modalités fixées par l'arrêté prévu à l'article R. 313-21, 2. alinéa. Elles doivent,
-également, dans le délai d'un an à compter de la clôture de cet exercice, adresser au directeur départemental de l'équipement
-du lieu de leur siège social une situation des sommes recueillies et des sommes utilisées par elles depuis leur création.
-
-Ces associations doivent [*obligation*], dans le délai qui leur est imparti par le commissaire de la République, transférer
-la situation active et passive consécutive à l'encaissement et à l'emploi des ressources au titre de la participation
-obligatoire à un organisme collecteur mentionné à l'article R. 313-9 (2°, a) existant depuis trois ans au moins, à charge
-pour celui-ci d'utiliser les fonds disponibles aux fins prévues par la réglementation en vigueur.
-
-A défaut d'exécution de ce transfert dans le délai imparti, le ministre chargé de la construction et de l'habitation peut
-confier à un administrateur qu'il désigne la mission d'assurer la gestion de cet actif net et d'effectuer aux lieux et place
-de l'association les opérations prévues à l'alinéa précédent.
+Les associations mentionnées à l'article R. 313-9 (2°, a) doivent indiquer, avant le 31 janvier de chaque année, au préfet du
+département de leur siège social et à l'agence nationale mentionnée à l'article R. 313-35-1, le nombre d'employeurs
+assujettis à la participation qui leur sont affiliés au 1er janvier de ladite année, les modifications éventuellement
+apportées à leurs statuts ainsi que les changements d'administrateurs intervenus au cours de l'année échue.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la construction R313-46
-	  - TXT_ASSOCIE: Code de la construction R313-47
+	  - TXT_ASSOCIE: Code de la construction R313-46, R313-47
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978 rectificatif JORF 31 JANVIER 1979)
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 7 JORF 25 janvier 1986
+	  - Décret n°88-313 du 28 mars 1988 - art. 7 () JORF 3 avril 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-28
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. R313-35-1
 
 
 ###### Article R*313-30
 
-Les statuts des associations mentionnées à l'article R. 313-9 (2, a) doivent contenir les clauses-types fixées par arrêté
-conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+Les statuts des associations mentionnées à l'article R. 313-9 (2°, a) comportent obligatoirement les clauses types auxquelles
+se réfère l'article R. 313-35-5. A chaque modification des clauses type, les associations sont tenues, dans le délai fixé par
+le texte qui introduit ces modifications, de les incorporer à leurs statuts et d'apporter à ces derniers toutes autres
+modifications qu'elles impliquent.
 
-Ces clauses prévoient notamment la composition du conseil d'administration, la désignation d'un ou plusieurs censeurs et les
-missions de ceux-ci. Elles fixent les limites dans lesquelles, en attente d'un emploi conforme à la réglementation, ces
-associations peuvent conserver des fonds disponibles. Ces clauses prévoient également l'obligation pour l'association de se
-soumettre au contrôle d'un organisme professionnel dont les statuts sont approuvés par arrêté conjoint du ministre chargé de
-la construction et de l'habitation et du ministre chargé des finances. Un Commissaire du Gouvernement nommé par le ministre
-chargé de la construction et de l'habitation est placé auprès de cet organisme. La nomination du président et du directeur
-est soumise à l'approbation du même ministre. Cet organisme exerce vis-à-vis des associations des fonctions d'assistance et,
-à la demande du ministre chargé de la construction et de l'habitation, des fonctions de contrôle ainsi que la mission prévue
-à l'article R. 313-22, alinéa 3. Lorsque le contrôle prévu ci-dessus fait l'objet d'un rapport communiqué à l'association,
-celle-ci doit y répondre dans des conditions fixées par arrêté du ministre chargé de la construction et de l'habitation, le
-défaut de réponse pouvant constituer une défaillance grave.
+Les statuts sont adressés au préfet du département du siège social des associations et à l'agence nationale pour la
+participation des employeurs à l'effort de construction.
 
-Les statuts des associations doivent également contenir les clauses portant sur les objets énumérés par l'arrêté prévu au
-premier alinéa ; celui-ci précise, en outre, le délai imparti aux organismes existants pour modifier leurs statuts en
-conséquence et les communiquer au directeur départemental de l'équipement du lieu de leur siège social.
+Ils comportent obligatoirement l'indication de l'objet social, la composition du conseil d'administration et la désignation
+d'un ou de plusieurs commissaires aux comptes. Ils font mention des limites dans lesquelles, dans l'attente d'un emploi
+conforme à la réglementation, les associations peuvent conserver des fonds disponibles. Ils prévoient l'obligation pour
+celles-ci de se soumettre au contrôle de l'agence nationale.
 
-Les dispositions de l'article R. 313-22 sont applicables aux organismes qui ne respectent pas les règles fixées par le
-présent article.
+Lorsque le contrôle de l'agence nationale fait l'objet d'un rapport communiqué à l'association, celle-ci doit y répondre dans
+un délai de deux mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 8 JORF 25 janvier 1986
+	  - Décret n°88-313 du 28 mars 1988 - art. 8 () JORF 3 avril 1988
 
 	**Cité par**:
 
 	  - Décret n°90-392 du 11 mai 1990 - art. 3 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2
-	  - Code de la construction et de l'habitation. - art. R*313-22 (M)
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. R313-35-5
 
 
 ###### Article R*313-31
@@ -28965,7 +29338,7 @@ immeubles existants occupés ou destinés à être occupés par des personnes re
 minières et assimilées prévu par le décret n. 46-1433 du 14 juin 1946 modifié, dans les conditions fixées par arrêté du
 ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
 
-12. Versements à l'organisme visé à l'article R. 313-36 (alinéa 2).
+" 12. Versements à l'agence nationale pour la participation des employeurs à l'effort de construction. "
 
 13. Prêts à des personnes morales qui réalisent, dans les grandes agglomérations, des opérations de logements locatifs à
 usage d'habitation principale dont le loyer est fixé par convention entre l'Etat et la personne morale et qui sont destinés à
@@ -29000,7 +29373,7 @@ organismes collecteurs. "
 
 	**Modifié par**:
 
-	  - Décret n°88-40 1988-01-13 art. 2 JORF 15 janvier 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 9 () JORF 3 avril 1988
 
 	**Cité par**:
 
@@ -29034,11 +29407,10 @@ travail.
 
 ###### Article R*313-33
 
-Les frais de gestion des associations mentionnées à l'article R. 313-9 (2°, a) leur participation au fonctionnement de
-l'organisme de contrôle prévu à l'article R. 313-30, à l'établissement, par un organisme désigné par le ministre chargé de la
-construction et de l'habitation, des statistiques relatives au mouvement des fonds de la participation des employeurs, ainsi
-que les cotisations dues à des organismes fédéraux peuvent être couverts au moyen des sommes collectées au titre de la
-participation des employeurs dans les limites fixées par arrêté du ministre chargé de la construction et de l'habitation.
+Les sommes dont les associations mentionnées à l'article R. 313-9 (2°, a) sont redevables au titre des prélèvements prévus
+aux articles L. 313-10 et L. 313-12 ainsi que, dans les limites fixées par le ministre chargé de la construction et de
+l'habitation, leurs frais généraux et leurs cotisations à des organismes fédéraux peuvent être imputés sur les fonds qu'elles
+ont collectés de la participation des employeurs.
 
 **Liens relatifs à cet article**
 
@@ -29053,11 +29425,11 @@ participation des employeurs dans les limites fixées par arrêté du ministre c
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 9 JORF 25 janvier 1986
+	  - Décret n°88-313 du 28 mars 1988 - art. 10 () JORF 3 avril 1988
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 A
+	  - Code de la construction et de l'habitation R313-9 2 A, L313-10 L313-12
 
 
 ##### Sous-section 3 : Dispositions particulières à certains organismes collecteurs.
@@ -29069,13 +29441,12 @@ fonds*] définies à l'article R. 313-31, dans les conditions fixées par l'arr�
 
 L'agrément prévu à l'article R. 313-21 est subordonné à un minimum de sommes collectées fixé par arrêté conjoint des
 ministres intéressés. En outre, en ce qui concerne les sociétés de crédit immobilier, l'agrément est également subordonné à
-la condition que la société ne comprenne pas aux postes d'administrateur ou de direction une personne ayant exercé, dans les
-douze mois précédant une interdiction de collecte prononcée en vertu de l'article R. 313-22, l'une ou l'autre de ces
-fonctions dans un organisme habilité à collecter.
+la condition que la société ne comprenne pas aux postes d'administrateur ou de direction une personne à laquelle sont
+applicables les dispositions de l'article L. 313-2 ou qui a fait partie d'un conseil d'administration suspendu en application
+des dispositions de l'article L. 313-13 ".
 
-Les frais de gestion de ces organismes et la participation des chambres de commerce et d'industrie et des sociétés
-mentionnées aux articles R. 313-54 et R. 313-56 au financement des statistiques prévues à l'article R. 313-33 ainsi que les
-cotisations dues à des organismes fédéraux peuvent être couverts dans les conditions définies à l'article R. 313-33.
+" Les frais de gestion de ces organismes ainsi que les cotisations dues à des organismes fédéraux peuvent être couverts dans
+les conditions définies à l'article R. 313-33. "
 
 **Liens relatifs à cet article**
 
@@ -29089,7 +29460,13 @@ cotisations dues à des organismes fédéraux peuvent être couverts dans les co
 
 	**Modifié par**:
 
-	  - Décret n°86-108 1986-01-21 art. 9 JORF 25 janvier 1986
+	  - Décret n°88-313 1988-03-28 art. 11 I, II JORF 3 avril 1988
+	  - Décret n°88-313 du 28 mars 1988 - art. 11 () JORF 3 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R313-9, R313-21, R313-31, L313-2 R313-56, R313-33
+	  - Code de la construction et de l'habitation. - art. R*313-21 (M)
 
 
 ###### Article R*313-35
@@ -29128,38 +29505,20 @@ l'article R. 313-22, ne pourront pas être agréés ou conserver l'agrément pr�
 
 ###### Article R*313-36
 
-Les organismes collecteurs mentionnés aux articles R. 318-8 à R. 313-11 doivent utiliser les sommes recueillies au titre de
-l'article R. 313-10 en priorité pour le logement des travailleurs immigrés et de leur famille dans des immeubles conformes à
-des programmes agréés préalablement par le ministre chargé de la construction et de l'habitation et le ministre chargé du
-travail.
+Dans le cadre des priorités définies par le Gouvernement, l'agence nationale établit le programme annuel d'emploi des fonds
+mentionnés au troisième alinéa de l'article L. 313-1 dont une fraction, fixée par arrêté des ministres chargés de la
+construction et de l'habitation, de l'économie et des affaires sociales, est imputée à une réserve nationale affectée sur
+décisions des ministres chargés de la construction et de l'habitation et des affaires sociales.
 
-Un organisme interprofessionnel, dont les statuts sont approuvés par arrêté du ministre chargé des finances, du ministre
-chargé de la construction et de l'habitation et du ministre chargé du travail, autorise les organismes mentionnés à l'article
-R. 313-9 (2., a) ainsi que ceux mentionnés à l'article R. 313-9 (2., b et c) figurant sur une liste établie conjointement par
-le ministre chargé de la construction et de l'habitation, le ministre chargé du travail, le ministre chargé de l'industrie,
-le ministre chargé du commerce et le ministre chargé de l'artisanat à utiliser directement au financement des programmes
-agréés dans les conditions fixées à l'article R 313-31 tout ou partie des sommes qu'ils ont recueillies.
+Conformément à ce programme annuel, les organismes collecteurs mentionnés à l'article R. 313-9 doivent affecter ces fonds à
+des opérations agréées préalablement par les ministres chargés de la construction et de l'habitation et des affaires sociales
+et en priorité pour le logement des travailleurs immigrés et leur famille.
 
-L'organisme interprofessionnel reçoit des organismes collecteurs des sommes destinées à permettre aux organismes utilisateurs
-directs dont les ressources seraient insuffisantes de réaliser des opérations dans le cadre de programmes agréés. A ce
-titre :
-
-a) Les organismes collecteurs doivent lui reverser en subvention les sommes qu'ils n'ont pas été autorisés à utiliser
-directement, dans les conditions et sous les sanctions fixées par un des arrêtés mentionnés au dernier alinéa du présent
-article ;
-
-b) Il peut imposer aux organismes utilisateurs directs le versement de sommes en tant que de besoin.
-
-Des arrêtés du ministre chargé des finances, du ministre chargé de la construction et de l'habitation, du ministre chargé du
-travail, du ministre chargé du commerce, du ministre chargé de l'artisanat et du ministre chargé de l'industrie fixent les
-conditions de l'intervention de l'organisme interprofessionnel et les règles de l'élaboration et de l'exécution des
-programmes.
+En application de l'article L. 313-9, l'agence nationale autorise les organismes habilités à collecter la participation des
+employeurs à l'effort de construction, à utiliser directement tout ou partie des fonds mentionnés au troisième alinéa de
+l'article L. 313-1.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R313-28
 
 	**Codifié par**:
 
@@ -29167,19 +29526,26 @@ programmes.
 
 	**Modifié par**:
 
-	  - Décret n°84-949 1984-10-25 ART. 12 JORF 26 OCTOBRE 1984
+	  - Décret n°88-313 du 28 mars 1988 - art. 14 () JORF 4 avril 1988
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-8, R313-10, R313-11
+	  - Code de la construction et de l'habitation L313-1, R313-9, L313-9
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L313-9 (M)
 
 
 ###### Article R*313-37
 
-Un arrêté du ministre ds finances, du ministre chargé de la construction et de l'habitation et du ministre chargé du travail
-fixe, le cas échéant, dans le cadre des dispositions de l'article R. 313-31, l'affectation des sommes recueillies au titre de
-l'exercice précédent qui n'auraient pu être utilisées pour le logement des travailleurs immigrés et de leur famille
-[*organismes collecteurs*].
+L'agence nationale reçoit des organismes collecteurs des sommes destinées à permettre aux organismes utilisateurs directs
+dont les ressources seraient insuffisantes de réaliser des opérations agréées. A cette fin :
+
+" a) Les organismes collecteurs doivent reverser à l'agence, dans les deux mois qui suivent la clôture de leur exercice, les
+sommes qu'elle ne les a pas autorisés à utiliser ; à compter du premier jour suivant l'expiration du délai de deux mois
+susindiqué, les sommes non reversées sont assorties d'une pénalité de retard égale à 4 p. 100 [*pourcentage*] de leur
+montant ;
+
+" b) Elle peut, en tant que de besoin, enjoindre aux organismes utilisateurs directs le versement de sommes sans emploi. "
 
 **Liens relatifs à cet article**
 
@@ -29189,11 +29555,7 @@ l'exercice précédent qui n'auraient pu être utilisées pour le logement des t
 
 	**Modifié par**:
 
-	  - Décret n°80-190 1980-03-05 1980-03-09
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R313-31
+	  - Décret n°88-313 du 28 mars 1988 - art. 15 () JORF 4 avril 1988
 
 
 ##### Section 5 : Prêts des employeurs à leurs salariés et construction de logements par les employeurs.
