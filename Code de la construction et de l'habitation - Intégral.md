@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-06
 
 # Partie législative
 
@@ -33752,18 +33752,20 @@ présent article.
 
 ###### Article R331-22
 
-Les prêts prévus à l'article R. 331-1 sont accordés pour une durée de trente-quatre ans avec deux ans de différé
-d'amortissement. En outre, les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte
-sont assortis d'une remise d'intérêt de deux ans et trois mois. Les délais sont calculés à partir de la date de la signature
-du contrat [*point de départ*].
+Les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte sont accordés pour une durée
+de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise d'intérêts de deux ans et trois
+mois. Les prêts accordés aux sociétés filiales d'organismes collecteurs de la participation des employeurs à l'effort de
+construction et aux autres bénéficiaires mentionnés à l'article R. 331-8 sont accordés pour une durée de vingt-cinq ans avec
+deux ans de différé d'amortissement sans remise d'intérêts. Les délais sont calculés à partir de la date de la signature du
+contrat [*point de départ*].
 
 Ces prêts sont à annuités progressives.
 
 Pour les prêts assortis d'une remise d'intérêt, la troisième annuité est de 4,43 p. 100 du nominal, la quatrième de 6,13 p.
 100 du nominal et à partir de la quatrième année, l'annuité progresse de 4 p. 100 l'an jusqu'à l'expiration du prêt.
 
-Pour les prêts qui ne sont pas assortis de la remise d'intérêts, les deux premières annuités sont de 5,5 p. 100 du nominal,
-la troisième de 5,58 p. 100 du nominal et la progression annuelle est de 3,25 p. 100 jusqu'à l'expiration du contrat
+Pour les prêts qui ne sont pas assortis de la remise d'intérêts, les deux premières annuités sont de 7,65 p. 100 du nominal,
+la troisième de 7,70 p. 100 du nominal et leur progression annuelle est de 4 p. 100 jusqu'à l'expiration du contrat
 [*montant*].
 
 Les conditions relatives aux taux des prêts assortis d'une remise d'intérêt sont valables aussi longtemps que le taux de
@@ -33777,7 +33779,7 @@ rémunération du livret A des caisses d'épargne reste fixé à 8,50 p. 100.
 
 	**Modifié par**:
 
-	  - Décret n°81-1159 1981-12-28 ART. 1 JORF 30 DECEMBRE 1981
+	  - Décret n°81-1233 1981-12-31 ART. 1 JORF 6 JANVIER 1982
 
 	**Cité par**:
 
@@ -33788,7 +33790,7 @@ rémunération du livret A des caisses d'épargne reste fixé à 8,50 p. 100.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-8 (M)
 
 
 ###### Article R331-23
@@ -34294,22 +34296,16 @@ b) Les logements dont les travaux ont commencé avant :
 
 ###### Article R331-37
 
-Les prêts prévus à l'article R. 331-32 sont accordés :
+Les prêts prévus à l'article R. 331-32 sont accordés [*établissements prêteurs*] :
 
-[*établissements prêteurs*] :
-
-1. A tous les bénéficiaires :
+1° A tous les bénéficiaires :
 
 - par le Crédit foncier de France, agissant seul ou avec le concours du comptoir des entrepreneurs ;
 
 - par les caisses régionales de crédit agricole ;
 
-2. Aux organismes d'habitations à loyer modéré :
-
-- par la caisse de prêts aux organismes d'habitation à loyer modéré ;
-
-- par les caisses d'épargne dans les limites et conditions prévues par le décret n° 71-276 du 7 avril 1971 relatif au régime
-des caisses d'épargne.
+2° Aux organismes d'habitations à loyer modéré par les caisses d'épargne dans les limites et conditions prévues par le décret
+n° 71-276 du 7 avril 1971 relatif au régime des caisses d'épargne.
 
 **Liens relatifs à cet article**
 
@@ -34318,13 +34314,13 @@ des caisses d'épargne.
 	  - Décret n°71-276 1971-04-07
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-1231 1981-12-31 ART. 1 JORF 6 JANVIER 1982
 
 	**Cité par**:
 
@@ -35031,6 +35027,41 @@ l'habitation, et des finances.
 	  - Code de la construction et de l'habitation. - art. R331-99 (V)
 
 
+##### Sous-section 3 : Modalités de l'aide.
+
+###### Article R331-56
+
+Pour les prêts distribués en application de la loi de finances pour 1982, l'aide de l'Etat est consentie au Crédit foncier de
+France et à la caisse nationale de crédit agricole sous forme de bonifications d'intérêt, suivant les modalités précisées par
+les conventions prévues à l'article R. 331-38 [*bénéficiaire*].
+
+La rémunération des sociétés de crédit immobilier et des sociétés coopératives de production d'habitations à loyer modéré,
+pour les prêts distribués à ce titre dans les conditions définies à l'article R. 331-39, alinéas 3 et 4, est assurée par une
+bonification égale à 0,60 p. 100 du montant du prêt pendant dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°81-1160 1981-12-30 Finances pour 1982
+	  - Code de la construction et de l'habitation R331-39 AL. 3, AL. 4
+	  - Code de la construction et de l'habitation. - art. R331-38 (M)
+
+	**Créé par**:
+
+	  - Décret n°81-1231 1981-12-31 ART. 2 JORF 6 JANVIER 1982
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54 (V)
+	  - Code de la construction et de l'habitation. - art. R331-58 (V)
+	  - Code de la construction et de l'habitation. - art. R331-60 (V)
+
+
 ##### Sous-section 4 : Préfinancement.
 
 ###### Article R331-57
@@ -35223,51 +35254,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-#### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété
-
-##### Sous-section 3 : Modalités de l'aide.
-
-###### Article R331-56
-
-L'aide de l'Etat est consentie suivant des modalités précisées par les conventions prévues à l'article R. 331-38
-[*bénéficiaires*] :
-
-- au Crédit foncier de France, à la caisse nationale de crédit agricole pour le compte des caisses régionales de crédit
-agricole sous forme de bonifications d'intérêt forfaitaires ;
-
-- à la caisse de prêts aux organismes d'habitations à loyer modéré et à la caisse des dépôts et consignations pour le compte
-des caisses d'épargne sous la forme des bonifications d'annuité forfaitaires. Ces bonifications couvrent la différence entre
-l'annuité constante d'un prêt d'une durée de vingt ans consenti par les caisses d'épargne dans le cadre du décret n° 71-276
-du 7 avril 1971 relatif au régime des caisses d'épargne, et les annuités du prêt défini à l'article R. 331-54 de la présente
-section. Elles sont majorées pendant les dix premières années de 0,60 p. 100 du montant du prêt sauf pour les demandes de
-prêts déposées avant le 19 janvier 1978 [*date limite*] pour lesquelles la majoration est de 0,35 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°71-276 1971-04-07
-	  - Code de la construction et de l'habitation. - art. R331-38 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°81-1231 1981-12-31 art. 2 JORF 6 janvier 1982
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-54 (V)
-	  - Code de la construction et de l'habitation. - art. R331-58 (V)
-	  - Code de la construction et de l'habitation. - art. R331-60 (V)
 
 
 #### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements
