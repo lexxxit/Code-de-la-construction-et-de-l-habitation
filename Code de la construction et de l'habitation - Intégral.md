@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-06-17
+Version Consolidée au 1992-06-19
 
 # Partie législative
 
@@ -52540,8 +52540,6 @@ des immigrés.
 Le conseil départemental de l'habitat, dans les conditions fixées aux articles R. 362-3 à R. 362-8, a vocation à émettre un
 avis 
 
-[*attributions*].
-
 a) Sur la satisfaction des besoins en logements des différentes catégories de population ;
 
 b) Sur la programmation annuelle des aides de l'Etat au logement et des interventions de l'Agence nationale pour
@@ -52557,8 +52555,9 @@ e) Sur les programmes d'actions en faveur du logement des immigrés et des popul
 f) Sur les modalités selon lesquelles les aides à la personne en matière de logement sont mises en oeuvre dans le
 département ;
 
-g) Sur toute modification intervenant dans les compétences des organismes d'habitations à loyer modéré exerçant leur activité
-dans le département.
+" g) Sur toute modification intervenant dans la compétence des offices publics d'habitations à loyer modéré, des offices
+publics d'aménagement et de construction, des sociétés anonymes d'habitations à loyer modéré et des sociétés coopératives
+d'habitations à loyer modéré exerçant leur activité dans le département. "
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
@@ -52583,7 +52582,7 @@ ter de la même loi dans les conditions définies par l'article R. 362-20. "
 
 	**Modifié par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 2 () JORF 23 mai 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 1 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -55877,20 +55876,29 @@ régies par les dispositions ci-après.
 
 L'activité des sociétés anonymes de crédit immobilier s'exerce sur le territoire de la région où est situé leur siège social.
 
-Le ministe chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer modéré,
-agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
-l'occasion du contrôle prévu par l'article L. 451-1 pour leur permettre d'étendre leur activité à tout ou partie des régions
-limitrophes.
+Le ministre chargé du logement peut, sur proposition de la chambre syndicale des sociétés anonymes de crédit immobilier et
+après avis du Conseil supérieur des habitations à loyer modéré (comité permanent), agréer spécialement les sociétés pour leur
+permettre d'étendre leur activité à tout ou partie des régions limitrophes.
 
-En outre, le ministre chargé de la construction et de l'habitation peut, pour une opération déterminée, accorder une
-extension de compétence sur une partie quelconque du territoire, après avis du préfet du département intéressé, à une société
-dont la qualité de la gestion a été constatée dans les conditions précisées à l'alinéa précédent.
+En outre, le ministre chargé du logement peut, pour une opération déterminée, sur proposition de la chambre syndicale des
+sociétés anonymes de crédit immobilier et après avis du préfet du département intéressé, accorder une extension de compétence
+sur une partie quelconque du territoire national à une société.
+
+Si une société ayant bénéficié des dispositions des alinéas précédents n'est plus en mesure, du point de vue technique ou
+financier, d'assumer sa mission de façon satisfaisante, le ministre chargé du logement peut, après que la société aura été
+invitée à présenter ses observations et dans les mêmes formes que celles prévues pour l'octroi de l'agrément correspondant,
+supprimer tout ou partie de la faculté pour la société d'entreprendre de nouvelles opérations en dehors de la région où est
+situé son siège social.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 2 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -55903,27 +55911,25 @@ dont la qualité de la gestion a été constatée dans les conditions précisée
 
 ###### Article R*422-11
 
-Le ministre chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer
-modéré, agréer spécialement les sociétés anonymes de crédit immobilier pour leur permettre d'étendre leur activité à
-l'ensemble du territoire national [*compétence territoriale*].
+Le ministre chargé du logement peut, sur proposition de la chambre syndicale des sociétés anonymes de crédit immobilier et
+après avis du Conseil supérieur des habitations à loyer modéré (comité permanent), agréer les sociétés anonymes de crédit
+immobilier pour leur permettre d'étendre leur activité à l'ensemble du territoire national.
 
-Peuvent solliciter le bénéfice des dispositions du présent article les sociétés dont la qualité de la gestion sur les plans
-technique et financier a été constatée à l'occasion du contrôle prévu par l'article L. 451-1 et qui soit, ont financé ou ont
-construit au moins 10000 logements au total, soit ont financé ou construit en moyenne au moins 1000 logements [*nombre*] par
-an au cours des trois derniers exercices précédant la demande.
-
-Les sociétés ayant reçu un tel agrément doivent inclure dans leurs statuts une clause prévoyant l'institution d'un
-commissaire du Gouvernement.
+Si une société ayant bénéficié des dispositions de l'alinéa précédent n'est plus en mesure, du point de vue technique ou
+financier, d'assumer sa mission de façon satisfaisante, le ministre chargé du logement peut, après que la société aura été
+invitée à présenter ses observations et dans les mêmes formes que celles prévues pour l'octroi de l'agrément correspondant,
+supprimer tout ou partie de la faculté pour la société d'entreprendre de nouvelles opérations en dehors de la région où est
+situé son siège social.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-212 1974-02-25 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 3 () JORF 19 juin 1992
 
 	**Cite**:
 
@@ -55932,19 +55938,27 @@ commissaire du Gouvernement.
 
 ###### Article R*422-13
 
-Les sociétés anonymes de crédit immobilier peuvent continuer à gérer les sociétés civiles, immobilières créées avant le 12
-novembre 1974 pour la réalisation de programmes de constructions groupées sans avoir à fournir les garanties prévues à
-l'article 3 (4.) de leurs statuts types mentionnés à l'article R. 422-14.
+Les sociétés anonymes de crédit immobilier peuvent continuer à gérer les sociétés civiles immobilières créées avant le 12
+novembre 1974 pour la réalisation de programmes de constructions groupées sans avoir à fournir les garanties prévues au 2 du
+4° de la clause 3-I de leurs clauses types mentionnées à l'article R. 422-14.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-936 1974-11-06 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 5 () JORF 19 juin 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1595 du 9 novembre 2007 - art. 2 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
 
 	**Cite**:
 
@@ -55957,18 +55971,15 @@ l'article 3 (4.) de leurs statuts types mentionnés à l'article R. 422-14.
 
 ###### Article R*422-14
 
-Les statuts types des sociétés anonymes de crédit immobilier doivent être conformes à ceux reproduits en annexe au présent
-code. Leur adoption est obligatoire.
-
-Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
-indiqué par une mention spéciale que le bénéfice de la législation sur les habitations à loyer modéré n'est acquis ou
-maintenu à la société qu'après l'approbation des statuts par le préfet.
+Les clauses types des sociétés anonymes de crédit immobilier doivent être conformes à celles reproduites en annexe au présent
+code Leur adoption est obligatoire.
 
 La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
 assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
-Les modifications statutaires mentionnées à l'alinéa précédent ainsi que celles qui sont consécutives à l'application des
-articles R. 422-10, R. 422-11 et R. 422-12 sont dispensées de l'approbation du commissaire de la République du département.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -55976,52 +55987,66 @@ articles R. 422-10, R. 422-11 et R. 422-12 sont dispensées de l'approbation du 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R422-11
-
 	**Modifié par**:
 
-	  - Loi n°83-754 1983-08-05 ART. 3 JORF 17 AOUT 1983
+	  - Décret n°92-529 du 15 juin 1992 - art. 6 () JORF 19 juin 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1595 du 9 novembre 2007 - art. 2 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
 
 
 ###### Article R*422-15
 
-Les prêts que les sociétés anonymes de crédit immobilier peuvent accorder dans les conditions et pour les buts prévus à
-l'article L. 411-1 peuvent être consentis sans hypothèque, conformément à l'article L. 422-4, lorsqu'ils répondent à des
-conditions fixées par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+La décision administrative mentionnée à l'article L. 422-5 est constituée, pour les sociétés anonymes de crédit immobilier,
+par un agrément du ministre chargé du logement, délivré sur proposition de la chambre syndicale des sociétés anonymes de
+crédit immobilier et après avis du Conseil supérieur des habitations à loyer modéré (comité permanent).
+
+Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
+modéré (comité permanent).
+
+La dissolution d'une société anonyme de crédit immobilier telle que prévue par les articles L. 422-7, L. 422-8 et L. 422-9,
+la nomination d'un administrateur provisoire telle que prévue à l'article L. 422-8, la nomination d'un liquidateur telle que
+prévue par les articles L. 422-7 à L. 422-10 ou la suspension de membres du conseil d'administration d'une société anonyme de
+crédit immobilier telle que prévue à l'article L. 422-6 sont prononcées par le ministre chargé du logement après avis de la
+chambre syndicale des sociétés anonymes de crédit immobilier et du Conseil supérieur des habitations à loyer modéré (comité
+permanent).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 175
+	  - Décret n°92-529 du 15 juin 1992 - art. 7 () JORF 19 juin 1992
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L422-4 (M)
+	  - Code de la construction et de l'habitation L422-5, L422-7, L422-8, L422-9, L422-7 à L422-10, L422-6
+	  - Code de la construction et de l'habitation. - art. L422-5 (M)
+	  - Code de la construction et de l'habitation. - art. L422-6 (M)
+	  - Code de la construction et de l'habitation. - art. L422-7 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8 (M)
+	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
 ##### Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré.
 
 ###### Article R422-16
 
-Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modéré et de crédit immobilier doivent être agréées par
-le ministre chargé de la construction et de l'habitation après avis du [*comité départemental*] conseil départemental de
-l'habitat et du conseil supérieur des habitations à loyer modéré.
+Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modéré doivent être agréées par le ministre chargé de
+la construction et de l'habitation après avis du [*comité départemental*] conseil départemental de l'habitat et du conseil
+supérieur des habitations à loyer modéré.
 
-" La compétence géographique des sociétés anonymes d'habitations à loyer modéré dont le capital est détenu en totalité par un
+La compétence géographique des sociétés anonymes d'habitations à loyer modéré dont le capital est détenu en totalité par un
 ou plusieurs organismes d'habitations à loyer modéré et éventuellement par des personnes physiques ne possédant que le nombre
 d'actions minimum exigé pour être admis à exercer les fonctions d'administrateur est, par dérogation aux dispositions de
-l'article R. 422-3, définie lors de la délivrance de l'agrément visé au présent article. "
+l'article R. 422-3, définie lors de la délivrance de l'agrément visé au présent article.
 
-" Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent). "
+Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
+modéré (comité permanent).
 
 Les conditions dans lesquelles sont approuvés les emprunts contractés par lesdites sociétés sont fixées par arrêté conjoint
 du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
@@ -56031,6 +56056,11 @@ du ministre chargé des finances et du ministre chargé de la construction et de
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 8 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 9 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -56052,10 +56082,9 @@ chargé de la construction et de l'habitation après avis du [*comité départem
 départemental de l'habitat.
 
 L'approbation de l'autorité administrative prévue à l'article L. 422-11, alinéa 1, pour permettre à une assemblée générale
-d'attribuer, en cas de dissolution d'une société d'habitations à loyer modéré ou de crédit immobilier, la portion d'actif
-excédant la moitié du capital social à un ou plusieurs organismes d'habitations à loyer modéré ou à une fédération de ceux-ci
-est donnée par le ministre chargé de la construction et de l'habitation après avis du conseil supérieur des habitations à
-loyer modéré.
+d'attribuer, en cas de dissolution d'une société d'habitations à loyer modéré, la portion d'actif excédant la moitié du
+capital social à un ou plusieurs organismes d'habitations à loyer modéré ou à une fédération de ceux-ci est donnée par le
+ministre chargé de la construction et de l'habitation après avis du conseil supérieur des habitations à loyer modéré.
 
 **Liens relatifs à cet article**
 
@@ -56065,7 +56094,8 @@ loyer modéré.
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°92-529 du 15 juin 1992 - art. 10 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 8 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -56074,11 +56104,6 @@ loyer modéré.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 184 AL. 1 (pour partie)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L422-11 AL. 1
-	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
 ##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
@@ -56616,26 +56641,6 @@ spécial est soumise à l'accord du ministre chargé des finances et du ministre
 #### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré
 
 ##### Section 1 : Dispositions communes financières et comptables.
-
-###### Article R423-1
-
-Les règles budgétaires, financières et comptables applicables aux organismes d'habitations à loyer modéré, conformément à
-l'article L. 423-3, sont fixées après avis du conseil supérieur des habitations à loyer modéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 185 al. 1, al. 2
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-3 (AbD)
-
 
 ###### Article R423-1-1
 
@@ -58533,18 +58538,35 @@ nomenclature des pièces justificatives à produire par le comptable, conformém
 
 ###### Article R423-68
 
-Le cadre comptable et la tenue des comptes des sociétés d'habitations à loyer modéré et de crédit immobilier sont fixés par
-des instructions conjointes du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+Le cadre comptable et la tenue des comptes des sociétés anonymes d'habitations à loyer modéré sont fixés par des instructions
+conjointes du ministre chargé du logement et du ministre chargé du Trésor, après avis du Conseil supérieur des habitations à
+loyer modéré (comité permanent).
+
+Pour ce qui concerne les sociétés anonymes de crédit immobilier, des règles relatives à leur cadre comptable et à la tenue de
+leurs comptes peuvent être fixées par instruction du ministre chargé du logement, pour compléter les règles édictées par le
+comité de la réglementation bancaire et la commission bancaire, après avis du Conseil supérieur des habitations à loyer
+modéré (comité permanent) et de la chambre syndicale des sociétés anonymes de crédit immobilier.
+
+Les sociétés anonymes de crédit immobilier établissent à compter de l'exercice ouvert le 1er janvier 1992 pour chaque
+exercice comptable un document distinguant, d'une part, les produits résultant des activités qu'elles exercent en application
+du I et du II de l'article L. 422-4 et, d'autre part, les produits résultant des activités qu'elles exercent en application
+du III dudit article. Ce document est établi conformément à des règles fixées par arrêté du ministre chargé du logement et du
+ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 13 () JORF 19 juin 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-4 (M)
 
 	**Cité par**:
 
@@ -58565,17 +58587,21 @@ compris dans le prix de revient des immobilisations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1151 du 7 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-72 (M)
+	  - Code de la construction et de l'habitation. - art. R423-72
 
 
 ###### Article R423-70
@@ -58587,7 +58613,7 @@ période limitée à la durée de remboursement des emprunts à long terme contr
 Si, en cours d'amortissement, il apparaît, en raison de l'état des constructions, que les amortissements effectués ne sont
 pas suffisants, il est procédé à des amortissements supplémentaires.
 
-La faculté donnée par l'article 2 de la loi n. 47-1686 du 3 septembre 1947 de différer pendant cinq ans l'amortissement des
+La faculté donnée par l'article 2 de la loi n° 47-1686 du 3 septembre 1947 de différer pendant cinq ans l'amortissement des
 emprunts consentis par l'Etat au titre de la législation sur les habitations à loyer modéré ne saurait être interprétée comme
 dispensant les sociétés de doter pendant cette période les comptes d'amortissement des constructions correspondantes.
 
@@ -58595,15 +58621,15 @@ dispensant les sociétés de doter pendant cette période les comptes d'amortiss
 
 	**Cite**:
 
-	  - Loi n°47-1686 1947-09-03 ART. 2
-
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 3
+	  - Loi n°47-1686 1947-09-03 art. 2
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -58623,17 +58649,21 @@ La nature des autres provisions et le montant des dotations annuelles sont fixé
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1151 du 7 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-68 (M)
+	  - Code de la construction et de l'habitation. - art. R423-68
 
 
 ###### Article R423-72
@@ -58641,18 +58671,25 @@ La nature des autres provisions et le montant des dotations annuelles sont fixé
 Les sociétés d'habitations à loyer modéré et de crédit immobilier désireuses de procéder à la réévaluation de leur actif
 doivent obtenir au préalable l'accord du ministre chargé de la construction et de l'habitation sur leur projet de
 réévaluation. Les instructions prévues à l'article R. 423-68 indiquent la forme dans laquelle cet accord est demandé.
+L'accord du ministre est donné, pour les sociétés anonymes de crédit immobilier, sur proposition de la chambre syndicale des
+sociétés anonymes de crédit immobilier.
 
 Les immeubles donnés en location-attribution ou en location-vente ne peuvent faire l'objet d'une réévaluation.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 5
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 14 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -58673,34 +58710,42 @@ auxiliaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1151 du 7 octobre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-68 (M)
+	  - Code de la construction et de l'habitation. - art. R423-68
 
 
 ###### Article R423-74
 
-Les fonds libres appartenant à une société d'habitations à loyer modéré ou de crédit immobilier doivent être déposés au
-Trésor, à la caisse des dépôts et consignations, à un compte de chèques postaux, dans une caisse d'épargne ou à la Banque de
-France, sauf l'encaisse nécessaire aux besoins courants.
+Les fonds libres appartenant à une société d'habitations à loyer modéré doivent être déposés au Trésor, à la caisse des
+dépôts et consignations, à un compte de chèques postaux, dans une caisse d'épargne ou à la Banque de France, sauf l'encaisse
+nécessaire aux besoins courants.
+
+Les conditions de placement des fonds disponibles des sociétés anonymes de crédit immobilier et des établissements de crédit
+qu'elles contrôlent, ensemble ou séparément, directement ou indirectement, sont fixées par leur chambre syndicale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 15 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -58721,17 +58766,13 @@ lorsqu'elles font l'objet d'une liquidation ou d'une administration judiciaire. 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 ART. 7
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-213 du 9 mars 1990 - art. 4 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
 
 	**Cité par**:
 
@@ -58746,11 +58787,34 @@ lorsqu'elles font l'objet d'une liquidation ou d'une administration judiciaire. 
 	  - Code de la construction et de l'habitation. - art. R423-14-4 (Ab)
 	  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
 
 ###### Article R423-75
 
-En dehors des opérations prévues par la législation en vigueur, les sociétés ne peuvent effectuer que des achats de bons du
-Trésor ou valeurs assimilées et de rentes sur l'Etat ou de valeurs garanties par l'Etat.
+En dehors des opérations prévues par la législation en vigueur, les sociétés anonymes d'habitations à loyer modéré et les
+sociétés coopératives de production ou de location-attribution d'habitations à loyer modéré ne peuvent effectuer que des
+achats de bons du Trésor ou valeurs assimilées et de rentes sur l'Etat ou de valeurs garanties par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 16 () JORF 19 juin 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*422-32 (Ab)
+
+
+###### Article R423-75-1
 
 " Les sociétés anonymes d'habitations à loyer modéré, les sociétés anonymes de crédit immobilier et les sociétés anonymes
 coopératives de production d'habitations à loyer modéré peuvent en outre souscrire ou acquérir des actions ou des parts
@@ -58766,13 +58830,18 @@ souscription s'effectue à un prix supérieur de plus de 50 p. 100 à la valeur 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°91-385 du 23 avril 1991 - art. 15 () JORF 24 avril 1991
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 16 () JORF 19 juin 1992
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation R423-75 al. 2
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R*422-32 (Ab)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
 
 
 ###### Article R423-76
@@ -58785,13 +58854,13 @@ auront été accordées par l'Etat dans les conditions fixées lors de l'attribu
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
 
 
 ###### Article R423-77
@@ -58801,47 +58870,86 @@ opérations de l'année prévus à l'article R. 431-15.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-68 (M)
+	  - Code de la construction et de l'habitation. - art. R*423-68 (V)
 	  - Code de la construction et de l'habitation. - art. R431-15 (V)
 
 
 ###### Article R423-78
 
-Avant le 1er juillet [*délai*] de l'année qui suit la clôture de l'exercice, des copies des documents comptables approuvés
-conformément à la loi par l'assemblée générale des actionnaires sont adressées au préfet, au ministre chargé de la
-construction et de l'habitation et à la caisse des dépôts et consignations. Il y est joint l'état détaillé des opérations de
-l'année.
+Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale ordinaire réunie en application de l'article 157
+de la loi du 24 juillet 1966, sont adressées :
 
-Le ministre chargé de la construction et de l'habitation peut ordonner la rectification des écritures passées contrairement à
-la réglementation ou aux instructions en vigueur.
+a) Pour les sociétés d'habitations à loyer modéré, au préfet, au ministre chargé du logement et à la Caisse des dépôts et
+consignations, des copies des documents annuels, soumis conformément à la loi à l'assemblée générale des actionnaires,
+auxquelles est joint le procès-verbal de cette assemblée, ainsi que les états réglementaires définis par la réglementation
+applicable aux sociétés d'habitations à loyer modéré ;
+
+b) Pour les sociétés anonymes de crédit immobilier, au préfet du département du siège, au ministre chargé du logement et à la
+chambre syndicale des sociétés anonymes de crédit immobilier, des copies des documents annuels, soumis conformément à la loi
+à l'assemblée générale des actionnaires, auxquelles est joint le procès-verbal de cette assemblée, ainsi que le document
+mentionné au troisième alinéa de l'article R. 423-68.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-1161 1951-10-04 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
+	  - Décret n°92-529 du 15 juin 1992 - art. 17 () JORF 19 juin 1992
 
 	**Cité par**:
 
 	  - Arrêté du 8 mars 2010 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. R423-73 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-68 (M)
+	  - Loi n°1966-07-24 art. 157
+
 
 ##### Section 1 : Dispositions communes financières et comptables.
+
+###### Article R423-1
+
+Les règles budgétaires, financières et comptables applicables aux organismes d'habitations à loyer modéré, conformément à
+l'article L. 423-3, sont fixées après avis du conseil supérieur des habitations à loyer modéré.
+
+En ce qui concerne les sociétés anonymes de crédit immobilier, ces règles sont fixées, sans préjudice des compétences
+dévolues au comité de la réglementation bancaire et à la commission bancaire, après avis de leur chambre syndicale et du
+Conseil supérieur des HLM (comité permanent).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-529 du 15 juin 1992 - art. 11 () JORF 19 juin 1992
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 185 AL. 1 et 2 (pour partie)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-3 (AbD)
+
 
 ##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
 
