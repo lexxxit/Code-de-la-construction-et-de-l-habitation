@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-04-23
+Version Consolidée au 2003-04-25
 
 # Partie législative
 
@@ -42080,6 +42080,9 @@ d) Le produit net des intérêts de chacun des prêts visés à l'article R. 313
 e) Les produits résultant du placement des fonds en attente d'un emploi conforme aux articles R. 313-31, R. 313-34 et R.
 313-52 à R. 313-56 pour la part excédant une limite fixée par décret.
 
+f) Le surplus du produit net de la liquidation excédant la moitié du capital social des sociétés mentionnées à l'article R.
+313-31-2.
+
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
 l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
 logement, sont déduits de ces sommes.
@@ -42092,11 +42095,11 @@ logement, sont déduits de ces sommes.
 
 	**Modifié par**:
 
-	  - Décret n°98-677 du 30 juillet 1998 - art. 4 () JORF 6 août 1998
+	  - Décret n°2003-386 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31, R313-34, R313-52 à R313-56
+	  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31, R313-34, R313-52 à R313-56, R313-31-2
 
 
 ###### Article R313-21
@@ -42245,6 +42248,9 @@ c) Les remboursements des prêts consentis à l'aide de la participation des emp
 d) La part du résultat non affectée au réserves prévues aux articles R. 313-31-1 et R. 313-33-3 ou au report à nouveau
 débiteur.
 
+e) Le surplus du produit net de la liquidation excédant la moitié du capital social des sociétés mentionnées à l'article R.
+313-31-2.
+
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
 l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
 logement, sont déduits de ces sommes.
@@ -42253,7 +42259,7 @@ logement, sont déduits de ces sommes.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Cité par**:
 
@@ -42261,12 +42267,16 @@ logement, sont déduits de ces sommes.
 
 	**Modifié par**:
 
-	  - Décret n°98-677 du 30 juillet 1998 - art. 5 () JORF 6 août 1998
+	  - Décret n°2003-386 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31-1, R313-33-3
-	  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. R313-33-3
 
 
 ###### Article R*313-26
@@ -42622,8 +42632,9 @@ Les clauses types mentionnées à l'article L. 313-28 figurent en annexes à la 
 six et sont respectivement relatives aux clauses que doivent insérer dans leurs statuts :
 
 1° Pour l'annexe I, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés
-anonymes  ; ces sociétés peuvent réaliser des opérations locatives prévues à l'article R. 313-17 et des opérations à finalité
-d'accession à la propriété prévues à l'article R. 313-16 financées dans les conditions dudit article.
+anonymes ou de sociétés par actions simplifiées ; ces sociétés peuvent réaliser des opérations locatives prévues à l'article
+R. 313-17 et des opérations à finalité d'accession à la propriété prévues à l'article R. 313-16 financées dans les conditions
+dudit article.
 
 2° Pour l'annexe II, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de
 sociétés civiles et qui ne peuvent réaliser que des opérations locatives prévues à l'article R. 313-17.
@@ -42652,9 +42663,9 @@ publication du décret n° 93-750 du 27 mars 1993 au plus tard au terme de la ci
 
 **Nota:**
 
-NOTA : Selon un arrêt du Conseil d'Etat ( 1994-10-03 Société continentale foncière et mobilière) les mots ou acquis figurant
-au 6° inséré par l'article 1er du décret n° 93-750  du 27 mars 1993, et le deuxième alinéa du 3 de l"annexe VI du même décret
-sont annulés.
+Selon un arrêt du Conseil d'Etat (1994-10-03 Société continentale foncière et mobilière) les mots ou acquis figurant au 6°
+inséré par l'article 1er du décret n° 93-750 du 27 mars 1993, et le deuxième alinéa du 3 de l " annexe VI du même décret sont
+annulés.
 
 **Liens relatifs à cet article**
 
@@ -42664,18 +42675,17 @@ sont annulés.
 
 	**Cite**:
 
-	  - Décret n°93-750 1993-03-27
-	  - Code de la construction et de l'habitation L313-28, R313-31, R313-17, R313-16, R313-18
-	  - Code de la construction et de l'habitation. - art. L313-28 (V)
-
-	**Créé par**:
-
-	  - Décret n°93-750 du 27 mars 1993 - art. 1 () JORF 30 mars 1993
+	  - Décret n°93-750 du 27 mars 1993
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. L313-28
 
 	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -42685,7 +42695,7 @@ sont annulés.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Conseil d'Etat décision n°148349 du 3 octobre 1994 Société Continentale Foncière et immobilière
+	  - SPEC_APPLI: Conseil d'Etat 1994-10-03 n°148349 Continentale Foncière et Mobilière
 
 
 ###### Article R*313-31-3
@@ -78460,6 +78470,631 @@ prévue par les règles applicables localement relatives à la déclaration d'ac
 
 
 # Annexes
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées.
+
+###### Article Annexe I à l'article R313-31
+
+A. Clauses communes aux sociétés anonymes et aux sociétés par actions simplifiées. 
+
+1. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+2. Actions de la société. 
+
+Les actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Distribution de dividendes et affectation des résultats. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs mentionnés au premier alinéa de la clause 1 ci-
+dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la réglementation de la participation des
+employeurs à l'effort de construction. Les titres éventuellement souscrits ou acquis avec ces bénéfices ne peuvent être que
+ceux des sociétés mentionnées aux 2°, 2° bis et 9° du I de l'article R. 313-31 du code de la construction et de
+l'habitation. 
+
+4. Cession des actions. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions doit être autorisée par l'organe délibérant de la société
+anonyme, ou par l'organisme collecteur président de la société par actions simplifiée lorsque celle-ci comprend plusieurs
+actionnaires. 
+
+Elle est réalisée en priorité au profit d'un actionnaire existant ou d'un organisme collecteur visé aux a, b ou c du 2° de
+l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par la
+réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un expert
+désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces actions dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 %. 
+
+5. Cession des logements appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 1 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants visés ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1° et 2° de l'article R. 313-31-2 du code de la
+construction et de l'habitation ou d'un organisme collecteur mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs mentionnés ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+Les mêmes dispositions sont applicables aux logements construits en vue de l'accession à la propriété qui ont, faute
+d'acquéreur, été mis en location et qui font l'objet d'une mise en vente ultérieure. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire de la société anonyme, ou
+l'assemblée générale des actionnaires de la société par actions simplifiée, nomme un liquidateur qui doit être agréé par
+décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 1 ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction. 
+
+B. Clauses particulières aux sociétés par actions simplifiées. 
+
+7. Clause commune à toutes les sociétés par actions simplifiées. 
+
+La société par actions simplifiée est présidée par un organisme collecteur mentionné au a ou b du 2° de l'article R. 313-9 du
+code de la construction et de l'habitation. Le président dirige la société et la représente à l'égard des tiers. A ce titre,
+il est investi de tous les pouvoirs nécessaires pour agir au nom de la société dans la limite de son objet social et des
+pouvoirs expressément dévolus par la loi et les présents statuts à l'actionnaire unique ou aux décisions collectives des
+actionnaires. Le président peut déléguer, dans les conditions et limites qu'il détermine, ses pouvoirs de direction de la
+société à un directeur général, personne physique. 
+
+8. Clause particulière aux sociétés par actions simplifiées comprenant plusieurs actionnaires. 
+
+Les opérations ci-après doivent être décidées :
+
+- à la majorité des voix dont disposent les actionnaires présents ou représentés en assemblée générale :
+
+- approbation des comptes annuels ;
+
+- nomination du commissaire aux comptes ;
+
+- au deux tiers des voix dont disposent les actionnaires présents ou représentés en assemblée générale :
+
+- dissolution et liquidation de la société ;
+
+- augmentation et réduction du capital ;
+
+- fusion, scission et apport partiel d'actif ;
+
+- exclusion d'un actionnaire. 
+
+9. Clause particulière aux sociétés par actions simplifiées unipersonnelles. 
+
+L'associé unique exerce les pouvoirs qui sont dévolus par la loi à la collectivité des actionnaires lorsque la société
+comporte plusieurs actionnaires. Il ne peut déléguer ces pouvoirs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17.
+
+###### Article Annexe II à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité locative prévues au 1er du I et au II de l'article
+R. 313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50% par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une part de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+Les parts de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6% du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs détenteurs du capital de la société et mentionnés
+au premier alinéa de la clause 2 ci-dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la
+réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des parts de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par
+la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un
+expert désigné, soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme de
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces parts dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 p. 100.
+
+5. Cession des logements appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants cités ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1° et 2° de l'article R. 313-31-2 du code de la
+construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité locative ou d'un organisme collecteur
+mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs mentionnés ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Gérance de la société. 
+
+La société est administrée par un gérant. Cette fonction est attribuée à un organisme collecteur visé au a ou b du 2° de
+l'article R. 313-9 du code de la construction et de l'habitation ou déléguée à une autre personne physique ou morale. En cas
+de délégation, le gérant est nommé par décision conjointe de chaque organe délibérant des organismes collecteurs mentionnés
+au premier alinéa de la clause 2 ci-dessus. Sa révocation est prononcée dans les mêmes formes. 
+
+Le gérant rend compte annuellement de sa gestion aux associés par un rapport écrit d'ensemble sur l'activité de la société au
+cours de l'exercice ou de l'année écoulée, ce rapport comportant l'indication des bénéfices réalisés ou prévisibles et des
+pertes encourues ou prévues. 
+
+7. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 2
+ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction. 
+
+8. Commission d'attribution. 
+
+(Clause à n'insérer dans les statuts que pour les sociétés ayant une partie au moins de leur patrimoine implanté dans de
+grands ensembles anciennement classés en zone à urbaniser par priorité). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer, ou son représentant, est membre de droit de cette
+commission, pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.
+
+###### Article Annexe III aux articles R313-31, R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité d'accession à la propriété prévues à l'article R.
+313-16 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants qui, faute
+d'acquéreur, ont été mis en location. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une part de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs détenteurs du capital de la société et mentionnés
+au premier alinéa de la clause 2 ci-dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la
+réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des parts de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et l'habitation, sous réserve des conditions et autorisations prévues par la
+réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un expert
+désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces parts dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 %. 
+
+5. Cession des logements appartenant à la société. 
+
+Dans le cas où des logements construits en vue de la réalisation de l'objet de la société ont, faute d'acquéreur, été mis en
+location, leur vente ultérieure doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants visés ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée à l'article R. 313-31-2 du code de la construction et
+de l'habitation ayant pour objet la réalisation d'opérations à finalité locative ou d'un organisme collecteur mentionné au c
+du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs cités ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation porte sur la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 2
+ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-16 (V)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative.
+
+###### Article Annexe IV à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'une opération à finalité locative prévue au 1° du I de l'article R.
+313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+Pour la réalisation de cette opération, la société se place sous le contrôle du ou des organismes collecteurs mentionnés au a
+ou b du 2° de l'article R. 313-9 du code de la construction et de l'habitation par l'intermédiaire duquel (desquels) ont été
+effectuées les souscriptions de parts ou d'actions prévues au c de l'article R. 313-23 du même code. 
+
+L'(ou les) organismes (s) collecteur (s) peut (peuvent) en conséquence se faire communiquer tous documents d'ordre
+administratif, juridique, comptable et technique se rattachant à l'opération. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut être augmenté par incorporation de réserves. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés au
+deuxième alinéa de la clause 1 ci-dessus ne peut détenir directement ou indirectement plus d'une action ou d'une part de la
+société. 
+
+Les parts ou actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Chaque organe délibérant du ou des organismes collecteurs mentionnés au deuxième alinéa de la clause 1 ci-dessus décide de
+l'affectation des bénéfices de la société. Les bénéfices non distribués ne peuvent être réinvestis que dans des emplois
+prévus par la réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des logements locatifs appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de l'organe délibérant de la société. 
+
+5. Cession des parts ou actions de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts ou d'actions doit être autorisée par l'organe délibérant de la
+société. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes mentionnés au deuxième alinéa de la clause 1 ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à une autre société immobilière mentionnée à l'article R. 313-31-2 du code de la
+construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité locative. 
+
+7. Commission d'attribution. 
+
+(Cette clause n'est à insérer dans leurs statuts que par les sociétés de nature civile et dont l'opération est implantée dans
+de grands ensembles anciennement classés en zone à urbaniser). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer ou son représentant est membre de droit de cette commission
+pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL).
+
+###### Article Annexe V aux articles R313-31, R313-31-2
+
+1. Objet et nature de la société. 
+
+L'objet exclusif de la société est l'acquisition en vue de la vente ou de la location de logements existants ainsi
+qu'éventuellement la gestion temporaire, pour le compte de leurs propriétaires, de tels logements. 
+
+La société est une société anonyme administrée par un conseil d'administration ou un conseil de surveillance et un
+directoire. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+Les actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Chaque organe délibérant du ou des organismes collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus décide de
+l'affectation des bénéfices de la société. Les bénéfices non distribués ne peuvent être réinvestis que dans des emplois
+prévus par la réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des actions. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur d'actions existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par
+la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un
+expert désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces actions dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50%.
+
+5. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant de chacun des organismes mentionnés au deuxième alinéa de la clause 2 ci-
+dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.
+
+###### Article Annexe VI à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité locative prévues au 1er du I et au II de l'article
+R. 313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+2. Capital de la société. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un organisme collecteur de la
+participation des employeurs à l'effort de construction ayant souscrit au capital de la société ou acquis des parts ou
+actions de celle-ci ne peut détenir directement ou indirectement plus d'une part ou action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut être augmenté par incorporation de réserves. 
+
+3. Actions ou parts de la société. 
+
+Les actions ou parts de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions ou de parts doit être autorisée par l'organe délibérant de la
+société. 
+
+La cession de parts ou d'actions doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts ou d'actions existant ou d'un organisme collecteur visé aux a,
+b ou c du 2° de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et
+autorisations prévues par la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci
+est déterminé par un expert désigné soit par les parties, soit à défaut d'accord entre elles, par ordonnance du tribunal
+d'accord entre elles, par ordonnance du tribunal statuant en la forme des référés et sans recours possible. Le prix de la
+cession ne peut être, en tout état de cause et conformément à l'article L. 313-28 du code de la construction et de
+l'habitation, ni supérieur à la valeur de ces parts ou actions dans la situation nette de la société, ni supérieur à leur
+valeur nominale majorée de 50 %. 
+
+4. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Les bénéfices non distribués sont réinvestis dans des emplois prévus par la réglementation de la participation des employeurs
+à l'effort de construction. 
+
+5. Cession des logements appartenant à la société. 
+
+La cession des logements locatifs de la société doit être décidée par l'organe délibérant de la société. 
+
+Elle ne peut être réalisée qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1°, 2° et 5° de
+l'article R. 313-31-2 du code de la construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité
+locative, ou d'un organisme collecteur mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+Les cessions de logements locatifs décidées en dérogation avec les règles prévues à l'alinéa précédent sont transmises au
+représentant de l'Etat dans le département d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception
+de la décision concernée par le représentant de l'Etat, celui-ci peut demander à une seconde délibération relative à la
+cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, après règlement du passif et remboursement du capital social, le
+surplus du produit net de la liquidation excédant la moitié du capital social ne peut être dévolu qu'à un organisme mentionné
+au a ou b du 2° de l'article R. 313-9 du code de la construction et de l'habitation, lequel doit l'imputer aux sommes
+recueillies au titre de la participation des employeurs à l'effort de construction. 
+
+7. Commission d'attribution. 
+
+(Cette clause n'est à insérer dans le statut que par les sociétés de nature civile et ayant une partie au moins de leur
+patrimoine implanté dans de grands ensembles anciennement classés en zone à urbaniser en priorité). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer, ou son représentant, est membre de droit de cette
+commission, pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-28 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
 
 ## Convention type pour les établissements de crédit consentant des prêts conventionnés.
 
