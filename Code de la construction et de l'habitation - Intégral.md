@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-08-10
+Version Consolidée au 1980-12-21
 
 # Partie législative
 
@@ -29240,8 +29240,7 @@ Le cumul des prêts n'est possible que si ces prêts sont consentis par le même
 
 ###### Article R*315-39
 
-Le retrait définitif des fonds ne peut intervenir avant la demande de prêt d'épargne-logement ou, si le souscripteur renonce
-au bénéfice de ce prêt, avant la constatation écrite de la renonciation au prêt.
+Le retrait des fonds à l'arrivée du terme laisse subsister le droit au prêt pendant un an.
 
 Les sommes inscrites au compte du souscripteur continuent à porter intérêt au taux fixé dans les conditions prévues à
 l'article R. 315-29 durant la période comprise entre la date de venue à terme du plan d'épargne-logement et celle du retrait
@@ -29249,13 +29248,13 @@ effectif des fonds.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 16
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-1031 1980-12-16 ART. 3 JORF 21 DECEMBRE 1980
 
 	**Cité par**:
 
@@ -29268,26 +29267,26 @@ effectif des fonds.
 
 ###### Article R*315-40
 
-Le souscripteur d'un plan d'épargne-logement venu à terme reçoit de l'Etat une prime d'épargne.
+Lors du retrait des fonds, le souscripteur d'un plan d'épargne-logement reçoit de l'Etat une prime d'épargne égale au montant
+des intérêts acquis.
 
-Lorsque le souscripteur bénéficie d'un prêt d'épargne-logement, la prime d'épargne est égale au montant des intérêts acquis
-jusqu'à la date de la demande de prêt. Elle est versée lors de la réalisation du prêt.
+La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 [*date*] est
+égale à un pourcentage, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de
+l'habitation et du ministre chargé des postes et télécommunications, des intérêts acquis à la date de venue à terme du plan
+[*calcul*].
 
-Lorsque le souscripteur ne sollicite pas l'octroi d'un prêt d'épargne-logement, la prime d'épargne est égale au montant des
-intérêts acquis jusqu'à la date de la renonciation. Elle est versée à la date de la renonciation.
-
-La prime d'épargne ne peut pas dépasser, toutefois, un montant fixé par arrêté du ministre chargé des finances, du ministre
-chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
+La prime d'épargne ne peut pas dépasser un montant fixé par arrêté du ministre chargé des finances, du ministre chargé de la
+construction et de l'habitation et du ministre chargé des postes et télécommunications.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-1031 1980-12-16 ART. 4 JORF 21 DECEMBRE 1980
 
 	**Cité par**:
 
@@ -29317,6 +29316,27 @@ qu'il n'y est pas dérogé par la présente section.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R*315-41-1
+
+Les souscripteurs de plans d'épargne-logement ouverts antérieurement au 1er janvier 1981 dont le contrat n'a pas atteint le
+terme fixé soit à l'origine, soit par avenant de prorogation, ou dont le terme est intervenu depuis moins d'un an et qui
+n'ont pas encore retiré leurs fonds, peuvent prétendre au bénéfice des dispositions applicables aux contrats souscrits à
+compter du 1er janvier 1981.
+
+Leur option est constatée par un avenant qui doit intervenir entre le 1er février 1981 et le 31 décembre de la même année.
+Cet avenant prend effet du jour de sa signature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-1031 1980-12-16 ART. 6 JORF 21 DECEMBRE 1980
+
+
 ###### Article R*315-42
 
 Le décret en Conseil d'Etat prévu pour l'application de la section I [*compte d'épargne-logement*] et de la présente section
@@ -29335,643 +29355,6 @@ ministre chargé des postes et télécommunications.
 
 
 ##### Section 3 : Dispositions transitoires
-
-##### Sous-section 1 : Comptes d'épargne-crédit.
-
-###### Article R*315-43
-
-Les comptes d'épargne-crédit ouverts par les caisses d'épargne au nom de toute personne physique conformément aux articles L.
-315-8 à L. 315-18 avant le 4 décembre 1965     sont régis par les dispositions ci-après. 
-
-Le ministre chargé des finances est l'autorité compétente pour gérer le compte prévu à l'article L. 315-17.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 1
-	  - Loi n°60-1384 du 23 décembre 1960 - art. 77, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L315-8 à L315-18, L315-17
-	  - Code de la construction et de l'habitation. - art. L315-17 (Ab)
-
-
-###### Article R*315-44
-
-Les dispositions du code des caisses d'épargne relatives aux comptes de dépôts ouverts dans les caisses d'épargne sont
-applicables aux comptes d'épargne-crédit en tout ce qui n'est pas contraire aux dispositions des articles L. 315-8 à L.
-315-18 et de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-45
-
-Les sommes inscrites au compte d'épargne-crédit sont remboursables à vue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-46
-
-Les sommes inscrites au compte d'épargne-crédit portent intérêt au taux de 2 p. 100 l'an. Au 31 décembre de chaque année,
-l'intérêt s'ajoute au capital et devient lui-même productif d'intérêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-47
-
-L'ouverture du compte d'épargne-crédit est subordonnée à un dépôt minimum de 200 F.
-
-Le retrait de fonds qui aurait pour effet de ramener le montant du compte d'épargne-crédit au dessous du dépôt minimum
-entraîne la clôture du compte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-48
-
-Sous réserve des dispositions de l'article précédent, chaque versement au compte d'épargne-crédit ne peut être inférieur à 50
-F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-49
-
-Le compte d'épargne-crédit ouvert à chaque déposant ne peut, sauf par la capitalisation des intérêts, dépasser 15000 F
-[*montant maximum*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-50
-
-Il est interdit d'être simultanément titulaire de plusieurs comptes d'épargne-crédit sous peine de perdre la totalité des
-intérêts ainsi que le bénéfice des prêts prévus par les articles R. 315-56 à R. 315-68 [*cumul*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-56 à R315-68
-
-
-###### Article R*315-51
-
-La caisse d'épargne délivre au déposant un livret d'épargne-crédit sur lequel sont inscrits les versements et retraits de
-fonds et les intérêts acquis.
-
-Le total des intérêts acquis depuis l'ouverture du compte d'épargne-crédit est également porté sur le livret [*contenu*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-52
-
-A la demande du titulaire du compte d'épargne-crédit, la caisse d'épargne lui délivre un certificat indiquant que le compte
-est ouvert depuis plus de dix-huit mois et que les intérêts acquis depuis l'ouverture s'élèvent à 100 F au moins.
-
-Ce certificat permet au titulaire de bénéficier d'une priorité pour l'attribution des primes et prêts spéciaux prévus par les
-articles L. 311-1 à L. 311-3, L. 311-6, L. 311-9, L. 312-1 et R. 324-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L311-1 à L311-3, L311-6, L311-9, L312-1, R324-1
-	  - Code de la construction et de l'habitation. - art. L311-6 (M)
-	  - Code de la construction et de l'habitation. - art. L311-9 (Ab)
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
-
-
-###### Article R*315-53
-
-Lorsque les conditions prévues au premier alinéa de l'article précédent sont remplies, la caisse d'épargne arrête le compte à
-la demande du titulaire.
-
-Elle lui délivre le relevé du total des intérêts acquis à la date de l'arrêté du compte. Ce relevé permet au titulaire
-d'obtenir le bénéfice des prêts prévus aux articles R. 315-56 à R. 315-68.
-
-Les intérêts acquis postérieurement à l'arrêté du compte n'entrent pas en jeu pour l'attribution desdits prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-56 à R315-68
-
-
-###### Article R*315-55
-
-Le Trésor paye aux caisses d'épargne, par l'intermédiaire de la caisse des dépôts et consignations, un intérêt de 2,50 p. 100
-[*taux*] l'an sur les sommes qu'elles versent au titre de l'épargne-crédit en application de l'article R. 315-54.
-
-Cet intérêt est destiné à assurer le service des intérêts dus aux déposants et à couvrir les frais de gestion des caisses
-d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R315-54 (Ab)
-
-
-###### Article R*315-56
-
-Les fonds nécessaires à la réalisation des prêts prévus aux articles R. 315-57 et R. 315-58 sont mis par le Trésor à la
-disposition du Crédit foncier de France et du Comptoir des entrepreneurs ou, par l'intermédiaire de la caisse des dépôts et
-consignations, à la disposition des organismes d'habitations à loyer modéré.
-
-Le ministre chargé des finances est autorisé à conclure avec ces établissements toutes conventions nécessaires.
-
-Il est également autorisé à mettre à la disposition des organismes à loyer modéré mentionnés à l'article L. 315-12 par
-l'intermédiaire de la caisse des dépôts et consignations les fonds nécessaires à la réalisation des prêts prévus à l'article
-L. 315-8 et à conclure avec ladite caisse toutes conventions nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-235 1959-02-04 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-57, R315-58, L315-12, L315-8
-	  - Code de la construction et de l'habitation. - art. L315-12 (Ab)
-	  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article R*315-57
-
-Le Crédit foncier de France et le comptoir des entrepreneurs accordent au titulaire du compte d'épargne-crédit arrêté en
-application de l'article R. 315-53 un prêt pour financer, avec le bénéfice des primes mentionnées à l'article R. 311-1, la
-construction d'un logement destiné au titulaire, à ses ascendants ou descendants, aux ascendants ou descendants du conjoint.
-
-Les dispositions de l'article L. 311-9 sont applicables aux prêts consentis en exécution du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-53, R311-1, L311-9
-	  - Code de la construction et de l'habitation. - art. L311-9 (Ab)
-
-
-###### Article R*315-58
-
-Dans le cas où une opération d'accession à la propriété est financée dans les conditions prévues aux articles L. 431-1, L.
-431-2, R. 431-1 à R. 431-6 et R. 431-51, la société de crédit immobilier ou la société coopérative d'habitations à loyer
-modéré accorde au candidat à cette opération, lorsqu'il est titulaire d'un compte d'épargne-crédit arrêté en application de
-l'article R. 315-53, le prêt auquel il peut prétendre au titre de l'article L. 315-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 15 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L431-1, L431-2, R431-1 à R431-6, R431-51, R315-53, L315-9
-	  - Code de la construction et de l'habitation. - art. L315-9 (Ab)
-	  - Code de la construction et de l'habitation. - art. L431-1 (M)
-	  - Code de la construction et de l'habitation. - art. L431-2 (V)
-	  - Code de la construction et de l'habitation. - art. R431-51 (V)
-
-
-###### Article R*315-59
-
-Le taux d'intérêt du prêt consenti en application de l'article précédent est fixé à 2 p. 100 l'an.
-
-Toutes sommes en principal, intérêts ou accessoires, non payées lorsqu'elles sont exigibles produisent des intérêts au taux
-de 6 p. 100 l'an.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-60
-
-Une commission annuelle, fixée à 0,80 p. 100 [*taux*] du capital prêté, est versée par l'emprunteur en sus des intérêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-61
-
-Le montant et la durée du prêt sont déterminés de telle sorte que le total des intérêts à payer par l'emprunteur soit égal au
-total des intérêts acquis à la date où le compte d'épargne-crédit est arrêté, sous réserve des maximums prévus aux articles
-R. 315-63 et R. 315-64.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-63, R315-64
-
-
-###### Article R*315-62
-
-Le prêt est amortissable en deux années au moins et dix années au plus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-63
-
-Si le prêt, majoré du montant du ou des prêts consentis en application des articles L. 311-9 et L. 312-1 ou du montant de
-l'aide financière accordée au titre de la législation sur les habitations à loyer modéré, excède le coût total du logement,
-ce prêt sera réduit à concurrence de l'excédent.
-
-Le coût total du logement comprend le coût des travaux, les honoraires et les frais accessoires, le prix d'achat du terrain
-et les frais y afférents, les frais de branchement aux réseaux de distribution d'eau, de gaz et d'électricité ainsi qu'aux
-canalisations d'égout. Le cas échéant, il comprend également les frais de mise en état de viabilité, les dépenses destinées à
-la création d'espaces verts, de services collectifs ou communs, les frais exceptionnels d'infrastructure et de fondations
-spéciales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L311-9 (Ab)
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
-
-
-###### Article R*315-64
-
-Le montant du prêt doit être tel que, pour chaque année, le total des remboursements en capital et des intérêts versés par
-l'emprunteur n'excède pas 6000 F [*maximum*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-65
-
-Dans les limites prévues aux articles R. 315-63 et R. 315-64 le prêt peut être déterminé, conformément aux dispositions de
-l'article R. 315-61, en ajoutant aux intérêts acquis au compte du bénéficiaire tout ou partie des intérêts acquis aux comptes
-d'épargne-crédit du conjoint, des ascendants et descendants du bénéficiaire, des ascendants et descendants du conjoint, à
-condition que ces comptes soient ouverts depuis plus de douze mois et que le bénéficiaire justifie de l'autorisation des
-titulaires des comptes ou de leurs représentants légaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-63, R315-64, R315-61
-
-
-###### Article R*315-66
-
-Par dérogation aux articles R. 315-57 et R. 315-58, le prêt peut être consenti, même si le bénéficiaire n'est pas titulaire
-d'un compte d'épargne-crédit, en prenant en compte tout ou partie des intérêts acquis aux comptes d'épargne-crédit du
-conjoint, des ascendants et descendants du bénéficiaire, des ascendants et descendants du conjoint, à condition que l'un de
-ces comptes soit ouvert depuis plus de dix-huit mois et les autres depuis plus de douze mois et que le bénéficiaire justifie
-de l'autorisation des titulaires des comptes ou de leurs représentants légaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 29
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-57, R315-58
-
-
-###### Article R*315-67
-
-En cas de décès du titulaire d'un compte d'épargne-crédit, les droits résultant de l'inscription des intérêts au compte
-peuvent être utilisés par les héritiers ou légataires, dans les conditions prévues à la présente sous-section. Ces droits
-peuvent faire l'objet d'un partage, indépendamment du partage des capitaux inscrits au compte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-
-###### Article R*315-68
-
-Les droits attachés aux intérêts non pris en compte pour la détermination d'un prêt accordé en application des articles R.
-315-57 et R. 315-58, R. 315-65 ou R. 315-66 demeurent acquis aux titulaires des comptes d'épargne-crédit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-609 1959-05-11 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-57, R315-58, R315-65, R315-66
-
-
-###### Article R315-54
-
-Les fonds versés aux comptes d'épargne-crédit sont déposés au Trésor. Le dépôt est effectué par l'intermédiaire de la Caisse
-des dépôts et consignations. Une convention peut être passée à cet effet entre le ministre chargé des finances et la Caisse
-des dépôts et consignations. Le versement des fonds est effectué dans les mêmes conditions que ceux qui proviennent de la
-Caisse nationale d'épargne et de caisses d'épargne ordinaires. Elles y sont inscrites à des comptes distincts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-235 1959-02-04 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*315-55 (Ab)
-
 
 ##### Sous-section 2 : Epargne-construction.
 
@@ -30403,36 +29786,6 @@ ministre chargé de la construction et de l'habitation.
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
 
 #### Chapitre V : Epargne-logement.
-
-##### Section 1 : Comptes d'épargne-logement.
-
-##### Sous-section 4 : Gestion.
-
-###### Article R*315-23
-
-Les titulaires de comptes d'épargne-crédit ouverts en application des articles L. 315-8 à L. 315-18 ont la faculté de
-transférer leurs dépôts à un compte d'épargne-logement ouvert dans une caisse d'épargne. Ils conservent alors les droits
-résultant de l'ouverture de leur compte et de l'inscription des intérêts et bénéficient de plein droit du régime de
-l'épargne-logement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 7 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L315-8 à L315-18
-
 
 ##### Section 2 : Plans contractuels d'épargne-logement
 
