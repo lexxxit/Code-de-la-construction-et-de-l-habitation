@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-05-11
+Version Consolidée au 2000-06-22
 
 # Partie législative
 
@@ -29568,14 +29568,15 @@ contrats ainsi que leur périodicité.
 	  - Arrêté du 12 novembre 1990 - art. 1 (V)
 
 
-#### Chapitre VI : Protection contre les risques naturels.
+#### Chapitre VI : Protection contre les risques naturels ou miniers.
 
 ###### Article R126-1
 
 Les plans de prévention des risques naturels prévisibles établis en application des articles 40-1 à 40-7 de la loi n° 87-565
 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la
-prévention des risques majeurs peuvent fixer des règles particulières de construction, d'aménagement et d'exploitation en ce
-qui concerne la nature et les caractéristiques des bâtiments ainsi que leurs équipements et installations.
+prévention des risques majeurs, ou les plans de prévention des risques miniers établis en application de l'article 94 du code
+minier, peuvent fixer des règles particulières de construction, d'aménagement et d'exploitation en ce qui concerne la nature
+et les caractéristiques des bâtiments ainsi que leurs équipements et installations.
 
 **Liens relatifs à cet article**
 
@@ -29586,10 +29587,11 @@ qui concerne la nature et les caractéristiques des bâtiments ainsi que leurs �
 	**Cite**:
 
 	  - Loi n°87-565 1987-07-22 art. 40-1 à 40-7
+	  - Code minier 94
 
 	**Modifié par**:
 
-	  - Décret n°95-1089 du 5 octobre 1995 - art. 11 () JORF 11 octobre 1995
+	  - Décret n°2000-547 du 16 juin 2000 - art. 4 () JORF 22 juin 2000
 
 
 ### Titre III : Chauffage et ravalement des immeubles
