@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-03-24
+Version Consolidée au 1983-04-12
 
 # Partie législative
 
@@ -35182,28 +35182,52 @@ bonification égale à 0,60 p. 100 du montant du prêt pendant dix ans.
 
 ###### Article R331-57
 
-Une fraction du prêt prévu à l'article R. 331-32 peut être accordée aux personnes physiques ou morales qui construisent ou
-acquièrent et améliorent des logements du secteur groupé mentionnés à l'article R. 331-49, aux conditions définies à
-l'article R. 331-58.
+Une fraction du prêt prévu à l'article R. 331-32 peut être accordée aux conditions définies à l'article R. 331-58 :
 
-Ce préfinancement ne peut être accordé que pour des logements destinés à faire l'objet d'une mutation ou d'une cession de
-parts ou d'actions et satisfaisant aux conditions prévues aux articles R. 331-50 à R. 331-52.
+1. Aux personnes physiques ou morales qui construisent ou acquièrent et améliorent des logements du secteur groupé mentionnés
+à l'article R. 331-49 ; ces logements doivent être destinés à faire l'objet d'une mutation ou d'une cession de parts ou
+d'actions et satisfaire aux conditions prévues aux articles R. 331-49 à R. 331-52 ;
+
+2. Aux personnes physiques ou morales qui achètent des droits de construire ou des terrains en vue de l'aménagement de
+parcelles destinées à être ultérieurement cédées.
+
+Ces opérations d'aménagement doivent répondre aux conditions définies par les articles R. 315-1 ou R. 315-2, par. b, du code
+de l'urbanisme et être destinées à titre principal à l'implantation de logements réalisés par des personnes physiques dans
+les conditions fixées par le premier alinéa de l'article R. 331-48 du présent code. En outre, pour bénéficier de ce
+préfinancement, les requérants doivent préalablement souscrire près du commissaire de la République du département un
+engagement portant sur :
+
+La définition des prestations à réaliser ;
+
+Un tableau des prix de vente prévisionnels des parcelles ;
+
+Un délai d'exécution d'une durée maximale de trois ans calculée à compter de la date de la décision d'octroi du
+préfinancement.
+
+Le prix de vente, toutes taxes comprises, de chaque parcelle sera au plus égal à son prix de vente prévisionnel majoré d'un
+pourcentage égal aux trois quarts de la variation constatée entre le dernier indice Travaux publics TP 01 publié, d'une part,
+à la date de la demande de décision de préfinancement et, d'autre part, s'il est supérieur, à la date de la conclusion de la
+vente de cette parcelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 26
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-292 1983-04-07 ART. 1 JORF 12 AVRIL 1983
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-32, R331-49, R331-58, R331-50 à R331-52
+	  - Code de l'urbanisme R315-1
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
 	  - Code de la construction et de l'habitation. - art. R331-49 (M)
+	  - Code de la construction et de l'habitation. - art. R331-50 (M)
+	  - Code de la construction et de l'habitation. - art. R331-51 (M)
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
 
 	**Cité par**:
 
@@ -35214,39 +35238,24 @@ parts ou d'actions et satisfaisant aux conditions prévues aux articles R. 331-5
 
 ###### Article R331-58
 
-Les organismes d'habitations à loyer modéré, les sociétés sous leur égide et les sociétés d'économie mixte de construction
-peuvent bénéficier du préfinancement aux conditions suivantes :
-
-- son montant est au plus égal à 50 p. 100 du prix de vente prévisionnel de l'opération ;
-
-- il est consenti pour des périodes de trois mois renouvelables dans la limite d'une durée maximale de deux ans. Chaque
-avance trimestrielle est effectuée au taux moyen de l'argent au jour le jour entre banques du mois civil précédant celui au
-cours duquel l'octroi de l'avance ou son renouvellement est notifié à l'emprunteur. L'équilibre financier des établissements
-distributeurs est assuré par des bonifications d'intérêt forfaitaires égales à 1,25 point ;
-
-- il peut être reconduit pour un an aux conditions de l'alinéa précédent ; toutefois, son taux est majoré de 1,25 point.
-
-Les autres constructeurs en bénéficient dans les mêmes conditions, à l'exception :
-
-- du montant qui ne peut dépasser 35 p. 100 du prix de vente prévisionnel de l'opération ;
-
-- du taux qui est majoré de 1,25 point par rapport aux conditions de l'alinéa premier, pendant les deux premières années et
-au maximum, ensuite de 1,5 point.
-
-//DECR.0909 :
-
-Un préfinancement à quotité et à aide de l'Etat majorées pourra être accordé à titre exceptionnel dans des conditions fixées
-par un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances.//
+Un arrêté conjoint des ministres chargés des finances et de la construction et de l'habitation définit les conditions du
+préfinancement visé à l'article R. 331-57, sans toutefois porter atteinte aux effets découlant de l'application de
+dispositions antérieures en cours d'application. Pour ce préfinancement, l'aide de l'Etat est consentie dans les conditions
+définies au premier alinéa de l'article R. 331-56.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 27
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-292 1983-04-07 ART. 2 JORF 12 AVRIL 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-56 AL. 1
 
 	**Cité par**:
 
@@ -35266,15 +35275,18 @@ La demande d'autorisation de transfert ou de maintien du préfinancement doit ê
 construction et de l'habitation dans un délai maximum de trois ans suivant la déclaration d'achèvement des travaux. Ce délai
 peut être prolongé par décision conjointe des ministres chargés de la construction et de l'habitation, et des finances.
 
+Le préfinancement obtenu en application du paragraphe 2 de l'article R. 331-57 est remboursé au fur et à mesure de la vente
+de chacune des parcelles.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 28
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-292 1983-04-07 ART. 3 JORF 12 AVRIL 1983
 
 	**Cité par**:
 
@@ -35282,6 +35294,13 @@ peut être prolongé par décision conjointe des ministres chargés de la constr
 	  - Code de la construction et de l'habitation. - art. R331-59-1 (V)
 	  - Code de la construction et de l'habitation. - art. R331-59-13 (V)
 	  - Code de la construction et de l'habitation. - art. R331-59-5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
+	  - Code de la construction et de l'habitation. - art. R331-53 (M)
+	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+	  - Code de la construction et de l'habitation. - art. R331-57 (M)
 
 
 ##### Sous-section 5 : Sanctions.
