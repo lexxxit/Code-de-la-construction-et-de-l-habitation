@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-06-30
+Version Consolidée au 1985-07-12
 
 # Partie législative
 
@@ -11775,15 +11775,26 @@ Ce taux s'applique aux contrats en cours, nonobstant toute clause contraire.
 La caisse de prêts aux organismes d'habitations à loyer modéré est substituée à l'Etat, en ce qui concerne les opérations
 qu'elle a prises en charge à compter du 1er janvier 1966.
 
+La caisse de garantie du logement social est substituée à la caisse de prêts aux organismes d'habitations à loyer modéré à
+compter du 1er janvier 1986 pour la gestion des prêts et la bonne fin des financements consentis par cette dernière jusqu'au
+31 décembre 1985 dans des conditions fixées par décret en Conseil d'Etat
+
+La caisse de garantie du logement social est substituée de plein droit dans les droits et obligations de la caisse de prêts
+aux organismes d'habitations à loyer modéré à compter du 1er janvier 1986.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-1172 1967-12-22 art. 26 al. 1
+	  - Loi n°67-1172 1967-12-22 ART. 26 AL. 1
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. 21 II jorf 12 juillet Rectificatif JORF 13 juillet 1985
 
 	**Cité par**:
 
@@ -11850,57 +11861,6 @@ article ne peut excéder deux cinquièmes du patrimoine des établissements sus-
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R431-61 (V)
-
-
-###### Article L431-6
-
-Les contrats de prêts conclus, pour une opération donnée et à compter du 4 janvier 1977, entre la caisse de prêts aux
-organismes d'habitations à loyer modéré et les organismes mentionnés à l'article L. 411-2 sont, si l'organisme en fait la
-demande dans un délai maximum de deux ans après la signature du premier contrat et au plus tard quatre ans à compter du 4
-janvier 1977, revisés en vue de mettre leurs caractéristiques de durée et de taux en conformité avec celles des prêts prévus
-à l'article L. 351-2 (par.3).
-
-Dans ce cas, les logements entreront dans le domaine d'application de l'aide personnalisée au logement définie à l'article L.
-351-2.
-
-Au cas où la livraison des logements auxquels s'applique la révision des contrats de prêts prévue au premier alinéa du
-présent article intervient avant l'application généralisée de l'aide personnalisée au logement, ces mêmes contrats de prêts
-seront à nouveau révisés pour les faire bénéficier d'un régime de financement plus favorable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1 1977-01-03 art. 37
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Loi n°85-695 1985-07-11 art. 21 III JORF 12 juillet rectificatif 13 juillet 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L371-1 (V)
-	  - Code de la construction et de l'habitation. - art. L371-2 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-51 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-2 (M)
-	  - Code de la construction et de l'habitation. - art. R331-33 (V)
-	  - Code de la construction et de l'habitation. - art. R331-79 (V)
-	  - Code de la construction et de l'habitation. - art. R351-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
 
 
 #### Chapitre II : Prêts aux autres organismes et collectivités.
@@ -12044,17 +12004,26 @@ immobilier, bénéficient des dispositions des articles L. 431-1, L. 431-2, L. 4
 ###### Article L432-6
 
 Les organismes mentionnés au présent chapitre sont soumis au contrôle de l'autorité administrative en ce qui concerne les
-opérations ayant bénéficié d'un prêt de la caisse de prêts aux organismes d'habitations à loyer modéré.
+opérations ayant bénéficié d'un prêt de la caisse de prêts aux organismes d'habitations à loyer modéré ou d'un prêt de la
+caisse des dépôts et consignations consenti en application du 3° de l'article L. 351-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-1172 1967-12-22 art. 26 al. 2
+	  - Loi n°67-1172 1967-12-22 ART. 26 AL. 2 (pour partie)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. 21 IV JORF 12 juillet Rectificatif JORF 13 juillet 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.
@@ -13295,8 +13264,9 @@ Les organismes d'habitations à loyer modéré, les sociétés civiles constitu�
 et les sociétés coopératives de construction bénéficiant de prêts accordés dans le cadre de la législation sur les
 habitations à loyer modéré sont soumis au contrôle de l'administration.
 
-Les organismes mentionnés au titre III, chapitre II, sont soumis au même contrôle en ce qui concerne les opérations pour
-lesquelles ils ont obtenu un prêt de l'Etat ou de la caisse de prêts aux organismes d'habitations à loyer modéré.
+Les organismes mentionnés au chapitre II du titre III, sont soumis au même contrôle en ce qui concerne les opérations pour
+lesquelles ils ont obtenu un prêt de l'Etat, de la caisse de prêts aux organismes d'habitations à loyer modéré ou de la
+caisse des dépôts et consignations en application du 3° de l'article L. 351-2
 
 Il en est de même pour les groupements d'intérêt économique constitués en application de l'ordonnance n. 67-821 du 23
 septembre 1967, qui comprennent au moins un organisme d'habitations à loyer modéré parmi leurs membres et pour les personnes
@@ -13308,10 +13278,15 @@ livre II, titre II, du présent code relatif à la promotion immobilière.
 	**Cite**:
 
 	  - Ordonnance 67-821 1967-09-23
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. 21 V JORF 12 Juillet Rectificatif JORF 13 juillet 1985
 
 	**Cité par**:
 
@@ -13344,7 +13319,7 @@ livre II, titre II, du présent code relatif à la promotion immobilière.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 233 al. 1 à 3
+	  - Code de l'urbanisme 233 AL. 1, 2 ET 3 (LOI 71-580 1971-07-16 ART. 23)
 
 
 ###### Article L451-2
@@ -13382,26 +13357,35 @@ Une redevance dont le montant, les modalités de perception et l'utilisation son
 construction et de l'habitation et du ministre chargé des finances, est versée par les organismes emprunteurs dans les trois
 premiers mois de chaque année.
 
-Le montant de cette redevance ne peut toutefois excéder 0,10 p. 100 des capitaux dus à l'Etat ou à la caisse de prêts aux
-organismes d'habitations à loyer modéré, au 31 décembre de l'année précédente.
+Le montant de cette redevance ne peut toutefois excéder 0,15 p. 100 des capitaux dus à l'Etat, à la caisse de prêts aux
+organismes d'habitations à loyer modéré, à la caisse de garantie du logement social ou à la caisse des dépôts et
+consignations en application du 3° de l'article L. 351-2, au 31 décembre de l'année précédente.
 
-Le produit de cette redevance, perçu par la caisse de prêts aux organismes d'habitations à loyer modéré, est destiné à
-couvrir les dépenses du contrôle prévu à l'article L. 451-1, à couvrir les frais d'administration de ladite caisse de prêts
-et les frais de liquidation des organismes défaillants.
+Le produit de cette redevance, perçu par la caisse de prêts aux organismes d'habitations à loyer modéré jusqu'au 31 décembre
+1985 et par la caisse de garantie du logement social à compter du 1er janvier 1986, est destiné à couvrir les dépenses du
+contrôle prévu à l'article L. 451-1, les frais d'administration desdites caisses ainsi que ceux de la caisse des dépôts et
+consignations pour la gestion des prêts consentis en application du 3° de l'article L. 451-1 et les frais de liquidation des
+organismes défaillants.
 
-Une fraction de la redevance est, en outre, affectée au fonds de garantie des opérations de construction d'habitations à
-loyer modéré géré par la caisse de prêts aux organismes d'habitations à loyer modéré dans des conditions fixées par arrêté du
-ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+Une fraction de la redevance est, en outre, affectée au fonds de garantie géré par la caisse de prêts aux organismes
+d'habitations à loyer modéré jusqu'au 31 décembre 1985 et par la caisse de garantie du logement social à compter du 1er
+janvier 1986 dans des conditions fixées par arrêté du ministre chargé de la construction et de l'habitation et du ministre
+chargé des finances.
+
+Le produit de cette redevance peut contribuer également aux frais de l'union et des fédérations groupant les organismes
+d'habitations à loyer modéré, en vue d'assurer leur meilleur fonctionnement, la coordination de leurs activités, leurs
+investissements pour le développement des actions en faveur du logement social. Les condition et l'importance de cette
+contribution sont déterminées par décision administrative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 235
+	  - Loi n°85-695 1985-07-11 art. 21 V JORF 12 juillet Rectificatif JORF 13 juillet 1985
 
 	**Cité par**:
 
@@ -13421,8 +13405,8 @@ ministre chargé de la construction et de l'habitation et du ministre chargé de
 ###### Article L451-4
 
 Lorsqu'après paiement des dépenses prévues à l'article précédent, il subsiste un reliquat du produit de la redevance
-acquittée par les organismes d'habitations à loyer modéré, ce reliquat est conservé par la caisse des dépôts et
-consignations. Il est utilisé, le cas échéant, pour couvrir le Trésor des pertes qu'il subirait, si des annuités ou fractions
+acquittée par les organismes d'habitations à loyer modéré, ce reliquat est conservé par la caisse de garantie du logement
+social. Il est utilisé, le cas échéant, pour couvrir le Trésor des pertes qu'il subirait, si des annuités ou fractions
 d'annuités ne bénéficiant pas de la garantie d'un département, d'une commune ou d'une chambre de commerce et d'industrie
 étaient irrecouvrables, ou pour accorder des prêts sur proposition de l'autorité administrative à des organismes
 d'habitations à loyer modéré pour des opérations spécifiques, notamment pour la réalisation d'équipements non prévus dans les
@@ -13433,55 +13417,26 @@ par décret.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R451-6
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Loi n°85-695 1985-07-11 art. 21 VII jorf 12 juillet Rectificatif JORF 13 juillet 1985
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 236
+	  - Code de la construction et de l'habitation. - art. L451-3 (M)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*431-41 (Ab)
 	  - Code de la construction et de l'habitation. - art. R451-6 (M)
-
-
-###### Article L451-5
-
-Sur le produit de la redevance acquittée par les organismes d'habitations à loyer modéré, dont l'emploi est prévu aux
-articles précédents, il peut être prélevé une participation aux frais des fédérations groupant lesdits organismes en vue
-d'assurer leur meilleur fonctionnement, la coordination de leurs activités et le développement de la propagande en faveur de
-l'habitation familiale et populaire. Les conditions et l'importance de cette participation sont déterminées par décision
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - loi 85-695 1985-07-11 art. 21 VIII JORF 12 juillet rectificatif JORF 13 juillet 1985
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 237
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
-	  - Code de la construction et de l'habitation. - art. L422-3 (V)
-	  - Code de la construction et de l'habitation. - art. R*431-41 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*451-10 (V)
-	  - Code de la construction et de l'habitation. - art. R451-7 (M)
-	  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
 
 
 ###### Article L451-6
@@ -13649,7 +13604,8 @@ Les sociétés d'économie mixte de construction constituées dans les départem
 46-860 du 30 avril 1946 tendant à l'établissement et à l'exécution de plans d'équipement et de développement économique et
 social des territoires et départements d'outre-mer et agréées par décision administrative peuvent bénéficier, dans les mêmes
 conditions que les sociétés d'habitations à loyer modéré, des prêts de la caisse de prêts aux organismes d'habitations à
-loyer modéré.
+loyer modéré, de la caisse de garantie du logement social et de la caisse des dépôts et consignations en application du livre
+IV du présent code. 
 
 Les modalités d'application du présent article sont fixées dans les mêmes conditions que celles prévues à la première phrase
 de l'article précédent.
@@ -13658,16 +13614,39 @@ de l'article précédent.
 
 	**Cite**:
 
-	  - Loi n°46-860 1946-04-30
-	  - Code de la construction et de l'habitation. - art. L472-1 (V)
+	  - Loi n°46-860 du 30 avril 1946 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. IX jorf 12 juillet Rectificatif JORF 13 juillet 1985
+
+	**Cité par**:
+
+	  - Arrêté du 20 février 1996 - art. 1 (V)
+	  - Arrêté du 4 mai 2000 - art. 1 (V)
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (M)
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 9-1 (Ab)
+	  - Arrêté du 13 mars 1986 - art. 1 (Ab)
+	  - Arrêté du 4 septembre 1986 - art. 1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-10 (V)
+	  - Code de la construction et de l'habitation. - art. L472-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*431-31 (M)
+	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
+	  - Code de la construction et de l'habitation. - art. R323-12 (T)
+	  - Code de la construction et de l'habitation. - art. R323-21 (Ab)
+	  - Code du patrimoine. - art. L524-14 (V)
+	  - Code du patrimoine. - art. L524-3 (M)
+	  - Code général des impôts, CGI. - art. 1388 ter (V)
+	  - Code général des impôts, CGI. - art. 881 L (V)
+	  - Code général des impôts, CGI. - art. 882 (VT)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°81-1160 1981-12-30 ART. 115 III (Code de la construction L472-1-1) :*Application à Saint-Pierre-et-Miquelon*
 	  - TXT_SOURCE: Arrêté du 13 mars 1986
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (M)
@@ -13695,31 +13674,7 @@ de l'article précédent.
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 8 (M)
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 9 (Ab)
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. annexe 1 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-	**Cité par**:
-
-	  - Arrêté du 20 février 1996 - art. 1 (V)
-	  - Arrêté du 4 mai 2000 - art. 1 (V)
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (M)
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9-1 (Ab)
-	  - Arrêté du 13 mars 1986 - art. 1 (Ab)
-	  - Arrêté du 4 septembre 1986 - art. 1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L342-2 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-10 (V)
-	  - Code de la construction et de l'habitation. - art. L472-2 (V)
-	  - Code de la construction et de l'habitation. - art. R*431-31 (M)
-	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
-	  - Code de la construction et de l'habitation. - art. R323-12 (T)
-	  - Code de la construction et de l'habitation. - art. R323-21 (Ab)
-	  - Code du patrimoine. - art. L524-14 (V)
-	  - Code du patrimoine. - art. L524-3 (M)
-	  - Code général des impôts, CGI. - art. 1388 ter (V)
-	  - Code général des impôts, CGI. - art. 881 L (V)
-	  - Code général des impôts, CGI. - art. 882 (VT)
+	  - SPEC_APPLI: Code de la construction L472-2
 
 
 ###### Article L472-2
@@ -13749,23 +13704,23 @@ Pierre-et-Miquelon.
 ###### Article L481-1
 
 Une redevance dont le montant, les modalités de perception et l'utilisation sont fixés par arrêté conjoint des ministres
-chargés de l'économie, du budget, de l'intérieur et de la construction et de l'habitation est versée, par les sociétés
-d'économie mixte, à la caisse de prêts aux organismes d'HLM, dans les trois premiers mois de chaque année pour les emprunts
-qu'elles contractent auprès de cette caisse en application de l'article L. 351-2 du présent code.
+chargés des finances, de l'intérieur et de la construction et de l'habitation est versée par les sociétés d'économie mixte à
+la caisse de prêts aux organismes d'habitations à loyer modéré jusqu'au 31 décembre 1985 et à la caisse de garantie du
+logement social à compter du 1er janvier 1986 dans les trois premiers mois de chaque année pour les emprunts contractés en
+application de l'article L. 351-2 du présent code.
 
-Le montant de cette redevance ne peut excéder 0,15 p. 100 des capitaux restant dus à la caisse au 31 décembre de l'année
-précédente.
+Le montant de cette redevance ne peut excéder 0,15 % des capitaux restant dus sur les emprunts visés ci-dessus au 31 décembre
+de l'année précédente.
 
-Le produit de cette redevance est destiné à participer à la couverture des frais de gestion de la caisse de prêts ; en outre,
-une fraction en est affectée au fonds de garantie géré par cette caisse en vue de garantir celles des opérations de
-construction qui sont réalisées par les sociétés d'économie mixte avec le concours de la caisse de prêts aux organismes
-d'HLM.
-
-//LOI 1160 du 30 décembre 1981 :
+Le produit de cette redevance est destiné à participer à la couverture des frais de gestion desdites caisses ainsi que de
+ceux de la caisse des dépôts et consignations pour la gestion des prêts consentis en application de l'article L. 351-2 ; en
+outre, une fraction en est affectée au fonds de garantie géré par la caisse de prêts aux organismes d'habitations à loyer
+modéré jusqu'au 31 décembre 1985 et par la caisse de garantie du logement social à compter du 1er janvier 1986 en vue de
+garantir celles des opérations de construction qui sont réalisées par les sociétés d'économie mixte en application de
+l'article L. 351-2 du présent code.
 
 Cette redevance est due également par les sociétés d'économie mixte de construction agréées en application des dispositions
-de l'article L. 472-1 du code de la construction et de l'habitation pour les emprunts qu'elles contractent en application du
-livre IV du présent code.//
+de l'article L. 472-1-1 pour les emprunts qu'elles contractent en application du livre IV du présent code.
 
 **Liens relatifs à cet article**
 
@@ -13826,13 +13781,13 @@ livre IV du présent code.//
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°78-1239 1978-12-29 ART. 105 finances pour 1979 JORF 30 DECEMBRE 1978 en vigueur le 1er JANVIER 1979
-
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
+	  - Loi n°85-695 1985-07-11 art. 21 X jorf 12 juillet Rectificatif JORF 13 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 à partir du 31 décembre 2000
 
 	**Cite**:
 
