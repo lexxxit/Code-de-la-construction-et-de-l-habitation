@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1993-06-18
 
 # Partie législative
 
@@ -54097,6 +54097,44 @@ président assiste le président dans ses fonctions et le supplée en cas d'abse
 	  - Code de la construction et de l'habitation. - art. R441-9 (V)
 
 
+###### Article R*421-16
+
+Le conseil d'administration [*attributions*] :
+
+1. Etablit le règlement intérieur ;
+
+2. Décide de la politique générale de l'office ;
+
+3. Décide des actes de disposition, des emprunts et des programmes de réservation foncière, d'aménagement et de
+construction ;
+
+4. Vote le budget, auquel est annexée la prévision de l'évolution de la masse salariale brute de l'office, approuve les
+comptes et donn quitus au directeur général ;
+
+5. Autorise la participation aux sociétés indiquées à l'article R. 421-5 ;
+
+6. Nomme le directeur général et met fin à ses fonctions dans les conditions fixées à l'article R. 421-19 ;
+
+7. Autorise le président à ester en justice ; toutefois, en cas d'urgence ou lorsqu'il s'agit d'une action en recouvrement
+d'une créance, le président peut intenter une action en justice sans cette autorisation. Dans tous les cas, il doit rendre
+compte des actions qu'il a introduites à la prochaine séance du conseil d'administration.
+
+Le conseil d'administration peut déléguer les pouvoirs spécifiés aux 3° et 7° ci-dessus au bureau mentionné à l'article R.
+421-15.
+
+Le bureau rend compte de son activité au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°93-852 du 17 juin 1993 - art. 10 () JORF 18 juin 1993
+
+
 ###### Article R*421-17
 
 Le conseil d'administration peut former en son sein des commissions chargées d'étudier des questions qu'il détermine
@@ -54233,6 +54271,40 @@ généralisation de la retraite complémentaire au profit des salariés et ancie
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+###### Article R*421-22
+
+Les fonctions de directeur général et de directeur sont incompatibles avec celles de membre du conseil d'administration.
+
+Le directeur général assiste, avec voix consultative, aux séances du conseil d'administration dont il prépare et exécute les
+décisions, sous réserve des pouvoirs conférés au président par l'article R. 421-19.
+
+Il est ordonnateur, passe tous actes et contrats et dirige l'activité de l'office dans le cadre des orientations générales
+fixées par le conseil d'administration.
+
+Le directeur général a autorité sur les services et recrute le personnel. Il fixe les effectifs et la rémunération du
+personnel dans la limite des crédits prévus à cet effet par le budget et dans les conditions prévues par le décret n° 93-852
+du 17 juin 1993 et son annexe.
+
+Il fournit au conseil d'administration les informations qu'ils demandent.
+
+Il rend compte de sa gestion au conseil d'administration.
+
+Il présente annuellement au conseil d'administration un rapport sur sa gestion.
+
+En cas d'absence ou d'empêchement du directeur général, ses pouvoirs sont assumés par l'un des directeurs ou chefs de
+service, désigné par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°93-852 du 17 juin 1993 - art. 9 () JORF 18 juin 1993
 
 
 ###### Article R*421-25
@@ -55507,86 +55579,6 @@ autorisations d'absence.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R421-56
-
-
-###### Article R*421-16
-
-Le conseil d'administration [*attributions*] :
-
-1. Etablit le règlement intérieur ;
-
-2. Décide de la politique générale de l'office ;
-
-3. Décide des actes de disposition, des emprunts et des programmes de réservation foncière, d'aménagement et de
-construction ;
-
-4. Vote le budget, approuve les comptes et donne quitus au directeur général ;
-
-5. Autorise la participation aux sociétés indiquées à l'article R. 421-5 ;
-
-6. Nomme le directeur général et met fin à ses fonctions dans les conditions fixées à l'article R. 421-19 ;
-
-7. Autorise le président à ester en justice ; toutefois, en cas d'urgence ou lorsqu'il s'agit d'une action en recouvrement
-d'une créance, le président peut intenter une action en justice sans cette autorisation. Dans tous les cas, il doit rendre
-compte des actions qu'il a introduites à la prochaine séance du conseil d'administration.
-
-Le conseil d'administration peut déléguer les pouvoirs spécifiés aux 3° et 7° ci-dessus au bureau mentionné à l'article R.
-421-15.
-
-Le bureau rend compte de son activité au conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-5, R421-15, R421-19
-
-
-###### Article R*421-22
-
-Les fonctions de directeur général et de directeur sont incompatibles avec celles de membre du conseil d'administration.
-
-Le directeur général [*attributions*] assiste, avec voix consultative, aux séances du conseil d'administration dont il
-prépare et exécute les décisions, sous réserve des pouvoirs conférés au président par l'article R. 421-19.
-
-Il est ordonnateur, passe tous actes et contrats et dirige l'activité de l'office dans le cadre des orientations générales
-fixées par le conseil d'administration.
-
-Le directeur général a autorité sur les services et recrute le personnel. Il fixe les effectifs et la rémunération du
-personnel dans la limite des crédits prévus à cet effet par le budget et dans les conditions prévues par l'article 27 du
-décret n. 73-986 du 22 octobre 1973.
-
-Il fournit au conseil d'administration les informations qu'ils demandent.
-
-Il rend compte de sa gestion au conseil d'administration.
-
-Il présente annuellement au conseil d'administration un rapport sur sa gestion.
-
-En cas d'absence ou d'empêchement du directeur général, ses pouvoirs sont assumés par l'un des directeurs ou chefs de
-service, désigné par le conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°73-986 1973-10-22 ART. 27
-	  - Code de la construction et de l'habitation R421-19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*421-23
