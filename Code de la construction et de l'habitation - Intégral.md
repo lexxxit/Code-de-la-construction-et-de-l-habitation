@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-04-03
+Version Consolidée au 1988-04-08
 
 # Partie législative
 
@@ -16827,24 +16827,36 @@ règles de sécurité auxquelles doivent être conformes les ascenseurs.
 
 ###### Article R*111-6
 
-Les équipements et caractéristiques thermiques des bâtiments d'habitation doivent permettre de chauffer les logements
-moyennant une dépense d'énergie limitée.
+Tout logement compris dans un bâtiment d'habitation au sens de l'article R. 111-1 doit pouvoir être chauffé et pourvu d'eau
+chaude sanitaire moyennant une dépense d'énergie limitée en choisissant l'une des options suivantes :
 
-Les caractéristiques thermiques répondent à cet effet à des spécifications définies par référence à des coefficients
-volumiques de déperdition thermique, de besoin de chauffage et de consommation énergétique. Ces spécifications peuvent
-différer selon les caractéristiques du bâtiment, et notamment la localisation, la nature du permis de construire, les
-caractéristiques architecturales et l'énergie utilisée.
+1. Application de l'une des solutions techniques approuvées par le ministre chargé de la construction et de l'habitation ;
 
-Les équipements de chauffage des bâtiments d'habitation permettent de maintenir au moins à 18 degrés C la température
-intérieure résultante au centre des pièces des logements. Ils comportent des dispositifs de réglage automatique du chauffage
-en fonction de la température intérieure. Ces dispositifs permettent à l'occupant d'obtenir notamment une température
-inférieure à 18 degrés C.
+2. Respect d'une limite de déperditions thermiques et recours à un système de chauffage et d'eau chaude sanitaire de
+référence ;
 
-Un arrêté conjoint du ministre chargé de la construction et de l'habitation, du ministre de l'intérieur et de la
-décentralisation, du ministre de l'industrie, du ministre chargé de l'énergie, du ministre de la santé et du ministre chargé
-de l'architecture précise les modalités d'application du présent article et fixe les spécifications qu'il prévoit. Les
-méthodes de calcul des coefficients énoncés au deuxième alinéa du présent article sont agréées par arrêté du ministre chargé
-de la construction et de l'habitation.
+3. Respect d'une limite de besoins annuels de chauffage, calculés compte tenu de déperditions thermiques elles-mêmes limitées
+et d'apports de chaleur solaire liés à la situation et à l'exposition du logement et recours à un système de chauffage et
+d'eau chaude sanitaire de référence ;
+
+4. Respect d'un seuil de performance thermique globale du logement, celle-ci prenant en compte simultanément le rendement du
+système de chauffage et d'eau chaude sanitaire, les apports de chaleur solaire évalués comme il est dit ci-dessus et les
+déperditions thermiques, elles-mêmes limitées.
+
+Les exigences définies ci-dessus prennent en compte les caractéristiques du logement, sa localisation et l'énergie utilisée.
+
+Des arrêtés conjoints du ministre chargé de la construction et de l'habitation, du ministre chargé de l'industrie, du
+ministre chargé de la santé et du ministre chargé des collectivités locales précisent les modalités d'application du présent
+article, et définissent notamment les limites de déperditions thermiques, les limites de besoins annuels de chauffage, les
+seuils de performance thermique globale mentionnés au 4 ci-dessus, ainsi que les caractéristiques des systèmes de chauffage
+et d'eau chaude sanitaire de référence.
+
+Des arrêtés du ministre chargé de la construction et de l'habitation approuvent les solutions techniques mentionnées au 1 ci-
+dessus et les méthodes de calcul des performances thermiques globales des logements.
+
+Les équipements de chauffage du logement permettent de maintenir à 18 °C la température résultante intérieure au centre des
+pièces du logement. Ils comportent des dispositifs de réglage automatique du chauffage. Ces dispositifs permettent à
+l'occupant d'obtenir une température inférieure à 18 °C.
 
 **Liens relatifs à cet article**
 
@@ -16852,9 +16864,9 @@ de la construction et de l'habitation.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-269 1982-03-24 ART. 1 JORF 27 MARS 1982
+	  - Décret n°88-319 1988-04-05 art. 1 JORF 8 avril 1988
 
 	**Cité par**:
 
@@ -16863,32 +16875,36 @@ de la construction et de l'habitation.
 	  - Code de la construction et de l'habitation. - art. R*161-1 (M)
 	  - Code de la construction et de l'habitation. - art. R*161-3 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-1
+
 
 ###### Article R*111-7
 
-Les dispositions de l'article R. 111-6 sont applicables aux projets de construction ayant fait l'objet soit d'une demande de
-permis de construire ou de prorogation de permis de construire, soit d'une déclaration préalable de travaux au sens de
-l'ancien article L. 430-3 du code de l'urbanisme, après la publication de l'arrêté prévu à l'article R. 111-6.
+Les dispositions de l'article R. 111-6 sont applicables aux projets de construction ayant fait l'objet d'une demande de
+permis de construire postérieurement au 31 décembre 1988.
 
-Les constructions faisant l'objet d'une déclaration d'achèvement de travaux postérieure à la date du 31 décembre 1978 doivent
-être conformes aux prescriptions de l'article R. 111-6 et ce, quelle que soit la date de la demande de permis de construire
-ou de la déclaration préalable de travaux.
+**Nota:**
+
+Les dispositions de l'article R. 111-6 dans leur rédaction en vigueur à la date de la publication du décret n° 88-319 du 5
+avril 1988 demeurent applicables aux projets de construction ayant fait l'objet d'une demande de permis de construire avant
+le 1er janvier 1989[*date limite*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-306 1974-04-10 art. 3
-	  - Code de l'urbanisme 92 al. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L430-3 (Ab)
+	  - Décret n°88-319 1988-04-05
 	  - Code de la construction et de l'habitation R111-6
+
+	**Modifié par**:
+
+	  - Décret n°88-319 1988-04-05 art. 2 JORF 8 avril 1988
 
 
 ###### Article R*111-8
@@ -29962,46 +29978,6 @@ au nom desquels est établie éventuellement sous une cote unique la cotisation 
 	**Abrogé par**:
 
 	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
-
-
-#### Chapitre III : Participation des employeurs à l'effort de construction.
-
-###### Article R*313-45-1
-
-Il est créé un Comité national de la participation des employeurs à l'effort de construction présidé par le ministre chargé
-de la construction et de l'habitation ou son représentant [*attributions, composition*].
-
-Ce comité est consulté sur tous les projets de textes relatifs à la réglementation de la participation des employeurs. Il
-peut faire toutes propositions relatives à l'application de cette réglementation. Il étudie et propose les conditions dans
-lesquelles sont élaborées les statistiques relatives au mouvement des fonds de la participation des employeurs.
-
-Ce comité est composé :
-
-a) Des représentants des employeurs et des salariés désignés par leurs organisations représentatives au plan national ;
-
-b) Des représentants des organismes collecteurs désignés par l'organisme qui fédère ces organismes au plan national ;
-
-c) De représentants des ministères intéressés ;
-
-d) De personnes qualifiées.
-
-Les modalités d'application du présent article sont définies par arrêté conjoint du ministre chargé de l'économie et des
-finances, du ministre chargé des affaires sociales, du ministre chargé de l'industrie, du ministre chargé du logement et du
-ministre chargé du commerce et de l'artisanat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-1265 1975-12-27 ART. 37
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°86-108 1986-01-21 art. 12 JORF 25 janvier 1986
 
 
 #### Chapitre IV : Logement des fonctionnaires.
