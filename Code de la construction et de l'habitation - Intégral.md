@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1986-12-24
 
 # Partie législative
 
@@ -10157,8 +10157,8 @@ l'aménagement, l'assainissement, la réparation, la gestion d'habitations colle
 répondant aux caractéristiques techniques et de prix de revient déterminées par décision administrative et destinées aux
 personnes et aux familles de ressources modestes.
 
-A ces habitations peuvent être adjoints, dans les conditions fixées par décision administrative, des jardins, dépendances ou
-annexes.
+A ces habitations peuvent être adjoints, dans des conditions fixées par décision administrative, des dépendances, des annexes
+et des jardins privatifs ou collectifs, accolés ou non aux immeubles.
 
 En outre, les ensembles d'habitations mentionnés aux premiers alinéas peuvent comprendre accessoirement des locaux à usage
 commun et toutes constructions nécessaires à la vie économique et sociale de ces ensembles.
@@ -10202,7 +10202,7 @@ commun et toutes constructions nécessaires à la vie économique et sociale de 
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 31 ()
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 80 () JORF 24 décembre 1986
 
 	**Anciens textes**:
 
@@ -10601,19 +10601,26 @@ La dotation des offices est constituée par :
 
 ###### Article L421-6
 
-Les receveurs des offices publics d'habitations à loyer modéré sont nommés par l'autorité de tutelle. Ils sont tenus de
-fournir un cautionnement.
-
-Les conditions de leur nomination et le montant de leur cautionnement sont fixés par décret.
-
-Les receveurs sont suspendus par le préfet. Ils peuvent, en outre, être suspendus, en cas d'irrégularité grave, par les
-autorités de contrôle. Ils sont révoqués par décision administrative [*sanctions*].
+Le conseil d'administration d'un office public d'habitations à loyer modéré peut demander, par dérogation aux dispositions
+des articles 14, 54 et 82 de la loi n° 82-213 du 2 mars 1982 précitée que le comptable de l'office soit un comptable direct
+du Trésor ou un comptable spécial placé sous l'autorité administrative du président de l'office. Le comptable direct du
+Trésor est nommé par le ministre chargé de l'économie et des finances, aprés information préalable du président du conseil
+d'administration. Le comptable spécial est nommé par le représentant de l'Etat dans le département, sur proposition du
+conseil d'administration, aprés avis du trésorier-payeur général.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 14, 54 et 82
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 76 () JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -10622,10 +10629,6 @@ autorités de contrôle. Ils sont révoqués par décision administrative [*sanc
 	  - Décret n°2016-1142 du 23 août 2016 (V)
 	  - Code de la construction et de l'habitation. - art. R421-64 (Ab)
 	  - Code de la construction et de l'habitation. - art. R423-36 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 170
 
 
 ##### Section 2 : Administration des offices publics de l'habitat.
@@ -10658,6 +10661,86 @@ Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa pré
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 191 bis
+
+
+#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré
+
+##### Section 1 : Offices publics d'aménagement et de construction.
+
+###### Article L421-1-1
+
+Sauf délibération spéciale de leur conseil d'administration, les offices publics d'aménagement et de construction sont
+soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.
+
+Lorsqu'il est soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce,
+l'office :
+
+- demeure soumis aux dispositions de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des
+départements et des régions, à l'exception du premier alinéa de    l'article 7, des articles 9, 9-2, 9-3, 12, 12-1, 14, 15,
+51, 53, 53-1, 54, 55, 82 et du premier alinéa de l'article 87 ;
+
+- tient sa comptabilité conformément au plan comptable général ;
+
+- est soumis au contrôle de l'Etat dans des conditions fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02art. 7, 9, 9-2, 9-3, 12, 12-1, 14, 15, 51, 53
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 74 () JORF du 24 décembre 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-137 du 1 février 2007 - art. 1 () JORF 2 février 2007
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R421-42 (V)
+	  - Code des juridictions financières - art. L232-33 (T)
+	  - Code des juridictions financières - art. L232-7 (M)
+	  - Code des juridictions financières - art. L232-9 (T)
+
+
+###### Article L421-1-2
+
+Lorsque le conseil d'administration d'un office public d'aménagement décide de rester soumis aux règles de la comptabilité
+publique, il peut, par dérogation aux dispositions des articles 14, 54 et 82 de la loi n° 82-213 du 2 mars 1982 précitée,
+demander que le comptable de l'office soit un comptable direct du Trésor ou un comptable spécial placé sous l'autorité
+administrative du directeur général de l'office. Le comptable direct du Trésor est nommé par le ministre chargé de l'économie
+et des finances, après information préalable du président du conseil d'administration. Le comptable spécial est nommé par le
+représentant de l'Etat dans le département, sur proposition du conseil d'administration, après avis du trésorier-payeur
+général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 ART. 14, 54 et 82
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 75 () JORF du 24 décembre 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-137 du 1 février 2007 - art. 1 () JORF 2 février 2007
+
+	**Cité par**:
+
+	  - Ordonnance n°2007-137 du 1 février 2007 - art. 13 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-30 (Ab)
 
 
 #### Chapitre II : Organismes privés d'habitations à loyer modéré.
@@ -10936,6 +11019,9 @@ c) D'accorder des prêts aux sociétés d'habitations à loyer modéré dans des
 
 d) De réaliser des lotissements.
 
+e) D'effectuer, pour le compte des organismes d'habitations à loyer modéré, le recouvrement des sommes dues par les
+acquéreurs d'un logement d'habitation à loyer modéré, dans les conditions prévue à l'article l.443-13.
+
 Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L.
 421-1.
 
@@ -10965,12 +11051,13 @@ Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation soci
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 77 () JORF 24 décembre 1986
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L443-13 (M)
 
 
 ##### Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré.
@@ -10979,8 +11066,7 @@ Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation soci
 
 Les sociétés d'habitations à loyer modéré et de crédit immobilier doivent être agréées par décision administrative.
 
-Des statuts types sont approuvés par décret en Conseil d'Etat. Le décret précise celles des dispositions qui ont un caractère
-obligatoire.
+Leurs statuts contiennent des clauses conformes aux clauses types approuvées par décret en Conseil d'Etat.
 
 Les actes par lesquels ces sociétés contractent des emprunts doivent être approuvés dans des conditions fixées par décision
 administrative.
@@ -10989,7 +11075,11 @@ administrative.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 78 () JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -11007,7 +11097,7 @@ administrative.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 177 al. 1, al. 2, al. 3
+	  - Code de l'urbanisme 177 AL. 1, 2 ET 3
 
 
 ###### Article L422-6
@@ -11826,11 +11916,16 @@ l'hypothèque prise par ces sociétés comme garantie des prêts qu'elles consen
 caisse. Ces subrogations peuvent se substituer en partie à la garantie prévue au premier alinéa du présent article dans des
 conditions fixées par décision de l'autorité administrative.
 
+Lorsque le fonds de garanti géré par la caisse de garantie du logement social apporte sa garantie aux opérations de
+construction ou d'acquisition et d'amélioration  réalisées par les organismes d'habitations à loyer modéré ou les sociétés
+d'économie mixte en application du 3° de l'article l.351-2, il peut demander que soit inscrite à son profit une hypothèque
+légale qui s'étend aux biens immobiliers acquis ou édifiés à l'aide de prets qu'il a garantis.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la construction R431-62
+	  - TXT_ASSOCIE: Code de la construction R431-62, L351-2
 
 	**Codifié par**:
 
@@ -11838,7 +11933,7 @@ conditions fixées par décision de l'autorité administrative.
 
 	**Modifié par**:
 
-	  - Loi n°85-695 1985-07-11 art. 21 I JORF 12 Juillet Rectificatif JORF 13 juillet 1985 en vigueur le 1er janvier 1986
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 79 () JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -12349,6 +12444,66 @@ conventions régulièrement signées.
 	  - Code de la construction et de l'habitation. - art. L441-1 (M)
 
 
+###### Article L441-3
+
+Les organismes d'habitations à loyer modéré peuvent exiger des locataires dont les ressources dépassent les plafonds fixés
+pour l'attribution du logement à loyer modéré qu'ils occupent le paiement d'un supplément en sus du loyer principal et des
+charges locatives. Le montant de ce supplément est déterminé selon un barème qu'ils établissent par immeuble ou groupe
+d'immeubles, en fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du nombre et de l'âge des
+personnes vivant au foyer. A défaut d'opposition motivée du représentant de l'Etat dans le département dans le délai d'un
+mois, ce barème est exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 36 () JORF du 24 décembre 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 3 (VT)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 4 (M)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
+	  - TXT_SOURCE: Arrêté du 12 août 1992
+	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. ANNEXE (V)
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 1987 - art. 1 (VD)
+	  - Arrêté du 29 juillet 1987 - art. 6 (V)
+	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
+	  - Loi n°94-112 du 9 février 1994 - art. 22 (V)
+	  - Loi n°96-162 du 4 mars 1996 - art. 11 (Ab)
+	  - Loi n°96-162 du 4 mars 1996 - art. 13 (Ab)
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 63 (P)
+	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 11 février 2013 - art. Annexe (V)
+	  - Arrêté du 22 décembre 2015 - art.
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 bis ZC (Ab)
+	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
+	  - Code de la construction et de l'habitation. - art. L101-1 (V)
+	  - Code de la construction et de l'habitation. - art. L342-14 (V)
+	  - Code de la construction et de l'habitation. - art. L442-10 (V)
+	  - Code de la construction et de l'habitation. - art. L442-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L452-4 (V)
+	  - Code de la construction et de l'habitation. - art. R445-11-1 (Ab)
+
+
 #### Chapitre II : Loyers et divers.
 
 ###### Article L442-1
@@ -12406,6 +12561,58 @@ précédent, une hausse supérieure à 10 p. 100.
 	  - TXT_SOURCE: Arrêté du 13 mars 1986
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (M)
 	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (M)
+
+
+###### Article L442-1-1
+
+Les organismes d'habitations à loyer modéré fixent librement les loyers des logements faisant l'objet d'une nouvelle location
+dans les limites prévues au deuxième alinéa de l'article L. 442-1 ou, pour les logements conventionnés en application de
+l'article L. 351-2, dans la limite des loyers maximaux de ces conventions ou, pour les logements financés à l'aide de primes
+ou de prêts spéciaux à la construction du Crédit foncier de France ou de la Caisse centrale de coopération économique, dans
+la limite de leurs loyers plafonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 37 () JORF du 24 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 38 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R423-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
+
+
+###### Article L442-1-2
+
+Toute délibération d'un organisme d'habitations à loyer modéré relative aux loyers applicables à compter du 1er juillet 1987
+est transmise deux mois avant son entrée en vigueur au représentant de l'Etat dans le département. Celui-ci peut, dans le
+délai d'un mois suivant cette transmission, demander à l'organisme une nouvelle délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 37 () JORF du 24 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 22 (V)
+	  - Loi n°96-162 du 4 mars 1996 - art. 4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L472-3 (V)
 
 
 ###### Article L442-2
@@ -12496,51 +12703,6 @@ les conditions précisées par arrêté du ministre chargé de la construction e
 	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 	  - Code de la construction et de l'habitation. - art. R*441-35 (Ab)
 	  - Code de la construction et de l'habitation. - art. R442-4 (Ab)
-
-
-###### Article L442-5
-
-En aucun cas les dispositions résultant de l'article L. 442-1 ne peuvent entraîner une réduction du loyer principal
-effectivement dû au 1er janvier 1954 [*date*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 2 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 39 (V)
-	  - Arrêté du 8 mars 2016 (V)
-	  - Arrêté du 8 mars 2016 - art. (V)
-	  - Arrêté du 8 mars 2016 - art. 1 (V)
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 78 (V)
-	  - Code de la construction et de l'habitation. - art. *R442-13 (V)
-	  - Code de la construction et de l'habitation. - art. *R442-14 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. L353-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-2 (VD)
-	  - Code de la construction et de l'habitation. - art. R*445-7 (V)
-	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
-	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
-	  - Code de la construction et de l'habitation. - art. R353-93-1 (V)
-	  - Code général des collectivités territoriales - art. L5219-5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 39 (V) JORF 24 Décembre 1986
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 221
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
 ###### Article L442-6
@@ -12820,6 +12982,37 @@ immeubles en gérance.
 	  - Code de la construction et de l'habitation. - art. R365-1 (V)
 	  - Code de la construction et de l'habitation. - art. R441-9 (V)
 	  - Code de la construction et de l'habitation. - art. R442-5 (Ab)
+
+
+###### Article L442-10
+
+Les articles L. 442-1 à L. 442-9 s'appliquent aux logements construits ou acquis en application de la législation sur les
+habitations à loyer modéré appartenant soit à des organismes d'habitations à loyer modéré, soit à l'Etat, à des collectivités
+locales ou à des groupements de collectivités locales et gérés par lesdits organismes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31
+
+	**Anciens textes**:
+
+	  - Loi n°86-1290 1986-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 40 () JORF du 24 décembre 1986
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2011 - art. (V)
+	  - Arrêté du 4 janvier 2012 - art. (V)
+	  - Arrêté du 11 février 2013 - art. Annexe (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L442-1 à L442-9
 
 
 #### Chapitre III : Accession à la propriété et autres cessions.
@@ -15203,24 +15396,32 @@ cette matière connaissent de la légitimité du motif invoqué par le bénéfic
 
 ###### Article L631-7
 
-Dans les communes définies à l'article 10-7 de la loi n° 48-1360 du 1er septembre 1948 modifiée :
+Dans les communes définies à l'article 10-7 de la loi n. 48-1360 du 1er septembre 1948 modifiée :
 
-1. Les locaux à usage d'habitation ne peuvent être ni affectés à un autre usage, ni transformés en meublés, hôtels, pensions
+1° Les locaux à usage d'habitation ne peuvent être, ni affectés à un autre usage, ni transformés en meublés, hôtels, pensions
 de famille ou autres établissements similaires dont l'exploitant exerce la profession de loueur en meublé au sens du premier
-alinéa de l'article 2 de la loi n° 49-458 du 2 avril 1949 modifiée, accordant le bénéfice du maintien dans les lieux à
+alinéa de l'article 2 de la loi n. 49-458 du 2 avril 1949 modifiée, accordant le bénéfice du maintien dans les lieux à
 certains clients des hôtels, pensions de famille et meublés ; les présentes dispositions n'étant pas applicables aux
 locations en meublé mentionnées au deuxième alinéa dudit article 2 ;
 
-2. Les locaux à usage professionnel ou administratif ainsi que les meublés, hôtels, pensions de famille ou établissements
+2° Les locaux à usage professionnel ou administratif ainsi que les meublés, hôtels, pensions de famille ou établissements
 similaires ne peuvent, s'ils ne conservent pas leur destination primitive, être affectés à un usage autre que l'habitation ;
 
-3. Les garages et remises mentionnés à l'article 2 de la loi n° 48-1360 du 1er septembre 1948 précitée ne peuvent être
+3° Les garages et remises mentionnés à l'article 2 de la loi n. 48-1360 du 1er septembre 1948 précitée ne peuvent être
 affectés à un usage commercial, industriel ou artisanal.
 
 Il ne peut être dérogé à ces interdictions que par autorisation administrative préalable et motivée, après avis du maire.
 
-Le préfet peut autoriser l'exercice, sous certaines conditions, dans une partie d'un local d'habitation, d'une profession qui
-ne puisse à aucun moment revêtir un caractère commercial si ce local constitue en même temps la résidence du demandeur.
+Le représentant de l'Etat dans le département peut autoriser l'exercice, sous certaines conditions, dans une partie d'un
+local d'habitation, d'une profession qui ne puisse à aucun moment revêtir un caractère commercial si ce local constitue en
+même temps la résidence du demandeur.
+
+Ces dérogations et autorisations sont accordées à titre personnel. Cependant, les bénéficiaires membres d'une profession
+libérale réglementée, qui rendent à l'habitation le local qui était devenu totalement ou partiellement professionnel, peuvent
+être autorisés à transformer un autre local d'habitation en local professionnel pour une surface équivalente.
+
+La dérogation et l'autorisation cessent de produire effet lorsqu'il est mis fin, à titre définitif, pour quelque raison que
+ce soit, à l'exercice professionnel du bénéficiaire.
 
 Sont nuls de plein droit, tous accords ou conventions conclus en violation du présent article. Toutefois le locataire ou
 occupant d'un local d'habitation irrégulièrement transformé en meublé et réaffecté à la location nue bénéficie de plein
@@ -15229,24 +15430,14 @@ chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°48-1360 1948-09-01 art. 10-7, art. 2
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 2 (V)
-	  - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
 	**Cité par**:
 
+	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
 	  - Loi n°86-1290 du 23 décembre 1986 - art. 57 (Ab)
 	  - Loi n°2000-642 du 10 juillet 2000 - art. 51 (VT)
 	  - Loi - art. 81 (V)
 	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 29 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 13 (V)
-	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
 	  - Code de l'urbanisme - art. L425-9 (V)
 	  - Code de l'urbanisme - art. R*421-36 (Ab)
 	  - Code de l'urbanisme - art. R421-11 (M)
@@ -15267,9 +15458,25 @@ chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
 	  - Code du tourisme. - art. L324-1-1 (V)
 	  - Code du tourisme. - art. L324-2-1 (V)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme 340
+	  - TXT_ASSOCIE: Code de la construction L631-9
+	  - TXT_ASSOCIE: Code de la construction L631-8
+	  - TXT_ASSOCIE: Code de la construction L651-2
+	  - TXT_ASSOCIE: Code de la construction R631-4
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 ART. 10-7 ET 2
+	  - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 58 () JORF 24 decembre 1986
 
 
 ###### Article L631-8
