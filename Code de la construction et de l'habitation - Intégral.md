@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-03-24
+Version Consolidée au 2005-04-03
 
 # Partie législative
 
@@ -52956,6 +52956,38 @@ La présente section n'est pas applicable aux départements d'outre-mer.
 	  - Code de la construction et de l'habitation. - art. R323-23 (Ab)
 
 
+###### Article R323-12-1
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par la présente section
+concernant les logements et les immeubles situés dans le périmètre de la convention de délégation. Cette convention prévoit
+si l'instruction des demandes de décision favorable mentionnée à l'article R. 323-5 est assurée par la direction
+départementale de l'équipement en application de l'article 112 de la loi du 13 août 2004 relative aux libertés et
+responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13 art. 112
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. R323-5 (M)
+
+	**Créé par**:
+
+	  - Décret n°2005-308 du 1 avril 2005 - art. 1 () JORF 3 avril 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R323-7-1 (VD)
+
+
 ##### Section 2 : Dispositions relatives aux départements d'outre-mer.
 
 ##### Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer
@@ -54066,6 +54098,41 @@ section.
 	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
 
 
+###### Article R331-13-1
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par la présente section
+concernant la réalisation de logements ou d'immeubles situés dans le périmètre de la convention de délégation. Cette
+convention prévoit si l'instruction des demandes de décision favorable mentionnée à l'article R. 331-6 est assurée par la
+direction départementale de l'équipement en application de l'article 112 de la loi du 13 août 2004 relative aux libertés et
+responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13 art. 112
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+
+	**Créé par**:
+
+	  - Décret n°2005-308 du 1 avril 2005 - art. 2 () JORF 3 avril 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-15-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
+	  - Code de la construction et de l'habitation. - art. R331-24-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+
+
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
 
 ###### Article R331-14
@@ -54550,25 +54617,26 @@ Les prêts régis par la présente sous-section peuvent être transférés aux p
 
 ###### Article R331-24
 
-I. - Des subventions foncières peuvent être accordées :
+I.-Des subventions foncières peuvent être accordées : 
 
-1° Aux collectivités locales et aux groupements de collectivités locales lorsqu'ils acquièrent ou ont acquis depuis moins de
-trois ans à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à
-le céder en toute propriété ou à bail emphytéotique ou à construction à l'une des personnes visées à l'article R. 331-14 pour
-la réalisation de travaux de construction, de transformation et d'aménagement, ou d'amélioration répondant aux conditions
-prévues aux articles R. 331-8 et R. 331-9 ;
+1° Aux collectivités locales et aux groupements de collectivités locales lorsqu'ils acquièrent ou ont depuis moins de cinq
+ans à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à le
+céder en toute propriété ou à bail emphytéotique ou à construction à l'une des personnes visées à l'article R. 331-14 pour la
+réalisation de travaux de construction, de transformation et d'aménagement, ou d'amélioration répondant aux conditions
+prévues aux articles R. 331-8 et R. 331-9 ; 
 
-2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont acquis depuis moins de trois ans à la date de
-la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble, et s'engagent à réaliser des travaux
-de construction, de transformation et d'aménagement ou d'amélioration répondant aux conditions prévues aux articles R. 331-8
-et R. 331-9.
+2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont depuis moins de cinq ans à la date de la
+demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble, et s'engagent à réaliser des travaux de
+construction, de transformation et d'aménagement ou d'amélioration répondant aux conditions prévues aux articles R. 331-8 et
+R. 331-9. 
 
-II. - Des opérations peuvent bénéficier d'une subvention foncière lorsque la charge foncière en construction neuve ou le coût
+II.-Des opérations peuvent bénéficier d'une subvention foncière lorsque la charge foncière en construction neuve ou le coût
 global de l'opération en acquisition-amélioration dépasse la valeur foncière de référence multipliée par la surface utile de
 l'opération. La valeur foncière de référence servant à fixer le seuil de déclenchement de la subvention foncière est exprimée
 en euros par mètre carré de surface utile définie à l'article R. 331-10 du présent code pour les opérations de construction
 neuve et d'acquisition-amélioration. Une fraction du dépassement au moins égale à 20 p. 100 de son montant doit être prise en
-charge par une collectivité locale ou un groupement de collectivités locales.
+charge par une collectivité locale ou un groupement de collectivités locales. Cette fraction du dépassement n'est pas exigée
+lorsque la décision de subvention est prise dans les conditions de l'article R. 331-13-1. 
 
 Le montant de la subvention de l'Etat ne peut dépasser :
 
@@ -54589,26 +54657,18 @@ de la loi n° 70-612 du 10 juillet 1970 :
 
 - ni 75 p. 100 du dépassement ;
 
-- ni 30 p. 100 du montant de la valeur foncière de référence multiplié par la surface utile de l'opération.
+- ni 30 p. 100 du montant de la valeur foncière de référence multiplié par la surface utile de l'opération. 
 
 Toutefois, lorsqu'une fraction du dépassement au moins égale à 40 % est prise en charge par une collectivité locale ou un
 groupement de collectivités locales, le montant de la subvention de l'Etat peut atteindre 60 % de ce dépassement limité à 2
 fois le montant de la valeur foncière de référence multiplié par la surface utile de l'opération en construction neuve et à
 0,4 fois le montant de la valeur foncière de référence multiplié par la surface utile de l'opération pour les opérations
-d'acquisition-amélioration ou assimilées.
+d'acquisition-amélioration ou assimilées. 
 
 Les modalités de détermination et d'octroi de la subvention sont fixées par arrêté conjoint des ministres chargés de la
 construction et de l'habitation et des finances.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-612 1970-07-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R331-14 (M)
-	  - Code de la construction et de l'habitation. - art. R331-8 (M)
-	  - Code de la construction et de l'habitation. - art. R331-9 (M)
 
 	**Codifié par**:
 
@@ -54640,7 +54700,14 @@ construction et de l'habitation et des finances.
 
 	**Modifié par**:
 
-	  - Décret n°2002-848 du 3 mai 2002 - art. 5 () JORF 5 mai 2002
+	  - Décret n°2005-308 du 1 avril 2005 - art. 3 () JORF 3 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-10 (V)
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-8 (V)
 
 
 ###### Article R331-25
@@ -67684,6 +67751,53 @@ le délai maximum de six mois à compter de la date d'octroi du prêt.
 	  - Code de la construction et de l'habitation. - art. R331-24 (M)
 	  - Code de la construction et de l'habitation. - art. R381-2 (V)
 	  - Code de la construction et de l'habitation. - art. R391-1 (V)
+
+
+##### Section 4 : Dispositions spécifiques applicables dans les cas de délégation de compétence prévues aux articles L. 301-5-1 et L. 301-5-2.
+
+###### Article R381-7
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par le présent chapitre pour les
+logements et les immeubles situés dans le périmètre de la convention de délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-308 du 1 avril 2005 - art. 4 () JORF 3 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+
+
+###### Article R381-8
+
+Les deux dernières phrases de l'article R. 381-2 ne sont pas applicables lorsqu'un établissement public de coopération
+intercommunale ou un département a conclu avec l'Etat une convention de délégation de compétence en application des articles
+L. 301-5-1 ou L. 301-5-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-308 du 1 avril 2005 - art. 4 () JORF 3 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (VT)
+	  - Code de la construction et de l'habitation. - art. R381-2 (V)
 
 
 ### Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.
