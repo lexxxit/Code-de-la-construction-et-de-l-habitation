@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-07-05
+Version Consolidée au 1986-07-12
 
 # Partie législative
 
@@ -6937,10 +6937,10 @@ Les employeurs, occupant au minimum dix salariés, à l'exception de l'Etat, des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime agricole au regard des lois sur la sécurité
 sociale pour lesquelles des règles spéciales ont été édictées en application du 3 a dudit article 231, doivent consacrer au
 financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux, de
-construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant 09
-p. 100 au moins du montant, entendu au sens de l'article 231 du code général des impôts précité, des salaires payés par eux
-au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou
-commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même
+construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant
+0,77 p. 100 au moins du montant, entendu au sens de l'article 231 du code général des impôts précité, des salaires payés par
+eux au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère industriel
+ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même
 caractère.
 
 Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion d'indemnités de dommages de guerre, ont investi au
@@ -6954,11 +6954,14 @@ Les modalités d'application du présent article sont fixées par décret en Con
 s'appliquent aux investissements qui doivent être réalisés à compter du 1er janvier 1975 à raison des salaires payés au cours
 de l'année 1974.
 
+Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou dépassent l'effectif de dix salariés, sont
+dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
+réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième a
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 5 mai 1995 - art. 23 (Ab)
 	  - Décret n°53-707 du 9 août 1953 - art. 2 (V)
 	  - Loi n°66-537 du 24 juillet 1966 - art. 106 (Ab)
 	  - Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
@@ -6969,6 +6972,7 @@ de l'année 1974.
 	  - Décret n°90-392 du 11 mai 1990 - art. Annexe (VD)
 	  - Loi n°94-679 du 8 août 1994 - art. 22 (V)
 	  - Décret n°95-70 du 20 janvier 1995 - art. ANNEXE (V)
+	  - Arrêté du 5 mai 1995 - art. 23 (Ab)
 	  - Loi - art. 7 (V)
 	  - Loi - art. 28 (Ab)
 	  - Loi n°96-1181 du 30 décembre 1996 - art. 47 (V)
@@ -7054,13 +7058,17 @@ de l'année 1974.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 A (V)
 	  - Code monétaire et financier - art. L511-6 (V)
 
-	**Cite**:
-
-	  - CGI 231
-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
+
+	**Cite**:
+
+	  - CGI 231
 
 	**Anciens textes**:
 
