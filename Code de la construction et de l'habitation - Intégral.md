@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-08-22
 
 # Partie législative
 
@@ -32999,8 +32999,8 @@ d'amélioration dans les logements à usage locatif dont ils sont propriétaires
 2. Les établissements publics à caractère administratif sous tutelle des collectivités locales et gestionnaires de
 logements ;
 
-3. DECR. 87 : Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires
-de logements, sur avis conforme du groupe administratif départemental du fonds d'aménagement urbain ;
+3. Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires de
+logements ;
 
 4. Les houillères de bassin ;
 
@@ -33013,8 +33013,7 @@ urbaine et la restauration immobilière dans le cadre des opérations qui leur s
 
 8. Les sociétés minières et immobilières gérant le patrimoine immobilier des mines de fer ;
 
-9. DECR. 87 : Les personnes morales propriétaires de cités familiales, sur avis conforme du comité directeur du fonds
-d'aménagement urbain.
+9. Les personnes morales propriétaires de cités familiales.
 
 **Liens relatifs à cet article**
 
@@ -33024,7 +33023,7 @@ d'aménagement urbain.
 
 	**Modifié par**:
 
-	  - Décret n°81-87 1981-01-30 ART. 1 JORF 3 FEVRIER 1981
+	  - Décret n°86-974 1986-08-20 ART. 1 I, II JORF 22 août 1986
 
 	**Cité par**:
 
@@ -33073,22 +33072,19 @@ L'octroi de la subvention est subordonné [*conditions*] à la passation d'une c
 
 ###### Article R323-3
 
-Pour bénéficier de subventions, les immeubles faisant l'objet de travaux d'amélioration doivent avoir été achevés avant le 31
-décembre 1967, sauf dérogation accordée à titre exceptionnel par le préfet, sur avis conforme du fonds d'aménagement urbain.
+Pour bénéficier de subventions [*condition*], les immeubles faisant l'objet de travaux d'amélioration doivent avoir été
+achevés avant [*date*] le 31 décembre 1967, sauf dérogation accordée à titre exceptionnel par le représentant de l'Etat dans
+le département.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-1019 1977-08-29 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°81-87 1981-01-30 art. 1 JORF 3 février 1981
+	  - Décret n°86-974 1986-08-20 ART. 2 JORF 22 AOUT 1986
 
 	**Cité par**:
 
@@ -33157,9 +33153,7 @@ Des dérogations au montant des travaux fixé à l'alinéa précédent peuvent �
 sur des immeubles anciens ou très dégradés, de restructuration interne des immeubles ou de reprise de l'architecture
 extèrieure.
 
-La décision de dérogation est prise par le commissaire de la République, sauf dans le cas d'opérations qui présentent le
-caractère d'investissement public national,  pour lesquelles la décision de dérogation est prise par le ministre chargé de la
-construction et de l'habitation.
+La décision de dérogation est prise par le représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
@@ -33169,7 +33163,7 @@ construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Décret n°83-907 1983-10-03 ART. 2 JORF 14 OCTOBRE 1983
+	  - Décret n°86-974 1986-08-20 ART. 3 JORF 22 AOUT 1986
 
 	**Cite**:
 
@@ -33185,36 +33179,11 @@ construction et de l'habitation.
 
 Le taux de la subvention est au plus égal à 20 p. 100 du coût prévisionnel des travaux.
 
-Toutefois, le taux de la subvention peut être majoré dans les conditions suivantes :
+Des dérogations au taux de la subvention peuvent être accordées par le représentant de l'Etat dans le département pour des
+opérations à caractère expérimental, pour des opérations  "habitat" et "vie sociale" ou pour des opérations réalisées dans le
+cadre des actions pour le développement social des quartiers.
 
-1. Il peut atteindre 30 p. 100 :
-
-a) Pour les travaux ou parties de travaux visant à améliorer la qualité acoustique des logements, sur production d'un rapport
-établi par un organisme agréé et dans des conditions fixées par un arrêté du ministre chargé de la construction et de
-l'habitation ; la subvention ne peut dans ce cas dépasser 14000 F par logement.
-
-b) Pour les travaux ou parties de travaux visant à améliorer la qualité thermique des logements et définis par un arrêté du
-ministre chargé de la construction et de l'habitation.
-
-L'octroi de la subvention est subordonné à la production d'un rapport établi par un organisme d'étude faisant apparaître que
-la rentabilité de l'investissement consenti est satisfaisante.
-
-c) Pour les travaux portant sur des logements appartenant à des communes de moins de 7500 habitants et pour les logements
-mentionnés à l'article R. 323-11-I ci-après.
-
-2. Il peut atteindre 40 p. 100 du coût prévisionnel des travaux, lorsque ceux-ci visent l'amélioration de la qualité
-thermique ou de la qualité acoustique des logements et qu'ils répondent à des conditions définies par un arrêté du ministre
-chargé de la construction et de l'habitation.
-
-L'octroi de la subvention est, dans ce cas, subordonné à la production des rapports mentionnés au 1. a ou b ci-dessus.
-
-Des dérogations aux taux de la subvention peuvent être accordées pour des opérations à caractère expérimental, pour des
-opérations "habitat et vie sociale" ou pour toute autre opération lorsqu'elle présente un caractère social marqué.
-
-La décision de dérogation est prise par le commissaire de la République [*autorité compétente*]. Elle ne peut avoir pour
-effet de modifier le taux de 40 p. 100 mentionné au 2) ci-dessus. Toutefois, les majorations de taux supérieures à 10 p. 100
-du côut prévisionnel des travaux et les dérogations portant sur des opérations ayant le caractère d'investissement public
-national ne peuvent être octroyées que par décision du ministre chargé de la construction et de l'habitation.
+Elles ne peuvent avoir pour effet de porter le taux de la subvention à plus de 30 p. 100 du côut prévisionnel des travaux.
 
 **Liens relatifs à cet article**
 
@@ -33224,7 +33193,7 @@ national ne peuvent être octroyées que par décision du ministre chargé de la
 
 	**Modifié par**:
 
-	  - Décret n°83-907 1983-10-03 ART. 3 JORF 14 OCTOBRE 1983
+	  - Décret n°86-974 1986-08-20 ART. 4 JORF 22 août 1986
 
 	**Liens**:
 
@@ -33235,7 +33204,6 @@ national ne peuvent être octroyées que par décision du ministre chargé de la
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R323-11 (M)
 
 	**Cité par**:
 
