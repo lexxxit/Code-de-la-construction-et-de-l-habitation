@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-03-17
+Version Consolidée au 1992-04-03
 
 # Partie législative
 
@@ -34157,19 +34157,19 @@ banques et organismes de crédit ayant passé avec l'Etat une convention à cet 
 ###### Article R*315-2
 
 Les sommes inscrites aux comptes d'épargne-logement portent intérêt, à un taux fixé par arrêté du ministre chargé des
-finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
+finances du ministre chargé de la construction et de l'habitation.
 
 Au 31 décembre de chaque année, l'intérêt s'ajoute au capital et devient lui-même productif d'intérêt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 
 ###### Article R*315-3
@@ -34177,38 +34177,37 @@ Au 31 décembre de chaque année, l'intérêt s'ajoute au capital et devient lui
 Il est délivré aux titulaires de comptes d'épargne-logement un livret mentionnant les opérations effectuées à leur compte.
 
 Le montant du dépôt minimum auquel est subordonnée l'ouverture d'un compte d'épargne-logement et le montant minimum des
-versements ultérieurs sont fixés par arrêté du ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé des postes et télécommunications.
+versements ultérieurs sont fixés par arrêté du ministre chargé des finances et du ministre chargé de la construction et de
+l'habitation.
 
 Les sommes inscrites au compte sont remboursables à vue. Toutefois, le retrait de fonds qui aurait pour effet de réduire le
 montant du dépôt à un montant inférieur au dépôt minimun prévu à l'alinéa précédent entraîne la clôture du compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 
 ###### Article R*315-4
 
 Le montant maximum des sommes qui peuvent être portées à un compte d'épargne-logement est fixé par arrêté du ministre chargé
-des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et
-télécommunications.
+des finances et du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 
 ###### Article R*315-5
@@ -34247,12 +34246,11 @@ Les livrets d'épargne-logement et les droits appartenant à leurs titulaires ne
 ###### Article R*315-7
 
 Les titulaires d'un compte d'épargne-logement peuvent, sous réserve des dispositions de l'article R. 315-13, obtenir un prêt
-lorsque ce compte est ouvert depuis dix-huit mois au moins et lorsque le montant des intérêts acquis s'élève au moins à un
-montant fixé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du
-ministre chargé des postes et télécommunications, en fonction du minimum exigé pour l'ouverture du compte ainsi que du taux
-d'intérêt appliqué aux dépôts.
+lorsque ce compte est ouvert depuis dix-huit mois au moins [*délai*] et lorsque le montant des intérêts acquis s'élève au
+moins à un montant fixé par arrêté du ministre chargé des finances et du ministre chargé de la construction et de
+l'habitation, en fonction du minimum exigé pour l'ouverture du compte ainsi que du taux d'intérêt appliqué aux dépôts.
 
-Toutefois ce montant est abaissé à 150 F lorsque le prêt est destiné au financement de travaux de réparation ou
+Toutefois ce montant est abaissé à 150 francs lorsque le prêt est destiné au financement de travaux de réparation ou
 d'amélioration dont la nature est fixée par l'arrêté du ministre chargé des finances et du ministre chargé de la construction
 et de l'habitation prévu à l'article R. 315-8.
 
@@ -34263,21 +34261,17 @@ pour leur attribution.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 7
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
+
 	**Cité par**:
 
 	  - Décret n°2001-383 du 3 mai 2001 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-13, R315-8, L311-1 à L311-7
 
 
 ###### Article R*315-8
@@ -34285,8 +34279,7 @@ pour leur attribution.
 Les prêts d'épargne-logement ne peuvent être attribués que pour les objets définis à l'article L. 315-2.
 
 La nature des travaux de réparation ou d'amélioration susceptibles de donner lieu à l'attribution de prêts est fixée par
-arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des
-postes et télécommunications.
+arrêté du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
 
 Peuvent bénéficier d'un prêt d'épargne-logement en application du deuxième alinéa del'article L. 315-1 les résidences
 utilisées à titre personnel et familial pour le repos et les loisirs. Les locations occasionnelles et de durée limitée ne
@@ -34314,7 +34307,7 @@ premier prêt n'a pas été intégralement remboursé.
 
 	**Modifié par**:
 
-	  - Décret n°85-638 1985-06-26 art. 1 JORF 27 juin 1985
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -34367,8 +34360,7 @@ toujours possible.
 
 Pour la construction, l'acquisition, les travaux d'extension, de réparation ou d'amélioration d'un même logement, le prêt ou,
 le cas échéant, le montant cumulé des prêts consentis au titre de l'épargne-logement ne peut excéder un montant fixé par
-arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des
-postes et télécommunications.
+arrêté du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
 
 Lorsqu'un même emprunteur obtient plusieurs prêts d'épargne-logement, l'encours des capitaux prêtés ne doit à aucun moment
 dépasser le maximum fixé par ledit arrêté.
@@ -34381,18 +34373,17 @@ dépasser le maximum fixé par ledit arrêté.
 
 	**Modifié par**:
 
-	  - Décret n°85-638 1985-06-26 art. 2 JORF 27 juin 1985
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 
 ###### Article R*315-12
 
 Sous réserve des dispositions des articles R. 315-10 et R. 315-11, le montant et la durée maximum des prêts sont fixés de
 telle sorte que le total des intérêts à payer par l'emprunteur soit égal au total des intérêts acquis à la date de la demande
-de prêt et pris en compte pour le calcul du montant du prêt, multiplié par un coefficient qui ne peut excéder un maximun fixé
-par arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé
-des postes et télécommunications.
+de prêt et pris en compte pour le calcul du montant du prêt, multiplié par un coefficient qui ne peut excéder un maximum fixé
+par arrêté du ministre chargé des finances, du ministre chargé de la construction.
 
-Ce coefficient est au minimun égal à 1.
+Ce coefficient est au minimum égal à 1.
 
 En cas de réduction du coefficient, les titulaires de comptes d'épargne-logement déjà ouverts bénéficent de prêts calculés
 sur la base du coefficient en vigueur à la date d'ouverture du compte.
@@ -34402,17 +34393,13 @@ titulaire lors de l'ouverture du compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R315-10, R315-11
+	  - Décret n°92-358 du 1 avril 1992 - art. 1 () JORF 3 avril 1992
 
 
 ###### Article R*315-13
@@ -34483,7 +34470,7 @@ La prime d'épargne versée au souscripteur d'un compte d'épargne logement ouve
 fraction des intérêts acquis à la date de la demande du prêt.
 
 La valeur de la fraction est fixée par arrêté du ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé des PTT.
+l'habitation.
 
 Toutefois la prime d'épargne ne peut pas dépasser par opération de prêt un montant fixé par arrêté du ministre chargé des
 finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
@@ -34504,7 +34491,7 @@ au moment où la prime a été payée à son bénéficiaire.
 
 	**Modifié par**:
 
-	  - Décret n°85-647 1985-06-28 art. 1 JORF 30 juin 1985
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -34707,8 +34694,7 @@ la condition que ce plan soit domicilié dans le même établissement.
 ###### Article R*315-27
 
 La souscription d'un plan d'épargne-logement est subordonnée au versement d'un dépôt initial qui ne peut être inférieur à un
-montant fixé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du
-ministre chargé des postes et télécommunications.
+montant fixé par arrêté du ministre chargé des finances du ministre chargé de la construction et de l'habitation.
 
 Le souscripteur s'engage à effectuer chaque année, à échéances régulières, mensuelles, trimestrielles ou semestrielles, des
 versements d'un montant déterminé par le contrat.
@@ -34717,18 +34703,18 @@ Un ou plusieurs versements peuvent être majorés sans que le montant maximum de
 315-4 puisse être dépassé au terme du plan d'épargne-logement.
 
 Un ou plusieurs versements peuvent être effectués pour un montant inférieur à ce qui est prévu au contrat, à la condition que
-le total des versements de l'année ne soit pas inférieur à un montant fixé par arrêté du ministre chargé des finances, du
-ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
+le total des versements de l'année ne soit pas inférieur à un montant fixé par arrêté du ministre chargé des finances et du
+ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cite**:
 
@@ -34737,27 +34723,31 @@ ministre chargé de la construction et de l'habitation et du ministre chargé de
 
 ###### Article R*315-28
 
-Le contrat fixe la durée du plan d'épargne-logement. Cette durée ne peut être inférieure à quatre ans à compter de la date du
-versement initial.
+I. - Le contrat fixe la durée du plan d'épargne-logement. Cette durée ne peut être inférieure à quatre ans à compter du
+versement initial, sauf en ce qui concerne les plans ouverts entre le 1er janvier 1981 et le 31 mars 1992 inclus, pour
+lesquels elle ne peut être inférieure à cinq ans.
 
-Des avenants au contrat initial peuvent proroger la durée du plan d'épargne-logement, pour une année au moins, ou la réduire
-en respectant toutefois la limite fixée à l'alinéa précédent.
+Des avenants au contrat initial peuvent, sous réserve des dispositions du II, proroger la durée du plan d'épargne-logement,
+pour une année au moins, ou la réduire en respectant les limites fixées à l'alinéa qui précède.
 
-A compter du 1er janvier 1981, cette durée ne peut être inférieure à cinq ans.
+II. - La durée d'un plan d'épargne-logement ne peut être supérieure à dix ans.
+
+Toutefois cette disposition ne s'applique pas aux plans d'épargne-logement qui, en vertu du contrat initial ou d'avenants à
+ce contrat, conclus avant le 1er avril 1992, ont une durée supérieure à dix ans. Ces plans demeurent valables jusqu'à
+l'expiration du contrat initial ou du dernier avenant et ne peuvent faire l'objet d'aucune prorogation.
+
+Les contrats en cours au 1er avril 1992 d'une durée inférieure à dix ans, soit en vertu du contrat initial, soit en vertu
+d'avenants, ne peuvent faire l'objet d'aucun avenant ayant pour effet de porter la durée totale du plan à plus de dix ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°80-1031 1980-12-16 art. 1 JORF 21 décembre 1980
+	  - Décret n°92-358 du 1 avril 1992 - art. 1 () JORF 3 avril 1992 rectificatif JORF 11 avril 1992
 
 	**Cité par**:
 
@@ -34769,22 +34759,21 @@ A compter du 1er janvier 1981, cette durée ne peut être inférieure à cinq an
 ###### Article R*315-29
 
 Les sommes inscrites au compte du souscripteur d'un plan d'épargne-logement portent intérêt, à un taux fixé par arrêté du
-ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et
-télécommunications.
+ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
 
 Au 31 décembre de chaque année, l'intérêt s'ajoute au capital et devient lui-même productif d'intérêt. La capitalisation des
-intérêts ne peut avoir pour conséquence de réduire le montant du versement annuel minimum préu à l'article R. 315-27, alinéa
+intérêts ne peut avoir pour conséquence de réduire le montant du versement annuel minimum prévu à l'article R. 315-27, alinéa
 4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cite**:
 
@@ -34809,6 +34798,38 @@ prévu à la sous-section 3 devient possible.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+###### Article R*315-31
+
+Lorsque le total des versements d'une année est inférieur au montant fixé par l'arrêté prévu au dernier alinéa de l'article
+R. 315-27, ou lorsque les sommes inscrites au crédit du compte d'un souscripteur font l'objet d'un retrait total ou partiel
+au cours de la période d'indisponibilité des fonds, le contrat d'épargne-logement est résilié de plein droit et le
+souscripteur perd le bénéfice des dispositions de la présente section.
+
+Toutefois, si le retrait intervient après l'écoulement de la période minimale prévue au contrat, le bénéfice de la présente
+section lui est conservé pour cette période et les périodes de douze mois consécutives.
+
+Si le retrait intervient entre la quatrième et la cinquième année d'un plan d'épargne-logement ouvert antérieurement au 1er
+avril 1992, le bénéfice de la présente section est conservé pour la période de quatre ans.
+
+Si le retrait intervient entre la troisième et la quatrième année, le bénéfice de la présente section est conservé pour la
+période de trois ans ; la prime versée par l'Etat est, dans ce cas, réduite dans une proportion fixée par arrêté du ministre
+chargé des finances et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°69-1231 1969-12-24 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°92-358 du 1 avril 1992 - art. 2 () JORF 3 avril 1992
 
 
 ###### Article R*315-32
@@ -35036,18 +35057,18 @@ Lors du retrait des fonds, le souscripteur d'un plan d'épargne-logement reçoit
 des intérêts acquis.
 
 La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 est égale à un
-pourcentage, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation
-et du ministre chargé des postes et télécommunications, des intérêts acquis à la date de venue à terme du plan.
+pourcentage, déterminé par arrêté du ministre chargé des finances du ministre chargé de la construction et de l'habitation,
+des intérêts acquis à la date de venue à terme du plan.
 
 En outre, il est versé au souscripteur d'un plan d'épargne-logement bénéficiaire d'un prêt prévu à l'article R. 315-34 pour
 le financement des dépenses de construction, d'acquisition ou d'amélioration d'un logement destiné à son habitation
 personnelle une majoration de prime égale à un pourcentage par personne à charge du montant des intérêts acquis pris en
-compte pour le calcul du montant du prêt, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la
-construction et de l'habitation et du ministre chargé des postes et télécommunications. Seules ouvrent droit au bénéfice de
-cette majoration les personnes à charge vivant habituellement au foyer du bénéficiaire.
+compte pour le calcul du montant du prêt, déterminé par arrêté du ministre chargé des finances et du ministre chargé de la
+construction et de l'habitation. Seules ouvrent droit au bénéfice de cette majoration les personnes à charge vivant
+habituellement au foyer du bénéficiaire.
 
 La prime d'épargne et le montant de la majoration ne peuvent pas dépasser un montant fixé par arrêté du ministre chargé des
-finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
+finances et du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -35057,7 +35078,7 @@ finances, du ministre chargé de la construction et de l'habitation et du minist
 
 	**Modifié par**:
 
-	  - Décret n°83-488 1983-06-11 ART. 3, ART. 4 JORF 15 JUIN 1983
+	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -35149,44 +35170,6 @@ ministre chargé des postes et télécommunications.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Section 2 : Plans contractuels d'épargne-logement.
-
-##### Sous-section 2 : Mise en place et fonctionnement des plans d'épargne-logement.
-
-###### Article R*315-31
-
-Lorsque le total des versements d'une année est inférieur au montant fixé par l'arrêté prévu au dernier alinéa de l'article
-R. 315-27, ou lorsque les sommes inscrites au crédit du compte d'un souscripteur font l'objet d'un retrait total ou partiel
-au cours de la période d'indisponibilité des fonds, le contrat d'épargne-logement est résilié de plein droit et le
-souscripteur perd le bénéfice des dispositions de la présente section.
-
-Toutefois, si le retrait intervient après l'écoulement de la période minimale prévue au contrat, le bénéfice de la présente
-section lui est conservé pour cette période et les périodes de douze mois consécutives.
-
-Si le retrait intervient entre la quatrième et la cinquième année d'un plan d'épargne-logement ouvert à compter du 1er
-janvier 1981, le bénéfice de la présente section est conservé pour la période de quatre ans ; la prime versée par l'Etat est
-dans ce cas réduite dans une proportion fixée par arrêté du ministre chargé des finances, du ministre chargé de la
-construction et de l'habitation et du ministre chargé des postes et télécommunications.
-
-Si le retrait intervient entre la troisième et la quatrième année d'un plan ouvert à compter du 15 juin 1983 le bénéfice de
-la présente section est conservé pour la période de trois ans ; la prime versée par l'Etat est dans ce cas réduite dans une
-proportion fixée par l'arrêté susmentionné.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-1231 1969-12-24 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-488 1983-06-11 ART. 1 JORF 15 JUIN 1983
 
 
 ##### Section 3 : Dispositions transitoires
