@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-03-11
+Version Consolidée au 1983-03-16
 
 # Partie législative
 
@@ -36134,6 +36134,35 @@ passibles de l'impôt sur le revenu.
 
 ##### Sous-section 3 : Conditions particulières.
 
+###### Article R351-16
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
+d'une personne à charge au sens de l'article R. 351-8. Cette révision prend effet le premier jour du mois civil suivant celui
+au cours duquel est intervenu l'événement.
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement en cas de décès ou de départ du foyer d'une
+personne à charge au sens de l'article R. 351-8. Cette révision prend effet respectivement le premier jour du mois civil qui
+suit le décès ou le premier jour du mois civil au cours duquel survient le départ.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-176 1983-03-07 ART. 8 JORF 11 MARS 1983
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-8 (M)
+
+
 ###### Article R351-17-2
 
 Dans le cas prévu à l'article R. 351-17 (6è alinéa), l'élément L de la formule de calcul prévue à l'article R. 351-18
@@ -41601,28 +41630,6 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	  - Code du travail - art. L351-9 (M)
 	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-
-
-###### Article R351-16
-
-Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
-d'une personne à charge au sens de l'article R. 351-8.
-
-Cette révision prend effet le premier jour du mois suivant celui au cours duquel est intervenu l'événement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
 ###### Article R351-16 BIS
