@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-05-06
+Version Consolidée au 1998-06-27
 
 # Partie législative
 
