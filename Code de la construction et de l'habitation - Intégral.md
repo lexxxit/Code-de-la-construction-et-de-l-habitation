@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-08-06
+Version Consolidée au 1998-09-09
 
 # Partie législative
 
@@ -50791,8 +50791,7 @@ La présente section n'est pas applicable aux départements d'outre-mer.
 ###### Article R331-78
 
 Dans les limites et conditions fixées par la section I (sous-sections I à V), sauf dispositions expresses particulières de la
-présente section, des prêts à taux préférentiel et révisable dont les caractéristiques sont définies à l'article R. 331-82
-peuvent être accordés pour financer :
+présente section, des prêts à taux préférentiel et révisable peuvent être accordés pour financer :
 
 L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
 construction de ces logements ;
@@ -50818,17 +50817,16 @@ La réalisation des opérations de logements-foyers à usage locatif tels que d�
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°98-796 du 2 septembre 1998 - art. 1 () JORF 9 septembre 1998
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-3 à R331-30
 	  - Code de la construction et de l'habitation. - art. R331-55 (M)
 
 	**Cité par**:
@@ -50913,45 +50911,6 @@ la construction et de l'habitation.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-78 (M)
-
-
-###### Article R331-82
-
-Les prêts prévus à l'article R. 331-78 sont accordés pour une durée de trente-quatre ans avec deux ans de différé
-d'amortissement et sont assortis d'une remise d'intérêts de deux ans et trois mois. Les délais sont calculés à partir de la
-date de la signature du contrat.
-
-Ces prêts sont à taux révisables.
-
-Le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces périodes et les conditions de
-leur révisabilité, ainsi que le rythme de la progressivité des annuités en cours d'amortissement, sont fixés par arrêté des
-ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à
-leur financement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°98-796 du 2 septembre 1998 - art. 2 (V) JORF 9 septembre 1998
-
-	**Cité par**:
-
-	  - Décret n°98-796 du 2 septembre 1998 - art. 2 (V)
-	  - Arrêté du 25 octobre 1984 - art. 1 (Ab)
-	  - Arrêté du 25 octobre 1984 - art. 2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R331-78 (M)
 
 
