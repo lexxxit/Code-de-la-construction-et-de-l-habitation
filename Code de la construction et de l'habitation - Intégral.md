@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-10-08
+Version Consolidée au 1999-10-23
 
 # Partie législative
 
@@ -59909,6 +59909,28 @@ préfet sur leur cohérence et leur compatibilité avec les objectifs et les rè
 
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R362-6 (M)
+
+
+###### Article R362-5-1
+
+Le conseil départemental de l'habitat émet un avis sur le projet de plan départemental d'action pour le logement des
+personnes défavorisées.
+
+Il reçoit communication des bilans annuels et évaluations périodiques de ce plan et en délibère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-897 du 22 octobre 1999 - art. 55 () JORF 23 octobre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
 
 
 ###### Article R362-6
