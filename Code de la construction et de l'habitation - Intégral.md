@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-01-13
+Version Consolidée au 1980-02-15
 
 # Partie législative
 
@@ -35207,29 +35207,29 @@ prévisionnels.
 
 Le montant des prêts prévus à l'article R. 331-32 destinés à financer les logements construits ou acquis et améliorés dans
 les conditions définies à l'article R. 331-48 est fixé en fonction de la surface des logements, compte tenu de leur
-localisation et des ressources des occupants.
+localisation, de la situation de famille du bénéficiaire et des ressources des occupants.
 
 Dans les autres cas, le montant des prêts prévus à l'article R. 331-32 peut atteindre 70 p. 100 du prix de vente du logement
-défini à l'article R. 331-52 (5).
+défini à l'article R.331-52 (5.). Le taux maximum est porté à 90 p. 100 pour les ménages bénéficiaires ayant au moins trois
+enfants à charge, dont un de moins de quatre ans à la date du dépôt de la demande de décision favorable, de transfert ou de
+maintien.
 
-Toutefois, lorsque les ressources du bénéficiaire, définies à l'article R. 331-42, sont inférieures à un plafond, le montant
-des prêts peut atteindre 80 p. 100 du prix de vente mentionné à l'alinéa précédent [*maximum*].
+Toutefois, lorsque les ressources du ménage bénéficiaire définies à l'article R. 331-42 sont inférieures à un plafond, le
+montant des prêts peut atteindre 80 p. 100 du prix de vente mentionné à l'alinéa précédent. Le taux maximum est porté à 100
+p. 100 pour les ménages ayant au moins trois enfants à charge, dont un de moins de quatre ans à la date du dépôt de la
+demande de décision favorable, de transfert ou de maintien.
 
 Les montants des prêts prévus aux alinéas ci-dessus ne peuvent dépasser des limites déterminées en fonction de la situation
-de famille du bénéficiaire, des ressources des occupants et de la localisation du logement.
+de famille du bénéficiaire des ressources des occupants et de la localisation du logement.
 
 Les modalités d'application du présent article sont fixées par arrêté des ministres chargés de la construction et de
-l'habitation, et des finances.
+l'habitation et des finances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 22
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -35241,10 +35241,10 @@ l'habitation, et des finances.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation R331-52 5
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 	  - Code de la construction et de l'habitation. - art. R331-42 (M)
 	  - Code de la construction et de l'habitation. - art. R331-48 (M)
-	  - Code de la construction et de l'habitation. - art. R331-52 (M)
 
 
 ###### Article R331-54
