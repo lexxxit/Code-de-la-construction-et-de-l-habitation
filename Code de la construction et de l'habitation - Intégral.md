@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-03-05
+Version Consolidée au 1996-03-22
 
 # Partie législative
 
@@ -67126,8 +67126,10 @@ Les prêts mentionnés à l'article L. 451-4, alinéa 1er, sont accordés par le
 
 ###### Article R451-7
 
-La décision administrative prévue à l'article L. 451-5 est prise conjointement par le ministre chargé des finances et le
-ministre chargé de la construction et de l'habitation [*autorité compétente*].
+L'avis du service des domaines prévu à l'article L. 451-5 porte sur la valeur vénale du bien immobilier.
+
+Cet avis doit être formulé dans le délai d'un mois à compter de la date de la réception d'une demande d'avis en état, à
+défaut de quoi, il peut être procédé à la réalisation de l'opération.
 
 **Liens relatifs à cet article**
 
@@ -67135,13 +67137,13 @@ ministre chargé de la construction et de l'habitation [*autorité compétente*]
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°96-221 du 15 mars 1996 - art. 1 () JORF 22 mars 1996
+
 	**Cité par**:
 
 	  - Arrêté du 19 décembre 2007 - art. 3 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 237
 
 	**Cite**:
 
