@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-16
+Version Consolidée au 2000-12-28
 
 # Partie législative
 
@@ -53830,11 +53830,15 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 ###### Article R351-17-4
 
-Sous réserve d'un montant minimal fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture, la participation personnelle du bénéficiaire est obtenue par l'application d'un taux de
-participation aux ressources du bénéficiaire appréciées conformément à l'article R. 351-5.
+La participation personnelle est la somme d'une participation minimale et du résultat de l'application d'un taux de
+participation aux ressources du bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un montant fixé
+forfaitairement. Ce forfait est calculé, dans les conditions fixées par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum d'insertion, fixé en
+application de l'article 3 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
 
-Les ressources sont arrondies aux 500 F supérieurs.
+La participation minimale est définie par le même arrêté.
+
+Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies aux 500 F supérieurs.
 
 **Liens relatifs à cet article**
 
@@ -53848,48 +53852,14 @@ Les ressources sont arrondies aux 500 F supérieurs.
 	  - Arrêté du 26 décembre 2016 (V)
 	  - Code de la construction et de l'habitation. - art. R351-17-5 (V)
 
-	**Créé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 4 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
 	**Cite**:
 
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 3 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
+	**Modifié par**:
 
-###### Article R351-17-5
-
-Le taux de participation est obtenu par l'addition de :
-
-Un taux de base différent selon qu'il s'agit d'une personne seule sans personne à charge ou d'un autre ménage ;
-
-Un premier taux complémentaire qui croît quand les ressources du ménage augmentent ; il est obtenu par l'application de taux
-à des tranches de ressources ;
-
-Un deuxième taux complémentaire qui croît quand le loyer augmente dans la limite du plafond ; il est obtenu par l'application
-de taux croissants à des tranches successives de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence
-fixé en fonction de la composition familiale.
-
-Le taux de participation fait l'objet d'une minoration en fonction du nombre de personnes à charge.
-
-Les loyers de référence et les modalités de calcul du taux de participation sont déterminés par arrêté conjoint des ministres
-en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 2 quater (V)
-
-	**Créé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 5 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2000-1273 du 26 décembre 2000 - art. 1 () JORF 28 décembre 2000
 
 
 ##### PARAGRAPHE II : Dispositions relatives aux propriétaires.
@@ -55102,6 +55072,38 @@ personnes ou ménages concernés.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+
+
+###### Article R351-17-5
+
+Le taux de participation prévu à l'article R. 351-17-4 est obtenu par l'addition de :
+
+- un premier taux qui est fonction de la taille du ménage ;
+
+- un second taux qui croît quand le loyer augmente dans la limite d'un plafond ; il est obtenu par l'application de taux
+croissants à des tranches successives de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence fixé en
+fonction de la composition familiale.
+
+Les loyers de référence et les modalités de calcul du taux de participation sont déterminés par arrêté conjoint des ministres
+en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 2 quater (V)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1273 du 26 décembre 2000 - art. 2 () JORF 28 décembre 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-17-4 (M)
 
 
 ##### Paragraphe 2 : Dispositions relatives aux propriétaires.
