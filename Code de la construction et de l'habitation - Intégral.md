@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1989-07-12
+Version Consolidée au 1989-09-27
 
 # Partie législative
 
@@ -24234,35 +24234,35 @@ La limite mentinnée à l'article L. 231-1-1 est fixée à 70 p.  100.
 
 ###### Article R*231-6
 
-Le pourcentage maximum du prix total exigible aux différents stades de la construction d'après l'état d'avancement des
-travaux est fixé, par application du troisième alinéa de l'article L. 242-2, de la manière suivante :
+"Le pourcentage maximum du prix total, exigible aux différents stades de la construction d'après l'état d'avancement des
+travaux, est fixé, par application du troisième alinéa de l'article L. 242-2, de la manière suivante :
 
-5 p. 100 du prix convenu à la signature du contrat ;
+"  5 p. 100 [*pourcentage*] à la signature du contrat ;
 
-15 p. 100 à la délivrance du permis de construire ;
+" 15 p. 100 à la délivrance du permis de construire ;
 
-20 p. 100 à l'achèvement des fondations ;
+" 25 p. 100 à l'achèvement des fondations ;
 
-55 p. 100 à la mise hors d'eau ;
+" 40 p. 100 à l'achèvement des murs ;
 
-95 p. 100 à l'achèvement des travaux d'équipement, de plomberie, de menuiserie et de chauffage.
+" 60 p. 100 à la mise hors d'eau ;
 
-Le solde est payable à la réception des travaux. Toutefois, lorsque le maître de l'ouvrage a fait des réserves lors de cette
-réception, une somme égale à 5 p. 100 du prix convenu est consignée jusqu'à la levée de ces réserves.
+" 75 p. 100 à l'achèvement des cloisons et à la mise hors d'air ;
+
+" 95 p. 100 à l'achèvement des travaux d'équipement, de plomberie, de menuiserie et de chauffage.
+
+" Le solde est payable à la réception des travaux. Toutefois, lorsque le maître de l'ouvrage a fait des réserves lors de la
+réception, une somme égale à 5 p. 100 du prix convenu est consignée jusqu'à la levée de ces réserves. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°89-700 1989-09-26 art. 1 JORF 27 septembre 1989
 
 	**Cité par**:
 
@@ -24301,24 +24301,26 @@ demande d'avis de réception.
 
 Pour garantir la bonne exécution de sa mission, la personne qui s'est chargée de la construction doit justifier d'une
 garantie de remboursement et d'une garantie de livraison au prix convenu, dans les limites et conditions définies au présent
-article et aux articles suivants du présent chapitre.
-
-La garantie de remboursement concerne les sommes que le maître de l'ouvrage a versées avant l'accomplissement des formalités
-réglementaires préalables à la construction. Cette garantie est donnée pour le cas où il ne serait pas satisfait à ces
-formalités, et notamment pour le cas où l'autorisation de construire serait refusée.
+article et aux articles suivants du présent chapitre.    " La garantie de remboursement est donnée pour le cas où soit les
+autorisations administratives, soit les prêts ne seraient pas obtenus. Elle porte sur les sommes que le maître de l'ouvrage a
+versées avant la date mentionnée à l'article L. 231-1-2. "
 
 La garantie de livraison au prix convenu a pour but de protéger le maître de l'ouvrage contre les risques d'inexécution ou de
 mauvaise exécution de la construction telle qu'elle est prévue au contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°89-700 1989-09-26 art. 2 JORF 27 septembre 1989
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
 
 
 ###### Article R*231-9
@@ -24348,64 +24350,64 @@ sommes versées par le maître de l'ouvrage avant la résiliation du contrat.
 
 ###### Article R*231-10
 
-La garantie de remboursement prévue aux articles R. 231-8 et R. 231-9 revêt la forme :
+" La garantie de remboursement prévue aux articles R. 231-8 et R. 231-9 est constituée :
 
-- soit d'une convention de cautionnement par laquelle une banque ou un établissement financier habilité ou une entreprise
-d'assurances agréée à cet effet ou une société de caution mutuelle constituée conformément aux dispositions modifiées de la
-loi du 13 mars 1917 ayant pour objet l'organisation du crédit au petit et moyen commerce, à la petite et moyenne industrie,
-s'oblige, solidairement avec la personne qui s'est chargée de la construction, à rembourser les versements effectués par le
-maître de l'ouvrage au cas où ce remboursement serait dû ;
+" 1. Soit par une convention de cautionnement dans laquelle un établissement de crédit ou une entreprise d'assurance agréée à
+cet effet s'oblige, solidairement avec la personne qui s'est chargée de la construction, à rembourser les versements
+effectués par le maître de l'ouvrage au cas où ce remboursement serait dû ;
 
-- soit de la consignation par la personne qui s'est chargée de la construction de la somme versée avant l'accomplissement des
-formalités réglementaires préalables à la construction.
+" 2. Soit par la consignation de la somme versée avant la date fixée à l'article L. 231-1-2. La personne qui se charge de la
+construction doit, dans les huit jours qui suivent le versement, donner justification au maître de l'ouvrage de la
+consignation au bénéfice de ce dernier en précisant la date de celle-ci ainsi que le nom et l'adresse du consignataire.
 
-La garantie de remboursement figurant au présent article prend fin à la date à laquelle il a été satisfait aux formalités
-réglementaires préalables à la construction.
+" La garantie de remboursement prend fin à la date d'ouverture du chantier. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°89-700 1989-09-26 art. 3 JORF 27 septembre 1989
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R231-8, R231-9
+	  - Code de la construction et de l'habitation R231-8, R231-9, L231-1-2
+	  - Code de la construction et de l'habitation. - art. L231-1-2 (Ab)
 	  - Loi n°1917-03-13
 
 
 ###### Article R*231-11
 
-La garantie de livraison au prix convenu prévue à l'article R. 231-8 est constituée par une caution solidaire donnée par une
-banque ou un établissement financier habilité ou une entreprise d'assurance agréee à cet effet ou une société de caution
-mutuelle constituée conformément aux dispositions modifiées de la loi du 13 mars 1917 susmentionnée.
+"La garantie de livraison au prix convenu prévue à l'article R. 231-8 est constituée par une convention de cautionnement dans
+laquelle un établissement de crédit ou une entreprise d'assurance agréée à cet effet s'oblige, à compter de la date
+d'ouverture du chantier, à achever l'exécution du contrat. A cet effet, la déclaration d'ouverture du chantier est notifiée
+par la personne qui s'est chargée de la construction à l'établissement garant. Dans les huit jours de la réception de cette
+déclaration, l'établissement garant délivre une attestation de caution au maître de l'ouvrage au titre de chaque
+construction. "
 
 Si la personne qui s'est chargée de la construction justifie qu'elle est couverte contre les conséquences pécuniaires de la
 responsabilité civile professionnelle qu'elle peut encourir en raison de son activité et de la responsabilité mise à sa
 charge par les articles 1792 et 2270 du code civil, reproduits aux articles L. 111-13 et L. 111-20 du présent code, par un
 contrat souscrit par elle auprès d'une société d'assurance ou d'un assureur agréé en application des articles L. 321-1 et L.
 321-2 du code des assurances, le garant n'est tenu à l'égard du maître de l'ouvrage que des dépassements du prix convenu
-excédant 5 p. 100 dudit prix.
+excédant 5 p. 100 dudit prix 
 
 En aucun cas, le remboursement des sommes versées en exécution du présent article ne peut être demandé au maître de
-l'ouvrage.
-
-La garantie cesse lorsque la réception des travaux a lieu sans réserves ou, en cas de réserves, lorsque ces réserves ont été
-levées.
+l'ouvrage. La garantie cesse lorsque la réception des travaux a lieu sans réserves ou, en cas de réserves, lorsque ces
+réserves ont été levées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-1239 1972-12-29 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°89-700 1989-09-26 art. 4 JORF 27 septembre 1989
 
 	**Cite**:
 
@@ -24413,7 +24415,7 @@ levées.
 	  - Code civil - art. 2270 (M)
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-2 (M)
-	  - Code de la construction et de l'habitation R231-8, L111-13, L111-20
+	  - Code de la construction et de l'habitation L111-13, L111-20, R231-8
 	  - Code de la construction et de l'habitation. - art. L111-13 (V)
 	  - Code de la construction et de l'habitation. - art. L111-20 (V)
 	  - Loi n°1917-03-13
