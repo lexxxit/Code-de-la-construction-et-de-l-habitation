@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-04-03
+Version Consolidée au 1992-05-23
 
 # Partie législative
 
@@ -28604,6 +28604,887 @@ R. 211-1 à R. 211-6, R. 222-1 à R. 222-14 et R. 261-1 à R. 261-33.
 
 ## Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement.
 
+### Titre préliminaire : Politique d'aide au logement.
+
+#### Chapitre II : Politique locale de l'habitat.
+
+##### Section 4 : Convention d'application du programme local de l'habitat.
+
+###### Article R302-17
+
+Lorsqu'un programme local de l'habitat a été élaboré et adopté par un établissement public de coopération intercommunale, le
+président de l'établissement public et le préfet négocient une convention d'application du programme local de l'habitat.
+
+La convention, d'une durée de trois ans, est passée entre l'Etat et l'établissement public.
+
+La convention fixe les moyens qui seront mis en oeuvre pour réaliser le programme local de l'habitat et l'aide financière que
+l'Etat apportera en matière d'habitat et d'action foncière dans la limite des dotations ouvertes par les lois de finances.
+
+La convention précise en tant que de besoin les parties d'agglomération, communes ou quartiers sur lesquels porte l'aide
+financière de l'Etat.
+
+La convention peut être modifiée par avenant pour prendre en compte l'état annuel de réalisation du programme local de
+l'habitat et adapter les engagements des signataires à l'évolution de la situation sociale ou démographique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-18 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+
+
+##### Section 5 : Dispositions transitoires.
+
+###### Article R302-18
+
+Peuvent être transformés, en application de l'article 15 de la loi d'orientation pour la ville n° 91-662 du 13 juillet 1991,
+en programme local de l'habitat au sens de l'article 13 de ladite loi, les programmes locaux de l'habitat élaborés avant le
+21 juillet 1991 qui contiennent un diagnostic et ont défini les objectifs et principes d'une politique visant à répondre aux
+besoins en logements et à assurer entre les communes et entre les quartiers d'une même commune une répartition équilibrée et
+diversifiée de l'offre de logements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Cite**:
+
+	  - Loi n°91-662 1991-07-13 art. 15, art. 13
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-32 (T)
+
+
+###### Article R302-19
+
+Si un établissement public de coopération intercommunale avait élaboré un programme local de l'habitat avant le 21 juillet
+1991, l'organe délibérant engage la procédure de transformation du programme local de l'habitat.
+
+Si le programme local de l'habitat n'avait pas été élaboré par un établissement public de coopération intercommunale,
+l'organe délibérant d'un établissement public de coopération intercommunale nouvellement créé, ayant compétence en matière de
+programme local de l'habitat et regroupant des communes ayant élaboré ensemble avant le 21 juillet 1991 un programme local de
+l'habitat, délibère pour engager la procédure de transformation du programme local de l'habitat.
+
+La délibération visée aux alinéas précédents est transmise au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-33 (T)
+
+
+###### Article R302-20
+
+Le préfet, dans un délai de trois mois à compter de la transmission prévue à l'article R. 302-19, porte à la connaissance du
+président de l'établissement public de coopération intercommunale toute information utile sur les éléments à compléter ainsi
+que les objectifs locaux à prendre en compte.
+
+Si le programme local de l'habitat élaboré avant le 21 juillet 1991 ne répond pas aux conditions énoncées par l'article R.
+302-18, le préfet, dans un délai de deux mois à compter de la transmission prévue à l'article R. 302-19, notifie au président
+de l'établissement public de coopération intercommunale l'impossibilité de la transformation visée à l'article 15 de la loi
+d'orientation pour la ville.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-34 (T)
+
+
+###### Article R302-21
+
+L'établissement public de coopération intercommunale procède aux adaptations du programme local de l'habitat pour rendre
+conforme son contenu à celui défini par les articles L. 302-1 et R. 302-1.
+
+L'organe délibérant de l'établissement public de coopération intercommunale arrête le projet de programme local de l'habitat
+ainsi transformé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-35 (T)
+
+
+###### Article R302-22
+
+Le projet de programme local de l'habitat est ensuite soumis aux dispositions des articles R. 302-8 à R. 302-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-36 (T)
+
+
+###### Article R302-23
+
+Si, dans le délai visé à l'article L. 302-4-1, un établissement public de coopération intercommunale compétent en matière de
+programme local de l'habitat n'a pas été constitué ou saisi, une commune ayant élaboré un programme local de l'habitat avant
+le 21 juillet 1991 pourra engager la procédure de transformation telle que définie aux articles R. 302-19 à R. 302-21. Le
+projet de programme local de l'habitat est ensuite soumis aux dispositions des articles R. 302-14 à R. 302-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-37 (T)
+
+
+#### Chapitre II : Programme local de l'habitat
+
+##### Section 1 : Contenu du programme local de l'habitat.
+
+###### Article R302-1
+
+Le programme local de l'habitat, pour une période qu'il détermine, comprend, tant pour l'ensemble de son périmètre que pour
+les différentes parties qui le composent :
+
+- un diagnostic ;
+
+- l'énoncé de principes et d'objectifs ;
+
+- un programme d'actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-13-1 (V)
+
+
+###### Article R302-1-1
+
+Le diagnostic :
+
+a) Analyse la situation existante et les évolutions en cours, notamment des marchés du foncier et du logement, du logement
+des personnes défavorisées, des transports, du rôle et de l'insertion de chaque quartier dans l'aire du programme local de
+l'habitat et des besoins des habitants actuels et futurs ;
+
+Cette analyse est fondée sur les informations et données relatives à l'habitat dans le périmètre du programme et, le cas
+échéant, dans l'ensemble de l'agglomération à laquelle appartiennent les communes concernées.
+
+b) Expose les conséquences en matière d'habitat des prévisions et objectifs d'aménagement urbain ressortant des schémas
+directeurs, et schémas de secteurs, quand ils existent, des orientations d'aménagement du territoire et des perspectives de
+développement démographiques et socio-économiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-2 (V)
+	  - Code de l'urbanisme - art. R*123-2-2 (VT)
+	  - Code de l'urbanisme - art. R151-54 (V)
+
+
+###### Article R302-1-2
+
+L'énoncé d'objectifs et de principes :
+
+a) Précise les objectifs quantitatifs retenus en matière de constructions neuves et de réhabilitation ;
+
+b) Décrit les principes retenus pour assurer une diversité de l'habitat et une répartition équilibrée des différents types de
+logements ;
+
+c) Justifie la cohérence entre ces objectifs et principes et les dispositions du plan départemental d'action pour le logement
+des personnes défavorisées ainsi que des protocoles d'occupation du patrimoine social, quand ils existent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-3 (VT)
+	  - Code de l'urbanisme - art. R*123-3-1 (VT)
+	  - Code de l'urbanisme - art. R151-54 (V)
+
+
+###### Article R302-1-3
+
+Le programme d'actions :
+
+a) Définit les actions et les moyens qui seront mis en oeuvre par les communes ou les établissements publics de coopération
+intercommunale compétents pour la durée du programme local de l'habitat pour atteindre les objectifs retenus ;
+
+A ce titre, le programme d'actions indique notamment, lorsqu'il y a lieu, les taux et les zones d'application de la
+participation à la diversité de l'habitat.
+
+b) Précise les modalités de suivi et d'évaluation du programme local de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-3-1 (VT)
+	  - Code de l'urbanisme - art. R151-54 (V)
+
+
+##### Section 2 : Etablissement du programme local de l'habitat par un établissement public de coopération intercommunale.
+
+###### Article R302-2
+
+Le programme local de l'habitat est établi sur l'ensemble du périmètre de l'établissement public de coopération
+intercommunale mentionné à l'article L. 302-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-3
+
+L'organe délibérant de l'établissement public de coopération intercommunale décide d'engager la procédure d'élaboration du
+programme local de l'habitat.
+
+Il indique par la même délibération les modalités de l'association des personnes morales, autres que l'Etat, à l'élaboration
+du programme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-5 (V)
+	  - Code de la construction et de l'habitation. - art. R302-6 (V)
+	  - Code de la construction et de l'habitation. - art. R302-7 (V)
+
+
+###### Article R302-4
+
+Le président de l'établissement public de coopération intercommunale conduit la procédure d'élaboration du programme local de
+l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-5
+
+La délibération prévue à l'article R. 302-3 est notifiée aux personnes morales membres du Conseil national de l'habitat.
+Celles-ci désignent leurs représentants locaux qui, dans un délai de deux mois à compter de la notification, font savoir
+s'ils désirent être associés à l'élaboration du programme local de l'habitat.
+
+La délibération prévue à l'article R. 302-3 est également notifiée à toutes autres personnes morales que l'établissement
+public de coopération intercommunale juge utile d'associer. Celles-ci, dans un délai de deux mois à compter de la
+notification de cette délibération, font savoir si elles ont décidé d'être associées à l'élaboration du programme local de
+l'habitat et désignent à cet effet leurs représentants.
+
+A l'issue du délai visé aux deux alinéas précédents, le président arrête la liste des personnes morales associées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-6
+
+La délibération prévue à l'article R. 302-3 est transmise au préfet lorsque le périmètre du programme local de l'habitat est
+entièrement compris à l'intérieur d'un même département ou aux préfets des départements intéressés lorsque le périmètre
+englobe un territoire s'étendant sur plusieurs départements. Dans ce dernier cas, un arrêté conjoint des préfets des
+départements intéressés désigne celui d'entre eux qui sera chargé de suivre pour le compte de l'Etat la procédure
+d'élaboration du programme local de l'habitat.
+
+Dès que la délibération prescrivant l'établissement du programme lui a été transmise, ou dès que l'arrêté conjoint est
+intervenu, le préfet définit, avec le président de l'établissement public de coopération intercommunale, les modalités
+d'association de l'Etat à son élaboration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-7
+
+Dans un délai de trois mois à compter de la transmission de la délibération prévue à l'article R. 302-3, le préfet porte à la
+connaissance du président de l'établissement public de coopération intercommunale toute information utile concernant
+notamment l'évolution démographique, le développement économique local, les options d'aménagement ressortant des schémas
+directeurs, ainsi que les objectifs à prendre en compte en matière d'habitat et de répartition équilibrée des différents
+types de logements dans l'agglomération concernée.
+
+Il porte également à sa connaissance, le cas échéant, les objectifs spécifiques à certains quartiers notamment ceux qui
+résultent des conventions de développement social urbain.
+
+Il communique au président de l'établissement public les objectifs et informations nouveaux au cours de l'élaboration du
+programme et de sa réalisation.
+
+Le préfet ou son représentant est entendu, à tout moment, à sa demande, ou par l'organe délibérant, ou par le président de
+l'établissement public qui en rend compte à l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-8
+
+Le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de coopération
+intercommunale, est mis par décision du président de l'établissement à la disposition du public pendant un mois au siège de
+l'établissement et dans les mairies des communes concernées.
+
+Cette décision fixe :
+
+- la date à compter de laquelle le projet de programme local de l'habitat est mis à la disposition du public ;
+
+- les modalités suivant lesquelles le public peut en prendre connaissance et formuler ses observations.
+
+La décision est affichée au siège de l'établissement public de coopération intercommunale et dans les mairies des communes
+pendant la même durée d'un mois. Mention en est insérée en caractères apparents dans un journal régional ou local diffusé
+avant la date à compter de laquelle le projet est mis à la disposition du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-9
+
+Dans le même temps, le projet de programme local de l'habitat, arrêté par l'organe délibérant de l'établissement public de
+coopération intercommunale, est soumis par son président aux communes membres et aux établissements publics de coopération
+intercommunale territorialement concernés compétents en matière d'urbanisme, d'action foncière ou de logement.
+
+Les conseils municipaux des communes et les organes délibérants des établissements publics de coopération intercommunale
+visés à l'alinéa précédent délibèrent notamment sur les moyens, relevant de leurs compétences respectives, à mettre en place
+dans le cadre du programme local de l'habitat.
+
+Faute de réponse dans un délai de deux mois, à compter de la transmission du projet arrêté, leur avis est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-10 (V)
+	  - Code de la construction et de l'habitation. - art. R302-11 (V)
+
+
+###### Article R302-10
+
+Au vu des observations et avis exprimés en application des articles R. 302-8 et R. 302-9, l'organe délibérant de
+l'établissement public de coopération intercommunale délibère à nouveau sur le projet et le transmet au préfet. Celui-ci le
+soumet, pour avis dans un délai de deux mois, au conseil départemental de l'habitat et transmet l'avis de ce dernier à
+l'établissement public de coopération intercommunale.
+
+Lorsqu'il y a lieu, le préfet adresse, dans un délai d'un mois à compter de l'avis du conseil départemental de l'habitat, des
+demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-11 (V)
+
+
+###### Article R302-11
+
+L'établissement public de coopération intercommunale délibère sur les demandes motivées de modifications du préfet et adopte
+par délibération le programme local de l'habitat éventuellement modifié et, si la nature et l'importance des modifications le
+justifient, après consultation des communes et des établissements publics de coopération intercommunale suivant les modalités
+prévues par l'article R. 302-9.
+
+Cette délibération est transmise aux maires des communes membres, aux présidents des établissements publics de coopération
+intercommunale mentionnés au premier alinéa de l'article R. 302-9 et au préfet.
+
+Le programme local de l'habitat adopté accompagné des avis exprimés en application des articles R. 302-9 et R. 302-10 est
+transmis pour information aux personnes morales associées à son élaboration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+###### Article R302-12
+
+Le programme local de l'habitat adopté est tenu à la disposition du public au siège de l'établissement public de coopération
+intercommunale, dans les mairies des communes membres ainsi qu'à la préfecture du ou des départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-13 (V)
+
+
+###### Article R302-13
+
+L'établissement public de coopération intercommunale dresse un bilan annuel de réalisation du programme local de l'habitat et
+décide d'éventuelles adaptations que justifierait l'évolution de la situation sociale, économique ou démographique.
+
+Lorsque les adaptations qui seraient nécessaires remettent en cause l'économie générale du programme local de l'habitat,
+celui-ci est modifié dans les formes prévues pour son établissement.
+
+Le bilan annuel ainsi que les documents portant le contenu des adaptations visées à l'alinéa précédent sont transmis aux
+personnes mentionnées aux deuxième et troisième alinéas de l'article R. 302-11 et tenus à la disposition du public dans les
+conditions visées à l'article R. 302-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
+##### Section 3 : Etablissement d'un programme local de l'habitat par une commune.
+
+###### Article R302-14
+
+Lorsqu'en vertu de l'article L. 302-4-1, une commune élabore seule un programme local de l'habitat, la procédure
+d'élaboration obéit aux dispositions des articles R. 302-3 à R. 302-8, le conseil municipal se substituant à l'organe
+délibérant de l'établissement public de coopération intercommunale et le maire se substituant au président de cet
+établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cité par**:
+
+	  - Décret n°2013-670 du 24 juillet 2013 - art. 6 (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. 1 (V)
+	  - Décret n°2013-671 du 24 juillet 2013 - art. 3 (V)
+	  - Décret n°2017-835 du 5 mai 2017 - art. 1
+	  - Décret n°2017-840 du 5 mai 2017 - art. 1 (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. 3 (V)
+	  - Décret n°2017-840 du 5 mai 2017 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-24 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-28 (T)
+
+
+###### Article R302-15
+
+Au vu des observations recueillies en application de l'article R. 302-8, le conseil municipal délibère à nouveau sur le
+projet et le transmet au préfet. Celui-ci le soumet, pour avis dans un délai de deux mois, au conseil départemental de
+l'habitat et transmet l'avis exprimé par ce conseil à la commune. Lorsqu'il y a lieu, le préfet adresse, dans le délai d'un
+mois à compter de l'avis du conseil départemental de l'habitat, les demandes motivées de modifications formulées en
+application de l'article L. 302-2, cinquième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-29 (T)
+
+
+###### Article R302-16
+
+Le conseil municipal délibère sur les demandes motivées de modifications du préfet et adopte par délibération le programme
+local de l'habitat éventuellement modifié. Le programme local de l'habitat adopté est tenu à la disposition du public à la
+mairie ainsi qu'à la préfecture du département concerné. Il est soumis aux dispositions de l'article R. 302-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-17 (V)
+	  - Code de la construction et de l'habitation. - art. R302-18 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-30 (T)
+
+
+##### Section 6 : Dispositions particulières à certaines agglomérations.
+
+###### Article R302-24
+
+La population mentionnée à l'article L. 302-5, premier alinéa, est la population sans double compte de l'agglomération au
+sens de l'INSEE.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-38 (T)
+
+
+###### Article R302-25
+
+Le nombre de bénéficiaires de prestations visés par l'article L. 302-5 est celui du 30 juin de l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+
+###### Article R302-26
+
+Le nombre de logements locatifs sociaux pris en compte pour l'application de l'article L. 302-8 est calculé en arrondissant
+par défaut au multiple de dix directement inférieur ou égal au nombre résultant de l'application des pourcentages mentionnés
+au premier alinéa dudit article. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+
+	**Créé par**:
+
+	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+
+
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
 
 #### Chapitre Ier : Primes et prêts à la construction.
@@ -51679,6 +52560,8 @@ département ;
 g) Sur toute modification intervenant dans les compétences des organismes d'habitations à loyer modéré exerçant leur activité
 dans le département.
 
+h) Sur les programmes locaux de l'habitat et leur réalisation.
+
 Il exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation en matière d'aide
 personnalisée au logement dans les conditions fixées à l'article R. 362-7.    " La commission spécialisée des rapports
 locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41
@@ -51700,7 +52583,7 @@ ter de la même loi dans les conditions définies par l'article R. 362-20. "
 
 	**Modifié par**:
 
-	  - Décret n°90-779 du 31 août 1990 - art. 1 () JORF 6 septembre 1990
+	  - Décret n°92-459 du 22 mai 1992 - art. 2 () JORF 23 mai 1992
 
 	**Cité par**:
 
