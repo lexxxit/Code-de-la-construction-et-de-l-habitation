@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1989-06-24
+Version Consolidée au 1989-06-29
 
 # Partie législative
 
@@ -1651,6 +1651,137 @@ Un décret en Conseil d'Etat détermine les règles à adopter dans cet esprit p
 	  - Code de la construction et de l'habitation. - art. L161-2 (M)
 
 
+#### Chapitre V : Sécurité de certains équipements d'immeubles par destination.
+
+##### Section 1 : Sécurité des ascenseurs.
+
+###### Article L125-1
+
+L'installation d'ascenseurs dépourvus de portes de cabine est interdite. Les infractions à cette disposition sont constatées,
+poursuivies et sanctionnées selon les règles fixées par les articles L. 152-1 à L. 152-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L152-1 à L152-10
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L152-1 (M)
+	  - Code de la construction et de l'habitation. - art. L152-4 (M)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+
+
+###### Article L125-2
+
+Les cabines d'ascenseurs non pourvues de grille de sécurité extensible ou de porte doivent être munies au plus tard le 31
+décembre 1992 :
+
+" - soit de porte de cabine ;
+
+" - soit d'un dispositif de protection susceptible d'assurer un niveau de protection équivalent à celui résultant de la mise
+en place des portes.
+
+" Ces dispositifs doivent être agréés par le ministre chargé de la construction et de l'habitation et par le ministre chargé
+de l'industrie.
+
+" A compter de cette date, tout propriétaire, locataire ou occupant de l'immeuble peut saisir le juge des référés afin qu'il
+ordonne, éventuellement sous astreintes, la mise en conformité des ascenseurs avec les dispositions prévues à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°92-535 du 16 juin 1992 - art. 1 (V)
+	  - Décret n°92-535 du 16 juin 1992 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L161-2 (M)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+
+
+##### Section 2 : Sécurité des portes automatiques de garage.
+
+###### Article L125-3
+
+L'installation des portes automatiques de garage non conformes aux règles de sécurité en vigueur est interdite. Les
+infractions à ces dispositions sont constatées, poursuivies et sanctionnées selon les règles fixées par les articles L. 152-1
+à L. 152-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+
+
+###### Article L125-4
+
+Les portes automatiques de garage non conformes aux règles de sécurité doivent être mises en conformité au plus tard le 31
+décembre 1991.
+
+A compter de cette date, tout propriétaire, locataire ou occupant de l'immeuble peut saisir le juge des référés pour qu'il
+ordonne, éventuellement sous astreintes, la mise en conformité des portes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°90-567 du 5 juillet 1990 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+
+
+###### Article L125-5
+
+Les règles de sécurité applicables aux portes automatiques de garage, les mesures d'entretien destinées à assurer le respect
+de ces règles, ainsi que les modalités de justification de l'exécution de cette obligation d'entretien sont fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
 
 #### Chapitre II : Etudes et recherches techniques intéressant les industries du bâtiment.
@@ -1742,6 +1873,44 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 
 
 #### Chapitre II : Sanctions pénales.
+
+###### Article L152-1
+
+Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 125-1, L. 125-3 et L. 131-4, sont
+constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des
+collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de l'habitation
+suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à preuve du
+contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. L125-3 (V)
+	  - Code de la construction et de l'habitation. - art. L131-6 (VT)
+	  - Code de la construction et de l'habitation. - art. L152-2 (V)
+	  - Code de la construction et de l'habitation. - art. R152-3 (V)
+	  - Code de procédure pénale - art. 398-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-4 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
+	  - Code de la construction et de l'habitation. - art. L111-9 (M)
+	  - Code de la construction et de l'habitation. - art. L125-1 (M)
+	  - Code de la construction et de l'habitation. - art. L131-4 (M)
+
 
 ###### Article L152-2
 
@@ -2038,44 +2207,6 @@ L. 111-5, L. 111-6, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L. 
 #### Dispositions générales
 
 ##### Sanctions pénales
-
-###### Article L152-1
-
-Les infractions aux dispositions des articles L. 111-4 [*construction et sécurité*], L. 111-7, L. 111-8 L. 111-9
-[*caractéristiques thermiques*] et L. 131-4 [*équipement, fonctionnement et contrôle des installations consommant de
-l'énergie*] sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents
-de l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et
-de l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi
-jusqu'à preuve du contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 30 () JORF 19 juillet 1985
-
-	**Cité par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. L111-10-1 (V)
-	  - Code de la construction et de l'habitation. - art. L125-3 (V)
-	  - Code de la construction et de l'habitation. - art. L131-6 (VT)
-	  - Code de la construction et de l'habitation. - art. L152-2 (V)
-	  - Code de la construction et de l'habitation. - art. R152-3 (V)
-	  - Code de procédure pénale - art. 398-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L111-4 (M)
-	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
-	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
-	  - Code de la construction et de l'habitation. - art. L111-9 (M)
-	  - Code de la construction et de l'habitation. - art. L131-4 (M)
-
 
 ###### Article L152-4
 
