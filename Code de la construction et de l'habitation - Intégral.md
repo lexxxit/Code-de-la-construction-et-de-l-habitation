@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-12-31
+Version Consolidée au 1996-01-01
 
 # Partie législative
 
@@ -42326,6 +42326,189 @@ La non-observation de ces dispositions entraîne la caducité de la décision fa
 	  - Code de l'urbanisme - art. R460-1 (M)
 
 
+###### Article R331-9
+
+I. - Le prix de revient prévisionnel d'une opération de construction neuve, établi à la date de la demande de décision
+favorable, comprend trois éléments :
+
+1° La charge foncière;
+
+2° Le prix de revient du bâtiment ;
+
+3° Les honoraires des architectes et techniciens.
+
+II. - Le prix de revient prévisionnel d'une opération d'acquisition et d'amélioration établi à la date de la demande de
+décision favorable comprend trois éléments :
+
+1° La charge immobilière ;
+
+2° Le coût des travaux ;
+
+3° Les honoraires des architectes et techniciens.
+
+Un arrêté du ministre chargé de la construction et de l'habitation définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 4 janvier 1988 - art. 1 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
+	  - Arrêté du 5 mai 1995 - art. 14 (V)
+	  - Arrêté du 5 mai 1995 - art. 22 (Ab)
+	  - Arrêté du 5 mai 1995 - art. 8 (M)
+	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
+	  - Arrêté du 5 mai 2017 - art. (V)
+	  - Arrêté du 24 février 1978 - art. 5 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-100 (V)
+	  - Code de la construction et de l'habitation. - art. R331-20 (V)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-8 (V)
+	  - Code de la construction et de l'habitation. - art. R331-83 (M)
+	  - Code de la construction et de l'habitation. - art. R331-89 (V)
+	  - Code de la construction et de l'habitation. - art. R381-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°95-637 du 5 mai 1995 - art. 2 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+
+
+###### Article R331-10
+
+Pour le calcul du montant de la subvention de l'Etat ou du prêt, des valeurs de base sont fixées par mètre carré de surface
+utile en construction neuve et en acquisition-amélioration.
+
+La surface utile à prendre en compte est égale à la surface habitable du logement telle que définie à l'article R. 111-2 du
+présent code augmentée de la moitié de la surface des annexes dans les conditions fixées par arrêté du ministre du logement.
+
+Ces valeurs de base sont fixées par arrêté conjoint des ministres chargés de la construction et de l'habitation et des
+finances. Elles sont actualisées au 1er janvier de chaque année en fonction de la variation annuelle de l'indice du coût de
+la construction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 1978 - art. 1 (V)
+	  - Arrêté du 5 mai 1995 - art. 1 (V)
+	  - Arrêté du 5 mai 1995 - art. 14 (V)
+	  - Arrêté du 5 mai 1995 - art. 2 (V)
+	  - Arrêté du 5 mai 1995 - art. 2 bis (V)
+	  - Arrêté du 5 mai 1995 - art. 4 (V)
+	  - Arrêté du 10 juin 1996 - art. 12 (VT)
+	  - Arrêté du 10 juin 1996 - art. 6 (VT)
+	  - Arrêté du 25 mars 1998 - art. 1 (V)
+	  - Arrêté du 25 mars 1998 - art. 2 (V)
+	  - Arrêté du 26 mars 2004 - art. 2 (V)
+	  - Arrêté du 17 octobre 2011 - art. 3 (V)
+	  - Arrêté du 21 mars 1978 - art. 11 (Ab)
+	  - Arrêté du 24 février 1978 - art. 1 (MMN)
+	  - Arrêté du 24 février 1978 - art. 5 (Ab)
+	  - Arrêté du 26 mars 1985 - art. 10 (Ab)
+	  - Arrêté du 29 juillet 1977 - art. 1 (MMN)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code de la construction et de l'habitation. - art. R331-15 (V)
+	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
+	  - Code de la construction et de l'habitation. - art. R331-8 (M)
+	  - Code de la construction et de l'habitation. - art. R353-40 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°95-637 du 5 mai 1995 - art. 3 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-2
+
+
+##### Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis.
+
+###### Article R331-25
+
+En cas de réalisation d'opérations prévues à l'articleR. 331-1(1°, 3° et 4°), une subvention de l'Etat peut être accordée,
+dans les conditions fixées ci-après, pour permettre l'acquisition de terrains destinés à la construction ou l'acquisition
+d'immeubles en vue de leur amélioration. Cette subvention ouvre droit à l'octroi d'un prêt de la Caisse des dépôts et
+consignations.
+
+La subvention au titre de l'acquisition peut être attribuée :
+
+– soit aux collectivités locales et à leurs groupements s'ils s'engagent à céder le terrain ou l'immeuble en toute propriété
+ou à bail emphytéotique, ou à construction à un organisme d'habitations à loyer modéré ou à une société d'économie mixte pour
+la réalisation de travaux de construction ou d'amélioration ;
+
+– soit aux organismes d'habitations à loyer modéré ou aux sociétés d'économie mixte, après avis de la commune concernée,
+s'ils s'engagent à commencer des travaux de construction ou d'amélioration dans un délai de trois ans à compter de la date de
+décision favorable de subvention. Cette décision est prise dans les conditions prévues à l'articleR. 331-6. Le montant de la
+subvention ne peut excéder 12 p. 100 du coût de l'acquisition dans la limite d'un plafond réglementaire. La subvention est
+versée sur justification de l'acte d'acquisition.
+
+Si la déclaration d'ouverture du chantier n'est pas intervenue dans un délai de trois ans à compter de la décision d'octroi
+de la subvention, le représentant de l'Etat dans le département exige le remboursement de la subvention majorée d'une
+indemnité fixée par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances.
+
+Un arrêté des ministres précités fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 9 (Ab)
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 4 janvier 1988 - art. 4 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 7 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 8 (Ab)
+	  - Arrêté du 5 mai 1995 - art. 17 (V)
+	  - Arrêté du 5 mai 1995 - art. 21 (V)
+	  - Arrêté du 5 mai 1995 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. R331-22 (M)
+	  - Code de la construction et de l'habitation. - art. R331-83 (M)
+	  - Code de la construction et de l'habitation. - art. R381-1 (V)
+	  - Code de la construction et de l'habitation. - art. R381-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-637 du 5 mai 1995 - art. 9 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-6 (V)
+
+
 ##### Sous-section 6 : Départements d'outre-mer.
 
 ###### Article R331-28
@@ -42386,10 +42569,12 @@ collectivités locales ou leurs groupements ;
 Dans les limites et conditions fixées par la présente section, et notamment par les articles R. 331-12, R. 331-14, R. 331-15,
 des subventions définies par la sous-section 2 peuvent être accordées pour financer l'acquisition de logements locatifs et le
 cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de
-l'alinéa précédent. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage du prix témoin des opérations
-d'acquisition-amélioration fixé par arrêté des ministres chargés de la construction et de l'habitation et des finances pour
-des zones géographiques déterminées. Ces dispositions s'appliquent également aux logements-foyers dénommés résidences
-sociales et mentionnés à l'article R. 351-55.
+l'alinéa précédent. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage de la valeur de base des
+opérations d'acquisition-amélioration fixée par arrêté des ministres chargés de la construction et de l'habitation et des
+finances pour les zones géographiques déterminées.
+
+Ces dispositions s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R.
+351-55.
 
 **Liens relatifs à cet article**
 
@@ -42496,10 +42681,11 @@ sociales et mentionnés à l'article R. 351-55.
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°94-1128 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
+	  - Décret n°95-637 du 5 mai 1995 - art. 1 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 	**Cite**:
 
@@ -42633,155 +42819,6 @@ Un arrêté du ministre chargé de la construction et de l'habitation fixe les m
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-
-
-###### Article R331-9
-
-I. - Le prix de revient prévisionnel d'une opération de construction neuve, établi à la date de la demande de décision
-favorable, comprend trois éléments :
-
-" 1° La charge foncière prise en compte dans la limite d'une charge foncière de référence ;
-
-" 2° Le prix de revient du bâtiment ;
-
-" 3° Les honoraires des architectes et techniciens.
-
-" II. - Le prix de revient prévisionnel d'une opération d'acquisition et d'amélioration établi à la date de la demande de
-décision favorable comprend trois éléments :
-
-" 1° La charge immobilière ;
-
-" 2° Le coût des travaux ;
-
-" 3° Les honoraires des architectes et techniciens.
-
-" Un arrêté du ministre chargé de la construction et de l'habitation définit les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Arrêté du 4 janvier 1988 - art. 1 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
-	  - Arrêté du 5 mai 1995 - art. 14 (V)
-	  - Arrêté du 5 mai 1995 - art. 22 (Ab)
-	  - Arrêté du 5 mai 1995 - art. 8 (M)
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-	  - Arrêté du 5 mai 2017 - art. (V)
-	  - Arrêté du 24 février 1978 - art. 5 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-100 (V)
-	  - Code de la construction et de l'habitation. - art. R331-20 (V)
-	  - Code de la construction et de l'habitation. - art. R331-24 (M)
-	  - Code de la construction et de l'habitation. - art. R331-8 (V)
-	  - Code de la construction et de l'habitation. - art. R331-83 (M)
-	  - Code de la construction et de l'habitation. - art. R331-89 (V)
-	  - Code de la construction et de l'habitation. - art. R381-4 (V)
-
-
-###### Article R331-10
-
-Une opération de construction neuve ou d'acquisition-amélioration ne peut faire l'objet d'une décision favorable que si son
-prix de revient prévisionnel n'est pas supérieur à un prix de référence calculé en fonction des caractéristiques des
-logements, de leur qualité et des sujétions rencontrées par l'opération, suivant des règles fixées par un arrêté du ministre
-chargé de la construction et de l'habitation. Toutefois, des dépassements aux prix de références peuvent être autorisés pour
-des opérations à caractère expérimental, ou soumises à des contraintes architecturales spécifiques ou présentant des éléments
-particuliers de qualité non pris en compte pour le calcul du prix de référence, dans des conditions fixées par arrêté du
-ministre chargé de la construction et de l'habitation.
-
-Ce prix de référence ne peut s'écarter de plus de 33 p. 100 [*pourcentage*] de la somme des prix témoins des logements
-composant l'opération.
-
-Les prix témoins des logements sont fixés par arrêté conjoint des ministres chargés de la construction et de l'habitation et
-des finances et révisés dans les mêmes formes, annuellement, compte tenu de l'évolution des coûts et de l'amélioration de la
-productivité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 21 mars 1978 - art. 1 (V)
-	  - Arrêté du 5 mai 1995 - art. 1 (V)
-	  - Arrêté du 5 mai 1995 - art. 14 (V)
-	  - Arrêté du 5 mai 1995 - art. 2 (V)
-	  - Arrêté du 5 mai 1995 - art. 2 bis (V)
-	  - Arrêté du 5 mai 1995 - art. 4 (V)
-	  - Arrêté du 10 juin 1996 - art. 12 (VT)
-	  - Arrêté du 10 juin 1996 - art. 6 (VT)
-	  - Arrêté du 25 mars 1998 - art. 1 (V)
-	  - Arrêté du 25 mars 1998 - art. 2 (V)
-	  - Arrêté du 26 mars 2004 - art. 2 (V)
-	  - Arrêté du 17 octobre 2011 - art. 3 (V)
-	  - Arrêté du 21 mars 1978 - art. 11 (Ab)
-	  - Arrêté du 24 février 1978 - art. 1 (MMN)
-	  - Arrêté du 24 février 1978 - art. 5 (Ab)
-	  - Arrêté du 26 mars 1985 - art. 10 (Ab)
-	  - Arrêté du 29 juillet 1977 - art. 1 (MMN)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
-	  - Code de la construction et de l'habitation. - art. R331-15 (V)
-	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
-	  - Code de la construction et de l'habitation. - art. R331-8 (M)
-	  - Code de la construction et de l'habitation. - art. R353-40 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-
-###### Article R331-11
-
-Des opérations de construction neuve dont la charge foncière réelle est supérieure à la charge foncière de référence et des
-opérations d'acquisition-amélioration dont le prix de revient prévisionnel est supérieur au prix de référence peuvent faire
-l'objet d'une décision favorable dans des conditions fixées par arrêté des ministres chargés de la construction et de
-l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Cité par**:
-
-	  - Arrêté du 4 janvier 1988 - art. 1 (Ab)
-	  - Arrêté du 24 février 1978 - art. 6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-24 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°95-637 du 5 mai 1995 - art. 4 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 
 ###### Article R331-12
@@ -42949,16 +42986,21 @@ L'octroi de ces subventions est subordonné à la passation par le demandeur d'u
 
 Le montant de la subvention de l'Etat est déterminé selon les modalités suivantes :
 
-1° L'assiette de la subvention est :
+1° L'assiette de la subvention de l'Etat est égale, à la date de la décision d'octroi, au produit de la valeur de base prévue
+à l'article R. 331-10 du présent code par la superficie de l'opération, exprimée en mètre carré de surface utile définie à
+l'article R. 331-10 du présent code en construction neuve et en acquisition-amélioration, majorée ou minorée en fonction de
+sa structure et notamment de la taille moyenne des logements, selon des modalités fixées par arrêté conjoint des ministres
+chargés de la construction et de l'habitation et des finances.
 
-- à la date de la décision d'octroi, le prix de revient prévisionnel de l'opération pris en compte dans la limite de 90 p.
-100 du prix de référence majoré des révisions de prix correspondant à une durée forfaitaire d'exécution des travaux ;
+L'assiette de la subvention de l'Etat ainsi définie est majorée le cas échéant en fonction de la qualité des logements et des
+sujétions rencontrées par l'opération, dans la limite totale de 30 p. 100 en construction neuve et 25 p. 100 en acquisition-
+amélioration, et dans des conditions fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
-- à la date d'achèvement des travaux, le prix de revient réel de l'opération pris en compte dans la limite de 90 p. 100 du
-prix de référence recalculé à cette date et majoré des révisions de prix correspondant à une durée forfaitaire d'exécution
-des travaux.
+L'assiette de la subvention de l'Etat peut être majorée d'un coût forfaitaire pour création de garages dont les montants
+unitaires sont fixés par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances et
+actualisés au 1er janvier de chaque année en fonction de la variation annuelle de l'indice du coût de la construction.
 
-2° Le taux de la subvention est au plus égal à 12,7 p. 100 de cette assiette.
+2° Le taux de la subvention est au plus égal à 12 p. 100 de cette assiette.
 
 Il peut être porté :
 
@@ -42976,7 +43018,7 @@ d'application du présent article.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -43007,11 +43049,12 @@ d'application du présent article.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°94-549 du 30 juin 1994 - art. 2 () JORF 2 juillet 1994
+	  - Décret n°95-637 du 5 mai 1995 - art. 5 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+	  - Décret n°95-637 du 5 mai 1995 - art. 6 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 
 ###### Article R331-16
@@ -43175,27 +43218,24 @@ et R. 312-1.
 
 ###### Article R331-19
 
-Le montant des prêts accordés par le Crédit foncier de France aux bénéficiaires mentionnés à l'article R. 331-17 ne peut,
-dans la limite des prix de revient réel, dépasser 65 p. 100 [*pourcentage*] du prix de référence de l'opération majoré, le
-cas échéant, du dépassement éventuel pour opération expérimentale dans la limite du plafond et des révisions de prix
-correspondant à une durée forfaitaire d'exécution des travaux définie à compter de la décision favorable. Les autres
-dépassements autorisés ne sont pas financés par les prêts prévus à l'article R. 331-1. Un arrêté conjoint des ministres
-chargés de la construction et de l'habitation et des finances fixe les conditions d'application du présent article.
+La quotité maximum des prêts accordés par le Crédit foncier de France aux bénéficiaires mentionnés à l'article R. 331-17 est
+égale à 70 p. 100 de l'assiette de subvention calculée conformément au 1° de l'article R. 331-15 du présent code. Un arrêté
+conjoint des ministres chargés de la construction et de l'habitation et des finances fixe les conditions d'application du
+présent article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°95-637 du 5 mai 1995 - art. 7 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 	**Cité par**:
 
@@ -43208,7 +43248,7 @@ chargés de la construction et de l'habitation et des finances fixe les conditio
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-15 (M)
 	  - Code de la construction et de l'habitation. - art. R331-17 (M)
 
 
@@ -43380,61 +43420,62 @@ Crédit foncier de France. Cette aide prend la forme de subventions.
 
 ###### Article R331-24
 
-I. - Des subventions de l'Etat au titre du dépassement du prix de référence prévu à l'article R. 331-11 peuvent être
-accordées :
+I. - Des subventions foncières peuvent être accordées :
 
-" 1° Aux collectivités locales et aux groupements de collectivités locales lorsqu'ils acquièrent ou ont acquis depuis moins
-de trois ans [*durée*] à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et
-s'engagent à le céder en toute propriété ou à bail emphytéotique ou à construction à l'une des personnes visées à l'article
-R. 331-14 pour la réalisation de travaux de construction, de transformation et d'aménagement, ou d'amélioration répondant aux
-conditions prévues aux articles R. 331-8 à R. 331-11 ;
+1° Aux collectivités locales et aux groupements de collectivités locales lorsqu'ils acquièrent ou ont acquis depuis moins de
+trois ans à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à
+le céder en toute propriété ou à bail emphytéotique ou à construction à l'une des personnes visées à l'article R. 331-14 pour
+la réalisation de travaux de construction, de transformation et d'aménagement, ou d'amélioration répondant aux conditions
+prévues aux articles R. 331-8 et R. 331-9.
 
-" 2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont acquis depuis moins de trois ans à la date de
+2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont acquis depuis moins de trois ans à la date de
 la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à réaliser des travaux
-de construction, de transformation et d'aménagement, ou d'amélioration répondant aux conditions posées par les articles R.
-331-8 à R. 331-11.
+de construction ou d'amélioration répondant aux conditions prévues aux articles R. 331-8 et R. 331-9.
 
-" Une fraction du dépassement au moins égale à 20 p. 100 [*pourcentage*] de son montant doit être prise en charge par une
-collectivité locale ou un groupement de collectivités locales.
+II. - Des opérations peuvent bénéficier d'une subvention foncière lorsque la charge foncière en construction neuve ou le coût
+global de l'opération en acquisition-amélioration dépasse la valeur foncière de référence multipliée par la surface utile de
+l'opération. La valeur foncière de référence servant à fixer le seuil de déclenchement de la subvention foncière est exprimée
+en francs par mètre carré de surface utile définie à l'article R. 331-10 du présent code pour les opérations de construction
+neuve et d'acquisition-amélioration. Une fraction du dépassement au moins égale à 20 p. 100 de son montant doit être prise en
+charge par une collectivité locale ou un groupement de collectivités locales.
 
-" Le montant de la subvention de l'Etat ne peut dépasser :
+Le montant de la subvention de l'Etat ne peut dépasser :
 
-" - pour les opérations de construction neuve ou assimilées :
+- pour les opérations de construction neuve ou assimilées :
 
-" - ni 50 p. 100 du dépassement ;
+- ni 50 p. 100 du dépassement ;
 
-" - ni le montant de la charge foncière de référence.
+- ni le montant de la valeur foncière de référence multiplié par la surface utile de l'opération ;
 
-" - pour les opérations d'acquisition-amélioration ou assimilées :
+- pour les opérations d'acquisition-amélioration ou assimilées :
 
-" - ni 50 p. 100 du dépassement ;
+- ni 50 p. 100 du dépassement ;
 
-" - ni 20 p. 100 du prix de référence.
+- ni 20 p. 100 du montant de la valeur foncière de référence multiplié par la surface utile de l'opération ;
 
-" - pour les opérations d'acquisition-amélioration ou assimilées portant sur des immeubles déclarés insalubres en application
+- pour les opérations d'acquisition-amélioration ou assimilées portant sur des immeubles déclarés insalubres en application
 de la loi n° 70-612 du 10 juillet 1970 :
 
-" - ni 75 p. 100 du dépassement ;
+- ni 75 p. 100 du dépassement ;
 
-" - ni 30 p. 100 du prix de référence.
+- ni 30 p. 100 du montant de la valeur foncière de référence multiplié par la surface utile de l'opération.
 
-" II. - Les modalités de détermination et d'octroi de la subvention sont fixées par arrêté conjoint des ministres chargés de
-la construction, de l'habitation et des finances.
+Les modalités de détermination et d'octroi de la subvention sont fixées par arrêté conjoint des ministres chargés de la
+construction et de l'habitation et des finances.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°70-612 1970-07-10
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (M)
+	  - Code de la construction et de l'habitation. - art. R331-8 (M)
+	  - Code de la construction et de l'habitation. - art. R331-9 (M)
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -43460,82 +43501,13 @@ la construction, de l'habitation et des finances.
 	  - Code de la construction et de l'habitation. - art. R381-4 (V)
 	  - Code de la construction et de l'habitation. - art. R381-6 (V)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation R331-11, R331-8, R331-14 R331-9, R331-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R331-11 (M)
-	  - Code de la construction et de l'habitation. - art. R331-8 (M)
-
-
-###### Article R331-25
-
-En cas de réalisation d'opérations prévues à l'article R. 331-1 (1°, 3° et 4°), une subvention de l'Etat peut être accordée,
-dans les conditions fixées ci-après, pour permettre l'acquisition de terrains destinés à la construction ou l'acquisition
-d'immeubles en vue de leur amélioration. Cette subvention ouvre droit à l'octroi d'un prêt de la Caisse des dépôts et
-consignations.
-
-" La subvention au titre de l'acquisition peut être attribuée :
-
-" - soit aux collectivités locales et à leurs groupements s'ils s'engagent à céder le terrain ou l'immeuble en toute
-propriété ou à bail emphytéotique, ou à construction à un organisme d'habitations à loyer modéré ou à une société d'économie
-mixte pour la réalisation de travaux de construction ou d'amélioration ;
-
-" - soit aux organismes d'habitations à loyer modéré ou aux sociétés d'économie mixte, après avis de la commune concernée,
-s'ils s'engagent à commencer des travaux de construction ou d'amélioration dans un délai de trois ans à compter de la date de
-décision favorable de subvention. Cette décision est prise dans les conditions prévues à l'article R. 331-6. Le montant de la
-subvention ne peut excéder 12,7 p. 100 [*pourcentage*] du coût de l'acquisition dans la limite d'un plafond réglementaire. La
-subvention est versée sur justification de l'acte d'acquisition.
-
-" Si la déclaration d'ouverture du chantier n'est pas intervenue dans un délai de trois ans à compter de la décision d'octroi
-de la subvention, le représentant de l'Etat dans le département exige le remboursement de la subvention majorée d'une
-indemnité fixée par arrêté des ministres chargés de la construction et de l'habitation et des finances.
-
-" Un arrêté des ministres précités fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - SPEC_APPLI: Décret n°95-637 du 5 mai 1995 - art. 10 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 10 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 6 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 7 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 8 (Ab)
-	  - TXT_SOURCE: Arrêté du 4 janvier 1988 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 4 janvier 1988 - art. 4 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 7 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 8 (Ab)
-	  - Arrêté du 5 mai 1995 - art. 17 (V)
-	  - Arrêté du 5 mai 1995 - art. 21 (V)
-	  - Arrêté du 5 mai 1995 - art. 9 (V)
-	  - Code de la construction et de l'habitation. - art. R331-22 (M)
-	  - Code de la construction et de l'habitation. - art. R331-83 (M)
-	  - Code de la construction et de l'habitation. - art. R381-1 (V)
-	  - Code de la construction et de l'habitation. - art. R381-4 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+	  - Décret n°95-637 du 5 mai 1995 - art. 8 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 
 ##### Sous-section 5 : Sanctions.
