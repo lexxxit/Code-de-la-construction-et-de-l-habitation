@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-01-30
+Version Consolidée au 1990-02-17
 
 # Partie législative
 
@@ -34499,25 +34499,28 @@ dispositions de la présente section.
 Peuvent bénéficier d'une subvention de l'Etat, lorsqu'ils exécutent des travaux d'amélioration dans les logements à usage
 locatif dont ils sont propriétaires ou gestionnaires :
 
-" 1° Les organismes d'habitations à loyer modéré ;
+1° Les organismes d'habitations à loyer modéré ;
 
-" 2° Les établissements publics à caractère administratif sous tutelle des collectivités locales et gestionnaires de
+2° Les établissements publics à caractère administratif sous tutelle des collectivités locales et gestionnaires de
 logements ;
 
-" 3° Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires de
+3° Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires de
 logements ;
 
-" 4° Les houillères de bassin ;
+4° Les houillères de bassin ;
 
-" 5° Les sociétés d'économie mixte ayant dans leur objet statutaire la réalisation de logements ;
+5° Les sociétés d'économie mixte ayant dans leur objet statutaire la réalisation de logements ;
 
-" 6° Les sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations ;
+6° Les sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations ;
 
-" 7° La société immobilière du chemin de fer ;
+7° La société immobilière du chemin de fer ;
 
-" 8° Les sociétés minières et immobilières gérant le patrimoine immobilier des mines de fer ;
+8° Les sociétés minières et immobilières gérant le patrimoine immobilier des mines de fer ;
 
-" 9° Les personnes morales propriétaires de cités familiales.
+9° Les personnes morales propriétaires de cités familiales.
+
+10° Les organismes dont l'un des objets est de contribuer au logement des personnes défavorisées et agréés à cette fin par le
+représentant de l'Etat dans le département.
 
 **Nota:**
 
@@ -34533,11 +34536,7 @@ section 2.*]
 
 	**Modifié par**:
 
-	  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+	  - Décret n°90-152 du 16 février 1990 - art. 1 () JORF 17 février 1990
 
 	**Cité par**:
 
@@ -36107,6 +36106,162 @@ La présente section n'est pas applicable aux départements d'outre-mer.
 
 ##### Sous-section 1 : Dispositions communes.
 
+###### Article R331-1
+
+Dans les limites et conditions fixées par la présente section, des subventions et des prêts définis par les sous-sections 2
+et 3 ci-après peuvent être accordés pour financer :
+
+" 1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
+construction de ces logements ;
+
+" 2° La construction de logements à usage locatif ;
+
+" 3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
+d'amélioration correspondants ;
+
+" 4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
+
+" 5° Les terrains, droits immobiliers, logements ou immeubles acquis par des organismes d'habitations à loyer modéré, des
+sociétés d'économie mixte ou des collectivités locales ou leurs groupements ainsi que les travaux de construction, de
+transformation ou d'amélioration à réaliser sur ces terrains, logements ou immeubles, à condition que les biens concernés
+aient été acquis depuis moins de dix ans à la date de la demande du prêt et qu'ils n'aient pas précédemment bénéficié de
+financement au titre du chapitre Ier du titre Ier du livre III ou du livre IV (première partie) ;
+
+" 6° Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
+collectivités locales ou leurs groupements ;
+
+" 7° Les travaux de transformation ou d'aménagement en logements de locaux ou d'immeubles non affectés à cet usage ;
+
+" 8° La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux
+collectifs à usage commun, annexes dans des limites fixées par arrêté du ministre chargé de la construction et de
+l'habitation ;
+
+" 9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
+
+" Dans les limites et conditions fixées par la présente section, des subventions définies par la sous-section 2 peuvent être
+accordées pour financer l'acquisition de logements locatifs et, le cas échéant, les travaux d'amélioration. Les dispositions
+des articles R. 331-9 à R. 331-11 et R. 331-24 relatives aux opérations d'acquisition-amélioration sont applicables à ces
+logements, y compris en l'absence de travaux. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage du
+prix témoin des opérations d'acquisition-amélioration fixé par arrêté des ministres chargés de la construction et de
+l'habitation et des finances pour des zones géographiques déterminées. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 28 août 1979 - art. 1 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
+	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
+	  - Arrêté du 29 juillet 1987 - art. Annexe II (V)
+	  - Arrêté du 23 juillet 1987 - art. 1 (V)
+	  - Arrêté du 4 janvier 1988 - art. 1 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 3 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 4 (Ab)
+	  - Arrêté du 4 janvier 1988 - art. 5 (Ab)
+	  - Arrêté du 29 juin 1990 - art. 3 (V)
+	  - Arrêté du 16 mars 1992 - art. 1 (Ab)
+	  - Arrêté du 5 mai 1995 - art. 17 (V)
+	  - Arrêté du 5 mai 1995 - art. 3 (Ab)
+	  - Arrêté du 5 mai 1995 - art. 8 (V)
+	  - Arrêté du 6 mars 2001 - art. 2 (Ab)
+	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
+	  - Arrêté du 18 mars 2002 - art. 2 (V)
+	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-1 (V)
+	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-2 (V)
+	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
+	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
+	  - Arrêté du 5 mai 2017 - art. (V)
+	  - Arrêté du 5 mai 2017 - art. 5 (V)
+	  - Arrêté du 13 mars 1979 - art. 2 (Ab)
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Arrêté du 4 septembre 1986 - art. 1 (M)
+	  - Code de l'urbanisme - art. L331-7 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. L445-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*313-15 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-23 (M)
+	  - Code de la construction et de l'habitation. - art. R*313-31 (M)
+	  - Code de la construction et de l'habitation. - art. R255-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-20-2 (V)
+	  - Code de la construction et de l'habitation. - art. R313-7 (V)
+	  - Code de la construction et de l'habitation. - art. R323-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. R323-4 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R331-101 (V)
+	  - Code de la construction et de l'habitation. - art. R331-12 (V)
+	  - Code de la construction et de l'habitation. - art. R331-13 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-15 (V)
+	  - Code de la construction et de l'habitation. - art. R331-17 (V)
+	  - Code de la construction et de l'habitation. - art. R331-18 (M)
+	  - Code de la construction et de l'habitation. - art. R331-19 (M)
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+	  - Code de la construction et de l'habitation. - art. R331-21 (M)
+	  - Code de la construction et de l'habitation. - art. R331-22 (M)
+	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-25 (V)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-26 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-27 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-28 (M)
+	  - Code de la construction et de l'habitation. - art. R331-3 (V)
+	  - Code de la construction et de l'habitation. - art. R331-30 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-5 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+	  - Code de la construction et de l'habitation. - art. R331-8 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-90 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+	  - Code de la construction et de l'habitation. - art. R381-3 (V)
+	  - Code de la construction et de l'habitation. - art. R381-4 (V)
+	  - Code de la construction et de l'habitation. - art. R433-20 (V)
+	  - Code de la construction et de l'habitation. - art. R433-21 (V)
+	  - Code de la construction et de l'habitation. - art. R433-22 (V)
+	  - Code de la construction et de l'habitation. - art. R433-23 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 199 novovicies (V)
+	  - Code général des impôts, CGI. - art. 199 septvicies (V)
+	  - Code général des impôts, CGI. - art. 244 quater J (VD)
+	  - Code général des impôts, CGI. - art. 257 (V)
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 3 (VT)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 4 (M)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-151 du 16 février 1990 - art. 1 () JORF 17 février 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-11 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+
+
 ###### Article R331-5
 
 Ne peuvent donner lieu au bénéfice des subventions et des prêts définis par la présente section :
@@ -36190,6 +36345,49 @@ l'équipement ; la décision est prise par le représentant de l'Etat dans le d�
 	  - Code des assurances - art. R426-3 (V)
 	  - Code général des impôts, CGI. - art. 1585 D (VT)
 	  - Code général des impôts, CGI. - art. 278 sexies (V)
+
+
+###### Article R331-8
+
+Les logements construits à l'aide des subventions ou des prêts prévus à l'article R. 331-1 doivent présenter un niveau
+minimum de qualité.
+
+Les logements acquis ou améliorés à l'aide de ces subventions ou prêts doivent respecter des normes minimales d'habitabilité.
+Le montant des travaux d'amélioration doit être au moins égal à une fraction du prix de revient prévisionnel, défini à
+l'article R. 331-10, fixée par arrêté des ministres chargés de la construction et de l'habitation et des finances. Toutefois,
+cette dernière disposition n'est pas applicable aux logements mentionnés au deuxième alinéa de l'article R. 331-1.
+
+Un arrêté du ministre chargé de la construction et de l'habitation fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-151 du 16 février 1990 - art. 2 () JORF 17 février 1990
+
+	**Cité par**:
+
+	  - Arrêté du 5 mai 1995 - art. 8 (V)
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R331-21 (M)
+	  - Code de la construction et de l'habitation. - art. R331-22 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
+	  - Code de la construction et de l'habitation. - art. R331-26 (M)
+	  - Code de la construction et de l'habitation. - art. R331-27 (M)
+	  - Code de la construction et de l'habitation. - art. R331-80 (V)
+	  - Code de la construction et de l'habitation. - art. R331-83 (V)
+	  - Code de la construction et de l'habitation. - art. R331-99 (V)
+	  - Code de la construction et de l'habitation. - art. R351-56 (V)
+	  - Code de la construction et de l'habitation. - art. R391-1 (V)
+	  - Code de la construction et de l'habitation. - art. R391-5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 
 ###### Article R331-9
@@ -36341,6 +36539,74 @@ l'habitation et des finances.
 	  - Décret n°95-637 du 5 mai 1995 - art. 4 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
 
 
+###### Article R331-12
+
+Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des logements destinés à être occupés par des
+personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un
+arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Toutefois, pour les logements
+mentionnés au deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut excéder 60 p.
+100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département.
+Les bailleurs doivent être en mesure de justifier du respect de cette obligation.
+
+Cet arrêté fixe également les modalités de contrôle des ressources.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
+	  - Arrêté du 29 juillet 1987 - art. 1 (VD)
+	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
+	  - Arrêté du 29 juillet 1987 - art. Annexe II (V)
+	  - Arrêté du 16 mars 1992 - art. 2 (M)
+	  - Arrêté du 16 mars 1992 - art. 4 (M)
+	  - Arrêté du 6 mars 2001 - art. 3 (Ab)
+	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
+	  - Arrêté du 3 mai 2002 - art. 1 (M)
+	  - Arrêté du 26 mars 2004 - art. 5 (V)
+	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
+	  - Arrêté du 3 juin 2010 - art. 3 (V)
+	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
+	  - Arrêté du 22 décembre 2015 - art.
+	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
+	  - Code de la construction et de l'habitation. - art. R*472-3 (V)
+	  - Code de la construction et de l'habitation. - art. R255-2 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R322-12 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (M)
+	  - Code de la construction et de l'habitation. - art. R353-11 (V)
+	  - Code de la construction et de l'habitation. - art. R353-16 (V)
+	  - Code de la construction et de l'habitation. - art. R353-163 (V)
+	  - Code de la construction et de l'habitation. - art. R353-65 (V)
+	  - Code de la construction et de l'habitation. - art. R353-93 (V)
+	  - Code de la construction et de l'habitation. - art. R381-4 (V)
+	  - Code de la construction et de l'habitation. - art. R391-8 (M)
+	  - Code de la construction et de l'habitation. - art. R441-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. R523-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
+	  - TXT_SOURCE: Arrêté du 12 août 1992
+	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-151 du 16 février 1990 - art. 3 () JORF 17 février 1990
+
+
 ###### Article R331-13
 
 Le ministre chargé des finances est autorisé à passer avec la Caisse des dépôts et consignations et le Crédit foncier de
@@ -36367,6 +36633,71 @@ France les conventions nécessaires à l'application de la présente section.
 
 
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat ouvrant droit à des prêts accordés par la Caisse des dépôts et consignations.
+
+###### Article R331-14
+
+Les subventions de l'Etat octroyées dans les conditions prévues aux articles R. 331-3 et R. 331-6 ouvrent droit à des prêts
+accordés par la Caisse des dépôts et consignations. Ces subventions et ces prêts peuvent être attribués à
+[*bénéficiaires*] :
+
+1° Des offices publics d'habitations à loyer modéré, des offices publics d'aménagement et de construction, des sociétés
+anonymes d'habitations à loyer modéré ;
+
+2° Des sociétés d'économie mixte ayant pour objet statutaire la réalisation de logements.
+
+3° Pour les logements mentionnés au deuxième alinéa de l'article R. 331-1, des collectivités territoriales ou leurs
+groupements et des organismes dont l'un des objets est de contribuer au logement des personnes défavorisées et agréés à cette
+fin par le représentant de l'Etat dans le département.
+
+L'octroi de ces subventions est subordonné à la passation par le demandeur d'une convention prévue au 3° de l'article L.
+351-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
+	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
+	  - Arrêté du 27 septembre 1991 - art. 2 (VT)
+	  - Arrêté du 16 mars 1992 - art. 12 (M)
+	  - Arrêté du 16 mars 1992 - art. 7 (M)
+	  - Arrêté du 18 mars 2002 - art. 2 (V)
+	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-12 (V)
+	  - Code de la construction et de l'habitation. - art. R331-18 (V)
+	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
+	  - Code de la construction et de l'habitation. - art. R331-6 (V)
+	  - Code de la construction et de l'habitation. - art. R331-86 (V)
+	  - Code de la construction et de l'habitation. - art. R331-97 (V)
+	  - Code de la construction et de l'habitation. - art. R353-90 (V)
+	  - Code de la construction et de l'habitation. - art. R381-1 (V)
+	  - Code de la construction et de l'habitation. - art. R391-3 (M)
+	  - Code de la construction et de l'habitation. - art. R452-24-1 (Ab)
+	  - Code du domaine de l'Etat - art. R148-9 (Ab)
+	  - Code général de la propriété des personnes publ... - art. R3211-17 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-17-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-17-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-32-8 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-151 du 16 février 1990 - art. 4 () JORF 17 février 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-3 (M)
+
 
 ###### Article R331-15
 
@@ -37662,6 +37993,67 @@ prévisionnels.
 
 ##### Sous-section 2 : Caractéristiques des prêts.
 
+###### Article R331-53
+
+Pour les logements réalisés dans les conditions prévues à l'article R. 331-48, les prêts aidés par l'Etat peuvent atteindre
+90 p. 100 du prix de revient de l'opération. Toutefois, leurs montants ne peuvent dépasser des plafonds de prêts déterminés
+en fonction de la composition du ménage du bénéficiaire et de la localisation des logements.
+
+Pour les logements réalisés dans les conditions prévues à l'article R. 331-49, les prêts aidés par l'Etat peuvent atteindre
+90 p. 100 du prix de vente du logement défini à l'article R. 331-52 5°. Toutefois, leurs montants ne peuvent dépasser des
+plafonds de prêts déterminés en fonction de la composition du ménage du bénéficiaire et de la localisation des logements.
+
+Les modalités d'application du présent article sont fixées par arrêté des ministres chargés de la construction et de
+l'habitation, et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 28 août 1979 - art. 5 (V)
+	  - Décret n°85-839 du 7 août 1985 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-39 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59 (V)
+	  - Code de la construction et de l'habitation. - art. R331-59-17 (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-150 du 16 février 1990 - art. 1 () JORF 17 février 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+	  - Code de la construction et de l'habitation. - art. R331-49 (M)
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
+
+
+###### Article R331-53-1
+
+Le prêt mentionné à l'article R. 331-32 ne peut être attribué qu'aux personnes justifiant d'un apport personnel d'au moins 10
+p. 100 du prix de revient des opérations mentionnées à l'article R. 331-48 ou du prix de vente du logement défini à l'article
+R. 331-52 5°. L'apport personnel ne peut être constitué par emprunt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°90-150 du 16 février 1990 - art. 2 () JORF 17 février 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-48 (M)
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
+
+
 ###### Article R331-54-1
 
 Lorsqu'ils sont consentis à taux révisables, les prêts sont soumis aux conditions suivantes :
@@ -38046,6 +38438,32 @@ solde du prêt qui est alors débloqué aux conditions fixées par l'article R. 
 	  - Code de la construction et de l'habitation. - art. R331-59 (M)
 	  - Code de la construction et de l'habitation. - art. R331-59-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
+
+
+###### Article R331-59-6
+
+Le prêt accordé est au plus égal à 90 p. 100 du prix de vente de chaque logement concerné résultant de l'application des
+dispositions de l'article R. 331-52 à la date de la décision de maintien ou de transfert. Toutefois, il est limité au montant
+du prêt que pourrait obtenir un ménage dont la composition correspond au type de logement susvisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°90-150 du 16 février 1990 - art. 3 () JORF 17 février 1990
+
+	**Cité par**:
+
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-59-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-52 (M)
 
 
 ###### Article R331-59-7
@@ -39609,343 +40027,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 #### Chapitre unique.
 
-##### SECTION I : Subventions et prêts pour la construction , l'acquisition et l'amélioration des logements locatifs aidés
-
-##### SOUS-SECTION I : Dispositions communes.
-
-###### Article R331-1
-
-Dans les limites et conditions fixées par la présente section, des subventions et des prêts définis par les sous-sections 2
-et 3 ci-après peuvent être accordés pour financer :
-
-" 1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
-construction de ces logements ;
-
-" 2° La construction de logements à usage locatif ;
-
-" 3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
-d'amélioration correspondants ;
-
-" 4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
-
-" 5° Les terrains, droits immobiliers, logements ou immeubles acquis par des organismes d'habitations à loyer modéré, des
-sociétés d'économie mixte ou des collectivités locales ou leurs groupements ainsi que les travaux de construction, de
-transformation ou d'amélioration à réaliser sur ces terrains, logements ou immeubles, à condition que les biens concernés
-aient été acquis depuis moins de dix ans à la date de la demande du prêt et qu'ils n'aient pas précédemment bénéficié de
-financement au titre du chapitre Ier du titre Ier du livre III ou du livre IV (première partie) ;
-
-" 6° Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
-collectivités locales ou leurs groupements ;
-
-" 7° Les travaux de transformation ou d'aménagement en logements de locaux ou d'immeubles non affectés à cet usage ;
-
-" 8° La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux
-collectifs à usage commun, annexes dans des limites fixées par arrêté du ministre chargé de la construction et de
-l'habitation ;
-
-" 9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 28 août 1979 - art. 1 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
-	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
-	  - Arrêté du 29 juillet 1987 - art. Annexe II (V)
-	  - Arrêté du 23 juillet 1987 - art. 1 (V)
-	  - Arrêté du 4 janvier 1988 - art. 1 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 3 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 4 (Ab)
-	  - Arrêté du 4 janvier 1988 - art. 5 (Ab)
-	  - Arrêté du 29 juin 1990 - art. 3 (V)
-	  - Arrêté du 16 mars 1992 - art. 1 (Ab)
-	  - Arrêté du 5 mai 1995 - art. 17 (V)
-	  - Arrêté du 5 mai 1995 - art. 3 (Ab)
-	  - Arrêté du 5 mai 1995 - art. 8 (V)
-	  - Arrêté du 6 mars 2001 - art. 2 (Ab)
-	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
-	  - Arrêté du 18 mars 2002 - art. 2 (V)
-	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-1 (V)
-	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-2 (V)
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
-	  - Arrêté du 5 mai 2017 - art. (V)
-	  - Arrêté du 5 mai 2017 - art. 5 (V)
-	  - Arrêté du 13 mars 1979 - art. 2 (Ab)
-	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
-	  - Arrêté du 4 septembre 1986 - art. 1 (M)
-	  - Code de l'urbanisme - art. L331-7 (VD)
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-	  - Code de la construction et de l'habitation. - art. L445-2 (VD)
-	  - Code de la construction et de l'habitation. - art. R*313-15 (M)
-	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-23 (M)
-	  - Code de la construction et de l'habitation. - art. R*313-31 (M)
-	  - Code de la construction et de l'habitation. - art. R255-2 (V)
-	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. R313-20-2 (V)
-	  - Code de la construction et de l'habitation. - art. R313-7 (V)
-	  - Code de la construction et de l'habitation. - art. R323-23 (Ab)
-	  - Code de la construction et de l'habitation. - art. R323-4 (V)
-	  - Code de la construction et de l'habitation. - art. R331-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R331-101 (V)
-	  - Code de la construction et de l'habitation. - art. R331-12 (V)
-	  - Code de la construction et de l'habitation. - art. R331-13 (M)
-	  - Code de la construction et de l'habitation. - art. R331-14 (V)
-	  - Code de la construction et de l'habitation. - art. R331-15 (V)
-	  - Code de la construction et de l'habitation. - art. R331-17 (V)
-	  - Code de la construction et de l'habitation. - art. R331-18 (M)
-	  - Code de la construction et de l'habitation. - art. R331-19 (M)
-	  - Code de la construction et de l'habitation. - art. R331-20 (M)
-	  - Code de la construction et de l'habitation. - art. R331-21 (M)
-	  - Code de la construction et de l'habitation. - art. R331-22 (M)
-	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-24 (M)
-	  - Code de la construction et de l'habitation. - art. R331-25 (V)
-	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-26 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-27 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-28 (M)
-	  - Code de la construction et de l'habitation. - art. R331-3 (V)
-	  - Code de la construction et de l'habitation. - art. R331-30 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-5 (M)
-	  - Code de la construction et de l'habitation. - art. R331-6 (M)
-	  - Code de la construction et de l'habitation. - art. R331-8 (V)
-	  - Code de la construction et de l'habitation. - art. R331-9 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-	  - Code de la construction et de l'habitation. - art. R353-90 (V)
-	  - Code de la construction et de l'habitation. - art. R365-1 (V)
-	  - Code de la construction et de l'habitation. - art. R381-3 (V)
-	  - Code de la construction et de l'habitation. - art. R381-4 (V)
-	  - Code de la construction et de l'habitation. - art. R433-20 (V)
-	  - Code de la construction et de l'habitation. - art. R433-21 (V)
-	  - Code de la construction et de l'habitation. - art. R433-22 (V)
-	  - Code de la construction et de l'habitation. - art. R433-23 (V)
-	  - Code général des impôts, CGI. - art. 1384 A (V)
-	  - Code général des impôts, CGI. - art. 199 novovicies (V)
-	  - Code général des impôts, CGI. - art. 199 septvicies (V)
-	  - Code général des impôts, CGI. - art. 244 quater J (VD)
-	  - Code général des impôts, CGI. - art. 257 (V)
-	  - Code général des impôts, CGI. - art. 278 sexies (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 3 (VT)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 4 (M)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-
-
-###### Article R331-8
-
-"Les logements construits à l'aide des subventions ou des prêts prévus à l'article R. 331-1 doient présenter un niveau
-minimum de qualité.
-
-" Les logements acquis ou améliorés à l'aide de ces subventions ou prêts doivent respecter, après amélioration, des normes
-minimales d'habitabilité. Le montant des travaux d'amélioration doit être au moins égal à une fraction du prix de revient
-prévisionnel, défini à l'article R. 331-10, fixée par arrêté des ministres chargés de la construction et de l'habitation et
-des finances.
-
-" Un arrêté du ministre chargé de la construction et de l'habitation fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Arrêté du 5 mai 1995 - art. 8 (V)
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R331-21 (M)
-	  - Code de la construction et de l'habitation. - art. R331-22 (M)
-	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
-	  - Code de la construction et de l'habitation. - art. R331-26 (M)
-	  - Code de la construction et de l'habitation. - art. R331-27 (M)
-	  - Code de la construction et de l'habitation. - art. R331-80 (V)
-	  - Code de la construction et de l'habitation. - art. R331-83 (V)
-	  - Code de la construction et de l'habitation. - art. R331-99 (V)
-	  - Code de la construction et de l'habitation. - art. R351-56 (V)
-	  - Code de la construction et de l'habitation. - art. R391-1 (V)
-	  - Code de la construction et de l'habitation. - art. R391-5 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-
-
-###### Article R331-12
-
-Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des logements destinés à être occupés par des
-personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un
-arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Les bailleurs doivent être en
-mesure de justifier du respect de cette obligation.
-
-Cet arrêté fixe également les modalités de contrôle des ressources.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
-	  - Arrêté du 29 juillet 1987 - art. 1 (VD)
-	  - Arrêté du 29 juillet 1987 - art. Annexe I (V)
-	  - Arrêté du 29 juillet 1987 - art. Annexe II (V)
-	  - Arrêté du 16 mars 1992 - art. 2 (M)
-	  - Arrêté du 16 mars 1992 - art. 4 (M)
-	  - Arrêté du 6 mars 2001 - art. 3 (Ab)
-	  - Arrêté du 4 octobre 2001 - art. 2 (VD)
-	  - Arrêté du 3 mai 2002 - art. 1 (M)
-	  - Arrêté du 26 mars 2004 - art. 5 (V)
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-	  - Arrêté du 3 juin 2010 - art. 3 (V)
-	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
-	  - Arrêté du 22 décembre 2015 - art.
-	  - Code de la construction et de l'habitation. - art. *R441-23 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-7 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*445-8 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
-	  - Code de la construction et de l'habitation. - art. R*472-3 (V)
-	  - Code de la construction et de l'habitation. - art. R255-2 (V)
-	  - Code de la construction et de l'habitation. - art. R302-16 (V)
-	  - Code de la construction et de l'habitation. - art. R322-12 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-14 (M)
-	  - Code de la construction et de l'habitation. - art. R353-11 (V)
-	  - Code de la construction et de l'habitation. - art. R353-16 (V)
-	  - Code de la construction et de l'habitation. - art. R353-163 (V)
-	  - Code de la construction et de l'habitation. - art. R353-65 (V)
-	  - Code de la construction et de l'habitation. - art. R353-93 (V)
-	  - Code de la construction et de l'habitation. - art. R381-4 (V)
-	  - Code de la construction et de l'habitation. - art. R391-8 (M)
-	  - Code de la construction et de l'habitation. - art. R441-1-2 (V)
-	  - Code de la construction et de l'habitation. - art. R523-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1992
-	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1992 - art. ANNEXE (V)
-
-	**Créé par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-
-##### SOUS-SECTION II : Dispositions applicables aux subventions de l'Etat ouvrant droit à des prêts accordés par la caisse des dépôts et consignations.
-
-###### Article R331-14
-
-Les subventions de l'Etat octroyées dans les conditions prévues aux articles R. 331-3 et R. 331-6 ouvrent droit à des prêts
-accordés par la Caisse des dépôts et consignations. Ces subventions et ces prêts peuvent être attribués à
-[*bénéficiaires*] :
-
-" 1° Des offices publics d'habitations à loyer modéré, des offices publics d'aménagement et de construction, des sociétés
-anonymes d'habitations à loyer modéré ;
-
-" 2° Des sociétés d'économie mixte ayant pour objet statutaire la réalisation de logements.
-
-" L'octroi de ces subventions est subordonné à la passation par le demandeur d'une convention prévue au 3° de l'article L.
-351-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
-	  - Arrêté du 4 janvier 1988 - art. 2 (Ab)
-	  - Arrêté du 27 septembre 1991 - art. 2 (VT)
-	  - Arrêté du 16 mars 1992 - art. 12 (M)
-	  - Arrêté du 16 mars 1992 - art. 7 (M)
-	  - Arrêté du 18 mars 2002 - art. 2 (V)
-	  - Décret n°2007-896 du 15 mai 2007 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
-	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-12 (V)
-	  - Code de la construction et de l'habitation. - art. R331-18 (V)
-	  - Code de la construction et de l'habitation. - art. R331-24 (VT)
-	  - Code de la construction et de l'habitation. - art. R331-6 (V)
-	  - Code de la construction et de l'habitation. - art. R331-86 (V)
-	  - Code de la construction et de l'habitation. - art. R331-97 (V)
-	  - Code de la construction et de l'habitation. - art. R353-90 (V)
-	  - Code de la construction et de l'habitation. - art. R381-1 (V)
-	  - Code de la construction et de l'habitation. - art. R391-3 (M)
-	  - Code de la construction et de l'habitation. - art. R452-24-1 (Ab)
-	  - Code du domaine de l'Etat - art. R148-9 (Ab)
-	  - Code général de la propriété des personnes publ... - art. R3211-17 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-17-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-17-3 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-32-8 (V)
-	  - Code général des impôts, CGI. - art. 1384 A (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-3, R331-6, L351-2 3°
-	  - Code de la construction et de l'habitation. - art. R331-3 (M)
-
-
 ##### SECTION II : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété
 
 ##### SOUS-SECTION I : Conditions d'octroi des prêts.
@@ -39984,60 +40065,6 @@ aux b et d en milieu rural.
 
 
 ##### SOUS-SECTION II : Caractéristiques des prêts.
-
-###### Article R331-53
-
-Le montant des prêts prévus à l'article R. 331-32 destinés à financer les logements construits ou acquis et améliorés dans
-les conditions définies à l'article R. 331-48 est fixé en fonction de la surface des logements, compte tenu de leur
-localisation, de la situation de famille du bénéficiaire et des ressources des occupants.
-
-Dans les autres cas, le montant des prêts prévus à l'article R. 331-32 peut atteindre 75 p. 100 du prix de vente du logement
-défini à l'article R.331-52 (5.). Le taux maximum est porté à 90 p. 100 pour les ménages bénéficiaires ayant au moins trois
-enfants à charge, dont un de moins de quatre ans à la date du dépôt de la demande de décision favorable, de transfert ou de
-maintien.
-
-Toutefois, lorsque les ressources du ménage bénéficiaire définies à l'article R. 331-42 sont inférieures à un plafond, le
-montant des prêts peut atteindre 85 p. 100 du prix de vente mentionné à l'alinéa précédent. Le taux maximum est porté à 100
-p. 100 pour les ménages ayant au moins trois enfants à charge, dont un de moins de quatre ans à la date du dépôt de la
-demande de décision favorable, de transfert ou de maintien.
-
-Les montants des prêts prévus aux alinéas ci-dessus ne peuvent dépasser des limites déterminées en fonction de la situation
-de famille du bénéficiaire des ressources des occupants et de la localisation du logement.
-
-Les modalités d'application du présent article sont fixées par arrêté des ministres chargés de la construction et de
-l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 28 août 1979 - art. 5 (V)
-	  - Décret n°85-839 du 7 août 1985 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-39 (V)
-	  - Code de la construction et de l'habitation. - art. R331-59 (V)
-	  - Code de la construction et de l'habitation. - art. R331-59-17 (V)
-
-	**Cite**:
-
-	  - Décret n°83-1041 1983-12-06
-	  - Décret n°84-755 1984-08-06
-	  - Code de la construction et de l'habitation R331-52 5
-	  - Code de la construction et de l'habitation. - art. R331-32 (M)
-	  - Code de la construction et de l'habitation. - art. R331-42 (M)
-	  - Code de la construction et de l'habitation. - art. R331-48 (M)
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
 
 ###### Article R331-54
 
@@ -40087,42 +40114,6 @@ de la construction et de l'habitation et des finances.
 	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-56 (M)
 	  - Code de la construction et de l'habitation. - art. R331-57 (M)
-
-
-##### SOUS-SECTION IV : Préfinancement
-
-##### SOUS-SECTION IV bis : Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintient du préfinancement dans les conditions définies à l'article R331-59 du code de la construction et de l'habitation.
-
-###### Article R331-59-6
-
-Le prêt accordé [*montant*] est au plus égal à 80 p. 100 du prix de vente de chaque logement concerné résultant de
-l'application des dispositions de l'article R. 331-52 à la date de la décision de maintien ou de transfert. Il est en outre
-limité au montant du prêt que pourrait obtenir un ménage dont la composition correspond au type de logement susvisé et dont
-les ressources sont inférieures au plafond visé à la première phrase du 3e alinéa de l'article R. 331-53.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-59-7 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-53 AL. 3 PHR. 1
-	  - Code de la construction et de l'habitation. - art. R331-52 (M)
 
 
 ##### SECTION III : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements
