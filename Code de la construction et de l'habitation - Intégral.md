@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-12-28
+Version Consolidée au 2004-12-30
 
 # Partie législative
 
@@ -34495,6 +34495,96 @@ Annexe non reproduite, voir rectificatif au JORF du 12 juin 2004.
 	**Modifié par**:
 
 	  - Décret n°2004-499 du 7 juin 2004 - art. 2 () JORF 8 juin 2004
+
+
+#### Chapitre IX : Sécurité des immeubles collectifs à usage principal d'habitation.
+
+###### Article R*129-1
+
+Les équipements communs mentionnés à l'article L. 129-1 sont les suivants :
+
+- les installations et conduits de ventilation et de désenfumage des circulations communes ;
+
+- les installations de ventilation mécanique contrôlée ;
+
+- les installations et appareils d'éclairage et d'éclairage de sécurité des escaliers, couloirs, corridors et circulations
+communes ;
+
+- les installations de production et de distribution d'eau chaude et d'eau froide, ainsi que les systèmes de sécurité des
+installations de production d'eau chaude ;
+
+- les installations et conduits de production et de distribution de chauffage collectif, ainsi que leurs systèmes de
+sécurité ;
+
+- les installations, canalisations et réseaux divers d'alimentation en énergie (gaz et électricité) ainsi que les
+canalisations et réseaux divers d'évacuation (eaux usées, eaux pluviales) ;
+
+- les systèmes de sécurité contre l'incendie, ainsi que les équipements et installations de protection et de lutte contre
+l'incendie ;
+
+- les installations de stockage des hydrocarbures liquéfiés ;
+
+- les ascenseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-1442 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L129-1 (M)
+
+
+###### Article R*129-2
+
+Les propriétaires qui entendent faire procéder à l'expertise prévue au premier alinéa de l'article L. 129-2 en informent le
+maire par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-1442 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L129-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*129-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*129-5 (V)
+	  - Code de la santé publique - art. R1334-29-2 (VD)
+
+
+###### Article R*129-3
+
+Le maire transmet immédiatement au tribunal administratif son arrêté et le ou les rapports des experts. Dans les huit jours
+qui suivent le dépôt de ces documents au greffe et si un désaccord persiste entre les parties ou les experts, le tribunal
+désigne un homme de l'art pour procéder à une nouvelle expertise.
+
+En l'absence de désignation d'un expert par les propriétaires, le tribunal administratif peut ordonner les vérifications
+qu'il juge nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2004-1442 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
 
 
 ### Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites.
