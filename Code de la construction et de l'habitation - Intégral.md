@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-10-10
+Version Consolidée au 1991-01-07
 
 # Partie législative
 
@@ -21552,6 +21552,38 @@ juillet 1938 sur l'organisation générale de la nation en temps de guerre et, n
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+#### Chapitre V : Sécurité de certains équipements d'immeubles par destination.
+
+##### Section 2 : Sécurité des portes automatiques de garage.
+
+###### Article R125-5
+
+Les propriétaires d'un bâtiment ou groupe de bâtiments d'habitation équipés de portes automatiques de garage sont tenus de
+les faire entretenir et vérifier périodiquement aux termes de contrats écrits. Toutes les interventions sont consignées dans
+un livret d'entretien.
+
+Un arrêté des ministres chargés de l'industrie et du logement définit les opérations que devront obligatoirement prévoir ces
+contrats ainsi que leur périodicité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-567 1990-07-05 art. 2
+
+	**Créé par**:
+
+	  - Décret n°90-567 du 5 juillet 1990 - art. 1 () JORF 7 juillet 1990 en vigueur le 7 janvier 1991
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 1990 - art. 1 (V)
 
 
 ### Titre III : Chauffage et ravalement des immeubles
@@ -48517,60 +48549,6 @@ application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
 
 
 ### Titre V : Aide personnalisée au logement.
-
-#### Chapitre Ier : Dispositions générales
-
-##### Section 1 : Aide personnalisée
-
-##### Sous-section 7 : Dispositions diverses.
-
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-64
-
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
-aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
-compte.
-
-L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
-débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
-
-Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
-situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
-départemental de l'habitat et justifier qu'il poursuit par tous les moyens de recouvrement de sa créance.
-
-" Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de
-la section départementale des aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30. "
-
-Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
-troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
-l'aide personnalisée versée depuis la défaillance du bénéficiaire.
-
-Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
-de ses obligations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Modifié par**:
-
-	  - Décret n°90-880 du 28 septembre 1990 - art. 10 () JORF 30 septembre 1990
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-30 (M)
-
 
 ### Titre VI : Organismes consultatifs.
 
