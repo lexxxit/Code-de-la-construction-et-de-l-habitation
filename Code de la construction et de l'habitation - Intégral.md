@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-10-11
+Version Consolidée au 1995-11-01
 
 # Partie législative
 
@@ -38526,7 +38526,8 @@ de l'économie et des finances, du ministre chargé du budget et du ministre cha
 
 3° L'acquisition de logements faisant l'objet d'un contrat régi par les dispositions de la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière, prévoyant un paiement fractionné du prix et dont la durée
-n'excède pas huit ans. Dans ce cas, l'avance est versée à la date de la levée d'option.
+n'excède pas huit ans lorsque cette acquisition porte sur des opérations mentionnées au 1° ou au 2° du présent article. Dans
+ce cas, l'avance est versée à la date de la levée d'option.
 
 Ces opérations comprennent la construction ou l'acquisition simultanée des dépendances de ces logements, dans des limites
 fixées par arrêté du ministre chargé du logement.
@@ -38542,14 +38543,6 @@ fixées par arrêté du ministre chargé du logement.
 	  - Loi n°84-595 1984-07-12
 	  - Code de la construction et de l'habitation. - art. R317-1 (M)
 
-	**Modifié par**:
-
-	  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-
 	**Cité par**:
 
 	  - Arrêté du 2 octobre 1995 - art. 1 (V)
@@ -38560,6 +38553,10 @@ fixées par arrêté du ministre chargé du logement.
 	  - Code de la construction et de l'habitation. - art. R317-19 (V)
 	  - Code de la construction et de l'habitation. - art. R317-3 (V)
 	  - Code de la construction et de l'habitation. - art. R317-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-1144 du 31 octobre 1995 - art. 2 () JORF 1er novembre 1995
 
 
 ##### Section 1 : Conditions d'attribution de l'avance.
@@ -45392,6 +45389,49 @@ ministre chargé de la construction et de l'habitation, et le ministre chargé d
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+
+
+##### Sous-section 5 bis : Dispositions relatives à la mise en extinction des prêts aidés par l'Etat à l'accession à la propriété.
+
+###### Article R331-61-1
+
+A compter du 1er novembre 1995, les prêts prévus à la présente section ne peuvent plus faire l'objet de la décision favorable
+d'octroi mentionnée à l'article R. 331-34.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-1144 du 31 octobre 1995 - art. 1 () JORF 1er novembre 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-34 (M)
+
+
+###### Article R331-61-2
+
+A compter du 1er juillet 1996, les établissements prêteurs mentionnés à la présente section ne peuvent plus émettre d'offre
+de prêts mentionnés à l'article R. 331-32 à des personnes physiques qui assurent elles-mêmes la maîtrise d'ouvrage. Les
+offres de prêts antérieures à cette date seront frappées de caducité après le 31 octobre 1996.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-1144 du 31 octobre 1995 - art. 1 () JORF 1er novembre 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
 ##### Sous-section 6 : Départements d'outre-mer.
