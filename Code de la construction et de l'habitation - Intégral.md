@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-07-30
+Version Consolidée au 2000-09-15
 
 # Partie législative
 
@@ -26468,6 +26468,43 @@ En cas de récidive, la peine d'amende sera celle prévue pour les contravention
 	**Modifié par**:
 
 	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
+
+
+#### Chapitre II : Dispositions spéciales.
+
+##### Section 1 : Dispositions spéciales relatives à la prévention du risque sismique.
+
+###### Article R112-1
+
+Dans les zones particulièrement exposées à un risque sismique, les règles concernant la nature et les caractéristiques des
+bâtiments, des équipements et des installations et les mesures techniques préventives doivent respecter les dispositions du
+décret n° 91-461 du 14 mai 1991 modifié relatif à la prévention du risque sismique, sans préjudice de l'application des
+règles plus sévères fixées par un plan de prévention des risques naturels prévisibles, lorsqu'il existe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Décret n°91-461 1991-05-14
+
+	**Créé par**:
+
+	  - Décret n°2000-892 du 13 septembre 2000 - art. 2 () JORF 15 septembre 2000
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000
+	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2000-892 du 13 septembre 2000 - art. 2 ()
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 19 (V)
+	  - Arrêté du 28 décembre 2012 - art. 16 (V)
 
 
 ### Titre II : Sécurité et protection contre l'incendie.
