@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-08-03
+Version Consolidée au 1985-09-03
 
 # Partie législative
 
@@ -38515,6 +38515,47 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
+###### Article R351-2-1
+
+L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
+d'un prêt défini par les articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1 et suivants et
+supporte les charges afférentes à ce prêt [*bénéficiaire*].
+
+Le droit à l'aide personnalisée est ouvert :
+
+Soit, si l'accédant n'occupe pas le logement à la date de signature du contrat de location-accession, à compter du mois au
+cours duquel se situe son entrée dans les lieux ;
+
+Soit, si l'accédant occupe le logement à la date de signature du contrat de location-accession, à compter du mois au cours
+duquel se situe cette date.
+
+L'aide personnalisée est versée à compter de la première échéance due au titre de ce contrat et postérieure à la date
+d'entrée dans les lieux ou de signature du contrat si l'accédant est déjà dans les lieux.
+
+Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
+alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 14 JORF 3 septembre 1985
+
+	**Cité par**:
+
+	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-59-8 et s., R331-59-16 al. 1, R331-76-1
+	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
+
+
 ###### Article R351-3
 
 Sous réserve des dispositions prévues au deuxième alinéa du présent article, le droit à l'aide personnalisée est ouvert :
@@ -38642,6 +38683,64 @@ passibles de l'impôt sur le revenu.
 
 
 ##### Sous-section 3 : Conditions particulières.
+
+###### Article R351-12
+
+Il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient l'événement ou le
+changement de situation, sous réserve que la preuve en soit apportée :
+
+Des ressources du conjoint du bénéficiaire :
+
+- soit décédé ;
+
+- soit absent du domicile en raison d'une décision de justice prononçant le divorce ;
+
+- soit absent du domicile en raison d'une décision de justice autorisant la résidence séparée ou homologuant, en cas de
+demande conjointe en divorce, la convention temporaire passée à ce sujet entre les époux ;
+
+- soit absent du domicile en raison d'une séparation de fait des époux ;
+
+Des revenus d'activité professionnelle ni des indemnités de chômage perçues par le conjoint du bénéficiaire ;
+
+- soit appelé sous les drapeaux ;
+
+- soit détenu, les ressources du conjoint étant toutefois prises en considération s'il est placé dans le régime de semi-
+liberté ;
+
+- soit cessant toute activité professionnelle pour se consacrer à un enfant de moins de trois ans ou à plusieurs enfants ;
+
+Lorsque l'une des situations mentionnées au présent article prend fin, il est tenu compte :
+
+Des ressources perçues par le conjoint du bénéficiaire à partir du premier jour du mois au cours duquel la vie commune est
+reprise ;
+
+Des revenus d'activité professionnelle ou des indemnités de chômage à partir du premier jour du mois au cours duquel :
+
+- soit la période d'accomplissement du service national ou de détention expire ;
+
+- soit les conditions relatives à l'âge ou au nombre d'enfants auxquels l'intéressé se consacre ne sont plus remplies ou il
+reprend une activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R351-29
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 1 JORF 3 septembre 1985
+
 
 ###### Article R351-16
 
@@ -38899,6 +38998,57 @@ lesquels le droit est ouvert.
 
 
 ##### Sous-section 3 : Conditions particulières.
+
+###### Article R351-15
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement lorsque, en application d'un avenant à la
+convention, un nouveau loyer est notifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°85-932 1985-08-30 art. 4 JORF 3 septembre 1985
+
+
+###### Article R351-16 bis
+
+Le montant de l'aide personnalisée versée au bénéficiaire qui occupe le logement dont il est propriétaire est révisé en cours
+de période de paiement lorsque la période de remboursement du prêt ouvrant droit à l'aide personnalisée fait suite à une
+période de différé d'amortissement.
+
+Le montant de l'aide personnalisée est recalculé en cours de période de paiement lors de chaque révision :
+
+- de la redevance lorsque l'accédant est titulaire d'un contrat de location-accession ;
+
+- des charges de remboursement faisant suite à une période de différé d'amortissement lorsque le propriétaire est titulaire
+d'un prêt aidé par l'Etat à taux révisable défini à l'article R. 331-54-1 ou d'un prêt conventionné à taux révisable défini à
+l'article R. 331-75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 5 JORF 3 septembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-75 (M)
+
 
 ###### Article R351-17-1
 
@@ -39657,6 +39807,46 @@ familiales.
 ##### Section 4 : Dispositions particulières aux logements-foyers.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
+
+###### Article R351-62
+
+L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
+ressources dont les limites inférieures et supérieures sont affectées du coefficients N prévu à l'article R. 351-61.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement.
+
+L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal au produit d'une valeur numérique
+fixée par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du
+coefficient N prévu à l'article R. 351-61.
+
+Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+
+Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-61.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 13 JORF 3 septembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
 
 ###### Article R351-66
 
@@ -44548,45 +44738,6 @@ conditions définies par l'article L. 351-2 (6.).
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
-###### Article R351-2-1
-
-L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
-d'un prêt défini par les articles R. 331-59-8 et suivants et supporte les charges afférentes à ce prêt [*bénéficiaire*].
-
-Le droit à l'aide personnalisée est ouvert :
-
-Soit, si l'accédant n'occupe pas le logement à la date de signature du contrat de location-accession, à compter du mois au
-cours duquel se situe son entrée dans les lieux ;
-
-Soit, si l'accédant occupe le logement à la date de signature du contrat de location-accession, à compter du mois au cours
-duquel se situe cette date.
-
-L'aide personnalisée est versée à compter de la première échéance due au titre de ce contrat et postérieure à la date
-d'entrée dans les lieux ou de signature du contrat si l'accédant est déjà dans les lieux.
-
-Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
-alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°84-1160 1984-12-21 art. 2 JORF 22 décembre 1984
-
-	**Cité par**:
-
-	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-59-8 et s., R331-59-16 al. 1
-
-
 ###### Article R351-5
 
 Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coefficient de prise
@@ -44599,7 +44750,10 @@ Ces ressources s'entendent du revenu net imposable de l'année civile de référ
 déductions opérées en vertu de l'article 156-I du code général des impôts au titre des reports des déficits constatés au
 cours d'une année antérieure à celle qui est prise en considération.
 
-//DECR. 677 du 29 juin 1981 :
+Lorsque le ou les revenus imposables ne provenant pas d'une activité salariée ne sont pas connus au moment de la demande ou
+du réeaxemen des droits, il est tenu compte des derniers revenus nets imposables connus. Ces revenus sont revalorisés par
+application du taux d'évolution en moyenne annuelle de l'indice général des prix à la consommation des ménages pour l'année
+civile de référence figurant dans le rapport économique et financier annexé au projet de loi de finances.
 
 Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 688 du code de la sécurité
 sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont :
@@ -44610,17 +44764,13 @@ d'inaptitude au travail ;
 Soit "grands infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants,
 descendants ou collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ;
 
-Soit enfants du bénéficiaire ou de son conjoint//.
+Soit enfants du bénéficiaire ou de son conjoint.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -44658,26 +44808,24 @@ Soit enfants du bénéficiaire ou de son conjoint//.
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 6 JORF 3 septembre 1985
+
 	**Cite**:
 
-	  - CGI 156
+	  - CGI 156-1
 	  - Code de la famille et de l'aide sociale. - art. 169 (M)
 	  - Code de la sécurité sociale L688
 	  - Code de la construction et de l'habitation. - art. R351-4 (M)
 
-	**Modifié par**:
-
-	  - Décret n°81-677 1981-06-29 art. 3 JORF 30 juin 1981
-
 
 ###### Article R351-6
 
-Le revenu net imposable est majoré du montant des intérêts correspondant à l'emprunt contracté par le propriétaire pour
-l'acquisition ou l'amélioration du logement et qui ont été déduits du revenu brut.
-
-Il est diminué d'un abattement forfaitaire lorsque les deux conjoints ont exercé une activité professionnelle productrice de
-revenus au cours de l'année civile de référence et que chacun des deux revenus correspondants a été au moins égal à douze
-fois la base mensuelle de calcul des allocations familiales en vigueur au 31 décembre de ladite année.
+Le revenu net imposable est diminué d'un abattement forfaitaire lorsque les deux conjoints ont exercé une activité
+professionnelle productrice de revenus au cours de l'année civile de référence et que chacun des deux revenus correspondants
+a été au moins égal à douze fois la base mensuelle de calcul des allocations familiales en vigueur au 31 décembre de ladite
+année.
 
 Cet abattement est fixé par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de
 l'agriculture et de la sécurité sociale.
@@ -44702,7 +44850,7 @@ l'agriculture et de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Décret n°81-677 1981-06-29 ART. 4 JORF 30 JUIN 1981
+	  - Décret n°85-932 1985-08-30 art. 7 JORF 3 septembre 1985
 
 
 ###### Article R351-7
@@ -44711,9 +44859,9 @@ Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en Fran
 ressources imposables au cours de l'année civile de référence et que l'un ou l'autre perçoit une rémunération mensuelle lors
 de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le calcul de
 l'aide personnalisée, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit pendant la période de paiement,
-sont déterminées forfaitairement sur la base de onze fois la ou les rémunérations mensuelles considérées. S'il s'agit d'une
+sont déterminées forfaitairement sur la base de douze fois la ou les rémunérations mensuelles considérées. S'il s'agit d'une
 personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, les ressources prises en
-considération sont fixées forfaitairement à 2080 fois le salaire minimum interprofessionnel de croissance horaire au 1er
+considération sont fixées forfaitairement à 2028 fois le salaire minimum interprofessionnel de croissance horaire au 1er
 janvier qui précède l'ouverture du droit ou le début de la période de paiement.
 
 Le montant des ressources ainsi déterminé est affecté des abattements prévus par le code général des impôts.
@@ -44759,7 +44907,7 @@ la même base que lors de l'ouverture du droit [*date*].
 
 	**Modifié par**:
 
-	  - Décret n°81-677 1981-06-29 ART. 5 ART. 6 JORF 30 JUIN 1981
+	  - Décret n°85-932 1985-08-30 art. 8 JORF 3 septembre 1985
 
 
 ###### Article R351-7-1
@@ -44858,13 +45006,14 @@ Lorsque le bénéficiaire ou son conjoint apporte la preuve de sa cessation d'ac
 la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une rente d'accident de
 travail ou de l'allocation aux adultes handicapés ou de l'allocation compensatrice, le revenu net imposable perçu par
 l'intéressé au cours de l'année civile de référence est affecté d'un abattement égal à 30 p. 100 [*taux*] des revenus
-d'activité.
+d'activité professionnelle et des indemnités de chômage.
 
 Cette mesure s'applique à partir du premier jour du mois civil suivant celui au cours duquel survient le changement de
 situation et, sous réserve des dispositions de l'alinéa 2, tant que les ressources perçues par l'intéressé au cours de
-l'année civile de référence comprennent des revenus d'activité [*point de départ*].    Lorsque le bénéficiaire ou son
-conjoint reprend une activité professionnelle rémunérée, l'abattement prévu au premier alinéa est supprimé à partir du
-premier jour du mois civil au cours duquel intervient la reprise d'activité.
+l'année civile de référence comprennent des revenus d'activité [*point de départ*].
+
+Lorsque le bénéficiaire ou son conjoint reprend une activité professionnelle rémunérée, l'abattement prévu au premier alinéa
+est supprimé à partir du premier jour du mois civil au cours duquel intervient la reprise d'activité.
 
 **Liens relatifs à cet article**
 
@@ -44887,7 +45036,7 @@ premier jour du mois civil au cours duquel intervient la reprise d'activité.
 
 	**Modifié par**:
 
-	  - Décret n°83-176 1983-03-07 ART. 2 JORF 11 MARS 1983
+	  - Décret n°85-932 1985-08-30 art. 9 JORF 3 septembre 1985
 
 
 ###### Article R351-11
@@ -44925,77 +45074,20 @@ premier jour du mois civil au cours duquel lesdites charges disparaissent [*date
 	  - Décret n°83-176 1983-03-07 ART. 3 JORF 11 MARS 1983
 
 
-###### Article R351-12
-
-Il n'est pas tenu compte à partir du premier jour du mois civil suivant celui au cours duquel survient l'événement ou le
-changement de situation, sous réserve que le bénéficiaire en apporte la preuve, des ressources du conjoint :
-
-- soit décédé ;
-
-- soit absent du domicile en raison d'une décision de justice prononçant le divorce ;
-
-- soit absent du domicile en raison d'une décision de justice autorisant la résidence séparée ou homologuant, en cas de
-demande conjointe en divorce, la convention temporaire passée à ce sujet entre les époux ;
-
-- soit absent du domicile en raison d'une séparation de fait des époux ;
-
-- soit appelé sous les drapeaux ;
-
-- soit cessant toute activité professionnelle pour se consacrer à un enfant de moins de trois ans ou à plusieurs enfants ;
-
-- soit détenu : les ressources du conjoint étant toutefois prises en considération s'il est placé sous le régime de semi-
-liberté.
-
-Lorsque le conjoint du bénéficiaire se trouve dans l'une des situations mentionnées au premier alinéa et que cette situation
-prend fin, il est tenu compte des ressources perçues par l'intéressé à partir du premier jour du mois civil au cours duquel :
-
-- soit la vie commune est reprise ;
-
-- soit la période d'accomplissement du service national ou de détention expire ;
-
-- soit les conditions relatives à l'âge ou au nombre d'enfants auxquels l'intéressé se consacre ne sont plus remplies ou il
-reprend une activité professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R351-29
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°83-176 1983-03-07 ART. 4 JORF 11 MARS 1983
-
-
 ###### Article R351-13
 
-Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande, ou
-pendant au moins deux mois consécutifs au cours de la période de paiement en chômage total ou partiel indemnisé en
-application du titre V du livre III du Code du travail ou en vertu de régimes particuliers à la profession, les revenus
-d'activité perçus par l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette
-mesure s'applique à partir du premier jour du mois civil suivant celui au cours duquel survient le changement de situation
-[*date d'effet*].
-
-Lorsque l'intéressé reprend une activité professionnelle rémunérée, l'abattement est supprimé à partir du premier jour du
-mois civil au cours duquel intervient la reprise d'activité.
+Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois consécutifs à la date d'effet de la demande
+[*délai, point départ*] , ou pendant au moins deux mois consécutifs au cours de la période de paiement, en chômage total et
+perçoit l'allocation de base prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit
+l'allocation spécifique prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par
+l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir
+du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation.    Lorsque l'intéressé
+reprend une activité professionnelle rémunérée, l'abattement est supprimé à partir du premier jour du mois civil au cours
+duquel intervient la reprise d'activité.
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail LIVRE III TITRE V
 
 	**Codifié par**:
 
@@ -45011,21 +45103,26 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	**Modifié par**:
 
-	  - Décret n°83-176 1983-03-07 ART. 5 JORF 11 MARS 1983
+	  - Décret n°85-932 1985-08-30 art. 2 JORF 3 septembre 1985
+
+	**Cite**:
+
+	  - Code du travail - art. L351-25 (AbD)
+	  - Code du travail - art. L351-3 (M)
 
 
 ###### Article R351-14
 
 Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
-demande ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne bénéficie pas ou ne bénéficie plus
-d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le
-règlement annexe à la convention interprofessionnelle du 27 mars 1979 conclue en application de l'article L. 351-9 du Code du
-travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel intervient le
-changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation de fin de droits, des ressources
-perçues par l'intéressé au cours de l'année civile de référence.
-
-Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses ressources à partir du premier
-jour du mois civil au cours duquel intervient la reprise d'activité.
+demande [*délai , point de départ*] ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne
+bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit soit
+l'allocation d'insertion prévues par l'article L. 351-9 du code du travail, soit l'allocation de solidarité spécifique prévue
+par l'article L. 351-10 du code du travail, soit l'allocation de fin de droits prévue par le l'article L. 351-3 du code du
+travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient le
+changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation d'insertion de solidarité spécifique
+ou de fin de droits, des revenus d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé au cours de
+l'année civile de référence.    Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses
+ressources à partir du premier jour du mois civil au cours duquel intervient la reprise d'activité [*point de départ*].
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
@@ -45045,51 +45142,33 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 	**Modifié par**:
 
-	  - Décret n°83-176 1983-03-07 ART. 6 JORF 11 MARS 1983
+	  - Décret n°85-932 1985-08-30 art. 3 JORF 3 septembre 1985
 
 	**Cite**:
 
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-3 (M)
 	  - Code du travail - art. L351-9 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-
-
-###### Article R351-16 BIS
-
-Le montant de l'aide personnalisée versée au bénéficiaire qui occupe le logement dont il est propriétaire est revisé en cours
-de période de paiement lorsque la période de remboursement du prêt ouvrant droit à l'aide personnalisée fait suite à une
-période de différé d'amortissement.
-
-Le montant de l'A.P.L. due à l'accédant titulaire d'un contrat de location-accession est révisé en cours de période de
-paiement lors de chaque révision de la redevance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°84-1160 1984-12-21 art. 4 JORF 22 décembre 1984
+	  - Code du travail - art. R351-13 (M)
 
 
 ##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
 
 ###### Article R351-19
 
-Le coefficient K [*prise en charge*] est déterminé par la formule :
+Le coefficient K au plus égal à 0,95, est déterminé par les formules suivantes :
 
-K = 0,95 - R/CM x N
+- si le bénéficiaire est locataire :
 
-dans laquelle
+K = 0,95 - R-(rxN)/CM x N    - si le bénéficiaire est propriétaire :
+
+K = 0,95 - R/CM x N    dans lesquelles :
 
 R représente les ressources déterminées conformément à l'article R. 351-5, arrondies jusqu'à 5000 F au multiple de 250 F
-immédiatement inférieur et au delà de 5000 F au multiple de 500 F immédiatement inférieur.
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés des finances, de la construction et de
-l'habitation, de l'agriculture et de la sécurité sociale ;
-
-N représente le nombre de parts déterminé par les coefficients suivants :
+immédiatement inférieur et au delà de 5000 F au multiple de 500 F immédiatement inférieur ; r est un coefficient fixé par
+arrêté conjoint des ministres chargés chargés de la sécurité sociale, du budget, de l'agriculture et du logement ; CM est un
+coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture
+et du logement ; N représente le nombre de parts déterminé par les coefficients suivants :
 
 - bénéficiaire isolé : 1,60 ;
 
@@ -45099,29 +45178,24 @@ N représente le nombre de parts déterminé par les coefficients suivants :
 
 2,50 ;
 
-- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+- bénéficiaire isolé ou ménage ayant deux personnes à charge : 3 ;
 
-3 ;
+- bénéficiaire isolé ou ménage ayant trois personnes à charge 3,7 ;
 
-- bénéficiaire isolé ou ménage ayant trois personnes à charge 3,70 ;
-
-- bénéficiaire isolé ou ménage ayant quatre personnes à charge 4,30.
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge 4,3 ;
 
 Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
+	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Cité par**:
 
@@ -45135,24 +45209,31 @@ Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentair
 	  - Code de la construction et de l'habitation. - art. R351-29 (M)
 	  - Code de la construction et de l'habitation. - art. R351-5 (MMN)
 
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 10 JORF 3 septembre 1985
+
 
 ###### Article R351-21
 
-Le loyer minimum ou la mensualité de remboursement minimum est obtenu par l'application de pourcentages à des tranches de
-ressources dont les limites inférieures et supérieures sont affectées des coefficients prévus à l'article R. 351-19, le
-résultat étant divisé par douze.
+Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
+supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
 
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés des finances, de la
-construction et de l'habitation, de l'agriculture et de la sécurité sociale en distinguant :
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement en distinguant :
 
-- les logements construits ou acquis et améliorés, occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de
-location-accession ;
+- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
+occupés par leur propriétaire ;
 
-- les logements existants améliorés, occupés par leur propriétaire et les logements locatifs.
+- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
+
+Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
+prévu à l'article R. 351-19.
+
+Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
 
 Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
-
-Le loyer minimum mensuel est arrondi au franc inférieur.
 
 **Liens relatifs à cet article**
 
@@ -45173,7 +45254,7 @@ Le loyer minimum mensuel est arrondi au franc inférieur.
 
 	**Modifié par**:
 
-	  - Décret n°84-1160 1984-12-21 art. 5 JORF 22 décembre 1984
+	  - Décret n°85-932 1985-08-30 art. 11 JORF 3 septembre 1985
 
 	**Cite**:
 
@@ -45397,19 +45478,23 @@ de la construction.
 
 ###### Article R351-61
 
-Le coefficient K est déterminé par la formule :
+Le coefficient K, au plus égal à 0,95, est déterminé par  la formule :
 
-K = 0,95 - (R / CM x N)        dans laquelle        R représente les ressources déterminées conformément aux articles R.
-351-5, R351-6 et R. 351-7, arrondies jusqu'à 5000 F au multiple de 500 F immédiatement inférieur ;
+K = 0,95 - R-(r x N)/CM x N        dans laquelle :
 
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, de l'action
-sociale, des travailleurs immigrés, du Trésor, du budget, de la construction et de l'habitation et de l'agriculture ;
+R représente les ressources déterminées conformément à l'articles R. 351-5, arrondies jusqu'à 5000 F au multiple de 250 F
+immédiatement inférieur et au-delà de 5000 F au multiple de 500 F immédiatement inférieur ;
+
+r est un coefficient fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
+logement ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
+l'agriculture et du logement ;
 
 N représente le nombre de parts déterminé par les coefficients suivants :
 
-Bénéficiaire isolé                              1,60        Ménage sans personne à charge                   2
-Bénéficiaire isolé ou ménage ayant une        personne à charge résidant dans l'unité        d'habitation [*calcul aide
-personnalisée*]        2,50.
+Bénéficiaire isolé :                            1,60        Ménage sans personne à charge :                 2
+Bénéficiaire isolé ou ménage ayant une        personne à charge :                             2,50.
 
 **Liens relatifs à cet article**
 
@@ -45429,46 +45514,13 @@ personnalisée*]        2,50.
 	  - Code de la construction et de l'habitation. - art. R351-62 (V)
 	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
 
+	**Modifié par**:
+
+	  - Décret n°85-932 1985-08-30 art. 12 JORF 3 septembre 1985
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-6 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
-
-###### Article R351-62
-
-L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
-ressources dont les limites inférieures et supérieures sont affectées des coefficients prévus à l'article R. 351-61. Le
-résultat est divisé par douze.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
-de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la construction et de l'habitation, et de
-l'agriculture.
-
-Pour l'application du présent article, ces ressources sont arrondies dans les conditions prévues à l'article R. 351-61.
-
-L'équivalence de loyer et de charges locatives minima mensuelle est arrondie au franc inférieur [*calcul aide
-personnalisée*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-60 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 
 
 ###### Article R351-62-1
