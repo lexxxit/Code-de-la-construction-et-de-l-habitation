@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-02-20
+Version Consolidée au 1998-03-21
 
 # Partie législative
 
@@ -47107,6 +47107,34 @@ présent article.
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
+###### Article R331-54-2
+
+Par dérogation aux dispositions de l'article R. 331-54 et dans les conditions précisées par les conventions prévues à
+l'article R. 331-38 ou par des conventions passées par le ministre chargé des finances avec les organismes visés à l'article
+R. 331-39, la progressivité des annuités et le taux d'intérêt des prêts aidés par l'Etat destinés à l'accession à la
+propriété peuvent être réduits, sans augmentation de la durée initiale et en accord avec le titulaire du prêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°98-192 du 19 mars 1998 - art. 1 () JORF 21 mars 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-38 (M)
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
+	  - Code de la construction et de l'habitation. - art. R331-54 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
+
+
 ###### Article R331-55
 
 Lorsque la première échéance de remboursement du prêt ou de paiement du logement intervient dans un délai minimum avant
@@ -48021,34 +48049,6 @@ prêteurs prévus à l'article R. 331-37 les conventions nécessaires.
 	  - Code de la construction et de l'habitation. - art. R331-54-2 (V)
 	  - Code de la construction et de l'habitation. - art. R331-54-3 (V)
 	  - Code de la construction et de l'habitation. - art. R331-56 (V)
-
-
-##### Sous-section 2 : Caractéristiques des prêts.
-
-###### Article R331-54-2
-
-La durée initiale et la progressivité des annuités des prêts aidés par l'Etat destinés à l'accession à la propriété consentis
-entre le 1er janvier 1980 et le 31 décembre 1986 peuvent être modifiées, en accord avec le bénéficiaire et l'établissement
-prêteur, dans les conditions précisées par les conventions prévues à l'article R. 331-38 et sous réserve que le taux effectif
-global initialement fixé ne soit pas augmenté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°93-1039 du 27 août 1993 - art. 1 () JORF 3 septembre 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-38 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
 
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
