@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-09-01
 
 # Partie législative
 
@@ -61458,26 +61458,27 @@ des documents contractuels et à la consultation des entreprises, dans le cadre 
 
 ###### Article R*433-3
 
-Les travaux à entreprendre par les sociétés anonymes et les sociétés coopératives d'habitations à loyer modéré en vue de la
-construction ou la réparation de logements sont attribués dans les conditions déterminées par un décret pris sur le rapport
-du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
-
-La consistance, les clauses et la forme des documents contractuels applicables aux travaux entrepris par ces organimes sont
-déterminées par arrêté du ministre chargé de la construction et de l'habitation.
-
-L'inobservation des dispositions du présent article et des textes pris pour son application peut entraîner à l'encontre de
-l'organisme défaillant le remboursement immédiat des concours financiers alloués pour l'exécution de la tranche de travaux à
-laquelle se rapporterait l'infraction constatée [*sanction*].
+L'inobservation des dispositions du chapitre III du présent titre peut entrainer à l'encontre de l'organisme défaillant le
+remboursement immédiat de la quote-part des concours financiers alloués par l'Etat correspondant aux prestations auxquelles
+se rapporte l'infraction constatée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-549 1961-05-23 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 1 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 
 ###### Article R*433-4
@@ -61496,27 +61497,38 @@ leurs établissements publics et, notamment, par le livre III du code des march�
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Dispositions applicables aux marchés des sociétés d'habitations à loyer modéré.
+##### Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux.
 
 ###### Article R433-5
 
-Les travaux de construction ou de grosses réparations entrepris par les sociétés d'habitations à loyer modéré soit
-individuellement, soit dans le cadre d'un groupement constitué en application de l'article R. 433-1, donnent lieu à des
-marchés soumis aux règles fixées par la présente section.
+Sont soumis aux dispositions de la présente section les contrats définis aux articles L. 433-1 et L. 481-4 dont le montant
+est supérieur au seuil visé au 10° du I de l'article 104 du code des marchés publics, passés pour leur propre compte par les
+organismes privés d'habitations à loyer modéré et par les sociétés d'économie mixte de construction et de gestion de
+logements sociaux :
+
+Aucun projet de contrat ne peut être scindé en vue de le soustraire aux obligations découlant de la présente section.
+
+Les contrats définis aux trois premiers alinéas du présent article sont soumis, sous réserve des dispositions prévus à la
+section IV du présent chapitre pour les contrats que cette section concerne, aux règles de publicité, de mise en concurrence
+et d'exécution prévues aux articles R. 433-6 à R. 433-19.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+	  - Conseil d'Etat n°148414 1998-03-13
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R433-1
+	  - Code de la construction et de l'habitation L433-1, L481-4, R433-6 à R433-19
+	  - Code de la construction et de l'habitation. - art. L433-1 (M)
+	  - Code de la construction et de l'habitation. - art. L481-4 (M)
+	  - Code des marchés publics 104
 
 	**Cité par**:
 
@@ -61535,18 +61547,31 @@ marchés soumis aux règles fixées par la présente section.
 
 ###### Article R433-6
 
-Sous les exceptions prévues par la présente section, les marchés sont des contrats écrits dont les cahiers des charges sont
-des éléments constitutifs. Ils doivent être conclus avant tout commencement d'exécution.
+Les contrats entrant dans le champ d'application défini à l'article R. 433-5 sont des contrats écrits. Les prestations qui
+font l'objet des contrats doivent répondre exclusivement à la nature et à l'étendue des besoins à satisfaire. Les
+spécifications et la consistance technique de ces prestations doivent être déterminées aussi exactement que possible avant
+tout appel à la concurrence ou négociation.
+
+Les prestations sont définies par référence aux normes homologuées ou à d'autres normes applicables en France en vertu
+d'accords internationaux, dans les conditions prévues au décret n° 84-74 du 26 janvier 1984 modifié fixant le statut de la
+normalisation. Il peut être dérogé aux normes dans les conditions prévues à ce décret.
+
+Les contrats doivent être conclus avant tout début d'exécution. Ils comportent au moins un acte d'engagement et un cahier des
+charges, qui en forment les pièces constitutives.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°84-74 1984-01-26
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
@@ -61556,194 +61581,261 @@ des éléments constitutifs. Ils doivent être conclus avant tout commencement d
 
 ###### Article R433-7
 
-Les marchés font l'objet d'un instrument unique. Les engagements réciproques qu'ils constatent peuvent être conclus sur la
-soumission ou l'offre souscrite par le candidat attributaire du marché.
+Toute personne physique ou morale peut se porter candidate aux contrats entrant dans le champ d'application défini à
+l'article R. 433-5. Les candidats bénéficient d'une égalité de traitement dans l'examen de leurs candidatures ou de leurs
+offres. Toutefois les dispositions législatives et réglementaires excluant des marchés publics certaines personnes physiques
+ou morales sont applicables aux contrats visés par le présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
 
 
 ###### Article R433-8
 
-Les marchés doivent contenir au moins les mentions suivantes :
-
-1. L'indication des parties contractantes ;
-
-2. La définition de l'objet du marché ;
-
-3. la référence aux articles de la présente section en vertu desquels le marché est passé ;
-
-4. L'énumération par ordre de priorité des pièces incorporées dans le contrat ;
-
-5. Le prix du marché ou les modalités de détermination du prix pour les prestations exécutées en régie ;
-
-6. Le délai d'exécution du marché ou la date de son achèvement ;
-
-7. Les conditions de réception et, le cas échéant, de livraison des prestations ;
-
-8. Les conditions de règlement ;
-
-9. Les conditions de résiliation ;
-
-10. La date de conclusion du marché.
+Les personnes physiques ou morales en état de liquidation judiciaire et les personnes physiques dont la faillite personnelle
+a été prononcée, ainsi que les personnes faisant l'objet d'une procédure équivalente régie par un droit étranger ne sont pas
+admises à soumissionner pour les contrats entrant dans le champ d'application défini à l'article R. 433-5. Aucun de ces
+contrats ne peut leur être attribué. Les personnes physiques ou morales admises au redressement judiciaire doivent justifier
+qu'elles ont été habilitées à poursuivre leur activité pendant la durée prévisible d'exécution du contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-9 (MMN)
 
 
-###### Article R433-9
+###### Article R433-10
 
-A l'appui des candidatures, des soumissions ou des offres déposées par les candidats aux marchés régis par la présente
-section, il ne peut être exigé, en dehors de documents ou formalités prévus par des textes spéciaux, que :
+Les contrats entrant dans le champ d'application défini à l'article R. 433-5 sous réserve des exceptions prévues à l'article
+R. 433-14 sont passés après appel d'offres. Les appels d'offres peuvent être précédés d'un appel public de candidatures
+soumis aux règles prévues par l'article R. 433-11. Dans ce cas, l'organisme arrête la liste des candidats admis à présenter
+des offres en tenant compte des garanties professionnelles et financières présentées par chacun des candidats, ainsi que, le
+cas échéant, de critères supplémentaires, justifiés par l'objet du contrat ou ses conditions d'exécution, mentionnés dans
+l'avis d'appel public à candidatures.
 
-1. Des renseignements ou pièces relatifs à la nature et aux conditions générales d'exploitation de l'entreprise, à ses moyens
-techniques, à ses références et aux pouvoirs de la personne habilitée pour l'engager ;
+Sont passés sur concours les contrats de maîtrise d'oeuvre entrant dans le champ d'application défini à l'article R. 433-5
+dont le montant est supérieur aux seuils fixés par arrêté conjoint du ministre chargé de l'économie et des finances et du
+ministre chargé du logement, respectivement pour les programmes d'accession à la propriété et pour les programmes locatifs :
 
-2. Des déclarations fournissant tout ou partie des renseignements énumérés dans une liste limitative établie par arrêté
-conjoint du ministre chargé de la construction et de l'habitation.
+- soit dans les conditions définies au II de l'article R. 433-12 ;
 
-Ces déclarations doivent fournir notamment les informations relatives à la situation de l'entreprise à l'égard de la sécurité
-sociale et à l'égard des recouvrements fiscaux dans les conditions prévues pour l'application de l'article 56 de l'ordonnance
-n. 58-1372 du 29 décembre 1958.
+- soit, pour ceux de ces contrats entrant dans le champ d'application de la loi n° 85-704 du 12 juillet 1985 modifiée
+relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, dans les conditions fixées par
+la section 4 du présent chapitre.
+
+Pour les contrats de maîtrise d'oeuvre entrant dans le champ d'application défini à l'article R. 433-5 dont le montant est
+inférieur aux seuils cités ci-dessus, l'organisme peut engager librement les discussions qui lui paraissent utiles avec les
+candidats de son choix et attribuer librement le contrat au candidat de son choix. L'organisme est toutefois tenu, après une
+consultation écrite au moins sommaire, d'engager la négociation avec au moins trois candidats. Ces contrats peuvent en outre
+être passés sans mise en concurrence préalable dans les cas suivants :
+
+1. Lorsque les besoins ne peuvent être satisfaits que par une prestation nécessitant l'emploi d'un brevet d'invention, d'une
+licence ou de droits exclusifs détenus par un seul prestataire ;
+
+2. Pour les prestations qui sont exécutées à titre de recherches, d'essais, d'expérimentation ou de mise au point ;
+
+3. Lorsque les besoins ne peuvent être satisfaits que par une prestation qui, à cause de nécessités techniques,
+d'investissements préalables importants, d'installations spéciales ou de savoir-faire, ne peut être confiée qu'à un
+prestataire déterminé.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Code de la construction R433-10
-	  - TXT_ASSOCIE: Code de la construction R433-11
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 56 ()
+	  - Loi n°85-704 1985-07-12
+	  - Code de la construction et de l'habitation. - art. R433-12 (M)
+	  - Code de la construction et de l'habitation. - art. R433-14 (M)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°61-552 1961-05-23 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-	  - Code de la construction et de l'habitation. - art. R433-11 (M)
-	  - Code de la construction et de l'habitation. - art. R433-23 (M)
-	  - Code de la construction et de l'habitation. - art. R433-37 (Ab)
-
-
-###### Article R433-10
-
-Toute déclaration établie en application du 2. de l'article R. 433-9 reconnue inexacte peut entraîner l'une des sanctions
-suivantes par décision de la société d'habitations à loyer modéré contractante, sans mise en demeure préalable et aux frais
-et risques du déclarant :
-
-- soit l'exécution des travaux en régie ou la passation d'un nouvelle adjudication à la folle enchère ;
-
-- soit la résiliation pure et simple du marché suivie ou non de la passation d'un autre marché.
-
-Les excédents de dépenses résultant de l'exécution en régie ou de l'adjudication sur folle enchère ou de la passation d'un
-autre marché après résiliation sont prélevés sur les sommes qui peuvent être dues à l'entrepreneur sans préjudice des droits
-à exercer contre lui en cas d'insuffisance. Les diminutions éventuelles de dépenses restent acquises à la société
-d'habitations à loyer modéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-11 (Ab)
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-9 (M)
-
 
 ###### Article R433-11
 
-La déclaration prévue au 2. de l'article R. 433-9 doit comporter l'engagement de se soumettre, le cas échéant, aux sanctions
-prévues à l'article R. 433-10.
+I. - Les avis d'appel public à la concurrence, ainsi que les avis de concours à l'exception de ceux lancés pour des contrats
+visés par la section 4 du présent chapitre, mentionnent au moins :
+
+1. L'identification de l'organisme contractant ;
+
+2. L'objet du ou des contrats ;
+
+3. La procédure de passation ;
+
+4. Les justifications à produire quant aux qualités et aux capacités du candidat ;
+
+5. La date limite de réception des candidatures ou des offres ;
+
+6. Pour les avis d'appel d'offres et de concours, le lieu où l'on peut retirer le dossier de consultation ;
+
+7. Pour les concours, les modalités d'indemnisation des concurrents.
+
+II. - Dans un délai de trente jours à compter de la conclusion du contrat, l'organisme porte à la connaissance du public le
+nom du titulaire ainsi que le montant du contrat par un avis d'attribution.
+
+III. - Les avis mentionnés au I et au II du présent article sont au moins insérés dans une publication habilitée à recevoir
+des annonces légales.
+
+Dans tous les cas d'appel public à la concurrence ou de concours, le délai de remise des candidatures ou des offres est fixé
+selon la nature des prestations et ne peut être inférieur à quinze jours à compter de la publication de l'avis mentionné à
+l'article R. 433-10.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-9 (M)
 
 
 ###### Article R433-12
 
-Les soumissions ou offres doivent être signées par les entrepreneurs ou fournisseurs ou par leurs mandataires dûment
-habilités, sans qu'un même mandataire puisse représenter plus d'un candidat [*nombre*] pour un même lot de travaux.
+I. - Les contrats entrant dans le champ d'application défini à l'article R. 433-5 passés sur appel d'offres font l'objet d'un
+règlement de consultation, qui mentionne au moins :
+
+1. L'objet du contrat ;
+
+2. La date limite de réception des offres ;
+
+3. Le délai de validité des offres ;
+
+4. Les justifications à produire quant aux qualités et aux capacités des candidats ;
+
+5. Les conditions dans lesquelles les variantes sont admises ;
+
+6. Les modalités de transmission des offres, qui doivent assurer la confidentialité des informations et l'égalité de
+traitement des candidats ;
+
+7. Le mode de règlement du contrat ;
+
+8. Le ou les critères de jugement des offres pris en compte lors de l'attribution du contrat.
+
+Ces critères, qui permettent à l'organisme de choisir l'offre qu'il juge la plus intéressante, sont justifiés par l'objet du
+contrat et ses conditions d'exécution, et sont notamment : le prix des prestations, leur coût d'utilisation, leur valeur
+technique, les garanties professionnelles, financières et de qualité présentées par chacun des candidats et le délai
+d'exécution des prestations.
+
+II. Lorsqu'il est procédé à un concours, y compris lorsqu'il s'agit d'un concours de maîtrise d'oeuvre, exception faite de
+concours visés par la section IV du présent chapitre, le règlement du concours doit comporter notamment, outre les mentions
+citées au I du présent article, l'indication sommaire des prestations qui seront à fournir par les participants, la
+composition du jury, qui doit comporter, par dérogation à l'article R. 433-13, un tiers au moins de maîtres d'oeuvre
+compétents eu égard à l'ouvrage à réaliser et à la nature des prestations à fournir au titre du contrat de maîtrise d'oeuvre,
+les conditions dans lesquelles ils peuvent être entendus par celui-ci, les critères de jugement des projets présentés et les
+modalités d'indemnisation des candidats ayant remis des prestations.
+
+III. - L'établissement du règlement de consultation ou de concours est facultatif si toutes les mentions prévues au I ou II
+ci-dessus ont été insérés dans l'avis d'appel d'offres, d'adjudication, d'appel public à candidatures ou de concours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-10 (M)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R433-13 (M)
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
+
 
 ###### Article R433-13
 
-Les personnes ou sociétés en état de règlement judiciaire ou de liquidation de biens ne sont pas admises à soumissionner.
-Aucun marché des sociétés d'habitations à loyer modéré ne peut leur être attribué [*interdiction*].
+La composition et le fonctionnement de la commission d'appel d'offres, ou ceux du jury de concours sont fixés, sous les
+réserves prévues à la section IV du présent chapitre pour les contrats visés par cette section, par le conseil
+d'administration ou de surveillance de l'organisme. Le directeur départemental de l'équipement ou son représentant, ainsi
+qu'un représentant du directeur général de la concurrence, de la consommation et de la répression des fraudes assistent aux
+réunions de cette commission ou de ce jury avec voix consultatives ; ils peuvent respectivement exiger que leur avis soit
+porté au procès-verbal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -61752,19 +61844,47 @@ Aucun marché des sociétés d'habitations à loyer modéré ne peut leur être 
 
 ###### Article R433-14
 
-Les prestations qui font l'objet des marchés doivent être déterminées dans leur consistance et leurs spécifications avant
-tout appel à la concurrence ou négociation. Les spécifications retenues font référence, dans la mesure du possible, aux
-normes françaises homologuées ou à des décisions du ministre chargé de la construction et de l'habitation.
+L'organisme peut engager librement les discussions qui lui paraissent utiles avec les candidats de son choix et attribuer
+librement le contrat au candidat de son choix, l'organisme étant toutefois tenu, après une consultation écrite au moins
+sommaire, d'engager la négociation avec au moins trois candidats, dans les cas suivants :
+
+1. Lorsque les prestations n'ont fait l'objet d'aucune soumission ou offre ou n'ont donné lieu qu'à des soumissions ou offres
+inacceptables ;
+
+2. Dans les cas d'urgence pour les travaux, fournitures ou services que l'organisme doit faire exécuter aux lieu et place de
+l'entrepreneur ou du fournisseur défaillant ;
+
+3. Dans les cas d'urgence impérieuse motivée par des circonstances imprévisibles.
+
+II. Les contrats peuvent en outre être passés sans mise en concurrence préalable lorsque les prestations ne peuvent être
+réalisées que par un prestataire déterminé. Il en est ainsi dans les cas suivants :
+
+1. Lorsque les besoins ne peuvent être satisfaits que par une prestation nécessitant l'emploi d'un brevet d'invention, d'une
+licence ou de droits exclusifs ;
+
+2. Lorsque les prestations sont exécutées à titre de recherches, d'essais, d'expérimentation ou de mise au point ;
+
+3. Lorsque les besoins ne peuvent être satisfaits que par une prestation qui, à cause de nécessités techniques,
+d'investissements préalables importants, d'installations spéciales ou de savoir-faire, ne peut être confiée qu'à un
+prestataire déterminé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -61774,84 +61894,131 @@ normes françaises homologuées ou à des décisions du ministre chargé de la c
 
 ###### Article R433-15
 
-Les adjudications et les marchés passés dans les conditions prévues par la présente section peuvent être divisés en plusieurs
-lots selon la nature et l'importance des travaux ou en tenant compte de la nature des professions intéressées.
+Un procès-verbal est établi pour chaque contrat entrant dans le champ d'application défini à l'article R. 433-5. Il comporte
+au moins :
 
-Les cahiers des charges [*contenu*] précisent le nombre, la nature et l'importance des lots et indiquent, le cas échéant, le
-nombre maximum de lots qui peuvent être souscrits par un même soumissionnaire.
+1° Le nom et l'adresse de l'organisme ;
+
+2° L'objet et le montant du contrat ;
+
+3° Le nom des candidats retenus et la justification de leur choix ;
+
+4° Le nom des candidats exclus et les motifs de rejet de leur candidature ou de leur offre ;
+
+5° Le nom du titulaire et la justification du choix de son offre ;
+
+6° La justification du recours à l'un des cas de procédures négociée prévue à l'article R. 433-14.
+
+Ce procès-verbal est communiqué aux membres du conseil d'administration ou de surveillance de l'organisme contractant dans un
+délai d'un mois à compter de la conclusion du contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R433-14 (M)
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
 
 
 ###### Article R433-16
 
-Le marché peut comporter, soit un prix global forfaitaire pour l'ensemble de la prestation commandée, soit un ou plusieurs
-prix unitaires, sur la base duquel ou desquels doit être déterminé le prix de règlement en fonction de l'importance réelle
-des prestations exécutées.
-
-Le prix est ferme lorsqu'il ne peut être modifié à raison des variations des conditions économiques. Il est révisable dans le
-cas contraire. La révision et les conditions de celles-ci doivent être expressément prévues dans le marché.
-
-Lorsque le marché comporte une clause de variation de prix, il doit indiquer la date à laquelle s'entend le prix convenu et
-les modalités précises de la révision de ce prix.
+L'organisme contractant communique à tout candidat qui en fait la demande les motifs de rejet de sa candidature ou de son
+offre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993 rectificatif JORF 28 août 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 
 ###### Article R433-17
 
-Lorsque le marché concerne des travaux à réaliser en totalité ou en partie d'après des spécifications particulières, la
-société d'habitation à loyer modéré contractante peut exiger que les soumissions ou offres soient accompagnées d'un devis
-descriptif ou estimatif détaillé comportant toutes indications permettant d'apprécier les propositions de prix pour ces
-travaux.
-
-Le devis détaillé correspondant à la soumission ou à l'offre retenue n'a pas de valeur contractuelle, sauf disposition
-contraire insérée dans le marché.
-
-Lorsque le marché comporte des prestations exécutées en régie, il doit indiquer la nature, le mode de décompte et,
-éventuellement, la valeur des divers éléments qui concourent à la détermination du prix de règlement desdites prestations.
+Le cahier des charges prévu à l'article R. 433-6 détermine, pour tous les contrats entrant dans le champ d'application défini
+à l'article R. 433-5, les conditions d'exécution du contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
+	  - Code de la construction et de l'habitation. - art. R433-6 (M)
 
 
 ###### Article R433-18
 
-Sauf les exceptions prévues à la présente section, les marchés des sociétés d'habitations à loyer modéré sont attribués par
-adjudication restreinte [*mode de passation*].
+Les contrats entrant dans le champ d'application défini à l'article R. 433-5 donnent lieu à des versements à titre d'avances,
+d'acomptes ou pour solde dans les conditions fixées ci-après :
+
+- avances : une avance forfaitaire peut être accordée ; ses modalités de versement et de remboursement sont précisées dans le
+cahier des charges du contrat ;
+
+- acomptes : les prestations qui ont donné lieu à un commencement d'exécution du contrat ouvrent droit à des acomptes. Les
+modalités de versement des acomptes sont précisées dans le cahier des charges du contrat. 
+
+Les règlements d'avances et d'acomptes n'ont pas le caractère de paiements définitifs, leur bénéficiaire en est débiteur
+jusqu'au paiement du solde du contrat. 
+
+Quand le contrat comporte une clause de variation de prix, il fixe la périodicité de mise en oeuvre de cette clause, et
+l'ensemble des modalités relatives à celle-ci.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
@@ -61860,54 +62027,121 @@ adjudication restreinte [*mode de passation*].
 
 ###### Article R433-19
 
-Seuls sont admis à déposer des offres les entreprises ou groupements d'entreprises agréés par une commission comprenant au
-maximum trois représentants de la société, dont au moins un administrateur, président et, en outre, le directeur
-départemental de l'équipement.
+Un rapport annuel est transmis au conseil d'administration ou de surveillance de l'organisme sur l'exécution de chaque
+contrat entrant dans le champ d'application défini à l'article R. 433-5.
 
-Seules sont admises à prendre éventuellement en sous-traité les entreprises agréées à cet effet par ladite commission.
-
-Le président désigne un secrétaire chargé de la rédaction du procès-verbal, qui doit être signé par tous les membres de la
-commission.
+Ce rapport comporte pour chaque contrat le montant initial du contrat, le montant total des sommes effectivement versées et,
+le cas échéant, les raisons de l'écart constaté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
 
 	**Cité par**:
 
 	  - Décret n°2005-1742 du 30 décembre 2005 - art. 51 (VT)
 
+	**Cite**:
 
-###### Article R433-20
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
 
-Le choix des candidats est fait d'après les résultats d'un appel de candidature publié quinze jours au moins avant la date
-limite fixée pour le dépôt des candidatures, par voie d'affichage et tous autres moyens de publicité.
 
-Cet avis fait connaître au moins :
+##### Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux.
 
-- l'objet du marché ;
+###### Article R433-9
 
-- le délai laissé aux candidats retenus pour établir leurs soumissions ; ce délai ne peut être inférieur à vingt jours ;
+A l'appui des candidatures ou des offres pour les contrats entrant dans le champ d'application défini à l'article R. 433-5,
+il ne peut être exigé que :
 
-- les renseignements que doivent fournir obligatoirement les candidats ;
+1° Des renseignements ou pièces relatives à la nature et aux conditions générales d'exploitation de l'entreprise, à ses
+moyens techniques, à ses références, aux pouvoirs de la personne habilitée pour l'engager ;
 
-- la forme, le lieu et la date limite de réception des candidatures.
+2° Si le candidat est en redressement judiciaire, la copie du ou des jugements prononcés à cet effet ;
+
+3° La déclaration que le candidat ne tombe pas sous le coup des interdictions mentionnées à l'article R. 433-8, ou à
+l'article 50 de la loi n° 52-401 du 14 avril 1952, modifié par l'article 56 de la loi n° 78-753 du 17 juillet 1978, ou d'une
+interdiction équivalente prononcée dans un autre pays ;
+
+4° Les attestations des administrations comptables et organismes chargés de l'assiette et du recouvrement des impôts et
+cotisations concernées, permettant de justifier que le candidat a satisfait à l'ensemble des obligations définies à l'article
+39 de la loi n° 54-404 du 13 avril 1954, modifiée par l'article 56 de l'ordonnance n° 58-1372 du 29 décembre 1958 et par
+l'article 56 de la loi n° 78-753 du 17 juillet 1978 ;
+
+5° Les documents ou attestations figurant à l'article R. 324-4 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°61-552 1961-05-23 art. 16
+	  - Loi n°52-401 du 14 avril 1952 - art. 50 (V)
+	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 56 ()
+	  - Loi n°78-753 1978-07-17 art. 56
+	  - Code du travail - art. R324-4 (M)
+	  - Code de la construction et de l'habitation. - art. R433-5 (M)
+	  - Code de la construction et de l'habitation. - art. R433-8 (M)
+	  - Loi n°54-404 1954-04-13 art. 39
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R433-10 (M)
+	  - Code de la construction et de l'habitation. - art. R433-11 (M)
+	  - Code de la construction et de l'habitation. - art. R433-23 (M)
+	  - Code de la construction et de l'habitation. - art. R433-37 (Ab)
+
+
+##### Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte.
+
+###### Article R433-20
+
+Les contrats de maîtrise d'oeuvre des organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte portant
+sur la réalisation de logements locatifs aidés par l'Etat à l'aide des prêts mentionnés à l'article R. 331-1 sont passés
+conformément aux règles prévues par le décret pris pour l'application de l'article 10 de la loi n° 85-704 du 12 juillet 1985
+modifiée relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°85-704 du 12 juillet 1985 - art. 10 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 6 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
@@ -61918,50 +62152,59 @@ Cet avis fait connaître au moins :
 
 ###### Article R433-21
 
-Les plis contenant les candidatures doivent être envoyés par la poste et recommandés avec demande d'avis de réception
-[*conditions de forme*]. Toutefois, leur dépôt dans une boîte à ce destinée peut être prévu.
-
-Les candidatures doivent être présentées sous enveloppe cachetée portant référence à l'appel de candidature prévu à l'article
-R. 433-20. Ces enveloppes peuvent contenir, outre les renseignements obligatoirement exigés des candidats, toutes références
-d'ordre technique ou financier que ceux-ci ont estimé utile de fournir.
+Les concours d'architecture et d'ingénierie organisés par les organismes privés d'habitations à loyer modéré et les sociétés
+d'économie mixte pour la réalisation de logements locatifs aidés par l'Etat financés à l'aide des prêts mentionnés à
+l'article R. 331-1 sont organisés conformément aux règles prévues par le décret pris pour l'application de l'article 11 de la
+loi du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R433-20 (M)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 11 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 7 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
 ###### Article R433-22
 
-Tous les candidats agréés ou refusés sont avisés dans les cinq jours [*délai*] par lettre recommandée [*condition de forme*]
-de la décision de la commission.
-
-Les lettres aux candidats agréés mentionnent également [*contenu*] :
-
-- le lieu où l'on peut prendre connaissance ou livraison des cahiers des charges, plans et devis et du modèle de soumission ;
-
-- le lieu et la date limite de réception ou d'envoi des soumissions ;
-
-- le lieu, le jour et l'heure fixés pour l'adjudication.
+Pour la réalisation de logements locatifs aidés par l'Etat financés à l'aide des prêts mentionnés à l'article R. 331-1,
+soumis aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et à ses
+rapports avec la maîtrise d'oeuvre privée, les organismes privés d'habitations à loyer modéré et les sociétés d'économie
+mixte de construction et de gestion de logements sociaux peuvent passer des contrats portant à la fois sur l'établissement
+des études et l'exécution des travaux dans les conditions prévues par le titre Ier du décret pris pour l'application de
+l'article 18-1 de la loi du 12 juillet 1985 précitée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 18
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°85-704 du 12 juillet 1985 (V)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 18 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
+
+	**Modifié par**:
+
+	  - Décret n°93-746 1993-03-27 art. 2, art. 8 JORF 30 mars 1993 en vigueur le 1er septembre 1993 rectificatif JORF 28 août 1993
 
 	**Cité par**:
 
@@ -61970,766 +62213,30 @@ Les lettres aux candidats agréés mentionnent également [*contenu*] :
 
 ###### Article R433-23
 
-Lorsque, pour un lot déterminé ou pour l'ensemble des travaux, s'ils ne sont pas divisés en lots, le nombre des candidats est
-inférieur à trois, la commission arrête une liste d'entreprises qui seront invitées dans les trois jours à poser leur
-candidature par lettre individuelle recommandée, accompagnée des pièces mentionnées à l'article R. 433-9 [*contenu*]. La
-lettre fixe un délai de réponse de huit jours et comporte les prévisions énoncées à l'article R. 433-22.
-
-En cas de réponse affirmative, les entreprises sont considérées comme agréées. Le point de départ du délai minimum de vingt
-jours prévu à l'article R. 433-20 est reporté à la date limite du délai de réponse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-20 (M)
-	  - Code de la construction et de l'habitation. - art. R433-22 (M)
-	  - Code de la construction et de l'habitation. - art. R433-9 (M)
-
-
-###### Article R433-24
-
-Les soumissions sont placées sous double enveloppe cachetée.
-
-L'enveloppe extérieure, qui porte l'indication de l'adjudication à laquelle la soumission se rapporte, contient la
-déclaration de soumissionner. L'enveloppe intérieure, sur laquelle est inscrit le nom du candidat, contient la soumission.
-
-Les plis doivent être envoyés par la poste et recommandés avec demande d'avis de réception [*conditions de forme*]. Le cahier
-des charges peut toutefois autoriser leur remise en séance publique ou leur dépôt dans une boîte à ce destinée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-25
-
-Il est procédé à l'adjudication en séance publique par une commission constituée comme pour l'agrément des entreprises.
-
-Au début de la séance, le bureau arrête pour l'ensemble de l'ouvrage, ou le cas échéant pour chacun des lots, un prix maximum
-au-delà duquel aucune attribution ne peut être prononcée.
-
-Le montant de cette limite ne doit, en aucun cas, être divulgué aux concurrents, ni avant, ni après l'ouverture des
-soumissions.
-
-Le président donne lecture à haute voix de la teneur des soumissions.
-
-Les soumissions présentant des différences substantielles avec le modèle sont éliminées.
-
-Le pli cacheté contenant l'indication du prix maximum est alors ouvert.
-
-Le candidat le moins-disant est déclaré adjudicataire provisoire.
-
-Si aucune des offres n'est inférieure au prix maximum, le président fait connaître qu'il n'est pas désigné d'adjudicataire.
-Il peut inviter les candidats présents à formuler immédiatement des offres plus avantageuses. Si aucune n'est inférieure ou
-égale au prix maximum, l'adjudication est déclarée infructueuse. En ce cas, il peut être procédé :
-
-- soit à une nouvelle adjudication après modification des cahiers des charges ou du prix limite. Lorsque certains lots
-seulement d'une entreprise n'ont pas été adjugés, la seconde adjudication peut grouper ces lots ou remettre en adjudication
-l'ensemble de l'entreprise ;
-
-- soit à la consultation d'entreprises proposées par la commission d'adjudication en vue de traiter de gré à gré dans les
-conditions fixées par l'article R. 433-33.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-33 (M)
-
-
-###### Article R433-26
-
-Si le prix le plus bas est souscrit par plusieurs soumissionnaires, une nouvelle adjudication est ouverte séance tenante
-entre ces soumissionnaires seulement.
-
-Si les intéressés se refusent à faire de nouvelles offres à des prix inférieurs, ou si les réductions offertes donnent encore
-des égalités, ou si aucun de ces soumissionnaires ne s'est présenté, il est procédé entre eux à un tirage au sort pour
-désigner l'adjudicataire provisoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-27
-
-Les résultats de chaque adjudication sont constatés sous la forme d'un procès-verbal relatant le déroulement de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-28
-
-Les sociétés d'habitations à loyer modéré peuvent, éventuellement, procéder par adjudication ouverte [*mode de passation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-29
-
-Les sociétés d'habitations à loyer modéré peuvent faire appel au concours après autorisation du préfet, lorsque des motifs
-d'ordre technique ou esthétique justifient des recherches particulières. Le concours comporte un appel public à la
-concurrence [*mode de passation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-30
-
-L'examen des références et garanties des concurrents, ainsi que le classement de leurs propositions, est effectué par un jury
-comprenant [*composition*] :
-
-- le président de la société ou l'administrateur délégué à cet effet par le conseil d'administration, qui préside le jury :
-
-- deux autres représentants de l'organisme ;
-
-- le directeur départemental de l'équipement ;
-
-- une personnalité qualifiée désignée par le président sur avis conforme du directeur départemental de l'équipement.
-
-Si le concours est lancé au nom d'un groupement de maîtres d'ouvrages constitué dans les conditions fixées par l'article R.
-433-1, le jury comprend deux représentants du ministre chargé de la construction et de l'habitation, le trésorier-payeur
-général ou son représentant, trois personnalités qualifiées désignées par le prefet et six représentants des organismes
-intéressés ; ils élisent le président parmi eux.
-
-En cas de partage, le président a voix prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 26
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R433-1
-
-
-###### Article R433-31
-
-Le concours peut porter :
-
-- soit sur l'exécution d'un projet préalablement établi ;
-
-- soit à la fois sur l'établissement d'un projet et sur son exécution.
-
-Dans les deux cas, l'attribution du marché résulte, sur proposition du jury, d'une décision de la société d'habitations à
-loyer modéré.
-
-Avant d'émettre son avis, le jury peut demander à l'ensemble des concurrents ou à tel d'entre eux d'apporter certaines
-modifications à leurs proprositions. Les procédés ou les prix proposés par des candidats ne peuvent être divulgués à leurs
-concurrents.
-
-Il peut être prévu l'allocation de primes, récompenses ou avantages à ceux des concurrents non retenus dont les projets ont
-été les mieux classés.
-
-Il n'est pas donné suite au concours si les projets sont jugés inacceptables ; les concurrents en sont avisés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-32
-
-Dans tous les cas, le jury [*de concours*] dresse un procès-verbal des opérations et formule un avis motivé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-33
-
-Les marchés sont dits de gré à gré lorsque la société d'habitations à loyer modéré engage librement les discussions qui lui
-paraissent utiles et attribue librement le marché à l'entrepreneur ou au fournisseur retenu [*mode de passation*]. La société
-d'habitations à loyer modéré reste tenue de mettre en compétition, dans toute la mesure du possible et par tous les moyens
-appropriés, les entrepreneurs ou fournisseurs susceptibles de réaliser la prestation faisant l'objet du marché.
-
-Peuvent être traités de gré à gré les travaux ci-après :
-
-1. Travaux annexes de la construction, ou de fondations spéciales, dont le montant par lot n'excède pas 100000 F ;
-
-2. Travaux de construction de logements destinés à l'accession à la propriété, portant sur vingt logements au maximum, à
-charge pour la société de justifier, à la demande du directeur départemental de l'équipement, de la consultation d'au moins
-trois [*nombre*] entreprises pour chaque lot ;
-
-3. Travaux ne pouvant subir les délais d'un appel à la concurrence, en raison d'urgence absolue résultant de circonstances
-imprévisibles et sous réserve d'en informer immédiatement le directeur départemental de l'équipement ;
-
-4. Travaux qui doivent être exécutés aux lieu et place des adjudicataires défaillants et à leurs risques et périls ;
-
-5. Travaux qui, ayant donné lieu à un appel à la concurrence, n'ont fait l'objet d'aucune offre ou à l'égard desquels il n'a
-été proposé que des offres inacceptables, après autorisation du préfet ;
-
-6. Travaux dont l'exécution ne peut, en raison de nécessités techniques ou d'investissements importants préalables, être
-confiée qu'à un entrepreneur déterminé, après autorisation du préfet ;
-
-7. Travaux qui ne sont exécutés qu'à titre d'études, d'essais, d'expérimentation ou de mise au point, sous réserve du respect
-de la réglementation en vigueur en matière d'honoraires d'architectes et hommes de l'art, après autorisation du préfet ;
-
-8. Travaux conformes à un projet-type ayant fait l'objet d'un agrément préalable du ministre chargé de la construction et de
-l'habitation ou du préfet de région délivré à la suite d'un concours lancé par l'Etat ou organisé sous son contrôle ; dans ce
-cas, les marchés de gré à gré doivent être passés avec les lauréats du concours aux conditions résultant de ce concours.
-
-La possibilité de recours à cette procédure et les limites et conditions de son utilisation doivent être indiqués dans le
-programme du concours.
-
-Peuvent être traités de gré à gré les travaux dont la valeur n'exèdent pas, pour le montant total de l'opération, des seuils
-fixés par arrêté conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation
+Les contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte pour la
+réalisation de logements locatifs aidés par l'Etat financés à l'aide des prêts mentionnés à l'article R. 331-1, qui ont pour
+objet la réalisation d'un ouvrage à titre de recherche, d'essais ou d'expérimentation doivent respecter les règles prévues
+par le décret pris pour l'application de l'article 18-2 de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la
+maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°85-704 du 12 juillet 1985 - art. 18 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
 
 	**Modifié par**:
 
-	  - Décret n°86-802 1986-07-01 art. 1 JORF 5 juillet 1986
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-25 (Ab)
-
-
-###### Article R433-34
-
-Peuvent être traités sur ordre de service et réglés sur mémoire ou facture, sans qu'il soit passé de marchés écrits, les
-travaux dont le montant présumé toutes taxes comprises n'exède n' excède pas un seuil fixé par arrêté conjoint du ministre
-chargé des finances et du ministre chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-802 1986-07-01 art. 1 JORF 5 juillet 1986
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-35
-
-Les sociétés d'habitations à loyer modéré ou les groupements constitués dans les conditions prévues à l'article R. 433-1
-peuvent être autorisés par le préfet, après avis d'une commission constituée comme un jury de concours, à passer des marchés
-de gré à gré pour des travaux conformes à un projet technique de base ayant fait l'objet d'un premier marché après
-adjudication, appel d'offres ou concours.
-
-Ces marchés de gré à gré ne peuvent être passés qu'avec l'entreprise titulaire du premier marché et que s'ils font apparaître
-une amélioration des conditions financières par rapport à l'opération précédente. Les conditions financières sont appréciées
-en tenant compte de l'évolution de la conjoncture dans le secteur économique intéressé et des modifications ou améliorations
-apportées au projet initial.
-
-La possibilité de recours à cette procédure doit être indiquée dès la mise en concurrence de la première opération. Il ne
-peut y être recouru que pendant une période de trois ans suivant la signature du marché initial.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 31 (Décret 71-574 1971-07-02 art. 3)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R433-1
-
-
-###### Article R433-36
-
-Des marchés peuvent être passés par appel d'offres pour la construction de cent logements au plus [*nombre*]. Il en est de
-même pour les marchés  de travaux de grosses réparations ou d'aménagement d'immeubles n'excédant pas 500.000 F [*montant*].
-
-A défaut de publicité, la liste des entreprises que la société envisage d'appeler à soumissionner est communiquée
-préalablement au directeur départemental de l'équipement, qui peut prescrire d'appeler également d'autres entreprises.
-
-En cas de contestation de la part de la société d'habitations à loyer modéré ou du directeur départemental sur la capacité
-technique ou financière de certaines entreprises, il est procédé à l'examen de leurs références dans les mêmes conditions que
-celles fixées pour une adjudication restreinte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-37
-
-Les offres sont placées sous double enveloppe cachetée.
-
-L'enveloppe extérieure, qui porte l'indication de l'appel d'offres auquel l'offre se rapporte, contient la déclaration de
-soumissionner et, le cas échéant, les pièces mentionnées à l'article R. 433-9. L'enveloppe intérieure, sur laquelle est
-inscrit le nom du candidat, contient l'offre.
-
-Les plis contenant les offres doivent être envoyés par la poste et recommandés [*condition de forme*]. Toutefois, les cahiers
-des charges peuvent en autoriser le dépôt dans une boîte à ce destinée.
-
-A leur réception, les plis sont enregistrés dans leur ordre d'arrivée sur un registre spécial.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 33
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-40 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-9 (M)
-
-
-###### Article R433-38
-
-Les plis ne sont décachetés qu'en commission. Celle-ci est composée comme en matière d'adjudication. La séance n'est pas
-publique, les candidats n'y sont pas admis.
-
-La commission élimine les offres non conformes à l'objet du marché. Elle classe les offres en tenant compte uniquement du
-prix des prestations. Le cas échéant, elle peut également tenir compte de la valeur technique des variantes si la possibilité
-en a été expressément prévue dans l'appel d'offres, ou du délai d'exécution ou de tous autres critères nettement définis dans
-l'appel d'offres.
-
-Dans le cas où plusieurs offres jugées les plus intéressantes sont tenues pour équivalentes, tous les éléments considérés, la
-commission, pour départager les candidats, peut demander à ceux-ci de présenter de nouvelles offres. Hormis ce cas, elle ne
-peut discuter avec les candidats que pour leur faire préciser ou compléter la teneur de leurs offres.
-
-Il est dressé un procès-verbal signé de tous les membres de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-40 (Ab)
-
-
-###### Article R433-39
-
-Au vu du procés-verbal, la société désigne les entreprises attributaires des travaux.
-
-Lorsque le classement des offres a été opéré uniquement d'après le coût des prestations, le marché doit être passé avec
-l'entreprise classée en premier rang par la commission susmentionnée, sauf dérogation accordée par le directeur départemental
-de l'équipement.
-
-Ce dernier peut, dans tous les cas, demander communication d'un exemplaire original des marchés passés après l'appel
-d'offres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-23 art. 35
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-40
-
-Pour la réalisation des programmes pluriannuels de construction de logements inscrits dans les lois de finances, les sociétés
-d'habitations à loyer modéré peuvent utiliser la procédure de l'appel d'offres restreint après autorisation du préfet [*mode
-de passation*].
-
-La demande d'autorisation est accompagnée de la liste des entreprises de gros oeuvre à consulter.
-
-La procédure de remise et de dépouillement des offres est celle qui est fixée par les articles R. 433-37 et R. 433-38. A
-l'issue des négociations avec les entreprises, la société d'habitations à loyer modéré soumet le projet de marché au préfet
-qui statue après avis de la commission dont la composition est fixée par l'article 301 du code des marchés publics.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des marchés publics 301
-	  - Code de la construction et de l'habitation. - art. R433-37 (Ab)
-	  - Code de la construction et de l'habitation. - art. R433-38 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°61-552 1961-05-25 art. 35 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-##### Section 3 : Délais et règles de procédure permettant d'accélérer le règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer modéré.
-
-###### Article R*433-42
-
-L'entrepreneur titulaire d'un marché de travaux à exécuter suivant les pratiques du bâtiment doit, dans les conditions et
-délais prévus par les documents contractuels constituant le marché, établir et remettre au maître de l'ouvrage les situations
-permettant de dresser les décomptes provisoires et le décompte définitif.
-
-Lorsque ces situations n'ont pas été remises aux dates prévues, le maître de l'ouvrage peut mettre l'entrepreneur en demeure
-de les produire dans un délai déterminé par une décision qui est notifiée à celui-ci par un ordre de service.
-
-Si cette mise en demeure reste infructueuse, les dispositions des articles R. 433-43 et R. 433-44 peuvent être appliquées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 1 (RAPPEL)
-	  - Code de la construction et de l'habitation R433-43
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978, rectificatif JORF 31 JANVIER 1979
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-43
-
-Le maître de l'ouvrage peut établir d'office et aux frais de l'entrepreneur les situations prévues ci-dessus.
-
-Si le maître de l'ouvrage a chargé de la vérification des situations un architecte, un expert ou un technicien, celui-ci doit
-être informé de la décision d'établissement d'office. Il est tenu d'apporter au maître de l'ouvrage sa collaboration pour
-l'établissement des droits de l'entrepreneur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 2 (RAPPEL)
-	  - Code de la construction et de l'habitation R433-42
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-44
-
-Les situations établies dans les conditions indiquées à l'article précédent sont notifiées à l'entrepreneur, qui dispose pour
-faire valoir ses observations d'un délai de :
-
-- dix jours pour les situations en cours d'exécution de marché ;
-
-- quarante jours pour la situation récapitulative complète.
-
-Si, à l'expiration des délais ci-dessus mentionnés, l'entrepreneur n'a pas fait connaître ses observations, il est réputé
-avoir accepté les situations qui lui ont été notifiées [*silence, accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 3 (CITATION)
-	  - Code de la construction et de l'habitation R433-43
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-45
-
-Le cahier des prescriptions spéciales du marché peut spécifier que l'entrepreneur doit remettre des situations directement à
-l'architecte, à l'expert ou au technicien chargé par le maître de l'ouvrage de la vérification des situations, dans les
-conditions mentionnées à l'article R. 443-43.
-
-Dans ce cas, les remises à cet homme de l'art sont considérées, pour l'application des dispositions des articles précédents,
-comme valant remise au maître de l'ouvrage.
-
-L'architecte, l'expert ou le technicien dispose, pour vérifier les situations et les transmettre au maître de l'ouvrage, d'un
-délai qui, sans pouvoir être inférieur à dix jours, est égal à celui qui est fixé dans le marché pour les constatations
-ouvrant droit à acomptes ou à paiement pour solde, diminué de quinze jours.
-
-Si à l'expiration du délai qui lui est imparti, l'architecte, l'expert ou le technicien n'a pas transmis les situations
-vérifiées au maître de l'ouvrage, celui-ci peut, après mise en demeure, faire vérifier les situations, aux frais du
-défaillant, par tel architecte, ingénieur ou technicien qu'il désignera ou les vérifier lui-même.
-
-Le maître de l'ouvrage notifie sa décision à l'entrepreneur, qui est tenu de mettre à sa disposition ou à celle de la
-personne désignée l'ensemble des éléments propres à permettre la vérification des travaux exécutés et des situations
-établies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 4 (RAPPEL)
-	  - Code de la construction et de l'habitation R433-43
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-46
-
-Les marchés passés entre les maîtres de l'ouvrage et les entrepreneurs doivent fixer les pénalités qu'encourent ces derniers
-en cas de retard dans la remise des situations à l'expiration des délais prévus.
-
-De même, les contrats passés entre les maîtres de l'ouvrage et les architectes, experts ou techniciens privés doivent
-stipuler les pénalités qu'encourent ces derniers en cas de retard dans l'accomplissement de leur mission de vérification des
-situations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 5 (CITATION)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-47
-
-Les entrepreneurs, architectes, experts ou techniciens qui seraient reconnus responsables de l'inobservation des délais qui
-leur sont impartis et qui auraient ainsi retardé les opérations de constatation, de liquidation et de règlement des travaux
-sont passibles de l'exclusion de toutes activités relatives aux marchés définis dans l'article R. 433-48, après observation
-de la procédure prévue à l'article 10 de la loi n. 57-908 du 7 août 1957 [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°57-908 du 7 août 1957 - art. 10, v. init.
-	  - Décret n°66-655 1966-08-31 ART. 6 (RAPPEL)
-	  - Code de la construction et de l'habitation R433-48
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R*433-48
-
-Les marchés de travaux mentionnés à l'article R. 433-47 sont ceux passés par l'Etat, les départements, les communes, les
-syndicats de communes ainsi que par les sociétés d'habitations à loyer modéré et tous les établissements publics nationaux,
-départementaux et communaux non soumis aux lois et usages du commerce.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 7 (RAPPEL)
-	  - Code de la construction et de l'habitation R433-47
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-
-###### Article R433-41
-
-Les articles 1 à 6 du décret n. 66-655 du 31 août 1966, ci-après reproduits sous les articles R. 433-42 à R. 433-47, sont
-applicables au règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer
-modéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-655 1966-08-31
-
-	**Cite**:
-
-	  - Décret n°66-655 1966-08-31 ART. 1 à 6
-	  - Code de la construction et de l'habitation R433-42 à R433-47
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+	  - Décret n°93-746 1993-03-27 art. 2, art. 9 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
 #### Chapitre IV : Rémunération et honoraires des architectes, ingénieurs et techniciens.
@@ -65399,6 +64906,26 @@ titre V du livre III du présent code (deuxième partie).
 	**Créé par**:
 
 	  - Décret n°92-726 du 29 juillet 1992 - art. 21 () JORF 30 juillet 1992
+
+
+###### Article R*481-3
+
+Les contrats des sociétés d'économie mixte de construction et de gestion de logements sociaux sont soumis aux dispositions
+des articles R. 433-5 à R. 433-23, dans les conditions fixées par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°93-746 1993-03-27 art. 10 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R433-5 (V)
 
 
 ## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.
