@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-03-19
+Version Consolidée au 1993-03-28
 
 # Partie législative
 
@@ -19755,9 +19755,12 @@ d'application du présent article.
 Les immeubles groupant plusieurs logements doivent être pourvus des lignes téléphoniques nécessaires à la desserte de chacun
 des logements. Ces lignes doivent être placées dans des gaines ou passages réservés à cet effet.
 
-Ces mêmes immeubles doivent également être munis des dispositifs collectifs nécessaires à la réception des émissions de
-radio-diffusion sonore ou visuelle dans les logements et des gaines ou passages pour l'installation des câbles
-correspondants.
+Ces mêmes immeubles doivent également être munis des dispositifs collectifs nécessaires à la distribution des services de
+radiodiffusion sonore et de télévision dans les logements et des gaines ou passages pour l'installation des câbles
+correspondants. Ces dispositifs collectifs doivent permettre la fourniture des services diffusés par voie hertzienne
+terrestre reçus normalement sur le site, être raccordables à un réseau câblé et conformes aux spécifications techniques
+d'ensemble fixées en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de
+communication.
 
 Un arrêté conjoint des ministres chargés de la construction et de l'habitation, des postes et télécommunications et de
 l'information précise les modalités d'application des règles fixées aux alinéas précédents et, en tant que de besoin, les
@@ -19766,13 +19769,21 @@ affectation ou à leur situation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 34 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-613 1993-03-26 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°93-613 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -35650,16 +35661,14 @@ dépasser le maximum fixé par ledit arrêté.
 
 Sous réserve des dispositions des articles R. 315-10 et R. 315-11, le montant et la durée maximum des prêts sont fixés de
 telle sorte que le total des intérêts à payer par l'emprunteur soit égal au total des intérêts acquis à la date de la demande
-de prêt et pris en compte pour le calcul du montant du prêt, multiplié par un coefficient qui ne peut excéder un maximum fixé
-par arrêté du ministre chargé des finances, du ministre chargé de la construction.
+du prêt et pris en compte pour le calcul du montant du prêt multiplié par un coefficient au minimum égal à 1.
 
-Ce coefficient est au minimum égal à 1.
+Le coefficient maximum de conversion des intérêts est fixé à 1,5 en matière de comptes d'épargne-logement à l'exception des
+prêts destinés au financement de la souscription de parts de sociétés civiles de placement immobilier pour lesquels le
+coefficient maximum de conversion des intérêts est fixé à 1.
 
-En cas de réduction du coefficient, les titulaires de comptes d'épargne-logement déjà ouverts bénéficent de prêts calculés
-sur la base du coefficient en vigueur à la date d'ouverture du compte.
-
-Le coefficient applicable à un compte d'épargne et le barème en résultant doivent être mentionnés sur le livret délivré au
-titulaire lors de l'ouverture du compte.
+Lors de l'ouverture d'un compte d'épargne, les coefficients en vigueur et les barèmes en résultant doivent être mentionnés
+sur le livret délivré au titulaire.
 
 **Liens relatifs à cet article**
 
@@ -35669,7 +35678,11 @@ titulaire lors de l'ouverture du compte.
 
 	**Modifié par**:
 
-	  - Décret n°92-358 du 1 avril 1992 - art. 1 () JORF 3 avril 1992
+	  - Décret n°93-590 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R315-10, R315-11
 
 
 ###### Article R*315-13
@@ -36250,17 +36263,19 @@ Le taux d'intérêt du prêt est égal au taux d'intérêt servi aux dépôts ef
 Le total des intérêts acquis pris en compte pour le calcul du montant du prêt, en application de l'article R. 315-12, est
 évalué à la date de venue à terme du plan d'épargne-logement.
 
-Le coefficient maximum de conversion des intérêts prévu audit article est fixé à 2,5 en matière de plans d'épargne-logement.
+Le coefficient maximum de conversion des intérêts prévu au deuxième alinéa dudit article est fixé à 2,5 en matière de plans
+d'épargne logement à l'exception des prêts destinés au financement de la souscription de parts des sociétés civiles de
+placement immobilier pour lesquels le coefficient maximum de conversion des intérêts est fixé à 1,5.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°93-590 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -61175,6 +61190,30 @@ son délégué.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L431-1 (V)
+
+
+##### Sous-section 3 : Modalités de gestion des prêts.
+
+###### Article R431-63
+
+Les organismes d'HLM peuvent recourir au contrat de délégation visé à l'article 1275 du code civil en vue de déléguer un
+remboursement de prêt, à la condition que l'établissement prêteur déclare expressément et sans réserve qu'il entend décharger
+l'organisme d'habitations à loyer modéré qui a fait délégation de l'obligation de rembourser ce prêt et qu'ainsi ledit
+contrat opère novation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1275 (V)
+
+	**Créé par**:
+
+	  - Décret n°93-619 1993-03-25 art. 1, art. 2 JORF 28 mars 1993
 
 
 #### Chapitre II : Prêts aux autres organismes et collectivités
