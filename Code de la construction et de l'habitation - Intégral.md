@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-04
 
 # Partie législative
 
@@ -4742,13 +4742,7 @@ l'expiration des six premières années du bail.
 La variation du coefficient est proportionnelle à celle du revenu brut des immeubles. Le revenu pris pour base de la
 variation du coefficient est celui de la première année civile qui suit celle de l'achèvement des travaux.
 
-Toutefois, à chaque période triennale, l'augmentation du loyer ne peut, en aucun cas, être inférieure à ce qu'elle serait si
-la variation était basée sur l'indice du coût de la construction. Mais si, par l'effet de dispositions législatives, les
-revenus du preneur sont limités, le preneur peut demander la révision amiable ou judiciaire du loyer. Cette révision porte au
-plus sur la différence entre le loyer calculé sur la base de l'indice du coût de la construction et ce même loyer calculé en
-lui appliquant le taux d'augmentation autorisé pour les loyers civils et commerciaux composant le revenu du preneur.
-
-Les contestations relatives à l'application des dispositions des trois précédents alinéas sont portées devant le président du
+Les contestations relatives à l'application des dispositions des deux précédents alinéas sont portées devant le président du
 tribunal de grande instance.
 
 En cas de perte des bâtiments, le loyer est maintenu au taux qu'il avait atteint à la date de cette perte jusqu'à
@@ -4758,11 +4752,15 @@ reconstruction éventuelle des bâtiments détruits.
 
 	**Anciens textes**:
 
-	  - Loi n°64-1247 1964-12-16 art. 5
+	  - Loi n°64-1247 1964-12-16 art. 5 5oi 77-1457 19977-12-29 art. 9)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31
+
+	**Modifié par**:
+
+	  - Loi n°79-17 1979-01-03 ART. 9 I JORF 4 JANVIER 1979
 
 	**Cité par**:
 
@@ -9086,6 +9084,31 @@ foncier.
 	  - Code de la construction et de l'habitation. - art. R353-162 (M)
 
 
+###### Article L353-4
+
+En cas de mutation à titre gratuit ou onéreux de biens faisant l'objet de conventions mentionnées à l'article L. 351-2,
+lesdites conventions s'imposent de plein droit au nouveau propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1 du 3 janvier 1977 - art. 27, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L443-10 (V)
+	  - Code de la construction et de l'habitation. - art. L443-6-9 (V)
+
+
 ###### Article L353-5
 
 Les logements faisant l'objet d'une convention conclue par application des dispositions de l'article L. 351-2 doivent,
@@ -9402,6 +9425,171 @@ Conseil d'Etat.
 	  - Code de la construction et de l'habitation. - art. R353-163 (M)
 	  - Code de la construction et de l'habitation. - art. R353-164 (M)
 	  - Code de la construction et de l'habitation. - art. R353-165 (M)
+
+
+##### Section 2 : Dispositions particulières applicables à certains logements conventionnés.
+
+###### Article L353-14
+
+Par dérogation aux dispositions de la section I du présent chapitre, les dispositions de la présente section sont applicables
+aux logements conventionnés appartenant aux organismes d'habitation à loyer modéré mentionnés à l'article L.411-2 ainsi qu'à
+ceux appartenant aux collectivités locales et gérés par lesdits organismes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°81-1161 du 30 décembre 1981 - art. 2 (P)
+	  - Loi n°82-526 du 22 juin 1982 - art. 75 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 48 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 40 (V)
+	  - Code de la construction et de l'habitation. - art. L353-15 (V)
+	  - Code de la construction et de l'habitation. - art. L353-16 (V)
+	  - Code de la construction et de l'habitation. - art. L353-17 (V)
+	  - Code de la construction et de l'habitation. - art. L353-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. L353-20 (V)
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+
+###### Article L353-15
+
+Par dérogation à l'article L. 442-6, seules les dispositions des chapitres 1er, V, VI, des premier et deuxième alinéas de
+l'article 32 bis, de l'article 38 et de l'alinéa premier de l'article 78 de la loi n. 48-1360 du 1er septembre 1948 modifiée,
+sont applicables aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14 [*appartenant aux
+HLM et aux collectivités locales*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 ART. 32 BIS, ART. 38, ART. 78
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
+	  - Code de la construction et de l'habitation. - art. L353-14 (M)
+	  - Code de la construction et de l'habitation. - art. L442-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°82-526 du 22 juin 1982 - art. 75 (Ab)
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+	  - Code de la construction et de l'habitation. - art. L445-7 (V)
+	  - Code de la construction et de l'habitation. - art. R353-12 (V)
+	  - Code de la construction et de l'habitation. - art. R353-204 (V)
+
+
+###### Article L353-16
+
+Une copie de la convention doit être tenue en permanence à la disposition des locataires des immeubles mentionnés à l'article
+L. 353-14. 
+
+A compter de la date d'entrée en vigueur de la convention ou de la date d'achèvement des travaux d'amélioration lorsque la
+convention le prévoit, le bailleur peut, dans la limite du maximum prévu par la convention, fixer un nouveau loyer qui est
+applicable dès sa notification aux titulaires de baux en cours ou aux bénéficiaires du droit au maintien dans les lieux sans
+qu'il soit nécessaire de leur donner congé. 
+
+Les modalités d'évolution du loyer sont fixées par la convention et s'appliquent aux titulaires de baux en cours ou aux
+bénéficiaires du droit au maintien dans les lieux. 
+
+Le montant du cautionnement versé d'avance à titre de garantie est fixé par la convention, sans pouvoir excéder une somme
+correspondant à un mois de loyer en principal, révisable en fonction de l'évolution du loyer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°81-1161 du 30 décembre 1981 - art. 1 (P)
+	  - Loi n°82-526 du 22 juin 1982 - art. 53 (Ab)
+	  - Code de la construction et de l'habitation. - art. L252-3 (V)
+	  - Code de la construction et de l'habitation. - art. L253-2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+
+###### Article L353-17
+
+Par dérogation à l'article L. 353-3, les conventions concernant les logements mentionnés à l'article L. 353-14 prennent effet
+à leur date de signature. 
+
+En cas de mutation entre vifs à titre gratuit ou onéreux des biens faisant l'objet de ces conventions, l'acte de cession de
+ces biens doit faire mention desdites conventions. 
+
+La validité de la mutation est subordonnée à l'engagement pris par le nouveau propriétaire de respecter toutes les
+stipulations des conventions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-14 (V)
+	  - Code de la construction et de l'habitation. - art. L353-3 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L353-19 (V)
+	  - Code de la construction et de l'habitation. - art. L443-10 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R353-4 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+
+###### Article L353-18
+
+Les dispositions des articles L. 353-15 à L. 353-17 pourront être étendues par décret en Conseil d'Etat aux logements
+appartenant à des sociétés d'économie mixte ou à leurs filiales, lorsque celles-ci en font la demande en vue de leur
+conventionnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°81-1161 du 30 décembre 1981 - art. 2 (P)
+	  - Code de la construction et de l'habitation. - art. R353-1 (M)
+	  - Code de la construction et de l'habitation. - art. R353-11 (M)
+	  - Code de la construction et de l'habitation. - art. R353-13 (M)
+	  - Code de la construction et de l'habitation. - art. R353-14 (M)
+	  - Code de la construction et de l'habitation. - art. R353-2 (M)
+	  - Code de la construction et de l'habitation. - art. R353-21 (M)
+	  - Code de la construction et de l'habitation. - art. R353-23 (M)
+	  - Code de la construction et de l'habitation. - art. R353-24 (M)
+	  - Code de la construction et de l'habitation. - art. R353-3 (M)
+	  - Code de la construction et de l'habitation. - art. R353-4 (M)
+	  - Code de la construction et de l'habitation. - art. R353-58 (V)
+	  - Code de la construction et de l'habitation. - art. R353-59 (V)
+	  - Code de la construction et de l'habitation. - art. R353-61 (VD)
+	  - Code de la construction et de l'habitation. - art. R353-64 (V)
+	  - Code de la construction et de l'habitation. - art. R353-70 (V)
+	  - Code de la construction et de l'habitation. - art. R353-71 (M)
+	  - Code de la construction et de l'habitation. - art. R353-72 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.
@@ -17244,6 +17432,36 @@ en plus du personnel.
 	**Anciens textes**:
 
 	  - Décret n°73-1007 1973-10-31 art. 2
+
+
+###### Article R*123-3
+
+Les constructeurs, propriétaires et exploitants des établissements recevant du public sont tenus, tant au moment de la
+construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la
+sécurité des personnes ; ces mesures sont déterminées compte tenu de la nature de l'exploitation, des dimensions des locaux,
+du mode de construction et du nombre de personnes pouvant être admises dans l'établissement, y compris les handicapés.
+
+Le règlement de sécurité prévu à l'article R. 123-12 ci-dessous précise, pour chaque catégorie d'établissement, l'effectif
+au-delà duquel la présence de personnes handicapées circulant en fauteuil roulant nécessite l'adoption de mesures
+particulières de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 juin 1980 - art. GN 8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R123-12
+
+	**Anciens textes**:
+
+	  - Décret n°73-1007 1973-10-31 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 ###### Article R*123-4
