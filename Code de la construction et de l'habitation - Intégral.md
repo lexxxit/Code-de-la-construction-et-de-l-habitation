@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -5358,19 +5358,23 @@ de commerce.L'article 279 n'a pas été repris.
 
 Lorsque les projets d'aménagement des ensembles d'habitations entrepris ou réalisés par la société comportent des ouvrages
 d'intérêt commun à plusieurs des sociétés nouvelles, la société ancienne ne peut être dissoute qu'après qu'un syndicat de
-copropriétaires ait été établi par un règlement de copropriété ou qu'une association syndicale régie par la loi du 21 juin
-1865 ait été constituée pour assurer l'entretien et, le cas échéant, l'exécution desdits ouvrages.
+copropriétaires ait été établi par un règlement de copropriété ou qu'une association syndicale régie par l'ordonnance n°
+2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires ait été constituée pour assurer
+l'entretien et, le cas échéant, l'exécution desdits ouvrages.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-563 1955-05-20 ART. 5 (rappel)
-	  - Loi n°1865-06-21
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 61 () JORF 2 juillet 2004
 
 
 ##### Section 2 : Conseil de surveillance.
