@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-12-22
+Version Consolidée au 1985-03-12
 
 # Partie législative
 
@@ -36750,7 +36750,7 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ###### Article R331-63
 
-Des prêts conventionnés peuvent être accordés [*définition, objet*], dans les conditions fixées par la présente section, pour
+Des prêts conventionnés peuvent être accordés [*définition*] dans les conditions fixées par la présente section, pour
 financer [*opérations*] :
 
 1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
@@ -36760,16 +36760,10 @@ logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
 3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
 
-4. Les travaux destinés à réduire les dépenses d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait
-l'objet avant cete date d'une demande de permis de construire ; ces travaux doivent être réalisés par des entreprises
-garantissant contractuellement l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
-
-Un arrêté du ministre chargé de la construction et de l'habitation précise les conditions d'application du 4., notamment les
-modalités de calcul et de contrôle des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités de mise
-en oeuvre de la garantie.
-
-5. les travaux d'amélioration de logements achevés depuis au moins dix ans. Un arrêté conjoint des ministres chargés des
-finances et du logement fixe le montant minimal de ces travaux.
+4. Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
+d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
+de construire.    Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux
+visés au 4° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -36813,7 +36807,7 @@ finances et du logement fixe le montant minimal de ces travaux.
 
 	**Modifié par**:
 
-	  - Décret n°84-703 1984-07-17 ART. 1 JORF 24 JUILLET 1984 rectificatif JORF 3 AOUT 1984
+	  - Décret n°85-325 1985-03-08 art. 1, art. 2 JORF 12 mars 1985
 
 	**Liens**:
 
@@ -36825,9 +36819,8 @@ finances et du logement fixe le montant minimal de ces travaux.
 
 Les occupants des logements faisant l'objet des prêts conventionnés ont droit à l'aide personnalisée au logement dans les
 conditions prévues par les titres, préliminaires et III à V du présent livre (1ère et 2ème partie), sauf lorsque ces prêts
-financent les travaux visés à l'article R. 331-63 (4° et 5°) ou lorsqu'en application de l'article R. 331-67 l'octroi des
-prêts n'a pas été précédé de la passation d'une convention régie par le titre V, chapitre III, du présent livre (1ère
-partie).
+financent les travaux visés à l'article R. 331-63 (4°) ou lorsqu'en application de l'article R. 331-67 l'octroi des prêts n'a
+pas été précédé de la passation d'une convention régie par le titre V, chapitre III, du présent livre (1ère partie).
 
 **Liens relatifs à cet article**
 
@@ -36837,11 +36830,11 @@ partie).
 
 	**Modifié par**:
 
-	  - Décret n°84-317 1984-04-27 ART. 1 JORF 29 AVRIL 1984
+	  - Décret n°85-325 1985-03-08 art. 3 JORF 12 mars 1985
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-63 4° 5°
+	  - Code de la construction et de l'habitation R331-63 4
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
 
@@ -36899,7 +36892,7 @@ au moins huit mois par an, soit par elles-mêmes, soit par leur conjoint, soit p
 leur conjoint [*durée*].
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement des travaux, soit
-l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à cinq ans lorsque le
+l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque le
 logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un département
 ou territoire d'outre-mer ou de l'étranger.
 
@@ -36931,8 +36924,7 @@ principale représentent la moitié au moins du total des voix [*condition*].
 
 	**Modifié par**:
 
-	  - Décret n°82-90 1982-01-26 ART. 2 JORF 27 JANVIER 1982
-	  - Décret n°83-596 1983-07-05 ART. 2 JORF 7 juillet 1983
+	  - Décret n°85-325 1985-03-08 art. 4 JORF 12 MARS 1985
 
 	**Cite**:
 
@@ -37018,10 +37010,6 @@ mettre en conformité à des normes minimales d'habitabilité des logements qui 
 
 Les normes de surface et d'habitabilité sont fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
-Dans le cas des opérations prévues à l'article R. 331-63 (4°), les travaux doivent satisfaire à des caractéristiques
-techniques. Un arrêté du ministre chargé de la construction et de l'habitation précise notamment la nature des travaux et les
-économies d'énergie minimales qui doivent en résulter.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -37030,7 +37018,7 @@ techniques. Un arrêté du ministre chargé de la construction et de l'habitatio
 
 	**Modifié par**:
 
-	  - Décret n°84-703 1984-07-17 ART. 2 JORF 24 JUILLET 1984
+	  - Décret n°85-325 1985-03-08 art. 5 JORF 12 mars 1985
 
 	**Cité par**:
 
@@ -37041,7 +37029,7 @@ techniques. Un arrêté du ministre chargé de la construction et de l'habitatio
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-63 1
+	  - Code de la construction et de l'habitation R331-63 3
 
 
 ###### Article R331-70
@@ -37168,9 +37156,9 @@ convention type prévue à l'article R. 331-65 ;
 
 Les prêts sont amortissables [*durée amortissement*] :
 
-En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 (1. et 3.) ;
+En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 (1° et 3°);
 
-En cinq ans au minimum et douze ans au maximum pour les opérations prévues à l'article R. 331-63 (2°, 4°,5°).
+En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à l'article R. 331-63 (2°, 4°).
 
 **Liens relatifs à cet article**
 
@@ -37180,7 +37168,7 @@ En cinq ans au minimum et douze ans au maximum pour les opérations prévues à 
 
 	**Modifié par**:
 
-	  - Décret n°82-495 1982-06-10 art. 3 JORF 12 juin 1982
+	  - Décret n°85-325 1985-03-08 art. 6 JORF 12 mars 1985
 
 	**Cite**:
 
