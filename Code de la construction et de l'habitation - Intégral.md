@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-06-12
+Version Consolidée au 1985-06-27
 
 # Partie législative
 
@@ -29541,38 +29541,44 @@ pour leur attribution.
 
 ###### Article R*315-8
 
-Les prêts d'épargne-logement ne peuvent être attribués que pour les objets définis aux articles L. 315-1 et L. 315-2.
+Les prêts d'épargne-logement ne peuvent être attribués que pour les objets définis à l'article L. 315-2.
 
 La nature des travaux de réparation ou d'amélioration susceptibles de donner lieu à l'attribution de prêts est fixée par
 arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des
 postes et télécommunications.
 
-Il ne peut être accordé, dans la limite du plafond prévu à l'article R. 315-11, qu'un seul prêt par opération, soit
-d'acquisition, soit de construction, soit de travaux d'extension, de réparation ou d'amélioration d'un même logement.
+Peuvent bénéficier d'un prêt d'épargne-logement en application du deuxième alinéa del'article L. 315-1 les résidences
+utilisées à titre personnel et familial pour le repos et les loisirs. Les locations occasionnelles et de durée limitée ne
+font pas perdre le droit au prêt.
 
-Un même emprunteur peut, sous réserve des dispositions du même article R. 315-11, obtenir plusieurs prêts à la condition
-qu'ils soient destinés au financement d'opérations ayant un objet différent.
+Les résidences de tourisme qui, en application du deuxième alinéa de l'article L. 315-1, peuvent bénéficier de prêts
+d'épargne-logement sont les résidences dont les normes sont arrêtées par le ministre chargé du tourisme en application du
+décret n° 66-871 du 13 juin 1966.
+
+Un bénéficiaire de prêt d'épargne logement attribué en application d'un des deux alinéas de l'article L. 315-1 ne peut
+bénéficier d'un prêt afférent au financement de logements prévus à l'autre alinéa du même article aussi longtemps que le
+premier prêt n'a pas été intégralement remboursé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°65-1044 1965-12-02 art. 8
+	  - Décret n°66-871 1966-06-13
+	  - Code de la construction et de l'habitation. - art. L315-1 (M)
+	  - Code de la construction et de l'habitation. - art. L315-2 (M)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-638 1985-06-26 art. 1 JORF 27 juin 1985
 
 	**Cité par**:
 
 	  - Décret n°2001-383 du 3 mai 2001 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. R*315-7 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L315-1, L315-2, R315-11
-	  - Code de la construction et de l'habitation. - art. L315-1 (M)
-	  - Code de la construction et de l'habitation. - art. L315-2 (M)
 
 
 ###### Article R*315-9
@@ -29618,21 +29624,23 @@ toujours possible.
 
 ###### Article R*315-11
 
-Les prêts ne peuvent excéder un montant fixé par arrêté du ministre chargé des finances, du ministre chargé de la
-construction et de l'habitation et du ministre chargé des postes et télécommunications.
+Pour la construction, l'acquisition, les travaux d'extension, de réparation ou d'amélioration d'un même logement, le prêt ou,
+le cas échéant, le montant cumulé des prêts consentis au titre de l'épargne-logement ne peut excéder un montant fixé par
+arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des
+postes et télécommunications.
 
-Lorsqu'un même emprunteur obtient plusieurs prêts d'épargne-logement, l'en-cours des capitaux prêtés ne doit à aucun moment
+Lorsqu'un même emprunteur obtient plusieurs prêts d'épargne-logement, l'encours des capitaux prêtés ne doit à aucun moment
 dépasser le maximum fixé par ledit arrêté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-638 1985-06-26 art. 2 JORF 27 juin 1985
 
 
 ###### Article R*315-12
@@ -29668,27 +29676,22 @@ titulaire lors de l'ouverture du compte.
 
 ###### Article R*315-13
 
-Pour la détermination du prêt, il peut être tenu compte des intérêts acquis aux comptes d'épargne-logement :
-
-- du conjoint ;
-
-- des ascendants, descendants, oncles, tantes, frères, soeurs, neveux et nièces, du bénéficiaire ou de son conjoint ;
-
-- des conjoints des frères, soeurs et descendants du bénéficiaire ou de son conjoint, si le bénéficiaire justifie de
-l'autorisation des titulaires des comptes ou de leurs représentants légaux.
+Pour la détermination du prêt, il peut être tenu compte des intérêts acquis aux comptes d'épargne-logement du conjoint, des
+ascendants, descendants, oncles, tantes, frères, soeurs, neveux et nièces, du bénéficiaire ou de son conjoint, des conjoints
+des frères, soeurs, ascendants et descendants du bénéficiaire ou de son conjoint.
 
 Chacun de ces comptes doit être ouvert depuis un an au moins et l'un quelconque d'entre eux doit, à défaut de celui du
 bénéficiaire, être ouvert depuis dix-huit mois au moins.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-1044 1965-12-02 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-638 1985-06-26 art. 3 JORF 27 juin 1985
 
 	**Cité par**:
 
@@ -30160,14 +30163,9 @@ satisfait aux conditions exigées pour leur attribution.
 ###### Article R*315-35
 
 Pour la détermination du prêt prévu au premier alinéa de l'article précédent, il peut être tenu compte des intérêts acquis
-sur les plans d'épargne-logement :
-
-- du conjoint ;
-
-- des ascendants, descendants, oncles, tantes, frères, soeurs, neveux et nièces du bénéficiaire ou de son conjoint ;
-
-- des conjoints des frères, soeurs et descendants du bénéficiaire ou de son conjoint, si le bénéficiaire justifie de
-l'autorisation des titulaires des plans d'épargne-logement ou de leurs représentants légaux.
+sur les plans et comptes d'épargne-logement du conjoint, des ascendants, descendants, oncles, tantes, frères, soeurs, neveux
+et nièces du bénéficiaire ou de son conjoint, des conjoints, des frères, soeurs, ascendants et descendants du bénéficiaire ou
+de son conjoint.
 
 Chacun de ces plans d'épargne-logement doit être venu à terme.
 
@@ -30177,13 +30175,17 @@ concernés ne sont pas souscrits dans le même établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-638 1985-06-26 art. 4 JORF 27 juin 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R315-35
 
 
 ###### Article R*315-36
