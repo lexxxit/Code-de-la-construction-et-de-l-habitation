@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-12-24
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -15816,9 +15816,18 @@ loyer modéré ;
 
 - les fondations d'habitations à loyer modéré.
 
-Au titre du service d'intérêt général que constituent la construction, l'acquisition, l'attribution et la gestion de
-logements locatifs destinés à des personnes dont les revenus sont inférieurs à des plafonds, les organismes d'habitations à
-loyer modéré mentionnés aux alinéas précédents bénéficient d'exonérations fiscales et d'aides spécifiques de l'Etat.
+Les organismes d'habitations à loyer modéré mentionnés aux alinéas précédents bénéficient d'exonérations fiscales et d'aides
+spécifiques de l'Etat au titre du service d'intérêt général défini comme :
+
+- la construction, l'acquisition, l'amélioration, l'attribution et la gestion de logements locatifs à loyers plafonnés,
+lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à des plafonds fixés par l'autorité
+administrative ;
+
+- la réalisation d'opérations d'accession à la propriété assorties de garanties pour l'accédant selon des conditions fixées
+par décret en Conseil d'Etat ou lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à des plafonds
+fixés par l'autorité administrative ;
+
+- les services accessoires aux opérations susmentionnées.
 
 Au titre de la mission d'intérêt général que constitue la recherche de la mixité sociale et de la diversité de l'habitat, les
 organismes d'habitations à loyer modéré peuvent exercer les compétences d'aménagement, d'accession et de prestations de
@@ -15995,7 +16004,7 @@ services prévues par les textes qui les régissent.
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 2003-08-01 art. 53 1° JORF 2 août 2003
+	  - Loi n°2003-1311 2003-12-30 art. 96 II 1° Finances pour 2004 JORF 31 décembre 2003
 
 	**Anciens textes**:
 
@@ -16590,6 +16599,120 @@ Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa pré
 	**Modifié par**:
 
 	  - Loi n°98-657 du 29 juillet 1998 - art. 61 () JORF 31 juillet 1998
+
+
+###### Article L421-9
+
+Les dispositions de la présente section sont applicables aux offices publics d'habitations à loyer modéré et aux offices
+publics d'aménagement et de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L421-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-7 (V)
+
+
+###### Article L421-10
+
+Les offices publics d'habitations à loyer modéré et les offices publics d'aménagement et de construction soumis en matière
+financière et comptable aux règles de la comptabilité publique déposent leurs fonds auprès de l'Etat, de la Caisse des dépôts
+et consignations ou de la Banque de France.
+
+Ils peuvent également effectuer des dépôts sur un compte à terme ouvert auprès de l'Etat, de la Caisse des dépôts et
+consignations ou de la Banque de France ainsi que sur un premier livret de la Caisse nationale d'épargne ou des caisses
+d'épargne et de prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+
+
+###### Article L421-11
+
+Les offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles applicables aux
+entreprises de commerce déposent leurs fonds auprès de l'Etat, de La Poste, de la Caisse des dépôts et consignations, de la
+Banque de France ou auprès d'un établissement de crédit ayant obtenu un agrément en vertu des dispositions applicables dans
+les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen.
+
+Ils peuvent également effectuer des dépôts sur un compte à terme ouvert auprès de l'Etat, de La Poste, de la Caisse des
+dépôts et consignations, de la Banque de France ou auprès d'un établissement de crédit ayant obtenu un agrément en vertu des
+dispositions applicables dans les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur
+l'Espace économique européen, ainsi que sur un premier livret de la Caisse nationale d'épargne ou des caisses d'épargne et de
+prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+
+
+###### Article L421-12
+
+Le placement des fonds appartenant aux offices publics d'habitations à loyer modéré et aux offices publics d'aménagement et
+de construction ne peut être effectué qu'en titres émis ou garantis par les Etats membres de la Communauté européenne ou les
+autres Etats parties à l'accord sur l'Espace économique européen, ou en parts ou actions d'organismes de placement collectif
+en valeurs mobilières gérant exclusivement des titres émis ou garantis par les Etats membres de la Communauté européenne ou
+les autres Etats parties à l'accord sur l'Espace économique européen, libellés en euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2007-137 du 1 février 2007 - art. 8 (V)
+	  - Décret n°2007-1840 du 24 décembre 2007 - art. 5 (V)
+	  - Décret n°2008-566 du 18 juin 2008 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R423-61 (Ab)
+
+
+###### Article L421-13
+
+Les décisions relatives aux placements des fonds relèvent de la compétence du conseil d'administration. Toutefois, celui-ci
+peut déléguer cette compétence au président pour les offices publics d'habitations à loyer modéré ou au directeur général
+pour les offices publics d'aménagement et de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 IV Finances pour 2004 JORF 31 décembre 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L421-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
 
 #### Chapitre Ier : Etablissements publics d'habitations à loyer modéré
@@ -22807,13 +22930,15 @@ exercice clos.
 
 La cotisation est également réduite d'un montant proportionnel au nombre des logements à usage locatif et des logements-
 foyers ayant fait l'objet au cours de l'année écoulée d'une première mise en service par l'organisme et d'une convention en
-application du 3° ou du 5° de l'article L. 351-2. Dans le cas des logements-foyers, le nombre retenu est celui des unités
-ouvrant droit à redevance.
+application du 3° ou du 5° de l'article L. 351-2 ou, dans les départements d'outre-mer, construits, acquis ou améliorés avec
+le concours financier de l'Etat. Dans le cas des logements-foyers, le nombre retenu est celui des unités ouvrant droit à
+redevance.
 
 Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction par allocataire et celui de la réduction par
 logement ou logement-foyer situé dans les quartiers mentionnés au cinquième alinéa ainsi que celui de la réduction par
-logement ou logement-foyer nouvellement conventionnés sont fixés par arrêtés des ministres chargés du logement, de l'économie
-et des finances.
+logement ou logement-foyer nouvellement conventionnés ou, dans les départements d'outre-mer, nouvellement construits, acquis
+ou améliorés avec le concours financier de l'Etat sont fixés par arrêtés des ministres chargés du logement, de l'économie et
+des finances.
 
 **Liens relatifs à cet article**
 
@@ -22862,7 +22987,7 @@ et des finances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 47 (V) JORF 2 août 2003
+	  - Loi - art. 99 () JORF 31 décembre 2003
 
 	**Cite**:
 
@@ -23595,10 +23720,12 @@ Pierre-et-Miquelon.
 Les sociétés d'économie mixte versent à la Caisse de garantie du logement locatif social la cotisation prévue à l'article L.
 452-4. Les dispositions des articles L. 452-5 à L. 452-7 leur sont applicables.
 
-Les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux sont soumises au
-contrôle de l'administration dans les conditions prévues aux articles L. 451-1, L. 451-2 et L. 451-2-1. Ces sociétés sont
-soumises à des obligations comptables particulières fixées par le Comité de la réglementation comptable. Leur activité
-locative sociale fait notamment l'objet d'une comptabilité distincte.
+Les sociétés d'économie mixte mentionnées à l'alinéa précédent bénéficient d'exonérations fiscales et d'aides spécifiques de
+l'Etat au titre du service d'intérêt général défini à l'article L. 411-2.
+
+Ces sociétés sont soumises au contrôle de l'administration dans les conditions prévues aux articles L. 451-1, L. 451-2 et L.
+451-2-1. Elles sont soumises à des obligations comptables particulières fixées par le Comité de la réglementation comptable.
+Leurs activités mentionnées à l'alinéa précédent font notamment l'objet d'une comptabilité distincte.
 
 **Liens relatifs à cet article**
 
@@ -23613,13 +23740,14 @@ locative sociale fait notamment l'objet d'une comptabilité distincte.
 	  - Code de la construction et de l'habitation. - art. L313-16-2 (Ab)
 	  - Code général des impôts, CGI. - art. 207 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 166 () JORF 14 décembre 2000
+	  - Loi n°2003-1311 2003-12-30 art. 96 II 2° Finances pour 2004 JORF 31 décembre 2003
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L452-4, L452-5 à L452-7, L451-1, L451-2, L451-2-1
+	  - Code de la construction et de l'habitation L452-4, L452-5 à L452-7, L411-2, L451-1, L451-2, L451-2-1
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 	  - Code de la construction et de l'habitation. - art. L451-2 (M)
 	  - Code de la construction et de l'habitation. - art. L451-2-1 (M)
@@ -63860,70 +63988,6 @@ La non-observation de ces dispositions entraîne la caducité de la décision fa
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R460-1 (M)
-
-
-##### Section 1 : Dispositions générales relatives aux aides de l'Etat.
-
-##### Sous-section 1 : Dispositions relatives aux opérations.
-
-###### Article R372-1
-
-Dans les limites et conditions fixées par le présent chapitre, des subventions et des prêts peuvent être accordés dans les
-départements d'outre-mer pour financer :
-
-1. La construction de logements à usage locatif ;
-
-2. L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
-d'amélioration correspondants ;
-
-3. L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
-
-4. L'acquisition de terrains destinés à la construction de logements à usage locatif et la construction de ces logements ;
-
-5. Les terrains et droits immobiliers acquis précédemment par les bénéficiaires visés à l'article R. 372-3, à condition que
-les biens concernés aient été acquis depuis moins de quinze ans à la date de demande du prêt et qu'ils n'aient pas bénéficié
-précédemment d'une aide de l'Etat ;
-
-6. Les opérations de construction-démolition et reconstruction de logements à usage locatif ;
-
-7. La réalisation d'opérations de logements-foyers à usage locatif.
-
-Sont considérés comme logements-foyers les établissements à caractère social dénommés résidences sociales ou hébergeant à
-titre principal des personnes handicapées ou des personnes âgées et qui assurent le logement de personnes dans des immeubles
-comportant à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations
-annexes telles que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance. Un arrêté conjoint
-du ministre chargé de l'outre-mer, du ministre chargé de l'économie et des finances et du ministre chargé du logement fixe en
-tant que de besoin des règles particulières d'application.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 6 août 1993 - art. 9 (Ab)
-	  - Arrêté du 18 mars 2002 - art. 2 (V)
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 87 (V)
-	  - Arrêté du 30 janvier 2009 (Ab)
-	  - Arrêté du 20 novembre 2014 (V)
-	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. R313-19-4 (V)
-	  - Code de la construction et de l'habitation. - art. R372-17 (V)
-	  - Code de la construction et de l'habitation. - art. R372-20 (V)
-	  - Code de la construction et de l'habitation. - art. R372-5 (V)
-	  - Code général des impôts, CGI. - art. 1384 A (V)
-	  - Code général des impôts, CGI. - art. 1384 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (M)
-
-	**Créé par**:
-
-	  - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R372-3 (V)
 
 
 ##### Section 2 : Dispositions applicables aux subventions de l'Etat
