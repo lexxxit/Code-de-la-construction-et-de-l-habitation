@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-02-24
 
 # Partie législative
 
@@ -1672,15 +1672,15 @@ depuis le 1er juillet 1975."
 
 ###### Article L112-7
 
-Conformément à l'article 14 de la loi du 27 septembre 1941 portant réglementation des fouilles archéologiques, lorsque, par
-suite de travaux ou d'un fait quelconque, des monuments, des ruines, substructions, mosaïques, éléments de canalisation
-antique, vestiges d'habitation ou de sépulture anciennes, des inscriptions ou généralement des objets pouvant intéresser la
-préhistoire, l'histoire, l'art, l'archéologie ou la numismatique sont mis à jour, l'inventeur de ces vestiges ou objets et le
-propriétaire de l'immeuble où ils ont été découverts sont tenus [*obligation*] d'en faire la déclaration immédiate au maire
-de la commune qui doit la transmettre sans délai au représentant de l'Etat dans le département. Celui-ci avise le ministre
-chargé des recherches archéologiques ou son représentant. Le propriétaire de l'immeubles est responsable de la conservation
-provisoire des monuments, substructions ou vestiges de caractère immobilier découverts sur ses terrains. Le dépositaire des
-objets assume à leur égard la même responsabilité.
+Conformément à l'article L. 531-14 du code du patrimoine, lorsque, par suite de travaux ou d'un fait quelconque, des
+monuments, des ruines, substructions, mosaïques, éléments de canalisation antique, vestiges d'habitation ou de sépulture
+anciennes, des inscriptions ou généralement des objets pouvant intéresser la préhistoire, l'histoire, l'art, l'archéologie ou
+la numismatique sont mis à jour, l'inventeur de ces vestiges ou objets et le propriétaire de l'immeuble où ils ont été
+découverts sont tenus d'en faire la déclaration immédiate au maire de la commune qui doit la transmettre sans délai au
+représentant de l'Etat dans le département. Celui-ci avise le ministre chargé des recherches archéologiques ou son
+représentant. Le propriétaire de l'immeubles est responsable de la conservation provisoire des monuments, substructions ou
+vestiges de caractère immobilier découverts sur ses terrains. Le dépositaire des objets assume à leur égard la même
+responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -1688,13 +1688,17 @@ objets assume à leur égard la même responsabilité.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
 	**Cité par**:
 
 	  - Arrêté du 8 septembre 2009 - art. 33 (VD)
 
 	**Cite**:
 
-	  - Loi n°1941-09-27 art. 14
+	  - Code du patrimoine - art. L531-14 (V)
 
 
 ##### Section 3 : Servitudes de mitoyenneté.
