@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-08-19
 
 # Partie législative
 
@@ -33767,6 +33767,35 @@ usage commun, annexes, dans des limites fixées par arrêté du ministre chargé
 	  - Code de la construction et de l'habitation R331-8 PAR. 1, PAR. 2
 
 
+###### Article R331-1-1
+
+Les prêts aidés par l'Etat prévus à l'article R. 331-1 peuvent    être accordés pour financer les opérations de logements-
+foyers    à usage locatif tels que définis à l'article R. 351-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-786 1984-08-16 ART. 1 JORF 19 AOUT 1984
+
+	**Abrogé par**:
+
+	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
 ###### Article R331-2
 
 Les occupants des logements financés à l'aide de ces prêts bénéficient de l'aide personnalisée au logement, dans les
@@ -33839,7 +33868,8 @@ pendant la durée de remboursement du prêt, les logements ne soient :
 
 a) Ni transformés en locaux commerciaux ou professionnels ;
 
-b) Ni affectés à la location saisonnière ou en meublé ;
+b) Ni affectés à la location en meublé, à l'exception des       logements-foyers tels que définis à l'article R. 351-55,
+ni affectés à la location saisonnière;
 
 c) Ni utilisés comme résidence secondaire ;
 
@@ -33849,13 +33879,17 @@ e) Ni détruits sans qu'il soit procédé à leur reconstruction dans un délai 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-934 1977-07-27 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-786 1984-08-16 ART. 2 JORF 19 AOUT 1984
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 
 
 ###### Article R331-5
@@ -34626,6 +34660,36 @@ présent article.
 	  - Code de la construction et de l'habitation. - art. R331-8 (M)
 
 
+###### Article R331-21-1
+
+Le montant de prêts accordés pour le financement de logements-foyers visés à l'article R. 351-55 ne peut dépasser 60 p. 100
+[*pourcentage*] du prix de référence de l'opération tel que défini par arrêté du ministre de l'urbanisme et du logement
+lorsqu'il s'agit de logements-foyers comportant des locaux affectés à des services de soins et destinés à héberger à titre
+principal des personnes âgées indépendantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-786 1984-08-16 ART. 3 JORF 19 AOUT 1984
+
+	**Abrogé par**:
+
+	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
 ###### Article R331-22
 
 Les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte sont accordés pour une durée
@@ -35174,14 +35238,11 @@ b) Les logements dont les travaux ont commencé avant :
 
 Les prêts prévus à l'article R. 331-32 sont accordés [*établissements prêteurs*] :
 
-1° A tous les bénéficiaires :
+1° à tous les bénéficiaires par le Crédit foncier de France, agissant seul ou avec le concours du Comptoir des entrepreneurs
+et par les établissements de crédit agréés à cet effet;
 
-- par le Crédit foncier de France, agissant seul ou avec le concours du comptoir des entrepreneurs ;
-
-- par les caisses régionales de crédit agricole ;
-
-2° Aux organismes d'habitations à loyer modéré par les caisses d'épargne dans les limites et conditions prévues par le décret
-n° 71-276 du 7 avril 1971 relatif au régime des caisses d'épargne.
+2° Aux organismes d'habitations à loyer modéré, par les caisses d'épargne dans les limites et conditions prévues par le
+décret n° 71-276 du 7 avril 1971 relatif au régime des caisses d'épargne.
 
 **Liens relatifs à cet article**
 
@@ -35196,7 +35257,7 @@ n° 71-276 du 7 avril 1971 relatif au régime des caisses d'épargne.
 
 	**Modifié par**:
 
-	  - Décret n°81-1231 1981-12-31 ART. 1 JORF 6 JANVIER 1982
+	  - Décret n°84-786 1984-08-16 ART. 4 JORF 19 AOUT 1984
 
 	**Cité par**:
 
@@ -35444,18 +35505,18 @@ prêts prévus à l'article R. 331-32 doit être signalée au préfet et à l'é
 suit l'acte la constatant.
 
 Si la mutation intervient au profit d'une personne occupant le logement à titre de résidence principale et remplissant les
-conditions de ressources fixées à l'article R. 331-42, le nouveau propriétaire peut obtenir, sur autorisation du préfet, le
-transfert des prêts à son profit.
+conditions de ressources fixées à l'article R. 331-42, le nouveau propriétaire peut obtenir le transfert du prêt à son
+profit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-786 1984-08-16 ART. 5 JORF 19 AOUT 1984
 
 	**Cite**:
 
@@ -35612,7 +35673,7 @@ La non-observation de ces dispositions entraîne la nullité de la décision fav
 ###### Article R331-48
 
 Lorsque les logements sont construits ou acquis et améliorés, par les personnes physiques mentionnées à l'article R. 331-39,
-1°, qui assurent elles-mêmes la maîtrise d'ouvrage, ces logements, pour pouvoir faire l'objet d'une décision favorable,
+1., qui assurent elles-mêmes la maîtrise d'ouvrage, ces logements, pour pouvoir faire l'objet d'une décision favorable,
 doivent :
 
 - s'ils sont neufs, satisfaire à des conditions de surface minimale et maximale, déterminées en fonction de la situation de
@@ -35626,17 +35687,20 @@ Un arrêté du ministre chargé de la construction et de l'habitation fixe les m
 précèdent. Un arrêté du ministre chargé de la construction et de l'habitation fixe les conditions dans lesquelles les
 opérations d'agrandissement de logements existants, par extension ou surélévation, ou d'aménagement à usage de logement de
 locaux non destinés à l'habitation peuvent faire l'objet d'une décision favorable, lorsqu'elles sont réalisées par des
-personnes physiques propriétaires des logements ou locaux et assurant elles-mêmes la maîtrise d'ouvrage des travaux.
+personnes physiques propriétaires des logements ou locaux et assurant elles-mêmes la maîtrise d'ouvrage des travaux. Sont
+assimilés à des propriétaires les titulaires de contrat leur donnant vocation à l'attribution à terme de la propriété du
+logement qu'ils occupent ainsi que les porteurs de parts ou d'actions de sociétés leur donnant vocation à l'attribution en
+propriété du logement qu'ils occupent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-786 1984-08-16 ART. 6 JORF 19 AOUT 1984
 
 	**Cité par**:
 
@@ -35649,6 +35713,10 @@ personnes physiques propriétaires des logements ou locaux et assurant elles-mê
 	  - Code de la construction et de l'habitation. - art. R331-53-1 (V)
 	  - Code de la construction et de l'habitation. - art. R331-57 (V)
 	  - Code de la construction et de l'habitation. - art. R331-59-17 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-39 1
 
 
 ###### Article R331-49
@@ -35967,9 +36035,9 @@ l'habitation, et des finances.
 
 ###### Article R331-56
 
-Pour les prêts distribués en application de la loi de finances pour 1982, l'aide de l'Etat est consentie au Crédit foncier de
-France et à la caisse nationale de crédit agricole sous forme de bonifications d'intérêt, suivant les modalités précisées par
-les conventions prévues à l'article R. 331-38 [*bénéficiaire*].
+Pour les prêts mentionnés à l'article R. 331-32, de l'Etat est consentie aux établissements visés à l'article R. 331-37 sous
+forme de bonification d'intérêt, suivant les modalités précisées par les conventions prévues à l'article R. 331-38
+[*bénéficiaire*].
 
 La rémunération des sociétés de crédit immobilier et des sociétés coopératives de production d'habitations à loyer modéré,
 pour les prêts distribués à ce titre dans les conditions définies à l'article R. 331-39, alinéas 3 et 4, est assurée par une
@@ -35985,11 +36053,13 @@ bonification égale à 0,60 p. 100 du montant du prêt pendant dix ans.
 
 	  - Loi n°81-1160 1981-12-30 Finances pour 1982
 	  - Code de la construction et de l'habitation R331-39 AL. 3, AL. 4
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-37 (M)
 	  - Code de la construction et de l'habitation. - art. R331-38 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-1231 1981-12-31 ART. 2 JORF 6 JANVIER 1982
+	  - Décret n°84-786 1984-08-16 ART. 7 JORF 19 AOUT 1984
 
 	**Cité par**:
 
@@ -36084,19 +36154,16 @@ définies au premier alinéa de l'article R. 331-56.
 
 ###### Article R331-59
 
-Sur autorisation du préfet, le préfinancement peut être transféré aux acquéreurs des logements ou, le cas échéant, maintenu
-en faveur des organismes mentionnés à l'article R. 331-39, ou des sociétés régies par le livre II, titre Ier, chapitres II et
-III, du présent code (première partie). Dans ce cas, le préfinancement, ainsi que le solde du prêt qui est alors débloqué
-pour tout ou partie, est soumis aux conditions fixées par les articles R. 331-53 et R. 331-54.
+Le préfinancement peut être transféré aux acquéreurs de logements ou, le cas échéant, maintenu en faveur des organismes
+mentionnés à l'article R. 331-39, ou des sociétés régies par le livre II, titre Ier, chapitres II et III, du présent code
+(première partie). Dans ce cas, le préfinancement, ainsi que le solde du prêt qui est alors débloqué pour tout ou partie est
+soumis aux conditions fixées par les articles R. 331-53 et R. 331-54.
 
-A défaut de l'autorisation préfectorale susmentionnée, le remboursement du préfinancement devient immédiatement exigible.
+A défaut du transfert ou du maintien susmentionnés, le remboursement du préfinancement devient immédiatement exigible.
 
-La demande d'autorisation de transfert ou de maintien du préfinancement doit être présentée au ministre chargé de la
-construction et de l'habitation dans un délai maximum de trois ans suivant la déclaration d'achèvement des travaux. Ce délai
-peut être prolongé par décision conjointe des ministres chargés de la construction et de l'habitation, et des finances.
-
-Le préfinancement obtenu en application du paragraphe 2 de l'article R. 331-57 est remboursé au fur et à mesure de la vente
-de chacune des parcelles.
+La demande de transfert ou de maintien du préfinancement doit être présentée dans un délai maximum de trois ans suivant la
+déclaration d'achèvement des travaux. Ce délai peut être prolongé par décision conjointe des ministres chargés de la
+construction et de l'habitation et des finances.
 
 **Liens relatifs à cet article**
 
@@ -36106,7 +36173,7 @@ de chacune des parcelles.
 
 	**Modifié par**:
 
-	  - Décret n°83-292 1983-04-07 ART. 3 JORF 12 AVRIL 1983
+	  - Décret n°84-786 1984-08-16 ART. 8 JORF 19 AOUT 1984
 
 	**Cité par**:
 
@@ -36120,7 +36187,6 @@ de chacune des parcelles.
 	  - Code de la construction et de l'habitation. - art. R331-39 (M)
 	  - Code de la construction et de l'habitation. - art. R331-53 (M)
 	  - Code de la construction et de l'habitation. - art. R331-54 (M)
-	  - Code de la construction et de l'habitation. - art. R331-57 (M)
 
 
 ##### Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R. 331-59 du C.C.H.
