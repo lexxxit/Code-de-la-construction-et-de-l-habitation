@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-11-11
+Version Consolidée au 1994-11-27
 
 # Partie législative
 
@@ -45767,25 +45767,29 @@ du mois civil suivant le décès.
 
 ###### Article R351-7-1
 
-" A compter du 1er janvier 1983, lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en
-accession à la propriété ou un prêt conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du
-logement et que le droit à l'aide personnalisée est ouvert postérieurement au 31 décembre 1982, si les ressources du
-bénéficiaire et de son conjoint déterminées en application des articles R. 351-5 et 7 sont inférieures à un montant fixé par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement, les ressources du
-bénéficiaire et de son conjoint sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des
-articles R. 351-10, 12, 13 et 14.
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
+conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement :
 
-" A compter du 1er juillet 1987, lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en
-accession à la propriété ou un prêt conventionné et que la date de signature du contrat de prêt est postérieure au 30 juin
-1987, si les ressources du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5 et 7 sont
-inférieures à un montant déterminé par le produit d'un coefficient fixé par arrêté conjoint des ministres chargés du
-logement, du budget, de la sécurité sociale et de l'agriculture et des charges mensuelles de prêt déclarées prises en compte
-dans la limite de la mensualité de référence prévue à l'article R. 351-18, les ressources du bénéficiaire et de son conjoint
-sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13 et 14.
-"
+I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son conjoint déterminées en application des
+articles R. 351-5, 6 et 7 sont inférieures :
 
-Les dispositions du présent article ne s'appliquent pas lorsque le bénéficiaire ou son conjoint perçoit l'allocation
-mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
+1. Pour les contrats de prêt signés postérieurement au 31 décembre 1982, à un montant forfaitaire ;
+
+2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un montant déterminé par le produit d'un coefficient
+et des charges mensuelles de prêt déclarées prises en compte dans la limite de la mensualité de référence prévue à l'article
+R. 351-18,
+
+" les ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer les
+dispositions des articles R. 351-10, 12, 13, 13-1 et 14.
+
+II. - A compter du 1er janvier 1995, pour les contrats de prêt signés postérieurement au 31 décembre 1994, si les ressources
+du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5, 6 et 7 sont inférieures au montant visé
+au 2 ci-dessus, celles-ci sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de signature du contrat
+de prêt et pendant la période d'accession en cours, il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13,
+13-1 et 14.
+
+Les montants visés aux 1 et 2 du I sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
+l'agriculture et du logement.
 
 **Liens relatifs à cet article**
 
@@ -45798,7 +45802,6 @@ mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
 
 	**Cité par**:
 
@@ -45809,19 +45812,15 @@ mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative 
 	  - Arrêté du 14 août 1987 - art. 10 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-5 (V)
 
-	**Cite**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-12 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
 	**Modifié par**:
 
-	  - Décret n°89-843 du 15 novembre 1989 - art. 3 ()
+	  - Décret n°94-1018 du 23 novembre 1994 - art. 1 () JORF 27 novembre 1994
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-5, 6, 7, R351-18, R351-10, 12, 13, 13-1, 14
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
@@ -46631,6 +46630,36 @@ la sécurité sociale et de l'agriculture.
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 
+###### Article R351-22
+
+Lorsque le montant de l'aide personnalisée est inférieur à une somme fixée par arrêté conjoint des ministres chargés des
+finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale, il n'est pas procédé à son
+versement.
+
+Les organismes payeurs définis à l'article R. 351-26 sont autorisés à abandonner la mise en recouvrement des sommes indûment
+payées lorsque leur montant est inférieur à une somme fixée par arrêté conjoint des ministres chargés des finances, de la
+construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°94-1018 du 23 novembre 1994 - art. 2 () JORF 27 novembre 1994
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-23 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-26 (M)
+
+
 ##### Sous-section 5 : Prime de déménagement.
 
 ###### Article R351-25
@@ -47398,28 +47427,6 @@ arrêté.
 	**Abrogé par**:
 
 	  - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-
-###### Article R351-22
-
-Lorsque le montant de l'aide personnalisée est inférieur à une somme fixée par arrêté conjoint des ministres chargés des
-finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale, il n'est pas procédé à son
-versement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-23 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
 
 
 ##### Sous-section 5 : Prime de déménagement.
