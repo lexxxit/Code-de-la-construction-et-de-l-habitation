@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-07-25
+Version Consolidée au 1996-10-03
 
 # Partie législative
 
@@ -42965,6 +42965,54 @@ la construction.
 	  - Code de la construction et de l'habitation R111-2
 
 
+##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
+
+###### Article R331-16
+
+La subvention est versée dans les conditions suivantes :
+
+- un acompte peut, dans la limite de 30 p. 100 de son montant être versé aux organismes bénéficiaires, après passation des
+marchés et sur contatation du commencement d'exécution de l'opération ;
+
+- un ou des acomptes peuvent ensuite être versés, au fur et à mesure de l'exécution des travaux ou de la livraison des
+fournitures ;
+
+- le montant total des acomptes ne peut dépasser 80 p. 100 du montant de la subvention ;
+
+- le règlement pour solde est subordonné à la justification de la réalisation des travaux. Il est versé dans la limite du
+montant de la subvention recalculée conformément à l'article R. 331-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
+
+	**Cité par**:
+
+	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-1 (V)
+	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-26 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-760 du 3 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-15
+
+
 ##### Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis.
 
 ###### Article R331-25
@@ -43094,14 +43142,13 @@ collectivités locales ou leurs groupements ;
 9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
 
 Dans les limites et conditions fixées par la présente section, et notamment par les articles R. 331-12, R. 331-14, R. 331-15,
-des subventions définies par la sous-section 2 peuvent être accordées pour financer l'acquisition de logements locatifs et le
-cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de
-l'alinéa précédent. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage de la valeur de base des
-opérations d'acquisition-amélioration fixée par arrêté des ministres chargés de la construction et de l'habitation et des
-finances pour les zones géographiques déterminées.
-
-Ces dispositions s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R.
-351-55.
+des subventions et des prêts définis par la sous-section 2 peuvent être accordés pour financer l'acquisition de logements
+locatifs et le cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7°
+et 8° de l'alinéa précédent. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations d'acquisition-
+amélioration sont applicables à ces logements y compris en l'absence de travaux. Le coût d'acquisition de ces logements ne
+doit pas excéder un pourcentage de la valeur de base des opérations d'acquisition-amélioration fixée par arrêté des ministres
+chargés de la construction et de l'habitation et des finances pour les zones géographiques déterminées. Ces dispositions
+s'appliquent également aux logements-foyers dénommés résidences sociales et mentionnés à l'article R. 351-55.
 
 **Liens relatifs à cet article**
 
@@ -43212,10 +43259,11 @@ Ces dispositions s'appliquent également aux logements-foyers dénommés réside
 
 	**Modifié par**:
 
-	  - Décret n°95-637 du 5 mai 1995 - art. 1 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 1 () JORF 3 octobre 1996
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation R351-55, R351-56, R331-12, R331-14, R331-15, R331-9 à R331-24
 	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 	  - Code de la construction et de l'habitation. - art. R351-56 (M)
 
@@ -43263,8 +43311,14 @@ b) Les logements dont les travaux ont commencé avant :
 L'instruction de la demande de décision favorable prévue à l'article R. 331-3 est assurée par le directeur départemental de
 l'équipement ; la décision est prise par le représentant de l'Etat dans le département et notifiée au demandeur.
 
-" Lorsqu'une réponse du représentant de l'Etat dans le département n'est pas intervenue dans un délai maximum de quatre mois
-à compter de la date de la demande de décision favorable, cette demande est réputée rejetée.
+Lorsqu'une réponse du représentant de l'Etat dans le département n'est pas intervenue dans un délai maximum de quatre mois à
+compter de la date de la demande de décision favorable, cette demande est réputée rejetée.
+
+La décision favorable ne peut être prise qu'après la passation, par le demandeur, d'une convention prévue au 3° de l'article
+L. 351-2.
+
+Pour les opérations de construction, le nombre de logements pouvant faire l'objet de décisions favorables du préfet ne peut
+excéder la limite qui lui a été notifiée par le ministre chargé du logement.
 
 **Liens relatifs à cet article**
 
@@ -43272,14 +43326,13 @@ l'équipement ; la décision est prise par le représentant de l'Etat dans le d�
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 2 () JORF 3 octobre 1996
 
 	**Cité par**:
 
@@ -43303,6 +43356,10 @@ l'équipement ; la décision est prise par le représentant de l'Etat dans le d�
 	  - Code des assurances - art. R426-3 (V)
 	  - Code général des impôts, CGI. - art. 1585 D (VT)
 	  - Code général des impôts, CGI. - art. 278 sexies (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ###### Article R331-8
@@ -43442,25 +43499,29 @@ France les conventions nécessaires à l'application de la présente section.
 	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
 
 
-##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat ouvrant droit à des prêts accordés par la Caisse des dépôts et consignations.
+##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
 
 ###### Article R331-14
 
-Les subventions de l'Etat octroyées dans les conditions prévues aux articles R. 331-3 et R. 331-6 ouvrent droit à des prêts
-accordés par la Caisse des dépôts et consignations. Ces subventions et ces prêts peuvent être attribués à
-[*bénéficiaires*] :
+Pour les opérations de construction, la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6 porte agrément de l'opération. Elle ouvre droit à des prêts accordés par la Caisse des dépôts et consignations. Elle
+peut être suivie d'une décision du préfet portant octroi de subventions de l'Etat dans les limites fixées par la présente
+sous-section.
+
+Pour les autres opérations, la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 ouvre
+droit, dans les limites fixées par la présente sous-section, à des subventions de l'Etat et à des prêts accordés par la
+Caisse des dépôts et consignations.
+
+Ces subventions et ces prêts peuvent être attribués à :
 
 1° Des offices publics d'habitations à loyer modéré, des offices publics d'aménagement et de construction, des sociétés
 anonymes d'habitations à loyer modéré ;
 
-2° Des sociétés d'économie mixte ayant pour objet statutaire la réalisation de logements.
+2° Des sociétés d'économie mixte ayant pour objet statutaire la réalisation de logements ;
 
 3° Pour les logements mentionnés au deuxième alinéa de l'article R. 331-1, des collectivités territoriales ou leurs
 groupements et des organismes dont l'un des objets est de contribuer au logement des personnes défavorisées et agréés à cette
 fin par le représentant de l'Etat dans le département.
-
-L'octroi de ces subventions est subordonné à la passation par le demandeur d'une convention prévue au 3° de l'article L.
-351-2.
 
 **Liens relatifs à cet article**
 
@@ -43501,11 +43562,11 @@ L'octroi de ces subventions est subordonné à la passation par le demandeur d'u
 
 	**Modifié par**:
 
-	  - Décret n°90-151 du 16 février 1990 - art. 4 () JORF 17 février 1990
+	  - Décret n°96-860 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 4 () JORF 3 octobre 1996
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-3 (M)
 
 
@@ -43527,18 +43588,32 @@ L'assiette de la subvention de l'Etat peut être majorée d'un coût forfaitaire
 unitaires sont fixés par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances et
 actualisés au 1er janvier de chaque année en fonction de la variation annuelle de l'indice du coût de la construction.
 
-2° Le taux de la subvention est au plus égal à 12 p. 100 de cette assiette.
+2° a) Une subvention peut être octroyée aux opérations de construction suivantes. Le taux de subvention est au plus égal à :
 
-Il peut être porté :
+- 8 p. 100 de l'assiette définie au 1° pour les opérations d'habitat adapté aux besoins de populations rencontrant des
+difficultés particulières. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 p. 100 au plus ;
 
-- au plus à 20 p. 100 de l'assiette telle que définie ci-dessus pour des opérations d'habitat adapté aux besoins de
-populations rencontrant des difficultés particulières. A titre exceptionnel, le préfet peut par dérogation porter ce ce taux
-à 25 p. 100 au plus.    - au plus à 15 p. 100 de l'assiette telle que définie ci-dessus pour des opérations à caractère
-expérimental.
+- 3 p. 100 de cette assiette pour les opérations à caractère expérimental.
 
-La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
+b) Par dérogation au a, une subvention peut être octroyée aux opérations de construction réalisées en Corse. Le taux de
+subvention est au plus égal à 9,5 p. 100 de l'assiette définie au 1°. Il peut être porté :
 
-Un arrêté conjoint des ministres chargés de la construction, de l'habitation et des finances fixe les conditions
+- au plus à 17,5 p. 100 de cette assiette pour des opérations d'habitat adapté aux besoins de populations rencontrant des
+difficultés particulières. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 p. 100 au plus ;
+
+- au plus à 12,5 p. 100 de cette assiette pour des opérations à caractère expérimental.
+
+3° Pour les opérations autres que celles prévues au 2°, le taux de subvention est au plus égal à 12 p. 100 de l'assiette
+définie au 1°. Il peut être porté :
+
+- au plus à 20 p. 100 de cette assiette pour des opérations d'habitat adapté aux besoins des populations rencontrant des
+difficultés particulières. A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 p. 100 au plus ;
+
+- au plus à 15 p. 100 de cette assiette pour des opérations à caractère expérimental.
+
+4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
+
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances fixe les conditions
 d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -43580,64 +43655,27 @@ d'application du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°95-637 du 5 mai 1995 - art. 5 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
-	  - Décret n°95-637 du 5 mai 1995 - art. 6 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
-
-
-###### Article R331-16
-
-La subvention est versée dans les conditions suivantes :
-
-" - un acompte peut, dans la limite de 30 p. 100 [*pourcentage*] de son montant être versé aux organismes bénéficiaires,
-après passation des marchés et sur contatation du commencement d'exécution de l'opération ;
-
-" - un ou des acomptes peuvent ensuite être versés, au fur et à mesure de l'exécution des travaux ou de la livraison des
-fournitures ;
-
-" - le montant total des acomptes ne peut dépasser 80 p. 100 du montant de la subvention ;
-
-" - le règlement pour solde est subordonné à la justification de la réalisation des travaux. Il est versé dans la limite du
-montant de la subvention recalculée conformément à l'article R. 331-15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Décret n°2004-1005 du 24 septembre 2004 - art. 4-1 (V)
-	  - Arrêté du 17 octobre 1986 - art. 7 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-25-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-26 (M)
-	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+	  - Décret n°96-860 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 5 () JORF 3 octobre 1996
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-15 (M)
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 
 
-##### Sous-section 3 : Dispositions applicables aux prêts aidés par l'Etat accordés par le Crédit Foncier de France.
+##### Sous-section 3 : Dispositions applicables aux prêts accordés par le Crédit Foncier de France.
 
 ###### Article R331-17
 
-Les prêts aidés par l'Etat prévus à l'article R. 331-1 peuvent être attribués à des personnes morales ou physiques,
-lorsqu'elles contribuent au financement de l'opération par un financement propre minimum fixé par arrêté conjoint des
-ministres chargés de la construction et de l'habitation et des finances, et qu'elles s'engagent à assurer elles-mêmes la
-gestion de ces logements ou à la confier à des personnes ou organismes agréés par arrêté du ministre chargé de la
-construction et de l'habitation.
+Les prêts prévus à l'article R. 331-1 peuvent être attribués à des personnes morales ou physiques, lorsqu'elles contribuent
+au financement de l'opération par un financement propre minimum fixé par arrêté conjoint des ministres chargés de la
+construction et de l'habitation et des finances, et qu'elles s'engagent à assurer elles-mêmes la gestion de ces logements ou
+à la confier à des personnes ou organismes agréés par arrêté du ministre chargé de la construction et de l'habitation.
 
-" L'octroi de ces prêts est subordonné à la passation par le demandeur d'une convention prévue au 3° de l'article L. 351-2.
+L'octroi de ces prêts est subordonné à la passation par le demandeur d'une convention prévue au 3° de l'article L. 351-2.
+
+Pour les opérations de construction, la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6 porte agrément de l'opération.
 
 **Liens relatifs à cet article**
 
@@ -43676,19 +43714,21 @@ construction et de l'habitation.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
 
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 7 () JORF 3 octobre 1996
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-1, L351-2 3°
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-3 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
 
 
 ###### Article R331-18
@@ -43696,18 +43736,18 @@ construction et de l'habitation.
 Le dépôt de la demande de prêt doit être effectué auprès de l'établissement prêteur dans un délai maximum de six mois après
 la date de la décision favorable, faute de quoi ladite décision est frappée de caducité.
 
-" La créance en principal, intérêts et accessoires des prêts prévus à l'article R. 331-1, est garantie suivant les règles
+La créance en principal, intérêts et accessoires des prêts prévus à l'article R. 331-1, est garantie suivant les règles
 propres à l'établissement prêteur par l'une ou plusieurs des sûretés suivantes :
 
-" - une hypothèque ;
+- une hypothèque ;
 
-" - une caution ;
+- une caution ;
 
-" - la garantie d'une collectivité locale, d'un établissement public groupant des collectivités locales, d'une chambre de
+- la garantie d'une collectivité locale, d'un établissement public groupant des collectivités locales, d'une chambre de
 commerce et d'industrie, du fonds de garantie prévue à l'article L. 431-1 ou de l'Etat en application des articles L. 312-1
 et R. 312-1.
 
-" L'établissement prêteur apprécie les sûretés nécessaires à la garantie de ses créances.
+L'établissement prêteur apprécie les sûretés nécessaires à la garantie de ses créances.
 
 **Liens relatifs à cet article**
 
@@ -43733,13 +43773,13 @@ et R. 312-1.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-1, L431-1, L312-1 R312-1
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 	  - Code de la construction et de l'habitation. - art. L431-1 (M)
+	  - Code de la construction et de l'habitation. - art. R312-1 (V)
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 
@@ -43762,7 +43802,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°95-637 du 5 mai 1995 - art. 7 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
 
 	**Cité par**:
 
@@ -43783,16 +43823,20 @@ présent article.
 
 Les prêts accordés par le Crédit foncier de France aux bénéficiaires désignés à l'article R. 331-17 sont :
 
-" - soit à taux fixe pour une durée de vingt-cinq ans ;
+- soit à taux fixe pour une durée de vingt-cinq ans ;
 
-" - soit à taux variable pour une durée de trente ans ;
+- soit à taux variable pour une durée de trente ans ;
 
-" Ces prêts sont assortis d'un différé d'amortissement de deux ans sans remise d'intérêt.
+Ces prêts sont assortis d'un différé d'amortissement de deux ans sans remise d'intérêt.
 
-" Le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces périodes et, le cas échéant,
+Le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces périodes et, le cas échéant,
 les conditions de leur révisabilité, ainsi que le rythme de la progressivité des annuités en cours d'amortissement sont fixés
-par arrêté des ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des
+par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des
 ressources concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-23 ci-après.
+
+Par dérogation aux alinéas précédents et aux articles R. 331-18 et R. 331-19, le prêt auquel peuvent prétendre les
+bénéficiaires mentionnés à l'article R. 331-17 pour les opérations de construction est un prêt conventionné locatif prévu aux
+articles R. 331-63 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -43813,7 +43857,6 @@ ressources concourant à leur financement et du niveau de l'aide de l'Etat prév
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 9 (V)
 	  - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
 
 	**Cité par**:
 
@@ -43837,22 +43880,24 @@ ressources concourant à leur financement et du niveau de l'aide de l'Etat prév
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
+	  - Décret n°96-860 du 2 octobre 1996 - art. 8 () JORF 3 octobre 1996
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-17 (M)
+	  - Code de la construction et de l'habitation. - art. R331-18 (M)
+	  - Code de la construction et de l'habitation. - art. R331-19 (M)
 	  - Code de la construction et de l'habitation. - art. R331-23 (M)
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 
 ###### Article R331-21
 
 A la suite de la révision du taux des prêts à taux révisables visés à l'article R. 331-20, aucune annuité, à partir de la
-quatrième et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p. 100 [*pourcentage*], ni inférieure à
-l'annuité précédente.
+quatrième et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p. 100, ni inférieure à l'annuité précédente.
 
-" Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances définit les conditions
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances définit les conditions
 d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -43860,11 +43905,6 @@ d'application du présent article.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
 
 	**Liens**:
 
@@ -43876,6 +43916,10 @@ d'application du présent article.
 	  - Arrêté du 4 janvier 1988 - art. 13 (Ab)
 	  - Arrêté du 5 mai 1995 - art. 28 (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
 
 	**Cite**:
 
@@ -43893,14 +43937,17 @@ Les prêts prévus par la présente sous-section peuvent être transférés aux 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-207 du 6 mars 2001 - art. 1 () JORF 7 mars 2001
 
 	**Cité par**:
 
@@ -43925,14 +43972,13 @@ Crédit foncier de France. Cette aide prend la forme de subventions.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
 
 	**Cite**:
 
