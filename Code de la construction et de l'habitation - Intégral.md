@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-07-01
+Version Consolidée au 2000-07-05
 
 # Partie législative
 
@@ -29594,7 +29594,7 @@ et les caractéristiques des bâtiments ainsi que leurs équipements et installa
 	  - Décret n°2000-547 du 16 juin 2000 - art. 4 () JORF 22 juin 2000
 
 
-### Titre III : Chauffage et ravalement des immeubles
+### Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites.
 
 #### Chapitre Ier : Chauffage des immeubles
 
@@ -29602,31 +29602,29 @@ et les caractéristiques des bâtiments ainsi que leurs équipements et installa
 
 ###### Article R*131-1
 
-Au sens de la présente section :
+Au sens de la présente section,
 
 Un immeuble collectif pourvu d'un chauffage commun est un immeuble qui comprend au moins deux locaux destinés à être occupés
-à titre privatif et chauffés par une même installation ;
+à titre privatif et chauffés par une même installation ; 
 
 Un local occupé à titre privatif est constitué par la pièce ou l'ensemble des pièces réservées à la jouissance exclusive de
 personnes physiques ou morales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1175 1975-12-17 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*161-1 (M)
 	  - Code de la construction et de l'habitation. - art. R*161-3 (M)
 
-
-##### Section 1 : Equipement et répartition des frais dans les immeubles collectifs.
 
 ###### Article R*131-2
 
@@ -29644,7 +29642,7 @@ Ces appareils doivent permettre de mesurer la quantité de chaleur fournie ou un
 
 	**Modifié par**:
 
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1 octobre 1991
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cité par**:
 
@@ -29654,65 +29652,6 @@ Ces appareils doivent permettre de mesurer la quantité de chaleur fournie ou un
 	  - Code de la construction et de l'habitation. - art. R*131-5 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*131-6 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*131-7 (Ab)
-
-
-###### Article R*131-3
-
-Les dispositions de l'article R. 131-2 ne sont pas applicables :
-
-a) Aux établissements d'hôtellerie, aux logements-foyers,
-
-aux locaux à usage agricole, aux locaux à usage sportif qui ne sont pas situés dans un immeuble collectif ;
-
-b) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire avant le 31 décembre 1988 et non équipés
-de systèmes de répartition des frais de chauffage, pour lesquels les frais de combustible ou d'énergie pour le chauffage
-d'une année de référence, rapportés à la surface chauffée, sont inférieurs à un seuil fixé par arrêté conjoint du ministre
-chargé de la construction et de l'habitation et du ministre chargé de l'énergie, ou pour lesquels il est techniquement
-impossible de poser des appareils de mesure.
-
-Ce seuil est choisi de sorte que, pour les immeubles faisant l'objet de l'obligation d'équipement en appareils permettant
-d'individualiser les frais de chauffage collectif, la charge financière annuelle de ces appareils, comprenant l'amortissement
-sur dix années et les frais de fonctionnement, soit inférieure au dixième des frais annuels de combustible ou d'énergie ;
-
-c) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire après le 31 décembre 1988, s'il s'avère,
-à l'issue de la première saison complète de chauffe, que les frais de combustible ou d'énergie pour le chauffage sont
-inférieurs au seuil visé au b du présent article, corrigé des variations climatiques et économiques. A cette fin, les
-techniques utilisées pour la construction de ces immeubles doivent permettre la mise en place ultérieure d'appareils de
-mesure et de répartition des frais de chauffage sans intervention significative ;
-
-d) Aux immeubles collectifs bénéficiant du label provisoire haute performance énergétique ou solaire ou du label qualitel-
-H.P.E., définis par les arrêtés prévus au troisième alinéa de l'article R. 111-6 du présent code ;
-
-e) Aux immeubles collectifs faisant appel, au moins pour la moitié de la puissance de chauffage des locaux, aux énergies
-renouvelables (solaire, géothermie, biomasse, rejets thermiques) ;
-
-f) Aux immeubles pourvus d'une installation de chauffage mixte comprenant un équipement collectif complété par des émetteurs
-de chaleur individuels ayant le caractère d'immeubles par destination.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
-	  - Arrêté du 30 mai 2016 - art. 2
-	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R131-4
-	  - TXT_ASSOCIE: Code de la construction R131-5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1er octobre 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R131-2, R111-6
 
 
 ###### Article R*131-4
@@ -29729,7 +29668,7 @@ des frais de chauffage, les relevés doivent pouvoir être faits sans qu'il soit
 
 	**Modifié par**:
 
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1er octobre 1991
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29749,7 +29688,7 @@ mise en service des appareils prévus à l'article R. 131-2 est le 1er octobre 1
 
 	**Modifié par**:
 
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1er octobre 1991
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29774,7 +29713,7 @@ du 6 mai 1988 susvisé relatif au contrôle des instruments de mesure.
 
 	**Modifié par**:
 
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1er octobre 1991
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 
 ###### Article R*131-7
@@ -29812,7 +29751,7 @@ règlement de copropriété ou les documents en tenant lieu.
 
 	**Modifié par**:
 
-	  - Décret n°91-999 du 30 septembre 1991 - art. 1 () JORF 1 octobre 1991
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cité par**:
 
@@ -29834,38 +29773,42 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
+
 
 ##### Section 2 : Frais d'eau chaude dans les immeubles collectifs.
 
 ###### Article R*131-9
 
-Au sens de la présente section :
+Au sens de la présente section : 
 
 - un immeuble collectif pourvu d'une distribution d'eau chaude commune est un immeuble qui comprend au moins deux locaux
 occupés à titre privatif et alimentés en eau chaude par une même installation ;
 
 - un local occupé à titre privatif est constitué par la pièce ou l'ensemble des pièces réservées à la jouissance exclusive de
-personnes physiques ou morales ;
+personnes physiques ou morales ; 
 
 - les immeubles de classe A sont les immeubles ayant fait l'objet d'une demande de permis de construire, d'une demande de
 prorogation de permis de construire ou d'une déclaration préalable de travaux au sens de l'ancien article L. 430-3 du code de
-l'urbanisme postérieure au 30 juin 1975 ;
+l'urbanisme postérieure au 30 juin 1975 ; 
 
 - tous les autres immeubles relèvent de la classe B.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L430-3 (Ab)
+	  - Code de l'urbanisme L430-3 ancien
 
 
 ###### Article R*131-10
@@ -29879,7 +29822,7 @@ ainsi fournie.
 Lorsque les conditions de fourniture de l'eau chaude ne permettent pas de connaître la part des frais de combustible ou
 d'énergie entrant dans le prix de ladite fourniture, cette part fait l'objet, pour l'application du présent article, d'une
 estimation forfaitaire égale aux deux tiers au moins du prix total de l'eau chaude fournie par l'installation commune de
-l'immeuble.
+l'immeuble. 
 
 Il n'est pas dérogé par le présent article aux dispositions, conventions ou usages en vigueur pour la répartition des frais,
 fixes ou non, et des charges afférents à la fourniture d'eau chaude autres que les frais de combustible ou d'énergie
@@ -29887,13 +29830,13 @@ mentionnés ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29912,13 +29855,13 @@ construction, doivent être équipés des appareils nécessaires de mesure direc
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29928,26 +29871,26 @@ construction, doivent être équipés des appareils nécessaires de mesure direc
 ###### Article R*131-12
 
 Les dispositions prévues à l'article R. 131-10 sont applicables aux immeubles collectifs de la classe B qui doivent être
-équipés des appareils nécessaires à dater du 15 septembre 1977 au plus tard.
+équipés des appareils nécessaires à dater du 15 septembre 1977 au plus tard. 
 
 Il peut y être dérogé, pour l'ensemble d'un immeuble ou l'ensemble des immeubles desservis par une même installation de
-production d'eau chaude :
+production d'eau chaude : 
 
 1. Si le nombre des points de mesure nécessaires à l'application de l'article R. 131-10 est supérieur à deux fois le nombre
-des locaux occupés à titre privatif desservis par cette installation ;
+des locaux occupés à titre privatif desservis par cette installation ; 
 
 2. Ou si, pour plus de 15 p. 100 des points de mesure, les canalisations ne satisfont pas aux conditions d'accessibilité
 fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29961,21 +29904,21 @@ fixées par arrêté du ministre chargé de la construction et de l'habitation.
 ###### Article R*131-13
 
 Il peut être dérogé, par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé de
-l'industrie, aux dispositions de l'article R. 131-10 en ce qui concerne :
+l'industrie, aux dispositions de l'article R. 131-10 en ce qui concerne : 
 
-- les immeubles collectifs de la classe B comportant seulement deux locaux occupés à titre privatif ;
+- les immeubles collectifs de la classe B comportant seulement deux locaux occupés à titre privatif ; 
 
 - les locaux dépendant d'un établissement d'hôtellerie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -29994,13 +29937,13 @@ pas de la réglementation édictée par le décret précité du 30 novembre 1944
 
 	  - Décret n°1944-11-30
 
-	**Anciens textes**:
-
-	  - Décret n°75-496 1975-06-19 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 
 ##### Section 3 : Régulation des installations de chauffage.
@@ -30021,7 +29964,7 @@ Les dispositions de la présente section s'appliquent :
 
 	**Modifié par**:
 
-	  - Décret n°88-355 1988-04-12 art. 4 JORF 15 avril 1988
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -30032,9 +29975,9 @@ Les dispositions de la présente section s'appliquent :
 
 Pour l'application de la présente section :
 
-La régulation d'une installation de chauffage consiste [*définition*] en un ou plusieurs dispositifs permettant de régler
-automatiquement la fourniture de chaleur dans les locaux en fonction des températures extérieure et intérieure, ou de l'une
-de ces températures et, le cas échéant, d'autres éléments tels que l'ensoleillement ; 
+La régulation d'une installation de chauffage consiste en un ou plusieurs dispositifs permettant de régler automatiquement la
+fourniture de chaleur dans les locaux en fonction des températures extérieure et intérieure, ou de l'une de ces températures
+et, le cas échéant, d'autres éléments tels que l'ensoleillement ; 
 
 La puissance d'une installation de chauffage est définie comme le produit de la quantité de combustible consommée à l'heure
 en marche continue maximale par le pouvoir calorifique inférieur de ce combustible.
@@ -30047,7 +29990,7 @@ en marche continue maximale par le pouvoir calorifique inférieur de ce combusti
 
 	**Modifié par**:
 
-	  - Décret n°88-355 1988-04-12 art. 5 JORF 15 avril 1988
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 
 ###### Article R*131-17
@@ -30069,10 +30012,8 @@ caractéristiques de construction.
 
 	**Modifié par**:
 
-	  - Décret n°88-355 1988-04-12 art. 6 JORF 15 avril 1988
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
-
-##### Section 3 : Régulation des installations de chauffage.
 
 ###### Article R*131-18
 
@@ -30082,13 +30023,13 @@ service avant le 1er janvier 1976.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-495 1975-06-19 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 
 ##### Section 4 : Limitation de la température de chauffage.
@@ -30098,12 +30039,12 @@ service avant le 1er janvier 1976.
 Pour l'application des dispositions de la présente section et des arrêtés prévus aux articles R. 131-22 et R. 131-23 :
 
 - la température de chauffage est celle qui résulte de la mise en oeuvre d'une installation de chauffage, quelle que soit
-l'énergie utilisée à cette fin et quels que soient les modes de production de chaleur ;
+l'énergie utilisée à cette fin et quels que soient les modes de production de chaleur ; 
 
-- un local à usage d'habitation est constitué par l'ensemble des pièces d'un logement ;
+- un local à usage d'habitation est constitué par l'ensemble des pièces d'un logement ; 
 
 - la température de chauffage d'une pièce d'un logement ou d'un local à usage autre que l'habitation est la température de
-l'air, mesurée au centre de la pièce ou du local, à 1,50 mètre au-dessus du sol ;
+l'air, mesurée au centre de la pièce ou du local, à 1,50 mètre au-dessus du sol ; 
 
 - la température moyenne d'un logement ou d'un ensemble de locaux à usage autre que l'habitation est la moyenne des
 températures de chauffage mesurées dans chaque pièce ou chaque local, le calcul de la moyenne étant pondéré en fonction du
@@ -30111,13 +30052,13 @@ volume de chaque pièce ou local.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -30130,26 +30071,56 @@ volume de chaque pièce ou local.
 	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
 
 
+###### Article R*131-20
+
+Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
+l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
+chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-20, fixées en moyenne à 19° C : 
+
+- pour l'ensemble des pièces d'un logement ; 
+
+- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-20, R131-22, R131-23
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
+
+
 ###### Article R*131-21
 
 Pendant les périodes d'inoccupation des locaux mentionnés à l'article R. 131-20, d'une durée égale ou supérieure à vingt-
 quatre heures consécutives, les limites de température moyenne de chauffage sont, pour l'ensemble des pièces d'un logement et
 pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment, fixées ainsi qu'il
-suit :
+suit : 
 
-16° C lorsque la durée d'inoccupation est égale ou supérieure à vingt-quatre heures et inférieure à quarante-huit heures ;
+16° C lorsque la durée d'inoccupation est égale ou supérieure à vingt-quatre heures et inférieure à quarante-huit heures ; 
 
 8° C lorsque la durée d'inoccupation est égale ou supérieure à quarante-huit heures.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -30168,13 +30139,13 @@ supérieures de chauffage calculées conformément à l'article R. 131-19 qui so
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -30197,13 +30168,13 @@ calculées conformément aux dispositions de l'article R. 131-19 qui sont applic
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
@@ -30216,49 +30187,17 @@ Les normes mentionnées à l'article L. 131-4 sont fixées après avis du comit�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-622 1978-05-31
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
-
-
-##### Section 4 : Limitation de la température de chauffage.
-
-###### Article R*131-20
-
-Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
-l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
-chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-20, fixées en moyenne à 19° C : 
-
-- pour l'ensemble des pièces d'un logement ; 
-
-- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°79-907 1979-10-22 ART. 1 JORF 23 OCTOBRE 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R131-20
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
 
 
 #### Chapitre II : Ravalement des immeubles.
@@ -30269,17 +30208,148 @@ La décision de l'autorité administrative mentionnée à l'article L. 132-2 est
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-735 1977-07-07 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L132-2 (M)
+	  - Code de la construction et de l'habitation. - art. L132-2 (V)
+
+
+#### Chapitre III : Lutte contre les termites.
+
+###### Article R*133-1
+
+L'injonction de procéder à la recherche de termites ainsi qu'aux travaux prévus à l'article L. 133-1 est prise par arrêté du
+maire et notifiée au propriétaire de l'immeuble.
+
+Le propriétaire justifie du respect de l'obligation de recherche de termites en adressant au maire un état parasitaire,
+établi par une personne exerçant l'activité d'expertise ou de diagnostic de la présence de termites, indiquant les parties de
+l'immeuble visitées et celles n'ayant pu être visitées, les éléments infestés ou ayant été infestés par la présence de
+termites et ceux qui ne le sont pas, ainsi que la date de son établissement.
+
+Le propriétaire justifie du respect de l'obligation de réalisation des travaux préventifs ou d'éradication en adressant au
+maire une attestation, établie par une personne exerçant l'activité de traitement et de lutte contre les termites distincte
+de la personne ayant établi l'état parasitaire prévu à l'alinéa précédent, certifiant qu'il a été procédé aux travaux
+correspondants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L133-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*133-2 (V)
+
+
+###### Article R*133-2
+
+Le fait pour le propriétaire de ne pas justifier du respect de l'obligation de recherche des termites ainsi que de
+l'obligation de réalisation des travaux préventifs ou d'éradication selon les modalités prévues à l'article R. 133-1 est puni
+des peines prévues pour les contraventions de 5e classe.
+
+Les personnes morales peuvent être déclarées responsables pénalement des infractions définies ci-dessus dans les conditions
+prévues à l'article 121-2 du code pénal. Elles encourent la peine d'amende selon les modalités prévues à l'article 131-41 du
+même code.
+
+La récidive des contraventions prévues au présent article est punie conformément aux dispositions de l'article 132-11 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 132-11 (M)
+	  - Code de la construction et de l'habitation R133-1
+
+
+### Titre III : Chauffage et ravalement des immeubles
+
+#### Chapitre Ier : Chauffage des immeubles.
+
+##### Section 1 : Equipement et répartition des frais dans les immeubles collectifs.
+
+###### Article R*131-3
+
+Les dispositions de l'article R. 131-2 ne sont pas applicables :
+
+a) Aux établissements d'hôtellerie, aux logements-foyers,
+
+aux locaux à usage agricole, aux locaux à usage sportif qui ne sont pas situés dans un immeuble collectif ;
+
+b) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire avant le 31 décembre 1988 et non équipés
+de systèmes de répartition des frais de chauffage, pour lesquels les frais de combustible ou d'énergie pour le chauffage
+d'une année de référence, rapportés à la surface chauffée, sont inférieurs à un seuil fixé par arrêté conjoint du ministre
+chargé de la construction et de l'habitation et du ministre chargé de l'énergie, ou pour lesquels il est techniquement
+impossible de poser des appareils de mesure.
+
+Ce seuil est choisi de sorte que, pour les immeubles faisant l'objet de l'obligation d'équipement en appareils permettant
+d'individualiser les frais de chauffage collectif, la charge financière annuelle de ces appareils, comprenant l'amortissement
+sur dix années et les frais de fonctionnement, soit inférieure au dixième des frais annuels de combustible ou d'énergie ;
+
+c) Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire après le 31 décembre 1988, s'il s'avère,
+à l'issue de la première saison complète de chauffe, que les frais de combustible ou d'énergie pour le chauffage sont
+inférieurs au seuil visé au b du présent article, corrigé des variations climatiques et économiques. A cette fin, les
+techniques utilisées pour la construction de ces immeubles doivent permettre la mise en place ultérieure d'appareils de
+mesure et de répartition des frais de chauffage sans intervention significative ;
+
+d) Aux immeubles collectifs bénéficiant du label provisoire haute performance énergétique ou solaire ou du label qualitel-
+H.P.E., définis par les arrêtés prévus au troisième alinéa de l'article R. 111-6 du présent code ;
+
+e) Aux immeubles collectifs faisant appel, au moins pour la moitié de la puissance de chauffage des locaux, aux énergies
+renouvelables (solaire, géothermie, biomasse, rejets thermiques) ;
+
+f) Aux immeubles pourvus d'une installation de chauffage mixte comprenant un équipement collectif complété par des émetteurs
+de chaleur individuels ayant le caractère d'immeubles par destination.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R131-4, R131-5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 1991 - art. 1 (Ab)
+	  - Arrêté du 30 mai 2016 - art. 2
+	  - Code de la construction et de l'habitation. - art. R*131-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-613 du 3 juillet 2000 - art. 5 () JORF 5 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-2, R111-6
 
 
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
