@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-13
 
 # Partie législative
 
@@ -61106,8 +61106,9 @@ bilan général de l'allocation de logement attribuée dans le département.
 
 ###### Article R371-3
 
-Les dispositions de la section 2 du chapitre II du titre VI du livre III sont applicables aux départements d'outre-mer, à
-l'exclusion des articles R. 362-10, R. 362-12 et R. 362-19.
+Les dispositions de la section II du chapitre II du titre VI du livre III sont applicables aux départements d'outre-mer, à
+l'exclusion des articles R. 362-9, R. 362-10, R. 362-11, R. 362-12, R. 362-14, R. 362-15, R. 362-18 pour son deuxième alinéa,
+R. 362-18-1 pour ses deuxième et troisième alinéas, R. 362-19, et R. 362-20 pour son premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -61115,15 +61116,21 @@ l'exclusion des articles R. 362-10, R. 362-12 et R. 362-19.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 1 () JORF 13 décembre 2001
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R362-11 (M)
 	  - Code de la construction et de l'habitation. - art. R362-12 (M)
+	  - Code de la construction et de l'habitation. - art. R362-14 (M)
+	  - Code de la construction et de l'habitation. - art. R362-15 (M)
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-9 (M)
 
 	**Anciens textes**:
 
@@ -61140,8 +61147,9 @@ l'exclusion des articles R. 362-10, R. 362-12 et R. 362-19.
 
 ###### Article R371-4
 
-Le conseil départemental de l'habitat institué dans les départements d'outre-mer est composé de son président et de trente-
-six membres nommés par arrêté préfectoral répartis en trois groupes égaux, à savoir :
+Le conseil départemental de l'habitat institué dans les départements d'outre-mer est présidé par le président du conseil
+général. Il est composé, outre son président, de trente-six membres nommés par arrêté préfectoral et répartis en trois
+groupes de même importance, à savoir :
 
 1° Pour un tiers, de représentants du conseil général, du conseil régional, des communes et des groupements de communes du
 département désignés dans les conditions fixées à l'article R. 371-5 ;
@@ -61160,20 +61168,26 @@ d'organismes choisis en raison de leurs compétences en matière d'habitat dans 
 
 Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
 
+Le préfet assiste de droit aux séances du conseil départemental de l'habitat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°99-1159 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°99-1159 du 29 décembre 1999
 	  - TXT_SOURCE: Décret n°99-1159 du 29 décembre 1999 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 2 () JORF 13 décembre 2001
+
+	**Transféré par**:
+
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Cite**:
 
@@ -61190,6 +61204,7 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 	**Nouveaux textes**:
 
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 	  - Code de la construction et de l'habitation. - art. R371-3 (V)
 
 
@@ -61255,7 +61270,16 @@ pour la durée du mandat restant à courir.
 
 Les membres du conseil départemental de l'habitat siégeant au titre du 3° de l'article R. 371-4 sont désignés par le préfet
 sur proposition des organisations les plus représentatives dont celui-ci établit la liste. En tant que de besoin, pour porter
-à douze [*nombre*] l'effectif de ce groupe, le préfet désigne des personnalités compétentes dans le domaine de l'habitat.
+à douze l'effectif de ce groupe, le préfet nomme, par arrêté préfectoral et après consultation du président du conseil
+général, des personnalités compétentes dans le domaine de l'habitat.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -61263,9 +61287,9 @@ sur proposition des organisations les plus représentatives dont celui-ci établ
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 3 () JORF 13 décembre 2001
 
 	**Cité par**:
 
@@ -61275,8 +61299,9 @@ sur proposition des organisations les plus représentatives dont celui-ci établ
 
 ###### Article R371-8
 
-Dans les départements d'outre-mer, le comité mentionné à l'article R. 362-18-1 est composé de deux membres de chacun des
-groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
+Dans les départements d'outre-mer, le comité prévu au premier alinéa de l'article R. 362-18-1 est présidé par le président du
+conseil général et est composé de deux membres de chacun des groupes définis à l'article R. 371-4, désignés par le préfet.
+Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 
 **Liens relatifs à cet article**
 
@@ -61284,9 +61309,9 @@ groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1105 du 14 décembre 1994 - art. 4 () JORF 21 décembre 1994
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 4 () JORF 13 décembre 2001
 
 	**Cite**:
 
@@ -61296,6 +61321,82 @@ groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+###### Article R371-9
+
+Dans les deux mois qui suivent la désignation de ses membres, le conseil est réuni à l'initiative de son président et procède
+à la désignation de son bureau. Celui-ci comprend le président du conseil départemental de l'habitat et six membres élus à
+raison de deux au sein de chacun des groupes définis à l'article R. 371-4. Le préfet, ou son représentant, assiste de droit
+aux réunions du bureau.
+
+Le bureau organise les travaux du conseil et, le cas échéant, des commissions définies à l'article R. 362-18, fixe l'ordre du
+jour des réunions et propose au conseil un règlement intérieur.
+
+Le président, le bureau du conseil départemental de l'habitat ou le préfet peuvent saisir le conseil de toute question
+entrant dans ses compétences définies à la section I.
+
+Le secrétariat du bureau est assuré dans les conditions définies à l'article R. 362-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 5 () JORF 13 décembre 2001, rectificatif JORF du 27 avril 2002
+
+	**Transféré par**:
+
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-16 (M)
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
+	  - Code de la construction et de l'habitation. - art. R371-4 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-1 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R371-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R371-8 (M)
+
+
+###### Article R371-10
+
+Dans les départements d'outre-mer, chaque commission spécialisée prévue à l'article R. 362-18 comprend au moins deux membres
+de chacun des groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les mêmes conditions que les
+titulaires.
+
+Les représentants des organisations professionnelles de bailleurs, de locataires et de gestionnaires nommés au conseil
+départemental de l'habitat au titre du 2° et du 3° de l'article R. 371-4 forment la commission spécialisée des rapports
+locatifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-1183 du 11 décembre 2001 - art. 6 () JORF 13 décembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R362-18 (M)
+	  - Code de la construction et de l'habitation. - art. R371-4 (M)
 
 
 #### Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.
