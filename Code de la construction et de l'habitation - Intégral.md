@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-12-28
+Version Consolidée au 1985-12-31
 
 # Partie législative
 
@@ -35319,49 +35319,6 @@ b) Les logements dont les travaux ont commencé avant :
 	  - Code de la construction et de l'habitation. - art. R331-3 (M)
 
 
-###### Article R331-6
-
-Les prêts prévus à l'article R. 331-1 sont accordés par [*établissements prêteurs*] la caisse de prêts aux organismes
-d'habitations à loyer modéré ou par le Crédit foncier de France.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-934 1977-07-27 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 5 mai 2017 - art. 2 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 257 (V)
-	  - Code de la construction et de l'habitation. - art. R331-105 (V)
-	  - Code de la construction et de l'habitation. - art. R331-11 (M)
-	  - Code de la construction et de l'habitation. - art. R331-13-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-14 (V)
-	  - Code de la construction et de l'habitation. - art. R331-17 (M)
-	  - Code de la construction et de l'habitation. - art. R331-19 (M)
-	  - Code de la construction et de l'habitation. - art. R331-24 (M)
-	  - Code de la construction et de l'habitation. - art. R331-25 (V)
-	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-3 (V)
-	  - Code de la construction et de l'habitation. - art. R331-5 (M)
-	  - Code de la construction et de l'habitation. - art. R331-7 (M)
-	  - Code de la construction et de l'habitation. - art. R331-83 (V)
-	  - Code de la construction et de l'habitation. - art. R353-59 (V)
-	  - Code de la construction et de l'habitation. - art. R353-90 (V)
-	  - Code des assurances - art. R426-3 (V)
-	  - Code général des impôts, CGI. - art. 1585 D (VT)
-	  - Code général des impôts, CGI. - art. 278 sexies (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-
-
 ###### Article R331-7
 
 Pour l'application de la présente section, le ministre chargé des finances est autorisé à passer avec les établissements
@@ -35941,15 +35898,60 @@ Cet arrêté fixe également les modalités de contrôle des ressources.
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 
+##### Sous-section 1 : Conditions d'octroi de prêts.
+
+###### Article R331-6
+
+Les prêts prévus à l'article R. 331-1 sont accordés soit par [*établissements prêteurs*] la Caisse des dépôts et
+consignations soit par le Crédit foncier de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1450 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Cité par**:
+
+	  - Arrêté du 5 mai 2017 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 257 (V)
+	  - Code de la construction et de l'habitation. - art. R331-105 (V)
+	  - Code de la construction et de l'habitation. - art. R331-11 (M)
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (V)
+	  - Code de la construction et de l'habitation. - art. R331-17 (M)
+	  - Code de la construction et de l'habitation. - art. R331-19 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25 (V)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-3 (V)
+	  - Code de la construction et de l'habitation. - art. R331-5 (M)
+	  - Code de la construction et de l'habitation. - art. R331-7 (M)
+	  - Code de la construction et de l'habitation. - art. R331-83 (V)
+	  - Code de la construction et de l'habitation. - art. R353-59 (V)
+	  - Code de la construction et de l'habitation. - art. R353-90 (V)
+	  - Code des assurances - art. R426-3 (V)
+	  - Code général des impôts, CGI. - art. 1585 D (VT)
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+
+
 ##### Sous-section 2 : Caractéristiques des prêts.
 
 ###### Article R331-21
 
-1. Le montant des prêts accordés par la caisse de prêts aux organismes d'habitations à loyer modéré et aux sociétés
-d'économie mixte ne peut, dans la limite du prix de revient réel, dépasser 95 p. 100 du prix de référence de l'opération
-défini à l'article R. 331-18 majoré du dépassement éventuel pour opération expérimentale, dans la limite d'un plafond, et des
-révisions de prix correspondant à une durée forfaitaire d'exécution des travaux définie à compter de la décision favorable.
-Les autres dépassements autorisés ne sont pas financés par les prêts prévus à l'article R. 331-1 ;
+1. Le montant des prêts accordés par la caisse des dépôts et consignations aux organismes d'habitations à loyer modéré et aux
+sociétés d'économie mixte ne peut, dans la limite du prix de revient réel, dépasser 95 p. 100 du prix de référence de
+l'opération défini à l'article R. 331-18 majoré du dépassement éventuel pour opération expérimentale, dans la limite d'un
+plafond, et des révisions de prix correspondant à une durée forfaitaire d'exécution des travaux définie à compter de la
+décision favorable. Les autres dépassements autorisés ne sont pas financés par les prêts prévus à l'article R. 331-1 ;
 
 2. Le montant des prêts accordés par le Crédit foncier de France aux bénéficiaires mentionnés à l'article R. 331-8 ne peut,
 dans la limite du prix de revient réel, dépasser 65 p. 100 du prix de référence de l'opération défini à l'article R. 331-18
@@ -35966,7 +35968,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°85-593 1985-06-05 art. 2 JORF 12 juin 1985
+	  - Décret n°85-1450 1985-12-30 art. 2 JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -36014,18 +36016,13 @@ principal des personnes âgées indépendantes.
 
 ###### Article R331-22
 
-1° Les prêts accordés par la caisse de prêts aux aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte
-sont accordés pour une durée de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise
-d'intérêts de deux ans. Les délais sont calculés à partir de la date de la signature du contrat [*point de départ*].
+1° Les prêts accordés par la Caisse des dépôts et consignation aux organismes à loyer modéré et aux sociétés d'économie mixte
+sont à taux révisables d'une durée de trente-quatre ans assortis d'un différé d'amortissement et du paiement d'intérêts de
+deux ans. Les délais sont calculés à partir de la date de la signature du contrat [*point de départ*].
 
-A compter du 25 octobre 1984 [*date*],les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés
-d'économie mixte sont à taux révisables.
-
-A compter du 25 octobre 1984, le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces
-périodes et, le cas échéant, les conditions de leur révisabilité, ainsi que le rythme de la progressivité des annuités en
-cours d'amortissement sont, nonobstant les dispositions de l'article R. 331-22-1, fixés par arrêté des ministres chargés de
-la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à leur financement et
-du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
+Un arrêté conjoints des ministres chargés des finances et de la construction et de l'habitation fixe notamment le taux
+d'intérêt des prêts, les conditions de leur révisabilité ainsi que le rythme de progressivité des annuités, en tenant compte
+du côuts des ressources concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
 
 2° Les prêts accordés par le Crédit foncier de France aux bénéficiaires désignés à l'article R. 331-8 sont :
 
@@ -36049,7 +36046,7 @@ du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
 
 	**Modifié par**:
 
-	  - Décret n°85-593 1985-06-05 art. 3 JORF 12 juin 1985
+	  - Décret n°85-1450 1985-12-30 art. 3 JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -36066,12 +36063,10 @@ du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
 
 ###### Article R331-22-1
 
-A la suite de la révision du taux des prêts à taux révisable définie à l'article R. 331-22, aucune annuité, à partir de la
-quatrième, et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p. 100, ni inférieure à l'annuité
-précédente.
-
-Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les conditions d'application du
-présent article.
+A la suite de la révision du taux des prêts à taux révisable visés au 2° de l'article R. 331-22, aucune annuité, à partir de
+la quatrième, et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p. 100 [*pourcentage*], ni inférieure à
+l'annuité précédente. Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les
+conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -36081,13 +36076,25 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°85-593 1985-06-05 art. 4 JORF 12 juin 1985
+	  - Décret n°85-1450 1985-12-30 art. 4 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 13 mars 1979 - art. 13 (Ab)
 	  - Arrêté du 13 mars 1979 - art. 15 (Ab)
 	  - Code de la construction et de l'habitation. - art. R331-22 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-22 2°
 
 
 ###### Article R331-23
@@ -52290,6 +52297,229 @@ Ce remboursement est également exigible mais un mois après simple mise en deme
 	  - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
+##### Section 2 : Caisse de garantie du logement social
+
+###### Article R*431-30
+
+La caisse de garantie du logement social est un établissement public national à caractère administratif doté de l'autonomie
+financière [*nature juridique*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+
+###### Article R*431-31
+
+La caisse [*attributions*] a pour objet, en application de l'article L. 431-3 du présent code, de gérer les prêts consentis
+jusqu'au 31 décembre 1985 par la caisse des prêts aux organismes d'habitations à loyer modéré. Elle gère le fond de garantie
+prévu à l'article L. 451-3 et assure dans les conditions fixées par les articles L. 451-3 et L. 481-1 la gestion des produits
+des redevances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L431-3 (M)
+	  - Code de la construction et de l'habitation. - art. L451-3 (M)
+	  - Code de la construction et de l'habitation. - art. L481-1 (M)
+
+
+###### Article R*431-32
+
+Les ressources de la caisse sont constituées notamment par le remboursement des prêts, les subventions et bonifications de
+l'Etat afférentes aux prêts qu'elle gère , le produit des redevances ainsi que le produit des emprunts qu'elle contracte avec
+l'autorisation du ministre chargé des finances, les dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L451-3, L481-1, R431-31
+	  - Code de la construction et de l'habitation. - art. L451-3 (M)
+	  - Code de la construction et de l'habitation. - art. L481-1 (M)
+
+
+###### Article R*431-33
+
+La caisse est administrée par un conseil d'administration de dix membres désignés par arrêté du ministre chargé des finances
+et du ministre chargé de la construction et de l'habitation. Ce conseil d'administration comprend [*composition*] :
+
+- deux représentants des organismes d'habitations à loyer modéré, dont l'un, ayant la qualité de représentant de
+collectivités locales, est président du conseil d'administration ;
+
+- un conseiller d'Etat ou un conseiller maître à la Cour des comptes ;
+
+- un inspecteur général des finances ou un inspecteur des finances ;
+
+- deux représentants du ministre chargé des finances ;
+
+- deux représentants du ministre chargé de la construction et de l'habitation ;
+
+- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+- un représentant des sociétés d'économie mixte susceptibles de bénéficier des prêts de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+
+###### Article R*431-34
+
+Le conseil d'administration délibère sur le budget de la caisse, sur son compte financier ainsi que sur toutes les décisions
+afférentes à la gestion des prêts et aux opérations du fonds de garantie. Il se réunit au moins deux fois par an
+[*périodicité*], sur convocation de son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+
+###### Article R*431-35
+
+Le conseil peut désigner en son sein une commission permanente comprenant au moins un représentant des organismes
+d'habitations à loyer modéré et le représentant des sociétés d'économie mixte. Le conseil peut déléguer à la commission les
+décisions afférentes à la gestion des prêts et aux opérations du fonds de garantie dans la limite d'un montant qu'il fixe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+
+###### Article R*431-36
+
+La Caisse des dépôts et consignations assure la gestion administrative des opérations de la caisse de garantie du logement
+social dans des conditions fixées par une convention conclue entre les deux établissements.
+
+Le direction général de la Caisse des dépôts et consignations est ordonnateur de la caisse de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+
+###### Article R*431-37
+
+Un arrêté du ministre chargé des finances définit les règles particulières de fonctionnement comptable et financier de la
+caisse.
+
+L'agent comptable de la caisse de garantie du logement social est nommé par arrêté conjoint du ministre chargé des finances
+et du ministre chargé de la construction et de l'habitation [*autorités compérentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+
+###### Article R*431-38
+
+Les frais de contrôle visés à l'article L. 451-3 exposés par le ministre chargé des finances et le ministre chargé de la
+construction et de l'habitation sont arrêtés par les ministres intéressés qui en notifient le montant à la caisse de garantie
+du logement social.
+
+Les sommes ainsi arrêtées sont versées par la caisse au Trésor public et rattachées au budget des divers ministères par voie
+de fonds de concours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-3 (M)
+
+
 ##### Section 3 : Bonifications d'intérêts.
 
 ###### Article R*431-50
@@ -59024,511 +59254,6 @@ juger lesdits comptes aux amendes prévues par l'article 159 de la loi du 15 avr
 	  - Code de la construction et de l'habitation. - art. R423-40 (V)
 	  - Code de la construction et de l'habitation. - art. R423-65 (M)
 	  - Loi   1884-04-15 ART. 159
-
-
-### Titre III : Dispositions financières.
-
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.
-
-##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.
-
-###### Article R*431-33
-
-La caisse est administrée par un conseil d'administration de neuf membres désignés par arrêté du ministre chargé des finances
-et du ministre chargé de la construction et de l'habitation. Ce conseil d'administration comprend [*composition*] :
-
-- un conseiller général des finances ou un inspecteur des finances ;
-
-- deux représentants du ministre de l'économie et des finances ;
-
-- deux représentants du ministre chargé de la construction et de l'habitation ;
-
-- le directeur général de la caisse des dépôts et consignations ou son représentant ;
-
-- deux représentants des organismes d'habitations à loyer modéré dont l'un ayant la qualité de représentant de collectivités
-locales.
-
-- Un représentant des sociétés d'économie mixte suceptibles de bénéficier des prêts de la caisse.
-
-Le conseil d'administration délibère notamment sur le budget de la caisse, sur son compte financier ainsi que sur ses
-opérations financières.
-
-Il se réunit au moins deux fois par an sur convocation de son président.
-
-Il peut désigner en son sein une commission permanente comprenant au moins un représentant des organismes d'habitations à
-loyer modéré et un représentant des sociétés d'économie mixte mentionnées à l'alinéa 1er et déléguer à cette commission une
-partie de ses pouvoirs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-##### Sous-section  1 : Organisation et fonctionnement
-
-###### Article R*431-30
-
-La caisse des prêts aux organismes d'habitations à loyer modéré est un établissement public national à caractère
-administratif doté de l'autonomie financière [*nature juridique*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*431-31
-
-Cette caisse a pour objet d'assurer le financement des opérations prévues à l'article L. 411-1, alinéa 1, et de faciliter le
-financement des opérations prévues aux alinéas 2 et 3 du même article. A cet effet, elle consent des prêts aux organismes
-d'habitations à loyer modéré.
-
-Elle assure en outre le financement des opérations prévues à l'article L. 351-2 (1° et 3°). A cet effet, elle consent des
-prêts aux organismes d'habitations à loyer modéré, aux sociétés d'économie mixte pour la réalisation des opérations prévues à
-l'article L. 351-2 (3°) et aux collectivités locales et à leurs groupements pour l'acquisition de terrains destinés
-ultérieurement à la construction de logements à usage locatif ou d'immeubles destinés à être ultérieurement améliorés ainsi
-qu'aux sociétés d'économie mixte de construction d'outre-mer ayant fait l'objet de l'agrément prévu à l'article L. 472-1-1 du
-présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L472-1-1 (M)
-
-
-###### Article R*431-32
-
-Les ressources de la caisse sont constituées notamment par :
-
-- le produit des emprunts qu'elle contracte avec l'autorisation du ministre chargé des finances ;
-
-- les subventions inscrites au budget général pour le financement des habitations à loyer modéré et des opérations prévues à
-l'article L. 351-2 (3.)    - les remboursements par les organismes des prêts qui leur ont été consentis en application de
-l'article R. 431-31 ;
-
-- les ressources de trésorerie  ;
-
-- les dons et legs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 3
-	  - Décret n°77-1203 1977-10-26 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L351-2 (3), R431-31
-
-
-###### Article R*431-34
-
-Sous le contrôle du conseil d'administration, la caisse des dépôts et consignations assure la gestion administrative des
-opérations de la caisse de prêts aux organismes d'habitations à loyer modéré dans les conditions fixées par une convention
-conclue entre les deux établissements.
-
-Le directeur général de la caisse des dépôts et consignations est ordonnateur de la caisse des prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*431-35
-
-Le fonctionnement financier et comptable de la caisse est assuré dans les conditions prévues par les articles 14 à 25 du
-décret n. 53-1227 du 10 décembre 1953 relatif à la réglementation comptable des organismes publics nationaux à caractère
-administratif et par les articles 151 à 189 du décret n. 62-1587 du 29 décembre 1962 modifié, portant règlement général sur
-la comptabilité publique ainsi que par les articles ci-dessous.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-1227 1953-12-10 ART. 14 à 25
-	  - Décret n°62-1587 1962-12-29 ART. 151 à 189
-
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*431-36
-
-L'agent comptable de la caisse de prêts aux organismes d'habitations à loyer modéré est nommé par arrêté conjoint du ministre
-chargé des finances et du ministre chargé de la construction et de l'habitation.
-
-La comptabilité de la caisse est distincte de celle de la caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1.
-
-###### Article R*431-37
-
-Les prêts prévus à l'article R. 431-31 sont consentis par la caisse de prêts aux organismes d'habitations à loyer modéré, sur
-décision de financement prise par le préfet, dans les limites des programmes de logements régionalisés arrêtés par le
-ministre chargé de la construction et de l'habitation.
-
-Cette décision est prise sur proposition de la commission d'attribution des prêts prévus à l'article R. 431-1 pour les
-logements à usage locatif lorsqu'il s'agit :
-
-- soit de programmes à financer sur la dotation régionalisée et dont la réalisation est prévue au titre d'opérations
-triennales ou dans les zones d'aménagement concerté ;
-
-- soit de programmes spéciaux donnant lieu à ouvertures de crédit particulières.
-
-La commission précitée est habilitée à donner des avis, notamment sur les organismes d'habitations à loyer modéré appelés à
-réaliser des programmes de logements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R431-31
-	  - Code de la construction et de l'habitation. - art. R431-1 (V)
-
-
-###### Article R*431-38
-
-Pour les programmes de logements à usage locatif non régionalisés, il est rendu compte à la commission d'attribution des
-prêts des affectations décidées par le ministre chargé de la construction et de l'habitation qui prend les décisions de
-financement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 1 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*431-39
-
-Les prêts consentis pour l'application de l'article L. 411-1, alinéa 1, atteignent, sans pouvoir dépasser le prix de revient
-des logements, toutes dépenses confondues, des montants fixés selon la catégorie d'immeubles, le type de logement à réaliser
-et la zone géographique où sont implantées les contructions.
-
-Des prêts peuvent être également consentis pour le financement des opérations prévues par l'article L. 411-1, alinéa 2 et 3.
-
-Si le remboursement du prêt n'est pas garanti par une collectivité locale, un groupement de collectivités locales ou une
-chambre de commerce et d'industrie, le prêt prévu au présent article, alinéa 1, ne peut dépasser 80 p. 100 du prix de
-revient, toutes dépenses confondues.
-
-Des arrêtés du ministre chargé de la construction et de l'habitation et du ministre chargé des finances déterminent les
-conditions et les modalités d'attribution des prêts concernés par le présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*521-1 (V)
-
-
-###### Article R*431-40
-
-Les garanties accordées par une collectivité locale, un groupement de collectivités locales ou une chambre de commerce et
-d'industrie sont consenties dans les conditions déterminées par décret pris sur le rapport du ministre chargé des finances et
-du ministre chargé de la construction et de l'habitation, ainsi que du ministre de l'intérieur, s'il s'agit des collectivités
-locales ou de leurs groupements, et des ministres chargés du commerce et de l'industrie, s'il s'agit des chambres de commerce
-et d'industrie.
-
-La garantie peut s'étendre à la totalité des sommes nécessaires à l'exécution intégrale des programmes d'habitations à loyer
-modéré et d'attribution des prêts hypothécaires, même si elles ne doivent être utilisées que par tranches successives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-
-###### Article R*431-41
-
-La caisse de prêts est substituée à la caisse des dépôts et consignations pour la perception et l'utilisation de la redevance
-prévue aux articles L. 451-3 à L. 451-5.
-
-Pour le calcul de cette redevance, il est tenu compte, outre les capitaux dus à l'Etat, des capitaux dus à la caisse des
-prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-3 (M)
-	  - Code de la construction et de l'habitation. - art. L451-4 (M)
-	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
-
-
-###### Article R*431-42
-
-Avant le 1er mars de chaque année, la caisse de prêts notifie aux organismes emprunteurs le montant de la redevance qui leur
-incombe conformément à l'article précédent.
-
-Les organismes doivent se libérer de cette somme entre les mains de l'agent comptable de la caisse de prêts avant le 1er
-avril. A défaut de libération, une mise en demeure est adressée par lettre recommandée avec demande d'avis de réception aux
-organismes débiteurs et, en cas de non-paiement dans un délai d'un mois suivant cette mise en demeure, le recouvrement peut
-être poursuivi comme en matière d'impôts directs aux requête et diligence de l'agent comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R431-41
-
-
-###### Article R*431-43
-
-Le montant des redevances encaissées par la caisse de prêts est porté à un compte ouvert dans ses écritures sous le titre
-"Redevances pour frais d'administration et de contrôle relatifs aux prêts consentis aux organismes d'habitations à loyer
-modéré".
-
-Les sommes existant au compte sont déposées à la caisse des dépôts et consignations et bonifiées d'un intérêt calculé à un
-taux égal à celui qui est servi à cet établissement par le Trésor pour son compte courant ; les intérêts annuels sont
-liquidés et capitalisés au 31 décembre de chaque année.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-
-###### Article R*431-44
-
-Les frais de contrôle exposés par le ministère chargé des finances et le ministère chargé de la construction et de
-l'habitation, ainsi que les frais de fonctionnement de la commission d'attribution des prêts, sont arrêtés par les ministres
-intéressés qui en notifient le montant à la caisse de prêts.
-
-Les sommes ainsi arrêtées sont versées par la caisse de prêts au Trésor public et rattachées au budget des divers ministères
-par voie de concours.
-
-Les frais d'administration de la caisse de prêts sont arrêtés pour chaque année avant le 30 juin  de l'année suivante par le
-conseil d'administration. A cet effet, la caisse des dépôts et consignations notifie à la caisse de prêts le montant des
-frais exposés pour la gestion de l'établissement. Les frais d'administration sont versés, dès leur arrêté, par le conseil
-d'administration de la caisse de prêts à la caisse des dépôts et consignations. Toutefois, la caisse de prêts peut verser à
-cette dernière , en cours d'année, des acomptes dans la limite des trois quarts des frais de l'année précédente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-
-###### Article R*431-45
-
-La caisse des dépôts et consignations demeure compétente pour la mise en oeuvre des décisions de financement antérieures au
-1er janvier 1966 [*date*], sauf pour les prêts consentis en 1965 et 1966 par cet établissement aux organismes d'habitations à
-loyer modéré à la demande de l'Etat et dont la gestion est transférée à la caisse de prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-
-##### Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°).
-
-###### Article R*431-46
-
-Les prêts prévus à l'article R. 431-31, alinéa 2, sont accordés par la caisse de prêts aux organismes d'habitations à loyer
-modéré, après décision favorable du préfet dans la limite des contingents de prêts notifiés à la caisse de prêts aux
-organismes d'habitations à loyer modéré par le ministre chargé des finances et le ministre chargé de la construction et de
-l'habitation.
-
-Les caractéristiques de ces prêts sont fixées par décrets.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R431-31 AL. 2
-
-
-###### Article R*431-47
-
-Les dispositions de l'article R. 431-40 sont applicables aux prêts consentis en application de l'article R. 431-31, alinéa 2.
-
-Les prêts consentis en application de l'article L. 351-2 peuvent être garantis par l'hypothèque légale prévue à l'article L.
-431-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R431-31 AL. 2
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L431-1 (M)
-
-
-###### Article R*431-48
-
-Les articles R. 431-41 à R. 431-43 sont applicables aux prêts consentis en application de l'article L. 351-2 (1./ et 3/).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-157 1966-03-19 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R431-42
 
 
 ### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.
