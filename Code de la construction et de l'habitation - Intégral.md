@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-20
 
 # Partie législative
 
@@ -45438,13 +45438,15 @@ assurance sur la vie des emprunteurs.
 
 ###### Article R314-4
 
-En vue de faciliter la construction de logements destinés à la location aux fonctionnaires ou agents de l'Etat et des
-établissements publics de l'Etat mentionnés au premier alinéa de l'article R. 314-1, des conventions peuvent être conclues
-par les ministres chargés des finances, de la défense et de la construction et de l'habitation dans des conditions fixées par
-décret pris sur le rapport des ministres chargés des finances, de la fonction publique et de la construction et de
-l'habitation, avec des organismes et sociétés de construction qui s'engagent à réserver, en contrepartie de la contribution
-de l'Etat ou des établissements publics de l'Etat, des logements destinés à être loués aux fonctionnaires ou agents ci-dessus
-indiqués. Le pouvoir de passer lesdites conventions peut être délégué aux préfets.
+Des conventions peuvent être conclues par l'Etat et ses établissements publics n'ayant pas le caractère industriel et
+commercial avec des organismes ou sociétés de construction ou de construction et de gestion de logements ainsi qu'avec des
+organismes gestionnaires de la participation des employeurs à l'effort de construction qui s'engagent, en contrepartie d'une
+contribution financière revêtant la forme de prêts ou de subventions, à réserver des logements destinés à être loués à des
+agents de l'Etat ou de ces établissements publics.
+
+Ces conventions doivent être conformes à une convention type déterminée par arrêté conjoint des ministres des finances et du
+logement. Elles sont signées, au nom de l'Etat, par les ministres qui peuvent déléguer ce pouvoir au représentant de l'Etat
+dans le département et, au nom des établissements publics, par les autorités habilitées en vertu de leurs statuts.
 
 **Liens relatifs à cet article**
 
@@ -45456,7 +45458,7 @@ indiqués. Le pouvoir de passer lesdites conventions peut être délégué aux p
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -45472,52 +45474,19 @@ indiqués. Le pouvoir de passer lesdites conventions peut être délégué aux p
 	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
 	  - Code de la construction et de l'habitation. - art. R443-21 (Ab)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R314-1 (V)
-
-
-###### Article R314-4-1
-
-Des conventions peuvent également être conclues par le ministre chargé de la construction, le ministre chargé de la défense
-ou le représentant de l'Etat dans le département, avec des organismes gestionnaires de logements sociaux ou des organismes
-collecteurs de la participation des employeurs à l'effort de construction et qui s'engagent à réserver, en contrepartie de la
-contribution de l'Etat, des logements destinés à être loués aux fonctionnaires civils et militaires de l'Etat et aux agents
-de l'Etat.
-
-La contribution de l'Etat prend la forme soit de prêts remboursables dans les conditions stipulées dans la convention, soit
-de subventions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
 	**Modifié par**:
-
-	  - Décret n°91-1053 du 9 octobre 1991 - art. 2 () JORF 15 octobre 1991
-
-	**Abrogé par**:
 
 	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
+	  - TXT_ASSOCIE: Code de la construction R314-16
 
 
 ###### Article R314-5
 
-L'octroi de la contribution prévue aux articles R. 314-4 et R. 314-4-1 ne fait pas obstacle à l'attribution des primes à la
-construction.
-
-L'Etat et les établissements publics intéressés peuvent garantir par ces conventions et pendant un délai limité l'occupation
-permanente des logements réservés.
+L'octroi de la contribution financière prévue à l'article R. 314-4 ne fait pas obstacle à l'attribution des aides prévues par
+le présent code.
 
 **Liens relatifs à cet article**
 
@@ -45531,11 +45500,11 @@ permanente des logements réservés.
 
 	**Modifié par**:
 
-	  - Décret n°91-1053 du 9 octobre 1991 - art. 2 () JORF 15 octobre 1991
+	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 278-3 AL. 2 et 3
+	  - Code de l'urbanisme 278-3 al. 2, al. 3
 
 	**Cité par**:
 
@@ -45548,38 +45517,7 @@ permanente des logements réservés.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-	  - Code de la construction et de l'habitation. - art. R314-4-1 (Ab)
-
-
-###### Article R314-6
-
-Les opérations de construction de logements destinés aux fonctionnaires et aux militaires en application des articles R.
-314-4 et R. 314-5 sont confiées par priorité aux organismes d'habitations à loyer modéré. Lorsque ces opérations sont
-réalisées au moyen d'un prêt à taux réduit de l'Etat, la participation complémentaire qu'il prend revêt la forme soit d'une
-subvention, soit de prêts remboursables après amortissement du prêt principal.
-
-Dans les autres cas, les opérations peuvent être confiées indifféremment à des sociétés de construction ou à des organismes
-d'habitations à loyer modéré faisant appel à la législation sur les primes et les prêts à la construction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-908 1957-08-07 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
+	  - Code de la construction et de l'habitation. - art. R314-4 (V)
 
 
 ###### Article R314-7
@@ -45612,249 +45550,14 @@ dans les conventions passées en vertu des dispositions du présent chapitre.
 	  - Code de la construction et de l'habitation. - art. R314-1 (V)
 
 
-##### Section 2 : Logement des personnels civils de l'Etat.
-
-###### Article R314-8
-
-Il est institué auprès du ministre chargé de la fonction publique une commission centrale du logement des fonctionnaires et
-agents civils de l'Etat et des établissements publics de l'Etat, présidée par le directeur général de l'administration et de
-la fonction publique et composée de douze membres, six représentants de l'administration et six représentants des
-organisations syndicales de fonctionnaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R314-12 (Ab)
-	  - Code de la construction et de l'habitation. - art. R314-15 (Ab)
-
-
-###### Article R314-9
-
-Les représentants de l'administration comprennent :
-
-- un représentant du ministre chargé des finances.
-
-- un représentant du ministre de l'intérieur.
-
-- un représentant du ministre chargé de l'éducation.
-
-- un représentant du ministre chargé de la construction et de l'habitation.
-
-- un représentant du ministre chargé de la défense.
-
-- un représentant du ministre chargé des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-
-###### Article R314-10
-
-Les représentants des organisations syndicales sont nommés par arrêté sur proposition des organisations syndicales
-représentées au conseil supérieur de la fonction publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-
-###### Article R314-11
-
-Les membres de la commission peuvent être assistés de conseillers techniques ayant voix consultative.
-
-La commission peut demander au ministre chargé de la fonction publique de convoquer en outre toute personne qu'elle juge
-nécessaire d'entendre, notamment les représentants des administrations intéressées aux programmes de construction de
-logements.
-
-Le secrétariat de la commission est assuré par la direction générale de l'administration et de la fonction publique.
-
-Le président peut désigner des rapporteurs. Ces rapporteurs, s'ils ne sont pas membres de la commission, participent aux
-délibérations avec voix consultative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-
-###### Article R314-12
-
-La commission centrale instituée à l'article R. 314-8 étudie les conditions du logement des fonctionnaires et agents civils
-de l'Etat et des établissements publics de l'Etat.
-
-Dans le cadre ainsi défini, elle peut être chargée :
-
-- de donner son avis sur les projets de lois et de décrets relatifs à cet objet ainsi que sur toutes les questions qui s'y
-rapportent, notamment sur celles qui lui sont soumises par les ministres gestionnaires des crédits destinés, en application
-des articles R. 314-4 et R. 314-5, au versement de la participation de l'Etat aux dépenses de construction des logements dont
-il s'agit ;
-
-- de donner son avis sur les conditions générales d'application des articles R. 314-4 et R. 314-5 et notamment sur les
-modalités de calcul et les formes de la contribution de l'Etat, les conditions d'octroi de la garantie d'occupation des
-logements, les règles d'attribution et de location desdits logements ;
-
-- de proposer un classement des opérations en fonction des besoins ;
-
-- d'étudier les conventions types qui fixent les limites dans lesquelles doivent être passées les conventions particulières
-avec des organismes constructeurs.
-
-Les ministres gestionnaires de crédits destinés au versement de la contribution de l'Etat prévue aux articles R. 314-4 et R.
-314-5 présentent chaque année un rapport à la commission sur les résultats obtenus en application desdits articles, au profit
-des fonctionnaires et agents civils de l'Etat et des établissements publics de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
-	  - Code de la construction et de l'habitation. - art. R314-8 (Ab)
-
-
-###### Article R314-13
-
-Les programmes sont arrêtés par les ministres gestionnaires de crédits destinés au versement de la contribution de l'Etat
-prévue aux articles R. 314-4 et R. 314-5 qui consultent préalablement le ministre chargé de la construction et de
-l'habitation sur la possibilité de réaliser les opérations prévues.
-
-Le ministre chargé de la construction et de l'habitation suit la réalisation des programmes et en assure le contrôle
-technique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
-
-
-###### Article R314-14
-
-Les conventions particulières à passer entre l'Etat et les organismes constructeurs ainsi que les avenants aux conventions
-déjà conclues sont signés par le ministre, le directeur de l'établissement public de l'Etat disposant des crédits sur
-lesquels s'impute la contribution versée en contrepartie des logements réservés aux fonctionnaires et agents de l'Etat et des
-établissements publics de l'Etat, ou le préfet au cas où il reçoit délégation à cet effet.
-
-Lorsque les conventions ou leurs avenants sont signés par le ministre ou le directeur de l'établissement public de l'Etat,
-ils doivent, indépendamment du visa du contrôleur financier, être communiqués au préalable au ministre chargé des finances et
-au ministre chargé de la construction et de l'habitation, qui disposent d'un délai d'un mois pour y faire opposition, le cas
-échéant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-
-###### Article R314-15
-
-La commission centrale instituée à l'article R. 314-8 n'est pas compétente en matière de logements militaires, qui sont régis
-par les dispositions de la section III ci-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1240 1962-10-23 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R314-8, R314-16 à R314-19
-	  - Code de la construction et de l'habitation. - art. R314-8 (Ab)
-
-
 ##### Section 3 : Logement des personnels militaires.
 
 ###### Article R314-16
 
-Les conventions prévues par les articles R. 314-4 et R. 314-5 et concernant les logements réservés aux personnels militaires
-ainsi que les avenants aux conventions déjà conclues sont, sauf en cas de délégation aux préfets donnée en application du
-décret n. 68-1070 du 29 novembre 1968, signés par le ministre de la défense sur proposition d'une commission dite "Commission
-d'études pour le logement des personnels militaires", présidée par ledit ministre et composée de :
+Les conventions prévues par l'article R. 314-4 et concernant les logements réservés aux personnels militaires ainsi que les
+avenants aux conventions déjà conclues sont, sauf en cas de délégation aux préfets donnée en application du décret n° 68-1070
+du 29 novembre 1968, signés par le ministre de la défense sur proposition d'une commission dite "Commission d'études pour le
+logement des personnels militaires", présidée par ledit ministre et composée de :
 
 - deux représentants du ministre chargé de la construction et de l'habitation ;
 
@@ -45883,7 +45586,6 @@ administrations intéressées aux programmes de construction de logements.
 
 	  - Décret n°68-1070 1968-11-29
 	  - Code de la construction et de l'habitation. - art. R314-4 (M)
-	  - Code de la construction et de l'habitation. - art. R314-5 (M)
 
 	**Codifié par**:
 
@@ -45891,7 +45593,7 @@ administrations intéressées aux programmes de construction de logements.
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
 
 	**Cité par**:
 
