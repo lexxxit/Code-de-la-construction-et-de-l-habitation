@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-01-25
+Version Consolidée au 1986-02-06
 
 # Partie législative
 
@@ -48718,6 +48718,106 @@ observations, selon la même procédure que celle selon laquelle l'agrément a �
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R422-3, R422-4
+
+
+###### Article R422-3-1
+
+La garantie d'acquisition des locaux non vendus prévue à l'article L. 422-3-1 est constituée par l'engagement pris par un
+tiers d'acquérir ou de faire acquérir les locaux qui n'auraient pas été vendus un an après l'achèvement. Cette garantie doit
+être donnée avant le commencement des travaux.
+
+Elle est mise en oeuvre à la demande de la société coopérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-165 1986-01-30 art. 1 JORF 6 Février 1986
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R422-9-2 (M)
+	  - Code de la construction et de l'habitation. - art. R422-9-2 (V)
+
+
+###### Article R422-3-2
+
+Si le tiers qui a pris l'engagement d'acquérir ou de faire acquérir n'est pas un établissement de crédit habilité ou une
+entreprise d'assurance agréée à cet effet, ce tiers doit justifier d'une convention de cautionnement aux termes de laquelle
+l'un des organismes précités s'oblige solidairement avec lui envers la société coopérative à payer le prix à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-165 1986-01-30 art. 1 JORF 6 Février 1986
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R422-9-3 (M)
+	  - Code de la construction et de l'habitation. - art. R422-9-3 (V)
+
+
+###### Article R422-3-3
+
+Dans le mois qui suit l'expiration du délai d'un an après l'achèvement de l'immeuble, la société peut notifier au tiers la
+liste des locaux invendus.
+
+Cette notification est effectuée par lettre recommandée avec demande d'avis de réception.
+
+Le tiers doit alors acquérir ou faire acquérir les locaux invendus dans un délai n'excédant pas trois mois à compter de cette
+notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-165 1986-01-30 art. 1 JORF 6 Février 1986
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R422-9-4 (M)
+
+
+###### Article R422-3-4
+
+Pour la ou les opérations ne comportant chacune pas plus de cinquante locaux principaux destinés à la vente et dans la limite
+d'un nombre total maximal de cent locaux principaux, la garantie d'acquisition des locaux invendus résulte de la qualité du
+vendeur.
+
+Dans la limite du total visé ci-dessus, cette garantie peut couvrir ultérieurement une ou plusieurs autres nouvelles
+opérations dès lors qu'une ou plusieurs opérations antérieures ont été entièrement commercialisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-165 1986-01-30 art. 1 JORF 6 Février 1986
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R422-9-5 (M)
+	  - Code de la construction et de l'habitation. - art. R422-9-5 (V)
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
