@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-12-27
+Version Consolidée au 1995-01-01
 
 # Partie législative
 
@@ -11409,6 +11409,63 @@ code, peut être fixé de manière spécifique par décret.
 	  - Code de la construction et de l'habitation. - art. L362-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-17-2 (V)
 	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+
+
+###### Article L351-3-1
+
+I. - L'aide personnalisée au logement est due à partir du premier jour du mois civil suivant celui au cours duquel les
+conditions d'ouverture du droit sont réunies.
+
+Toutefois, cette aide est due à l'occupant d'un logement-foyer de jeunes travailleurs ou à l'occupant de certains logements-
+foyers répondant à des conditions fixées par décret à partir du premier jour du premier mois civil pour lequel cet occupant
+acquitte l'intégralité de la redevance mensuelle prévue par le titre d'occupation, sous réserve que les autres conditions
+d'ouverture du droit soient réunies à cette date.
+
+Lorsque les conditions d'ouverture du droit sont réunies antérieurement à la date de la demande, l'aide n'est due que dans la
+limite des trois mois précédant celui au cours duquel la demande est déposée.
+
+II. - L'aide personnalisée au logement cesse d'être due à partir du premier jour du mois civil au cours duquel les conditions
+d'ouverture du droit cessent d'être réunies.
+
+Toutefois, cette aide cesse d'être due à l'occupant des logements-foyers mentionnés au I le premier jour du mois civil
+suivant le dernier mois pour lequel cet occupant acquitte l'intégralité de la redevance mensuelle prévue par le titre
+d'occupation.
+
+Par dérogation aux deux alinéas précédents, le droit à l'aide personnalisée au logement est éteint à partir du premier jour
+du mois civil suivant celui au cours duquel survient le décès du bénéficiaire.
+
+III. - Les changements de nature à modifier les droits à l'aide personnalisée prennent effet et cessent de produire leurs
+effets selon les règles respectivement définies pour l'ouverture et l'extinction des droits prévus au premier alinéa du I et
+du II, sauf en cas de décès du conjoint du bénéficiaire ou d'une personne à charge, auquel cas ils prennent effet le premier
+jour du mois civil suivant le décès.
+
+Toutefois, les dispositions du I et du II ne peuvent avoir pour effet d'interrompre le droit à l'aide personnalisée au
+logement ou, le cas échéant, aux allocations de logement visées aux articles L. 542-1 et L. 831-1 du code de la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-59 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-1162 1994-12-30 art. 93 I Finances pour 1995 JORF 30 décembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article L351-4
@@ -49517,35 +49574,31 @@ conditions de son évolution sont fixées par la convention.
 
 ###### Article R353-41
 
-Les loyers pratiqués dont la valeur est fixée au mètre carré de surface corrigée calculée dans les conditions définies à
-l'article R. 353-40 peuvent être revisés, au cours de la période triennale le 1er juillet de chaque année, en fonction des
-variations de l'indice du coût de la construction publié par l'institut national de la statistique et des études économiques,
-dans la limite du loyer maximum tel que défini à l'article R. 353-40 selon des modalités fixées par les conventions.
+Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface corrigée calculée dans les conditions définies à
+l'article R. 353-40, peuvent être révisés au cours de la période triennale, le 1er juillet de chaque année, en fonction des
+variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la
+statistique et des études économiques, dans la limite du loyer maximum tel que défini à l'article R. 353-40 selon les
+modalités fixées par les conventions.
 
 A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
 maximum.
 
 Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
-ladite période ; ce montant peut être revisé en fonction des variations de l'indice du coût de la construction, publié par
-l'institut national de la statistique et des études économiques selon des modalités fixées par les conventions.
+ladite période ; ce montant peut être révisé en fonction des variations de la moyenne sur quatre trimestres de l'indice du
+coût de la construction selon les modalités fixées par les conventions.
+
+Pour l'application du présent article, la moyenne est celle de l'indice du coût de la construction à la date de référence
+fixée dans la convention et des indices des trois trimestres qui la précèdent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-1131 1977-10-04 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°80-429 1980-06-16 art. 3 JORF 18 juin 1980
+	  - Décret n°95-42 du 11 janvier 1995 - art. 2 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -50411,6 +50464,43 @@ locataire.
 	  - Code de la construction et de l'habitation. - art. R353-73 (M)
 
 
+###### Article R353-73
+
+Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface corrigée calculée dans les conditions définies à
+l'article R. 353-72, peuvent être révisés au cours de la période triennale, le 1er juillet de chaque année, en fonction des
+variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la
+statistique et des études économiques, dans la limite du loyer maximum tel que défini à l'article précité selon les modalités
+fixées par les conventions.
+
+A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
+maximum.
+
+Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
+ladite période ; ce montant peut être révisé en fonction des variations de la moyenne sur quatre trimestres de l'indice du
+coût de la construction selon des modalités fixées par les conventions.
+
+Pour l'application du présent article, la moyenne est celle de l'indice du coût de la construction à la date de référence
+fixée dans la convention et des indices des trois trimestres qui la précèdent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-42 du 11 janvier 1995 - art. 3 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-71 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-72 (M)
+
+
 ###### Article R353-74
 
 Le loyer est payable par fraction mensuelle à terme échu, sauf convention expresse du bail qui peut prévoir le paiement par
@@ -50907,43 +50997,6 @@ les conventions.
 	  - Code de la construction et de l'habitation. - art. R353-73 (M)
 
 
-###### Article R353-73
-
-Les loyers pratiqués, dont la valeur est fixée au mètre carré de surface corrigée dans les conditions définies à l'article R.
-353-72, peuvent être révisés au cours de la période triennale le 1er juillet de chaque année en fonction des variations de
-l'indice du coût de la construction publié par l'I.N.S.E.E., dans la limite du loyer maximum tel que défini à l'article
-précité, selon les modalités fixées par les conventions.
-
-A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
-maximum.
-
-Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
-ladite période ; ce montant peut être révisé en fonction des variations de l'indice du coût de la construction mentionné à
-l'alinéa 1er, selon des modalités fixées par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-199 1978-02-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-416 1980-06-10 art. 8 JORF 13 juin 1980
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-71 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R353-72 (M)
-
-
 ##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
 
 ###### Article R353-89
@@ -51114,6 +51167,45 @@ suffisante telles que définies par l'article L. 621-2.
 	**Modifié par**:
 
 	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+
+
+###### Article R353-100
+
+Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface corrigée calculée dans les conditions définies à
+l'article R. 353-99, peuvent être révisés au cours de la période triennale, le 1er juillet de chaque année, en fonction des
+variations de la moyenne sur quatre trimestres de l'indice du coût de la construction, publié par l'Institut national de la
+statistique et des études économiques, dans la limite du loyer maximum tel que défini à l'article précité selon les modalités
+fixées par les conventions.
+
+A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
+maximum.
+
+Toutefois, au cours de la première période triennale, le contrat de location peut fixer le montant du loyer applicable chaque
+1er juillet de ladite période ; ce montant peut être révisé en fonction des variations de la moyenne sur quatre trimestres de
+l'indice du coût de la construction selon des modalités fixées par les conventions.
+
+Pour l'application du présent article, la moyenne est celle de l'indice du coût de la construction à la date de référence
+fixée dans la convention et des indices des trois trimestres qui la précèdent.
+
+II. - L'article 4 de la convention type annexée à l'article R. 353-90 du même code est ainsi rédigé :
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-42 du 11 janvier 1995 - art. 4 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-98 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R353-99 (M)
 
 
 ##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
@@ -51306,44 +51398,6 @@ les conventions.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R353-100 (M)
-
-
-###### Article R353-100
-
-Les loyers pratiqués dont la valeur est fixée par mètre carré de surface corrigée dans les conditions définies à l'article R.
-353-99 peuvent être révisés au cours de la période triennale le 1er juillet de chaque année, en fonction des variations de
-l'indice du coût de la construction publié par l'I.N.S.E.E.,
-
-dans la limite du loyer maximum tel que défini à l'article précité selon des modalités fixées par les conventions. 
-
-A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
-maximum. 
-
-Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
-ladite période : ce montant peut être révisé en fonction des variations de l'indice du coût de la construction, mentionné à
-l'alinéa 1er, selon des modalités fixées par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 6 JORF 13 juin 1980
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-98 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R353-99 (M)
 
 
 ###### Article R353-101
@@ -52417,23 +52471,31 @@ conditions de son évolution, sont fixées par les conventions.
 
 ###### Article R353-135
 
-Les loyers pratiqués dont la valeur est fixée au mètre carré de surface corrigée peuvent être revisés, au cours de la période
-triennale le 1er juillet de chaque année, en fonction des variations de l'indice du coût de la construction publié par
-l'INSEE, dans la limite du loyer maximum tel que défini à l'article R. 353-134 ci-dessus, selon des modalités fixées par les
-conventions.
+Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface corrigée calculée dans les conditions définies à
+l'article R. 353-134, peuvent être révisés au cours de la période triennale, le 1er juillet de chaque année, en fonction des
+variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la
+statistique et des études économiques, dans la limite du loyer maximum tel que défini à l'article précité selon les modalités
+fixées par les conventions.
 
 A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
 maximum.
 
 Toutefois, au cours de la première période triennale, le bail peut fixer le montant du loyer applicable chaque 1er juillet de
-ladite période : ce montant peut être révisé en fonction des variations de l'indice du coût de la construction, publié par
-l'INSEE selon des modalités fixées par les conventions.
+ladite période ; ce montant peut être révisé en fonction des variations de la moyenne sur quatre trimestres de l'indice du
+coût de la construction selon des modalités fixées par les conventions.
+
+Pour l'application du présent article, la moyenne est celle de l'indice du coût de la construction à la date de référence
+fixée dans la convention et des indices des trois trimestres qui la précèdent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-42 du 11 janvier 1995 - art. 5 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -68272,6 +68334,113 @@ Fait en double exemplaire, à..., le....
 	  - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.
+
+###### Article Annexe II à l'article R353-1
+
+Le préfet de ..., agissant au nom de l'Etat et ..., dénommé ci-après le bailleur, sont convenus de ce qui suit :
+
+Article 1er.
+
+La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles L. 353-1 à L.
+353-17 pour la cité de promotion familiale de ... financée dans les conditions prévues par l'article R. 353-2 II, et décrite
+dans le document joint à la présente convention.
+
+La gestion des logements faisant l'objet de la présente convention est assurée :
+
+- par le bailleur lui-même ;
+
+- par ..., signataire de la convention de location en date du ... conclue avec le bailleur (et mise en conformité avec les
+dispositions de la présente convention par avenant en date du ...) qui, par la présente convention et pour son exécution,
+déclare se subroger contractuellement aux droits et obligations du bailleur.
+
+Article 2.
+
+La présente convention prend effet à compter de sa signature. Elle expire le 30 juin.
+
+Article 3.
+
+Pendant la durée de la présente convention, la totalité des logements du programme est réservée principalement au profit de
+personnes ou de familles en provenance d'habitat insalubre et dont l'accès en habitat définitif doit en général être envisagé
+avec une action socio-éducative destinée à favoriser leur insertion sociale et leur promotion.
+
+Une liste de ces personnes ou de ces familles est dressée par le préfet sur proposition des organismes de résorption de
+l'habitat insalubre.
+
+Peuvent également figurer sur cette liste les personnes ou familles expulsées de leur logement et nécessitant un encadrement
+socio-éducatif.
+
+Article 4.
+
+Le bailleur s'engage à exercer ou à faire exercer dans la cité de promotion familiale une action socio-éducative destinée à
+favoriser l'insertion sociale des occupants en habitat définitif.
+
+Article 5.
+
+Le bailleur, après consultation de l'organisme chargé de l'action socio-éducative, établit la liste des familles ou des
+personnes jugées aptes à quitter la cité de promotion familiale.
+
+Le bailleur s'engage à effectuer dans des délais rapides toutes les démarches nécessaires au relogement des familles ou des
+personnes figurant sur cette liste dans des logements n'excédant pas les normes fixées pour les nouveaux logements locatifs
+aidés et correspondant à leurs besoins et à leurs possibilités financières.
+
+Une proposition de relogement est transmise par le bailleur au locataire de la cité de promotion familiale. Cette proposition
+doit indiquer la localisation, le type du logement, la surface habitable et le montant du loyer et doit porter réservation de
+ce logement pendant un délai minimal de quinze jours.
+
+Le locataire ne bénéficie plus, en application de l'article 10 (11°) de la loi n° 48-1360 du 1er septembre 1948, du droit au
+maintien dans les lieux après refus de la cinquième offre d'un logement répondant aux conditions définies à l'alinéa 2 du
+présent article.
+
+Article 6.
+
+Le prix mensuel du loyer maximum visé au 2°, b, et au 3° de l'article R. 353-16 est fixé à ... F le mètre carré et à ... F le
+mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
+
+Le loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
+de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
+moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la
+précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+
+Dans la limite du loyer maximum et des dispositions prises en application du titre IV de la loi n° 82-526 du 22 juin 1982, le
+loyer pratiqué peut être majoré au plus de ... p. 100 par an ; les majorations peuvent intervenir le 1er janvier et le 1er
+juillet de chaque année.
+
+Le nouveau loyer notifié en application de l'article L. 353-16 peut faire l'objet d'une remise au profit des locataires dans
+les lieux ; elle est exprimée en un pourcentage du nouveau loyer fixé et révisé dans les conditions mentionnées ci-dessus. Ce
+pourcentage est identique pour chaque locataire. Il peut être modifié aux dates de révision du loyer ; sa valeur, son
+évolution et sa date d'extinction sont fixées dans le décompte de surface corrigée ou de surface utile prévu par l'article R.
+353-19.
+
+Article 7.
+
+Le bailleur s'engage à demander la révision de la présente convention par avenant lorsque, l'action socio-éducative n'étant
+plus exercée, le programme conventionné perd la qualification de "cité de promotion familiale". Cet avenant doit intervenir
+au plus tard dans un délai de trois mois à compter de la suppression définitive de l'action socio-éducative. Lorsque la
+gestion est confiée à un organisme, la subrogation contractuelle prévue à l'article 1er prend fin à la date de révision de la
+convention.
+
+Dans ce cas, la convention révisée doit être conforme à la convention type prévue à l'annexe I de l'article R. 353-1 du code
+précité.
+
+Article 8.
+
+Les parties s'engagent à respecter les obligations de portée générale reproduites en annexe à la présente convention.
+
+Le bailleur reconnaît avoir pris connaisance de cette annexe et reconnaît qu'une copie lui a été remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°95-42 du 11 janvier 1995 - art. 1 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
+
+
 ## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.
 
 ###### Article Annexe III à l'article R353-1
@@ -69182,6 +69351,257 @@ Autres : ....
 	**Créé par**:
 
 	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
+
+
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.
+
+###### Article Annexe III à l'article R353-127
+
+Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction
+et de l'habitation, représenté par le préfet d'une part, et M. ... (1) ou ... et la société ... (1) représentée par ...
+dénommé(e) ci-après le bailleur, d'autre part, son convenus de ce qui suit :
+
+(1) Personne physique ou morale identifiée conformément aux dispositions selon le cas des articles 5 ou 6 du décret n° 55-22
+du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+I. - Description du programme conventionné.
+
+Article 1er.
+
+Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et les obligations des parties prévues par les articles L. 353-1 à L.
+353-13 du code de la construction et de l'habitation pour le programme de ... acquis et améliorés au moyen d'un prêt
+conventionné dans les conditions prévues par les articles R. 331-63 à R. 331-77 du code précité.
+
+La gestion des logements faisant l'objet de la présente convention est assurée :
+
+Soit par le bailleur lui-même (rayer la mention inutile) ;
+
+Soit par ... personne ou organisme agréé(e) par arrêté en date du 9 mars 1978 portant agrément des personnes ou organismes
+habilités à gérer des immeubles faisant l'objet d'une convention régie par les articles L. 353-1 à L. 353-13 du code précité
+(rayer la mention inutile).
+
+Les travaux d'amélioration doivent conduire à mettre les logements en conformité totale avec des normes minimales
+d'habitabilité définies par arrêté du 1er mars 1978, sauf en cas d'impératifs techniques tenant à la structure de l'immeuble.
+
+La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement
+dans les conditions définies dans le livre III, titre V (1ère partie) du code précité.
+
+Article 2.
+
+Nature des travaux.
+
+Les travaux d'amélioration doivent conduire à mettre les logements en conformité avec les normes minimales d'habitabilité
+définies par arrêté du 1er mars 1978, sauf en cas d'impératifs techniques tenant à la structure de l'immeuble.
+
+Les travaux font l'objet d'un programme de réalisations qui se poursuit par ... tranches pendant ... mois ou ... année(s) à
+raison de ... logements par tranche.
+
+Article 3.
+
+Description du programme.
+
+La présente convention s'applique au programme répondant aux conditions suivantes :
+
+3.1. Désignation du ou des immeubles : ...
+
+3.2. Situation juridique de la commune où est situé le programme :
+
+commune entrant,
+
+commune n'entrant pas,
+
+dans le champ d'application de la loi du 1er septembre 1948.
+
+3.3. Composition du programme :
+
+Le tableau ci-annexé donne la composition du programme avant et après réalisation des travaux.
+
+3.4. Origine de la propriété : ...
+
+3.5. Renseignements administratifs :
+
+Date d'achèvement de la construction ou certificats de conformité : ...
+
+Modalités de financement du programme d'amélioration : ....
+
+Durée du prêt conventionné : ...
+
+Financement complémentaire : ....
+
+1. Locaux visés par la présente convention.
+
+Désignation, composition avant réalisation des travaux, (logements financés conformément au titre II du livre II du CUH,
+autres logements) (1), composition après réalisation des travaux.
+
+Nombre de logements locatifs par type de logements : ...
+
+Numéro des lots : ...
+
+Surface des logements :
+
+- en mètres carrés habitables.
+
+- en mètres carrés de surface corrigée.
+
+Montant du loyer :
+
+- en mètres carrés habitables.
+
+- en mètres carrés de surface corrigée.
+
+Dépendances :
+
+- nombre.
+
+- surface.
+
+Locaux collectifs résidentiels :
+
+- nombre.
+
+- surface.
+
+Garages et parkings :
+
+- nombre.
+
+- par type.
+
+2. Locaux auxquels ne s'applique pas la convention :
+
+Locaux commerciaux (nombre) : ...
+
+Bureaux commerciaux (nombre) : ...
+
+Autres : ....    (1) Dont ceux régis par la loi du 1er septembre 1948 en précisant la catégorie du logement.
+
+Article 4.
+
+Durée de la convention.
+
+La présente convention prend effet à la date de sa publication au fichier immobilier (ou de son inscription au livre
+foncier).
+
+Elle expire le 30 juin.
+
+Elle est renouvelée par tacite reconduction pour des périodes triennales, sous réserve de dénonciation expresse par l'une ou
+l'autre des parties.
+
+Si la dénonciation émane du bailleur, elle fait l'objet d'un acte authentique (acte notarié ou par ministère d'huissier de
+justice) notifié six mois avant l'expiration de la période ; si elle émane de l'Etat, elle fait l'objet d'un acte
+administratif, notifié dans le même délai.
+
+II. - Engagements particuliers applicables au présent programme conventionné.
+
+Article 5.
+
+Réservation à des familles ou à des occupants sortant d'habitat insalubre (option).
+
+Le bailleur, compte tenu de l'importance de la liste des prioritaires dressée par les services préfectoraux, s'engage à
+affecter au fur et à mesure des vacances au minimum ... p. 100 des logements du programme considéré à des familles ou des
+occupants sortant soit d'habitat insalubre ou surpeuplé, soit d'une cité de transit ou provisoire ou d'un centre
+d'hébergement. Dans l'hypothèse où ce pourcentage n'est pas nul, le bailleur s'engage à signaler aux services préfectoraux
+les logements devenus vacants.
+
+Cette réservation porte au minimum sur un nombre entier de logements immédiatement inférieur au chiffre résultant de ce
+pourcentage.
+
+Cette règle s'applique de plein droit à chaque propriétaire en cas de mise en copropriété du programme faisant l'objet de la
+présente convention.
+
+Article 6.
+
+Montant maximum du loyer et modalités de révision.
+
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface corrigée, ne doit pas excéder le loyer
+maximum qui est fixé à ... F annuels le mètre carré de surface corrigée.
+
+Cette surface est calculée conformément aux dispositions de l'article R. 442-1 du code de la construction et de l'habitation
+et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+
+Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
+de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
+moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la
+précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+
+Dans la limite du loyer maximum tel que défini ci-dessus, le loyer pratiqué, dont la valeur est fixée par mètre carré de
+surface corrigée :
+
+1° Peut être révisé chaque année le 1er juillet au cours de la période triennale en fonction des variations de la moyenne sur
+quatre trimestres de l'indice du coût de la construction. Cette moyenne est celle de l'indice du coût de la construction à la
+date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du
+quatrième trimestre de l'année précédente.
+
+Au cours de la première période triennale, le montant du loyer applicable chaque 1er juillet peut être fixé dans le contrat
+de location ; il peut être révisé en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la
+construction dans les mêmes conditions que celles de l'alinéa précédent ;
+
+2° Peut être réajusté à l'expiration de chaque période triennale le 1er juillet suivant la date d'expiration du contrat de
+location.
+
+Une information sur le loyer maximum et le loyer pratiqué par type de logement peut être demandée par le locataire à la
+signature du contrat de location et à l'expiration de chaque période triennale en cas de réajustement du loyer pratiqué dans
+la limite du loyer maximum.
+
+Article 7.
+
+Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe aux conventions type n° 1, 2 ou 3
+(rayer les mentions inutiles) annexées au décret relatif aux logements bénéficiaires de prêts conventionnés.
+
+Article 8.
+
+Sanctions.
+
+En cas de dissimulation ou fraude, pour imposer ou tenter d'imposer au locataire un loyer dépassant le prix fixé par la
+convention, le bailleur sera passible des sanctions pénales prévues à l'article L. 353-10 du code de la construction et de
+l'habitation.
+
+En application de l'article L. 353-2 dudit code, en cas de non-respect par lui-même ou par son mandataire des obligations
+relatives aux conditions particulières de réservation au profit des mal-logés ainsi que des obligations relatives à
+l'information des locataires ou des organismes chargés de la liquidation de l'aide personnalisée au logement et après mise en
+demeure par lettre recommandée ou acte extrajudiciaire, demeuré sans effet après un délai de six mois, le bailleur s'engage à
+verser au fonds national de l'habitation une somme égale à ... p. 100 du montant des loyers annuels dus pour les logements
+faisant l'objet de la présente convention.
+
+En cas de non-versement au fonds national de l'habitation de la contribution prévue à l'article 7 de la présente convention
+et après mise en demeure restée sans effet, une somme de ... p. 100 du montant de la contribution est payable par mois de
+retard.
+
+En cas de défaut de versement des sommes visées au deuxième et troisième alinéas du présent article, leur recouvrement sera
+opéré dans les conditions prévues par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+
+Article 9.
+
+Contrôle.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le bailleur est tenu de fournir
+au ministre chargé de la construction et de l'habitation ou à son représentant, ou aux membres du corps de l'inspection
+générale de l'équipement, toutes les informations et tous les documents nécessaires au plein exercice de ce contrôle.
+
+Article 10.
+
+Publication.
+
+Le préfet s'assure de la publication de la présente convention au fichier immobilier ou de son inscription au livre foncier
+et en informe les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement.
+
+Fait à ... , le ....
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
+
+	**Modifié par**:
+
+	  - Décret n°95-42 du 11 janvier 1995 - art. 5 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
 ## Engagements de portée générale applicables à tout programme conventionné.
@@ -71374,6 +71794,77 @@ de la construction et de l'habitation, mentionner les références de la précé
 
 
 ## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).
+
+###### Article Annexe I à l'article R353-166
+
+Le préfet de ... agissant au nom de l'Etat et ... (personne physique identifiée conformément aux dispositions de l'article 5
+du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière) dénommé ci-après le bailleur sont
+convenus de ce qui suit :
+
+Article 1er.
+
+Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et obligations des parties prévues par les articles L. 353-1 à L.
+353-12 du code de la construction et de l'habitation pour le logement financé à l'aide d'un prêt à l'accession à la propriété
+et situé à ....
+
+La description du logement figure dans le document joint à la présente convention.
+
+Article 2.
+
+Durée de la convention.
+
+La présente convention est conclue pour une durée de neuf ans. Toutefois, elle est prorogée du délai nécessaire pour
+atteindre le 30 juin, suivant sa date d'expiration.
+
+Elle expire le 30 juin.
+
+Article 3.
+
+Loyer.
+
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface habitable, ne doit pas excéder le
+loyer maximum qui est fixé à ... F annuels le mètre carré.
+
+Cette surface est calculée conformément aux dispositions de l'article R. 111-2 du code de la construction et de l'habitation.
+
+Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres
+de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette
+moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la
+précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+
+Dans la limite du loyer maximum tel que défini ci-dessus et des dispositions prises en application de la loi n° 89-462 du 6
+juillet 1989, le loyer pratiqué :
+
+1° Peut être révisé chaque année le 1er juillet au cours de la période triennale en fonction des variations de la moyenne sur
+quatre trimestres de l'indice du coût de la construction. Cette moyenne est celle de l'indice du coût de la construction à la
+date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du
+quatrième trimestre de l'année précédente ;
+
+2° Peut être réajusté à l'expiration de chaque contrat de location ; ce réajustement est applicable le 1er juillet suivant la
+date d'expiration du contrat de location. Le bailleur doit informer le locataire de tout réajustement du loyer pratiqué au
+moins un mois avant la date d'échéance.
+
+Article 4.
+
+Obligations des parties.
+
+Les parties s'engagent à respecter les obligations de portée générale reproduites en annexe à la présente convention.
+
+Le bailleur reconnaît avoir pris connaissance de cette annexe et reconnaît qu'une copie lui a été remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°95-42 du 11 janvier 1995 - art. 6 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
+
 
 ###### Article Annexe III à l'article R353-166
 
