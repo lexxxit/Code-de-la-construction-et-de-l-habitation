@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-05-02
+Version Consolidée au 1995-05-07
 
 # Partie législative
 
@@ -47012,92 +47012,6 @@ Le montant de cette prime est arrondi au franc le plus proche.
 
 ##### Sous-section 7 : Dispositions diverses.
 
-##### SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat.
-
-###### Article R*351-48
-
-" La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le commissaire de la
-République.
-
-" Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
-travail, de l'emploi et de la politique sociale agricoles compétent, du directeur régional des affaires sanitaires et
-sociales compétent, du directeur départemental des affaires sanitaires et sociales, du président du conseil d'administration
-de la caisse d'allocations familiales concernée, du président du conseil d'administration de la caisse de mutualité sociale
-agricole compétente ou de leurs représentants respectifs, de deux représentants des usagers désignés par le préfet sur
-proposition des organisations les plus représentatives au niveau du département, d'un représentant désigné par le conseil
-général et d'un représentant de l'union départementale des associations familiales. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°90-880 du 28 septembre 1990 - art. 9 () JORF 30 septembre 1990
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-37 (M)
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-49
-
-Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
-intéressée.
-
-Cette notification comporte [*contenu*] la mention du délai dans lequel elles peuvent faire l'objet d'un recours
-administratif ainsi que la désignation et l'adresse du secrétariat de la [*commission départementale*] section des aides
-publiques au logement du conseil départemental de l'habitat compétente. Elle précise en outre la forme que doit revêtir ce
-recours et le délai au terme duquel celui-ci est rejeté tacitement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-982 1986-08-22 art. 9 JORF 26 août 1986
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-52
-
-La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat ne délibère
-valablement, en matière de recours administratif, que si quatre membres, dont le président, sont présents [*quorum*].
-
-La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°86-982 1982-08-22 art. 9 JORF 26 août 1986
-
-
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
 
 ###### Article R351-59
@@ -48190,6 +48104,28 @@ tutelle compétent.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R351-37
+
+Le conseil de gestion est consulté par le président sur les conventions et les accords particuliers prévus par l'article L.
+351-8, alinéas 2 et 3.
+
+Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 7 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-8 (M)
+
+
 ###### Article R351-38
 
 Chaque année, sur proposition du président, le conseil de gestion adopte :
@@ -48433,20 +48369,25 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-##### Section 2 : Fonds national de l'habitation.
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
 
-##### Sous-section 2 : Attributions.
+###### Article R351-47
 
-###### Article R351-37
+Les compétences prévues à l'article L. 351-14 sont exercées par la section des aides publiques au logement du conseil
+départemental de l'habitat. Dans les conditions déterminées par l'article R. 351-49, cette section :
 
-Le conseil de gestion est consulté par le président sur les conventions et les accords particuliers prévus par l'article L.
-351-8, alinéas 2 et 3.
+1. Décide, selon les modalités fixées par les articles R. 351-30, R. 351-31 et R. 351-64, du maintien du versement de l'aide
+personnalisée au logement lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge ;
 
-Il se prononce sur les demandes de remises de dettes formulées par les bénéficiaires de l'aide personnalisée. Il peut
-déléguer ce pouvoir aux sections départementales des aides publiques au logement mentionnées à l'article R. 351-48. Celles-ci
-peuvent subdéléguer ce pouvoir dans des conditions fixées par directive du Fonds national de l'habitation. "
+2. Statue, selon les modalités fixées par l'article R. 351-50, sur les demandes de remise de dettes présentées à titre
+gracieux par les bénéficiaires de l'aide personnalisée au logement en cas de réclamation d'un trop-perçu effectuée par
+l'organisme payeur ;
 
-Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée.
+3. Statue, selon les modalités fixées par les articles R. 351-50 et R. 351-51, sur les contestations des décisions des
+organismes ou services chargés du paiement de l'aide personnalisée au logement ou de la prime de déménagement.
+
+Elle formule en outre des recommandations concernant les mesures susceptibles de faciliter la régularisation de la situation
+des bénéficiaires d'aide à la personne défaillants.
 
 **Liens relatifs à cet article**
 
@@ -48454,52 +48395,82 @@ Il peut être saisi de toute question relative à la gestion et au financement d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
-
-	**Modifié par**:
-
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 6 () JORF 30 septembre 1992
+	  - Décret n°95-638 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
-	  - Code de la construction et de l'habitation. - art. R351-48 (M)
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-49 (M)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-51 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R351-54 (Ab)
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
 
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
+###### Article R351-49
 
-###### Article R351-50
+La section des aides publiques au logement délibère valablement lorsque quatre au moins de ses membres, dont le président,
+sont présents. Ses décisions sont prises à la majorité des voix des membres présents ou représentés, sauf dans le cas d'une
+délibération portant délégation en application de l'article R. 351-52 où la décision est prise à la majorité des membres
+composant la section des aides publiques au logement. En cas de partage égal des voix, celle du président est prépondérante.
 
-Les recours contre les décisions [*des organismes payeurs*] mentionnées à l'article R. 351-49 sont adressés à la [*commission
-départementale*] section des aides publiques au logement du conseil départemental de l'habitat dans le ressort de laquelle
-est situé le logement au titre duquel la décision est prise, par lettre recommandée avec demande d'avis de réception
-[*condition de forme*], ou déposés, contre récépissé, au secrétariat de ladite commission.
-
-Ils sont rédigés sur papier libre et accompagnés d'un exemplaire de la décision contestée ; ils comportent un exposé sommaire
-des motifs invoqués à leur appui.
-
-La commission départementale doit être saisie dans le délai de deux mois à compter de la notification de la décision contre
-laquelle l'intéressé entend former sa réclamation.
+La section des aides publiques au logement peut, avant de statuer, demander toute enquête ou supplément d'information
+nécessaire ou, à l'initiative de son président, auditionner toute personne.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-813 1977-07-18 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
+###### Article R351-50
+
+Lorsqu'elle est saisie d'une demande gracieuse de remise de dettes ou d'un recours administratif contestant une décision d'un
+organisme ou service chargé du paiement de l'aide personnalisée au logement ou de la prime de déménagement, la section des
+aides publiques au logement en accuse réception, soit par la délivrance d'un récépissé, soit par lettre dans les quinze
+jours, en indiquant les délais et voies de recours.
+
+La section notifie sa décision à la personne intéressée dans un délai de deux mois par lettre recommandée avec demande d'avis
+de réception. La notification comporte l'indication de la possibilité d'un recours contentieux devant le tribunal
+administratif dans le ressort duquel est situé le logement ayant donné lieu à la décision et du délai dans lequel ce recours
+contentieux doit être exercé.
+
+Lorsque la décision de la section des aides publiques au logement n'a pas été portée à la connaissance de l'intéressé dans ce
+délai de deux mois, l'intéressé peut considérer sa demande gracieuse ou son recours administratif comme rejeté tacitement et
+se pourvoir devant le tribunal administratif.
+
+Le délai de deux mois prévu aux alinéas précédents court à compter de la réception de la demande gracieuse ou du recours
+administratif par la section des aides publiques au logement. Toutefois, si un document est produit par l'intéressé après le
+dépôt de sa demande gracieuse ou de son recours administratif, le délai ne court qu'à dater de la réception de ce document.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
 
 	**Cité par**:
 
@@ -48509,30 +48480,31 @@ laquelle l'intéressé entend former sa réclamation.
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-49 (M)
-
 
 ###### Article R351-51
 
-La [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat, saisie en
-vertu de l'article R. 351-50, peut, avant de statuer et après avoir entendu un rapporteur désigné par le directeur
-départemental de l'équipement, demander toute enquête ou supplément d'information nécessaire.
+Les contestations des décisions prises en matière d'aide personnalisée au logement ou de prime de déménagement par les
+organismes ou services payeurs sont portées sous forme de recours administratifs devant la section des aides publiques au
+logement dans le ressort de laquelle est situé le logement au titre duquel la décision a été prise.
+
+La section doit être saisie dans le délai de deux mois à compter de la notification de la décision de l'organisme ou service
+payeur que l'intéressé entend contester. Les recours sont adressés au secrétariat de la section. Ils sont rédigés sur papier
+libre et accompagnés d'un exemplaire de la décision faisant l'objet du recours administratif. Ils comportent un exposé
+sommaire des motifs invoqués à leur appui.
+
+La notification de la décision de l'organisme ou service payeur comporte la mention de la possibilité, dans les conditions
+prévues à l'article R. 351-50, d'un recours administratif auprès de la section des aides publiques au logement compétente
+ainsi que l'adresse du secrétariat de cette commission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-813 1977-07-18 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
 
 	**Cité par**:
 
@@ -48546,25 +48518,64 @@ départemental de l'équipement, demander toute enquête ou supplément d'inform
 	  - Code de la construction et de l'habitation. - art. R351-50 (M)
 
 
-###### Article R351-53
+###### Article R351-52
 
-La décision de la [*commission départementale*] section des aides publiques au logement du conseil départemental de l'habitat
-est notifiée au requérant par lettre recommandée avec demande d'avis de réception [*condition de forme*] comportant
-l'indication de la possibilité d'un recours contentieux devant le tribunal administratif dans le ressort duquel est situé le
-logement ayant donné lieu à la décision et du délai dans lequel ce recours doit être exercé.
+La section des aides publiques au logement peut déléguer par voie de convention tout ou partie des compétences mentionnées
+aux 2 et 3 de l'article R. 351-47 aux organismes ou services chargés dans le département du paiement de l'aide personnalisée
+au logement et de la prime de déménagement. La convention énonce précisément les compétences déléguées. Notamment lorsque le
+montant des sommes contestées ou faisant l'objet d'une demande de remise de dettes constitue un critère de délégation, elle
+indique ce montant.
 
-Lorsque la décision de la commission départementale n'a pas été portée à la connaissance du requérant dans un délai de deux
-mois, l'intéressé peut considérer sa réclamation comme rejetée et se pourvoir devant le tribunal administratif.
+La convention détermine les modalités de l'exercice des compétences déléguées. Elle rappelle que l'organisme ou service
+délégataire est substitué à la section des aides publiques au logement et à son secrétariat pour l'application des articles
+R. 351-50 et R. 351-51. Elle prévoit notamment que les demandes gracieuses ou recours administratifs sont adressés
+directement à l'organisme ou service délégataire et que ce dernier recueille, préalablement à toute décision, l'avis de la
+commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale. Elle fixe les conditions de sa
+dénonciation par l'une ou l'autre des parties, notamment le délai de préavis.
 
-Le délai de deux mois prévu à l'alinéa précédent court à compter de la réception de la réclamation par le secrétariat du
-conseil départemental de l'habitat. Toutefois, si des documents sont produits par le requérant après le dépôt de sa
-réclamation, le délai ne court qu'à dater de la réception de ces documents.
+La convention de délégation est approuvée par arrêté préfectoral après délibération de la section des aides publiques au
+logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°77-813 1977-07-18 art. 7
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R142-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-50 (M)
+	  - Code de la construction et de l'habitation. - art. R351-51 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-49 (VT)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
+
+###### Article R*351-48
+
+La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le préfet ou son
+représentant.
+
+Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
+travail, de l'emploi et de la politique sociale agricoles compétent, du directeur régional des affaires sanitaires et
+sociales compétent, du directeur départemental des affaires sanitaires et sociales, du président du conseil d'administration
+de la caisse d'allocations familiales concernée, du président du conseil d'administration de la caisse de mutualité sociale
+agricole compétente ou de leurs représentants respectifs, de deux représentants des usagers désignés par le préfet sur
+proposition des organisations les plus représentatives au niveau du département, d'un représentant désigné par le conseil
+général et d'un représentant de l'union départementale des associations familiales.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -48572,15 +48583,14 @@ réclamation, le délai ne court qu'à dater de la réception de ces documents.
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-	**Abrogé par**:
-
-	  - Décret n°95-638 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+	  - Décret n°95-638 du 6 mai 1995 - art. 2 () JORF 7 mai 1995
 
 	**Cité par**:
 
+	  - Code de la construction et de l'habitation. - art. R351-37 (M)
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
 ##### Section 4 : Dispositions particulières aux logements-foyers
@@ -54938,6 +54948,28 @@ des immigrés.
 	  - Code de la construction et de l'habitation. - art. R362-5 (M)
 
 
+###### Article R362-7
+
+Un bilan général annuel des aides à la personne attribuées dans le département est communiqué au conseil départemental de
+l'habitat. Celui-ci examine les questions relatives à l'application dans le département des textes qui régissent l'aide
+personnalisée au logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 7 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+	  - Code de la construction et de l'habitation. - art. R371-1 (M)
+
+
 ###### Article R362-8
 
 Le conseil départemental de l'habitat est substitué au comité départemental des habitations à loyer modéré.
@@ -54962,7 +54994,7 @@ Le conseil départemental de l'habitat est substitué au comité départemental 
 ###### Article R362-2
 
 Le conseil départemental de l'habitat, dans les conditions fixées aux articles R. 362-3 à R. 362-8, a vocation à émettre un
-avis 
+avis:
 
 a) Sur la satisfaction des besoins en logements des différentes catégories de population ;
 
@@ -54980,14 +55012,15 @@ f) Sur les modalités selon lesquelles les aides à la personne en matière de l
 département ;
 
 g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou
-demandant à être autorisés à exercer leur activité dans le département.
+demandant à être autorisés à exercer leur activité dans le département;
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
-Il exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation en matière d'aide
-personnalisée au logement dans les conditions fixées à l'article R. 362-7.    La commission spécialisée des rapports locatifs
-créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41 ter de la
-même loi dans les conditions définies par l'article R. 362-20.
+La section des aides publiques au logement du conseil départemental de l'habitat exerce les compétences prévues à l'article
+R. 351-47.
+
+La commission spécialisée des rapports locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les
+compétences prévues par l'article 41 ter de la même loi dans les conditions définies par l'article R. 362-20.
 
 **Liens relatifs à cet article**
 
@@ -54998,14 +55031,13 @@ même loi dans les conditions définies par l'article R. 362-20.
 	**Cite**:
 
 	  - Loi n°86-1290 1986-12-23 art. 41 bis, art. 41 ter
-	  - Code de la construction et de l'habitation R362-3 à R362-8, L351-14, R362-7, R362-20
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation R362-3 à R362-8, R351-47, R362-20
+	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-7 (M)
 
 	**Modifié par**:
 
-	  - Décret n°94-1105 du 14 décembre 1994 - art. 1 () JORF 21 décembre 1994
+	  - Décret n°95-638 du 6 mai 1995 - art. 4 (V) JORF 7 mai 1995
 
 	**Cité par**:
 
@@ -55016,63 +55048,26 @@ même loi dans les conditions définies par l'article R. 362-20.
 	  - Code de la construction et de l'habitation. - art. R371-1 (V)
 
 
-###### Article R362-7
-
-Un bilan général annuel des aides à la personne attribuées dans le département est communiqué au conseil départemental de
-l'habitat. Celui-ci examine les questions relatives à l'application dans le département des textes qui régissent l'aide
-personnalisée au logement.
-
-Le conseil départemental de l'habitat en sa section des aides publiques au logement [*attributions*] :
-
-a) Exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation ;
-
-b) Examine les cas dans lesquels les bénéficiaires de l'aide personnalisée au logement ne règlent pas la part des dépenses de
-logement restant à leur charge ;
-
-c) Formule des recommandations concernant les mesures susceptibles de faciliter la régularisation de la situation des
-bénéficiaires d'aide à la personne défaillante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
-	  - Code de la construction et de l'habitation. - art. R371-1 (M)
-
-
 ##### Section 2 : Composition et fonctionnement.
 
 ###### Article R362-10
 
 Outre son président, le conseil départemental de l'habitat est composé :
 
-a) De trente-six membres [*nombre*] nommés par arrêté du commissaire de la République répartis en trois groupes de même
-importance, à savoir :
+a) De trente-six membres [*nombre*] nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
 
-1° Pour un tiers [*proportion*] de représentants du conseil général, des communes et des groupements de communes du
+1° Pour un tiers,[*proportion*] de représentants du conseil général, des communes et des groupements de communes du
 département désignés dans les conditions fixées à l'article R. 362-12 ;
 
 2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
-mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14.
+mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14;
 
 3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés, de représentants des
 partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
 personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
 fixées à l'article R. 362-14.
 
-b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 362-19.
+b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
 
 Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
 
@@ -55084,7 +55079,11 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°95-638 du 6 mai 1995 - art. 5 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-48 (M)
 
 	**Cité par**:
 
@@ -55093,10 +55092,6 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 	  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 
 
 ###### Article R362-18-1
@@ -55136,50 +55131,6 @@ Le comité rend compte de son activité au conseil départemental de l'habitat.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R371-8 (M)
-
-
-###### Article R362-19
-
-La section des aides publiques au logement est substituée à la commission départementale de l'aide personnalisée au logement
-créée en application de l'article L. 351-14 du code de la construction et de l'habitation.
-
-Elle est constituée conformément à l'article R. 351-48.
-
-Toutefois, les représentants des usagers sont pris parmi ceux qui siègent au conseil au titre de l'article R. 362-10 (a, 3°).
-
-Au cas où la section se prononce sur l'application de l'article
-
-R. 351-30, elle est complétée à l'initiative du commissaire de la République par des représentants des bailleurs et des
-établissements habilités choisis parmi les membres du conseil siégeant au titre de l'article R. 362-10 a.
-
-La section est régie par les articles R. 351-49 à R. 351-53.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R362-10 a)
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-30 (M)
-	  - Code de la construction et de l'habitation. - art. R351-48 (M)
-	  - Code de la construction et de l'habitation. - art. R351-49 (M)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-51 (M)
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
-	  - Code de la construction et de l'habitation. - art. R351-53 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
 ##### Section 2 : Composition et fonctionnement.
@@ -55439,6 +55390,35 @@ sein du bureau ou parmi les membres du conseil siégeant dans la commission.
 	  - Code de la construction et de l'habitation. - art. R371-10 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+###### Article R362-19
+
+La section des aides publiques au logement du conseil départemental de l'habitat est régie par les articles R. 351-49 à R.
+351-52.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-638 du 6 mai 1995 - art. 6 () JORF 7 mai 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-260 du 23 mars 2005 - art. 1 () JORF 24 mars 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-49 à R351-52
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-10 (M)
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
 ###### Article R362-20
