@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-09-09
+Version Consolidée au 1998-09-15
 
 # Partie législative
 
@@ -23478,9 +23478,9 @@ confisqué et emporte subrogation de l'Etat dans tous les droits du propriétair
 	  - Code de la construction et de l'habitation 225-16
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer. 
+### Titre VI : Dispositions relatives à l'outre-mer.
 
-#### Chapitre unique. 
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer.
 
 ###### Article L661-1
 
@@ -23499,7 +23499,7 @@ Elles ne s'appliquent pas au département de Saint-Pierre-et-Miquelon, à l'exce
 
 	**Modifié par**:
 
-	  - Loi n°94-638 du 25 juillet 1994 - art. 41 () JORF 27 juillet 1994
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 5 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
 
 	**Cite**:
 
@@ -23522,9 +23522,17 @@ compte des particularités climatiques propres à chacun de ces départements.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-1 1980-01-04 Art. 4 JORF 5 JANVIER 1980
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 5 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des procédures civiles d'exécution - art. L621-4 (VD)
 
 	**Cité par**:
 
@@ -23532,7 +23540,69 @@ compte des particularités climatiques propres à chacun de ces départements.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L613-3 (M)
+	  - Code de la construction et de l'habitation. - art. L613-3
+
+
+#### Chapitre II : Dispositions relatives à la Polynésie française.
+
+###### Article L662-1
+
+Les articles L. 261-9 à L. 261-22 du présent code sont applicables en Polynésie française, à l'exception :
+
+- au deuxième alinéa de l'article L. 261-10, des mots : "sauf si le terrain" aux mots : "prestataire de service" ;
+
+- des troisième, quatrième et cinquième alinéas de l'article L. 261-10 ;
+
+- de la première phrase de l'avant-dernier alinéa de l'article L. 261-11 ;
+
+- et à l'article L. 261-19, des mots : "ainsi que celles" aux mots : "conseil de surveillance".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 5 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L261-9 à L261-22, L261-10, L261-11, L261-19
+	  - Code de la construction et de l'habitation. - art. L261-10 (M)
+	  - Code de la construction et de l'habitation. - art. L261-11 (M)
+	  - Code de la construction et de l'habitation. - art. L261-19 (Ab)
+
+
+###### Article L662-2
+
+A l'article L. 261-11-1, la référence à l'indice national tous corps d'état mesurant l'évolution du coût des facteurs de
+production dans le bâtiment et publié par le ministre chargé de la construction et de l'habitation est remplacée par une
+référence à l'index général tous corps d'état BTP 01 édité mensuellement par l'Institut territorial de la statistique.
+
+Le troisième alinéa du même article est ainsi rédigé :
+
+L'index est défini dans les conditions déterminées par l'assemblée de la Polynésie française. La limite est fixée par arrêté
+du haut-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 5 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+
+	**Cité par**:
+
+	  - Décret n°2014-114 du 7 février 2014 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-11-1 (M)
 
 
 # Partie réglementaire
