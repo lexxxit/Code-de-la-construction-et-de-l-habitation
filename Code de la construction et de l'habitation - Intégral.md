@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-04-12
+Version Consolidée au 1983-06-01
 
 # Partie législative
 
@@ -43185,6 +43185,85 @@ les sociétés civiles lorsqu'elles sont constituées uniquement par des organis
 
 ##### Sous-section 1 : Création et gestion.
 
+###### Article R*421-54
+
+Les offices publics d'habitations à loyer modéré sont gérés par un conseil d'administration de quinze membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-55
+
+Le conseil d'administration est ainsi composé :
+
+1° Cinq membres désignés par l'organe délibérant de la collectivité locale ou de l'établissement public de rattachement de
+l'office.
+
+2° Cinq membres, dont un représentant de l'union départementale des associations familiales, désignés par le préfet du
+département du siège parmi les personnes ayant exercé ou exerçant des responsabilités dans les domaines du logement, de
+l'urbanisme, de l'environnement ou en matière sociale et culturelle, et parmi les personnes siégeant dans des organismes
+financiers traitant habituellement avec l'office. S'il y a lieu un membre est choisi en raison de ses compétences
+particulières en matière de problèmes sociaux propres aux immigrés.
+
+Le représentant de l'union départementale des associations familiales est choisi sur une liste de trois noms établie par le
+conseil d'administration de cet organisme.
+
+Ces désignations interviennent après avis de l'organe exécutif de la collectivité locale ou de l'établissement public de
+rattachement de l'office.
+
+3° Trois membres élus par les locataires.
+
+4° Deux membres désignés par les institutions ci-après, existant dans la circonscription de l'office ou, à défaut, dans le
+département ou la région du siège de l'office : un membre par les conseils d'administration des caisses d'allocations
+familiales ; un membre désigné par les organismes collecteurs de la participation des employeurs à la construction visés à
+l'article R. 313-9 2° a du code de la construction et de l'habitation, ayant leur siège social dans le département.
+
+Aucun des administrateurs ne peut être membre du personnel de l'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 rectificatif JORF 7 mai 1983 en vigueur le 1er juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-57 (Ab)
+
+
 ###### Article R*421-59
 
 En cas d'irrégularités, de faute grave ou de carence, le conseil d'administration des offices publics peut être dissout ou
@@ -43244,6 +43323,97 @@ de suspension, soit dissoudre le conseil d'administration dans les conditions pr
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R423-66 (Ab)
+
+
+###### Article R*421-61-1
+
+Le conseil d'administration se réunit au moins trois fois par an.
+
+La convocation du conseil est de droit lorsqu'elle est demandée par la moitié au moins de ses membres.
+
+L'ordre du jour des délibérations est porté à la connaissance des membres des conseils au moins dix jours à l'avance, sauf
+urgence dûment motivée.
+
+Les décisions sont prises à la majorité des membres présents ou représentés du conseil, la délibération n'étant valable que
+si les deux tiers des membres au moins participent à la séance ou sont représentés.
+
+Au cas où le quorum n'est pas atteint, les décisions sur les questions portées à l'ordre du jour de la séance peuvent être
+prises, après convocation régulière, à la séance suivante à la majorité des membres présents ou représentés.
+
+En cas de partage, la voix du président est prépondérante.
+
+Un administrateur ne peut se faire représenter que par un autre administrateur. Chaque administrateur ne peut recevoir qu'un
+seul mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 2 JORF 24 MARS 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-62
+
+Le conseil d'administration élit en son sein, à la majorité absolue des membres en fonction, un président qui doit
+nécessairement être choisi parmi les membres désignés par la collectivité locale ou l'établissement public de rattachement.
+Le conseil d'administration forme en son sein un bureau qui comprend le président et trois autres membres élus au scrutin
+majoritaire. Nul ne peut être élu au premier tour de scrutin s'il n'a réuni la majorité absolue. Le président du conseil
+d'administration est président de droit, et sa voix est prépondérante en cas de partage. 
+
+Sur les trois membres ainsi élus, l'un d'eux doit être choisi parmi les membres désignés par le préfet, un autre doit être un
+représentant des locataires. 
+
+Le bureau est élu pour trois ans. Il est procédé à une nouvelle élection après chaque renouvellement de l'organe délibérant
+de la collectivité locale ou de l'établissement public de rattachement de l'office. Le conseil d'administration peut
+toutefois révoquer le bureau ou un de ses membres sans attendre le terme ci-dessus, sous réserve de prendre cette décision à
+la majorité des trois quarts des membres en fonction et de désigner immédiatement un nouveau bureau. 
+
+Sur proposition du président, le conseil d'administration confère à un autre des membres du bureau le titre de vice-président
+délégué. Le président peut lui déléguer dans la limite des délégations faites à lui-même par le conseil d'administration
+certaines des charges qui lui ont été confiées et relatives au bon fonctionnement des services, à l'établissement de tous
+actes, contrats, traités, marchés et à la représentation en justice. Il en informe le conseil d'administration. Il peut
+également déléguer les fonctions prévues aux articles R. 423-34, R. 423-49, R. 423-52, R. 423-62, 
+R. 423-64. 
+
+Certaines de ces charges peuvent être également déléguées par le président à un ou plusieurs administrateurs, membres du
+bureau ou non. 
+
+Pour l'exercice d'attributions qu'il détermine expressément, le président peut donner, avec l'assentiment du conseil
+d'administration, procuration au directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 3 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R423-34 (V)
+	  - Code de la construction et de l'habitation. - art. R423-49 (M)
+	  - Code de la construction et de l'habitation. - art. R423-52 (Ab)
+	  - Code de la construction et de l'habitation. - art. R423-62 (V)
+	  - Code de la construction et de l'habitation. - art. R423-64 (V)
 
 
 ##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.
@@ -43366,6 +43536,55 @@ comptes, aux textes réglementaires en vigueur relatifs aux offices publics dép
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
 
+###### Article R*421-73
+
+A la demande de la collectivité territoriale intéressée ou de l'établissement public local intéressé, le préfet du
+département étend la compétence des offices publics d'habitations à loyer modéré aux opérations ci-après :
+
+1° a) Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention
+ou d'un traité de concession passés avec les collectivités locales, les établissements publics regroupant les communes ayant
+compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
+l'article L. 321-1 du code de l'urbanisme ;
+
+b) Réaliser directement ou à titre de prestataire de services les opérations de restauration immobilière prévues par les
+articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
+
+2° Assurer, à titre de prestataire de services pour le compte de tous organismes d'habitations à loyer modéré ou d'emprunteur
+des sociétés de crédit immobilier, tout ou partie des opérations juridiques, administratives et financières concourant à la
+réalisation d'un programme de construction, de restauration ou d'amélioration de bâtiments destinés à l'habitation ;
+
+3° Réaliser, pour le compte de personnes physiques ou morales et à titre d'accessoire à un programme de construction
+d'habitations à loyer modéré, des immeubles à usage locatif ou destinés à l'accession à la propriété, ne répondant pas
+obligatoirement aux normes des habitations à loyer modéré et sans le bénéfice des avantages financiers du présent livre (1ère
+et 2ème parties).
+
+Toutefois, les opérations prévues aux 1° et 3° ci-dessus ne peuvent être entreprises qu'avec l'accord des communes
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 13 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-3 (M)
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'urbanisme - art. L321-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-76 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-78 (Ab)
+
+
 ###### Article R*421-76
 
 Les offices admis au bénéfice des dispositions de l'article R. 421-73 sont soumis à la législation générale applicable aux
@@ -43420,6 +43639,26 @@ l'application desdits articles.
 	  - Code de la construction et de l'habitation. - art. R*421-73 (Ab)
 
 
+###### Article R*421-78
+
+Lorsqu'un office qui a obtenu le bénéfice des dispositions de l'article R. 421-73 joue le rôle de prestataire de services, le
+conseil d'administration s'adjoint à titre consultatif un représentant de l'organisme pour le compte duquel agit l'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-73 (Ab)
+
+
 ###### Article R*421-80
 
 Le préfet du département du siège est commissaire du Gouvernement. Il peut se faire représenter.
@@ -43463,6 +43702,111 @@ l'exercice de sa mission et sur l'activité de l'office.
 ##### Section 2 : Offices publics d'habitations à loyer modéré
 
 ##### SOUS-SECTION I : Création et gestion.
+
+###### Article R*421-53
+
+Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
+répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
+en assurer la gestion.
+
+Ils peuvent également assurer la gestion, notamment en qualité de syndic, d'immeubles réalisés en vue de l'accession à la
+propriété par les collectivités ou organismes visés à l'article R. 421-51 ;
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13 : date d'entrée en vigueur
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L411-1, R421-51
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+
+
+###### Article R*421-56
+
+Le mandat de tous les administrateurs [*rémunération*] est gratuit. Le conseil d'administration de l'office peut allouer aux
+administrateurs exerçant une activité salariée une indemnité forfaitaire destinée à compenser la perte de salaire qu'ils
+subissent du fait de leur absence pendant les heures de travail à l'occasion de leur participation aux réunions des conseils,
+du bureau ou des commissions de l'office, et décider le remboursement des frais de déplacement des membres du conseil
+d'administration.
+
+Le montant maximum de cette indemnité ainsi que le mode de calcul des frais de déplacement est fixé par arrêté du ministre
+chargé de la construction et de l'habitation et du ministre chargé du budget.
+
+Les administrateurs fonctionnaires ou agents de l'Etat bénéficient du régime des autorisations d'absence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+
+
+###### Article R*421-57
+
+Les membres [*administrateurs*] désignés par les collectivités locales et les établissements publics suivent le sort de
+l'organe délibérant qui les a élus. Ils font l'objet d'une nouvelle désignation après chaque renouvellement dudit organe. En
+cas de suspension ou de dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection de ses délégués par le
+nouvel organe.
+
+Les membres désignés par les caisses d'allocations familiales et les organismes collecteurs de la participation des
+employeurs à la construction, ainsi que les membres désignés par le commissaire de la République, font l'objet d'une nouvelle
+désignation chaque fois que les collectivités locales ou les établissements publics doivent eux-mêmes procéder à une
+désignation de leurs représentants au conseil d'administration. Toutefois, leur mandat [*durée*], éventuellement
+renouvelable, ne peut excéder trois ans.
+
+Les membres sortants du conseil peuvent être désignés à nouveau.
+
+Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, l'union départementale
+des associations familiales n'a pas établi la liste de trois noms prévue à l'article R. 421-55 2°, le commissaire de la
+République procède directement au choix d'un administrateur de cette institution.
+
+Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, les caisses d'allocations
+familiales ou les organismes collecteurs de la participation des employeurs à la construction, lorsqu'ils sont appelés à
+désigner directement un administrateur, n'ont pas désigné leur représentant, le conseil d'administration de l'office se
+complète lui-même en pourvoyant aux postes vacants parmi les administrateurs de ces institutions.
+
+Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son mandat,
+il est procédé immédiatement à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles
+du membre qu'il a remplacé.
+
+Ne peuvent être désignés comme administrateurs ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans
+un cas d'incapacité ou d'indignité prévu par les lois électorales, à l'exception des incapacités relatives à la nationalité
+ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-55 2°
+	  - Code de la construction et de l'habitation. - art. L423-12 (V)
+
 
 ###### Article R*421-58
 
@@ -43532,6 +43876,54 @@ fonctionnaires qu'il délègue à cet effet.
 	**Modifié par**:
 
 	  - Décret n°83-221 1983-03-22 ART. 1, ART. 13 rectificatif JORF 7 MAI 1983 JORF 24 MARS 1983
+
+
+###### Article R*421-63
+
+Il est institué en son sein par le conseil d'administration de tout office public d'habitations à loyer modéré une commission
+d'attribution des logements composée de six membres, à savoir :
+
+Deux représentants de la collectivité locale ou de l'établissement public de rattachement de l'office ;
+
+Deux membres choisis parmi les administrateurs nommés par le commissaire de la République du département ;
+
+Un représentant des locataires ;
+
+Le représentant des caisses d'allocations familiales.
+
+Les six membres composant ainsi la commission d'attribution des logements élisent en leur sein à la majorité absolue un
+président. En cas de partage des voix, c'est le candidat le plus âgé qui est élu.
+
+Dans l'exercice de ses fonctions, le président dispose d'une voix prépondérante.
+
+Le maire de la commune où sont situés les immeubles dans lesquels des logements sont mis en location ou bien son représentant
+participe aux délibérations.
+
+Un représentant des bureaux d'aide sociale peut, en outre, être appelé à siéger, à titre consultatif, par le président de la
+commission ; en l'absence d'un bureau d'aide sociale, un représentant de la direction départementale de l'action sanitaire et
+sociale peut siéger dans les mêmes conditions.
+
+La commission se substitue pour l'application des articles R. 441-2, R. 441-3 et R. 441-36 à R. 441-38 au conseil
+d'administration de l'office public d'habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 4 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R441-2, R441-3 à R441-38
+	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
 
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
@@ -45418,48 +45810,6 @@ de laquelle la transformation prend effet.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique.
-
-###### Article R423-32
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-
-###### Article R423-33
-
-Dans la limite des délégations qu'il reçoit du conseil d'administration, l'administrateur délégué peut être chargé de veiller
-au bon fonctionnement des services, de passer au nom de l'établissement tous actes, contrats, traités ou marchés et de
-représenter l'office en justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-
 ##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
 
 ###### Article R423-39
@@ -45593,60 +45943,68 @@ Sous réserve des dispositions spéciales de la présente sous-section, les règ
 des communes, en ce qui concerne le recouvrement des recettes ainsi que l'ordonnancement et le paiement des dépenses, sont
 applicables aux offices publics d'habitations à loyer modéré.
 
-Les titres de recettes et de dépenses sont transmis directement au receveur par l'administrateur délégué.
+Les titres de recettes et de dépenses sont transmis directement au receveur par le président du conseil d'administration.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 21
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+
 
 ###### Article R423-56
 
-A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, l'administrateur délégué peut, sous sa
-responsabilité et par écrit, requérir le receveur d'avoir à passer outre à des irrégularités alléguées par ce comptable pour
-refuser le paiement d'un mandat et de procéder au paiement de ce mandat sans autre délai.
+A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le président du conseil d'administration peut,
+sous sa responsabilité et par écrit, requérir le receveur d'avoir à passer outre à des irrégularités alléguées par ce
+comptable pour refuser le paiement d'un mandat et de procéder au paiement de ce mandat sans autre délai.
 
-L'administrateur délégué est tenu de rendre compte immédiatement au préfet des circonstances et des motifs qui ont nécessité
-de sa part l'application de cette mesure. Le receveur de son côté en donne avis au receveur des finances.
+Le président du conseil d'administration est tenu de rendre compte immédiatement au préfet des circonstances et des motifs
+qui ont nécessité de sa part l'application de cette mesure. Le receveur de son côté en donne avis au receveur des finances.
 
 L'acte de réquisition et une copie de la déclaration de refus de paiement sont annexés au mandat.
 
 Cette procédure ne peut jamais s'exercer quand le refus de paiement est fondé sur un des motifs ci-après :
 
-1. Insuffisance de fonds appartenant à l'office ;
+1° Insuffisance de fonds appartenant à l'office ;
 
-2. Absence ou insuffisance de crédit budgétaire ;
+2° Absence ou insuffisance de crédit budgétaire ;
 
-3. Opposition dûment signifiée ;
+3° Opposition dûment signifiée ;
 
-4. Difficultés touchant à la validité de la quittance ;
+4° Difficultés touchant à la validité de la quittance ;
 
-5. Défaut de justification du service fait ;
+5° Défaut de justification du service fait ;
 
-6. Extinction de la dette de l'office ;
+6° Extinction de la dette de l'office ;
 
-7. Inobservation de formalités nécessitant l'intervention d'une autorité supérieure en vertu d'un texte législatif ou
+7° Inobservation de formalités nécessitant l'intervention d'une autorité supérieure en vertu d'un texte législatif ou
 réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 25
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+	**Abrogé par**:
+
+	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
 ###### Article R423-59
@@ -46117,6 +46475,69 @@ l'article précédent et notamment les conditions de leur affectation à la réa
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R423-82 (V)
+
+
+### Titre II  : Organismes d'HLM.
+
+#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organisme d'HLM
+
+##### Section 1 : Dispositions communes financières et comptables
+
+##### Sous-section 2 : Dispositions particulières aux offices publics d'habitation à loyer modéré
+
+###### Article R423-63
+
+Le compte financier réunit le compte administratif du président du conseil d'administration et le compte de gestion du
+receveur.
+
+Il comprend [*contenu*] :
+
+1° Le détail des opérations de l'année ;
+
+2° Le Bilan ;
+
+3° Les états annexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+
+#### Chapitre III : Dispositions applicables à la gestion des diverses  catégories d'organismes d'HLM
+
+##### Section 1 : Dispositions financières et comptables
+
+##### Sous-section 2 : Dispositions particulières aux offices publics  d'habitations à loyer modéré
+
+###### Article R423-64
+
+Le compte financier est préparé par le receveur et visé par le président du conseil d'administration, qui certifie sa
+conformité avec ses écritures d'ordonnateur.
+
+Il est obligatoirement accompagné d'un rapport du président du conseil d'administration sur l'activité de l'office pendant
+l'année écoulée.
+
+Il est délibéré par le conseil d'administration et réglé par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
 
 
 ### Titre III : Dispositions financières.
@@ -49333,6 +49754,50 @@ l'habitation fixe le plafond des ressources de l'ensemble des personnes vivant a
 	  - Code de la construction et de l'habitation. - art. R441-6 (M)
 
 
+###### Article R*441-5
+
+Compte tenu des articles R. 441-2 et R. 441-3 et du règlement intérieur, une liste de classement des candidats est arrêtée
+par le conseil d'administration de l'office ou de la société d'habitations à loyer modéré le 1er octobre de chaque année pour
+l'année suivante.
+
+Cette liste comprend un nombre de candidats excédant d'au moins 50 p. 100 le nombre de logements susceptibles d'être mis en
+location ; ces candidats doivent remplir les conditions définies aux articles R. 441-2 et R. 441-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 art. 13 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+	**Cité par**:
+
+	  - Arrêté du 7 mars 2008 - art. 1 (Ab)
+	  - Décret n°2011-176 du 15 février 2011 - art. 11 (V)
+	  - Arrêté du 10 mars 2011 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-24 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*445-6 (V)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R411-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-10 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
+	  - Code de la construction et de l'habitation. - art. R441-6 (M)
+	  - Code de la construction et de l'habitation. - art. R441-7 (M)
+	  - Code de la construction et de l'habitation. - art. R441-8 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+	  - Code de la construction et de l'habitation. - art. R441-3 (M)
+
+
 ###### Article R441-3
 
 L'attribution des logements mis en location par les offices publics et les sociétés d'habitations à loyer modéré est
@@ -49379,69 +49844,6 @@ Peuvent seuls être compris au nombre des personnes occupant le local :
 	  - Code de la construction et de l'habitation. - art. R441-30 (Ab)
 	  - Code de la construction et de l'habitation. - art. R441-4 (M)
 	  - Code de la construction et de l'habitation. - art. R441-8 (M)
-
-
-###### Article R441-5
-
-Compte tenu des articles R. 441-2 et R. 441-3 et du règlement intérieur, une liste de classement des candidats est arrêtée
-par le conseil d'administration de l'office ou de la société d'habitations à loyer modéré le 1er octobre de chaque année pour
-l'année suivante.
-
-Dans le cas où le conseil d'administration d'un office désigne une sous-commission prise parmi ses membres pour procéder à
-l'établissement de la liste de classement susindiquée, celle-ci doit être composée en nombre égal :
-
-- d'administrateurs, nommés par le préfet et n'appartenant pas à l'une des catégories ci-après ;
-
-- d'administrateurs désignés par le conseil municipal, par le syndicat de communes ou par le conseil général ;
-
-- d'administrateurs élus par les conseils d'administration des offices publics d'habitations à loyer modéré composés
-conformément à l'article R. 421-55.
-
-La sous-commission est complétée par l'un des représentants des locataires au sein du conseil d'administration. Elle est
-présidée par le président de l'office public d'habitations à loyer modéré ou par un administrateur désigné par lui.
-
-La liste prévue à l'alinéa 1er comprend un nombre de candidats excédant d'au moins 50 p. 100 le nombre de logements
-susceptibles d'être mis en location ; ces candidats doivent remplir les conditions définies aux articles R. 441-2 et R.
-441-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-346 1954-03-27 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Cité par**:
-
-	  - Arrêté du 7 mars 2008 - art. 1 (Ab)
-	  - Décret n°2011-176 du 15 février 2011 - art. 11 (V)
-	  - Arrêté du 10 mars 2011 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
-	  - Code de la construction et de l'habitation. - art. R*441-24 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*445-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*445-6 (V)
-	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
-	  - Code de la construction et de l'habitation. - art. R411-3 (V)
-	  - Code de la construction et de l'habitation. - art. R441-10 (M)
-	  - Code de la construction et de l'habitation. - art. R441-2-1 (M)
-	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
-	  - Code de la construction et de l'habitation. - art. R441-6 (M)
-	  - Code de la construction et de l'habitation. - art. R441-7 (M)
-	  - Code de la construction et de l'habitation. - art. R441-8 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-55
-	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
-	  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
 
 ###### Article R441-6
@@ -52975,141 +53377,6 @@ supérieur des habitations à loyer modéré, dans le cas contraire.
 	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
 
 
-###### Article R*421-53
-
-Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
-répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
-en assurer la gestion notamment en qualité de syndic.
-
-Ils peuvent également assurer la gestion, en qualité de syndic, d'immeubles appartenant à l'Etat, à des collectivités
-locales, à d'autres organismes d'habitations à loyer modéré, à des sociétés d'économie mixte ou à des organismes sans but
-lucratif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-
-
-###### Article R*421-54
-
-Les offices publics d'habitations à loyer modéré sont gérés par un conseil d'administration de vingt membres [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-55
-
-Chaque conseil d'administration est ainsi composé :
-
-1. Six membres élus par l'organe délibérant de la collectivité locale ou de l'établissement public de rattachement de
-l'office ;
-
-2. Deux membres désignés par les institutions ci-après, existant dans la circonscription de l'office ou, à défaut, dans le
-département du siège de l'office : un membre, par les conseils d'administration des caisses d'épargne, un membre par les
-conseils d'administration des caisses d'allocations familiales ;
-
-3. Dix membres nommés par le préfet du département du siège parmi les personnes compétentes dans les domaines du logement, de
-l'urbanisme, de l'environnement et en matière sociale et culturelle ; un de ces membres doit être choisi sur une liste d'au
-moins trois noms établie par l'union départementale des associations familiales, un autre sur une liste d'au moins trois noms
-établie par les centres pour la protection, l'amélioration, la conservation et la transformation de l'habitat ancien. S'il y
-a lieu, un membres est choisi en raison de ses compétences particulières en matière de problèmes sociaux propres aux
-immigrés ;
-
-4. Deux membres élus par les locataires.
-
-Les nouveaux conseils d'administration des offices publics d'habitation à loyer modéré, conformes aux dispositions qui
-précèdent, devront être mis en place au plus tard le 1er décembre 1978.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 1, art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-57 (Ab)
-
-
-###### Article R*421-56
-
-Le mandat de tous les administrateurs est gratuit [*rémunération*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
-
-
-###### Article R*421-57
-
-Les membres élus par les collectivités locales et les établissements publics sont élus au scrutin secret. La majorité absolue
-des voix est requise aux deux premiers tours de scrutin. La majorité relative suffit au troisième tour. En cas de partage, le
-candidat le plus âgé est déclaré élu. Ces membres suivent le sort de l'organe délibérant qui les a élus. En cas de suspension
-ou de dissolution de cette assemblée, le mandat est continué jusqu'au jour de l'élection de ses délégués par la nouvelle
-assemblée.
-
-Ne sont pas éligibles ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans un cas d'incapacité ou
-d'indignité prévu par les lois électorales ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
-
-Les membres désignés par les caisses d'épargne et les caisses d'allocations familiales ainsi que les membres choisis par le
-préfet sont nommés pour quatre ans. Ils sont renouvelables par moitié tous les deux ans. Il est procédé par voie de tirage au
-sort à la désignation, pour chaque catégorie, de la série qui est renouvelée à l'expiration de la première période biennale.
-Les membres sortants du conseil peuvent être nommés ou désignés à nouveau.
-
-Lorsqu'après une mise en demeure du préfet non suivie d'effet dans la quinzaine les caisses d'épargne ou d'allocations
-familiales n'ont pas désigné leurs représentants, le conseil d'administration de l'office se complète lui-même en pourvoyant
-aux postes vacants parmi les administrateurs de ces caisses.
-
-Si un membre vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est procédé immédiatement
-à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles du membre qu'il a remplacé.
-
-Sont déclarés démissionnaires d'office les membres qui se trouvent dans un cas d'incapacité ou d'indignité prévu par les lois
-électorales ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 3, art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-
 ###### Article R*421-61
 
 Le conseil d'administration règle par ses délibérations les affaires de l'office [*attributions*].
@@ -53139,79 +53406,6 @@ Le président du conseil d'administration ordonnance les dépenses.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-62
-
-Le conseil d'administration élit en son sein, à la majorité absolue des membres le composant, un bureau qui comprend un
-président, un premier vice-président, un second vice-président et un administrateur délégué. Deux des trois titulaires des
-fonctions de président ou de vice-président doivent être choisis respectivement parmi les représentants de la collectivité
-locale ou de l'établissement public de rattachement de l'office et parmi les membres nommés par le préfet. L'administrateur
-délégué est choisi parmi les membres nommés par le préfet.
-
-Les vice-présidents assistent le président dans ses fonctions et le suppléent en cas d'absence ou d'empêchement.
-
-Sur la proposition du président, le conseil d'administration peut déléguer à l'administrateur délégué certaines des charges
-confiées au président.
-
-Le conseil d'administration peut en outre déléguer certains de ses pouvoirs, limitativement énumérés, à un conseil restreint
-composé des membres du bureau et de trois administrateurs élus par le conseil en son sein à la majorité absolue de ses
-membres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-63
-
-Il est institué au sein du conseil d'administration de tout office public d'habitations à loyer modéré une commission
-d'attribution des logements composée de six membres [*nombre*], à savoir :
-
-1. L'administrateur délégué, président, dont la voix est prépondérante en cas de partage ;
-
-2. Le représentant des caisses d'allocations familiales ;
-
-3. Quatre membres désignés par le conseil, l'un parmi les représentants de la collectivité locale ou de l'établissement
-public de rattachement, deux parmi les administrateurs nommés par le préfet et un parmi les représentants des locataires.
-
-Un représentant des bureaux d'aide sociale peut en outre être appelé à siéger, à titre consultatif, par le président de la
-commission.
-
-La commission se substitue, pour l'application des articles R. 441-2 à R. 441-31 et R. 441-36 à R. 441-38, au conseil
-d'administration de l'office public d'habitations à loyer modéré, ou à la sous-commission prise parmi ses membres prévue à
-l'article R. 441-5, alinéa 2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R441-5 AL. 2
-	  - Code de la construction et de l'habitation. - art. R441-36 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-37 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-38 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R441-9 (M)
 
 
 ###### Article R421-65
@@ -53310,46 +53504,6 @@ sociétés d'économie mixte ou à des organismes à but non lucratif.
 	  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.
-
-###### Article R*421-69
-
-Par dérogation à l'article R. 421-55, le conseil d'administration de l'office public d'habitations à loyer modéré
-interdépartemental de l'Essonne, du Val d'oise et des Yvelines est composé de vingt membres [*nombre*], à savoir :
-
-1. Six membres élus par les conseils généraux, à raison de deux par département ;
-
-2. Deux membres élus par les institutions ci-après existant dans les trois départements susmentionnés :
-
-Un par les conseils d'administration des caisses d'épargne ;
-
-Un par les conseils d'administration des caisses d'allocations familiales ;
-
-Dix membres nommés par les préfets, à raison de quatre pour le département des Yvelines et de trois pour chacun des
-départements de l'Essonne et du Val-d'Oise choisis parmi les personnes particulièrement compétentes dans les domaines de
-l'environnement, de l'urbanisme, du logement et en matière sociale et culturelle ;
-
-4. Deux membres élus par les locataires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-213 1978-02-16 art. 2 II
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-55
-
-
 ##### Chapitre II : Organismes privés d'habitations à loyer modéré.
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
@@ -53413,167 +53567,21 @@ première assemblée générale extraordinaire tenue après le 8 mars 1974.
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
 
-###### Article R*421-73
-
-Sur avis de la collectivité locale intéressée ou de l'établissement public local intéressé et du conseil supérieur des
-habitations à loyer modéré le ministre chargé de la construction et de l'habitation, le ministre chargé des finances et le
-ministre de l'intérieur peuvent étendre la compétence d'un office public d'habitations à loyer modéré aux opérations ci-
-après :
-
-1. a) Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention
-ou d'un traité de concession passés avec les collectivités locales, les établissements publics regroupant les communes ayant
-compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
-l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du
-présent code ;
-
-b) Réaliser directement ou à titre de prestataires de services les opérations de restauration immobilière prévues par les
-articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
-
-2. Assurer, à titre de prestataires de service pour le compte de tous organismes d'habitations à loyer modéré ou
-d'emprunteurs des sociétés de crédit immobilier et conformément aux conventions types approuvées par le ministre chargé de la
-construction et de l'habitation, après avis du conseil supérieur des habitations à loyer modéré, les études de tous
-programmes de constructions locatives ou d'accession à la propriété, la préparation des appels à la concurrence et des
-marchés, le contrôle et la surveillance de l'exécution des travaux, la préparation des règlements aux entrepreneurs,
-architectes et techniciens ainsi que celles des réceptions de travaux ;
-
-3. Réaliser, pour le compte de personnes physiques ou morales et à titre d'accessoire à un programme de construction
-d'habitations à loyer modéré, des immeubles à usage locatif ou destinés à l'accession à la propriété, ne répondant pas
-obligatoirement aux normes des habitations à loyer modéré et sans le bénéfice des avantages financiers du présent livre (1er
-et 2e partie) ; ces opérations ne peuvent être faites que dans les conditions fixées par des conventions approuvées par le
-ministre chargé de la construction et de l'habitation et le ministre chargé des finances et, dans le cas d'octroi de
-garanties par une collectivité locale, par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-3 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L321-1 AL. 1
-	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-76 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-78 (Ab)
-
-
-###### Article R*421-74
-
-La compétence territoriale des offices publics départementaux d'habitations à loyer modéré habilités à réaliser les
-opérations prévues à l'article R. 421-73 est étendue aux départements limitrophes du département où se trouve leur siège
-social.
-
-La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, intercommunaux, de district ou de
-communauté urbaine habilités à réaliser les opérations prévues à l'article R. 421-73 est étendue à l'ensemble du territoire
-du département où se trouve leur siège social.
-
-Toutefois, les opérations prévues aux 1. et 3. de l'article R. 421-73 ne peuvent être entreprises qu'avec l'accord des
-communes intéressées.
-
-Les dispositions du présent article ne sont pas applicables aux offices publics d'habitations à loyer modéré de la région
-d'Ile-de-France faisant l'objet des articles R. 421-67 à R. 421-72.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-71
-
-
-###### Article R*421-75
-
-Peuvent solliciter le bénéfice des dispositions des articles R. 421-73 et R. 421-74 les offices qui répondent au moins à deux
-des critères ci-après :
-
-- avoir en gérance ou en cours de construction des immeubles comportant au total au moins 3.000 logements ;
-
-- être en mesure de réaliser dans un délai maximum de trois ans un programme total d'au moins 1.200 logements [*nombre*] ;
-
-- avoir compétence, soit dans une circonscription territoriale d'au moins 100.000 habitants, soit dans une circonscription
-territoriale où doivent être réalisés des programmes de rénovation urbaine, de décentralisation industrielle ou d'intérêt
-national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-74
-
-
-###### Article R*421-78
-
-Le conseil d'administration des offices d'habitations à loyer modéré à compétence étendue est composé ainsi qu'il est prévu à
-l'article R. 421-55.
-
-Lorsque l'office joue le rôle de prestataire de services, le conseil d'administration ou le conseil restreint s'adjoint, à
-titre consultatif, un représentant de l'organisme pour le compte duquel agit l'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-55
-
-
 ###### Article R*421-79
 
-Le président et l'administrateur délégué peuvent bénéficier d'une indemnité de fonction forfaitaire dont le montant maximum
-est fixé par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+Le conseil d'administration de l'office peut allouer au président [*rémunération*] une indemnité de fonction forfaitaire dont
+le montant maximum est fixé par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé du
+budget.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 #### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré
@@ -53584,8 +53592,8 @@ est fixé par arrêté du ministre chargé de la construction et de l'habitation
 
 ###### Article R423-34
 
-L'administrateur délégué procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation et à
-l'ordonnancement des dépenses.
+Le président du conseil d'administration procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation
+et à l'ordonnancement des dépenses.
 
 Il est qualifié pour recevoir tous exploits et significations concernant l'office autres que ceux mentionnés à l'article R.
 423-55.
@@ -53595,13 +53603,13 @@ l'article 2121 du code civil est inscrite, le cas échéant, à la diligence de 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 	**Cite**:
 
@@ -53669,21 +53677,21 @@ n'a prêté serment et s'il n'a été régulièrement installé.
 
 ###### Article R423-37
 
-Le receveur veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, à
-l'administrateur délégué toute représentation utile pour que soit assurée cette conservation.
+Le receveur veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, au
+président du conseil d'administration toute représentation utile pour que soit assurée cette conservation.
 
 Il est tenu de faire, sous sa responsabilité personnelle, toutes diligences nécessaires pour assurer la rentrée des sommes
 dues à l'office [*obligation*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 6
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-38
@@ -53886,24 +53894,24 @@ ce crédit.
 Les poursuites exercées par les receveurs pour le recouvrement des produits revenant aux offices ont lieu comme en matière
 d'impôts directs.
 
-Le recouvrement des créances des offices ne résultant pas d'un contrat exécutoire est poursuivi sur proposition de
-l'administrateur délégué en vertu d'un arrêté du préfet pour les produits dus aux offices départementaux et en vertu d'états
-exécutoires émis par le maire et visés par le préfet ou le sous-préfet pour les produits dus aux offices communaux.
+Le recouvrement des créances des offices ne résultant pas d'un contrat exécutoire est poursuivi sur proposition du président
+du conseil d'administration en vertu d'un arrêté du préfet pour les produits dus aux offices départementaux et en vertu
+d'états exécutoires émis par le maire et visés par le préfet ou le sous-préfet pour les produits dus aux offices communaux.
 
 Si les poursuites engagées dans les conditions prévues aux deux alinéas précédents ne permettent pas d'assurer le
-recouvrement des sommes dues à l'office, le receveur en rend compte immédiatement à l'administrateur délégué à qui il
-appartient de prendre toutes mesures pour faire prononcer la résiliation des contrats à raison de l'inexécution des
+recouvrement des sommes dues à l'office, le receveur en rend compte immédiatement au président du conseil d'administration à
+qui il appartient de prendre toutes mesures pour faire prononcer la résiliation des contrats à raison de l'inexécution des
 engagements souscrits par les débiteurs de l'office.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 22
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-54
@@ -53996,8 +54004,8 @@ Leur montant doit être versé au receveur dans le délai de trois jours.
 
 ###### Article R423-62
 
-En fin d'année, l'administrateur délégué arrête les livres du receveur, dont il peut prendre à tout moment connaissance et se
-fait présenter les rentes et valeurs mobilières appartenant à l'office.
+En fin d'année, le président du conseil d'administration arrête les livres du receveur, dont il peut prendre à tout moment
+connaissance et se fait présenter les rentes et valeurs mobilières appartenant à l'office.
 
 S'il s'agit d'un receveur spécial, il constate l'existence des valeurs en caisse, ainsi que les soldes des comptes courants.
 
@@ -54005,61 +54013,13 @@ Il dresse procès-verbal de ces différentes opérations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 31
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-
-###### Article R423-63
-
-Le compte financier réunit le compte administratif de l'administrateur délégué et le compte de gestion du receveur.
-
-Il comprend [*contenu*] :
-
-1. Le détail des opérations de l'année ;
-
-2. Le bilan ;
-
-3. Les états annexes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-64
-
-Le compte financier est préparé par le receveur et visé par l'administrateur délégué, qui certifie sa conformité avec ses
-écritures d'ordonnateur.
-
-Il est obligatoirement accompagné d'un rapport de l'administrateur délégué sur l'activité de l'office pendant l'année
-écoulée.
-
-Il est délibéré par le conseil d'administration et réglé par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 33
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 	**Cité par**:
 
@@ -54090,18 +54050,18 @@ Celui-ci, après examen, le transmet à la Cour des comptes ou au trésorier-pay
 
 ###### Article R423-66
 
-Dans le même délai, des copies du compte financier et du rapport de l'administrateur délégué sont adressées au préfet, au
-ministre chargé de la construction et de l'habitation et à la caisse des dépôts et consignations.
+Dans le même délai, des copies du compte financier et du rapport du président du conseil d'administration sont adressées au
+préfet, au ministre chargé de la construction et de l'habitation et à la caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 35
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-67
