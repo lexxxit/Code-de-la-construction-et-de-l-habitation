@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-05-05
+Version Consolidée au 1999-06-09
 
 # Partie législative
 
@@ -1794,6 +1794,31 @@ législatives ou réglementaires en vigueur et qu'elles se sont poursuivies dans
 	  - Loi n°80-502 du 4 juillet 1980 - art. 75 (V) JORF 5 juillet 1980
 
 
+##### Section 9 : Protection contre les insectes xylophages.
+
+###### Article L112-17
+
+Les règles de construction et d'aménagement applicables aux ouvrages et locaux de toute nature quant à leur résistance aux
+termites et aux autres insectes xylophages sont fixées par décret en Conseil d'Etat. Ces règles peuvent être adaptées à la
+situation particulière des départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 7 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+
+
 ### Titre II : Sécurité et protection des immeubles.
 
 #### Chapitre II : Dispositions de sécurité relatives aux immeubles de grande hauteur.
@@ -2146,6 +2171,418 @@ localisation et de la taille des immeubles ou locaux et les dates auxquelles ces
 	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 5 (VT)
 
 
+### Titre III : Chauffage et ravalement des immeubles
+
+#### Chapitre Ier : Chauffage des immeubles.
+
+###### Article L131-1
+
+Conformément à l'article 2 de la loi  n° 74-908 du 29 octobre 1974 relative aux économies d'énergie, modifiée par l'article 6
+de la loi n° 77-804 du 19 juillet 1977, la mise en oeuvre des installations de chauffage et de climatisation par tous
+exploitants ou utilisateurs doit être assurée de façon à limiter la température de chauffage et de climatisation des locaux à
+des valeurs fixées par décrets en Conseil d'Etat, après avis du comité consultatif pour l'utilisation de l'énergie.
+
+Les dispositions de l'alinéa précédent s'appliquent aux contrats en cours à la date d'entrée en vigueur de ces décrets. A
+défaut d'accord amiable, toute partie peut demander en justice la révision du contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°74-908 du 29 octobre 1974 - art. 2 (M)
+	  - Loi n°77-804 1977-07-19 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L131-6 (VT)
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+
+
+###### Article L131-2
+
+Ainsi qu'il est dit à l'article 3 de la loi n° 74-908 du 29 octobre 1974, modifié par l'article 6 de la loi n° 77-804 du 19
+juillet 1977 :
+
+Sont nulles et de nul effet, à compter du 2 novembre 1974, toutes stipulations contractuelles relatives à l'exploitation des
+installations de chauffage et de climatisation ou se référant à cette exploitation, notamment pour la gestion des immeubles,
+lorsqu'elles comportent des modalités de rémunération des services favorisant l'accroissement de la quantité d'énergie
+consommée.
+
+Conformément à l'article 3 ter ajouté à la loi n° 74-908 du 29 octobre 1974 par l'article 3 bis VII de la loi n° 77-804 du 19
+juillet 1977, un décret en Conseil d'Etat précise les conditions d'application de l'article 3 reproduit à l'alinéa premier.
+Il peut également rendre obligatoires dans tous les contrats celles des dispositions du cahier des prescriptions communes ou
+du cahier des clauses techniques générales applicables aux marchés d'exploitation de chauffage passés au nom de l'Etat, qui
+ont pour effet de permettre des économies d'énergie. A défaut d'accord amiable, toute partie peut demander en justice la
+révision du contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°74-908 1974-10-29 art. 3, art. 3 ter
+	  - Loi n°74-908 du 29 octobre 1974 - art. 3 (V)
+	  - Loi n°77-804 1977-07-19 art. 6, art. 3 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+
+
+###### Article L131-3
+
+Ainsi qu'il est dit à l'article 4 de la loi n° 74-908 du 29 octobre 1974 :
+
+Tout immeuble collectif pourvu d'un chauffage commun doit comporter, quand la technique le permet, une installation
+permettant de déterminer la quantité de chaleur et d'eau chaude fournie à chaque local occupé à titre privatif.
+
+Nonobstant toute disposition, convention ou usage contraires, les frais de chauffage et de fourniture d'eau chaude mis à la
+charge des occupants comprennent, en plus des frais fixes, le coût des quantités de chaleur calculées comme il est dit ci-
+dessus.
+
+Un décret pris en Conseil d'Etat, après avis du comité consultatif pour l'utilisation de l'énergie, fixe les conditions
+d'application du présent article et, notamment, la part des frais fixes visés au précédent alinéa, les délais d'exécution des
+travaux prescrits, ainsi que les cas et conditions dans lesquels il peut être dérogé à l'obligation prévue au premier alinéa,
+en raison d'une impossibilité technique ou d'un coût excessif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°74-908 du 29 octobre 1974 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+
+
+###### Article L131-4
+
+Les caractères définissant les normes d'équipement, de fonctionnement et de contrôle des installations consommant de
+l'énergie et les catégories d'ouvrages et locaux soumises en tout ou partie aux dispositions du présent article sont fixés
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-21 (V)
+	  - Code de la construction et de l'habitation. - art. L131-6 (VT)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+	  - Code de la construction et de l'habitation. - art. R131-24 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 92 al. 2
+
+
+###### Article L131-5
+
+Les décrets prévus à l'article L. 111-10 déterminent également les caractères définissant les normes d'équipement, de
+fonctionnement et de contrôle des installations destinées à assurer le chauffage ou le conditionnement d'air des locaux
+existants et les catégories d'installations soumises en tout ou partie aux dispositions du présent alinéa.
+
+Ces mêmes décrets déterminent enfin les conditions d'application du présent article et, notamment, les délais d'exécution des
+travaux prescrits, ainsi que les cas et conditions dans lesquels il peut être dérogé à l'obligation d'exécuter ces travaux,
+en raison d'une impossibilité technique ou d'un coût excessif.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°74-908 1974-10-29 art. 5 II al. 2, al. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-10 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L152-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+
+
+###### Article L131-6
+
+Conformément à l'article 9 de la loi n° 74-908 du 29 octobre 1974, le droit de visite institué par l'article 3 de la loi n°
+48-400 du 10 mars 1948 sur l'utilisation de l'énergie ainsi que les dispositions de l'article 5 de la même loi sont étendus :
+
+pour les installations collectives de chauffage et de conditionnement, au contrôle des dispositions prévues à l'article L.
+131-4 ;
+
+pour les établissements industriels et commerciaux et pour les établissements recevant du public, au contrôle des
+dispositions prévues aux articles L. 131-1 et L. 131-4.
+
+Pour effectuer ces contrôles, les agents visés à l'article L. 152-1 sont également habilités à exercer les pouvoirs
+respectivement prévus aux articles 3, d'une part, et 5, d'autre part, de la loi n° 48-400 du 10 mars 1948 *référence
+remplacée par la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie*.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-400 du 10 mars 1948 - art. 3 (Ab)
+	  - Loi n°48-400 du 10 mars 1948 - art. 5 (Ab)
+	  - Loi n°74-908 du 29 octobre 1974 - art. 9, v. init.
+	  - Code de la construction et de l'habitation. - art. L131-1 (M)
+	  - Code de la construction et de l'habitation. - art. L131-4 (M)
+	  - Code de la construction et de l'habitation. - art. L152-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°96-1236 1996-12-30 art. 44 JORF 1er janvier 1997
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L161-1 (M)
+
+
+#### Chapitre II : Ravalement des immeubles.
+
+###### Article L132-1
+
+Les façades des immeubles doivent être constamment tenues en bon état de propreté.
+
+Les travaux nécessaires doivent être effectués au moins une fois tous les dix ans, sur l'injonction qui est faite au
+propriétaire par l'autorité municipale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 307
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L132-2 (V)
+	  - Code de la construction et de l'habitation. - art. L132-3 (V)
+
+
+###### Article L132-2
+
+L'article L. 132-1 est applicable à Paris ainsi que dans les communes figurant sur une liste établie par décision de
+l'autorité administrative, sur proposition ou après avis conforme des conseils municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 308
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L132-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*132-1 (V)
+
+
+###### Article L132-3
+
+Si, dans les six mois de l'injonction qui lui est faite en application de l'article L. 132-1, le propriétaire n'a pas
+entrepris les travaux qu'il prévoit, le maire peut prendre un arrêté en vue de les prescrire.
+
+L'arrêté visé à l'alinéa ci-dessus est notifié au propriétaire avec sommation d'avoir à effectuer les travaux dans un délai
+qu'il détermine et qui ne peut excéder un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 309
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L132-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L132-4 (V)
+	  - Code de la construction et de l'habitation. - art. L152-11 (V)
+
+
+###### Article L132-4
+
+La procédure prévue à l'article L. 132-3 est également applicable lorsque les travaux, entrepris dans les six mois de
+l'injonction, n'ont pas été terminés dans l'année qui la suit. L'arrêté municipal est de même notifié au propriétaire, avec
+sommation d'avoir à terminer les travaux dans le délai qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 310
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L132-3 (M)
+
+
+###### Article L132-5
+
+Dans le cas où les travaux n'ont pas été exécutés dans le délai imparti par la sommation délivrée en application des
+dispositions qui précèdent, le maire peut, sur autorisation du président du tribunal de grande instance statuant comme en
+matière de référés, les faire exécuter d'office, aux frais du propriétaire.
+
+Le montant des frais est avancé par la commune. Il est recouvré comme en matière d'impôts directs. Les réclamations sont
+présentées, instruites et jugées comme en matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 311
+
+
+#### Chapitre III : Lutte contre les termites.
+
+###### Article L133-1
+
+Dans les secteurs délimités par le conseil municipal, le maire peut enjoindre aux propriétaires d'immeubles bâtis et non
+bâtis de procéder dans les six mois à la recherche de termites ainsi qu'aux travaux préventifs ou d'éradication nécessaires.
+
+Les propriétaires justifient du respect de cette obligation dans les conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*133-1 (V)
+
+
+###### Article L133-2
+
+En cas de carence d'un propriétaire et après mise en demeure demeurée infructueuse à l'expiration d'un délai fixé par le
+maire, ce dernier peut, sur autorisation du président du tribunal de grande instance statuant comme en matière de référé,
+faire procéder d'office et aux frais du propriétaire à la recherche de termites ainsi qu'aux travaux préventifs ou
+d'éradication nécessaires.
+
+Le montant des frais est avancé par la commune. Il est recouvré comme en matière de contributions directes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+
+###### Article L133-3
+
+Un décret en Conseil d'Etat fixe les sanctions dont sont passibles les propriétaires, personnes physiques ou morales, qui
+n'ont pas satisfait aux obligations du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
+
+
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
 
 #### Chapitre II : Etudes et recherches techniques intéressant les industries du bâtiment.
@@ -2240,11 +2677,11 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 
 ###### Article L152-1
 
-Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 125-1, L. 125-3 et L. 131-4, sont
-constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des
-collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de l'habitation
-suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à preuve du
-contraire.
+Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-1, L. 125-3 et L.
+131-4, sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de
+l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de
+l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à
+preuve du contraire.
 
 **Liens relatifs à cet article**
 
@@ -2254,7 +2691,7 @@ contraire.
 
 	**Modifié par**:
 
-	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
+	  - Loi n°99-471 du 8 juin 1999 - art. 7 () JORF 9 juin 1999
 
 	**Cité par**:
 
@@ -2272,6 +2709,7 @@ contraire.
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
+	  - Code de la construction et de l'habitation. - art. L112-17 (V)
 	  - Code de la construction et de l'habitation. - art. L125-1 (M)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
@@ -2361,9 +2799,9 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 ###### Article L152-4
 
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4, L.
-111-7, L. 111-8, L. 111-9, L. 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par les
-autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 300 000 F. En cas de récidive, la
-peine d'amende sera à 500 000 F et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
+111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par
+les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 300 000 F. En cas de récidive,
+la peine d'amende sera à 500 000 F et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
 ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la diffusion
 d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs
 journaux qu'il désigne.
@@ -2392,15 +2830,9 @@ En outre, un emprisonnement d'un mois pourra être prononcé.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 148 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-471 du 8 juin 1999 - art. 7 () JORF 9 juin 1999
 
 	**Cité par**:
 
@@ -2419,11 +2851,12 @@ En outre, un emprisonnement d'un mois pourra être prononcé.
 	  - Code pénal - art. 433-7 (M)
 	  - Code pénal - art. 433-8 (M)
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L125-1, L125-3, L131-4, L460-1
+	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L112-17, L125-1, L125-3, L131-4, L460-1
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
+	  - Code de la construction et de l'habitation. - art. L112-17 (V)
 	  - Code de la construction et de l'habitation. - art. L125-1 (M)
 	  - Code de la construction et de l'habitation. - art. L125-3 (V)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
