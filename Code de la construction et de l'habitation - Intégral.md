@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-02-07
+Version Consolidée au 1987-03-10
 
 # Partie législative
 
@@ -48143,6 +48143,44 @@ opérations d'urbanisme et leur activité de prestataires de services.
 	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
+###### Article R421-4-1
+
+Les hébergements mentionnés au 6° de l'article R. 421-4 ne peuvent être réalisés que pour le compte d'une collectivité
+locale, d'un des organismes d'économie sociale énumérés au deuxième alinéa de l'article 19 bis de la loi n° 47-1775 du 10
+septembre 1947 ou d'un comité d'entreprise. 
+
+Les organismes doivent bénéficier, pour un minimum de 30 p. 100 du prix de revient des réalisations, de fonds d'aide au
+tourisme sous la forme de subventions de l'Etat ou des collectivités locales, de prêts aidés par l'Etat ou de prêts à taux
+privilégié consentis par la Caisse nationale de crédit agricole, la Caisse des dépôts et consignations et par les organismes
+à caractère social énumérés à l'article 6 de l'ordonnance n° 82-283 du 26 mars 1982.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 19 bis (V)
+	  - Ordonnance n°82-283 du 26 mars 1982 - art. 6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°87-158 1987-03-09  art. 2 JORF 10 mars 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-5 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-51 (Ab)
+
+
 ##### Sous-section 2 : Offices publics d'aménagement et de construction créés directement.
 
 ###### Article R421-32
@@ -48179,15 +48217,24 @@ conditions fixées par les articles R. 331-32 à R. 331-62 et dès lors qu'ils y
 construction et de l'habitation, les offices publics d'aménagement et de construction peuvent prendre des participations dans
 les sociétés civiles lorsqu'elles sont constituées uniquement par des organismes d'habitations à loyer modéré.
 
+Ils peuvent réaliser des hébergements de loisirs à vocation sociale, dans les conditions définies à l'article L. 421-1 et
+précisées aux articles R. 421-4 et R. 421-4-1.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°87-158 du 9 mars 1987 - art. 3 () JORF 10 MARS 1987
+
 	**Cite**:
 
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R311-1, R311-2, R331-32 à R331-62
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R311-1, R311-2, R331-32 à R331-62, L421-1, R421-4, R421-4-1
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. R421-4-1 (V)
 
 	**Cité par**:
 
@@ -48752,6 +48799,75 @@ d'habitations à loyer modéré dont il est issu.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+
+###### Article R*421-4
+
+Les offices publics d'aménagement et de construction peuvent :
+
+1° Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1, ainsi que
+les opérations financées au moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat dans les cas
+prévus à l'article L. 351-2 et assurer la gestion des immeubles, acquis, construits ou aménagés aux mêmes fins, notamment en
+qualité de syndic.
+
+2° Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux collectivités locales, à d'autres organismes
+d'habitations à loyer modéré sous réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés d'économie
+mixte ou à des organismes à but non lucratif.
+
+3° Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention ou
+d'un traité de concession passé avec les collectivités locales, les établissements publics regroupant des communes ayant
+compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
+l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du
+présent code ;
+
+4° Réaliser directement ou à titre de prestataires de services, les opérations de restauration immobilière prévues aux
+articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
+
+5° Procéder, à titre de prestataires de services, et en vertu de conventions comportant des clauses types approuvées par
+arrêté du ministre chargé de la construction et de l'habitation, du ministre de la justice, du ministre chargé des finances
+et du ministre de l'intérieur, après avis du conseil supérieur des habitations à loyer modéré, aux études de tout programme
+de construction de logements neufs ou de remise en état et d'amélioration de logements anciens, à la préparation des appels à
+la concurrence et des marchés, au contrôle et à la surveillance de l'exécution des travaux, à la préparation des règlements
+aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux.
+
+6° Réaliser, dans les conditions définies à l'article L. 421-1, des hébergements de loisirs à vocation sociale tels que des
+villages de vacances, des maisons familiales de vacances, des terrains aménagés de camping et de caravanage à usage locatif,
+des habitations légères de loisirs définies par le décret n° 80-694 du 4 septembre 1980 et des hébergements gérés par des
+associations de jeunesse et d'éducation populaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°80-694 1980-09-04
+	  - Code de l'urbanisme - art. L313-3 (M)
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'urbanisme L321-1 AL. 1
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-158 du 9 mars 1987 - art. 1 ()
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
+	  - Code de la construction et de l'habitation. - art. R421-4-1 (Ab)
 
 
 ###### Article R*421-6
@@ -58621,64 +58737,6 @@ Réservé.
 #### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
-
-###### Article R*421-4
-
-Les offices publics d'aménagement et de construction peuvent :
-
-1. Réaliser, en vue de la location ou de l'accession à la propriété, les opérations prévues à l'article L. 411-1, ainsi que
-les opérations financées au moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat dans les cas
-prévus à l'article L. 351-2 et assurer la gestion des immeubles, acquis, construits ou aménagés aux mêmes fins, notamment en
-qualité de syndic.
-
-2. Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux collectivités locales, à d'autres organismes
-d'habitations à loyer modéré sous réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés d'économie
-mixte ou à des organismes à but non lucratif.
-
-3. Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention ou
-d'un traité de concession passé avec les collectivités locales, les établissements publics regroupant des communes ayant
-compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
-l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du
-présent code ;
-
-4. Réaliser directement ou à titre de prestataires de services, les opérations de restauration immobilière prévues aux
-articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
-
-5. Procéder, à titre de prestataires de services, et en vertu de conventions comportant des clauses types approuvées par
-arrêté du ministre chargé de la construction et de l'habitation, du ministre de la justice, du ministre chargé des finances
-et du ministre de l'intérieur, après avis du conseil supérieur des habitations à loyer modéré, aux études de tout programme
-de construction de logements neufs ou de remise en état et d'amélioration de logements anciens, à la préparation des appels à
-la concurrence et des marchés, au contrôle et à la surveillance de l'exécution des travaux, à la préparation des règlements
-aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions de travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-3 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L321-1 AL. 1
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
-	  - Code de la construction et de l'habitation. - art. L442-9 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
-	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
-	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
-	  - Code de la construction et de l'habitation. - art. R421-4-1 (Ab)
-
 
 ###### Article R*421-10
 
