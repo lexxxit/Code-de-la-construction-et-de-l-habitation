@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-09-15
+Version Consolidée au 1988-12-15
 
 # Partie législative
 
@@ -40031,6 +40031,54 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - SPEC_APPLI: Décret n°88-966 1988-10-13 art. 8
 
 
+###### Article R351-14
+
+Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
+demande [*délai , point de départ*] ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne
+bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit soit
+l'allocation d'insertion prévues par l'article L. 351-9 du code du travail, soit l'allocation de solidarité spécifique prévue
+par l'article L. 351-10 du code du travail, soit l'allocation de fin de droits prévue par le l'article L. 351-3 du code du
+travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient le
+changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation d'insertion de solidarité spécifique
+ou de fin de droits, des revenus d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé au cours de
+l'année civile de référence.    Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses
+ressources à partir du premier jour du mois civil au cours duquel intervient la reprise d'activité [*point de départ*].
+
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.    " Lorsque le
+bénéficiaire ou son conjoint perçoit l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative
+au revenu minimum d'insertion, il n'est pas tenu compte des revenus d'activité professionnelle ni des indemnités de chômage
+perçus par l'intéressé durant l'année civile de référence. Les droits sont examinés sur cette nouvelle base à compter du
+premier jour du mois civil suivant le premier mois d'ouverture du droit de l'allocation différentielle de revenu minimum et
+jusqu'au dernier jour du mois précédant celui au cours duquel l'allocation différentielle de revenu minimum cesse d'être due.
+"
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 22 août 1986 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Cite**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code du travail - art. R351-13 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-1118 1988-12-14 art. 2 JORF 15 décembre 1988
+
+
 ##### Sous-section 3 : Conditions particulières.
 
 ###### Article R351-11
@@ -46604,6 +46652,104 @@ application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement
 
+###### Article R351-5
+
+Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coéfficient de prise
+en charge, tels que définis à l'article R. 351-19, sont celles percues pendant l'année civile précédant la période prévue par
+l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer, sauf dans les cas
+mentionnés à l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les personnes y ayant résidé plus de
+six mois [*durée*] au cours de ladite année civile et qui y résident encore au moment de la demande ou au début de la période
+de paiement. 
+
+" Les ressources prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement de
+l'impôt sur le revenu d'après le barème et après application :
+
+" - de la déduction des frais de garde des enfants mentionnée à l'article 154 ter du code général des impôts, dans la limite
+d'un montant fixé par arrêté des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture ;
+
+" - de la déduction au titre des créances alimentaires mentionnée au 2° du II de l'article 156 du code général des impôts ;
+
+" - de l'abattement mentionné à l'article 157 bis du code général des impôts en faveur des personnes âgées ou invalides.
+
+" Est exclue du décompte des ressources l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988
+relative au revenu minimum d'insertion et servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes définies à
+l'alinéa 1er du présent article. "
+
+" Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports
+des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
+
+" Les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
+code général des impôts sont également exclus du décompte des ressources.
+
+" Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du réexamen
+du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au deuxième alinéa.
+Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des prix à la
+consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé au projet
+de loi finances. "
+
+Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 688 du code de la sécurité
+sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont : Soit ascendants du bénéficiaire ou
+de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ; Soit "grands
+infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants, descendants ou
+collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ; Soit enfants du bénéficiaire ou de son
+conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 156, 156-1, 157 bis, 199 septies
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 169 (M)
+	  - Code de la sécurité sociale L688
+	  - Code de la construction et de l'habitation R351-19, R351-7-2
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 11 bis (M)
+	  - Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
+	  - Arrêté du 14 août 1987 - art. 8 (Ab)
+	  - Décret n°97-289 du 28 mars 1997 - art. 21 (V)
+	  - Décret n°97-289 du 28 mars 1997 - art. 22 (V)
+	  - Décret n°2016-1385 du 12 octobre 2016 (V)
+	  - Décret n°2016-1385 du 12 octobre 2016 - art. 2
+	  - Code de l'action sociale et des familles - art. R117-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-10 (V)
+	  - Code de la construction et de l'habitation. - art. R351-11 (V)
+	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-17-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-19 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-8 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 bis (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
+	  - SPEC_APPLI: Décret n°88-516 du 3 mai 1988 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-1118 1988-12-14 art. 1 jorf 15 décembre 1988
+
+
 ###### Article R351-7
 
 Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en France ou, dans le cas contraire, n'a disposé de
@@ -47373,148 +47519,6 @@ la République sur proposition des organisations les plus représentatives au ni
 	  - Code de la construction et de l'habitation. - art. R362-10 (M)
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-### Titre V : Aide personnalisée au logement.
-
-#### Chapitre Ier : Dispositions générales.
-
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
-
-###### Article R351-5
-
-Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coéfficient de prise
-en charge, tels que définis à l'article R. 351-19, sont celles percues pendant l'année civile précédant la période prévue par
-l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer, sauf dans les cas
-mentionnés à l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les personnes y ayant résidé plus de
-six mois [*durée*] au cours de ladite année civile et qui y résident encore au moment de la demande ou au début de la période
-de paiement. 
-
-" Les ressources prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement de
-l'impôt sur le revenu d'après le barème et après application :
-
-" - de la déduction des frais de garde des enfants mentionnée à l'article 154 ter du code général des impôts, dans la limite
-d'un montant fixé par arrêté des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture ;
-
-" - de la déduction au titre des créances alimentaires mentionnée au 2° du II de l'article 156 du code général des impôts ;
-
-" - de l'abattement mentionné à l'article 157 bis du code général des impôts en faveur des personnes âgées ou invalides.
-
-" Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports
-des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
-
-" Les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
-code général des impôts sont également exclus du décompte des ressources.
-
-" Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du réexamen
-du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au deuxième alinéa.
-Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des prix à la
-consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé au projet
-de loi finances. "
-
-Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 688 du code de la sécurité
-sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont : Soit ascendants du bénéficiaire ou
-de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ; Soit "grands
-infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants, descendants ou
-collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ; Soit enfants du bénéficiaire ou de son
-conjoint.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
-	  - Arrêté du 3 juillet 1978 - art. 11 bis (M)
-	  - Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
-	  - Arrêté du 14 août 1987 - art. 8 (Ab)
-	  - Décret n°97-289 du 28 mars 1997 - art. 21 (V)
-	  - Décret n°97-289 du 28 mars 1997 - art. 22 (V)
-	  - Décret n°2016-1385 du 12 octobre 2016 (V)
-	  - Décret n°2016-1385 du 12 octobre 2016 - art. 2
-	  - Code de l'action sociale et des familles - art. R117-8 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-10 (V)
-	  - Code de la construction et de l'habitation. - art. R351-11 (V)
-	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-17-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-19 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-	  - Code de la construction et de l'habitation. - art. R351-6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-61 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-8 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 bis (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
-	  - SPEC_APPLI: Décret n°88-516 du 3 mai 1988 - art. 3 (V)
-
-	**Cite**:
-
-	  - CGI 156, 156-1, 157 bis, 199 septies
-	  - Code de la famille et de l'aide sociale. - art. 169 (M)
-	  - Code de la sécurité sociale L688
-	  - Code de la construction et de l'habitation R351-19, R351-7-2
-
-	**Modifié par**:
-
-	  - Décret n°88-516 du 3 mai 1988 - art. 1 () JORF 6 mai 1988 en vigueur le 1er juillet 1988
-
-
-##### Sous-section 3 : Conditions particulières.
-
-###### Article R351-14
-
-Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
-demande [*délai , point de départ*] ou pendant au moins deux mois consécutifs au cours de la période de paiement, ne
-bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions fixées à l'article R. 351-13 ou perçoit soit
-l'allocation d'insertion prévues par l'article L. 351-9 du code du travail, soit l'allocation de solidarité spécifique prévue
-par l'article L. 351-10 du code du travail, soit l'allocation de fin de droits prévue par le l'article L. 351-3 du code du
-travail, il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui au cours duquel survient le
-changement de situation, la cessation de l'indemnisation ou l'admission à l'allocation d'insertion de solidarité spécifique
-ou de fin de droits, des revenus d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé au cours de
-l'année civile de référence.    Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu compte de ses
-ressources à partir du premier jour du mois civil au cours duquel intervient la reprise d'activité [*point de départ*].
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 22 août 1986 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 3 JORF 3 septembre 1985
-
-	**Cite**:
-
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code du travail - art. R351-13 (M)
 
 
 ### Titre VI : Organismes consultatifs.
