@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-06-09
+Version Consolidée au 1979-06-26
 
 # Partie législative
 
@@ -34133,26 +34133,21 @@ exercé par le ministre chargé de la construction et de l'habitation et le mini
 
 #### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.
 
-##### Sous-section 1 :  Conditions d'octroi des prêts.
-
 ###### Article R331-32
 
-Dans les limites et conditions fixées par la présente section des prêts aidés par l'Etat, destinés à l'accession à la
-propriété, peuvent être accordés pour financer :
+Dans les limites et conditions fixées par la présente section, des prêts aidés par l'Etat, destinés à l'accession à la
+propriété, peuvent être accordés pour financer [*champ d'application*] :
 
 - l'acquisition des droits de construire ou de terrains destinés à la construction de logements, la construction de ces
-logements et leur acquisition ;
+logements et leur acquisition ; sont assimilés à la construction de logements l'agrandissement de logements existants, par
+extension ou surélévation, et l'aménagement à usage de logement de locaux non destinés à l'habitation ;
 
 - l'acquisition de logements en vue de leur amélioration et les travaux d'amélioration correspondants ;
 
 - la réalisation des dépendances de ces logements, et notamment les garages, jardins, locaux collectifs à usage commun,
-annexes, dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation.
+annexes, dans les limites fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-934 1977-07-27 art. 1
 
 	**Cité par**:
 
@@ -34187,8 +34182,10 @@ annexes, dans des limites fixées par arrêté du ministre chargé de la constru
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+
+##### Sous-section 1 :  Conditions d'octroi des prêts.
 
 ###### Article R331-33
 
@@ -41325,347 +41322,6 @@ personnalisée*].
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
-
-##### Section 1 : Conventions passées entre l'Etat et les organismes d'habitations à loyer modéré.
-
-###### Article R353-4
-
-Les conventions qui ont une durée d'au moins neuf ans prennent effet [*entrée en vigueur*] à leur date de publication au
-fichier immobilier ou d'inscription au livre foncier.
-
-Les conventions sont renouvelées par tacite reconduction pour des périodes triennales, sous réserve de dénonciation par l'une
-ou l'autre partie. Selon le cas, la dénonciation est notifiée par acte administratif notarié ou extrajudiciaire [*condition
-de forme*], au moins six mois [*délai*] avant la date d'expiration de la période.
-
-La durée de la première convention ne peut être inférieure à la durée la plus longue restant à courir pour l'amortissement
-intégral des prêts du ou des programmes concernés ; en tout état de cause, elle doit être d'au moins neuf ans.
-
-A l'expiration de la durée de la convention ou après sa dénonciation dans les conditions fixées à l'alinéa 2 une nouvelle
-convention peut être conclue dans les conditions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-6
-
-Cette contribution [*financière au fonds national de l'habitation*] est assise sur l'ensemble des loyers des logements
-conventionnés, à l'exception des logements financés en application du décret n° 63-1324 du 24 décembre 1963, des immeubles à
-loyer moyen financés en application du décret n° 68-812 du 13 septembre 1968 et des articles R. 311-1 et R. 311-5 à R.
-311-65, des immeubles à loyer normal financés en application de l'arrêté du 24 mai 1961, et des logements mentionnés à
-l'article R. 353-2 (2e, a et c).
-
-Son montant est déterminé annuellement, par application à la masse des loyers des logements conventionnés, d'un taux de base
-de la contribution, compte tenu de déductions liées aux charges de l'exercice résultant de la mise en oeuvre d'un programme
-de travaux et selon la formule suivante :
-
-P = Lt - D,
-
-dans laquelle :
-
-P est le montant de la contribution des organismes d'habitations à loyer modéré au fonds national de l'habitation ;
-
-L représente la masse des loyers constituant l'assiette de la contribution ;
-
-D représente le montant des déductions liées aux charges de l'organisme résultant de la réalisation d'un programme de
-travaux.
-
-T représente le taux de base de la contribution.
-
-Dans tous les cas où le montant des déductions D est supérieur ou égal au produit de la masse des loyers L par le taux de la
-contribution t, celle-ci aura une valeur nulle.
-
-Les modalités de détermination de chacun des paramètres L et D ainsi que la valeur du taux de base t sont fixées par arrêté
-conjoint des ministres chargés des finances et de la construction et de l'habitation.
-
-A titre dérogatoire des organismes pourront être autorisés à utiliser un taux de base t d'une valeur inférieure.
-
-La contribution due par un organisme au titre d'un exercice donné déterminée par application de la formule ci-dessus est
-calculée sur la base des résultats constatés dans la comptabilité de l'organisme pour l'exercice considéré. Les données
-propres à l'organisme et nécessaires au calcul sont communiquées par l'organisme au ministre chargé de la construction et de
-l'habitation ou à ses représentants, avant le 30 juin [*date limite*] de l'exercice suivant l'exercice de référence. Le
-président du fonds national de l'habitation notifie à l'organisme le montant de la contribution due au titre de l'exercice de
-référence au plus tard le 30 septembre de l'exercice suivant l'exercice de référence.
-
-La contribution annuelle due par un organisme au titre de chaque exercice est réglée au cours de l'exercice suivant par
-acomptes trimestriels dont le montant est égal au quart du montant de la contribution annuelle réglée au cours de l'exercice
-précédent.
-
-La régularisation intervient au plus tard au 31 décembre de l'exercice suivant.
-
-Les acomptes trimestriels peuvent donner lieu à une réduction de leur montant dans le cas où la contribution due pour un
-exercice donné pourrait être inférieure au montant dû pour l'exercice antérieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1961-05-24
-	  - Décret n°63-1324 1963-12-24
-	  - Code de la construction et de l'habitation R311-1, R311-5 à R311-65, R353-2
-	  - Code de la construction et de l'habitation. - art. R353-2 (M)
-	  - Décret n°68-812 1968-09-13
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-8 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-
-###### Article R353-7
-
-Les réservations obligatoires prévues par le livre IV, titre IV, chapitre Ier, section I, du présent code (2e partie) et
-notamment celles prévues à l'article R. 441-19, s'appliquent aux logements conventionnés [*fonctionnaires*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-10 (M)
-	  - Code de la construction et de l'habitation. - art. R353-8 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 7
-
-
-###### Article R353-10
-
-Dans la région d'Ile-de-France, les conventions fixent la part des logements soumis à réservation en application de l'article
-R. 441-20 destinés à des personnes ou à des familles prioritaires de Paris et mis à la disposition du préfet de la région
-d'Ile-de-France, préfet de Paris, lorsqu'ils sont implantés dans l'un des départements suivants : Essonne, Hauts-de-Seine,
-Paris, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise et Yvelines. Elles fixent également la part de ces logements réservés aux
-mal-logés de ces départements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-12
-
-Un pourcentage de l'ensemble des logements conventionnés doit être occupé par les personnes ou les familles dont les
-ressources sont inférieures à un montant déterminé par arrêté préfectoral. Ce pourcentage est fixé par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. R173-17-1 (V)
-
-
-###### Article R353-15
-
-Les logements conventionnés sont loués nus à titre de résidence principale ; ils ne peuvent faire l'objet de sous-location.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-16
-
-Les conventions fixent les conditions d'occupation des logements, conformément à celles prévues par l'article R. 441-3.
-
-Au fur et à mesure des vacances, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le
-plafond déterminé dans les conditions prévues par le titre III, chapitre unique, section I, du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1232 du 5 novembre 1985 - art. 2 (V)
-	  - Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (M)
-	  - Arrêté du 9 mai 1995 - art. 1 (V)
-	  - Décret n°96-656 du 22 juillet 1996 - art. Annexe (V)
-	  - Arrêté du 6 mars 2001 - art. 2 (Ab)
-	  - Décret n°2014-300 du 6 mars 2014 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*445-9 (V)
-	  - Code de la construction et de l'habitation. - art. R321-27 (V)
-	  - Code de la construction et de l'habitation. - art. R353-134 (V)
-	  - Code de la construction et de l'habitation. - art. R353-17 (M)
-	  - Code de la construction et de l'habitation. - art. R353-208 (V)
-	  - Code de la construction et de l'habitation. - art. R353-40 (V)
-	  - Code de la construction et de l'habitation. - art. R353-70 (V)
-	  - Code de la construction et de l'habitation. - art. R353-72 (M)
-	  - Code de la construction et de l'habitation. - art. R353-99 (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 16
-
-
-###### Article R353-17
-
-Au moins quinze jours avant la date de signature du bail, en cas de vacance du logement, l'organisme bailleur adresse au
-candidat locataire une lettre portant réservation du logement pendant un délai minimum de quinze jours. Dans le cas où le
-logement est disponible à plus brève échéance, ce délai peut être ramené à huit jours francs.
-
-L'organisme bailleur est tenu [*obligation*] de proposer un bail conforme à la convention auquel sont annexés une copie de
-ladite convention, ainsi que les éléments du barème de l'aide personnalisée au logement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-18
-
-Le bail est conclu pour une durée de trois ans. Toutefois, s'il est conclu au cours de la première période triennale de la
-convention, sa durée est limitée à la durée restant à courir jusqu'à l'expiration de ladite période.
-
-Pendant la durée de la convention en cours au moment de la conclusion du bail et sous réserve des dispositions de l'article
-R. 353-20 [*révision des loyers*], il est reconduit tacitement, à la volonté du locataire seul, pour des périodes également
-de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le
-bail.
-
-Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment, sous réserve d'un préavis de trois
-mois ramené à un mois en cas de changement de résidence pour raisons professionnelles ou familiales.
-
-Le congé est donné par lettre recommandée [*condition de forme*], le préavis partant de la date d'envoi et le cachet de la
-poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le bail produit effet jusqu'au
-dernier jour du mois.
-
-En cas de vacance intervenant au cours d'une période triennale, le nouveau locataire est substitué de plein droit à l'ancien
-locataire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 1728 (V)
-	  - Code de la construction et de l'habitation. - art. R353-20 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-19
-
-La valeur maximale du loyer annuel au mètre carré de surface corrigée, telle que résultant des dispositions de l'article R.
-442-1, ainsi que les conditions de son évolution, sont fixées dans les conventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
-
-
-###### Article R353-22
-
-Le montant du cautionnement qui peut être demandé au locataire lors de l'entrée dans les lieux est au plus égal à un mois de
-loyer en principal, révisable en fonction de l'évolution de ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R353-25
-
-Pour les logements mentionnés à l'article R. 353-2 (2., b) dont la construction a été financée dans les conditions prévues
-aux livre III, titre Ier, et livre IV du présent code, et dans le cas où ces logements font l'objet de travaux justifiés par
-des considérations de sécurité, de salubrité, ou de mise aux normes minimales d'habitabilité, complétés ou non par des
-travaux d'amélioration de la qualité, l'organisme bailleur présente aux locataires concernés un projet de bail conforme aux
-dispositions prévues à l'article R. 353-24, alinéa Ier, et entrant en vigueur après l'achèvement des travaux.
-
-Ce projet de bail [*contenu*] reproduit en caractères très apparents le texte intégral de l'article L. 353-8 et fait l'objet
-d'une notification aux intéressés dans les conditions fixées par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31  janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-8 (V)
-	  - Code de la construction et de l'habitation. - art. R353-2 (M)
-	  - Code de la construction et de l'habitation. - art. R353-24 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°77-948 1977-07-28 art. 25
-
 
 ##### Section 2 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré ou, en application de l'article L. 353-18, les sociétés d'économie mixte et leurs filiales.
 
