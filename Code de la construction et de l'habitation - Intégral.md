@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-04-15
+Version Consolidée au 1988-04-21
 
 # Partie législative
 
@@ -21255,6 +21255,30 @@ soit besoin de pénétrer dans les locaux privatifs [*détermination quantité d
 	  - Code de la construction et de l'habitation R131-3
 
 
+###### Article R*131-5
+
+En ce qui concerne les immeubles collectifs autres que ceux qui sont mentionnés à l'article R. 131-4, la date limite pour la
+mise en service des appareils prévus à l'article R. 131-3  est le 31 décembre 1990.
+
+Toutefois ledit article  n'est applicable ni aux immeubles où il est techniquement impossible de poser les appareils de
+mesure, ni aux immeubles dans lesquels la charge financière annuelle de ces appareils, comprenant l'amortissement sur dix
+années et les frais de fonctionnement, serait supérieure au dixième des frais annuels de combustible ou d'énergie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-380 1988-04-20 art. 1 JORF 21 avril 1988
+
+	**Cite**:
+
+	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R131-4, R131-3
+
+
 ###### Article R*131-6
 
 Les dispositions de la présente section ne sont pas applicables aux établissements d'hôtellerie, aux logements-foyers, aux
@@ -21725,30 +21749,6 @@ chauffage sont, en dehors des périodes d'inoccupation définies à l'article R.
 
 	  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
-
-
-#### Chapitre Ier : Chauffage des immeubles.
-
-##### Section 2 : Equipement et répartition des frais dans les immeubles collectifs.
-
-###### Article R*131-5
-
-En ce qui concerne les immeubles collectifs autres que ceux qui sont mentionnés à l'article R. 131-4, la date limite pour la
-mise en service des appareils prévus à l'article R. 131-3 est le 31 décembre 1985.
-
-Toutefois ledit article  n'est applicable ni aux immeubles où il est techniquement impossible de poser les appareils de
-mesure, ni aux immeubles dans lesquels la charge financière annuelle de ces appareils, comprenant l'amortissement sur dix
-années et les frais de fonctionnement, serait supérieure au dixième des frais annuels de combustible ou d'énergie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R131-4, R131-3
 
 
 #### Chapitre II : Ravalement des immeubles.
