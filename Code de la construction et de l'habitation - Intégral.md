@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-05-22
+Version Consolidée au 1997-05-29
 
 # Partie législative
 
@@ -21619,11 +21619,11 @@ prévu lors de l'établissement du programme de construction pour les quatre pre
 mètres cubes au moins par habitant supplémentaire au-delà du quatrième.
 
 La surface habitable d'un logement est la surface de plancher construite, après déduction des surfaces occupées par les murs,
-cloisons, marches et cages d'escaliers, gaines, ébrasements de portes et de fenêtres ; le volume habitable correspond au
-total des surfaces habitables ainsi définies multipliées par les hauteurs sous plafond.
+cloisons, marches et cages d'escaliers, gaines, embrasures de portes et de fenêtres ; le volume habitable correspond au total
+des surfaces habitables ainsi définies multipliées par les hauteurs sous plafond.
 
 Il n'est pas tenu compte de la superficie des combles non aménagés, caves, sous-sols, remises, garages, terrasses, loggias,
-balcons, séchoirs extérieurs au logement, vérandas, volumes vitrés prévus à l'article R. 111-10, locaux  communs et autres
+balcons, séchoirs extérieurs au logement, vérandas, volumes vitrés prévus à l'article R*. 111-10, locaux communs et autres
 dépendances des logements, ni des parties de locaux d'une hauteur inférieure à 1,80 mètre.
 
 **Liens relatifs à cet article**
@@ -21634,7 +21634,7 @@ dépendances des logements, ni des parties de locaux d'une hauteur inférieure �
 
 	**Modifié par**:
 
-	  - Décret n°84-68 1984-01-25 art. 1 JORF 31 janvier 1984
+	  - Décret n°97-532 du 23 mai 1997 - art. 2 () JORF 29 mai 1997
 
 	**Cité par**:
 
@@ -21657,6 +21657,10 @@ dépendances des logements, ni des parties de locaux d'une hauteur inférieure �
 	  - Code du travail - art. R4228-27 (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-10
 
 
 ###### Article R*111-3
@@ -54387,23 +54391,27 @@ paiement de l'aide personnalisée au logement.
 	  - Décret n°99-865 du 7 octobre 1999 - art. 2 (V) JORF 8 octobre 1999
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
+##### Section 4 : Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte, bénéficiant soit d'un concours financier de l'Etat, soit d'une décision favorable dans les conditions prévues par la section première du chapitre unique du titre III du livre III du présent code, en application de l'article L. 351-2 (2° et 3°).
 
 ###### Article R353-89
 
-Les conventions conclues en application des dispositions de l'article L. 351-2 (2° et 3°) entre l'Etat et les personnes
-morales ou physiques bénéficiaires d'aides de l'Etat autres que les organismes d'habitations à loyer modéré et les sociétés
-d'économie mixte doivent être conformes à l'annexe de l'article R.353-90.
+Les conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés
+d'économie mixte en application des dispositions de l'article L. 351-2 (2° et 3°) doivent être conformes à l'une des
+conventions types annexées à l'article R. 353-90.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°80-415 1980-06-10 ART. 2 JORF 13 JUIN 1980
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 	**Cite**:
 
@@ -54416,41 +54424,50 @@ d'économie mixte doivent être conformes à l'annexe de l'article R.353-90.
 
 ###### Article R353-90
 
-La convention ci-annexée s'applique aux logements à usage locatif appartenant à, ou gérés par les personnes mentionnées à
-l'article R. 353-89 lorsque ces logements répondent à l'une des conditions de financement fixées ci-dessous :
+La convention type jointe en annexe I au présent article s'applique aux logements à usage locatif bénéficiant d'une décision
+favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 et mentionnés au 2 et au 3 du I de l'article
+278 sexies du code général des impôts, à l'exception des logements mentionnés au dernier alinéa de l'article R. 331-1.
 
-1. Logements financés dans les conditions prévues par le chapitre I du titre I du présent livre, par le titre II de la loi du
-13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ; 
+La convention type jointe en annexe II au présent article s'applique aux logements à usage locatif répondant à l'une des
+conditions suivantes :
 
-2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31 :
+1° Logements financés dans les conditions prévues par le chapitre Ier du titre Ier du présent livre, par le titre II de la
+loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
 
-a) Soit pour leur construction ; 
+2° Logements définis au dernier alinéa de l'article R. 331-1 et construits, améliorés, acquis et améliorés par les maîtres
+d'ouvrage mentionnés au 3° de l'article R. 331-14 ;
 
-b) Soit pour leur acquisition et amélioration ; 
+3° Logements ayant bénéficié d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 et
+faisant l'objet de prêts accordés par le Crédit foncier de France mentionnés aux articles R. 331-17 à R. 331-23 pour leur
+amélioration, leur acquisition ou leur acquisition-amélioration ;
 
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
-leurs groupements. 
-
-Lorsque le bailleur contribue au financement de l'opération par un apport en capital minimum et qu'il s'engage à en assurer
-lui-même la gestion ou à la confier dans les conditions définies par arrêté pris en application de l'article R. 331-8 (3.) ; 
-
-3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
+4° Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 278 sexies
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation L351-2, R331-3, R331-6, R331-1, R331-14, R331-17 à R331-23, R323-1 à R323-11
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-14 (M)
+	  - Code de la construction et de l'habitation. - art. R331-3 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+	  - Loi n°1928-07-13
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°80-415 1980-06-10 ART. 3 JORF 13 JUIN 1980
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme 269
-	  - Code de la construction et de l'habitation R353-89, R331-1 à R331-31
-	  - Loi n°1928-07-13
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 	**Cité par**:
 
@@ -54463,130 +54480,283 @@ lui-même la gestion ou à la confier dans les conditions définies par arrêté
 	  - Code de la construction et de l'habitation. - art. R353-96 (M)
 
 
-###### Article R353-94
+###### Article R353-91
 
-La contribution [*financière au fonds national de l'habitation*] totale due chaque année est égale à la somme des
-contributions dues au titre de chacun des programmes de logement faisant l'objet d'une convention telles que définies au I
-ci-dessous et affectée, le cas échéant, d'une déduction dans les conditions définies au II ci-dessous.
+La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
+remplissent les conditions d'octroi de cette aide.
 
-I - Pour chacun des programmes de logements faisant l'objet d'une convention dans les conditions prévues à l'article R.
-353-90, la contribution est assise sur les loyers des logements conventionnés ayant bénéficié d'aides de l'Etat, prévues par
-la règlementation antérieure au 4 janvier 1977, à l'exception des logements financés en application du titre II de la loi du
-13 juillet 1928, des décrets n. 63-1324 du 24 décembre 1963, des immeubles à loyer moyen financés en application du décret n.
+**Liens relatifs à cet article**
 
-68-812 du 13 septembre 1968 et de l'article R. 311-1 (1er alinéa)
+	**Codifié par**:
 
-et des logements mentionnés à l'article R. 353-90 (2.). 
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-Cette contribution est calculée annuellement pour chacun de ces programmes de logements selon la formule suivante :
+	**Modifié par**:
 
-p = L X t    dans laquelle    p représente le montant de la contribution due au titre d'une année civile ; 
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
-L représente la masse annuelle des loyers des logements mentionnés au premier alinéa ci-dessus et due au cours de la même
-année civile ; 
+	**Liens**:
 
-t représente le taux de la contribution. 
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
-Cette contribution est due pour la première fois à compter de l'année civile qui suit la date d'entrée en vigueur du loyer
-résultant de la convention ou la date d'achèvement des travaux d'amélioration faisant l'objet d'une attestation d'exécution
-conforme établie par le préfet.
+	**Cite**:
 
-II - Lorsque le bailleur procède à la réalisation du programmes de travaux financés par les articles R. 323-1 à R. 323-11
-réalisés sur des logements dont les loyers constituent l'assiette de la contribution, une déduction est opérée sur la somme
-des contributions annuelles dues pour chacun des programmes de logements faisant l'objet d'une convention et calculées dans
-les conditions du I ci-dessus. 
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
-Lorsque ce calcul donne un résultat négatif, la contribution totale est nulle et le solde négatif n'est pas reportable sur
-les exercices ultérieurs.
 
-III - Les modalités de détermination des paramètres L et t ainsi que la déduction pour travaux sont fixées par arrêté
-conjoint des ministres chargés des finances et de la construction et de l'habitation.
+###### Article R353-92
 
-IV - La contribution totale, due par un bailleur au titre d'un exercice donné, déterminée en application des I, II et III ci-
-dessus est calculée sur la base des résultats constatés dans la comptabilité du bailleur. Les éléments nécessaires au calcul
-sont communiqués par le bailleur au ministre chargé de la construction et de l'habitation ou à ses représentants avant le 1er
-mai de l'exercice suivant l'exercice au titre duquel elle est due. Le président du fonds national de l'habitation notifie au
-bailleur le montant de la contribution totale due au titre d'un exercice au plus tard le 1er août de l'exercice suivant. 
+Les conventions, qui ont une durée d'au moins neuf ans, prennent effet à leur date de publication au fichier immobilier ou
+d'inscription au livre foncier.
 
-La contribution totale annuelle due par le bailleur au titre d'un exercice est réglée au cours de l'exercice suivant :
+La durée de la convention initiale ne peut être inférieure à la durée la plus longue restant à courir pour l'amortissement
+intégral des prêts du ou des programmes concernés.
 
-a) Au plus tard le 15 février et le 15 mai sous forme de deux acomptes dont le montant est égal au tiers du montant de la
-contribution totale annuelle réglée au cours de l'exercice précédent ; 
+Toutefois, les conventions portant sur les logements mentionnés au premier alinéa de l'article R. 353-90 sont d'une durée
+minimale de vingt-quatre ans.
 
-b) Au plus tard le 1er octobre sous forme de régularisation.
+La convention est renouvelée par tacite reconduction par périodes triennales prenant effet à compter de sa date d'expiration,
+sauf résiliation expresse notifiée six mois avant cette date. La résiliation à l'initiative du bailleur est notifiée à l'Etat
+par acte d'huissier de justice, la décision de résiliation de l'Etat est prise par arrêté préfectoral.
+
+Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer l'opération ainsi que le reversement d'un complément
+d'impôt en application de l'article 284 (2° et 3°) du code général des impôts sont sans effet sur la durée de la convention.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°63-1324 1963-12-24
-	  - Décret n°68-812 1968-09-13
-	  - Code de la construction et de l'habitation L351-2, R353-90, R311-1, R323-1 à R323-11
+	  - CGI 284
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R353-90 (M)
-	  - Loi n°1928-07-13
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-415 1980-06-10 ART. 4 JORF 13 juin 1980
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+
+###### Article R353-93
+
+Lors de leur mise en service et au fur et à mesure de leur vacance, les logements sont loués à des personnes dont les
+ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-12 (Ab)
+
+
+###### Article R353-94
+
+Le bailleur ou les personnes morales locataires visées à l'article L.  353-20 sont tenus de proposer respectivement un
+contrat de location ou de sous-location conforme à la convention aux futurs occupants ; une copie de la convention et un
+formulaire de demande d'aide personnalisée au logement sont annexés au contrat de bail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-20 (M)
+
+
+###### Article R353-95
+
+Le contrat de location est conclu pour une durée de trois ans.
+
+Pendant la durée de la convention, le contrat de location est reconduit tacitement, pour des périodes de trois ans, si le
+locataire s'est conformé aux obligations de l'article 7 de la loi n° 89-462 du 6 juillet 1989, sauf dénonciation expresse du
+locataire dans les conditions de l'article 15-I, 2e et 3e alinéas, de la loi du 6 juillet 1989 précitée.
+
+Six mois avant la date d'expiration de la convention, le bailleur peut proposer au locataire un contrat de location, prenant
+effet à la date d'expiration de la convention ou à la date d'expiration du bail si cette dernière intervient ultérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 7 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-100 (V)
+	  - Code de la construction et de l'habitation. - art. R353-97 (M)
 
 
 ###### Article R353-96
 
-Les logements conventionnés sont loués nus à des personnes physiques, à titre de résidence principale et occupés au moins
-huit mois [*durée*] par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le
-locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers
-à leur domicile, à titre onéreux, de personnes agées ou handicapées et doivent répondre aux conditions d'occupation
-suffisante telles que définies par l'article L. 621-2.
+En application des dispositions de l'article L. 353-7 à la date d'entrée en vigueur de la convention, le bailleur propose au
+locataire ou occupant de bonne foi dans les lieux un projet de bail auquel sont annexés une copie de ladite convention ainsi
+que des éléments du barème de l'aide personnalisée au logement.
+
+Le locataire dispose d'un délai de six mois pour accepter ce projet de bail qui reproduit en caractères très apparents le
+texte intégral de l'article L. 353-7 précité et qui fait l'objet d'une notification aux intéressés dans les conditions fixées
+par les conventions. S'il refuse, et sous réserve des dispositions de la loi n° 67-561 du 12 juillet 1967, il n'est rien
+changé aux stipulations du bail en cours. Dans ce cas, le locataire n'a pas droit à l'aide personnalisée au logement et le
+propriétaire peut demander une révision de ses engagements conventionnels ou le report de leurs effets jusqu'à l'expiration
+du bail.
+
+Pour les logements mentionnés à l'article R. 353-90 (1°), le bail prend effet à compter de la date d'acceptation par le
+locataire.
+
+Pour les autres logements faisant l'objet de travaux d'amélioration, le bail prend effet à la date d'achèvement des travaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-561 1967-07-12
+	  - Code de la construction et de l'habitation L351-2, L353-7, annexe, R353-90
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-7 (M)
+	  - Code de la construction et de l'habitation. - art. R353-90 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+
+###### Article R353-97
+
+Pour les logements mentionnés au dernier alinéa de l'article R. 353-95 dont la construction a été financée dans les
+conditions prévues par le titre Ier du présent livre et par l'article 269 du code de l'urbanisme et de l'habitation dans le
+cas où ces logements font l'objet de travaux justifiés par des considérations de sécurité, de salubrité ou de mise aux normes
+minimales d'habitabilité, complétés ou non par des travaux d'amélioration de la qualité, le bailleur présente aux locataires
+concernés un projet de bail conforme aux dispositions prévues à l'alinéa dudit article et entrant en vigueur après
+l'achèvement des travaux.
+
+Ce projet de bail reproduit en caractères très apparents le texte intégral de l'article L. 353-8 et fait l'objet d'une
+notification aux intéressés dans les conditions fixées par les conventions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°89-475 1989-07-10 art. 6
-	  - Code de la construction et de l'habitation. - art. L621-2 (V)
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-8 (V)
+	  - Code de la construction et de l'habitation. - art. R353-95 (M)
+
+
+###### Article R353-98
+
+Pour l'exécution des travaux ne nécessitant pas le départ des occupants, le bailleur se conforme, selon le cas, aux
+dispositions de l'article 14 modifié de la loi n° 48-1360 du 1er septembre 1948 ou de l'article 2 modifié de la loi n° 67-561
+du 12 juillet 1967.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 14 (V)
+	  - Loi n°67-561 du 12 juillet 1967 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 
 ###### Article R353-99
 
-Le loyer maximum applicable aux logements conventionnés, résultant de l'application des 1° et 2° de l'article R. 353-16,
-ainsi que les conditions de son évolution sont fixés par la convention.
-
-Le loyer maximum des logements pour lesquels une convention a été signée avant le 1er juillet 1996, est fixé au mètre carré
-de surface corrigée, telle qu'elle résulte des dispositions de l'article R. 442-1 et du décret n° 48-1766 du 22 novembre 1948
-modifié, notamment par le décret n° 60-1063 du 1er octobre 1960. Par dérogation à l'alinéa précédent, la signature, à partir
-du 1er juillet 1996, d'une nouvelle convention ou d'un avenant portant sur ces logements n'entraîne pas de modification des
-modalités de fixation de leur loyer.
+Lorsque les travaux rendent inhabitable ce qui est nécessaire au logement de l'occupant et de sa famille et nécessitent
+l'évacuation temporaire des lieux, le bailleur met provisoirement à la disposition des occupants concernés des logements
+répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°48-1766 1948-11-22
-	  - Décret n°60-1063 1960-10-01
+	  - Loi n°48-1360 1948-09-01 art. 13 bis
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R353-16 (M)
-	  - Code de la construction et de l'habitation. - art. R442-1 (V)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 9 () JORF 25 juillet 1996
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 	**Cité par**:
 
@@ -54595,225 +54765,44 @@ modalités de fixation de leur loyer.
 
 ###### Article R353-100
 
-Les loyers pratiqués, dont la valeur est fixée au mètre carré de surface corrigée ou de surface utile calculée selon les
-mêmes modalités que les loyers maximum définis à l'article R. 353-99 , peuvent être révisés au cours de la période triennale,
-le 1er juillet de chaque année, en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la
-construction, publié par l'Institut national de la statistique et des études économiques, dans la limite du loyer maximum tel
-que défini à l'article précité selon les modalités fixées par les conventions.
-
-A l'expiration de chaque période triennale, les loyers peuvent faire l'objet d'un réajustement dans la limite du loyer
-maximum.
-
-Toutefois, au cours de la première période triennale, le contrat de location peut fixer le montant du loyer applicable chaque
-1er juillet de ladite période ; ce montant peut être révisé en fonction des variations de la moyenne sur quatre trimestres de
-l'indice du coût de la construction selon des modalités fixées par les conventions.
-
-Pour l'application du présent article, la moyenne est celle de l'indice du coût de la construction à la date de référence
-fixée dans la convention et des indices des trois trimestres qui la précèdent.
-
-II. - L'article 4 de la convention type annexée à l'article R. 353-90 du même code est ainsi rédigé :
+Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948, le projet de bail mentionné à l'article R. 353-95 doit
+en outre reproduire, en caractères très apparents, le texte intégral de l'article L. 353-9.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+	  - Code de la construction et de l'habitation. - art. R353-95 (M)
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 9 () JORF 25 juillet 1996
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R353-99 (M)
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R353-98 (M)
-
-
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).
-
-###### Article R353-91
-
-La signature des conventions conditionne l'ouverture du droit à l'aide personnalisée au logement pour les locataires qui
-remplissent les conditions d'octroi de cette aide.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-
-###### Article R353-92
-
-Les conventions qui ont une durée d'au moins neuf ans prennent effet [*entrée en vigueur*] à leur date de publication au
-fichier immobilier ou d'inscription au livre foncier.
-
-Les conventions sont renouvelées par tacite reconduction pour des périodes triennales, sous réserve de dénonciation expresse
-par l'une ou l'autre partie. Selon le cas, la dénonciation est notifiée par acte administratif, notarié ou extrajudiciaire
-[*condition de forme*], au moins six mois avant la date d'expiration de la période.
-
-La durée de la première convention ne peut être inférieure à la durée la plus longue restant à courir pour l'amortissement
-intégral des prêts du ou des programmes concernés ; en tout état de cause, elle doit être d'au moins neuf ans.
-
-A l'expiration de la durée de la convention ou après sa dénonciation dans les conditions fixées à l'alinéa 2 une nouvelle
-Convention peut être conclue dans les conditions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-
-###### Article R353-93
-
-Les bailleurs signataires des conventions régies par la présente section apportent au fonds national de l'habitation la
-contribution financière prévue à l'article L. 351-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-7 (M)
-
-
-###### Article R353-95
-
-Les bailleurs sont tenus [*obligation*] d'établir et de tenir, pour chacun des immeubles de leur patrimoine conventionné, un
-carnet d'entretien où sont consignés tous renseignements sur les interventions d'entretien, de réparation ou d'amélioration
-faites ou à faire par eux sur l'immeuble.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-100 (V)
-	  - Code de la construction et de l'habitation. - art. R353-97 (M)
-
-
-###### Article R353-97
-
-Au moins quinze jours avant la date de signature du bail, en cas de vacance du logement, le bailleur adresse au candidat
-locataire une lettre portant réservation du logement pendant un délai minimum de quinze jours. Dans le cas où le logement est
-disponible à plus brève échéance, ce délai peut être ramené à huit jours francs. 
-
-Le bailleur est tenu [*obligation*] de proposer un bail [*contenu*] conforme à la convention, auquel sont annexés une copie
-de ladite convention ainsi que les éléments du barème de l'aide personnalisée au logement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-
-###### Article R353-98
-
-Le bail est conclu pour une durée de trois ans. Toutefois,
-
-s'il est conclu au cours le la première période triennale de la convention, sa durée est limitée à la durée restant à courir
-jusqu'à l'expiration de ladite période.
-
-Pendant la durée de la convention en cours au moment de la conclusion du bail et sous réserve des dispositions de l'article
-R. 353-100, il est reconduit tacitement à la volonté du locataire seul pour des périodes également de trois ans, dans la
-mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
-
-Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment, sous réserve d'un préavis de trois
-mois ramené à un mois en cas de changement de résidence pour raisons familiales graves ou raisons professionnelles.
-
-Le congé est donné par lettre recommandée, le préavis partant de la date d'envoi et le cachet de la poste faisant foi.
-Lorsque le délai de préavis vient à expiration dans le courant d'un mois le bail produit effet jusqu'au dernier jour du mois.
-
-Sous réserve des dispositions de l'article R. 353-113, en cas de vacance intervenant au cours d'une période triennale, le
-nouveau locataire est substitué de plein droit à l'ancien locataire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 5 JORF 13 juin 1980
-
-	**Cite**:
-
-	  - Code civil - art. 1728 (V)
-	  - Code de la construction et de l'habitation. - art. R353-100 (M)
-	  - Code de la construction et de l'habitation. - art. R353-113 (Ab)
 
 
 ###### Article R353-101
 
-Le loyer est payable par fraction mensuelle à terme échu sauf convention expresse du bail qui peut prévoir le paiement par
-terme à échoir, jusqu'à une date qui est fixée par les conventions. 
-
-Le bailleur remet au preneur un document faisant clairement apparaître le montant du loyer, des sommes accessoires et, en cas
-de versement de l'aide personnalisée au bailleur, également celui de cette aide. Il est tenu de remettre, sur la demande du
-preneur et après paiement intégral du loyer et des sommes accessoires, une quittance ou un reçu des sommes versées.
+Les bailleurs sont tenus envers les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement,
+de fournir toutes les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au
+logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les directives du conseil
+de gestion du Fonds national de l'habitation, conformément aux dispositions de la convention nationale prévue à l'article L.
+351-8.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 13
 
 	**Codifié par**:
 
@@ -54821,20 +54810,29 @@ preneur et après paiement intégral du loyer et des sommes accessoires, une qui
 
 	**Modifié par**:
 
-	  - Décret n°80-415 1980-06-10 art. 7 JORF 13 juin 1980
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L351-8 (M)
 
 
 ###### Article R353-102
 
-Les conventions fixent les conditions dans lesquelles il est demandé au locataire, lors de la signature du bail, un
-cautionnement qui peut être au plus équivalent à deux mois de loyer en principal, revisable en fonction de l'évolution de
-celui-ci. Elles fixent également les conditions dans lesquelles ce cautionnement lui est restitué à son départ.
+La publication des conventions incombe au bailleur. Elle doit intervenir avant la mise en location des logements. Les frais
+de publication sont à sa charge. Le préfet s'assure de la publication de la convention et de ses éventuels avenants au
+fichier immobilier ou de leur inscription au livre foncier.
+
+Le préfet transmet aux organismes chargés de la liquidation et du paiement de l'APL une photocopie de la présente convention,
+de ses avenants éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au fichier
+immobilier (ou d'une inscription au livre foncier).
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 14
 
 	**Codifié par**:
 
@@ -54842,513 +54840,39 @@ celui-ci. Elles fixent également les conditions dans lesquelles ce cautionnemen
 
 	**Modifié par**:
 
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
+	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ###### Article R353-103
 
-Les charges récupérables correspondent à des prestations,
-
-taxes locatives et fournitures individuelles et doivent être limitativement énumérées dans le bail. 
-
-Elles peuvent faire l'objet de provisions et doivent, en ce cas, donner lieu à régularisation annuelle. Les demandes de
-provisions sont justifiées par la communication des résultats antérieurs arrêtés lors de la précédente régularisation
-annuelle,
-
-ou par celle de budgets prévisionnels. 
-
-Quinze jours avant l'échéance du remboursement ou de la régularisation annuelle des charges, le bailleur en communique le
-décompte, par nature de charges, ainsi que le mode de répartition entre tous les locataires de l'immeuble. 
-
-Pendant un délai d'un mois à compter de l'envoi de ce décompte, les pièces justificatives sont tenues à la disposition des
-locataires ou de leurs représentants. Lorsqu'ils en font la demande, toutes explications utiles sur les dépenses de gestion
-leur sont présentées.
+Les pénalités financières prévues par la convention sont recouvrées au profit de l'Etat, comme les créances étrangères à
+l'impôt aux domaines.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 15
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-
-###### Article R353-104
-
-Un constat de l'état du local, dressé contradictoirement à l'entrée dans les lieux, doit être annexé au bail. A la sortie,
-
-un constat est établi dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
 
 	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
+	**Liens**:
 
-###### Article R353-105
-
-En application des dispositions de l'article L. 353-7 à la date d'entrée en vigueur de la convention, le bailleur propose au
-locataire ou occupant de bonne foi dans les lieux un projet de bail [*contenu*] auquel sont annexés une copie de ladite
-convention ainsi que des éléments du barème de l'aide personnalisée au logement. 
-
-Le locataire dispose d'un délai de six mois pour accepter ce projet de bail qui reproduit en caractères très apparents, le
-texte intégral de l'article L. 353-7 précité et qui fait l'objet d'une notification aux intéressés dans les conditions fixées
-par les conventions. 
-
-Pour les logements mentionnés à l'article R. 353-90 (1°), le bail prend effet à compter de la date d'acceptation par le
-locataire. 
-
-Pour les logements mentionnés à l'article R. 353-90 (2° b et c et 3°), sous réserve des dispositions de l'article R. 353-107
-le bail prend effet à compter de la date d'achèvement des travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 8 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+	  - SPEC_APPLI: Décret n°97-535 du 28 mai 1997 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L353-7 (M)
-	  - Code de la construction et de l'habitation. - art. R353-107 (Ab)
-	  - Code de la construction et de l'habitation. - art. R353-90 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-106 (Ab)
-
-
-###### Article R353-106
-
-Pour les logements mentionnés au dernier alinéa de l'article R. 353-105 dont la construction a été financée dans les
-conditions prévues par le titre Ier du présent livre et par l'article 269 du code de l'urbanisme et de l'habitation dans le
-cas ou ces logements font l'objet de travaux justifiés par des considérations de sécurité, de salubrité ou de mise aux normes
-minimales d'habitabilité, complétés ou non par des travaux d'amélioration de la qualité, le bailleur présente aux locataires
-concernés un projet de bail conforme aux dispositions prévues à l'alinéa 1er dudit article et entrant en vigueur après
-l'achèvement des travaux.
-
-Ce projet de bail [*contenu*] reproduit en caractères très apparents le texte intégral de l'article L. 353-8 est fait l'objet
-d'une notification aux intéressés dans les conditions fixées par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 9 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de l'urbanisme 269
-	  - Code de la construction et de l'habitation. - art. L353-8 (V)
-	  - Code de la construction et de l'habitation. - art. R353-105 (Ab)
-
-
-###### Article R353-107
-
-Pour l'exécution des travaux ne nécessitant pas le départ des occupants, le bailleur se conforme, selon le cas, aux
-dispositions de l'article 14 modifié de la loi n° 48-1360 du 1er septembre 1948 ou de l'article 2 modifié de la loi n° 67-561
-du 12 juillet 1967.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-105 (Ab)
-
-
-###### Article R353-108
-
-Lorsque les travaux rendent inhabitable ce qui est nécessaire au logement de l'occupant et de sa famille et nécessitent
-l'évacuation temporaire des lieux, le bailleur met provisoirement à la disposition des occupants concernés des logements
-répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-
-###### Article R353-109
-
-Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948, le projet de bail [*contenu*] mentionné à l'article R.
-353-105 doit en outre reproduire, en caractères très apparents, le texte intégral de l'article L. 353-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-
-###### Article R353-110
-
-Les bailleurs sont tenus [*obligation*] envers les organismes chargés de la liquidation et du paiement de l'aide
-personnalisée au logement, de fournir toutes les informations et justifications nécessaires à l'établissement du droit à
-l'aide personnalisée au logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les
-directives du conseil de gestion du fonds national de l'habitation, conformément aux dispositions de la convention nationale
-prévue à l'article L. 351-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
-
-
-###### Article R353-111
-
-A la date d'entrée en vigueur des conventions, aucun plafond de ressources n'est exigé des locataires déjà dans les lieux. 
-
-Lors de la mise en service des logements neufs et au fur et à mesure des vacances, les logements sont loués à des personnes
-dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-20.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-20 (M)
-
-
-###### Article R353-112
-
-Les conventions fixent le pourcentage des logements conventionnés, qui, au fur et à mesure des vacances, sont réservés à des
-familles ou à des occupants sortant, soit d'habitat insalubre ou surpeuplé, soit d'une cité de transit ou provisoire ou d'un
-centre d'hébergement ; elles fixent également les conditions d'application de cette obligation.
-
-Ces dispositions ne portent pas atteinte aux réservations consenties conventionnellement par les bailleurs lorsque le
-programme conventionné a été financé dans les conditions prévues à l'article R. 353-90 (2°), à l'exception des logements
-mentionnés aux a et b.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 9 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R353-90 (M)
-
-
-###### Article R353-113
-
-En application de l'article L. 353-5, les logements conventionnés doivent être maintenus à usage locatif pendant toute la
-durée de la convention. Toutefois, lorsque le propriétaire est une personne physique, les conventions fixent les conditions
-dans lesquelles il peut occuper ou faire occuper par son conjoint, ses ascendants ou descendants, à titre de résidence
-principale,
-
-les logements conventionnés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-5 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-98 (M)
-
-
-###### Article R353-114
-
-En cas de mutation d'un ou de plusieurs logements conventionnés, le ou les nouveaux propriétaires notifient leur
-indentification aux locataires et aux organismes liquidateurs de l'aide personnalisée au logement dans les conditions prévues
-par les articles 5 ou 6 du décret n° 55-22 du 4 janvier 1955 modifié. 
-
-Le bailleur informe les locataires de tout changement de gestionnaire des logements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 26
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-
-###### Article R353-115
-
-Lorsque la vente d'un appartement et de ses locaux accessoires, situés dans un immeuble ou partie d'immeuble ayant fait
-l'objet d'une convention, est la première, depuis la division par appartements dudit immeuble, à porter sur ces seuls biens,
-le locataire dans les lieux est admis à faire valoir le droit de préférence prévu par l'article 10 de la loi n° 75-1351 du 31
-décembre 1975 et son décret d'application, dans les conditions définies par les conventions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-116 (Ab)
-
-
-###### Article R353-116
-
-Sous réserve des dispositions de l'article R. 353-115, les conventions peuvent être revisées tous les trois ans à la demande
-de l'une ou l'autre partie. Les frais de publication sont pris en charge par la partie qui sollicite la révision.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R353-115 (Ab)
-
-
-###### Article R353-117
-
-Les conventions fixent les cas de résiliation aux torts du bailleur pour lesquels il peut être fait application des
-dispositions de l'article L. 353-6. 
-
-Elles fixent également les sanctions encourues pour non-respect des engagements contractuels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 29
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-6 (V)
-
-
-###### Article R353-118
-
-Le ministre chargé de la construction et de l'habitation ou son représentant s'assure de la publication des conventions au
-fichier immobilier ou de leur inscription au livre foncier et en informe les organismes chargés de la liquidation et du
-paiement de l'aide personnalisée au logement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-198 1978-02-22 art. 30
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-415 1980-06-10 art. 1 JORF 13 juin 1980
-
-	**Abrogé par**:
-
-	  - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.
