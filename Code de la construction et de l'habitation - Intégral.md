@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-09-21
+Version Consolidée au 2002-12-28
 
 # Partie législative
 
@@ -53063,165 +53063,6 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code du travail - art. L961-1 (M)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
-
-##### PARAGRAPHE I : Dispositions relatives aux locataires.
-
-###### Article R351-17-4
-
-La participation personnelle est la somme d'une participation minimale et du résultat de l'application d'un taux de
-participation aux ressources du bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un montant fixé
-forfaitairement. Ce forfait est calculé, dans les conditions fixées par arrêté conjoint des ministres chargés du logement, du
-budget, de la sécurité sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum d'insertion, fixé en
-application de l'article L. 262-2 du code de l'action sociale et des familles.
-
-La participation minimale est définie par le même arrêté.
-
-Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies aux 500 F supérieurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 2 ter (V)
-	  - Arrêté du 26 décembre 2016 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 3 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L262-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-
-##### PARAGRAPHE II : Dispositions relatives aux propriétaires.
-
-###### Article R351-19
-
-Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule
-suivante :
-
-K = 0,95 - R/CM x N
-
-dans laquelle :
-
-R représente la limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article
-R. 351-5 ;
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-N représente le nombre de parts déterminé par les coefficients suivants :
-
-- bénéficiaire isolé : 1,40 ;
-
-- ménage sans personne à charge : 1,80 ;
-
-- bénéficiaire isolé ou ménage ayant une personne à charge :
-
-2,50 ;
-
-- bénéficiaire isolé ou ménage ayant deux personnes à charge :
-
-3 ;
-
-- bénéficiaire isolé ou ménage ayant trois personnes à charge :
-
-3,7 ;
-
-- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
-
-4,3.
-
-Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
-
-Le coefficient K est arrondi à deux décimales par défaut.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (MMN)
-
-	**Modifié par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 8 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-
-###### Article R351-21
-
-Le loyer minimal Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
-supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
-du budget, de l'agriculture et du logement en distinguant :
-
-- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
-occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession ;
-
-- les logements existants améliorés et occupés par leur propriétaire.
-
-Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
-prévu à l'article R. 351-19.
-
-Le résultat est divisé par douze.
-
-Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 500 F mentionné à l'article R. 351-19. Les
-pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la limite supérieure de
-l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 (V)
-	  - Arrêté du 30 juin 1979 - art. 4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 9 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-
 ##### Section 1 : Aide personnalisée
 
 ##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
@@ -54147,6 +53988,45 @@ personnes ou ménages concernés.
 	  - Code de la construction et de l'habitation. - art. R351-17 (M)
 
 
+###### Article R351-17-4
+
+La participation personnelle est la somme d'une participation minimale et du résultat de l'application d'un taux de
+participation aux ressources du bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un montant fixé
+forfaitairement. Ce forfait est calculé, dans les conditions fixées par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum d'insertion, fixé en
+application de l'article L. 262-2 du code de l'action sociale et des familles.
+
+La participation minimale est définie par le même arrêté.
+
+Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies aux 100 euros supérieurs.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 2 ter (V)
+	  - Arrêté du 26 décembre 2016 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+
+
 ###### Article R351-17-5
 
 Le taux de participation prévu à l'article R. 351-17-4 est obtenu par l'addition de :
@@ -54228,6 +54108,79 @@ tenu des ressources déterminées conformément à l'article R. 351-5 et de la c
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
+###### Article R351-19
+
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 100 euros en appliquant la
+formule suivante :
+
+K = 0,95 - R/CM x N
+
+dans laquelle :
+
+R représente la limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article
+R. 351-5 ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+- bénéficiaire isolé : 1,40 ;
+
+- ménage sans personne à charge : 1,80 ;
+
+- bénéficiaire isolé ou ménage ayant une personne à charge :
+
+2,50 ;
+
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+
+3 ;
+
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
+
+Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (MMN)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+
 ###### Article R351-20-1
 
 Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt conventionné accordé pour l'amélioration du logement et que
@@ -54248,6 +54201,61 @@ améliorés à l'aide d'un prêt conventionné.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+
+
+###### Article R351-21
+
+Le loyer minimal Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
+supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement en distinguant :
+
+- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
+occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession ;
+
+- les logements existants améliorés et occupés par leur propriétaire.
+
+Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
+prévu à l'article R. 351-19.
+
+Le résultat est divisé par douze.
+
+Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 100 euros mentionné à l'article R. 351-19. Les
+pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la limite supérieure de
+l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 (V)
+	  - Arrêté du 30 juin 1979 - art. 4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
 ###### Article R351-21-2
@@ -55839,6 +55847,241 @@ d) E0 représente l'équivalence de loyer et de charges locatives minima, telle 
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
+###### Article R351-61
+
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 100 euros en appliquant la
+formule :
+
+K = 0,95 - ((R -(r X N))/(CM X N))
+
+dans laquelle :
+
+R représente la limite supérieur de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R.
+351-5 ;
+
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+- bénéficiaire isolé : 1,40 ;
+
+- ménage sans personne à charge : 1,80 ;
+
+- bénéficiaire isolé ou ménage ayant une personne à charge :
+
+2,50.
+
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+
+3 ;
+
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
+
+Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+
+
+###### Article R351-61-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
+denommés résidences sociales et mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er janvier 1995, en
+application du 5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient
+K est déterminé pour chaque intervalle de ressources de 100 euros en appliquant la formule :
+
+K = 0,9 -( R /(CM X N))
+
+dans laquelle :
+
+R représente les ressources déterminées conformément à l'article R. 351-61 ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
+charge, 2,5 si le ménage ou la personne isolée a une personne à charge, 3 si le ménage ou la personne isolée a deux personnes
+à charge ; 3,7 si le ménage ou la personne isolée a trois personnes à charge ; 4,3 si le ménage ou la personne isolée a
+quatre personnes à charge.
+
+Ce dernier coefficient est majoré de 0,5 par personne à charge supplémentaire.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
+###### Article R351-62
+
+L'équivalence de loyer et de charges minima est obtenue par l'application de pourcentages à des tranches de ressources dont
+les limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement.
+
+L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal au produit d'une valeur numérique
+fixée par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du
+coefficient N prévu à l'article R. 351-61.
+
+Le résultat est divisé par douze.
+
+L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 100 euros mentionné à
+l'article R. 351-61. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
+limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
+
+**Nota:**
+
+NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
+à compter du mois de juillet 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
+###### Article R351-62-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
+dénommés résidences sociales et mentionnés aux articles R. 331-1 et R. 351-55 conventionnés à compter du 1er janvier 1995, en
+application du 5° de l'article L. 351-2, à l'exception de ceux qui sont mentionnés aux 2° et 3° de l'article R. 351-56,
+l'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches dont les
+limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61-1.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés du logement, du budget,
+de la sécurité sociale et de l'agriculture.
+
+L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
+arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
+
+L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 100 euros mentionné à
+l'article R. 351-61-1. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
+limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
+
+
 ###### Article R351-62-2
 
 La dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges locatives prise en compte (E) le
@@ -55975,235 +56218,6 @@ applicables aux personnes résidant dans un logement foyer.
 	  - Code de la construction et de l'habitation. - art. R351-17 (M)
 	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
 	  - Code de la construction et de l'habitation. - art. R351-32 (M)
-
-
-##### Section 4 : Dispositions particulières aux logements-foyers.
-
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-61
-
-Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule :
-
-K = 0,95 - ((R -(r X N))/(CM X N))
-
-dans laquelle :
-
-R représente la limite supérieur de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R.
-351-5 ;
-
-r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture ;
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-N représente le nombre de parts déterminé par les coefficients suivants :
-
-- bénéficiaire isolé : 1,40 ;
-
-- ménage sans personne à charge : 1,80 ;
-
-- bénéficiaire isolé ou ménage ayant une personne à charge :
-
-2,50.
-
-- bénéficiaire isolé ou ménage ayant deux personnes à charge :
-
-3 ;
-
-- bénéficiaire isolé ou ménage ayant trois personnes à charge :
-
-3,7 ;
-
-- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
-
-4,3.
-
-Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
-
-Le coefficient K est arrondi à deux décimales par défaut.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-60 (V)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 18 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-
-###### Article R351-61-1
-
-Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
-denommés résidences sociales et mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er janvier 1995 , en
-application du 5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient
-K est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule :
-
-K = 0,9 -( R /(CM X N))
-
-dans laquelle :
-
-R représente les ressources déterminées conformément à l'article R. 351-61 ;
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
-charge, 2,5 si le ménage ou la personne isolée a une personne à charge, 3 si le ménage ou la personne isolée a deux personnes
-à charge ; 3,7 si le ménage ou la personne isolée a trois personnes à charge ; 4,3 si le ménage ou la personne isolée a
-quatre personnes à charge.
-
-Ce dernier coefficient est majoré de 0,5 par personne à charge supplémentaire.
-
-Le coefficient K est arrondi à deux décimales par défaut.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
-	  - Arrêté du 30 juin 1979 - art. 5 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 19 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-
-
-###### Article R351-62
-
-L'équivalence de loyer et de charges minima est obtenue par l'application de pourcentages à des tranches de ressources dont
-les limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
-du budget, de l'agriculture et du logement.
-
-L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal au produit d'une valeur numérique
-fixée par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du
-coefficient N prévu à l'article R. 351-61.
-
-Le résultat est divisé par douze.
-
-L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 500 F mentionné à
-l'article R. 351-61. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
-limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-60 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 9 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-
-
-###### Article R351-62-1
-
-Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
-dénommés résidences sociales et mentionnés aux articles R. 331-1 et R. 351-55 conventionnés à compter du 1er janvier 1995, en
-application du 5° de l'article L. 351-2, à l'exception de ceux qui sont mentionnés aux 2° et 3° de l'article R. 351-56,
-l'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches dont les
-limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61-1.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés du logement, du budget,
-de la sécurité sociale et de l'agriculture.
-
-L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
-arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
-
-L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 500 F mentionné à
-l'article R. 351-61-1. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
-limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
-
-**Nota:**
-
-NOTA : Décret 2001-1037 du 5 novembre 2001 art. 9 : "A l'article R351-62-1 les mots : et arrondi au franc immédiatement
-inférieur sont supprimés." Cette modification n'a pas lieu d'être ; le dernier alinéa qui contenait ces termes a été
-entièrement refondu en 1997 et ces termes supprimés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
-	  - Arrêté du 30 juin 1979 - art. 5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°97-79 du 30 janvier 1997 - art. 10 () JORF 31 janvier 1997 en vigueur le 1er février 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
