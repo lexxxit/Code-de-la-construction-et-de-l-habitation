@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-12-30
+Version Consolidée au 1982-01-01
 
 # Partie législative
 
@@ -11786,41 +11786,6 @@ immobilier, bénéficient des dispositions des articles L. 431-1, L. 431-2, L. 4
 	  - Code de la construction et de l'habitation. - art. R431-49 (V)
 
 
-###### Article L432-5
-
-Les coopératives d'habitations constituées dans les départements d'outre-mer en forme de société d'économie mixte régie par
-la loi n. 46-860 du 30 avril 1946, tendant à l'établissement  et à l'exécution de plans d'équipement et de développement
-économique et social des territoires et départements d'outre-mer, bénéficient, dans les mêmes conditions que les sociétés de
-crédit immobilier, des dispositions des articles L. 431-1, L. 431-2, L. 442-7, L. 443-18 et R. 431-1 à R. 431-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°46-860 1946-04-30
-	  - Code de la construction et de l'habitation R431-1 à R431-6
-	  - Code de la construction et de l'habitation. - art. L431-1 (M)
-	  - Code de la construction et de l'habitation. - art. L431-2 (V)
-	  - Code de la construction et de l'habitation. - art. L442-7 (M)
-	  - Code de la construction et de l'habitation. - art. L443-18 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 195
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R520-8 (M)
-
-
 ###### Article L432-6
 
 Les organismes mentionnés au présent chapitre sont soumis au contrôle de l'autorité administrative en ce qui concerne les
@@ -12962,19 +12927,103 @@ par celle des Français d'outre-mer.
 	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
 
 
-###### Article L472-2
+###### Article L472-1-1
 
-Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon.
+Les sociétés d'économie mixte de construction constituées dans les départements d'outre-mer en application de la loi n°
+46-860 du 30 avril 1946 tendant à l'établissement et à l'exécution de plans d'équipement et de développement économique et
+social des territoires et départements d'outre-mer et agréées par décision administrative peuvent bénéficier, dans les mêmes
+conditions que les sociétés d'habitations à loyer modéré, des prêts de la caisse de prêts aux organismes d'habitations à
+loyer modéré.
+
+Les modalités d'application du présent article sont fixées dans les mêmes conditions que celles prévues à la première phrase
+de l'article précédent.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°76-664 1976-07-19 ART. 5 ET 8
+	  - Loi n°46-860 1946-04-30
+	  - Code de la construction et de l'habitation. - art. L472-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°81-1160 1981-12-30 ART. 115 III (Code de la construction L472-1-1) :*Application à Saint-Pierre-et-Miquelon*
+	  - TXT_SOURCE: Arrêté du 13 mars 1986
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 11 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 16 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 17 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 3 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 5 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 6 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 7 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 8 (M)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. annexe 1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+
+	**Cité par**:
+
+	  - Arrêté du 20 février 1996 - art. 1 (V)
+	  - Arrêté du 4 mai 2000 - art. 1 (V)
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (M)
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 9-1 (Ab)
+	  - Arrêté du 13 mars 1986 - art. 1 (Ab)
+	  - Arrêté du 4 septembre 1986 - art. 1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-10 (V)
+	  - Code de la construction et de l'habitation. - art. L472-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*431-31 (M)
+	  - Code de la construction et de l'habitation. - art. R*481-6 (V)
+	  - Code de la construction et de l'habitation. - art. R323-12 (T)
+	  - Code de la construction et de l'habitation. - art. R323-21 (Ab)
+	  - Code du patrimoine. - art. L524-14 (V)
+	  - Code du patrimoine. - art. L524-3 (M)
+	  - Code général des impôts, CGI. - art. 1388 ter (V)
+	  - Code général des impôts, CGI. - art. 881 L (V)
+	  - Code général des impôts, CGI. - art. 882 (VT)
+
+
+###### Article L472-2
+
+Les dispositions du présent livre, à l'exception de l'article L. 472-1-1, ne sont pas applicables au département de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L472-1-1 (M)
 
 
 ### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.
