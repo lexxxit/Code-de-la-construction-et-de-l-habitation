@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-03-20
+Version Consolidée au 2004-03-27
 
 # Partie législative
 
@@ -53869,6 +53869,28 @@ du 1er novembre 2001.
 	  - Code de la construction et de l'habitation. - art. R331-74 (M)
 
 
+###### Article R331-76
+
+La durée initiale d'amortissement des prêts est fixée à cinq ans au minimum et trente ans au maximum. Les contrats de prêt
+peuvent prévoir que la durée peut être rallongée au cours de la période de remboursement jusqu'à un maximum de trente-cinq
+ans, ou réduite sans durée minimale. A la fin de la dernière année de prolongation, l'emprunteur est dégagé du règlement de
+toutes charges financières, à l'exception de dettes résultant d'un arriéré éventuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-73 (V)
+
+
 ##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.
 
 ###### Article R331-76-1
@@ -53886,6 +53908,10 @@ partie correspondant au paiement anticipé du prix.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
 	**Cite**:
 
 	  - Loi n°84-595 1984-07-12
@@ -53893,7 +53919,7 @@ partie correspondant au paiement anticipé du prix.
 
 	**Modifié par**:
 
-	  - Décret n°91-1111 du 25 octobre 1991 - art. 7 () JORF 26 octobre 1991
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -53906,7 +53932,7 @@ partie correspondant au paiement anticipé du prix.
 ###### Article R331-76-2
 
 Peuvent bénéficier des prêts visés à l'article R. 331-76-1 les personnes physiques ou morales qui construisent des logements
-dont le transfert de propriété est prévu au profit de personnes physiques [*bénéficiaires*].
+dont le transfert de propriété est prévu au profit de personnes physiques.
 
 **Liens relatifs à cet article**
 
@@ -53914,9 +53940,13 @@ dont le transfert de propriété est prévu au profit de personnes physiques [*b
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
 	**Modifié par**:
 
-	  - Décret n°91-1111 du 25 octobre 1991 - art. 8 () JORF 26 octobre 1991
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
 
 	**Cite**:
 
@@ -53937,9 +53967,13 @@ contrat conforme aux dispositions de l'article R. 331-76-1.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
 	**Modifié par**:
 
-	  - Décret n°91-1111 du 25 octobre 1991 - art. 9 () JORF 26 octobre 1991
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
 
 	**Cite**:
 
@@ -53957,8 +53991,8 @@ de la redevance imputable sur le prix.
 
 **Nota:**
 
-NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
-compter du 1er novembre 2001.
+Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à compter
+du 1er novembre 2001.
 
 **Liens relatifs à cet article**
 
@@ -53966,13 +54000,13 @@ compter du 1er novembre 2001.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°2001-911 du 4 octobre 2001 - art. 11 () JORF 6 octobre 2001
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Modifié par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
 
 	**Cite**:
 
@@ -53999,18 +54033,187 @@ chapitre III, du présent livre (1re partie).
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Modifié par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-76-4 (M)
+
+
+###### Article R331-76-5-1
+
+I. - Les dispositions de la présente sous-section sont également applicables aux prêts consentis à des personnes morales,
+après décision d'agrément du représentant de l'Etat dans le département, en vue de la construction ou de l'acquisition de
+logements neufs faisant l'objet d'un contrat de location-accession régi par la loi n° 84-595 du 12 juillet 1984 définissant
+la location-accession à la propriété et destinés à être occupés à titre de résidence principale par des personnes dont les
+revenus, à la date de signature du contrat préliminaire ou, à défaut, du contrat de location-accession, sont inférieurs aux
+plafonds de ressources mentionnés à l'article R. 331-66.
+
+Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de refinancement conclue sous l'égide de l'Etat
+entre les établissements de crédits distributeurs et la Caisse des dépôts et consignations.
+
+L'accédant ne peut bénéficier, pour un même logement, des dispositions du présent article et de celles des articles R. 317-1
+à R. 317-24.
+
+II. - Pour obtenir la décision d'agrément, le vendeur conclut avec l'Etat une convention qui prévoit le respect des
+conditions suivantes :
+
+- la partie de la redevance correspondant au droit de l'accédant à la jouissance du logement n'excède pas des plafonds de
+loyer fixés par arrêté ; elle peut être révisée à chaque date anniversaire du contrat, dans la limite de la variation de la
+moyenne sur quatre trimestres de l'indice du coût de la construction, à partir du dernier indice publié à la date de
+signature du contrat ;
+
+- le prix de vente du logement n'excède pas un plafond fixé par arrêté ; ce prix de vente, non révisable, est minoré, à
+chaque date anniversaire du contrat, d'un pourcentage défini par arrêté ;
+
+- le vendeur dispose de l'engagement d'un établissement de crédit de proposer à l'accédant un ou plusieurs prêts
+conventionnés qui permettent de financer le transfert de propriété et dont la charge totale de remboursement mensuelle
+n'excède pas, au moment de la levée d'option, le montant de la redevance versée au titre du mois précédant le transfert de
+propriété ;
+
+- le vendeur offre à l'accédant, en cas de levée d'option, une garantie de relogement sous condition de ressources et une
+garantie de rachat mentionnées dans le contrat de location-accession et dans l'acte constatant le transfert de propriété
+lorsque des conditions définies par arrêté sont réunies.
+
+Le vendeur transmet au représentant de l'Etat dans le département, dans le délai maximum de douze mois à compter de la
+déclaration d'achèvement des travaux, les contrats de location-accession signés ainsi que les justifications des conditions
+de ressources des accédants. Au vu des documents communiqués, le représentant de l'Etat notifie au vendeur la liste des
+logements bénéficiant à titre définitif de l'agrément.
+
+Ne peuvent donner lieu au bénéfice des prêts de la présente sous-section les logements dont les travaux ont commencé avant
+l'obtention de la décision d'agrément, sauf s'ils portent sur des logements qui ont fait l'objet du contrat mentionné à
+l'article L. 261-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation R331-66, R317-1 à R317-24, L261-3
+	  - Code de la construction et de l'habitation. - art. L261-3 (M)
+	  - Code de la construction et de l'habitation. - art. R331-66 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
+	  - Arrêté du 26 mars 2004 - art. 1 (V)
+	  - Arrêté du 26 mars 2004 - art. 2 (V)
+	  - Arrêté du 26 mars 2004 - art. 3 (V)
+	  - Arrêté du 26 mars 2004 - art. 4 (V)
+	  - Arrêté du 20 décembre 2007 (V)
+	  - Arrêté du 7 avril 2009 - art. 3 (V)
+	  - Arrêté du 30 décembre 2010 - art. 7 (Ab)
+	  - Arrêté du 1er août 2014 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. D331-111 (V)
+	  - Code de la construction et de l'habitation. - art. R*443-2 (V)
+	  - Code de la construction et de l'habitation. - art. R255-1 (V)
+	  - Code de la construction et de l'habitation. - art. R313-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. R318-9 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-2 (V)
+	  - Code de la construction et de l'habitation. - art. R353-59 (V)
+	  - Code de la construction et de l'habitation. - art. R353-90 (V)
+	  - Code de la construction et de l'habitation. - art. R452-36 (Ab)
+	  - Code de la construction et de l'habitation. - art. R453-2 (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, CGI. - art. 244 quater W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
+
+
+###### Article R331-76-5-2
+
+L'établissement de crédit qui accorde un prêt au vendeur dans les conditions de l'article R. 331-76-5-1 peut déroger, pour ce
+prêt, en tout ou partie aux dispositions des 2° et 3° de l'article R. 331-75.
+
+Le prêt accordé au vendeur en application de l'article R. 331-76-5-1 peut être transférable à l'acquéreur, dans les
+conditions de l'article R. 331-76-4 ; dans ce cas, les dispositions du 3° de l'article R. 331-75 sont applicables,
+postérieurement à la levée d'option, au prêt transféré à l'accédant et la révision du taux ou la modification de l'échéance
+mentionnées au 2° du même article peuvent intervenir deux fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation. - art. R331-75 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-4 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Créé par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
+
+
+###### Article R331-76-5-3
+
+L'instruction de la demande de décision d'agrément est assurée par le directeur départemental de l'équipement ; la décision
+est prise par le représentant de l'Etat dans le département et notifiée au demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Créé par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
+
+
+###### Article R331-76-5-4
+
+Les conditions d'application des dispositions de la présente sous-section sont précisées par arrêté conjoint du ministre
+chargé de l'économie, des finances et de l'industrie, du ministre chargé du budget et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°84-595 1984-07-12
+
+	**Créé par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2004 - art. Annexe I (V)
 
 
 ##### Sous-section 3 : Contrôle.
@@ -54315,51 +54518,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 ##### Section 1 : Aide personnalisée.
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
-
-###### Article R351-2-1
-
-L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
-d'un prêt défini par les articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1 et suivants et
-supporte les charges afférentes à ce prêt [*bénéficiaire*].
-
-Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert :
-
-- soit, si l'accédant occupe le logement à la date de la première échéance due au titre du contrat de location-accession :
-
-- en cas de périodicité mensuelle, à compter du premier jour du mois civil suivant celui de ladite échéance ;
-
-- en cas de périodicité supérieure au mois, à compter du premier jour du mois civil suivant le premier mois de la période
-couverte par ladite échéance ;
-
-- soit, si l'accédant n'occupe pas le logement à la date de la première échéance due au titre du contrat de location-
-accession ou si l'entrée dans les lieux se situe au cours de la période couverte par ladite échéance, à compter du premier
-jour du mois civil suivant celui au cours duquel se situe l'entrée dans les lieux.
-
-Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
-alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cité par**:
-
-	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°95-709 du 9 mai 1995 - art. 3 () JORF 11 mai 1995
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-59-16 (M)
-	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
-	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
-
 
 ###### Article R351-5
 
@@ -54758,6 +54916,52 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 
 	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+
+
+###### Article R351-2-1
+
+L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
+d'un prêt défini par les articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R. 331-76-1 et suivants et
+supporte les charges afférentes à ce prêt.
+
+Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert :
+
+- soit, si l'accédant occupe le logement à la date de la première échéance due au titre du contrat de location-accession :
+
+- en cas de périodicité mensuelle, à compter du premier jour du mois civil suivant celui de ladite échéance ;
+
+- en cas de périodicité supérieure au mois, à compter du premier jour du mois civil suivant le premier mois de la période
+couverte par ladite échéance ;
+
+- soit, si l'accédant n'occupe pas le logement à la date de la première échéance due au titre du contrat de location-
+accession ou si l'entrée dans les lieux se situe au cours de la période couverte par ladite échéance, à compter du premier
+jour du mois civil suivant celui au cours duquel se situe l'entrée dans les lieux.
+
+Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
+alinéa de l'article R. 331-59-16 et au II de l'article R. 331-76-5-1 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-286 du 26 mars 2004 - art. 3 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-16 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
 
 
 ###### Article R351-3
