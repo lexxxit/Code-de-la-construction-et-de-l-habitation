@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-01-27
+Version Consolidée au 1984-01-31
 
 # Partie législative
 
@@ -15553,18 +15553,18 @@ cloisons, marches et cages d'escaliers, gaines, ébrasements de portes et de fen
 total des surfaces habitables ainsi définies multipliées par les hauteurs sous plafond.
 
 Il n'est pas tenu compte de la superficie des combles non aménagés, caves, sous-sols, remises, garages, terrasses, loggias,
-balcons, séchoirs extérieurs au logement, vérandas, locaux communs et autres dépendances des logements, ni des parties de
-locaux d'une hauteur inférieure à 1,80 mètre.
+balcons, séchoirs extérieurs au logement, vérandas, volumes vitrés prévus à l'article R. 111-10, locaux  communs et autres
+dépendances des logements, ni des parties de locaux d'une hauteur inférieure à 1,80 mètre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-68 1984-01-25 art. 1 JORF 31 janvier 1984
 
 	**Cité par**:
 
@@ -15800,15 +15800,33 @@ chargé de l'industrie précise les modalités d'application du présent article
 
 Les pièces principales doivent être pourvues d'un ouvrant et de surfaces transparentes donnant sur l'extérieur.
 
+Toutefois cet ouvrant et ces surfaces transparentes peuvent donner sur des volumes vitrés installés soit pour permettre
+l'utilisation des apports de chaleur dus au rayonnement solaire, soit pour accroitre l'isolation acoustique des logements par
+rapport aux bruits de l'extérieur.
+
+Ces volumes doivent, en ce cas :
+
+a) Comporter eux-mêmes au moins un ouvrant donnant sur l'extérieur ;
+
+b) Etre conçus de telle sorte qu'ils permettent la ventilation des logements dans les conditions prévues à l'article R.
+111-9 ;
+
+c) Etre dépourvus d'équipements propres de chauffage ;
+
+d) Comporter des parois vitrées en contact avec l'extérieur à raison, non compris le plancher, d'au moins 60 p. 100 dans le
+cas des habitations collectives et d'au moins 80 p. 100 dans le cas des habitations individuelles ;
+
+e) Ne pas constituer une cour couverte.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 9
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-68 1984-01-25 ART. 2 JORF 31 JANVIER 1984
 
 	**Cité par**:
 
