@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-12-16
+Version Consolidée au 1999-12-30
 
 # Partie législative
 
@@ -52569,7 +52569,7 @@ montants sont arrondis au franc le plus proche.
 
 Au conjoint mentionné aux articles R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10 à R. 351-15, R. 351-17, R. 351-17-1, R. 351-19
 et R351-28-1 est assimilée, pour l'application de la présente section, la personne vivant maritalement avec le bénéficiaire
-de l'aide personnalisée [*concubin*].
+de l'aide personnalisée [*concubin*] ou le partenaire lié à celui-ci par un pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -52579,7 +52579,7 @@ de l'aide personnalisée [*concubin*].
 
 	**Modifié par**:
 
-	  - Décret n°99-815 du 16 septembre 1999 - art. 3 () JORF 18 septembre 1999
+	  - Décret n°99-1160 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -60579,10 +60579,10 @@ un représentant de la caisse d'allocation familiale compétente, désignés, ch
 ces organismes ;
 
 3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés, d'associations ou
-d'organismes ayant pour objet le logement ou l'insertion des personnes défavorisées, de représentants des partenaires sociaux
-associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de personnalités ou
-représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions fixées à l'article
-R. 371-7.
+d'organismes ayant pour objet le logement ou l'insertion des personnes défavorisées, de représentants d'associations de
+défense des personnes en situation d'exclusion par le logement, de représentants des partenaires sociaux associés à la
+gestion de la participation des employeurs à l'effort de construction, ainsi que de personnalités ou représentants
+d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions fixées à l'article R. 371-7.
 
 Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
 
@@ -60592,9 +60592,9 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°99-1159 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
