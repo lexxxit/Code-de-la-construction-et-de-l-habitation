@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-07-21
+Version Consolidée au 1987-08-07
 
 # Partie législative
 
@@ -37650,6 +37650,32 @@ présent article.
 	**Modifié par**:
 
 	  - Décret n°87-562 1987-07-20 art. 2 jorf 21 juillet 1987
+
+
+###### Article R331-54-2
+
+La durée initiale et la progressivité des annuités des prêts aidés par l'Etat destinés à l'accession à la propriété consentis
+entre le 1er juillet 1981 et le 31 décembre 1984 peuvent être modifiées, en accord entre le bénéficiaire et l'établissement
+prêteur, dans les conditions précisées par les conventions prévues à l'article R. 331-38 et sous réserve que le taux effectif
+global initialement fixé ne soit pas augmenté. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-641 1987-08-04 art. 1 jorf 7 août 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-38 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
 
 
 ###### Article R331-55
