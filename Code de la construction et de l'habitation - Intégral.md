@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-04-08
+Version Consolidée au 1988-04-15
 
 # Partie législative
 
@@ -21494,6 +21494,28 @@ Les dispositions de la présente section s'appliquent :
 	  - Code de la construction et de l'habitation R111-1, R111-20
 
 
+###### Article R*131-16
+
+Pour l'application de la présente section :
+
+La régulation d'une installation de chauffage consiste [*définition*] en un ou plusieurs dispositifs permettant de régler
+automatiquement la fourniture de chaleur dans les locaux en fonction des températures extérieure et intérieure, ou de l'une
+de ces températures et, le cas échéant, d'autres éléments tels que l'ensoleillement ; 
+
+La puissance d'une installation de chauffage est définie comme le produit de la quantité de combustible consommée à l'heure
+en marche continue maximale par le pouvoir calorifique inférieur de ce combustible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-355 1988-04-12 art. 5 JORF 15 avril 1988
+
+
 ###### Article R*131-17
 
 I. - Toute installation de chauffage d'une puissance supérieure à 30 kW doit comporter un dispositif de régulation.
@@ -21727,30 +21749,6 @@ années et les frais de fonctionnement, serait supérieure au dixième des frais
 	**Cite**:
 
 	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R131-4, R131-3
-
-
-##### Section 3 : Régulation des installations de chauffage.
-
-###### Article R*131-16
-
-Pour l'application de la présente section,
-
-La régulation d'une installation de chauffage consiste en un ou plusieurs dispositifs permettant de régler automatiquement la
-fourniture de chaleur dans les locaux en fonction des températures extérieure et intérieure, ou de l'une de ces
-températures ;
-
-La puissance d'une installation de chauffage est définie comme le produit de la quantité de combustible consommée à l'heure
-en marche continue maximale par le pouvoir calorifique inférieur de ce combustible.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-495 1975-06-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 #### Chapitre II : Ravalement des immeubles.
