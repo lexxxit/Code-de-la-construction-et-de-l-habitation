@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-03-23
 
 # Partie législative
 
@@ -49755,82 +49755,6 @@ construction et de l'habitation et des finances.
 	  - Décret n°2001-336 du 18 avril 2001 - art. 10 () JORF 19 avril 2001
 
 
-##### Sous-section 5 : Sanctions.
-
-###### Article R331-26
-
-Lorsque le bénéficiaire des subventions et prêts prévus à l'article R. 331-1 ne respecte pas les conditions [*infraction*]
-définies par la présente section, le ministre chargé de la construction et de l'habitation exige le versement d'une indemnité
-[*sanction*] fixée par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
-	  - Arrêté du 31 août 1979 - art. 6 (Ab)
-	  - Arrêté du 9 janvier 1980 - art. 2 (Ab)
-	  - Arrêté du 9 janvier 1980 - art. 3 (Ab)
-	  - Arrêté du 9 janvier 1980 - art. 4 (Ab)
-	  - Arrêté du 9 janvier 1980 - art. 5 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2002-392 du 22 mars 2002 - art. 2 () JORF 23 mars 2002
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-
-
-###### Article R331-27
-
-Le contrôle des conditions de réalisation des opérations donnant lieu au bénéfice des subventions et prêts prévus à l'article
-R. 331-1 est exercé par le ministre chargé de la construction et de l'habitation et le ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-392 du 22 mars 2002 - art. 2 () JORF 23 mars 2002
-
-	**Cité par**:
-
-	  - Arrêté du 9 janvier 1980 - art. 4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-83 (M)
-	  - Code de la construction et de l'habitation. - art. R331-9 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-
-
 ##### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.
 
 ###### Article R331-31-1
@@ -73619,16 +73543,23 @@ l'article 5 de la loi n° 65-557 du 10 juillet 1965 sur la copropriété.
 
 ### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
 
-#### CHAPITRE Ier
+#### Chapitre Ier : Contrôle.
 
-###### Article R451-1
+##### Section 1 : Contrôle à l'initiative de l'Etat.
 
-Les organismes d'habitations à loyer modéré sont soumis au contrôle du ministre chargé des finances et du ministre chargé de
-la construction et de l'habitation.
+###### Article R*451-6
 
-Outre les vérifications auxquelles ils sont assujettis par leur statut propre, sont également soumis à ce contrôle tous les
-organismes publics ou privés et les collectivités, dans la mesure où ils bénéficient de prêts à taux réduit, de bonifications
-d'intérêts ou de subventions de l'Etat au titre de la législation sur les habitations à loyer modéré.
+Le rapport définitif de contrôle comprend le rapport mentionné à l'article R. 451-5, les observations du président ou
+dirigeant de l'organisme produites dans le délai et les conditions mentionnés au même article et, en tant que de besoin, les
+réponses qui y ont été apportées par le contrôleur.
+
+Le rapport définitif est adressé au président ou dirigeant de l'organisme, au ministre chargé du logement, au ministre chargé
+de l'économie et au préfet du département du siège de l'organisme.
+
+Le président du directoire, le président du conseil de surveillance, le président du conseil d'administration ou de l'organe
+délibérant est tenu de communiquer immédiatement le rapport définitif à chaque membre de ces instances et d'inscrire son
+examen à la plus proche réunion pour être soumis à délibération. La délibération est adressée dans les quinze jours suivant
+son adoption au préfet du département du siège de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -73638,32 +73569,84 @@ d'intérêts ou de subventions de l'Etat au titre de la législation sur les hab
 
 	**Modifié par**:
 
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R451-5 (VT)
 
 	**Cité par**:
 
+	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
+
+
+###### Article R*451-7
+
+La mise en demeure mentionnée au dernier alinéa de l'article L. 451-1 est effectuée par le préfet du département du siège de
+l'organisme. L'organisme informe le préfet des suites données à la mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2007 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+
+###### Article R451-1
+
+Le contrôle prévu à l'article L. 451-1 est exercé par le ministre chargé du logement et par le ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Modifié par**:
+
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*451-9 (VT)
 	  - Code de la construction et de l'habitation. - art. R451-4 (M)
 	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
 
 
 ###### Article R451-2
 
-Le contrôle sur place est exercé, au nom du ministre chargé des finances, par l'inspection générale des finances et par les
-fonctionnaires désignés par arrêté dudit ministre et, au nom du ministre chargé de la construction et de l'habitation, par
-les membres de l'inspection générale de l'équipement et par les fonctionnaires ou agents de l'administration centrale ou des
-services déconcentrés désignés par lui. 
+Les agents de l'Etat chargés d'effectuer les contrôles sur place sont habilités à cet effet soit par arrêté du ministre
+chargé du logement, soit par arrêté du ministre chargé de l'économie, soit par arrêté du ministre chargé du budget. L'arrêté
+fixe la durée de l'habilitation.
 
-Des fonctionnaires appartenant à la caisse des dépôts et consignations peuvent être appelés à participer aux vérifications
-opérées par les membres de l'inspection générale des finances, sous la responsabilité de ces derniers, pour le contrôle des
-opérations de financement prévues au présent livre. 
+Il peut être mis fin à l'habilitation pour raison de service. Il peut aussi y être mis fin en raison du comportement de
+l'agent dans l'exercice de ses fonctions, après que cet agent a été mis à même de présenter ses observations.
 
-Le ministre chargé des finances et le ministre chargé de la construction et de l'habitation constituent l'autorité
-administrative compétente prévue à l'article L. 451-1.
-
-**Nota:**
-
-[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*]
+Les arrêtés relatifs aux habilitations sont publiés au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -73673,12 +73656,11 @@ administrative compétente prévue à l'article L. 451-1.
 
 	**Modifié par**:
 
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
 
 	**Cité par**:
 
@@ -73690,123 +73672,179 @@ administrative compétente prévue à l'article L. 451-1.
 
 ###### Article R451-3
 
-Les fonctionnaires ou agents énumérés à l'article R. 451-2 doivent, avant de procéder à leurs vérifications, en donner avis
-aux représentants des organismes ou des collectivités afin que ceux-ci puissent y assister s'ils le jugent convenable.
+Lorsqu'un organisme doit faire l'objet d'un contrôle sur place, son président ou dirigeant en est averti. L'avertissement
+mentionne que l'organisme a la faculté de se faire assister de tout conseil de son choix pendant le déroulement du contrôle
+sur place.
 
-Les agents des organismes ou des collectivités contrôlés sont tenus de prêter leur concours aux vérificateurs. Ils doivent
-présenter leurs fonds et valeurs et communiquer sans déplacement tous livres, pièces et documents dont la production leur est
-demandée.
+L'avertissement est notifié au président ou dirigeant de l'organisme soit par pli recommandé adressé au siège social de
+l'organisme avec demande d'avis de réception postal, soit par remise à ce siège contre récépissé.
 
-Les fonctionnaires ou agents chargés des contrôles communiquent leurs observations au président des organismes ou au
-représentant des collectivités contrôlées. Ceux-ci doivent y répondre dans le délai d'un mois. A défaut de répondre dans ce
-délai, toute attribution de crédit est suspendue.
+Les opérations de contrôle sur place ne peuvent être engagées qu'à l'expiration d'un délai de huit jours. Ce délai commence à
+courir le lendemain du jour de la notification du pli contenant l'avertissement. En cas de notification par lettre
+recommandée avec demande d'avis de réception postal, ce délai a pour point de départ le lendemain du jour de la présentation
+du pli au siège de l'organisme.
 
-Les rapports établis par les fonctionnaires ou agents susmentionnés sont transmis, avec la réponse du président de
-l'organisme ou du représentant de la collectivité, au ministre chargé de la construction et de l'habitation qui en donne
-connaissance au ministre chargé des finances.
+Lorsque l'urgence le justifie, le ministre chargé du logement peut décider que les opérations de contrôle sur place seront
+engagées une heure après la remise de l'avertissement. Il est fait mention de cette décision dans l'avertissement qui est
+notifié à l'organisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*215-4 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R451-2 (M)
-
 
 ###### Article R451-4
 
-Indépendamment des mesures de contrôle prévues à l'article R. 451-1, les départements et les communes peuvent faire contrôler
-les opérations et les écritures des organismes d'habitations à loyer modéré dont ils ont garanti les emprunts.
-
-Ce contrôle est exercé par des agents désignés à cet effet par le préfet.
-
-Les rapports établis par ces agents sont communiqués au président de l'organisme. Copie de ces rapports et de la réponse du
-président est transmise au ministre chargé de la construction et de l'habitation ainsi qu'au ministre chargé des finances.
+En application du septième alinéa de l'article L. 451-1, les agents chargés du contrôle sur place ont accès à tous fichiers
+ou dossiers ainsi qu'à tous documents, renseignements ou justificatifs et peuvent en prendre ou en demander copie aux frais
+de l'organisme. Si ces données sont conservées sur des supports informatiques, ils peuvent demander qu'elles soient
+transcrites dans des documents utilisables pour des besoins du contrôle. Ils ont aussi accès aux logiciels qui permettent de
+les traiter.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-22 (V)
 	  - Code de la construction et de l'habitation. - art. R*421-71 (Ab)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R451-1 (M)
-
 
 ###### Article R451-5
 
-Le contrôle technique des organismes d'habitations à loyer modéré est assumé par le ministre chargé de la construction et de
-l'habitation [*autorité compétente*].
+Lorsque le contrôle s'est conclu par un rapport, celui-ci est notifié au président ou dirigeant de l'organisme soit par pli
+recommandé adressé au siège social de l'organisme avec demande d'avis de réception postal, soit par remise à ce siège contre
+récépissé.
+
+Dans le délai d'un mois commençant à courir le lendemain du jour de la notification du rapport, le président ou le dirigeant
+de l'organisme contrôlé peut adresser des observations écrites à la personne qui lui a communiqué celui-ci. En cas de
+notification de ce rapport par lettre recommandée avec demande d'avis de réception postal, ce délai commence à courir le
+lendemain du jour de la présentation du pli au siège de l'organisme. La date limite au-delà de laquelle ces observations ne
+seront pas prises en considération pour rédiger le rapport définitif mentionné à l'article R. 451-6 est déterminée
+conformément aux prescriptions de l'article 16 de la loi n° 2000-321 du 12 avril 2000.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
-
-
-###### Article R451-6
-
-Les prélèvements opérés sur le fonds des redevances servant à régler les frais de contrôle sont effectués conformément à
-l'article L. 451-4 sur décisions prises par le ministre chargé des finances et le ministre chargé de la construction et de
-l'habitation après avis du conseil supérieur des habitations à loyer modéré.
-
-Les prêts mentionnés à l'article L. 451-4, alinéa 1er, sont accordés par les mêmes ministres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L451-4 (M)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 16
+
+	**Modifié par**:
+
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R451-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R*451-6 (VT)
 	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
 
 
-###### Article R451-7
+##### Section 2 : Infractions aux règles d'attribution et d'affectation.
+
+###### Article R*451-8
+
+I. - En cas d'infraction aux règles d'attribution ou d'affectation des logements prévues par le présent code, le préfet du
+département du lieu de situation du local notifie au président ou dirigeant de l'organisme les griefs formulés contre ce
+dernier et l'invite à présenter ses observations écrites. La notification est faite soit par pli recommandé adressé au siège
+social de l'organisme avec demande d'avis de réception postal, soit par remise à ce siège contre récépissé.
+
+Dans le délai d'un mois commençant à courir le lendemain du jour de la notification mentionnée ci-dessus, le président ou le
+dirigeant de l'organisme peut adresser des observations écrites au préfet. La date limite au-delà de laquelle celles-ci ne
+sont pas prises en considération est déterminée conformément aux prescriptions de l'article 16 de la loi n° 2000-321 du 12
+avril 2000. Dans le même délai, le président ou le dirigeant de l'organisme peut demander à présenter des observations
+orales, en se faisant assister, le cas échéant, par un conseil de son choix ou en se faisant représenter.
+
+II. - Les sanctions prévues au second alinéa de l'article L. 451-2-1 sont, s'il y a lieu, prononcées par arrêté du préfet.
+Elles donnent lieu à l'émission d'un titre de perception exécutoire, établi par le préfet et recouvré au profit de l'Etat par
+les comptables du Trésor, selon les modalités prévues pour les créances étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 16 (M)
+	  - Code de la construction et de l'habitation. - art. L451-2-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+
+##### Section 3 : Contrôle à la demande des départements et des communes
+
+###### Article R*451-9
+
+Indépendamment des mesures de contrôle prévues à l'article R. 451-1, les départements et les communes peuvent faire contrôler
+les opérations et les écritures des organismes d'habitations à loyer modéré dont ils ont garanti les emprunts.
+
+Ce contrôle est exercé par les agents désignés à cet effet par le préfet.
+
+Les rapports établis par ces agents sont communiqués au président de l'organisme. Copie de ces rapports et de la réponse du
+président est transmise au ministre chargé du logement ainsi qu'au ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R451-1 (VT)
+
+
+##### Section 4 : Avis préalable à certaines opérations immobilières
+
+###### Article R*451-10
 
 L'avis du service des domaines prévu à l'article L. 451-5 porte sur la valeur vénale du bien immobilier.
 
@@ -73819,18 +73857,18 @@ défaut de quoi, il peut être procédé à la réalisation de l'opération.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
-
-	**Cité par**:
-
-	  - Arrêté du 19 décembre 2007 - art. 3 (Ab)
+	  - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R1211-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R3221-9 (V)
 
 
 #### Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.
