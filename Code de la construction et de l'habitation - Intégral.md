@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1998-07-31
 
 # Partie législative
 
@@ -7550,7 +7550,8 @@ les quartiers d'une même commune une répartition équilibrée et diversifiée 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et économique, de l'évaluation des besoins des
 habitants actuels et futurs, de la desserte en transports et des options d'aménagement déterminées par le schéma directeur ou
 le schéma de secteur, lorsqu'ils existent, ainsi que des dispositions du plan départemental d'action pour le logement des
-personnes défavorisées et du protocole d'occupation du patrimoine social des communes, quand ils existent.
+personnes défavorisées, des chartes intercommunales du logement définies à l'article L. 441-1-5 et du protocole d'occupation
+du patrimoine social des communes, quand ils existent.
 
 Il indique les moyens, notamment fonciers, qui seront mis en oeuvre par les communes ou les établissements publics de
 coopération intercommunale compétents en matière d'urbanisme pour parvenir aux objectifs et principes qu'il a fixés.
@@ -7599,7 +7600,11 @@ coopération intercommunale compétents en matière d'urbanisme pour parvenir au
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 29 () JORF 15 novembre 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 54 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
 
 
 ###### Article L302-2
@@ -12354,7 +12359,10 @@ jour du mois civil suivant le décès.
 
 Toutefois, les dispositions du I et du II ne peuvent avoir pour effet d'interrompre le droit à l'aide personnalisée au
 logement ou, le cas échéant, aux allocations de logement visées aux articles L. 542-1 et L. 831-1 du code de la sécurité
-sociale.
+sociale. Les dispositions du premier alinéa du I ne s'appliquent pas aux personnes qui, hébergées par un organisme logeant à
+titre temporaire des personnes défavorisées et bénéficiant de l'aide prévue à l'article L. 851-1 du code de la sécurité
+sociale, accèdent à un logement ouvrant droit à l'aide personnalisée au logement. Dans ce cas, l'aide est due à compter du
+premier jour du mois civil au cours duquel les conditions d'ouverture du droit sont réunies.
 
 **Liens relatifs à cet article**
 
@@ -12362,10 +12370,15 @@ sociale.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 44 () JORF 31 juillet 1998
+
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L542-1 (M)
 	  - Code de la sécurité sociale. - art. L831-1 (M)
+	  - Code de la sécurité sociale. - art. L851-1 (M)
 
 	**Cité par**:
 
@@ -12375,10 +12388,6 @@ sociale.
 	  - Code de la construction et de l'habitation. - art. R351-3 (V)
 	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-59 (V)
-
-	**Créé par**:
-
-	  - Loi n°94-1162 1994-12-30 art. 93 I Finances pour 1995 JORF 30 décembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article L351-4
@@ -13444,8 +13453,9 @@ aux locataires ou occupants de bonne foi des logements mentionnés à l'article 
 
 Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
 portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par un locataire
-d'un logement mentionné à l'article L. 353-14 qui bénéficie de l'attribution d'un autre logement mentionné au même article
-est ramené à deux mois.
+d'un logement mentionné à l'article L. 353-14 qui bénéficie de l'attribution dans le parc du même bailleur d'un autre
+logement mentionné au même article est ramené à un mois. Ce délai est de deux mois si les deux logements appartiennent à des
+bailleurs différents.
 
 A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation contraire, les charges récupérables sont
 exigibles dans les conditions prévues à l'article L. 442-3.
@@ -13476,7 +13486,39 @@ exigibles dans les conditions prévues à l'article L. 442-3.
 
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 38 (V) JORF 24 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 59 () JORF 31 juillet 1998
+
+
+###### Article L353-15-1
+
+Pour l'application de l'article 24 de la loi n° 89-462 du 6 juillet 1989 précitée, les organismes bailleurs, pour leurs
+logements faisant l'objet d'une convention conclue en application de l'article L. 351-2 et dont les locataires bénéficient de
+l'aide personnalisée au logement, ne peuvent faire délivrer une assignation aux fins de constat de résiliation du bail avant
+l'expiration d'un délai de trois mois suivant la saisine de la commission mentionnée à l'article L. 351-14 en vue d'assurer
+le maintien du versement de l'aide personnalisée au logement, sauf si la décision de cette commission intervient avant
+l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (M)
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 115 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L353-19 (V)
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+	  - Code de la construction et de l'habitation. - art. L411-4 (V)
 
 
 ###### Article L353-16
@@ -13588,16 +13630,17 @@ convention s'appliquent de plein droit, à compter de sa date d'entrée en vigue
 lorsqu'elle en prévoit, aux titulaires de baux en cours ou aux bénéficiaires du droit au maintien dans les lieux sans qu'il
 soit nécessaire de leur donner congé.
 
-Les dispositions de l'article L. 353-17 sont applicables aux logements mentionnés ci-dessus.
+Les dispositions de l'article L. 353-17 et de l'article L. 353-15-1 sont applicables aux logements mentionnés ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 19 () JORF 2 juin 1990
+	  - Loi n°98-657 du 29 juillet 1998 - art. 115 () JORF 31 juillet 1998
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L353-15-1 (M)
 	  - Code de la construction et de l'habitation. - art. L353-17 (V)
 	  - Code de la construction et de l'habitation. - art. L353-7 (M)
 
@@ -13612,30 +13655,81 @@ Les dispositions de l'article L. 353-17 sont applicables aux logements mentionn�
 	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
 
 
+###### Article L353-19-1
+
+Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 précitée, le délai de préavis applicable au congé
+donné par un locataire d'un logement appartenant à une société d'économie mixte et conventionné à l'aide personnalisée au
+logement en application de l'article L. 351-2 qui bénéficie de l'attribution dans le parc du même bailleur d'un autre
+logement appartenant à une société d'économie mixte et conventionné à l'aide personnalisée au logement en application de
+l'article L. 351-2 est ramené à un mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-67 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 59 () JORF 31 juillet 1998
+
+
 ###### Article L353-20
 
-Nonobstant toutes dispositions ou stipulations contraires, les bailleurs, autres que ceux mentionnés à l'article L. 353-14,
-peuvent louer les logements régis par une convention conclue en application de l'article L. 351-2 auc centres communaux
-d'action sociale, organismes et associations mentionnés au premier alinéa de l'article L. 442-8-1 et aux associations ou
-établissements publics mentionnés à l'article L. 442-8-4.
+Nonobstant toutes dispositions ou stipulations contraires, les bailleurs autres que les organismes d'habitations à loyer
+modéré mentionnés à l'article L. 353-14 peuvent louer les logements régis par une convention conclue en application de
+l'article L. 351-2 aux centres communaux d'action sociale, aux organismes et associations mentionnés au premier alinéa de
+l'article L. 442-8-1 et aux associations ou établissements publics mentionnés à l'article L. 442-8-4.
+
+Les sous-locataires sont assimilés aux locataires, dans la mesure et dans les conditions prévues par le présent article.
 
 Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnalisée au logement prévue par l'article
 L. 351-1.
 
-Ne peuvent se prévaloir des dispositions de l'article L. 353-2 relatives à la reconduction des baux à la volonté du locataire
-pendant la durée de la convention :
+Les dispositions de la loi n° 89-462 du 6 juillet 1989 précitée sont applicables au contrat de sous-location dans les
+conditions prévues au III de l'article 40 de cette loi.
 
-1° Les sous-locataires des associations mentionnées au premier alinéa de l'article L. 442-8-1, après le refus d'une offre de
-relogement définitif correspondant à leurs besoins et à leurs possibilités ;
+Les dispositions des conventions mentionnées à l'article L. 351-2 prévues aux huitième, neuvième, dixième et onzième alinéas
+de l'article L. 353-2 s'appliquent aux contrats de sous-location.
 
-2° Les sous-locataires des associations ou établissements publics mentionnés à l'article L. 442-8-4, dès lors qu'ils ne
-répondent plus aux conditions pour être logés par ces personnes morales telles que précisées par le contrat de sous-location.
+Toutefois, les centres communaux d'action sociale et les organismes et associations mentionnés au premier alinéa de l'article
+L. 442-8-1 peuvent donner congé à tout moment à leurs sous-locataires après le refus d'une offre de relogement définitif
+correspondant à leurs besoins et à leurs possibilités.
+
+Toutefois, les associations ou établissements publics mentionnés à l'article L. 442-8-4 peuvent donner congé à tout moment à
+leurs sous-locataires dès lors qu'ils ne répondent plus aux conditions pour être logés par ces personnes morales telles que
+précisées dans le contrat de sous-location.
+
+Les sous-locations peuvent être effectuées meublées ou non meublées.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 1989-07-06 art. 40
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-14 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 25 () JORF 24 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 125 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13645,19 +13739,6 @@ répondent plus aux conditions pour être logés par ces personnes morales telle
 	  - Code de la construction et de l'habitation. - art. R353-66 (V)
 	  - Code de la construction et de l'habitation. - art. R353-94 (V)
 	  - Code de la construction et de l'habitation. - art. R365-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L353-14 (M)
-	  - Code de la construction et de l'habitation. - art. L353-2 (M)
-	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
-	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.
@@ -13901,6 +13982,31 @@ L. 301-3 à L. 301-5, L. 312-4-1, L. 312-5-1, L. 312-5-2 et L. 364-1.
 ### Titre Ier : Dispositions générales.
 
 #### Chapitre unique.
+
+###### Article L411
+
+La construction, l'aménagement, l'attribution et la gestion des logements locatifs sociaux visent à améliorer les conditions
+d'habitat des personnes de ressources modestes ou défavorisées. Ces opérations participent à la mise en oeuvre du droit au
+logement et contribuent à la nécessaire mixité sociale des villes et des quartiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 44 (V)
+	  - Code de la construction et de l'habitation. - art. L302-5 (V)
+	  - Code de la construction et de l'habitation. - art. L421-8 (M)
+	  - Code de la construction et de l'habitation. - art. L421-9 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 55 () JORF 31 juillet 1998
+
 
 ###### Article L411-1
 
@@ -14177,7 +14283,10 @@ locatifs définis par l'article 37 de la loi n° 82-526 du 22 juin 1982 ou à de
 immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la propriété ;
 
 - de réaliser, en qualité de prestataire de services, des opérations portant sur tout immeuble à usage principal
-d'habitation.
+d'habitation ;
+
+- d'acquérir et donner en location à des organismes agréés par arrêté du représentant de l'Etat dans le département des
+hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté.
 
 Un décret en Conseil d'Etat précise leurs attributions et détermine les modalités de leur fonctionnement.
 
@@ -14246,7 +14355,7 @@ conditions fixées par les articles L. 444-1 et suivants.
 
 	**Modifié par**:
 
-	  - Loi n°98-87 du 19 février 1998 - art. 2 () JORF 20 février 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 41 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
@@ -14394,7 +14503,15 @@ conseil d'administration, aprés avis du trésorier-payeur général.
 
 ###### Article L421-8
 
-Les conseils d'administration des offices comportent des représentants de leurs locataires [*composition*].
+Les conseils d'administration des offices comportent des représentants de leurs locataires *composition*.
+
+Les représentants des locataires sont élus sur des listes de candidats présentées par des associations oeuvrant dans le
+domaine du logement.
+
+Ces associations doivent être indépendantes de tout parti politique ou organisation philosophique, confessionnelle, ethnique
+ou raciale et ne pas poursuivre des intérêts collectifs qui seraient en contradiction avec les objectifs du logement social
+fixés par le code de la construction et de l'habitation, et notamment par les articles L. 411 et L. 441, ou du droit à la
+ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville.
 
 Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa précédent.
 
@@ -14402,7 +14519,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa pré
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -14417,9 +14534,15 @@ Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa pré
 	  - Code de la construction et de l'habitation. - art. R*421-58 (Ab)
 	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 191 bis
+	  - Loi n°91-662 1991-07-13
+	  - Code de la construction et de l'habitation. - art. L411 (V)
+	  - Code de la construction et de l'habitation. - art. L441 (M)
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 61 () JORF 31 juillet 1998
 
 
 #### Chapitre Ier : Etablissements publics d'habitations à loyer modéré
@@ -14543,7 +14666,10 @@ mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orien
 territoire ;
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
-rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires.
+rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires ;
+
+- d'acquérir et donner en location à des organismes agréés par arrêté du représentant de l'Etat dans le département des
+hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté.
 
 Elles peuvent, en outre :
 
@@ -14609,7 +14735,7 @@ conditions fixées par les articles L. 444-1 et suivants.
 
 	**Modifié par**:
 
-	  - Loi n°98-87 du 19 février 1998 - art. 2 () JORF 20 février 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 41 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
@@ -14628,19 +14754,30 @@ l'exception de celles prévues aux articles 95 à 97 et 130 à 132 de la loi n°
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
 
+Les représentants des locataires sont élus sur des listes de candidats présentés par des associations oeuvrant dans le
+domaine du logement.
+
+Ces associations doivent être indépendantes de tout parti politique ou organisation philosophique, confessionnelle, ethnique
+ou raciale et ne pas poursuivre des intérêts collectifs qui seraient en contradiction avec les objectifs du logement social
+fixés par le code de la construction et de l'habitation, et notamment par les articles L. 411 et L. 441, ou du droit à la
+ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°66-537 1966-07-24 art. 95 à 97, art. 130 à 132
+	  - Loi n°91-662 1991-07-13
+	  - Code de la construction et de l'habitation. - art. L411 (V)
+	  - Code de la construction et de l'habitation. - art. L441 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 41 ()
+	  - Loi n°98-657 du 29 juillet 1998 - art. 61 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -14676,7 +14813,10 @@ travaux portant sur des immeubles existants et destinés à usage d'habitation o
 
 4° De réaliser des lotissements ;
 
-5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1.
+5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1 ;
+
+6° D'acquérir et donner en location à des organismes agréés par arrêté du représentant de l'Etat dans le département des
+hôtels, meublés ou non, destinés à l'hébergement temporaire des personnes en difficulté.
 
 Elles peuvent, en outre, avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le
 département, gérer en qualité d'administrateurs de biens des logements situés dans des copropriétés connaissant des
@@ -14707,7 +14847,7 @@ Un décret détermine les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 55 () JORF 3 juillet 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 41 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -16301,16 +16441,56 @@ en concurrence et d'exécution prévus par le code des marchés publics dans des
 
 ##### Section 1 : Conditions d'attribution des logements et plafonds de ressources.
 
+###### Article L441
+
+L'attribution des logements locatifs sociaux participe à la mise en oeuvre du droit au logement, afin de satisfaire les
+besoins des personnes de ressources modestes et des personnes défavorisées.
+
+L'attribution des logements locatifs sociaux doit notamment prendre en compte la diversité de la demande constatée
+localement ; elle doit favoriser l'égalité des chances des demandeurs et la mixité sociale des villes et des quartiers.
+
+Les collectivités territoriales concourent, en fonction de leurs compétences, à la réalisation des objectifs mentionnés aux
+alinéas précédents, notamment dans le cadre de conférences et chartes intercommunales.
+
+Les bailleurs sociaux attribuent les logements locatifs sociaux dans le cadre des dispositions de la présente section.
+
+L'Etat veille au respect des règles d'attribution de logements sociaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 44 (V)
+	  - Code de la construction et de l'habitation. - art. L421-8 (M)
+	  - Code de la construction et de l'habitation. - art. L421-9 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-3-2 (V)
+	  - Code de la construction et de l'habitation. - art. R* 441-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+
 ###### Article L441-1
 
-Les logements construits, améliorés ou acquis et améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide
-personnalisée au logement et appartenant aux organismes d'habitations à loyer modéré ou gérés par ceux-ci sont attribués par
-ces organismes dans des conditions fixées par décret en Conseil d'Etat. Pour l'attribution des logements, ce décret prévoit
-qu'il est tenu compte notamment de la composition, du niveau de ressources et des conditions de logement actuelles du ménage,
-de l'éloignement des lieux de travail et de la proximité des équipements répondant aux besoins des demandeurs. Il fixe des
-critères généraux de priorité pour l'attribution des logements, notamment au profit de personnes mal logées ou défavorisées.
-Il fixe également les conditions dans lesquelles le maire de la commune d'implantation des logements est consulté sur les
-principes régissant ces attributions et sur le résultat de leur application.
+Le décret en Conseil d'Etat prévu à l'article L. 441-2-6 détermine les conditions dans lesquelles les logements construits,
+améliorés ou acquis et améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide personnalisée au logement et
+appartenant aux organismes d'habitations à loyer modéré ou gérés par ceux-ci sont attribués par ces organismes. Pour
+l'attribution des logements, ce décret prévoit qu'il est tenu compte notamment de la composition, du niveau de ressources et
+des conditions de logement actuelles du ménage, de l'éloignement des lieux de travail et de la proximité des équipements
+répondant aux besoins des demandeurs. Il fixe des critères généraux de priorité pour l'attribution des logements, notamment
+au profit de personnes mal logées, défavorisées ou rencontrant des difficultés particulières de logement pour des raisons
+d'ordre financier ou tenant à leurs conditions d'existence. Il fixe également les conditions dans lesquelles le maire de la
+commune d'implantation des logements est consulté sur les principes régissant ces attributions et sur le résultat de leur
+application.
 
 Le décret mentionné à l'alinéa précédent fixe également les limites et conditions dans lesquelles les organismes
 d'habitations à loyer modéré peuvent, en contrepartie d'un apport de terrain, d'un financement ou d'une garantie financière,
@@ -16321,20 +16501,9 @@ sont nulles de plein droit.
 Il détermine également les limites et conditions de réservation des logements par le représentant de l'Etat dans le
 département au profit des personnes prioritaires, notamment mal logées ou défavorisées.
 
-Les organismes d'habitations à loyer modéré informent chaque année le conseil municipal des communes sur le territoire
-desquelles ils possèdent plus de cent logements de la politique générale qu'ils poursuivent en ce qui concerne notamment
-l'entretien, les travaux de réhabilitation ou d'aménagement, le loyer et la politique d'attribution de ces logements et les
-demandes en attente.
-
-Le maire d'une commune sur le territoire de laquelle sont implantés des logements à usage locatif est entendu, à sa demande,
-par le conseil d'administration des organismes d'habitations à loyer modéré. Il est informé tous les trois mois des
-attributions de logements effectuées par ces organismes.
-
-Il participe aux délibérations de la commission d'attribution des logements.
-
-Les dispositions des quatrième et cinquième alinéas sont applicables aux sociétés civiles immobilières dont le capital est
-constitué majoritairement par les fonds provenant de la participation des employeurs à l'effort de construction et aux
-sociétés d'économie mixte locales d'aménagement et de construction.
+Les plafonds de ressources pour l'attribution des logements locatifs sociaux fixés en application des dispositions du présent
+article sont révisés annuellement en fonction de l'évolution du salaire minimum de croissance visé à l'article L. 141-2 du
+code du travail.
 
 **Liens relatifs à cet article**
 
@@ -16443,26 +16612,43 @@ sociétés d'économie mixte locales d'aménagement et de construction.
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code du travail - art. L141-2 (AbD)
+	  - Code de la construction et de l'habitation. - art. L441-2-6 (V)
 
 
 ###### Article L441-1-1
 
-Il est créé, dans chaque organisme d'habitations à loyer modéré, une commission d'attribution chargée d'attribuer
-nominativement chaque logement locatif, composée de six membres qui élisent en leur sein un président qui dispose d'une voix
-prépondérante.
+Les conditions d'application des règles prévues à l'article L. 441-1, notamment les critères de priorité pour l'attribution
+des logements et les conditions de leur réservation au profit des personnes prioritaires, ainsi que les modalités de
+l'information du représentant de l'Etat dans le département, des maires et des conférences intercommunales du logement
+prévues à l'article L. 441-1-4 sont, pour chaque département, précisées en tenant compte de la mixité des villes et des
+quartiers ainsi que, le cas échéant, des caractéristiques des diverses parties de celui-ci, par un règlement établi par le
+représentant de l'Etat dans le département après avis du conseil départemental de l'habitat.
 
-En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de
-ladite commission.
+Ce règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, des besoins
+évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la loi n°
+90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, des accords collectifs départementaux prévus à
+l'article L. 441-1-2 et, le cas échéant, des chartes intercommunales prévues à l'article L. 441-1-5.
 
-Un décret détermine les conditions d'application du présent article et précise notamment les règles relatives à la
-composition de la commission.
+En cas d'inobservation par un organisme des règles fixées par le règlement départemental, après épuisement des voies de
+conciliation et après mise en demeure, le représentant de l'Etat dans le département peut, pour une durée qui ne peut excéder
+un an, désigner un délégué spécial chargé de prononcer les attributions de logements au nom et pour le compte de l'organisme,
+dans le respect des règles et des conventions régulièrement signées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 2
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
 
 	**Cité par**:
 
@@ -16502,24 +16688,45 @@ composition de la commission.
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
 
 
 ###### Article L441-1-2
 
-Il est créé, dans chaque société civile immobilière dont le capital est constitué majoritairement par les fonds provenant de
-la participation des employeurs à l'effort de construction, et lorsqu'une partie de leur patrimoine est incluse dans un grand
-ensemble anciennement classé en zone à urbaniser par priorité, une commission d'attribution chargée d'attribuer
-nominativement chacun de ces logements locatifs.
+Des accords nationaux sont conclus entre l'Etat et les organisations nationales représentatives des organismes gestionnaires
+de logements sociaux dans le respect des principes définis à l'article L. 441.
 
-Le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit de ladite
-commission.
+Dans chaque département, le représentant de l'Etat dans le département conclut, tous les trois ans, après consultation des
+conférences intercommunales prévues à l'article L. 441-1-4 et du conseil départemental de l'habitat, un accord collectif avec
+les organismes disposant d'un patrimoine locatif social dans le département. Cet accord définit pour chaque organisme un
+engagement annuel quantifié d'attribution de logements aux personnes cumulant des difficultés économiques et sociales et
+visées dans le plan départemental d'action pour le logement des personnes défavorisées au sens de l'article 4 de la loi n°
+90-449 du 31 mai 1990 précitée. Cet engagement doit respecter la mixité sociale des villes et des quartiers. Il tient compte
+des capacités d'accueil et de l'occupation sociale des différents organismes, par secteur géographique.
+
+Il est précisé et complété par les dispositions des chartes prévues à l'article L. 441-1-5. Il organise les moyens
+d'accompagnement et les dispositions nécessaires à la mise en oeuvre des objectifs ainsi définis.
+
+Il définit des délais d'attente manifestement anormaux au regard des circonstances locales, au-delà desquels les demandes
+font l'objet d'un examen prioritaire, ainsi que les conditions de cet examen. A défaut, ces délais sont définis par arrêté du
+représentant de l'Etat dans le département.
+
+Il tient compte des dispositions des protocoles d'occupation du patrimoine social, en vigueur à la date de publication de la
+loi n° 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions, dans les conditions prévues à
+l'article 62 de cette loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 4
+	  - Loi n°98-657 du 29 juillet 1998 - art. 62 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
 
 	**Cité par**:
 
@@ -16547,49 +16754,260 @@ commission.
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+
+###### Article L441-1-3
+
+Lorsqu'au terme d'un délai de six mois après qu'il lui a été proposé par le représentant de l'Etat dans le département, un
+organisme refuse de signer l'accord départemental, le représentant de l'Etat dans le département désigne à l'organisme des
+personnes prioritaires et fixe le délai dans lequel celui-ci est tenu de les loger. Ces attributions s'imputent sur ses
+droits à réservation. Elles sont prononcées en tenant compte de l'état de l'occupation du patrimoine de l'organisme au regard
+de la nécessaire diversité de la composition sociale de chaque quartier et de chaque commune, après consultation des maires
+des communes intéressées, jusqu'à la signature de l'accord départemental.
+
+Si un organisme refuse d'honorer l'engagement qu'il a pris dans le cadre d'un tel accord, le représentant de l'Etat dans le
+département procède à un nombre d'attributions équivalent au nombre de logements restant à attribuer en priorité aux
+personnes défavorisées en vertu de cet accord, après consultation des maires des communes intéressées.
+
+Si l'organisme fait obstacle à la mise en oeuvre des dispositions précédentes, notamment en ne mettant pas le représentant de
+l'Etat dans le département en mesure d'identifier des logements relevant de ses droits à réservation, ce dernier, après
+tentative de conciliation suivie au besoin d'une mise en demeure, désigne, pour une durée d'un an, un délégué spécial chargé
+de prononcer les attributions de logements au nom et pour le compte de l'organisme, après consultation des maires des
+communes concernées, dans le respect des conventions de réservation de logements régulièrement signées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (VT)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
+
+
+###### Article L441-1-4
+
+Lorsque la situation du logement le justifie au regard des objectifs de mixité sociale et d'accueil des personnes
+défavorisées, le représentant de l'Etat dans le département, après consultation de la commission départementale de la
+coopération intercommunale et du conseil départemental de l'habitat ainsi que, dans la région d'Ile-de-France, de la
+conférence régionale mentionnée à l'article L. 441-1-6, délimite des bassins d'habitat qui représentent des territoires
+cohérents d'intervention en matière de politique de logement et d'urbanisme. Il doit prendre en compte pour cette
+délimitation les structures de coopération intercommunale compétentes en matière d'urbanisme et de logement créées en
+application des dispositions de la cinquième partie du code général des collectivités territoriales, les périmètres des
+programmes locaux de l'habitat institués en application des articles L. 302-1 et suivants du présent code, lorsque ces
+derniers ont un caractère intercommunal et, le cas échéant, les bassins d'habitat délimités par le plan départemental
+d'action pour le logement des personnes défavorisées en application des dispositions de l'article 4 de la loi n° 90-449 du 31
+mai 1990 précitée ainsi que les conférences intercommunales du logement existantes à la date de publication de la loi n°
+98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions.
+
+Ceux-ci sont constitués par le territoire de plusieurs communes contiguës dont l'une au moins comprend une ou plusieurs zones
+urbaines sensibles, définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et
+le développement du territoire, ou a plus de 5 000 habitants et comporte un parc de logements locatifs sociaux, tels que
+définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales, représentant plus de 20 %
+des résidences principales au sens du II de l'article 1411 du code général des impôts. Ils peuvent également être constitués,
+à la demande de la majorité des maires concernés, par le territoire des communes agglomérées sur lequel existent d'importants
+déséquilibres de peuplement.
+
+Les communes situées dans un bassin d'habitat ainsi délimité doivent créer une conférence intercommunale du logement dans un
+délai d'un an à compter de la publication de la loi n° 98-657 du 29 juillet 1998 précitée.
+
+Lorsque le bassin d'habitat regroupe des communes situées dans des départements différents, sa délimitation est faite par les
+représentants de l'Etat dans les départements concernés, après consultation des commissions départementales de la coopération
+intercommunale et des conseils départementaux de l'habitat. Toutefois, dans la région d'Ile-de-France, la délimitation des
+bassins d'habitat regroupant des communes situées dans des départements différents relève de la compétence du représentant de
+l'Etat dans la région après avis des commissions et conseils susmentionnés ainsi que de la conférence régionale mentionnée à
+l'article L. 441-1-6.
+
+La conférence du logement rassemble, outre les maires des communes et le ou les représentants de l'Etat dans le ou les
+départements concernés, les bailleurs sociaux possédant ou gérant des logements dans le bassin d'habitat, les représentants
+des associations de locataires affiliées à une organisation siégeant à la Commission nationale de concertation, des
+représentants des associations agréées dont l'un des objets est l'insertion ou le logement des personnes défavorisées,
+désignés par le représentant de l'Etat, et, lorsqu'ils sont titulaires de droits de réservation dans le bassin d'habitat, les
+organismes collecteurs de la participation des employeurs à l'effort de construction.
+
+Elle est présidée par le représentant des maires des communes intéressées désigné par ceux-ci. Toutefois, si la conférence
+intercommunale du logement ne s'est pas réunie dans le délai d'un an prévu au troisième alinéa, elle est présidée et, au
+besoin, préalablement créée par le ou les représentants de l'Etat dans le ou les départements concernés.
+
+La conférence intercommunale délibère à la majorité de ses membres. Elle se réunit au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - Loi n°90-449 1990-05-31 art. 4
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°98-657 1998-07-29
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 4 (M)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (M)
+	  - Code de la construction et de l'habitation. - art. L472-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R362-2 (V)
+	  - Code de la construction et de l'habitation. - art. R371-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-16 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R441-6 (V)
+	  - Code général des collectivités territoriales - art. L3444-6 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+
+###### Article L441-1-5
+
+Le représentant de l'Etat dans le département saisit la conférence intercommunale du logement de l'accord départemental, et
+notamment des engagements quantifiés annuels d'attribution fixés pour chaque organisme disposant d'un patrimoine locatif
+social dans le bassin d'habitat concerné. La conférence définit, compte tenu des autres demandes de logement social, les
+orientations prioritaires d'attribution propres à chaque organisme et les besoins de création d'offres adaptées. Elle peut
+également émettre un avis sur le niveau des plafonds de ressources dans le bassin d'habitat.
+
+Dans le cas où une conférence réunit des communes situées dans des départements différents, elle est saisie par les
+représentants de l'Etat dans les départements concernés.
+
+Dans le respect des engagements quantifiés fixés annuellement à chaque organisme en application de l'accord collectif
+départemental, la conférence élabore une charte intercommunale du logement définissant la répartition de ces objectifs
+quantifiés d'accueil des personnes défavorisées dans le parc de logements locatifs sociaux du bassin d'habitat. La conférence
+évalue annuellement la situation des demandes non satisfaites dans les délais et les conditions de mise en oeuvre de la
+charte intercommunale du logement.
+
+Pour l'élaboration de la charte intercommunale du logement, la conférence est composée comme il est dit à l'article L.
+441-1-4, à l'exclusion toutefois des maires des communes dont le territoire ne comporte pas de logements locatifs sociaux.
+Seuls les membres de la conférence représentant les collectivités locales ont voix délibérative.
+
+La charte est soumise à l'agrément du représentant de l'Etat dans le département. Celui-ci peut présenter à la conférence des
+demandes motivées de modification. Lorsqu'au terme d'un délai de six mois après la transmission prévue au premier alinéa, la
+conférence n'a pas élaboré de charte intercommunale du logement ou que celle-ci n'a pas été agréée par le représentant de
+l'Etat dans le département, les attributions de logements locatifs sociaux dans le bassin d'habitat concerné sont prononcées
+selon les dispositions des articles L. 441 à L. 441-1-2.
+
+Dans le cas où une conférence intercommunale réunit des communes situées dans des départements différents, la charte est
+soumise à l'agrément des représentants de l'Etat dans les départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 62 (Ab)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 63 (Ab)
+	  - Loi n°2015-991 du 7 août 2015 - art. 59
+	  - Code de la construction et de l'habitation. - art. L302-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. R302-16 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-11 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-12 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-13 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-7 (V)
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+	  - Code général des collectivités territoriales - art. L5219-5 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L441-1-4, L441 à L441-1-2
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+
+
+###### Article L441-1-6
+
+Pour la région d'Ile-de-France, il est créé une conférence régionale du logement social. La conférence comprend, sous la
+présidence du représentant de l'Etat dans la région, des représentants de la région et, pour chacun des départements qu'elle
+réunit, des représentants de l'Etat, des départements, des communes, des bailleurs sociaux, des associations agréées, dont
+l'un des objets est l'insertion ou le logement des personnes défavorisées, ainsi que des organismes collecteurs de la
+participation des employeurs à l'effort de construction.
+
+La conférence élabore, pour une durée de trois ans, un schéma d'orientation en vue d'harmoniser les politiques du logement
+social et notamment les principes de répartition et d'attribution des logements sociaux, au rang desquels figure le principe
+de mixité sociale, ainsi que les aides financières qui peuvent concourir à la solidarité pour le logement.
+
+Compte tenu des accords départementaux conclus en application de l'article L. 441-1-2 et notamment des engagements quantifiés
+annuels, elle évalue annuellement la mise en oeuvre du schéma d'orientation.
+
+Elle se réunit au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 3 (V)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 11 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*441-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-16-4 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
 
 
 ###### Article L441-2
 
-Les conditions d'application des règles prévues à l'article L. 441-1, notamment les critères de priorité pour l'attribution
-des logements et les conditions de leur réservation au profit des personnes prioritaires, ainsi que les modalités de
-l'information du représentant de l'Etat prévue au cinquième alinéa du présent article, sont, pour chaque département,
-précisées par un règlement établi par le représentant de l'Etat après avis du conseil départemental de l'habitat.
+Il est créé, dans chaque organisme d'habitations à loyer modéré, une commission d'attribution chargée d'attribuer
+nominativement chaque logement locatif composée de six membres qui élisent en leur sein un président qui dispose d'une voix
+prépondérante.
 
-Ce règlement tient compte des programmes locaux de l'habitat, communiqués au conseil départemental de l'habitat, ainsi que
-des besoins évalués par le plan départemental d'action pour le logement des personnes défavorisées prévu à l'article 2 de la
-loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+Il est créé dans les mêmes conditions une commission d'attribution dans chaque société civile immobilière dont le capital est
+constitué majoritairement par des fonds provenant de la participation des employeurs à l'effort de construction et disposant
+de logements locatifs sociaux, pour l'attribution de ces logements.
 
-Lorsque la situation du logement social d'un secteur géographique le nécessite, des protocoles d'occupation du patrimoine
-social sont conclus, à l'initiative d'au moins deux des partenaires, par le représentant de l'Etat dans le département, des
-collectivités territoriales et des organismes d'habitations à loyer modéré. Peuvent être associés à ces protocoles les autres
-organismes bénéficiaires de réservations dans le patrimoine concerné.
+En outre, le maire de la commune où sont implantés les logements attribués, ou son représentant, est membre de droit des
+commissions d'attribution.
 
-Les protocoles d'occupation du patrimoine social ont pour objet de fixer des objectifs en termes d'accueil de populations
-défavorisées et d'en déterminer les modalités d'application ainsi que les mesures de solvabilisation et d'accompagnement
-social nécessaires. Ils définissent les conditions de l'intervention des différents organismes concernés en tenant compte de
-leur bilan social et de l'état de l'occupation de leur patrimoine. Un bilan des protocoles demandés, en cours d'élaboration
-ou conclus dans le département, est présenté au conseil départemental de l'habitat, appelé à donner son avis, au moins une
-fois par an.
+Le représentant de l'Etat dans le département, ou l'un de ses représentants membre du corps préfectoral, assiste, sur sa
+demande, à toute réunion de la commission d'attribution.
 
-Le représentant de l'Etat dans le département s'assure du respect des règles prévues à l'article L. 441-1 et aux alinéas
-précédents du présent article. A cette fin, chaque organisme lui communique au moins deux fois par an toutes les informations
-nécessaires sur les logements mis en location ou devenant vacants et sur les attributions prononcées.    Lorsqu'au terme d'un
-délai de six mois après qu'il a été demandé par le représentant de l'Etat dans le département, aucun protocole n'a été
-conclu, celui-ci peut désigner aux organismes d'habitations à loyer modéré des personnes prioritaires que ceux-ci sont tenus
-de loger. Ces désignations s'imputent sur les droits à réservation du représentant de l'Etat dans le département. Elles sont
-prononcées en tenant compte de l'état de l'occupation du patrimoine de l'organisme au regard de la nécessaire diversité de la
-composition sociale de chaque quartier, de chaque commune et de chaque département, en vue de faire contribuer, de manière
-équilibrée, chaque commune au logement des personnes et familles défavorisées.
-
-Le représentant de l'Etat dans le département dispose de la même faculté vis-à-vis d'un organisme d'habitations à loyer
-modéré qui a refusé de signer le protocole ou n'a pas observé ses dispositions.
-
-En cas d'inobservation de ces règles par un organisme, après épuisement des voies de conciliation et mise en demeure, le
-représentant de l'Etat dans le département peut, pour une durée qui ne peut excéder un an, désigner un délégué spécial chargé
-de prononcer les attributions de logements au nom et pour le compte de l'organisme, dans le respect des règles et des
-conventions régulièrement signées.
+Les maires d'arrondissement des communes de Paris, Marseille et Lyon ou leur représentant participent à titre consultatif aux
+travaux de ces commissions pour l'attribution des logements situés dans le ou les arrondissements où ils sont
+territorialement compétents.
 
 **Liens relatifs à cet article**
 
@@ -16631,7 +17049,7 @@ conventions régulièrement signées.
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
 
 	**Liens**:
 
@@ -16639,52 +17057,32 @@ conventions régulièrement signées.
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 5 mai 1986 - art. 2 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L441-1 (M)
-
 
 ###### Article L441-2-1
 
-Toute commune comprenant sur son territoire une ou plusieurs zones urbaines sensibles définies au 3 de l'article 42 de la loi
-n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire doit créer une conférence
-communale du logement. Lorsque la zone urbaine sensible est située sur le territoire de plusieurs communes, celles-ci doivent
-créer une conférence intercommunale du logement.
+Les demandes d'attribution de logements sociaux sont faites auprès de services, organismes ou personnes morales dans des
+conditions définies par décret en Conseil d'Etat. Chaque demande fait l'objet d'un enregistrement départemental unique. Un
+numéro départemental est obligatoirement communiqué au demandeur par le service, l'organisme ou la personne morale qui a reçu
+la demande dans le délai maximum d'un mois à compter du dépôt de ladite demande. Lorsque le numéro départemental est
+communiqué par une personne morale autre qu'un bailleur, l'attestation délivrée au demandeur indique le ou les organismes
+bailleurs auxquels est transmis le dossier de demande de logement. Les modalités de transmission des dossiers de demande font
+l'objet d'une convention entre cette personne morale et les bailleurs concernés.
 
-La conférence du logement doit être créée dans le délai d'un an commençant à courir soit à compter du 1er janvier 1997 si la
-zone urbaine sensible est inscrite à cette date sur la liste prévue au 3 de l'article 42 de la loi n° 95-115 du 4 février
-1995 précitée, soit à compter de la date de l'inscription de la zone urbaine sensible sur cette liste lorsque celle-ci est
-postérieure. Lorsque la conférence du logement n'a pas été créée dans ce délai par le ou les maires concernés, le
-représentant de l'Etat dans le département prend l'initiative de la créer.
+Ce système d'enregistrement, géré conjointement par l'Etat et les bailleurs sociaux disposant de logements locatifs sociaux
+dans le département, a pour objet de garantir les droits du demandeur et d'assurer l'examen prioritaire des demandes qui
+n'ont pu être satisfaites dans les délais prévus au quatrième alinéa de l'article L. 441-1-2.
 
-La conférence du logement rassemble, outre le maire de la ou des communes concernées, le représentant de l'Etat, les
-bailleurs sociaux possédant ou gérant des logements dans la ou les communes, les représentants des associations agréées dont
-l'un des objets est l'insertion ou le logement des personnes défavorisées et, lorsqu'ils sont titulaires de droits de
-réservation dans la ou les communes, les organismes collecteurs de la participation des entreprises à l'effort de
-construction et le conseil général représenté par un de ses membres.
+La durée de validité des demandes d'attribution de logements sociaux est limitée dans des conditions définies par décret.
+Aucune radiation ne peut intervenir si le demandeur n'a pas été avisé par le service, l'organisme ou la personne morale
+mentionnés au premier alinéa dans un délai d'un mois précédant celle-ci.
 
-Elle est présidée par le maire ou le représentant des maires des communes intéressées désigné par ceux-ci.
+Aucune attribution de logement ne peut être décidée, ni aucune candidature examinée par une commission d'attribution si cette
+candidature n'est pas préalablement pourvue d'un numéro d'enregistrement départemental. Le représentant de l'Etat dans le
+département procède après mise en demeure à l'inscription d'office de tout demandeur qui n'aurait pas reçu communication du
+numéro d'enregistrement dans le délai d'un mois, auprès de tout bailleur susceptible d'accueillir cette demande.
 
-La conférence élabore la charte communale ou intercommunale des attributions de logements et veille à son application. La
-charte fixe notamment les objectifs généraux d'attribution, le cas échéant quantifiés, visant à l'amélioration de l'équilibre
-résidentiel au sein des communes concernées et, en premier lieu, dans la zone urbaine sensible. Les dispositions de la charte
-doivent être compatibles avec celles du règlement départemental prévu à l'article L. 441-2.
-
-La charte doit être élaborée dans le délai de deux ans commençant à courir soit à compter du 1er janvier 1997 si la zone
-urbaine sensible visée au premier alinéa est inscrite à cette date sur la liste prévue au 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 précitée, soit à compter de l'inscription de la zone urbaine sensible sur cette liste dans le cas
-contraire.
-
-Lorsqu'au terme du délai mentionné à l'alinéa précédent aucune charte n'a été élaborée, le représentant de l'Etat dans le
-département assure, nonobstant les dispositions du troisième alinéa du présent article, la présidence de la conférence du
-logement jusqu'à la publication de la charte.
-
-Les bailleurs sociaux informent, deux fois par an, la conférence du logement des caractéristiques des attributions de
-logements effectuées au cours du semestre écoulé, des demandes en attente, des logements vacants, du niveau et de l'évolution
-des loyers dans les zones urbaines sensibles concernées et dans chaque commune de la conférence. Ils rendent compte dans le
-même temps de la politique d'entretien, de réhabilitation et d'aménagement de leur patrimoine. Le président du conseil
-général et le préfet informent deux fois par an la conférence du logement des garanties et aides accordées par le fonds de
-solidarité pour le logement dans les zones urbaines sensibles concernées et dans chaque commune de la conférence.
+Les aides de l'Etat rattachables au logement qui serait attribué en méconnaissance des dispositions du présent article sont
+remboursées en tout ou partie dans des conditions définies par décret.
 
 **Liens relatifs à cet article**
 
@@ -16713,14 +17111,247 @@ solidarité pour le logement dans les zones urbaines sensibles concernées et da
 	  - Code de la construction et de l'habitation. - art. R461-16 (V)
 	  - Code de la construction et de l'habitation. - art. R461-20 (V)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+
+
+###### Article L441-2-2
+
+Tout rejet d'une demande d'attribution doit être notifié par écrit au demandeur, dans un document exposant le ou les motifs
+du refus d'attribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Créé par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 31 () JORF 15 novembre 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-3 (V)
+
+
+###### Article L441-2-3
+
+Dans chaque département est créée auprès du représentant de l'Etat dans le département une commission de médiation composée
+au plus de quatre représentants des organismes bailleurs, de deux représentants des associations de locataires et de deux
+représentants des associations agréées dont l'un des objets est l'insertion ou le logement des personnes défavorisées,
+oeuvrant dans le département. Dans tous les cas, le nombre des représentants des bailleurs est égal à celui du total des
+représentants des associations visées ci-dessus. Cette commission reçoit, sur requête des demandeurs de logements locatifs
+sociaux répondant aux conditions réglementaires d'accès à ces logements, toutes réclamations relatives à l'absence d'offre de
+logement dans le délai fixé conformément aux dispositions de l'article L. 441-1-2. La commission de médiation émet un avis
+qu'elle adresse aux demandeurs, aux organismes bailleurs et aux collectivités locales concernés. Elle peut également en
+saisir le représentant de l'Etat dans le département. Lorsque le requérant est une personne défavorisée au sens de l'article
+4 de la loi n° 90-449 du 31 mai 1990 précitée, elle saisit le comité responsable du plan départemental d'action pour le
+logement des personnes défavorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 14 février 1979 - art. 3 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (VD)
+	  - Loi n°2007-290 du 5 mars 2007 - art. 14 (Ab)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 11 (VD)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 12 (VD)
+	  - Arrêté du 19 décembre 2007 - art. Annexe (V)
+	  - Arrêté du 7 mars 2008 - art. 3 (Ab)
+	  - Arrêté du 24 juillet 2009 (V)
+	  - Arrêté du 24 juillet 2009 - art. 1 (V)
+	  - Arrêté du 24 juillet 2009 - art. 5 (V)
+	  - Arrêté du 10 mars 2011 - art. 1 (V)
+	  - Décret n°2014-116 du 11 février 2014 (V)
+	  - Loi n°2014-173 du 21 février 2014 - art. 8 (V)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 2 (V)
+	  - Décret n°2016-393 du 31 mars 2016 - art. 2 (V)
+	  - Décret n°2016-404 du 4 avril 2016 - art. 1
+	  - Code de justice administrative - art. L778-1 (V)
+	  - Code de justice administrative. - art. R778-1 (V)
+	  - Code de l'action sociale et des familles - art. D345-11 (V)
+	  - Code de l'action sociale et des familles - art. L345-2-10 (V)
+	  - Code de l'action sociale et des familles - art. R345-9 (V)
+	  - Code de la construction et de l'habitation. - art. L300-1 (V)
+	  - Code de la construction et de l'habitation. - art. L300-2 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-26-2 (M)
+	  - Code de la construction et de l'habitation. - art. L313-35 (M)
+	  - Code de la construction et de l'habitation. - art. L321-10 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-3 (V)
+	  - Code de la construction et de l'habitation. - art. L472-3 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-3 (V)
+	  - Code de la construction et de l'habitation. - art. L741-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-14 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-16-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-16-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-16-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-18-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-18-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-18-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*445-5 (V)
+	  - Code de la construction et de l'habitation. - art. R441-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-18 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-15 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-16 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-4 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
+	  - Code de la construction et de l'habitation. - art. R441-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+	  - Code de la sécurité sociale. - art. D542-14-1 (V)
+	  - Code de la sécurité sociale. - art. D831-6 (V)
+	  - Code des procédures civiles d'exécution - art. L412-4 (V)
+	  - Code du travail - art. L2325-29 (V)
+	  - Code général des collectivités territoriales - art. L3641-5 (V)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+	  - Code général des collectivités territoriales - art. L5219-5 (V)
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 4
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+
+###### Article L441-2-4
+
+Le maire d'une commune sur le territoire de laquelle sont implantés des logements locatifs sociaux ou le représentant qu'il
+désigne est entendu, à sa demande, par le conseil d'administration du ou des organismes possédant ou gérant ces logements,
+qu'il s'agisse d'organismes d'habitations à loyer modéré, de sociétés civiles immobilières dont le capital est constitué
+majoritairement par les fonds provenant de la participation des employeurs à l'effort de construction ou de sociétés
+d'économie mixte locales d'aménagement et de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+
+###### Article L441-2-5
+
+Les bailleurs sociaux rendent compte des conditions de l'attribution des logements selon les dispositions suivantes :
+
+1° Le règlement départemental prévu à l'article L. 441-1-1 définit les modalités de l'information du représentant de l'Etat
+dans le département au titre des logements qui lui sont réservés en vertu des conventions mentionnées à l'article L. 441-1 ;
+les collectivités territoriales et les conférences intercommunales du logement prévues à l'article L. 441-1-4 bénéficient des
+mêmes informations, pour les conventions qu'elles ont signées ;
+
+2° Une fois par an, les bailleurs sociaux rendent compte, dans des conditions définies à l'accord collectif départemental
+mentionné à l'article L. 441-1-2, des résultats atteints au regard des objectifs quantifiés prévus audit accord et aux
+chartes qui en sont issues ; ce compte rendu est adressé au représentant de l'Etat dans le département et, pour les parties
+du parc de logements locatifs sociaux qui les concernent, aux maires des communes intéressées ainsi qu'à tous les maires du
+ou des bassins d'habitat concernés, et aux conférences prévues à l'article L. 441-1-4 ;
+
+3° Une fois par an, les bailleurs sociaux établissent, dans des conditions fixées par l'accord collectif départemental
+mentionné à l'article L. 441-1-2, les informations statistiques distinguant notamment :
+
+a) Les demandes de logements qui leur ont été adressées ou transmises ;
+
+b) Les logements nouvellement mis en service ou remis en location ;
+
+c) Les logements restés vacants pendant plus de trois mois ;
+
+d) Les attributions prononcées ainsi que celles qui ont été proposées mais refusées par les demandeurs.
+
+Ces informations sont communiquées au représentant de l'Etat dans le département et, pour les parties du parc de logements
+locatifs sociaux qui les concernent, aux maires des communes intéressées et aux conférences intercommunales prévues à
+l'article L. 441-1-4.
+
+Le règlement départemental prévu à l'article L. 441-1-1 précise les conditions dans lesquelles les bailleurs sociaux non
+signataires de l'accord collectif départemental communiquent les informations énoncées ci-dessus.
+
+Le représentant de l'Etat dans le département soumet au moins une fois par an au conseil départemental de l'habitat les
+principaux résultats des informations recueillies au titre du présent article. Ces résultats peuvent être consultés par toute
+personne en faisant la demande ;
+
+4° Les maires d'arrondissement des communes de Paris, Marseille et Lyon bénéficient des mêmes informations que le maire de la
+commune pour les logements situés dans le ou les arrondissements où ils sont territorialement compétents.
+
+Les dispositions du présent article sont applicables aux sociétés civiles immobilières mentionnées à l'article L. 441-2, pour
+leur parc de logements locatifs sociaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+	  - Code de la construction et de l'habitation. - art. R441-13 (V)
+
+
+###### Article L441-2-6
+
+Un décret en Conseil d'Etat précise les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-9 (V)
+	  - Code de la construction et de l'habitation. - art. L472-3 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-10 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-16 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-17 (V)
 
 
 ##### Section 2 : Supplément de loyer de solidarité.
@@ -16729,9 +17360,9 @@ solidarité pour le logement dans les zones urbaines sensibles concernées et da
 
 Les organismes d'habitations à loyer modéré peuvent exiger des locataires des logements visés au premier alinéa de l'article
 L. 441-1 le paiement d'un supplément de loyer de solidarité en sus du loyer principal et des charges locatives dès lors qu'au
-cours du bail les ressources de l'ensemble des personnes vivant au foyer excèdent d'au moins 10 p. 100 les plafonds de
-ressources en vigueur pour l'attribution de ces logements. Ils doivent exiger le paiement d'un tel supplément dès lors qu'au
-cours du bail le dépassement du plafond de ressources est d'au moins 40 p. 100.
+cours du bail les ressources de l'ensemble des personnes vivant au foyer excèdent d'au moins 20 % les plafonds de ressources
+en vigueur pour l'attribution de ces logements. Ils doivent exiger le paiement d'un tel supplément dès lors qu'au cours du
+bail le dépassement du plafond de ressources est d'au moins 40 %.
 
 Les ressources sont appréciées selon les modalités applicables en matière d'attribution des logements. Toutefois, les
 dernières ressources connues de l'ensemble des personnes vivant au foyer sont prises en compte sur demande du locataire qui
@@ -16797,12 +17428,13 @@ et les quartiers d'habitat dégradé mentionnés au I de l'article 1466 A du cod
 
 	**Cite**:
 
-	  - Loi n°95-115 1995-02-04
 	  - CGI 1466 A
+	  - Loi n°95-115 1995-02-04
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996 Rectificatif JORF 28 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
 
 
 ###### Article L441-4
@@ -16839,10 +17471,11 @@ L'organisme d'habitations à loyer modéré fixe par département les valeurs du
 ressources en fonction de l'importance de ce dépassement. Il peut également tenir compte dans la fixation de ce coefficient
 du nombre et de l'âge des personnes vivant au foyer.
 
-Les valeurs de ce coefficient sont au moins égales à celles du coefficient prévu à l'article L. 441-8.
+Les valeurs maximales de ce coefficient sont fixées par décret en Conseil d'Etat. Elles ne peuvent être inférieures, pour les
+dépassements du plafond de ressources de 40 % et plus, à celles du coefficient prévu à l'article L. 441-8.
 
 L'organisme fixe un seuil de dépassement du plafond de ressources en deçà duquel le supplément de loyer n'est pas exigible.
-Ce seuil ne peut ni être inférieur à 10 p. 100 ni excéder 40 p. 100.
+Ce seuil ne peut ni être inférieur à 20 p. 100 ni excéder 40 p. 100.
 
 **Liens relatifs à cet article**
 
@@ -16850,9 +17483,17 @@ Ce seuil ne peut ni être inférieur à 10 p. 100 ni excéder 40 p. 100.
 
 	  - Décret n°78-621 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 71 () JORF 16 juillet 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-8 (M)
 
 	**Cité par**:
 
@@ -16868,15 +17509,25 @@ Le montant moyen par mètre carré habitable des suppléments de loyer de réfé
 L. 441-8. Ce montant minimal s'impose à chaque organisme d'habitations à loyer modéré pour ses logements situés dans une même
 zone et dans un même département.
 
+Le montant du supplément de loyer de référence ne peut excéder des valeurs maximales définies par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 71 () JORF 16 juillet 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-8 (M)
 
 
 ###### Article L441-7
@@ -16956,8 +17607,9 @@ L'organisme d'habitations à loyer modéré demande annuellement à chaque locat
 non-imposition à l'impôt sur le revenu et des renseignements concernant l'ensemble des personnes vivant au foyer permettant
 de calculer l'importance du dépassement éventuel du plafond de ressources et de déterminer si le locataire est redevable du
 supplément de loyer. Le locataire est tenu de répondre à cette demande dans un délai d'un mois. L'organisme d'habitations à
-loyer modéré n'est pas tenu de présenter cette demande aux locataires bénéficiant de l'aide personnalisée au logement
-mentionnée à l'article L. 351-1.
+loyer modéré n'est tenu de présenter cette demande ni aux locataires bénéficiant de l'aide personnalisée au logement
+mentionnée à l'article L. 351-1, ni aux locataires bénéficiant de l'allocation de logement prévue à l'article L. 542-1 du
+code de la sécurité sociale ou de l'allocation de logement prévue à l'article L. 831-1 du même code.
 
 A défaut et après mise en demeure restée infructueuse pendant quinze jours, l'organisme d'habitations à loyer modéré liquide
 provisoirement le supplément de loyer. Pour cette liquidation, il est fait application d'un coefficient de dépassement du
@@ -16993,9 +17645,15 @@ La mise en demeure comporte la reproduction du présent article.
 	  - Code de la construction et de l'habitation. - art. R441-25 (VT)
 	  - Code de la construction et de l'habitation. - art. R441-26 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 1 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 56 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
 
 
 ###### Article L441-10
@@ -17352,6 +18010,65 @@ nonobstant les plafonds de ressources prévus à l'article L. 441-1.
 	  - Code de la construction et de l'habitation. - art. L441-1 (M)
 
 
+###### Article L442-4-1
+
+En cas de non-respect de l'obligation prévue au troisième alinéa (b) de l'article 7 de la loi n° 89-462 du 6 juillet 1989
+tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, et mise en
+demeure de se conformer à cette obligation restée infructueuse, il peut être adressé au locataire une offre de relogement
+correspondant à ses besoins et à ses possibilités. 
+
+En cas de refus du locataire ou, en l'absence de réponse de sa part, à l'expiration d'un délai d'un mois à compter de l'envoi
+de l'offre par lettre recommandée avec demande d'avis de réception, le bailleur peut saisir le juge aux fins de résiliation
+du bail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 62 (VT)
+	  - Code de la construction et de l'habitation. - art. L442-4-2 (V)
+	  - Code de la construction et de l'habitation. - art. L613-1 (V)
+	  - Code des procédures civiles d'exécution - art. L412-1 (V)
+	  - Code des procédures civiles d'exécution - art. L412-3 (V)
+	  - Code des procédures civiles d'exécution - art. L622-1 (T)
+	  - Code des procédures civiles d'exécution - art. L631-3 (VD)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 122 () JORF 31 juillet 1998
+
+
+###### Article L442-4-2
+
+La faculté prévue à l'article L. 442-4-1 de proposer une offre de relogement ne constitue nullement une obligation pour le
+bailleur. Celui-ci peut directement saisir le juge aux fins de résiliation du bail du locataire qui ne respecte pas
+l'obligation prévue au troisième alinéa b de l'article 7 de la loi n° 89-462 du 6 juillet 1989 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 7 (V)
+	  - Code de la construction et de l'habitation. - art. L442-4-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 122 () JORF 31 juillet 1998
+
+
 ###### Article L442-5
 
 Le Gouvernement dépose tous les trois ans et pour la première fois le 1er juillet 1997, sur le bureau des assemblées, un
@@ -17428,6 +18145,112 @@ articles L. 411-1, alinéa 1er, et L. 442-8.
 	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 
 
+###### Article L442-6-1
+
+Pour l'application de l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
+modification de la loi n° 86-1290 du 23 décembre 1986, les organismes bailleurs de logements dont les locataires bénéficient
+d'une des allocations de logement mentionnées aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale ne peuvent
+faire délivrer une assignation aux fins de constat de résiliation du bail avant l'expiration d'un délai de trois mois suivant
+la saisine des organismes payeurs desdites allocations en vue d'assurer le maintien du versement de l'allocation de logement,
+sauf si la décision de l'organisme concerné intervient avant l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (M)
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 115 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L411-3 (V)
+	  - Code de la construction et de l'habitation. - art. L411-4 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-2 (V)
+
+
+###### Article L442-6-2
+
+Lors de la demande d'attribution d'un logement social ou de la signature du bail, le bailleur ne peut réclamer au demandeur
+ou preneur le paiement de frais à quelque titre que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 58 () JORF 31 juillet 1998
+
+
+###### Article L442-6-3
+
+Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
+portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par un locataire
+d'un logement mentionné à l'article L. 441-1 qui bénéficie de l'attribution dans le parc du même bailleur d'un autre logement
+mentionné au même article est ramené à un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 59 () JORF 31 juillet 1998
+
+
+###### Article L442-6-4
+
+Dans les immeubles collectifs, la location des logements à usage locatif construits à compter du 5 janvier 1977 au moyen de
+primes spécifiques, d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont déterminées par
+décrets, ou à compter du 1er octobre 1996 ayant bénéficié d'une décision favorable prise par le représentant de l'Etat dans
+le département, ne peut être subordonnée à la location d'une aire de stationnement. A compter de la publication de la loi n°
+98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions, les locataires concernés peuvent en
+application des dispositions précédentes renoncer à l'usage d'une aire de stationnement. Dans cette hypothèse, ils
+bénéficient d'une réduction de loyers et de charges d'un montant correspondant au prix qui leur était demandé pour la
+location de l'aire de stationnement considérée.
+
+L'application des dispositions de l'alinéa précédent est, nonobstant toutes dispositions contraires, sans incidence sur la
+validité du bail conclu pour la location d'un logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°98-657 1998-07-29
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 47 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L411-1 (V)
+
+
 ###### Article L442-7
 
 Les fonctionnaires et agents de l'Etat civils et militaires attributaires de logements réservés par les organismes dans une
@@ -17502,9 +18325,9 @@ l'occasion des locations en meublé.
 ###### Article L442-8-1
 
 Par dérogation au premier alinéa de l'article L. 442-8, les organismes mentionnés à l'article L. 411-2 peuvent louer des
-logements à des associations déclarées ayant pour objet de les sous-louer à titre temporaire à des personnes en difficulté et
-d'exercer les actions nécessaires à leur réinsertion, aux autres organismes aynat la même mission et agréés par l'autorité
-administrative, ainsi qu'aux centres communaux d'action sociale.
+logements à des associations déclarées ayant pour objet de les sous-louer meublés ou non meublés à titre temporaire à des
+personnes en difficulté et d'exercer les actions nécessaires à leur réinsertion, aux autres organismes aynat la même mission
+et agréés par l'autorité administrative, ainsi qu'aux centres communaux d'action sociale.
 
 Par dérogation au premier alinéa de l'article L. 442-8, les locataires des organismes mentionnés à l'article L. 411-2
 peuvent, après en avoir informé l'organisme bailleur, par lettre recommandée avec accusé de réception, sous-louer une partie
@@ -17512,12 +18335,6 @@ de leur logement à des personnes âgées ou des personnes handicapées adultes 
 conforme aux dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par
 des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes. Le prix du loyer de la ou des
 pièces principales sous-louées est calculé au prorata du loyer total rapporté à la surface habitable du logement.
-
-Les dispositions des articles L. 442-1 à L. 442-6 sont applicables aux logements loués dans les conditions du présent
-article. Les sous-locataires mentionnés aux deux premiers alinéa du présent article sont assimilés à des locataires pour
-bénéficier de l'aide personnelle au logement prévue par l'article L. 510 du code de la sécurité sociale, par l'article 1er de
-la loi n° 71-582 du 16 juillet 1971 relative à l'allocation de logement ou par l'article L. 351-1 du code de la construction
-et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -17528,16 +18345,12 @@ et de l'habitation.
 	**Cite**:
 
 	  - Loi n°89-475 1989-07-10 art. 6
-	  - Code de la sécurité sociale L510
-	  - Code de la construction et de l'habitation L442-8, L411-2, L442-1 à L442-6, L351-1
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - Code de la construction et de l'habitation. - art. L442-8 (M)
-	  - Loi n°71-852 1971-07-16 art. 1
 
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 25 () JORF 24 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 125 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -17562,13 +18375,37 @@ et de l'habitation.
 
 ###### Article L442-8-2
 
-Les sous-locataires mentionnés au premier alinéa de l'article L. 442-8-1 perdent le bénéfice du droit au maintien dans les
-lieux après le refus d'une offre de relogement définitif correspondant à leurs besoins et à leurs possibilités.
+Les sous-locataires sont assimilés aux locataires, dans la mesure et dans les conditions prévues par le présent article.
 
-Les sous-locataires mentionnés au deuxième alinéa de l'article L. 442-8-1 ne bénéficient pas du droit au maintien dans les
-lieux.
+Les sous-locataires mentionnés à l'article L. 442-8-1 sont assimilés à des locataires pour bénéficier des allocations de
+logement visées aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale et de l'aide personnalisée au logement
+prévue par l'article L. 351-1 du présent code.
+
+Les dispositions de la loi n° 89-462 du 6 juillet 1989 précitée sont applicables au contrat de sous-location dans les
+conditions prévues au I et au III de l'article 40 de cette loi.
+
+Les dispositions des articles L. 441-3 à L. 442-5 ainsi que celles relatives au niveau de ressources prévues à l'article L.
+441-1 du présent code et les dispositions des chapitres Ier et VI du titre Ier, des articles 74 et 75, et du premier alinéa
+de l'article 78 de la loi n° 48-1360 du 1er septembre 1948 sont applicables aux contrats de sous-location des logements loués
+dans les conditions mentionnées au premier alinéa de l'article L. 442-8-1, pendant la durée du contrat de location principal.
+A tout moment, les sous-locataires perdent le bénéfice du droit au maintien dans les lieux après le refus d'une offre de
+relogement définitif correspondant à leurs besoins et à leurs possibilités.
+
+Les dispositions des articles L. 442-1 à L. 442-6 ne sont pas applicables aux contrats de sous-location conclus en
+application du deuxième alinéa de l'article L. 442-8-1.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
+	  - Loi n°89-462 1989-07-06 art. 40
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+	  - Code de la construction et de l'habitation L351-1, L442-8-1, L441-1, L441-3 à L442-5, 74, 75, L442-1 à L442-6
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
 
 	**Codifié par**:
 
@@ -17576,11 +18413,7 @@ lieux.
 
 	**Modifié par**:
 
-	  - Loi n°89-475 1989-07-10 art. 8 III JORF 12 juillet 1989
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 125 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -17711,7 +18544,10 @@ locales ou à des groupements de collectivités locales et gérés par lesdits o
 titre IV du livre IV, les sections I et II du chapitre III du même titre ainsi que la section II du chapitre III du titre V
 du livre III sont applicables aux logements construits en application du titre II de la loi du 13 juillet 1928 établissant un
 programme de construction ou d'habitation à bon marché et de logements, en vue de remédier à la crise de l'habitation, qui ne
-sont pas gérés par un organisme d'H.L.M..
+sont pas gérés par un organisme d'HLM Le plafond de ressources à prendre en compte pour l'application de l'article L. 441-3
+est, pour les locataires de logements construits en application de la loi du 13 juillet 1928 précitée, supérieur de 50 % aux
+plafonds de ressources applicables aux bénéficiaires de la législation sur les habitations à loyer modéré et des nouvelles
+aides de l'Etat en secteur locatif.
 
 **Liens relatifs à cet article**
 
@@ -17721,7 +18557,7 @@ sont pas gérés par un organisme d'H.L.M..
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 7 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 60 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -17731,8 +18567,8 @@ sont pas gérés par un organisme d'H.L.M..
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L442-1 à L442-9
-	  - Loi n°1928-07-13
+	  - Code de la construction et de l'habitation. - art. L441-3 (V)
+	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
 #### Chapitre III : Accession à la propriété et autres cessions.
@@ -19256,16 +20092,21 @@ de l'article précédent.
 
 ###### Article L472-1-2
 
-Les dispositions de la section 2 du chapitre Ier du titre IV et de l'article L. 442-5 du présent livre sont applicables dans
-les départements d'outre-mer aux sociétés d'économie mixte constituées en application de la loi n° 46-860 du 30 avril 1946
-précitée et aux sociétés d'économie mixte locales pour les logements à usage locatif leur appartenant et construits, acquis
-ou améliorés avec le concours financier de l'Etat.
+Les dispositions des sections 1 et 2 du chapitre Ier du titre IV du présent livre et celles des articles L. 442-5, L.
+442-6-1, L. 442-8-1, L. 442-8-2 et L. 442-8-4 sont applicables dans les départements d'outre-mer aux sociétés d'économie
+mixte constituées en application de la loi n° 46-860 du 30 avril 1946 précitée et aux sociétés d'économie mixte locales pour
+les logements à usage locatif leur appartenant et construits, acquis ou améliorés avec le concours financier de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°46-860 1946-04-30
+	  - Code de la construction et de l'habitation. - art. L442-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L442-6-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 
 	**Codifié par**:
 
@@ -19284,7 +20125,7 @@ ou améliorés avec le concours financier de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°96-162 du 4 mars 1996 - art. 9 () JORF 5 mars 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 66 () JORF 31 juillet 1998
 
 
 ###### Article L472-1-3
@@ -19328,6 +20169,30 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 	**Modifié par**:
 
 	  - Loi n°96-609 du 5 juillet 1996 - art. 64 () JORF 9 juillet 1996
+
+
+###### Article L472-1-4
+
+Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
+portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par un locataire
+d'un logement mentionné à l'article L. 472-1-2 qui bénéficie de l'attribution dans le parc du même bailleur d'un autre
+logement mentionné au même article est ramené à un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+	  - Code de la construction et de l'habitation. - art. L472-1-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 59 () JORF 31 juillet 1998
 
 
 ###### Article L472-2
@@ -19983,29 +20848,26 @@ réserver une partie des locaux à des services publics et fixer les modalités 
 ###### Article L613-1
 
 Le juge des référés ou le juge de l'exécution, selon le cas, du lieu de la situation de l'immeuble peut, par dérogation aux
-dispositions de l'article 1244 du code civil, accorder des délais renouvelables excédant une année aux occupants de locaux
-d'habitation ou à usage professionnel, dont l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des
-intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits occupants aient à justifier d'un titre à
-l'origine de l'occupation.
+dispositions des articles 1244-1 à 1244-3 du code civil, accorder des délais renouvelables excédant une année aux occupants
+de locaux d'habitation ou à usage professionnel, dont l'expulsion aura été ordonnée judiciairement, chaque fois que le
+relogement des intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits occupants aient à justifier
+d'un titre à l'origine de l'occupation.
 
 Le juge qui ordonne l'expulsion peut, même d'office, accorder les mêmes délais, dans les mêmes conditions.
 
 Cette disposition n'est pas applicable lorsque le propriétaire exerce son droit de reprise dans les conditions prévues à
-l'article 19 de la loi n. 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
+l'article 19 de la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
 rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des
-allocations de logement.
-
-**Nota:**
-
-[*Le renvoi à l'article 1244 du code civil s'entend comme se rapportant aux articles 1244-1 à 1244-3 du même code (art. 83
-bis de la loi n° 91-650 du 9 juillet 1991)*].
+allocations de logement ainsi que lorsque la procédure de relogement effectuée en application de l'article L. 442-4-1 n'a pas
+été suivie d'effet du fait du locataire.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 19 (M)
-	  - Code civil - art. 1244 (M)
+	  - Code civil 1244-1 à 1244-3
+	  - Code de la construction et de l'habitation. - art. L442-4-1 (V)
 
 	**Cité par**:
 
@@ -20019,13 +20881,9 @@ bis de la loi n° 91-650 du 9 juillet 1991)*].
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-650 1991-07-09 art. 97
-
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 63 () JORF 14 juillet 1991 en vigueur le 1er août 1991
+	  - Loi n°98-657 du 29 juillet 1998 - art. 122 () JORF 31 juillet 1998
 
 
 ###### Article L613-2
@@ -20058,10 +20916,12 @@ les circonstances atmosphériques, ainsi que des diligences que l'occupant justi
 
 ###### Article L613-2-1
 
-Toute décision accordant des délais sur les fondements des articles L. 613-1 et L. 613-2 est notifiée au représentant de
-l'Etat dans le département en vue de la prise en compte de la demande de relogement de l'occupant dans le cadre du plan
-départemental d'action pour le logement des personnes défavorisées prévu par la loi n° 90-449 du 31 mai 1990 visant à la mise
-en oeuvre du droit au logement.
+Le juge qui ordonne l'expulsion ou qui, avant la délivrance du commandement d'avoir à libérer les locaux mentionné à
+l'article 61 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, statue sur une demande
+de délais présentée sur le fondement des articles L. 613-1 et L. 613-2 peut, même d'office, décider que l'ordonnance ou le
+jugement sera transmis, par les soins du greffe, au représentant de l'Etat dans le département, en vue de la prise en compte
+de la demande de relogement de l'occupant dans le cadre du plan départemental d'action pour le logement des personnes
+défavorisées.
 
 **Liens relatifs à cet article**
 
@@ -20071,17 +20931,21 @@ en oeuvre du droit au logement.
 
 	**Cite**:
 
-	  - Loi n°90-449 1990-05-31
-	  - Code de la construction et de l'habitation. - art. L613-1 (M)
-	  - Code de la construction et de l'habitation. - art. L613-2 (V)
+	  - Loi n°91-650 du 9 juillet 1991
+	  - Code de la construction et de l'habitation. - art. L613-1
+	  - Code de la construction et de l'habitation. - art. L613-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 26 () JORF 2 juin 1990
+	  - Loi n°98-657 du 29 juillet 1998 - art. 117 () JORF 31 juillet 1998
 
 	**Cité par**:
 
 	  - Décret n°2007-1688 du 29 novembre 2007 - art. 11 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 
 ###### Article L613-3
@@ -20421,6 +21285,38 @@ Un décret en Conseil d'Etat précise les modalités d'application des articles 
 	  - Code de la construction et de l'habitation. - art. L615-1 (V)
 
 
+#### Chapitre VI : Dispositions applicables en matière de saisie immobilière du logement principal.
+
+###### Article L616
+
+En cas de vente sur saisie immobilière d'un immeuble ou d'une partie d'immeuble constituant la résidence principale d'une
+personne qui remplit les conditions de ressources pour l'attribution d'un logement à loyer modéré, il est institué, au
+bénéfice de la commune, un droit de préemption destiné à assurer le maintien dans les lieux du saisi. Ce droit de préemption
+est exercé suivant les modalités prévues par le code de l'urbanisme en matière de droit de préemption urbain, en cas de vente
+par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement.
+
+La commune peut déléguer ce droit, dans les conditions définies à l'article L. 213-3 du code de l'urbanisme, à un office
+public d'habitations à loyer modéré ou office public d'aménagement et de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 108 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Décret n°2017-862 du 9 mai 2017 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-3 (M)
+
+
 ### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants et dispositions diverses
 
 #### Chapitre Ier : Service municipal du logement.
@@ -20637,13 +21533,21 @@ L'aide financière de l'Etat ne peut être accordée qu'une fois au même béné
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R631-1
+
 	**Anciens textes**:
 
-	  - Décret n°78-621 1978-05-31
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -20660,8 +21564,8 @@ L'aide financière de l'Etat ne peut être accordée qu'une fois au même béné
 
 ###### Article L631-2
 
-L'aide financière [*de l'Etat, dépenses de déménagement et réinstallation*] prévue à l'article L. 631-1 peut être accordée
-aux personnes propriétaires du local dans lequel elles désirent se réinstaller [*bénéficiaire*].
+L'aide financière prévue à l'article L. 631-1 peut être accordée aux personnes propriétaires du local dans lequel elles
+désirent se réinstaller.
 
 **Liens relatifs à cet article**
 
@@ -20672,26 +21576,22 @@ aux personnes propriétaires du local dans lequel elles désirent se réinstalle
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 335
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L631-1 (M)
-
 
 ###### Article L631-3
 
-Les départements et les communes peuvent, en sus de l'aide financière [*de l'Etat, dépenses de déménagement et
-réinstallation*] prévue à l'article L. 631-1, accorder sur leurs ressources un complément à cette aide financière.
+Les départements et les communes peuvent, en sus de l'aide financière prévue à l'article L. 631-1, accorder sur leurs
+ressources un complément à cette aide financière.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 336
 
 	**Liens**:
 
@@ -20701,9 +21601,13 @@ réinstallation*] prévue à l'article L. 631-1, accorder sur leurs ressources u
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. L631-1 (M)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 336
 
 	**Cité par**:
 
@@ -20719,17 +21623,21 @@ fixées par arrêté ministériel.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R631-1
-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 337
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R631-1
 
 	**Cité par**:
 
@@ -20745,18 +21653,18 @@ pour l'amélioration de l'habitat.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 338
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 
 ###### Article L631-6
 
-Sauf motif reconnu légitime, le bénéficiaire des primes [*de déménagement et réinstallation*] prévues aux articles L. 631-1
-et L. 631-3 est tenu d'en rembourser le montant si, dans le délai de trois ans à compter de son déménagement, ce bénéficiaire
-établit sa résidence principale dans une des communes mentionnées à l'article L. 631-1.
+Sauf motif reconnu légitime, le bénéficiaire des primes prévues aux articles L. 631-1 et L. 631-3 est tenu d'en rembourser le
+montant si, dans le délai de trois ans à compter de son déménagement, ce bénéficiaire établit sa résidence principale dans
+une des communes mentionnées à l'article L. 631-1.
 
 Le recouvrement de ces primes est effectué comme en matière d'impôts directs. Les autorités et juridictions compétentes en
 cette matière connaissent de la légitimité du motif invoqué par le bénéficiaire.
@@ -20767,14 +21675,13 @@ cette matière connaissent de la légitimité du motif invoqué par le bénéfic
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 339
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L631-1 (M)
-	  - Code de la construction et de l'habitation. - art. L631-3 (M)
 
 
 ###### Article L631-7
@@ -20813,14 +21720,23 @@ chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 ART. 10-7 ET 2
+	  - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
 	**Cité par**:
 
-	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
 	  - Loi n°86-1290 du 23 décembre 1986 - art. 57 (Ab)
 	  - Loi n°2000-642 du 10 juillet 2000 - art. 51 (VT)
 	  - Loi - art. 81 (V)
 	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 29 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 13 (V)
+	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
 	  - Code de l'urbanisme - art. L425-9 (V)
 	  - Code de l'urbanisme - art. R*421-36 (Ab)
 	  - Code de l'urbanisme - art. R421-11 (M)
@@ -20841,25 +21757,16 @@ chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
 	  - Code du tourisme. - art. L324-1-1 (V)
 	  - Code du tourisme. - art. L324-2-1 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction L631-9
-	  - TXT_ASSOCIE: Code de la construction L631-8
-	  - TXT_ASSOCIE: Code de la construction L651-2
-	  - TXT_ASSOCIE: Code de la construction R631-4
-
-	**Cite**:
-
-	  - Loi n°48-1360 1948-09-01 ART. 10-7 ET 2
-	  - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 58 () JORF 24 decembre 1986
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction L631-8
+	  - TXT_ASSOCIE: Code de la construction L631-9
+	  - TXT_ASSOCIE: Code de la construction L651-2
+	  - TXT_ASSOCIE: Code de la construction R631-4
 
 
 ###### Article L631-7-1
@@ -20891,9 +21798,9 @@ l'article 11 de cette même loi.
 	  - Loi n°86-1290 1986-12-23
 	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 31 () JORF 24 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -20916,9 +21823,9 @@ deux mois, un certificat indiquant si le local peut être régulièrement ou non
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 32 () JORF 24 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -20938,9 +21845,9 @@ occupants ayant leur résidence principale dans ce local et ne conduit à y rece
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 11 () JORF 3 juillet 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Cite**:
 
@@ -20961,11 +21868,19 @@ location saisonnière ou occupés pendant la saison par leur propriétaire.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 340-1
+	  - Code de l'urbanisme 340-1 (Ordonnance 58-1441 1958-12-31)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
 
 ###### Article L631-9
@@ -20975,19 +21890,23 @@ l'autorité administrative prise après avis du maire.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction R631-5
+
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 	**Cité par**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 13 (V)
 	  - Code de la construction et de l'habitation. - art. R631-5 (V)
 	  - Code du tourisme. - art. L324-1-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 341
 
 	**Cite**:
 
@@ -21005,19 +21924,98 @@ l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aména
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+
+#### Chapitre II : Mesures relatives à la protection des occupants de certains meublés.
+
+###### Article L632-1
+
+Toute personne qui loue un logement meublé à un bailleur louant habituellement plus de quatre logements meublés, que la
+location s'accompagne ou non de prestations secondaires, a droit à l'établissement d'un contrat écrit d'une durée d'un an dès
+lors que le logement loué constitue sa résidence principale. A l'expiration de ce contrat, le bail est tacitement reconduit
+pour un an sous réserve des dispositions suivantes.
+
+Le bailleur qui souhaite, à l'expiration du contrat, en modifier les conditions doit informer le locataire avec un préavis de
+trois mois. Si le locataire accepte les nouvelles conditions, le contrat est renouvelé pour un an.
+
+Le bailleur qui ne souhaite pas renouveler le contrat doit informer le locataire en respectant le même préavis et motiver son
+refus de renouvellement du bail.
+
+Lorsque le bailleur est titulaire d'un bail commercial venant à expiration ou lorsque la cessation d'activité est prévue, le
+contrat peut être d'une durée inférieure à un an et doit mentionner les raisons et événements justificatifs.
+
+Toutefois, si le bail commercial est renouvelé ou si l'activité est poursuivie, la durée du contrat est portée à un an.
+
+Le locataire peut résilier le contrat à tout moment sous réserve du respect d'un préavis d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Créé par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 33 () JORF 15 novembre 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 14 (V)
+	  - Code de la construction et de l'habitation. - art. L631-7 (V)
+	  - Code de la construction et de l'habitation. - art. L632-2 (V)
 
 
-### Titre IV : Logement d'office.
+###### Article L632-2
 
-#### Chapitre unique.
+Lorsque le bailleur, propriétaire ou gérant du fonds doit, pour quelque motif que ce soit, cesser son activité, il en informe
+les locataires titulaires du contrat mentionné à l'article L. 632-1 trois mois au moins avant la date à laquelle la cessation
+d'activité est prévue. Sauf cas de force majeure ou de mise en oeuvre de la procédure de redressement judiciaire prévue par
+la loi n° 85-98 du 25 janvier 1985, la cessation d'activité ne peut avoir lieu avant l'expiration des contrats en cours de
+validité ou avant le relogement des locataires titulaires desdits contrats. Si, en dépit de la cessation d'activité du
+bailleur, les locaux gardent leur destination première, le contrat de bail est tacitement reconduit. Si, en revanche, la
+cessation d'activité est due à une opération d'urbanisme ou d'aménagement, les occupants doivent être relogés aux frais de
+l'opérateur dans les conditions prévues aux articles L. 314-1 et L. 314-2 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25
+	  - Code de l'urbanisme - art. L314-1 (M)
+	  - Code de l'urbanisme - art. L314-2 (M)
+	  - Code de la construction et de l'habitation. - art. L632-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+
+###### Article L632-3
+
+Les dispositions du présent chapitre ne s'appliquent pas aux logements-foyers ni aux logements faisant l'objet d'une
+convention avec l'Etat portant sur leurs conditions d'occupation et leurs modalités d'attribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+
+
+### Titre IV : Mise en oeuvre du droit au logement par la réquisition
+
+#### Chapitre Ier : Réquisition.
 
 ###### Article L641-1
 
@@ -21040,11 +22038,11 @@ conditions fixées par décret.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 342
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -21070,11 +22068,15 @@ Les personnes à l'encontre desquelles une décision judiciaire définitive ordo
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 346 al. 1
+	  - Code de l'urbanisme 346 AL. 1
 
 	**Cité par**:
 
@@ -21086,10 +22088,10 @@ Les personnes à l'encontre desquelles une décision judiciaire définitive ordo
 ###### Article L641-3
 
 Les pétitionnaires doivent, préalablement à toute attribution, déposer au service municipal du logement une déclaration
-indiquant qu'ils appartiennent aux catégories ci-dessus désignées ainsi que le nombre de personnes à leur charge.
+indiquant qu'ils appartiennent aux catégories ci-dessus désignées ainsi que le nombre de personnes à leur charge. 
 
 L'autorité requérante apprécie la suite à donner aux demandes dont elle est saisie ; les présentes dispositions édictées dans
-l'intérêt public ne confèrent pas un droit aux pétitionnaires.
+l'intérêt public ne confèrent pas un droit aux pétitionnaires. 
 
 Les locaux sont affectés dans des conditions d'occupation suffisantes telles qu'elles sont définies par le décret prévu à
 l'article L. 621-2. Les bénéficiaires d'attribution d'office, célibataires, veufs ou divorcés sans enfant ne peuvent
@@ -21099,11 +22101,15 @@ prétendre qu'à l'occupation d'une seule chambre pour leur habitation.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 346 al. 2, al. 4
+	  - Code de l'urbanisme 346 AL. 2 ET 4
 
 	**Cite**:
 
@@ -21124,11 +22130,15 @@ Indépendamment des sanctions prévues au titre V, toute fausse déclaration ent
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 346 al. 3, al. 5, al. 6
+	  - Code de l'urbanisme 346 AL. 3, 5 ET 6
 
 
 ###### Article L641-5
@@ -21143,32 +22153,40 @@ conforme aux dispositions du présent livre et au profit de personnes appartenan
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 343
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-2 (M)
+	  - Code de la construction et de l'habitation. - art. L641-2 (V)
 
 
 ###### Article L641-6
 
 Les attributions d'office ne créent au profit des bénéficiaires qu'un titre à une occupation précaire et personnelle des
-lieux.
+lieux. 
 
 Le bénéficiaire qui n'occupe pas lui-même, mais fait occuper par un tiers, un local à lui attribué, est passible des peines
-prévues à l'article L. 651-3 [*sanction*].
+prévues à l'article L. 651-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 344 al. 1, al. 2
+	  - Code de l'urbanisme 344 AL. 1 ET 2 (Ordonnance 58-1440 1958-12-31 ART. 4)
 
 	**Cité par**:
 
@@ -21176,7 +22194,7 @@ prévues à l'article L. 651-3 [*sanction*].
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L651-3 (M)
+	  - Code de la construction et de l'habitation. - art. L651-3 (V)
 
 
 ###### Article L641-7
@@ -21193,15 +22211,15 @@ recouvrement est garanti par le privilège de l'article 2102, 1er alinéa, du co
 	**Cite**:
 
 	  - Loi n°48-1360 1948-09-01
-	  - Code civil - art. 2102 (M)
+	  - Code civil 2102 AL. 1
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 344
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -21214,13 +22232,13 @@ recouvrement est garanti par le privilège de l'article 2102, 1er alinéa, du co
 En cas de non-paiement du montant de l'indemnité par le bénéficiaire, le représentant de l'Etat dans le département règle
 celle-ci au nom de l'Etat à charge par lui de se retourner contre le bénéficiaire. L'administration peut contester le montant
 de l'indemnité fixé d'accord entre les parties, mais doit régler la partie non contestée, il est ensuite procédé à la
-fixation de ladite indemnité dans les conditions prévues à l'article L. 641-7.
+fixation de ladite indemnité dans les conditions prévues à l'article L. 641-7. 
 
 Sous peine de déchéance de son recours contre l'Etat, le prestataire adresse au bénéficiaire, dans les quinze jours de toute
 échéance non réglée de l'indemnité, une mise en demeure par pli recommandé avec demande d'avis de réception, d'avoir à payer
-dans les quinze jours suivants [*délai*]. Si cette mise en demeure reste sans effet, le prestataire doit notifier au
-représentant de l'Etat dans le département, dans la même forme, la défaillance du bénéficiaire. Le représentant de l'Etat
-dans le département peut alors prononcer la levée de la réquisition.
+dans les quinze jours suivants. Si cette mise en demeure reste sans effet, le prestataire doit notifier au représentant de
+l'Etat dans le département, dans la même forme, la défaillance du bénéficiaire. Le représentant de l'Etat dans le département
+peut alors prononcer la levée de la réquisition. 
 
 Lorsque le montant de l'indemnité d'occupation a été fixé judiciairement, la mise en demeure doit être adressée par le
 prestataire au bénéficiaire dans les quinze jours de la date à laquelle la décision judiciaire est devenue définitive. Cette
@@ -21231,17 +22249,21 @@ précédent alinéa.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-621 1978-05-31
-
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Anciens textes**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-7 (M)
+	  - Code de la construction et de l'habitation. - art. L641-7 (V)
 
 	**Cité par**:
 
@@ -21251,38 +22273,37 @@ précédent alinéa.
 ###### Article L641-9
 
 Les indemnités dues éventuellement par les bénéficiaires en cas de dommages ayant pu résulter de l'occupation sont fixées
-dans les mêmes conditions que les indemnités d'occupation et leur recouvrement est garanti par le même privilège [*article
-2102, 1er alinéa du Code Civil*].
+dans les mêmes conditions que les indemnités d'occupation et leur recouvrement est garanti par le même privilège. 
 
 L'Etat est également responsable du règlement de l'indemnité pour ces dommages, à défaut de paiement par le bénéficiaire,
 mais peut contester le montant de ladite indemnité, si elle a été fixée par accord entre les intéressés, sauf à régler sans
 délai la partie non contestée. Il est ensuite procédé à la fixation de l'indemnité selon la procédure prévue au chapitre V du
-titre Ier de la loi n. 48-1360 du 1er septembre 1948 précitée.
+titre Ier de la loi n° 48-1360 du 1er septembre 1948 précitée. 
 
 Lorsque le montant de l'indemnité est fixé par accord amiable, le délai de quinze jours prévu à l'article L. 641-8, 3e
 alinéa, court à compter de la date de cet accord ; lorsqu'il est fixé judiciairement, le délai court à compter de la date à
-laquelle la décision de fixation est devenue définitive.
+laquelle la décision de fixation est devenue définitive. 
 
 Sauf application des articles L. 613-1 à L. 613-5, les personnes qui se maintiennent dans les lieux à l'expiration du terme
-de la réquisition ou de la levée de celle-ci sont passibles [*sanction*] d'une amende civile au moins égale, par jour de
-retard, au déculpe du loyer quotidien. Cette amende est prononcée à la requête du ministère public par le président du
-tribunal de grande instance du lieu de l'immeuble, statuant en référé. Celui-ci prononce en outre l'expulsion.
+de la réquisition ou de la levée de celle-ci sont passibles d'une amende civile au moins égale, par jour de retard, au
+déculpe du loyer quotidien. Cette amende est prononcée à la requête du ministère public par le président du tribunal de
+grande instance du lieu de l'immeuble, statuant en référé. Celui-ci prononce en outre l'expulsion.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01
-	  - Code de la construction et de l'habitation L641-8, L613-1 à L613-5
-	  - Code de la construction et de l'habitation. - art. L641-8 (M)
+	  - Loi n°48-1360 du 1 septembre 1948 (V)
+	  - Code de la construction et de l'habitation. - art. L613-1 (V)
+	  - Code de la construction et de l'habitation. - art. L641-8 (V)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 345
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -21303,11 +22324,19 @@ l'état à ses frais.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 345-1
+	  - Code de l'urbanisme 345-1 (Ordonnance 58-1440 1958-12-31 ART. 6)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction L641-12
 
 	**Cité par**:
 
@@ -21324,54 +22353,58 @@ dont les ressources n'excèdent pas le plafond fixé pour bénéficer de la loca
 
 	**Anciens textes**:
 
-	  - Loi n°73-627 1973-07-10 art. 2
+	  - Loi n°73-627 1973-07-10 ART. 2 (LOI 75-1351 1975-12-31 ART. 13)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Loi n°80-1 1980-01-04 art. 3 JORF 5 janvier 1980
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-1 (M)
+	  - Code de la construction et de l'habitation. - art. L641-1 (V)
 
 
 ###### Article L641-12
 
-Dans toutes les communes où sévit une crise du logement, les locaux soumis aux dispositions du décret n. 53-960 du 30
-septembre 1953, les locaux à caractère artisanal ou professionnel, les locaux définis à l'article 8 de la loi n. 48-1360 du
+Dans toutes les communes où sévit une crise du logement, les locaux soumis aux dispositions du décret n° 53-960 du 30
+septembre 1953, les locaux à caractère artisanal ou professionnel, les locaux définis à l'article 8 de la loi n° 48-1360 du
 1er septembre 1948 précitée, et les logements accessoires à chacune de ces catégories de locaux qui sont vacants ou
-inoccupés, en tout ou partie, peuvent être réquisitionnés dans les conditions prévues par le présent titre.
+inoccupés, en tout ou partie, peuvent être réquisitionnés dans les conditions prévues par le présent titre. 
 
-Les dispositions de l'article L. 641-10 sont applicables aux réquisitions prononcées en vertu du présent article.
+Les dispositions de l'article L. 641-10 sont applicables aux réquisitions prononcées en vertu du présent article. 
 
 Le montant des prestations dues par le bénéficiaire est fixé dans les conditions prévues à l'article L. 641-7 en fonction des
 dispositions de la loi n. 48-1360 du 1er septembre 1948 précitée relatives au prix du loyer, quelle que soit la nature des
-locaux requis. Il est réglé conformément aux dispositions des articles L. 641-6 à L. 641-9.
+locaux requis. Il est réglé conformément aux dispositions des articles L. 641-6 à L. 641-9. 
 
 Il en est de même pour les indemnités dues en raison des dommages ayant pu résulter de l'occupation ainsi que pour les
 dépenses nécessitées par la remise en état des lieux en cas de défaillance du bénéficiaire.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la construction L641-13
+
 	**Cite**:
 
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 8 (Ab)
-	  - Décret n°53-960 1953-09-30
-	  - Code de la construction et de l'habitation L641-10, L641-7, L641-6 à L641-9
-	  - Code de la construction et de l'habitation. - art. L641-10 (M)
-	  - Code de la construction et de l'habitation. - art. L641-7 (M)
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 8 (V)
+	  - Décret n°53-960 du 30 septembre 1953 (V)
+	  - Code de la construction et de l'habitation. - art. L641-10 (V)
+	  - Code de la construction et de l'habitation. - art. L641-6 (V)
+	  - Code de la construction et de l'habitation. - art. L641-7 (V)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 348
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -21389,21 +22422,25 @@ Les locaux vacants ou inoccupés concernés par l'article L. 641-12 sont défini
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 348-1
+	  - Code de l'urbanisme 348-1 (LOI 56-588 1956-06-18 ART. 2)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L641-12 (M)
+	  - Code de la construction et de l'habitation. - art. L641-12 (V)
 
 
 ###### Article L641-14
 
 Le représentant de l'Etat dans le département détermine, conformément aux dispositions du présent chapitre, l'affectation des
-locaux des maisons de tolérance fermées par l'application de la loi n. 46-685 du 13 avril 1946.
+locaux des maisons de tolérance fermées par l'application de la loi n° 46-685 du 13 avril 1946.
 
 **Liens relatifs à cet article**
 
@@ -21415,6 +22452,10 @@ locaux des maisons de tolérance fermées par l'application de la loi n. 46-685 
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 349
@@ -21423,6 +22464,667 @@ locaux des maisons de tolérance fermées par l'application de la loi n. 46-685 
 
 	  - Code de la construction et de l'habitation. - art. L651-1 (V)
 	  - Code de la construction et de l'habitation. - art. L651-3 (V)
+
+
+#### Chapitre II : Réquisition avec attributaire.
+
+##### Section 1 : Principes généraux.
+
+###### Article L642-1
+
+Afin de garantir le droit au logement, le représentant de l'Etat dans le département peut réquisitionner, pour une durée d'un
+an au moins et de six ans au plus, des locaux sur lesquels une personne morale est titulaire d'un droit réel conférant
+l'usage de ces locaux et qui sont vacants depuis plus de dix-huit mois, dans les communes où existent d'importants
+déséquilibres entre l'offre et la demande de logement au détriment de personnes à revenus modestes et de personnes
+défavorisées.
+
+La réquisition donne la jouissance des locaux à un attributaire, à charge pour lui de les donner à bail à des personnes
+bénéficiaires visées à l'article L. 642-5.
+
+La réquisition ouvre le droit pour l'attributaire de réaliser des travaux, payés par lui, de mise aux normes minimales de
+confort et d'habitabilité. L'attributaire informe le titulaire du droit d'usage de la nature des travaux et de leur délai
+d'exécution ; il lui communique le tableau d'amortissement du coût de ces travaux.
+
+Par dérogation au premier alinéa, lorsque l'importance des travaux de mise aux normes minimales de confort et d'habitabilité
+le justifie, la durée de la réquisition peut être supérieure à six ans, dans la limite de douze ans.
+
+Les locaux régulièrement affectés à un usage autre que l'habitation peuvent, à l'expiration de la réquisition, retrouver leur
+affectation antérieure sur simple déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2003 - art. 1 (V)
+	  - Loi n°2009-179 du 17 février 2009 - art. 34 (VT)
+	  - Arrêté du 14 décembre 2012 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-2 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+	  - Code de la construction et de l'habitation. - art. R642-12 (V)
+	  - Livre des procédures fiscales - art. L124 A (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-5 (V)
+
+
+###### Article L642-2
+
+Les locaux détenus par les sociétés civiles constituées exclusivement entre parents et alliés jusqu'au quatrième degré inclus
+ne peuvent faire l'objet d'une procédure de réquisition avec attributaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-3
+
+L'attributaire de la réquisition peut être :
+
+1° L'Etat ;
+
+2° Une collectivité territoriale ;
+
+3° Un organisme d'habitations à loyer modéré ;
+
+4° Une société d'économie mixte dont l'objet est de construire ou de donner à bail des logements ;
+
+5° Un organisme dont l'un des objets est de contribuer au logement des personnes défavorisées et agréé à cette fin par le
+représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-3 (V)
+
+
+###### Article L642-4
+
+Les rapports entre l'Etat et les attributaires mentionnés aux 2° à 5° de l'article L. 642-3 sont régis par une convention ;
+le projet de convention d'attribution est notifié au titulaire du droit d'usage en même temps que l'intention de procéder à
+une réquisition de même que la liste des éventuels attributaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-3 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*642-4 (V)
+
+
+###### Article L642-5
+
+Les locaux sont donnés à bail aux personnes justifiant de ressources inférieures à un plafond fixé par décret et désignées
+par le représentant de l'Etat dans le département en raison de leurs mauvaises conditions de logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-1 (V)
+	  - Code de la construction et de l'habitation. - art. R642-11 (V)
+
+
+###### Article L642-6
+
+Le titulaire du droit d'usage sur les locaux réquisitionnés peut exercer un droit de reprise après neuf ans à compter de la
+notification de l'arrêté de réquisition, dans les conditions prévues par l'article L. 642-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-18 (V)
+
+
+##### Section 2 : Procédure.
+
+###### Article L642-7
+
+Le représentant de l'Etat dans le département peut nommer des agents assermentés afin de l'assister dans la procédure de
+réquisition. Ces agents sont astreints aux règles concernant le secret professionnel. Ceux-ci peuvent :
+
+1° Consulter les fichiers des organismes chargés de la distribution de l'eau, du gaz, de l'électricité, du téléphone, ainsi
+que les fichiers tenus par les professionnels de l'immobilier, en vue de prendre connaissance des informations strictement
+nécessaires à la recherche des locaux vacants, à la détermination de la durée de la vacance et à l'identification du
+titulaire du droit d'usage sur les locaux ;
+
+2° Visiter, accompagnés le cas échéant d'experts, les locaux susceptibles d'être réquisitionnés ; le titulaire du droit
+d'usage donne son accord pour cette visite ; à défaut, celle-ci ne peut avoir lieu que sur autorisation du juge judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*642-5 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-6 (V)
+
+
+###### Article L642-8
+
+Les services fiscaux fournissent au représentant de l'Etat dans le département les informations nominatives dont ils
+disposent sur la vacance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L124 A (V)
+
+
+###### Article L642-9
+
+Après avoir sollicité l'avis du maire, le représentant de l'Etat dans le département notifie au titulaire du droit d'usage
+des locaux son intention de procéder à une réquisition.
+
+La notification indique les motifs et la durée de la réquisition envisagée. Elle est adressée au titulaire du droit d'usage
+par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-11 (V)
+	  - Code de la construction et de l'habitation. - art. L642-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-8 (V)
+
+
+###### Article L642-10
+
+Dans un délai de deux mois à compter de la notification, le titulaire du droit d'usage sur les locaux peut faire connaître au
+représentant de l'Etat dans le département :
+
+1° Son accord ou son opposition ;
+
+2° Son intention de mettre fin à la vacance dans un délai de trois mois au plus à compter de la notification ;
+
+3° Son engagement d'effectuer les travaux nécessaires pour mettre fin lui-même à la vacance ; dans ce cas, un échéancier est
+soumis à l'approbation du représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-11 (V)
+	  - Code de la construction et de l'habitation. - art. L642-12 (V)
+	  - Code de la construction et de l'habitation. - art. R642-8-1 (V)
+
+
+###### Article L642-11
+
+A compter de la réponse du titulaire du droit d'usage ou à l'issue du délai de deux mois et au plus tard quatre mois à
+compter de la notification de l'intention de réquisitionner, le représentant de l'Etat dans le département notifie au
+titulaire du droit d'usage sa décision, qui peut prendre l'une des formes suivantes :
+
+1° Arrêté de réquisition motivé désignant l'attributaire et indiquant la durée de la réquisition qui ne peut excéder celle
+mentionnée dans l'arrêté visé à l'article L. 642-9 ;
+
+2° Accord sur l'échéancier prévu au 3° de l'article L. 642-10 ;
+
+3° Abandon de la procédure.
+
+La notification de la décision est adressée au titulaire du droit d'usage par lettre recommandée avec demande d'avis de
+réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-10 (V)
+	  - Code de la construction et de l'habitation. - art. L642-9 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-13 (V)
+	  - Code de la construction et de l'habitation. - art. R642-8-1 (V)
+
+
+###### Article L642-12
+
+Le titulaire du droit d'usage qui s'est engagé à mettre fin à la vacance justifie de l'exécution de son engagement sur la
+demande du représentant de l'Etat dans le département.
+
+En l'absence de justification utile, le représentant de l'Etat dans le département peut notifier l'arrêté de réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R642-8-4 (V)
+
+
+###### Article L642-13
+
+A défaut de retour dans les dix jours de l'avis de réception de la notification, les notifications prévues aux articles L.
+642-9 et L. 642-11 sont affichées à la porte des locaux.
+
+A compter du retour dans les dix jours de l'avis de réception de la notification prévue à l'article L. 642-11 ou, à défaut, à
+l'expiration d'un délai de dix jours à compter de l'affichage, le représentant de l'Etat dans le département peut requérir la
+force publique pour entrer dans les lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-11 (V)
+	  - Code de la construction et de l'habitation. - art. L642-9 (V)
+
+
+##### Section 3 : Relations entre le titulaire du droit d'usage des locaux et l'attributaire de la réquisition.
+
+###### Article L642-14
+
+Sous réserve des dispositions du présent chapitre, les sections 1 et 2 du chapitre II du titre VIII du livre III du code
+civil relatif au louage de choses sont applicables aux relations entre le titulaire du droit d'usage des locaux et
+l'attributaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-15
+
+A compter de la prise de possession, l'attributaire verse mensuellement une indemnité au titulaire du droit d'usage.
+
+Cette indemnité est égale au loyer défini à l'article L. 642-23, déduction faite de l'amortissement du montant des travaux
+nécessaires et payés par lui pour satisfaire aux normes minimales de confort et d'habitabilité, et des frais de gestion des
+locaux. Lorsque le montant de l'amortissement des travaux et des frais de gestion est supérieur au loyer défini à l'article
+L. 642-23, aucune somme ne peut être perçue auprès du titulaire du droit d'usage.
+
+Un décret en Conseil d'Etat fixe les conditions de cet amortissement et du calcul des frais de gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-23 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*642-9 (V)
+
+
+###### Article L642-16
+
+Le juge judiciaire fixe, le cas échéant, l'indemnisation par l'Etat du préjudice matériel, direct et certain, causé par la
+mise en oeuvre de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-17
+
+La transmission des locaux, à titre onéreux ou gratuit, n'affecte pas la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-18
+
+Le titulaire du droit d'usage peut exercer le droit de reprise prévu à l'article L. 642-6 à condition d'avoir :
+
+1° Adressé à l'attributaire un préavis d'un an ;
+
+2° Indemnisé celui-ci, trois mois avant l'expiration du délai de préavis, du montant des travaux non amortis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*642-10 (V)
+
+
+###### Article L642-19
+
+Le juge judiciaire connaît du contentieux des relations entre le titulaire du droit d'usage des locaux et l'attributaire de
+la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-20
+
+Les conditions d'application des sections 1, 2 et 3 du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+##### Section 4 : Relations entre l'attributaire et le bénéficiaire.
+
+###### Article L642-21
+
+Le bail, conclu entre l'attributaire et le bénéficiaire, est régi par la loi n° 89-462 du 6 juillet 1989 tendant à améliorer
+les rapports locatifs, sous réserve des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 1989-07-06
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-22
+
+Le contrat de location est conclu pour une durée d'un an, ou pour la durée de la réquisition restant à courir si celle-ci est
+inférieure à un an.
+
+Ce contrat ne comporte aucun dépôt de garantie ni caution simple ou solidaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-23
+
+Le loyer est déterminé en fonction du prix de base au mètre carré de surface habitable, fixé par décret.
+
+Il est révisé chaque année en fonction de la variation moyenne de l'indice du coût de la construction et des indices des
+trois trimestres qui précèdent.
+
+Il est payé mensuellement à terme échu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L642-15 (V)
+
+
+###### Article L642-24
+
+Le bénéficiaire peut donner congé à tout moment, avec un délai de préavis d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-25
+
+Le bénéficiaire ne peut céder le contrat de location ni sous-louer le logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-26
+
+Trois mois avant l'expiration du contrat intervenant avant la fin de la réquisition, le représentant de l'Etat dans le
+département peut proposer au bénéficiaire un autre logement correspondant à ses besoins et à ses possibilités. Sauf motif
+légitime et sérieux, le bénéficiaire qui n'accepte pas l'offre de relogement est déchu de tout titre d'occupation au terme du
+contrat.
+
+A défaut d'offre de relogement, le bail est reconduit pour une durée d'un an, ou pour la durée de la réquisition restant à
+courir si celle-ci est inférieure à un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+###### Article L642-27
+
+Si, au plus tard trois mois avant la fin de la réquisition, le titulaire du droit d'usage et le bénéficiaire n'ont pas conclu
+de contrat de location, l'attributaire peut proposer au bénéficiaire qui remplit les conditions pour l'attribution d'un
+logement d'habitation à loyer modéré la location d'un logement correspondant à ses besoins et à ses possibilités. A défaut
+d'une telle proposition, le représentant de l'Etat dans le département est tenu de proposer un logement au bénéficiaire aux
+mêmes conditions.
+
+Le bénéficiaire qui n'a pas conclu de contrat de location ou accepté l'offre de relogement est déchu de tout titre
+d'occupation à l'expiration de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+
+##### Section 5 : Dispositions pénales.
+
+###### Article L642-28
+
+I. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende :
+
+1° Le fait de dissimuler, par des manoeuvres frauduleuses, la vacance de locaux ;
+
+2° Le fait de détruire, dégrader ou détériorer des locaux ayant fait l'objet d'une notification d'intention de
+réquisitionner, dans le but de faire obstacle à une réquisition avec attributaire.
+
+II. - Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du
+code pénal.
+
+Elles encourent une peine d'amende, suivant les modalités prévues par l'article 131-38 du même code.
+
+III. - Le tribunal peut également ordonner que les travaux de remise en état seront exécutés aux frais du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
 
 
 ### Titre V : Sanctions et dispositions diverses.
@@ -21720,6 +23422,60 @@ L. 631-7 à L. 631-9, L. 641-1 à L. 641-10, L. 651-1 à L. 651-4, L. 651-6 à L
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R651-1 (V)
+
+
+###### Article L651-10
+
+I. - Lorsqu'à l'occasion de poursuites exercées sur le fondement de l'article 225-14 du code pénal il est avéré que la
+continuation de l'exploitation d'un établissement d'hébergement des personnes est contraire aux prescriptions du règlement
+sanitaire départemental ou est susceptible de porter atteinte à la dignité humaine ou à la santé publique, l'autorité
+administrative compétente peut saisir sur requête le président du tribunal de grande instance ou le magistrat du siège
+délégué par lui, aux fins de faire désigner un administrateur provisoire pour toute la durée de la procédure ; les organismes
+intervenant dans le domaine de l'insertion par le logement agréés à cette fin par le représentant de l'Etat dans le
+département peuvent être désignés en qualité d'administrateur provisoire.
+
+II. - Le ministère public porte à la connaissance du propriétaire de l'immeuble et du propriétaire du fonds dans lequel est
+exploité l'établissement visé au I l'engagement des poursuites ainsi que les décisions de désignation d'un administrateur
+provisoire ou de confiscation intervenues. Il fait mentionner la décision de confiscation au registre du commerce et des
+sociétés et aux registres sur lesquels sont inscrites les sûretés. Les modalités d'application de cette information sont
+déterminées par décret en Conseil d'Etat.
+
+III. - Lorsque la personne titulaire de la licence de débit de boissons ou de restaurant ou propriétaire du fonds de commerce
+dans lequel est exploité un établissement visé au I n'est pas poursuivie, les peines complémentaires prévues aux 2° et 3° de
+l'article 225-16 et aux 3° et 5° de l'article 225-19 du code pénal ne peuvent être prononcées, par décision spéciale et
+motivée, que s'il est établi que cette personne a été citée à la diligence du ministère public avec indication de la nature
+des poursuites exercées et de la possibilité pour le tribunal de prononcer ces peines. Cette personne peut présenter ou faire
+présenter par un avocat ses observations à l'audience. Si elle use de cette faculté, elle peut interjeter appel de la
+décision prononçant l'une de ces peines complémentaires.
+
+IV. - La décision qui prononce la confiscation du fonds de commerce entraîne le transfert à l'Etat de la propriété du fonds
+confisqué et emporte subrogation de l'Etat dans tous les droits du propriétaire du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Loi n°2011-725 du 23 juin 2011 - art. 14 (V)
+	  - Loi n°2011-725 du 23 juin 2011 - art. 13 (V)
+	  - Code de la construction et de l'habitation. - art. L123-3 (V)
+	  - Code de la construction et de l'habitation. - art. L511-6 (V)
+	  - Code de la construction et de l'habitation. - art. L521-4 (V)
+	  - Code de la construction et de l'habitation. - art. R651-2 (V)
+	  - Code de la santé publique - art. L1337-4 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-14 (M)
+	  - Code pénal - art. 225-19 (M)
+	  - Code de la construction et de l'habitation 225-16
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer. 
