@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-10
+Version Consolidée au 1983-06-15
 
 # Partie législative
 
@@ -29397,6 +29397,40 @@ prévu à la sous-section 3 devient possible.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R*315-32
+
+Lorsque le contrat de souscription d'un plan d'épargne-logement est résilié en application de l'article R. 315-31, le
+souscripteur se voit offrir la possibilité :
+
+a) Soit de retirer les sommes déposées au titre du plan d'épargne-logement, les intérêts versés au souscripteur étant alors
+évalués par application à l'ensemble de ses dépôts du taux en vigueur en matière de compte d'épargne-logement à la date de la
+résiliation, lorsque celle-ci intervient moins de deux ans après la date de versement du dépôt initial et au taux fixé par le
+contrat, lorsque la résiliation intervient plus de deux ans après la date de versement du dépôt initial ;
+
+b) Soit de demander la transformation du plan d'épargne-logement en compte d'épargne-logement au sens de la section I, les
+intérêts acquis par le souscripteur faisant alors l'objet d'une nouvelle évaluation par application à l'ensemble de ses
+dépôts du taux en vigueur en matière de compte d'épargne-logement à la date de la transformation.
+
+Cette transformation ne peut avoir pour effet de permettre un dépassement du montant maximum fixé par l'arrêté prévu à
+l'article R. 315-4. Dans cette éventualité, seuls font l'objet d'un transfert au compte d'épargne-logement les intérêts
+calculés sur les dépôts effectués par le souscripteur dans la limite de ce montant ; le surplus en capital et intérêts est
+remis à la disposition du souscripteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-488 1983-06-11 ART. 2 JORF 15 JUIN 1983
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R315-31, R315-4
+
+
 ###### Article R*315-33
 
 Lorsque la transformation ci-dessus entraîne le transfert des sommes déposées au titre du plan d'épargne-logement à un compte
@@ -29588,13 +29622,19 @@ effectif des fonds.
 Lors du retrait des fonds, le souscripteur d'un plan d'épargne-logement reçoit de l'Etat une prime d'épargne égale au montant
 des intérêts acquis.
 
-La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 [*date*] est
-égale à un pourcentage, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé des postes et télécommunications, des intérêts acquis à la date de venue à terme du plan
-[*calcul*].
+La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 est égale à un
+pourcentage, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la construction et de l'habitation
+et du ministre chargé des postes et télécommunications, des intérêts acquis à la date de venue à terme du plan.
 
-La prime d'épargne ne peut pas dépasser un montant fixé par arrêté du ministre chargé des finances, du ministre chargé de la
-construction et de l'habitation et du ministre chargé des postes et télécommunications.
+En outre, il est versé au souscripteur d'un plan d'épargne-logement bénéficiaire d'un prêt prévu à l'article R. 315-34 pour
+le financement des dépenses de construction, d'acquisition ou d'amélioration d'un logement destiné à son habitation
+personnelle une majoration de prime égale à un pourcentage par personne à charge du montant des intérêts acquis pris en
+compte pour le calcul du montant du prêt, déterminé par arrêté du ministre chargé des finances, du ministre chargé de la
+construction et de l'habitation et du ministre chargé des postes et télécommunications. Seules ouvrent droit au bénéfice de
+cette majoration les personnes à charge vivant habituellement au foyer du bénéficiaire.
+
+La prime d'épargne et le montant de la majoration ne peuvent pas dépasser un montant fixé par arrêté du ministre chargé des
+finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -29604,7 +29644,7 @@ construction et de l'habitation et du ministre chargé des postes et télécommu
 
 	**Modifié par**:
 
-	  - Décret n°80-1031 1980-12-16 ART. 4 JORF 21 DECEMBRE 1980
+	  - Décret n°83-488 1983-06-11 ART. 3, ART. 4 JORF 15 JUIN 1983
 
 	**Cité par**:
 
@@ -29614,6 +29654,32 @@ construction et de l'habitation et du ministre chargé des postes et télécommu
 	  - Arrêté du 25 février 2011 - art. 2 (V)
 	  - Arrêté du 25 février 2011 - art. 3 (V)
 	  - Arrêté du 7 octobre 2011 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1411 III
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R315-34
+
+
+###### Article R*315-40-1
+
+Pour bénéficier de la majoration de prime prévue à l'article précédent, les souscripteurs d'un plan d'épargne-logement
+antérieur au 15 juin 1983 doivent souscrire, avant le 31 décembre 1983, un avenant majorant les versements mensuels,
+trimestriels ou semestriels d'un pourcentage minimum, fixé par l'arrêté prévu à l'article précédent dans la limite de 30 % du
+montant contractuel en vigueur à la date de publication du présent décret. Les versements ne peuvent être inférieurs à un
+montant fixé par le même arrêté.
+
+Si le plan d'épargne-logement vient à terme avant le 15 juin 1984, le bénéfice de la majoration est subordonné à la
+prorogation d'un an du terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
 ##### Sous-section 4 : Dispositions diverses et transitoires.
@@ -29670,6 +29736,44 @@ ministre chargé des postes et télécommunications.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+##### Section 2 : Plans contractuels d'épargne-logement.
+
+##### Sous-section 2 : Mise en place et fonctionnement des plans d'épargne-logement.
+
+###### Article R*315-31
+
+Lorsque le total des versements d'une année est inférieur au montant fixé par l'arrêté prévu au dernier alinéa de l'article
+R. 315-27, ou lorsque les sommes inscrites au crédit du compte d'un souscripteur font l'objet d'un retrait total ou partiel
+au cours de la période d'indisponibilité des fonds, le contrat d'épargne-logement est résilié de plein droit et le
+souscripteur perd le bénéfice des dispositions de la présente section.
+
+Toutefois, si le retrait intervient après l'écoulement de la période minimale prévue au contrat, le bénéfice de la présente
+section lui est conservé pour cette période et les périodes de douze mois consécutives.
+
+Si le retrait intervient entre la quatrième et la cinquième année d'un plan d'épargne-logement ouvert à compter du 1er
+janvier 1981, le bénéfice de la présente section est conservé pour la période de quatre ans ; la prime versée par l'Etat est
+dans ce cas réduite dans une proportion fixée par arrêté du ministre chargé des finances, du ministre chargé de la
+construction et de l'habitation et du ministre chargé des postes et télécommunications.
+
+Si le retrait intervient entre la troisième et la quatrième année d'un plan ouvert à compter du 15 juin 1983 le bénéfice de
+la présente section est conservé pour la période de trois ans ; la prime versée par l'Etat est dans ce cas réduite dans une
+proportion fixée par l'arrêté susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°69-1231 1969-12-24 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-488 1983-06-11 ART. 1 JORF 15 JUIN 1983
 
 
 ##### Section 3 : Dispositions transitoires
@@ -30099,79 +30203,6 @@ ministre chargé de la construction et de l'habitation.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
-
-#### Chapitre V : Epargne-logement.
-
-##### Section 2 : Plans contractuels d'épargne-logement
-
-##### Sous-section 1 : Fonctionnement des plans d'épargne-logement.
-
-###### Article R*315-31
-
-Lorsque le total des versements d'une année est inférieur au montant fixé par l'arrêté prévu au dernier alinéa de l'article
-R. 315-27, ou lorsque les sommes inscrites au crédit du compte d'un souscripteur font l'objet d'un retrait total ou partiel
-au cours de la période d'indisponibilité des fonds, le contrat d'épargne-logement est résilié de plein droit et le
-souscripteur perd le bénéfice des dispositions de la présente section.
-
-DECR. 1031 DU 16 décembre 1980 :
-
-Toutefois, si le retrait intervient après l'écoulement de la période minimale prévue au contrat, le bénéfice de la présente
-section lui est conservé pour cette période et les périodes de douze mois consécutives.
-
-Si le retrait [*des fonds*] intervient entre la quatrième et la cinquième année d'un plan d'épargne-logement ouvert à compter
-du 1er janvier 1981 [*date*] le bénéfice de la présente section est conservé pour la période de quatre ans ; la prime versée
-par l'Etat est dans ce cas réduite dans une proportion fixée par arrêté du ministre chargé des finances, du ministre chargé
-de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-1031 1980-12-16 art. 2 JORF 21 décembre 1980
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-27
-
-
-###### Article R*315-32
-
-Lorsque le contrat de souscription d'un plan d'épargne-logement est résilié en application de l'article R. 315-31, le
-souscripteur se voit offrir la possibilité :
-
-a) Soit de retirer les sommes déposées au titre du plan d'épargne-logement, les intérêts versés au souscripteur étant alors
-évalués par application à l'ensemble de ses dépôts du taux en vigueur en matière de compte d'épargne-logement à la date de
-résiliation, lorsque celle-ci intervient moins de deux ans après la date de versement du dépôt initial et au taux fixé par le
-contrat, lorsque la résiliation intervient plus de deux ans après la date de versement du dépôt initial ;
-
-b) Soit de demander la transformation du plan d'épargne-logement en compte d'épargne-logement au sens de la section I, les
-intérêts acquis par le souscripteur faisant alors l'objet d'une nouvelle évaluation par application à l'ensemble de ses
-dépôts du taux en vigueur en matière de compte d'épargne-logement à la date de la transformation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-1231 1969-12-24 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R315-31
 
 
 ### Titre II : Amélioration de l'habitat.
