@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-07-20
+Version Consolidée au 2001-07-22
 
 # Partie législative
 
@@ -68927,238 +68927,6 @@ Ce remboursement est également exigible mais un mois après simple mise en deme
 	  - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Section 2 : Caisse de garantie du logement social
-
-###### Article R*431-30
-
-La caisse de garantie du logement social est un établissement public national à caractère administratif doté de l'autonomie
-financière [*nature juridique*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-31
-
-La caisse [*attributions*] a pour objet, en application de l'article L. 431-3 du présent code, de gérer les prêts consentis
-jusqu'au 31 décembre 1985 par la caisse des prêts aux organismes d'habitations à loyer modéré. Elle gère le fond de garantie
-prévu à l'article L. 451-3 et assure dans les conditions fixées par les articles L. 451-3 et L. 481-1 la gestion des produits
-des redevances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L431-3 (M)
-	  - Code de la construction et de l'habitation. - art. L451-3 (M)
-	  - Code de la construction et de l'habitation. - art. L481-1 (M)
-
-
-###### Article R*431-32
-
-Les ressources de la caisse sont constituées notamment par le remboursement des prêts, les subventions et bonifications de
-l'Etat afférentes aux prêts qu'elle gère , le produit des redevances ainsi que le produit des emprunts qu'elle contracte avec
-l'autorisation du ministre chargé des finances, les dons et legs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L451-3, L481-1, R431-31
-	  - Code de la construction et de l'habitation. - art. L451-3 (M)
-	  - Code de la construction et de l'habitation. - art. L481-1 (M)
-
-
-###### Article R*431-33
-
-La caisse est administrée par un conseil d'administration de dix membres désignés pour une durée de trois ans renouvelable
-par arrêté du ministre chargé des finances et du ministre chargé de la construction et de l'habitation. Ce conseil comprend :
-
-- un conseiller d'Etat ou un conseiller maître à la Cour des comptes ;
-
-- un inspecteur général des finances ou un inspecteur des finances ;
-
-- deux représentants du ministre chargé des finances ;
-
-- deux représentants du ministre chargé de la construction et de l'habitation ;
-
-- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
-
-- deux représentants des organismes d'habitation à loyer modéré dont l'un a la qualité d'élu local ;
-
-- un représentant des sociétés d'économie mixte susceptibles de bénéficier des prêts de la caisse.
-
-Le conseil d'administration élit en son sein un président parmi les représentants des organismes d'habitation à loyer modéré.
-
-En cas de vacance de la présidence du conseil d'administration, les fonctions du président sont exercées, jusqu'à l'élection
-du nouveau président qui doit intervenir dans un délai de deux mois à compter de la vacance, par un des représentants du
-ministre chargé de la construction et de l'habitation que le ministre désigne à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°99-918 du 27 octobre 1999 - art. 1 () JORF 30 octobre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-34
-
-Le conseil d'administration délibère sur le budget de la caisse, sur son compte financier ainsi que sur toutes les décisions
-afférentes à la gestion des prêts et aux opérations du fonds de garantie. Il se réunit au moins deux fois par an
-[*périodicité*], sur convocation de son président.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-35
-
-Le conseil peut désigner en son sein une commission permanente comprenant au moins un représentant des organismes
-d'habitations à loyer modéré et le représentant des sociétés d'économie mixte. Le conseil peut déléguer à la commission les
-décisions afférentes à la gestion des prêts et aux opérations du fonds de garantie dans la limite d'un montant qu'il fixe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-36
-
-La Caisse des dépôts et consignations assure la gestion administrative des opérations de la caisse de garantie du logement
-social dans des conditions fixées par une convention conclue entre les deux établissements.
-
-Le direction général de la Caisse des dépôts et consignations est ordonnateur de la caisse de garantie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-37
-
-Un arrêté du ministre chargé des finances définit les règles particulières de fonctionnement comptable et financier de la
-caisse.
-
-L'agent comptable de la caisse de garantie du logement social est nommé par arrêté conjoint du ministre chargé des finances
-et du ministre chargé de la construction et de l'habitation [*autorités compérentes*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-
-###### Article R*431-38
-
-Les frais de contrôle visés à l'article L. 451-3 exposés par le ministre chargé des finances et le ministre chargé de la
-construction et de l'habitation sont arrêtés par les ministres intéressés qui en notifient le montant à la caisse de garantie
-du logement social.
-
-Les sommes ainsi arrêtées sont versées par la caisse au Trésor public et rattachées au budget des divers ministères par voie
-de fonds de concours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°2001-655 du 20 juillet 2001 - art. 2 () JORF 22 juillet 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-3 (M)
-
-
 ##### Section 3 : Bonifications d'intérêts.
 
 ###### Article R*431-50
@@ -73117,9 +72885,9 @@ l'article 5 de la loi n° 65-557 du 10 juillet 1965 sur la copropriété.
 	  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 
-### Titre V : Contrôle
+### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
 
-#### Chapitre unique.
+#### CHAPITRE Ier
 
 ###### Article R451-1
 
@@ -73134,11 +72902,12 @@ d'intérêts ou de subventions de l'Etat au titre de la législation sur les hab
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 233 al. 1
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cité par**:
 
@@ -73166,22 +72935,14 @@ administrative compétente prévue à l'article L. 451-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°54-1346 1954-12-31 art. 2
-	  - Code de l'urbanisme 233 al. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cite**:
 
@@ -73214,13 +72975,14 @@ connaissance au ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°54-1346 1954-12-31 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cité par**:
 
@@ -73243,13 +73005,14 @@ président est transmise au ministre chargé de la construction et de l'habitati
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°54-1346 1954-12-31 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cité par**:
 
@@ -73268,13 +73031,14 @@ l'habitation [*autorité compétente*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°52-946 1952-08-06 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cité par**:
 
@@ -73293,11 +73057,12 @@ Les prêts mentionnés à l'article L. 451-4, alinéa 1er, sont accordés par le
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 236
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cite**:
 
@@ -73324,7 +73089,8 @@ défaut de quoi, il peut être procédé à la réalisation de l'opération.
 
 	**Modifié par**:
 
-	  - Décret n°96-221 du 15 mars 1996 - art. 1 () JORF 22 mars 1996
+	  - Décret n°2001-655 2001-07-20 art. 1 I, II JORF 22 juillet 2001
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
 
 	**Cité par**:
 
@@ -73333,6 +73099,802 @@ défaut de quoi, il peut être procédé à la réalisation de l'opération.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+
+
+#### Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.
+
+##### Section 1 : Dispositions générales
+
+###### Article R452-1
+
+La caisse de garantie du logement locatif social, établissement public national à caractère administratif, est placée sous la
+tutelle conjointe du ministre chargé du logement et du ministre chargé de l'économie. La caisse doit, en application des
+articles L. 511-1 et L. 511-9 du code monétaire et financier, être agréée par le comité des établissements de crédit et des
+entreprises d'investissement.
+
+Le siège de la caisse est fixé par le conseil d'administration à Paris ou dans un département limitrophe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 2 novembre 1998 - art. 1 (V)
+	  - Arrêté du 16 novembre 2004 - art. 7 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-1 (V)
+	  - Code monétaire et financier - art. L511-9 (V)
+
+
+###### Article R452-2
+
+La caisse dont l'objet et les missions sont définis à l'article L. 452-1 du présent code remplit une mission d'intérêt public
+au sens de l'article L. 516-1 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L516-1 (V)
+	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+
+
+###### Article R452-3
+
+La garantie de la caisse ne peut être accordée qu'à des prêts consentis par la Caisse des dépôts et consignations en vue de
+la construction, de l'acquisition ou de l'amélioration des logements locatifs sociaux. La liste des catégories dont relèvent
+ces prêts et de leurs bénéficiaires ainsi que les règles de fonctionnement, de dotation et de solvabilité du fonds de
+garantie sont déterminées par arrêté conjoint du ministre chargé du logement, du ministre chargé de l'économie et du ministre
+chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 2002 - art. 1 (V)
+	  - Arrêté du 18 mars 2002 - art. 2 (V)
+	  - Arrêté du 18 mars 2002 - art. 3 (V)
+	  - Arrêté du 18 mars 2002 - art. 4 (V)
+
+
+##### Section 2 : Organisation et administration
+
+###### Article R452-4
+
+La caisse est administrée par un conseil d'administration et dirigée par un directeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-5
+
+Le conseil d'administration de la caisse comprend neuf administrateurs nommés par arrêté conjoint du ministre chargé du
+logement, du ministre chargé de l'économie et du ministre chargé du budget :
+
+- deux représentants du ministre chargé du logement ;
+
+- un représentant du ministre chargé de l'économie ;
+
+- un représentant du ministre chargé du budget ;
+
+- le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré et deux autres représentants de
+cette union désignés par elle ;
+
+- un représentant de la Fédération nationale des sociétés d'économie mixte, désigné par cette fédération ;
+
+- une personnalité qualifiée désignée, à raison de ses compétences dans le domaine du logement, par le ministre chargé du
+logement après avis des représentants de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré.
+
+Les administrateurs sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+
+Les administrateurs qui, en cours de mandat, n'occupent plus les fonctions à raison desquelles ils ont été désignés sont
+réputés démissionnaires.
+
+En cas de vacance, pour quelque cause que ce soit, le conseil d'administration est complété dans le délai d'un mois à compter
+de la constatation de la vacance. Les nouveaux administrateurs sont nommés selon les mêmes modalités que ceux qu'ils
+remplacent et pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cité par**:
+
+	  - Décret n°2003-424 du 7 mai 2003 - art. 2 (V)
+
+
+###### Article R452-6
+
+Le conseil d'administration élit en son sein un président parmi les représentants de l'Union nationale des fédérations
+d'organismes d'habitations à loyer modéré. Il est élu pour la durée de son mandat d'administrateur.
+
+En cas d'empêchement du président du conseil d'administration, ses fonctions sont exercées par un des représentants du
+ministre chargé du logement que le ministre désigne à cet effet.
+
+La même règle s'applique en cas de vacance de la présidence. L'élection du nouveau président doit intervenir dans le délai
+d'un mois.
+
+Le président convoque le conseil d'administration et fixe l'ordre du jour.
+
+Lorsque le président le demande en séance, une seconde délibération est de droit. La seconde délibération doit intervenir
+dans le délai de deux mois à compter de la demande. A défaut, la délibération initiale est réputée confirmée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-7
+
+Le conseil d'administration se réunit au moins trois fois par an. Il se réunit de droit dans le délai de deux mois à la
+demande de deux administrateurs ou à la demande conjointe du ministre chargé du logement, du ministre chargé de l'économie et
+du ministre chargé du budget, sur un ordre du jour que les demandeurs déterminent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-8
+
+Un administrateur absent peut donner mandat à un autre administrateur de le représenter au conseil d'administration. Un
+administrateur ne peut détenir plus d'un mandat.
+
+Le conseil d'administration ne délibère valablement que lorsque la moitié des administrateurs sont présents ou représentés.
+Le conseil d'administration prend ses décisions à la majorité des voix des administrateurs présents ou représentés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-9
+
+Le directeur général participe aux séances du conseil d'administration avec voix consultative. Il peut être accompagné
+d'agents de la caisse dont il juge la présence utile.
+
+Le directeur général de la comptabilité publique ou son représentant, le chef de la mission interministérielle d'inspection
+du logement social ou son représentant et l'agent comptable assistent aux séances du conseil d'administration avec voix
+consultative.
+
+Des experts, notamment issus des organisations professionnelles représentant les organismes d'habitations à loyer modéré et
+les sociétés d'économie mixte, peuvent être appelés par le président à participer aux séances du conseil d'administration
+avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-10
+
+Le conseil d'administration règle par ses délibérations les affaires de la caisse.
+
+Il détermine les orientations de son activité, en particulier en matière de maîtrise des risques liés aux garanties et aux
+concours financiers à la prévention et au redressement, d'attribution des garanties des prêts au logement locatif social et
+d'attribution des concours financiers à la prévention et au redressement.
+
+Il est notamment compétent pour :
+
+1° Adopter le budget et ses modifications ;
+
+2° Arrêter les comptes annuels ;
+
+3° Donner un avis sur le taux de la cotisation et le montant des réductions prévus à l'article L. 452-4 ;
+
+4° Décider des emprunts ;
+
+5° Décider des remises gracieuses et admissions en non-valeur ;
+
+6° Décider du placement des fonds de la caisse dans les limites et conditions fixées par le règlement comptable et
+financier ;
+
+7° Prendre toutes décisions afférentes à l'exécution des contrats auxquels donnent lieu les interventions de la caisse,
+notamment l'octroi de délais et l'action en justice ;
+
+8° Fixer la rémunération perçue par la caisse en contrepartie des garanties qu'elle accorde et les conditions d'octroi de ces
+garanties ;
+
+9° Statuer sur les demandes de garantie ;
+
+10° Fixer les conditions d'octroi des concours financiers aux organismes d'habitations à loyer modéré et aux sociétés
+d'économie mixte en vue de contribuer à leur redressement ou à la prévention de leurs difficultés financières ;
+
+11° Statuer sur les demandes de concours financiers mentionnés au 10° ci-dessus ;
+
+12° Attribuer les subventions mentionnées au troisième alinéa de l'article L. 452-1, en fixant les contreparties demandées
+aux bénéficiaires ;
+
+13° Délibérer sur le rapport annuel de gestion du directeur général ;
+
+14° Délibérer sur le rapport annuel du directeur général relatif à la mesure et à la surveillance des risques auxquels la
+caisse est exposée ;
+
+15° Procéder à l'examen de l'activité et des résultats du contrôle interne ;
+
+16° Délibérer sur le compte rendu du comité d'audit, désigner les membres de ce comité, en fixer les modalités de
+fonctionnement ainsi que les conditions dans lesquelles les commissaires aux comptes et toute personne appartenant à la
+caisse sont associés à ses travaux ;
+
+17° Délibérer lorsque le commissaire du Gouvernement le saisit en cas de difficultés ou lui adresse une recommandation ;
+
+18° Désigner le ou les commissaires aux comptes et délibérer sur leurs rapports.
+
+Le conseil d'administration arrête son règlement intérieur.
+
+Le conseil d'administration peut déléguer, dans les conditions et limites qu'il fixe, tout ou partie des attributions
+mentionnées aux 5°, 6° et 7° du présent article au directeur général.
+
+Le conseil d'administration peut déléguer, dans les conditions et limites qu'il fixe, tout ou partie des attributions
+mentionnées au 9° du présent article au directeur général. Il fixe les cas dans lesquels le directeur général statue sur avis
+conforme du comité des aides prévu à l'article R. 452-16.
+
+Le conseil d'administration peut déléguer, dans les conditions et limites qu'il fixe, tout ou partie des attributions
+mentionnées au 11° du présent article au directeur général statuant sur avis conforme de ce comité des aides.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. R452-16 (M)
+
+
+###### Article R452-11
+
+Le conseil d'administration est assisté d'un comité d'audit composé de trois membres. Sous la responsabilité du conseil
+d'administration, le comité d'audit est notamment chargé de vérifier la clarté des informations fournies, de porter une
+appréciation sur la pertinence des méthodes comptables et sur la qualité du contrôle interne, et de faire toutes propositions
+tendant à l'amélioration de ce dernier.
+
+Le comité d'audit rend compte de ses travaux au conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-12
+
+Les délibérations du conseil d'administration relatives au budget et ses modifications ainsi qu'au compte financier sont
+soumises à l'approbation du ministre chargé du logement, du ministre chargé de l'économie et du ministre chargé du budget.
+Elles deviennent exécutoires dans les conditions fixées à l'article 1er du décret n° 99-575 du 8 juillet 1999 relatif aux
+modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
+
+Les délibérations du conseil d'administration relatives aux subventions mentionnées au troisième alinéa de l'article L. 452-1
+deviennent exécutoires après approbation expresse par le ministre chargé du logement, le ministre chargé de l'économie et le
+ministre chargé du budget.
+
+Les délibérations du conseil d'administration décidant de recourir à l'emprunt deviennent exécutoires après approbation
+expresse par le ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Décret n°99-575 du 8 juillet 1999 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-13
+
+Le directeur général de la caisse est nommé, pour une durée de trois ans renouvelable, par arrêté conjoint du ministre chargé
+du logement, du ministre chargé de l'économie et du ministre chargé du budget, après avis du président du conseil
+d'administration. 
+
+Les fonctions de directeur général sont incompatibles avec celles de membre du conseil d'administration et du comité
+d'audit. 
+
+Le directeur général ne peut prendre ou conserver aucun intérêt, occuper aucune fonction ni dans les organismes d'habitations
+à loyer modéré et les sociétés d'économie mixte, ni dans les associations ou organismes, quel qu'en soit le statut, exerçant
+une activité de construction ou de gestion de logements locatifs sociaux, ni dans l'union, les fédérations et associations
+mentionnées à l'article L. 452-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-655 2001-07-20 art. 3 : dérogation
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-1 (V)
+
+
+###### Article R452-14
+
+Le directeur général dirige la caisse. A ce titre :
+
+1° Il prépare les décisions du conseil d'administration et donne son avis sur l'ordre du jour des séances ;
+
+2° Il exécute les décisions du conseil d'administration et peut, à cette fin, recevoir les délégations nécessaires du conseil
+d'administration ;
+
+3° Il instruit les demandes de garantie et les demandes de concours financier ;
+
+4° Il recrute le personnel et a autorité sur lui ;
+
+5° Il passe les contrats ;
+
+6° Il représente la caisse en justice et dans tous les actes de la vie civile. Dans les rapports avec les tiers, il engage la
+caisse pour tout acte entrant dans son objet ;
+
+7° Il est l'ordonnateur des dépenses et des recettes de la caisse ;
+
+8° Il crée des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
+
+9° Il est le responsable du contrôle interne. A ce titre, il élabore et tient à jour les manuels de procédures relatifs aux
+différentes activités de la caisse et la documentation qui précise les moyens destinés à assurer le bon fonctionnement du
+contrôle interne. Il établit un rapport annuel relatif aux conditions dans lesquelles le contrôle interne est assuré ;
+
+10° Il établit un rapport annuel relatif à la mesure et à la surveillance des risques auxquels la caisse est exposée et un
+rapport de gestion.
+
+Le directeur général peut déléguer sa signature à des agents de la caisse dans les conditions et limites qu'il détermine. Il
+en informe le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-15
+
+Le directeur général propose l'ordre du jour des séances du comité des aides. Il y rapporte les dossiers et les projets
+d'attribution de concours financiers. Il peut être accompagné d'agents de la caisse dont il juge la présence utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-16
+
+Le comité des aides comprend le président du conseil d'administration et huit autres membres nommés à raison :
+
+- de deux par le ministre chargé du logement, dont l'un ayant la qualité d'administrateur ;
+
+- d'un par le ministre chargé de l'économie ;
+
+- d'un par le ministre chargé du budget ;
+
+- de trois par le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
+
+- d'un par le président de la Fédération nationale des sociétés d'économie mixte.
+
+Les membres du comité des aides sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+
+Les membres du comité des aides qui, en cours de mandat, n'occupent plus les fonctions à raison desquelles ils ont été
+désignés sont réputés démissionnaires.
+
+En cas de vacance, pour quelque cause que ce soit, le comité des aides est complété dans le délai d'un mois à compter de la
+constatation de la vacance. Les nouveaux membres sont nommés selon les mêmes modalités que ceux qu'ils remplacent et pour la
+durée du mandat restant à courir.
+
+Le comité des aides est présidé par le président du conseil d'administration. En cas de vacance de la présidence ou
+d'empêchement du président du conseil d'administration, la présidence du comité des aides est exercée par un des
+représentants du ministre chargé du logement ayant la qualité d'administrateur et que le ministre désigne à cet effet.
+
+Le comité des aides ne délibère valablement que lorsque cinq au moins de ses membres sont présents.
+
+Le comité des aides rend ses avis à l'unanimité des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cité par**:
+
+	  - Décret n°2009-632 du 6 juin 2009 - art. (V)
+	  - Code de la construction et de l'habitation. - art. R452-10 (M)
+
+
+###### Article R452-17
+
+Le directeur général de la comptabilité publique ou son représentant, le chef de la mission interministérielle d'inspection
+du logement social ou son représentant et l'agent comptable participent aux séances du comité des aides avec voix
+consultative.
+
+Des experts, notamment issus des organisations professionnelles représentant les organismes d'habitations à loyer modéré et
+les sociétés d'économie mixte, peuvent être appelés à participer aux séances du comité des aides avec voie consultative par
+le président ou par le directeur général.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'urbanisme R452-16-1
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Transféré par**:
+
+	  - Décret n°2004-1251 du 23 novembre 2004 - art. 7 () JORF 25 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2006-1562 du 8 décembre 2006 - art. 2 (V)
+
+
+###### Article R452-18
+
+Les membres du conseil d'administration, du comité des aides et du comité d'audit, les personnes participant à leurs séances
+et les personnes qui, à un titre quelconque, participent à la direction ou à la gestion de la caisse ou qui sont employées
+par elle, sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article L. 511-33 du code
+monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-33 (V)
+
+
+###### Article R452-19
+
+Les fonctions de président du conseil d'administration, de membre du conseil d'administration, du comité des aides et du
+comité d'audit sont gratuites. Les frais de déplacement et de séjour des membres du conseil d'administration, du comité des
+aides et du comité d'audit ne sont pas remboursés.
+
+Les membres du conseil d'administration, du comité des aides et du comité d'audit ne peuvent en aucun cas prêter leur
+concours à titre onéreux à la caisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-20
+
+Les membres du conseil d'administration et du comité des aides doivent déclarer au commissaire du Gouvernement les intérêts
+qu'ils ont et les fonctions qu'ils occupent dans les organismes d'habitations à loyer modéré et les sociétés d'économie
+mixte, dans les associations ou organismes, quel qu'en soit le statut, exerçant une activité de construction ou de gestion de
+logements locatifs sociaux, et dans les associations mentionnées à l'article L. 452-1.
+
+Ces déclarations sont communiquées au conseil d'administration et aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+
+
+##### Section 3 : Régime financier
+
+###### Article R452-21
+
+La caisse est soumise au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à
+la réglementation comptable applicable aux établissements publics nationaux à caractère administratif et le décret n° 62-1587
+du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique.
+
+Le compte financier peut comprendre plusieurs sections.
+
+Le plan comptable est adapté au caractère d'établissement de crédit de la caisse.
+
+Un arrêté conjoint du ministre chargé du logement, du ministre chargé de l'économie et du ministre chargé du budget fixe le
+règlement comptable et financier de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 11 mars 2014 (V)
+
+
+###### Article R452-22
+
+L'agent comptable de la caisse est nommé par arrêté conjoint du ministre chargé du logement et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-23
+
+Par dérogation au décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, les
+fonds de la caisse peuvent être déposés auprès de la Caisse des dépôts et consignations ou de tout établissement de crédit.
+Ils peuvent être placés en valeurs d'Etat ou en valeurs garanties par l'Etat et, dans les limites et conditions fixées par le
+règlement comptable et financier, en valeurs non garanties par l'Etat. Le produit de ces placements est affecté au
+financement des dépenses incombant à la caisse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-24
+
+Les ressources de la caisse comprennent les ressources énumérées à l'article L. 452-3 et, d'une manière générale, toutes les
+recettes autorisées par les lois et règlements. 
+
+Les dépenses de la caisse comprennent toutes celles nécessaires à son activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-3 (V)
+
+
+###### Article R452-25
+
+Le taux de la cotisation et le montant des réductions prévus à l'article L. 452-4 sont fixés par arrêté du ministre chargé du
+logement, du ministre chargé de l'économie et du ministre chargé du budget après avis du conseil d'administration de la
+caisse.
+
+Un arrêté du ministre chargé du logement et du ministre chargé de l'économie fixe le modèle de la déclaration prévue à
+l'article L. 452-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. L452-5 (V)
+
+
+##### Section 4 : Contrôle externe
+
+###### Article R452-26
+
+La caisse est soumise au contrôle de la Commission bancaire, qui s'exerce dans les conditions déterminées au chapitre III du
+titre Ier du livre VI du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-27
+
+En application de l'article L. 511-32 du code monétaire et financier, la caisse est dotée d'un commissaire du Gouvernement,
+qui est nommé et exerce ses fonctions dans les conditions que déterminent les articles 15 et suivants du décret n° 84-709 du
+24 juillet 1984 modifié pris en application de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+établissements de crédit.
+
+Le commissaire du Gouvernement veille notamment à ce que la caisse respecte les dispositions législatives et réglementaires
+qui la régissent et exerce son activité en conformité avec la mission d'intérêt public qui lui a été confiée. A cette fin, il
+peut saisir le conseil d'administration en cas de difficultés et lui adresser des recommandations.
+
+Le commissaire du Gouvernement peut s'opposer à toute délibération ou décision engageant la caisse dans la mise en oeuvre de
+sa mission d'intérêt public et demander une seconde délibération. Il dispose à cet effet d'un délai de quinze jours. Sa
+demande doit être motivée. Si, après une seconde délibération, le désaccord subsiste, le commissaire du Gouvernement peut
+opposer un refus motivé à cette décision.
+
+Il a accès aux séances du conseil d'administration, du comité des aides et du comité d'audit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°84-46 1984-01-24
+	  - Décret n°84-709 du 24 juillet 1984 - art. 15 (M)
+	  - Code monétaire et financier - art. L511-32 (M)
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+
+###### Article R452-28
+
+Le ou les commissaires aux comptes de la caisse sont désignés et exercent leur contrôle dans les conditions et pour la durée
+que déterminent les articles L. 511-38 et L. 511-39 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-38 (V)
 
 
 ### Titre VI : Organismes consultatifs.
