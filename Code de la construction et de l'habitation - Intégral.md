@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-01-03
 
 # Partie législative
 
@@ -2611,7 +2611,7 @@ Les propriétaires de piscines enterrées non closes privatives à usage individ
 2004 doivent avoir équipé au 1er janvier 2006 leur piscine d'un dispositif de sécurité normalisé, sous réserve qu'existe à
 cette date un tel dispositif adaptable à leur équipement.
 
-En cas de location saisonnière de l'habitation, un dispositif de sécurité doit être installé avant le 1er janvier 2004.
+En cas de location saisonnière de l'habitation, un dispositif de sécurité doit être installé avant le 1er mai 2004.
 
 **Liens relatifs à cet article**
 
@@ -2619,9 +2619,9 @@ En cas de location saisonnière de l'habitation, un dispositif de sécurité doi
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-9 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 19 () JORF 3 janvier 2004
 
 	**Cité par**:
 
