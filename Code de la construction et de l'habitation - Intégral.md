@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1993-09-03
 
 # Partie législative
 
@@ -43433,9 +43433,9 @@ prêteurs prévus à l'article R. 331-37 les conventions nécessaires.
 ###### Article R331-54-2
 
 La durée initiale et la progressivité des annuités des prêts aidés par l'Etat destinés à l'accession à la propriété consentis
-entre le 1er juillet 1981 et le 31 décembre 1984 peuvent être modifiées, en accord entre le bénéficiaire et l'établissement
+entre le 1er janvier 1980 et le 31 décembre 1986 peuvent être modifiées, en accord avec le bénéficiaire et l'établissement
 prêteur, dans les conditions précisées par les conventions prévues à l'article R. 331-38 et sous réserve que le taux effectif
-global initialement fixé ne soit pas augmenté. "
+global initialement fixé ne soit pas augmenté.
 
 **Liens relatifs à cet article**
 
@@ -43445,11 +43445,7 @@ global initialement fixé ne soit pas augmenté. "
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°93-1039 du 27 août 1993 - art. 1 () JORF 3 septembre 1993
 
 	**Cite**:
 
