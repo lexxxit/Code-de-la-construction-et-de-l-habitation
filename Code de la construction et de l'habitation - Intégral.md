@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-01-01
 
 # Partie législative
 
@@ -21218,105 +21218,6 @@ l'équivalent de dix-huit mois du loyer en principal du ou des logements concern
 	  - Code de la construction et de l'habitation. - art. R441-2-8 (M)
 
 
-###### Article L451-3
-
-Une redevance dont le montant, les modalités de perception et l'utilisation sont fixés par arrêté du ministre chargé de la
-construction et de l'habitation et du ministre chargé des finances, est versée par les organismes emprunteurs dans les trois
-premiers mois de chaque année.
-
-Le montant de cette redevance ne peut toutefois excéder 0,15 p. 100 des capitaux dus à l'Etat, à la caisse de prêts aux
-organismes d'habitations à loyer modéré, à la caisse de garantie du logement social ou à la caisse des dépôts et
-consignations en application du 3° de l'article L. 351-2, au 31 décembre de l'année précédente.
-
-Le produit de cette redevance, perçu par la caisse de prêts aux organismes d'habitations à loyer modéré jusqu'au 31 décembre
-1985 et par la caisse de garantie du logement social à compter du 1er janvier 1986, est destiné à couvrir les dépenses du
-contrôle prévu à l'article L. 451-1, les frais d'administration desdites caisses ainsi que ceux de la caisse des dépôts et
-consignations pour la gestion des prêts consentis en application du 3° de l'article L. 451-1 et les frais de liquidation des
-organismes défaillants.
-
-Une fraction de la redevance est, en outre, affectée au fonds de garantie géré par la caisse de prêts aux organismes
-d'habitations à loyer modéré jusqu'au 31 décembre 1985 et par la caisse de garantie du logement social à compter du 1er
-janvier 1986 dans des conditions fixées par arrêté du ministre chargé de la construction et de l'habitation et du ministre
-chargé des finances.
-
-Le produit de cette redevance peut contribuer également aux frais de l'union et des fédérations groupant les organismes
-d'habitations à loyer modéré, en vue d'assurer leur meilleur fonctionnement, la coordination de leurs activités, leurs
-investissements pour le développement des actions en faveur du logement social. Les condition et l'importance de cette
-contribution sont déterminées par décision administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 162 I, II, art. 163 III, art. 167 III JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 162 () JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 2000-12-13 art. 163 III
-
-	**Cité par**:
-
-	  - Arrêté du 4 septembre 1986 - art. 3 (Ab)
-	  - Code de la construction et de l'habitation. - art. L451-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*431-31 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*431-32 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*431-38 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*431-41 (Ab)
-	  - Livre des procédures fiscales - art. L83 C (VT)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-
-###### Article L451-4
-
-Lorsqu'après paiement des dépenses prévues à l'article précédent, il subsiste un reliquat du produit de la redevance
-acquittée par les organismes d'habitations à loyer modéré, ce reliquat est conservé par la caisse de garantie du logement
-social. Il est utilisé, le cas échéant, pour couvrir le Trésor des pertes qu'il subirait, si des annuités ou fractions
-d'annuités ne bénéficiant pas de la garantie d'un département, d'une commune ou d'une chambre de commerce et d'industrie
-étaient irrecouvrables, ou pour accorder des prêts sur proposition de l'autorité administrative à des organismes
-d'habitations à loyer modéré pour des opérations spécifiques, notamment pour la réalisation d'équipements non prévus dans les
-programmes initiaux de ces organismes.
-
-Les prélèvements opérés sur le fonds des redevances en vertu du présent article sont effectués dans des conditions précisées
-par décret.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R451-6
-	  - SPEC_APPLI: Loi n°2000-1208 2000-12-13 art. 163 III
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 162 I, II, art. 163 III, art. 167 III JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 162 () JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 abrogé à partir du 1er janvier 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-3 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*431-41 (Ab)
-	  - Code de la construction et de l'habitation. - art. R451-6 (M)
-
-
 ###### Article L451-5
 
 L'avis du service des domaines est requis par les organismes d'habitations à loyer modéré préalablement à leurs acquisitions
@@ -21525,6 +21426,178 @@ f) Du produit des emprunts qu'elle contracte avec l'autorisation du ministre cha
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R452-24 (V)
+
+
+###### Article L452-4
+
+Au titre de leur activité locative sociale, les organismes d'habitations à loyer modéré et les sociétés d'économie mixte
+versent, au premier trimestre de chaque année, une cotisation à la Caisse de garantie du logement locatif social.
+
+La cotisation des organismes d'habitations à loyer modéré a pour assiette les loyers appelés au cours du dernier exercice
+clos pour les logements à usage locatif et les logements-foyers leur appartenant, construits, acquis ou améliorés avec le
+concours financier de l'Etat ou ayant bénéficié de prêts accordés en contrepartie de conditions de ressources des occupants
+ou faisant l'objet des conventions régies par le chapitre III du titre V du livre III. Pour les logements-foyers, la
+cotisation a pour assiette l'élément de la redevance équivalent au loyer.
+
+La cotisation des sociétés d'économie mixte a pour assiette les loyers appelés au cours du dernier exercice clos pour les
+logements à usage locatif et les logements-foyers leur appartenant et conventionnés dans les conditions définies à l'article
+L. 351-2 ou, dans les départements d'outre-mer, construits, acquis ou améliorés avec le concours financier de l'Etat.
+
+La cotisation est réduite d'un montant proportionnel au nombre de bénéficiaires des aides prévues aux articles L. 542-1 et L.
+831-1 du code de la sécurité sociale et L. 351-1 du présent code. Le nombre d'allocataires s'apprécie au 31 décembre du
+dernier exercice clos.
+
+La cotisation est également réduite d'un montant proportionnel au nombre de logements et de logements-foyers situés dans les
+quartiers mentionnés au I de l'article 1466 A du code général des impôts. Ce nombre s'apprécie au 31 décembre du dernier
+exercice clos.
+
+Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction par allocataire et celui de la réduction par
+logement ou logement-foyer situé dans les quartiers mentionnés au cinquième alinéa sont fixés par arrêtés des ministres
+chargés du logement, de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 40 I, III finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2003 - art. 1 (V)
+	  - Arrêté du 19 février 2003 - art. 2 (V)
+	  - Arrêté du 14 février 2008 (V)
+	  - Arrêté du 14 février 2008 - art. 1 (V)
+	  - Arrêté du 14 février 2008 - art. 2 (V)
+	  - Arrêté du 6 avril 2009 - art. 1 (V)
+	  - Arrêté du 6 avril 2009 - art. 2 (V)
+	  - Arrêté du 25 août 2009 - art. 1 (V)
+	  - Arrêté du 16 février 2010 - art. 1 (V)
+	  - Arrêté du 16 février 2010 - art. 2 (V)
+	  - Arrêté du 20 juillet 2010 - art. 1 (Ab)
+	  - Arrêté du 9 février 2011 - art. 2 (V)
+	  - Arrêté du 26 décembre 2011 - art. 1 (Ab)
+	  - Arrêté du 26 décembre 2011 - art. 2 (Ab)
+	  - Arrêté du 23 mars 2012 - art. 2 (V)
+	  - Arrêté du 27 décembre 2012 - art. 1 (Ab)
+	  - Arrêté du 12 mars 2013 - art. 2 (V)
+	  - Arrêté du 18 février 2014 - art. (V)
+	  - Arrêté du 18 février 2014 - art. 2 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 120 (V)
+	  - Code de la construction et de l'habitation. - art. L342-21 (V)
+	  - Code de la construction et de l'habitation. - art. L423-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. L435-1 (M)
+	  - Code de la construction et de l'habitation. - art. L445-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L452-3 (V)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L452-6 (M)
+	  - Code de la construction et de l'habitation. - art. L472-1-5 (V)
+	  - Code de la construction et de l'habitation. - art. L481-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R411-4 (V)
+	  - Code de la construction et de l'habitation. - art. R452-10 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
+	  - Code de la construction et de l'habitation. - art. R452-25-3 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-6 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-7 (V)
+
+	**Cite**:
+
+	  - CGI 1466 A
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L831-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-7 (M)
+
+
+###### Article L452-5
+
+La cotisation est versée spontanément à la Caisse de garantie du logement locatif social par les redevables, accompagnée
+d'une déclaration dont le modèle est fixé par l'autorité administrative.
+
+Elle est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que
+la taxe sur la valeur ajoutée.
+
+**Nota:**
+
+NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigueur au 1er janvier 2001 du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Modifié par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 25 août 2009 (V)
+	  - Arrêté du 18 février 2014 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L342-21 (V)
+	  - Code de la construction et de l'habitation. - art. L423-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. L445-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-3 (V)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-5 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-7 (M)
+
+
+###### Article L452-6
+
+Sur sa demande, la Caisse de garantie du logement locatif social peut obtenir de l'autorité administrative compétente et des
+organismes payeurs des aides visées au quatrième alinéa de l'article L. 452-4, les éléments d'information nécessaires à la
+vérification des cotisations qui lui sont dues.
+
+**Nota:**
+
+NOTA : Loi 2000-1353 2000-12-30 art. 40 III : confirme la date d'entrée en vigueur au 1er janvier 2001 du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-7 (M)
 
 
 ###### Article L452-7
