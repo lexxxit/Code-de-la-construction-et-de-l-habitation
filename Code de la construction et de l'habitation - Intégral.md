@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-06-30
+Version Consolidée au 2001-07-20
 
 # Partie législative
 
@@ -64865,8 +64865,8 @@ la situation des comptes arrêtée à la date de la demande, certifiée par le c
 le cas échéant, le rapport du commissaire à la fusion et le traité d'apport.
 
 Le ministre chargé du logement, après instruction du dossier, et après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent), saisit de Conseil supérieur de la coopération en vue d'obtenir l'avis prévu au deuxième alinéa de
-l'article 25 de la loi du 10 septembre 1947 modifiée.
+modéré, saisit de Conseil supérieur de la coopération en vue d'obtenir l'avis prévu au deuxième alinéa de l'article 25 de la
+loi du 10 septembre 1947 modifiée.
 
 Le conseil dispose alors d'un délai d'un mois pour se prononcer. L'avis est transmis au ministre chargé du logement et au
 ministre chargé de l'économie sociale, qui prennent la décision autorisant ou refusant la sortie de la société du statut
@@ -64889,13 +64889,13 @@ annexées à l'article R. 422-1.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°94-205 du 4 mars 1994 - art. 1 () JORF 11 mars 1994
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
 
 
 ##### Section 4 : Sociétés anonymes de crédit immobilier.
@@ -64905,8 +64905,8 @@ annexées à l'article R. 422-1.
 L'activité des sociétés anonymes de crédit immobilier s'exerce sur le territoire de la région où est situé leur siège social.
 
 Le ministre chargé du logement peut, sur proposition de la chambre syndicale des sociétés anonymes de crédit immobilier et
-après avis du Conseil supérieur des habitations à loyer modéré (comité permanent), agréer spécialement les sociétés pour leur
-permettre d'étendre leur activité à tout ou partie des régions limitrophes.
+après avis du Conseil supérieur des habitations à loyer modéré, agréer spécialement les sociétés pour leur permettre
+d'étendre leur activité à tout ou partie des régions limitrophes.
 
 En outre, le ministre chargé du logement peut, pour une opération déterminée, sur proposition de la chambre syndicale des
 sociétés anonymes de crédit immobilier et après avis du préfet du département intéressé, accorder une extension de compétence
@@ -64918,6 +64918,10 @@ invitée à présenter ses observations et dans les mêmes formes que celles pr�
 supprimer tout ou partie de la faculté pour la société d'entreprendre de nouvelles opérations en dehors de la région où est
 situé son siège social.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -64926,7 +64930,11 @@ situé son siège social.
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 2 () JORF 19 juin 1992
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1595 du 9 novembre 2007 - art. 2 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
@@ -64940,14 +64948,18 @@ situé son siège social.
 ###### Article R*422-11
 
 Le ministre chargé du logement peut, sur proposition de la chambre syndicale des sociétés anonymes de crédit immobilier et
-après avis du Conseil supérieur des habitations à loyer modéré (comité permanent), agréer les sociétés anonymes de crédit
-immobilier pour leur permettre d'étendre leur activité à l'ensemble du territoire national.
+après avis du Conseil supérieur des habitations à loyer modéré, agréer les sociétés anonymes de crédit immobilier pour leur
+permettre d'étendre leur activité à l'ensemble du territoire national.
 
 Si une société ayant bénéficié des dispositions de l'alinéa précédent n'est plus en mesure, du point de vue technique ou
 financier, d'assumer sa mission de façon satisfaisante, le ministre chargé du logement peut, après que la société aura été
 invitée à présenter ses observations et dans les mêmes formes que celles prévues pour l'octroi de l'agrément correspondant,
 supprimer tout ou partie de la faculté pour la société d'entreprendre de nouvelles opérations en dehors de la région où est
 situé son siège social.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -64957,7 +64969,11 @@ situé son siège social.
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 3 () JORF 19 juin 1992
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1595 du 9 novembre 2007 - art. 2 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
 
 	**Cite**:
 
@@ -65028,17 +65044,16 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 La décision administrative mentionnée à l'article L. 422-5 est constituée, pour les sociétés anonymes de crédit immobilier,
 par un agrément du ministre chargé du logement, délivré sur proposition de la chambre syndicale des sociétés anonymes de
-crédit immobilier et après avis du Conseil supérieur des habitations à loyer modéré (comité permanent).
+crédit immobilier et après avis du Conseil supérieur des habitations à loyer modéré.
 
 Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent).
+modéré.
 
 La dissolution d'une société anonyme de crédit immobilier telle que prévue par les articles L. 422-7, L. 422-8 et L. 422-9,
 la nomination d'un administrateur provisoire telle que prévue à l'article L. 422-8, la nomination d'un liquidateur telle que
 prévue par les articles L. 422-7 à L. 422-10 ou la suspension de membres du conseil d'administration d'une société anonyme de
 crédit immobilier telle que prévue à l'article L. 422-6 sont prononcées par le ministre chargé du logement après avis de la
-chambre syndicale des sociétés anonymes de crédit immobilier et du Conseil supérieur des habitations à loyer modéré (comité
-permanent).
+chambre syndicale des sociétés anonymes de crédit immobilier et du Conseil supérieur des habitations à loyer modéré.
 
 **Liens relatifs à cet article**
 
@@ -65048,7 +65063,7 @@ permanent).
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 7 () JORF 19 juin 1992
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
 
 	**Cite**:
 
@@ -65065,8 +65080,8 @@ permanent).
 ###### Article R422-16
 
 Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modéré doivent être agréées par le ministre chargé de
-la construction et de l'habitation après avis du [*comité départemental*] conseil départemental de l'habitat et du conseil
-supérieur des habitations à loyer modéré.
+la construction et de l'habitation après avis du conseil départemental de l'habitat et du conseil supérieur des habitations à
+loyer modéré.
 
 La compétence géographique des sociétés anonymes d'habitations à loyer modéré dont le capital est détenu en totalité par un
 ou plusieurs organismes d'habitations à loyer modéré et éventuellement par des personnes physiques ne possédant que le nombre
@@ -65074,7 +65089,7 @@ d'actions minimum exigé pour être admis à exercer les fonctions d'administrat
 l'article R. 422-3, définie lors de la délivrance de l'agrément visé au présent article.
 
 Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent).
+modéré.
 
 Les conditions dans lesquelles sont approuvés les emprunts contractés par lesdites sociétés sont fixées par arrêté conjoint
 du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
@@ -65085,17 +65100,16 @@ du ministre chargé des finances et du ministre chargé de la construction et de
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°92-529 du 15 juin 1992 - art. 8 () JORF 19 juin 1992
-	  - Décret n°92-529 du 15 juin 1992 - art. 9 () JORF 19 juin 1992
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 	  - Arrêté du 9 novembre 2015 (V)
 	  - Code de la construction et de l'habitation. - art. R431-24 (V)
 	  - Code rural - art. R564-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
 
 	**Cite**:
 
@@ -65534,6 +65548,62 @@ d'habitations à loyer modéré.
 	  - Code de la construction et de l'habitation. - art. R422-34 (V)
 
 
+###### Article R422-36-1
+
+La décision visée au deuxième alinéa de l'article 25 de la loi du 10 septembre 1947 modifiée portant statut de la coopération
+est prise conjointement par le ministre chargé du logement et le ministre chargé de l'économie sociale.
+
+La demande de sortie du statut coopératif est adressée conjointement au ministre chargé du logement et au ministre chargé de
+l'économie sociale.
+
+Elle est accompagnée de tous les éléments permettant d'apprécier que les conditions prévues au premier alinéa de l'article 25
+sont réunies, ainsi que des documents suivants :
+
+le projet de délibération de l'assemblée générale et le projet de modification des statuts ;
+
+le cas échéant, le rapport de révision datant de moins d'un an ;
+
+le rapport du commissaire aux comptes portant sur le dernier exercice ;
+
+un état détaillé de la situation des réserves ;
+
+la situation des comptes arrêtée à la date de la demande, certifiée par le commissaire aux comptes ;
+
+le cas échéant, le rapport du commissaire à la fusion et le traité d'apport.
+
+Le ministre chargé du logement, après instruction du dossier, et après avis du Conseil supérieur des habitations à loyer
+modéré, saisit de Conseil supérieur de la coopération en vue d'obtenir l'avis prévu au deuxième alinéa de l'article 25 de la
+loi du 10 septembre 1947 modifiée.
+
+Le conseil dispose alors d'un délai d'un mois pour se prononcer. L'avis est transmis au ministre chargé du logement et au
+ministre chargé de l'économie sociale, qui prennent la décision autorisant ou refusant la sortie de la société du statut
+coopératif.
+
+La notification à la coopérative concernée est faite par le ministre chargé de l'économie sociale.
+
+La décision autorisant la sortie du statut coopératif vaut agrément de la société en qualité de société anonyme d'habitations
+à loyer modéré et entraîne pour ladite société l'obligation de mettre ses statuts en conformité avec les clauses types
+annexées à l'article R. 422-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+
+
 ##### Sous-section 3 : Statuts.
 
 ###### Article R*422-38
@@ -65574,67 +65644,6 @@ maintenu à la société qu'après l'approbation des statuts par le préfet.
 	**Cité par**:
 
 	  - Décret n°93-749 du 27 mars 1993 - art. 7 (V)
-
-
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
-
-##### Sous-section 2 : Durée d'activité.
-
-###### Article R422-36-1
-
-La décision visée au deuxième alinéa de l'article 25 de la loi du 10 septembre 1947 modifiée portant statut de la coopération
-est prise conjointement par le ministre chargé du logement et le ministre chargé de l'économie sociale.
-
-La demande de sortie du statut coopératif est adressée conjointement au ministre chargé du logement et au ministre chargé de
-l'économie sociale.
-
-Elle est accompagnée de tous les éléments permettant d'apprécier que les conditions prévues au premier alinéa de l'article 25
-sont réunies, ainsi que des documents suivants :
-
-le projet de délibération de l'assemblée générale et le projet de modification des statuts ;
-
-le cas échéant, le rapport de révision datant de moins d'un an ;
-
-le rapport du commissaire aux comptes portant sur le dernier exercice ;
-
-un état détaillé de la situation des réserves ;
-
-la situation des comptes arrêtée à la date de la demande, certifiée par le commissaire aux comptes ;
-
-le cas échéant, le rapport du commissaire à la fusion et le traité d'apport.
-
-Le ministre chargé du logement, après instruction du dossier, et après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent), saisit de Conseil supérieur de la coopération en vue d'obtenir l'avis prévu au deuxième alinéa de
-l'article 25 de la loi du 10 septembre 1947 modifiée.
-
-Le conseil dispose alors d'un délai d'un mois pour se prononcer. L'avis est transmis au ministre chargé du logement et au
-ministre chargé de l'économie sociale, qui prennent la décision autorisant ou refusant la sortie de la société du statut
-coopératif.
-
-La notification à la coopérative concernée est faite par le ministre chargé de l'économie sociale.
-
-La décision autorisant la sortie du statut coopératif vaut agrément de la société en qualité de société anonyme d'habitations
-à loyer modéré et entraîne pour ladite société l'obligation de mettre ses statuts en conformité avec les clauses types
-annexées à l'article R. 422-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 25 (M)
-	  - Code de la construction et de l'habitation
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°94-205 du 4 mars 1994 - art. 2 () JORF 11 mars 1994
-
-	**Cité par**:
-
-	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 
 
 ##### Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
@@ -65730,6 +65739,38 @@ spécial est soumise à l'accord du ministre chargé des finances et du ministre
 #### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré
 
 ##### Section 1 : Dispositions communes financières et comptables.
+
+###### Article R423-1
+
+Les règles budgétaires, financières et comptables applicables aux organismes d'habitations à loyer modéré, conformément à
+l'article L. 423-3, sont fixées après avis du conseil supérieur des habitations à loyer modéré.
+
+En ce qui concerne les sociétés anonymes de crédit immobilier, ces règles sont fixées, sans préjudice des compétences
+dévolues au comité de la réglementation bancaire et à la commission bancaire, après avis de leur chambre syndicale et du
+Conseil supérieur des HLM.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 185 AL. 1 et 2 (pour partie)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L423-3 (AbD)
+
 
 ##### Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction.
 
@@ -67369,18 +67410,22 @@ nomenclature des pièces justificatives à produire par le comptable, conformém
 
 Le cadre comptable et la tenue des comptes des sociétés anonymes d'habitations à loyer modéré sont fixés par des instructions
 conjointes du ministre chargé du logement et du ministre chargé du Trésor, après avis du Conseil supérieur des habitations à
-loyer modéré (comité permanent).
+loyer modéré.
 
 Pour ce qui concerne les sociétés anonymes de crédit immobilier, des règles relatives à leur cadre comptable et à la tenue de
 leurs comptes peuvent être fixées par instruction du ministre chargé du logement, pour compléter les règles édictées par le
 comité de la réglementation bancaire et la commission bancaire, après avis du Conseil supérieur des habitations à loyer
-modéré (comité permanent) et de la chambre syndicale des sociétés anonymes de crédit immobilier.
+modéré et de la chambre syndicale des sociétés anonymes de crédit immobilier.
 
 Les sociétés anonymes de crédit immobilier établissent à compter de l'exercice ouvert le 1er janvier 1992 pour chaque
 exercice comptable un document distinguant, d'une part, les produits résultant des activités qu'elles exercent en application
 du I et du II de l'article L. 422-4 et, d'autre part, les produits résultant des activités qu'elles exercent en application
 du III dudit article. Ce document est établi conformément à des règles fixées par arrêté du ministre chargé du logement et du
 ministre chargé des finances.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -67390,8 +67435,7 @@ ministre chargé des finances.
 
 	**Modifié par**:
 
-	  - Décret n°92-529 du 15 juin 1992 - art. 12 () JORF 19 juin 1992
-	  - Décret n°92-529 du 15 juin 1992 - art. 13 () JORF 19 juin 1992
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
 
 	**Cite**:
 
@@ -67713,34 +67757,6 @@ mentionné au troisième alinéa de l'article R. 423-68.
 
 
 ##### Section 1 : Dispositions communes financières et comptables.
-
-###### Article R423-1
-
-Les règles budgétaires, financières et comptables applicables aux organismes d'habitations à loyer modéré, conformément à
-l'article L. 423-3, sont fixées après avis du conseil supérieur des habitations à loyer modéré.
-
-En ce qui concerne les sociétés anonymes de crédit immobilier, ces règles sont fixées, sans préjudice des compétences
-dévolues au comité de la réglementation bancaire et à la commission bancaire, après avis de leur chambre syndicale et du
-Conseil supérieur des HLM (comité permanent).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°92-529 du 15 juin 1992 - art. 11 () JORF 19 juin 1992
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 185 AL. 1 et 2 (pour partie)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L423-3 (AbD)
-
 
 ##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
 
@@ -73325,14 +73341,11 @@ défaut de quoi, il peut être procédé à la réalisation de l'opération.
 
 ##### Section 1 : Conseil supérieur des habitations à loyer modéré.
 
-###### Article R461-1
+###### Article R*461-1
 
-Un conseil supérieur des habitations à loyer modéré siège auprès du ministre chargé de la construction et de l'habitation. Il
-est appelé par le ministre à donner son avis sur toutes questions concernant les habitations prévues à l'article L. 411-1 et,
-notamment, sur les règlements à faire pour l'application du présent livre [*attributions*].
-
-Il établit chaque année un rapport d'ensemble sur ses activités, ainsi que sur l'activité des [*comités départementaux des
-habitations à loyer modéré*] conseils départementaux de l'habitat et sur celle des organismes d'habitations à loyer modéré.
+Un Conseil supérieur des habitations à loyer modéré siège auprès du ministre chargé de la construction et de l'habitation.
+Outre les cas où son avis doit être recueilli en application de dispositions du présent code, il peut être consulté par le
+ministre chaque fois que celui-ci l'estime nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -73342,91 +73355,51 @@ habitations à loyer modéré*] conseils départementaux de l'habitat et sur cel
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 154
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-
 
 ###### Article R461-2
 
-Le conseil supérieur des habitations à loyer modéré, placé sous la présidence du ministre chargé de la construction et de
-l'habitation, est composé comme suit :
+Le Conseil supérieur des habitations à loyer modéré est composé comme suit :
 
-1. Membres désignés par le ministre chargé de la construction et de l'habitation :
+1° Le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant ;
 
-- six membres de l'Assemblée nationale et trois membres du Sénat ;
+2° Le chef de la mission interministérielle d'inspection du logement social ou son représentant ;
 
-- Un membre du Conseil économique et social ;
+3° Le directeur du Trésor ou son représentant ;
 
-- une personnalité choisie en raison de sa compétence ;
+4° Le directeur général de la comptabilité publique ou son représentant ;
 
-2. Membres désignés par les corps auxquels ils appartiennent :
+5° Le directeur général des collectivités locales ou son représentant ;
 
-un membre du Conseil d'Etat désigné par l'assemblée générale du Conseil d'Etat ;
+6° Le directeur général de l'action sociale ou son représentant ;
 
-- un membre de la Cour des comptes désigné par la Cour des comptes ;
+7° Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
 
-3. Membres de droit :
+8° Le président de la Fédération nationale des offices publics d'habitations à loyer modéré ou son représentant ;
 
-- le directeur de la construction ;
+9° Le président de la Fédération nationale des sociétés anonymes et fondations d'habitations à loyer modéré ou son
+représentant ;
 
-- le délégué à l'aménagement du territoire ;
+10° Le président de la Fédération nationale des sociétés coopératives d'habitations à loyer modéré ou son représentant ;
 
-- le chef du service chargé des habitations à loyer modéré ;
+11° Le président de la chambre syndicale des sociétés anonymes de crédit immobilier ou son représentant ;
 
-- le directeur du budget ;
+12° Le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ou son représentant.
 
-- le directeur du Trésor ;
+Le conseil peut, en outre, appeler à participer, avec voix consultative, à ses délibérations, toute personne dont la présence
+lui paraît utile à l'examen des questions soumises à l'ordre du jour.
 
-- le directeur général des collectivités locales ;
+Le conseil supérieur est placé sous la présidence du directeur général de l'urbanisme, de l'habitat et de la construction ou
+de son représentant. Le président a voix prépondérante en cas de partage égal des voix.
 
-- le directeur général de la caisse des dépôts et consignations ;
+**Nota:**
 
-- le gouvernement du Crédit foncier de France ;
-
-4. Membres désignés par le ministre dont ils relèvent :
-
-- un inspecteur général ou un inspecteur des finances ;
-
-- un représentant du ministre chargé de la santé ;
-
-- un représentant du ministre chargé de l'agriculture ;
-
-- un représentant du ministre chargé de la sécurité sociale ;
-
-5. Membres désignés par les organismes intéressés :
-
-- un représentant des [*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat ;
-
-- deux représentants des offices publics d'habitations à loyer modéré ;
-
-- un représentant des sociétés anonymes ou fondations d'habitations à loyer modéré ;
-
-- un représentant des sociétés coopératives d'habitations à loyer modéré ;
-
-- un représentant des sociétés de crédit immobilier ;
-
-- un représentant de la caisse nationale des allocations familiales ;
-
-- un représentant de l'union nationale des associations familiales ;
-
-- deux représentants des comités interprofessionnels du logement ;
-
-- un membre du conseil supérieur de la mutualité ;
-
-- un membre du conseil national des assurances ;
-
-- un membre du comité national de l'habitat rural ;
-
-- un représentant de l'ordre des architectes ;
-
-- un représentant des caisses d'épargne désigné par la conférence générale des caisses d'épargne.
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -73436,21 +73409,18 @@ un membre du Conseil d'Etat désigné par l'assemblée générale du Conseil d'E
 
 	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
 
 ###### Article R461-3
 
-Les membres du conseil supérieur des habitations à loyer modéré sont nommés pour trois ans [*mandat, durée*] ; leurs pouvoirs
-sont renouvelables. Les membres de droit peuvent se faire représenter.
+Le conseil supérieur délibère valablement dès lors que la moitié de ses membres sont présents ou représentés.
 
-Les membres du conseil supérieur des habitations à loyer modéré qui perdent la qualité en raison de laquelle ils ont été
-désignés ou nommés sont remplacés immédiatement.
+Les avis du conseil supérieur sont rendus à la majorité des membres présents ou représentés.
 
-Un arrêté du ministre chargé de la construction et de l'habitation fixe les conditions dans lesquelles les représentants des
-[*comités départementaux des habitations à loyer modéré*] conseils départementaux de l'habitat, des offices publics, sociétés
-anonymes, fondations, sociétés coopératives d'habitations à loyer modéré et des sociétés de crédit immobilier sont désignés
-par ces organismes.
+Le secrétariat du conseil est assuré par la direction générale de l'urbanisme, de l'habitat et de la construction. Le
+secrétariat adresse aux membres du conseil les convocations aux réunions huit jours au moins avant la date de celles-ci, sauf
+urgence. Il établit le compte rendu des débats, qui est annexé aux avis.
 
 **Liens relatifs à cet article**
 
@@ -73459,121 +73429,6 @@ par ces organismes.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-
-###### Article R461-4
-
-Le conseil supérieur des habitations à loyer modéré désigne parmi ses membres deux vice-présidents.
-
-Le président désigne les rapporteurs soit parmi les membres du conseil, soit parmi des personnes nommées en cette qualité
-auprès du conseil par arrêté ministériel. Les rapporteurs ont voix délibérative.
-
-Le secrétariat du conseil est assuré par les soins de la direction de la construction au ministère chargé de la construction
-et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-706 1952-06-18 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
-
-
-###### Article R461-5
-
-Le conseil supérieur se réunit au moins une fois par an en séance plénière, sur convocation du ministre chargé de la
-construction et de l'habitation qui fixe l'odre du jour de chaque séance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-706 1952-06-18 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
-
-
-###### Article R461-6
-
-Un comité permanent du conseil supérieur se réunit chaque fois que le ministre chargé de la construction et de l'habitation
-l'estime nécessaire. Il instruit les questions à soumettre au conseil supérieur des habitations à loyer modéré et délibère
-sur les affaires qui lui sont soumises par le président du conseil supérieur, notamment en raison de leur urgence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-706 1952-06-18 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
-
-
-###### Article R461-7
-
-Le comité permanent est composé de douze membres du conseil supérieur, à savoir :
-
-- le directeur de la construction ;
-
-- le délégué à l'aménagement du territoire ;
-
-- le directeur du Trésor ;
-
-- le directeur général des collectivités locales ;
-
-- le directeur général de la caisse  des dépôts et consignations ;
-
-- un représentant du ministre chargé de la santé ;
-
-- un représentant des offices publics d'habitations à loyer modéré choisi par le ministre ;
-
-- un représentant des sociétés anonymes et fondations d'habitations à loyer modéré ;
-
-- un représentant des sociétés coopératives d'habitations à loyer modéré ;
-
-- un représentant des sociétés de crédit immobilier ;
-
-- deux membres du conseil supérieur des habitations à loyer modéré élus par le conseil.
-
-Le comité peut, en outre, appeler à participer, avec voix consultative, à ses délibérations, toute personne dont la présence
-lui paraît utile à l'examen des questions soumises à l'ordre du jour. La présidence du comité permanent est assurée par le
-directeur de la construction.
-
-Le président a voix prépondérante en cas de partage des voix.
-
-Le secrétariat du comité permanent est assuré dans les mêmes conditions que celui du conseil supérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-706 1952-06-18 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
 
 	  - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
