@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-09-07
+Version Consolidée au 1985-09-17
 
 # Partie législative
 
@@ -39810,6 +39810,72 @@ réclamation, le délai ne court qu'à dater de la réception de ces documents.
 
 ##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.
 
+###### Article R351-56
+
+Peuvent être assimilés, à des logements à usage locatif en application du 5. de l'article L. 351-2 :
+
+1. Les logements-foyers existants dont la construction a été financée :
+
+Soit dans les conditions prévues par les articles L. 313-1, L. 411-1, R. 311-1 et R. 431-49 ; lorsque des crédits collectés
+au titre de la participation des employeurs à l'effort de construction ont constitué le seul financement entrant dans le
+champ d'application des articles précités, le montant de ces crédits doit représenter au moins 20 p. 100 du coût de la
+construction ;
+
+Soit au moyen des subventions accordées sur le budget du ministère chargé de la santé, représentant au moins 20 p. 100 du
+coût de la construction;
+
+2. Les logements-foyers existants dont l'amélioration ou l'acquisition suivie d'une amélioration est financée :
+
+Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre ;
+
+Soit dans les conditions prévues par le titre II, chapitre III, section I, du présent livre ;
+
+Soit au moyen de crédits collectés au titre de la participation des employeurs à l'effort de construction dans les conditions
+prévues par l'article L. 313-1 (alinéa 3) dans le cadre d'une opération ayant fait l'objet d'un agrément des ministres
+chargés du logement et des travailleurs immigrés ;
+
+Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
+des travaux d'amélioration subventionnables ou du coût de l'opération d'acquisition-amélioration.
+
+Il en est de même des immeubles améliorés ou acquis et améliorés aux fins de transformation en logements-foyers avec le
+bénéfice des financements mentionnés ci-dessus;
+
+3. Les logements-foyers neufs dont la construction est financée :
+
+Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre;
+
+Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
+de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-977 1985-09-12 art. 1 JORF 17 septembre 1985
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2, L313-1, L411-1, R311-1, R431-49
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. R431-49 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-57 (V)
+	  - Code de la construction et de l'habitation. - art. R351-58 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+
+
 ###### Article R351-57
 
 Sont assimilés à des logements locatifs en application du 5. de l'article L. 351-2, les logements-foyers qui répondent à
@@ -45474,66 +45540,6 @@ La décision est prise à la majorité des voix ; en cas de partage des voix, ce
 
 
 ##### Dispositions particulières aux logements-foyers
-
-##### Conditions d'assimilation des logements-foyers aux logements à usage locatif.
-
-###### Article R351-56
-
-Peuvent être assimilés, à des logements à usage locatif en application du 5. de l'article L. 351-2 :
-
-1. Les logements-foyers existants dont la construction a été financée :
-
-Soit dans les conditions prévues par les articles L. 313-1, L. 411-1, R. 311-1 et R. 431-49 ; lorsque des crédits collectés
-au titre de la participation des employeurs à l'effort de construction ont constitué le seul financement entrant dans le
-champ d'application des articles précités, le montant de ces crédits doit représenter au moins 20 p. 100 du coût de la
-construction ;
-
-Soit au moyen des subventions accordées sur le budget du ministère chargé de la santé, représentant au moins 20 p. 100 du
-coût de la construction.
-
-2. Les logements-foyers existants dont l'amélioration ou l'acquisition suivie d'une amélioration est financée :
-
-Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre ;
-
-Soit dans les conditions prévues par le titre II, chapitre III, section I, du présent livre ;
-
-Soit au moyen de crédits collectés au titre de la participation des employeurs à l'effort de construction dans les conditions
-prévues par l'article L. 313-1 (alinéa 3) dans le cadre d'une opération ayant fait l'objet d'un agrément des ministres
-chargés du logement et des travailleurs immigrés ;
-
-Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
-des travaux d'amélioration subventionnables ou du coût de l'opération d'acquisition-amélioration.
-
-3. Les logements-foyers neufs dont la construction est financée :
-
-Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du présent livre.
-
-Soit au moyen de subventions accordées sur le budget du ministère chargé de la santé représentant au moins 20 p. 100 du coût
-de la construction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R311-1
-	  - Code de la construction et de l'habitation. - art. L313-1 (M)
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. R431-49 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-	  - Code de la construction et de l'habitation. - art. R331-1 (M)
-	  - Code de la construction et de l'habitation. - art. R331-4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-57 (V)
-	  - Code de la construction et de l'habitation. - art. R351-58 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-
 
 ##### Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
 
