@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-11-13
+Version Consolidée au 1982-11-30
 
 # Partie législative
 
@@ -35700,36 +35700,6 @@ Toute violation de cet engagement entraîne le remboursement du prêt.
 
 ##### Sous-section 2 : Caractéristiques.
 
-###### Article R331-71
-
-Les prêts conventionnés peuvent atteindre au maximum 80 p. 100 du prix de vente ou, le cas échéant, du prix de revient de
-l'opération. Toutefois, dans le cas des opération. prévues à l'article R. 331-63, 2., le montant des travaux pris en compte
-pour le calcul du prêt ne peut excéder un plafond fixé par arrêté conjoint des ministres chargés des finances et de la
-construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1287 1977-11-22 art. 9
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 5 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Arrêté du 4 octobre 2001 - art. 3 (V)
-	  - Arrêté du 7 mars 1978 - art. 6 (Ab)
-	  - Code de la construction et de l'habitation. - art. R331-76-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-
 ###### Article R331-72
 
 Les prêts conventionnés sont exclusifs de tout autre prêt, à l'exception des prêts d'épargne-logement, de ceux consentis au
@@ -35844,6 +35814,36 @@ En cinq ans au minimum et douze ans au maximum pour les opérations prévues à 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-73 (V)
+
+
+#### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements caractéristiques.
+
+###### Article R331-71
+
+Les prêts conventionnés peuvent atteindre au maximum 90 p. 100 du prix de vente ou, le cas échéant, du prix de revient de
+l'opération.
+
+Toutefois, dans le cas des opérations prévues à l'article R. 331-63, 2, le montant des travaux pris en compte pour le calcul
+du prêt ne peut excéder un plafond fixé par arrêté conjoint des ministres chargés des finances et de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 5 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Arrêté du 4 octobre 2001 - art. 3 (V)
+	  - Arrêté du 7 mars 1978 - art. 6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-76-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-63 2
 
 
 #### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration des logements
