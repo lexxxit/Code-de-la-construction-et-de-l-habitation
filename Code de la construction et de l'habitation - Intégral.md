@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1978-07-23
+Version Consolidée au 1978-12-05
 
 # Partie législative
 
@@ -14138,6 +14138,27 @@ affectation ou à leur situation.
 	  - Arrêté du 17 octobre 2016 (V)
 	  - Code de la construction et de l'habitation. - art. R*111-16 (V)
 	  - Code des postes et des communications électroni... - art. D407-1 (V)
+
+
+###### Article R*111-14-1
+
+Pour leur desserte postale, les bâtiments d'habitation doivent être pourvus de boîtes aux lettres à raison d'une boîte aux
+lettres par logement. 
+
+S'il existe plusieurs logements, ces boîtes doivent être regroupées en ensembles homogènes. 
+
+Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des postes précise les
+modalités d'application des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°78-1132 1978-11-29 ART. 3 JORF 5 DECEMBRE 1978
 
 
 ###### Article R*111-15
