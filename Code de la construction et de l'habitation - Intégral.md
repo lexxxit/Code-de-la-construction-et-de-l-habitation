@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-07-14
+Version Consolidée au 2000-07-30
 
 # Partie législative
 
@@ -50695,6 +50695,55 @@ III, du présent livre (1re partie).
 
 ##### Sous-section 1 : Conditions d'octroi.
 
+###### Article R331-65
+
+Les établissements de crédit qui ont passé avec l'Etat ou avec la Société de gestion du fonds de garantie de l'accession
+sociale à la propriété (SGFGAS) agissant pour le compte de l'Etat une convention conforme à une convention type, approuvée
+par arrêté du ministre chargé de l'économie et reproduite en annexe du présent code, sont habilités à consentir des prêts
+conventionnés.
+
+La Caisse nationale d'épargne est également habilitée à consentir des prêts conventionnés dans des conditions conformes à
+celles fixées par la convention type mentionnée à l'alinéa précédent.
+
+La SGFGAS est substituée dans les droits et obligations du Crédit foncier de France au titre des conventions conclues
+antérieurement à la date de publication du décret n° 2000-711 du 27 juillet 2000 relatif aux prêts conventionnés et modifiant
+l'article R. 331-65 du code de la construction et de l'habitation avec les établissements de crédit consentant des prêts
+conventionnés, y compris sur les prêts accordés antérieurement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1977 - art. Annexe art. 1 (V)
+	  - Arrêté du 14 août 2000 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R331-73 (M)
+	  - Code de la construction et de l'habitation. - art. R331-74 (M)
+	  - Code de la construction et de l'habitation. - art. R331-75 (V)
+	  - Code de la construction et de l'habitation. - art. R331-76-6 (V)
+	  - Code de la construction et de l'habitation. - art. R331-77 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation annexe, R331-65
+	  - Décret n°2000-711 2000-07-27
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2000-711 du 27 juillet 2000 - art. 1 () JORF 30 juillet 2000
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
+
+
 ###### Article R331-67
 
 Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales qui destinent
@@ -50731,6 +50780,55 @@ Ces prêts ne peuvent pas bénéficier de la garantie de l'Etat mentionnée au t
 	**Modifié par**:
 
 	  - Décret n°1993-03-18 art. 5 JORF 19 mars 1993
+
+
+##### Sous-section 2 : Caractéristiques.
+
+###### Article R331-74
+
+Le taux d'intérêt des prêts conventionnés ne peut excéder un taux maximum qui résulte de l'addition d'un taux de référence et
+d'une marge, variable en fonction des caractéristiques du prêt.
+
+Les modalités de détermination et de révision du taux de référence et le niveau de la marge sont fixés par arrêté du ministre
+chargé de l'économie.
+
+Toutefois, le niveau de la marge des prêts conventionnés bénéficiant de la garantie de l'Etat mentionnée au troisième alinéa
+de l'article L. 312-1 est fixé par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du
+logement.
+
+Le taux de référence est publié par la Société de gestion du fonds de garantie de l'accession sociale à la propriété
+(SGFGAS).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 18 mars 1993
+	  - TXT_SOURCE: Arrêté du 18 mars 1993 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 1993 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
+	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
+	  - Code de la construction et de l'habitation. - art. R331-75 (V)
+	  - Code de la construction et de l'habitation. - art. R331-77 (V)
+	  - Code de la construction et de l'habitation. - art. R331-77-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2000-711 du 27 juillet 2000 - art. 2 () JORF 30 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
 ##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.
@@ -50954,45 +51052,6 @@ limite*] dans le cadre des 1° et 3° du présent article.
 
 
 ##### Sous-section 1 : Conditions d'octroi.
-
-###### Article R331-65
-
-Les banques ou établissements [*prêteurs*] qui ont passé avec l'Etat ou avec le Crédit Foncier de France agissant pour le
-compte de l'Etat, une convention conforme à une convention type, approuvée par arrêté du ministre chargé des finances et
-reproduite en annexe au présent code, sont habilités à consentir des prêts conventionnés.
-
-La Caisse nationale d'épargne est également habilitée à consentir des prêts conventionnés dans des conditions conformes à
-celles fixées par la convention type mentionnée à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1977 - art. Annexe art. 1 (V)
-	  - Arrêté du 14 août 2000 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R331-73 (M)
-	  - Code de la construction et de l'habitation. - art. R331-74 (M)
-	  - Code de la construction et de l'habitation. - art. R331-75 (V)
-	  - Code de la construction et de l'habitation. - art. R331-76-6 (V)
-	  - Code de la construction et de l'habitation. - art. R331-77 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 1 ()
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
-
 
 ###### Article R331-66
 
@@ -51264,52 +51323,6 @@ constantes et des prêts à annuités progressives selon les modalités définie
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-65 (M)
-
-
-###### Article R331-74
-
-Le taux d'intérêt des prêts conventionnés ne peut excéder un taux maximum qui résulte de l'addition d'un taux de référence et
-d'une marge, variable en fonction des caractéristiques du prêt.
-
-Les modalités de détermination et de révision du taux de référence et le niveau de la marge sont fixés par arrêté du ministre
-chargé de l'économie.
-
-Toutefois, le niveau de la marge des prêts conventionnés bénéficiant de la garantie de l'Etat mentionnée au troisième alinéa
-de l'article L. 312-1 est fixé par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du
-logement.
-
-Le taux de référence est publié par le Crédit foncier de France.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°1993-03-18 art. 8 JORF 19 mars 1993
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 18 mars 1993
-	  - TXT_SOURCE: Arrêté du 18 mars 1993 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 1 ()
-	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
-
-	**Cité par**:
-
-	  - Arrêté du 18 mars 1993 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R331-65 (V)
-	  - Code de la construction et de l'habitation. - art. R*313-17 (V)
-	  - Code de la construction et de l'habitation. - art. R331-75 (V)
-	  - Code de la construction et de l'habitation. - art. R331-77 (V)
-	  - Code de la construction et de l'habitation. - art. R331-77-2 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
 ###### Article R331-75
