@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-02-16
+Version Consolidée au 1997-04-01
 
 # Partie législative
 
@@ -12284,14 +12284,6 @@ Le barême, révisé le 1er juillet de chaque année, tient compte de l'évoluti
 construction. Cette révision assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
 personnalisée au logement.
 
-Le barème applicable aux personnes occupant des logements à usage locatifs, conventionnés aprés le 31 décembre 1987, en
-application du 2° et, en ce qui concerne les logements améliorés, en application des 3° et 4° de l'article L. 351-2 du
-présent code, est celui prévu aux articles L. 542-5 et L. 831-4 du code de la sécurité sociale.
-
-Toutefois, le plafond mensuel du loyer pris en compte pour le calcul de l'aide accordée aux occupants de logements à usage
-locatif conventionnés aprés le 31 décembre 1987 et améliorés en application des 3° et 4° de l'article L. 351-2 du présent
-code, peut être fixé de manière spécifique par décret.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12305,13 +12297,6 @@ code, peut être fixé de manière spécifique par décret.
 	**Cite**:
 
 	  - Loi n°84-595 1984-07-12
-	  - Code de la sécurité sociale. - art. L542-5 (M)
-	  - Code de la sécurité sociale. - art. L831-4 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 107 () JORF 31 décembre 1987
 
 	**Cité par**:
 
@@ -12322,6 +12307,10 @@ code, peut être fixé de manière spécifique par décret.
 	  - Code de la construction et de l'habitation. - art. L362-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-17-2 (V)
 	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 134 (V) JORF 31 décembre 1996 en vigueur le 1er avril 1997
 
 
 ###### Article L351-3-1
@@ -49280,118 +49269,87 @@ suit le décès ou le premier jour du mois civil au cours duquel survient le dé
 	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
-###### Article R351-17-2
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
 
-Dans le cas prévu à l'article R. 351-17 (6è alinéa), l'élément L de la formule de calcul prévue à l'article R. 351-18
-représente [*loyer principal minimum*] :
+##### PARAGRAPHE I : Dispositions relatives aux locataires.
 
-Soit le quotient du loyer effectivement payé par le nombre de cotitulaires du bail ou de l'engagement de location, le
-résultat étant pris en compte dans la limite du loyer de référence prévu à l'article R. 351-20 qui correspond à la situation
-familiale de chacun des intéressés ;
+###### Article R351-17-4
 
-Soit le quotient de la somme prise en compte au titre des charges mentionnées à l'article R. 351-2 par le nombre de
-copropriétaires, cotitulaires du prêt ouvrant droit à l'aide personnalisée, le résultat étant pris en compte dans la limite
-de la mensualité de référence prévue à l'article R. 351-20 qui correspond à la situation familiale de chacun des intéressés.
+Sous réserve d'un montant minimal fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture, la participation personnelle du bénéficiaire est obtenue par l'application d'un taux de
+participation aux ressources du bénéficiaire appréciées conformément à l'article R. 351-5.
 
-Il est fait application à chaque personne ou ménage concerné du coefficient N prévu à l'article R. 351-19 et de l'élément C
-prévu à l'article R. 351-20 qui correspond à sa situation familiale.
+Les ressources sont arrondies aux 500 F supérieurs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
-	  - Arrêté du 3 juillet 1978 - art. 11 ter (M)
-	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
-	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
-	  - Arrêté du 3 juillet 1978 - art. 9 (M)
-	  - Arrêté du 18 juillet 1990 - art. 2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Arrêté du 3 juillet 1978 - art. 2 ter (V)
+	  - Arrêté du 26 décembre 2016 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-5 (V)
 
 	**Créé par**:
 
-	  - Décret n°81-677 1981-06-29 ART. 13 JORF 30 JUIN 1981
+	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 4 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R351-17 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-	  - Code de la construction et de l'habitation. - art. R351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
+###### Article R351-17-5
 
-###### Article R351-18
+Le taux de participation est obtenu par l'addition de :
 
-Le montant de l'aide personnalisée est obtenu par l'application de la formule :
+Un taux de base différent selon qu'il s'agit d'une personne seule sans personne à charge ou d'un autre ménage ;
 
-APL = K (L+C-L.),
+Un premier taux complémentaire qui croît quand les ressources du ménage augmentent ; il est obtenu par l'application de taux
+à des tranches de ressources ;
 
-dans laquelle
+Un deuxième taux complémentaire qui croît quand le loyer augmente dans la limite du plafond ; il est obtenu par l'application
+de taux croissants à des tranches successives de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence
+fixé en fonction de la composition familiale.
 
-a) A.P.L. représente le montant mensuel de l'aide personnalisée ;
+Le taux de participation fait l'objet d'une minoration en fonction du nombre de personnes à charge.
 
-b) K représente le coefficient de prise  en charge défini à l'article R. 351-19 ;
-
-c) L représente pour une période d'un mois :
-
-- soit le loyer principal effectivement payé pris en compte dans la limite du loyer de référence fixé à l'article R. 351-20
-- soit la somme prise en compte au titre des opérations d'accession, d'amélioration ou de location-accession prévues par
-l'article R. 351-1, dans la limite de la mensualité de référence fixée à l'article R. 351-20 ;
-
-d) C représente le montant forfaitaire des charges défini à l'article R. 351-20 ;
-
-e) L. représente le loyer principal minimum, tel que défini à l'article R. 351-21, qui doit rester à la charge du locataire
-ou du propriétaire compte tenu des ressources et de la composition de la famille.
-
-Le montant de l'aide personnalisée au logement est arrondi au franc le plus proche.
+Les loyers de référence et les modalités de calcul du taux de participation sont déterminés par arrêté conjoint des ministres
+en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Cité par**:
 
-	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-22 (V)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
+	  - Arrêté du 3 juillet 1978 - art. 2 quater (V)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°89-843 du 15 novembre 1989 - art. 4 ()
+	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 5 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
-	**Liens**:
 
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
-
+##### PARAGRAPHE II : Dispositions relatives aux propriétaires.
 
 ###### Article R351-19
 
-Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant les formules
-suivantes :
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule
+suivante :
 
-- si le bénéficiaire est locataire :
+K = 0,95 - R/CM x N
 
-K = 0,95 - ((R - (r X N))/(CM X N))    - si le bénéficiaire est propriétaire :
-
-K = 0,95 -(R/(CM X N)) dans lesquelles :
+dans laquelle :
 
 R représente la limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article
 R. 351-5 ;
-
-r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture ;
 
 CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
 sociale et de l'agriculture ;
@@ -49446,79 +49404,22 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 5 () JORF 31 janvier 1997 en vigueur le 1er février 1997
-
-
-###### Article R351-19-1
-
-Par dérogation aux dispositions des articles R. 351-6, R. 351-7 (2e alinéa), R. 351-7-2, R. 351-11, R. 351-17-2, R. 351-18,
-R. 351-19, R. 351-21 et R. 351-21-1, les ressources prises en compte pour le calcul de l'aide personnalisée au logement prévu
-aux alinéas 4 et 5 de l'article L. 351-3 sont déterminées conformément aux articles D. 542-5, D. 542-5-1, D. 542-9 à D.
-542-11 et D. 831-2 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-966 du 10 octobre 1988 - art. 4 () JORF 13 octobre en vigueur le 1er juillet 1988
-
-	**Abrogé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 9 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-6, R351-7, R351-7-2, R351-11, R351-11, R351-11, R351-17-2, R351-18, L351-3, D542-5, D542-5-1, D542-9, D542-10, D542-11, D831-2
-	  - Code de la construction et de l'habitation. - art. L351-3 (M)
-	  - Code de la construction et de l'habitation. - art. R351-11 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-	  - Code de la construction et de l'habitation. - art. R351-6 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
-
-###### Article R351-20-1
-
-Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt conventionné accordé pour l'amélioration du logement et que
-le prêt souscrit antérieurement pour l'acquisition dudit logement est assimilé à un prêt complémentaire dans les conditions
-prévues à l'article R. 351-2 (2è alinéa, a), la mensualité de référence est celle prévue pour les logements acquis et
-améliorés à l'aide d'un prêt conventionné.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°81-677 1981-06-29 ART. 14 JORF 30 JUIN 1981
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-2 AL. 2 A
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 8 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
 ###### Article R351-21
 
-Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
+Le loyer minimal Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
 supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
 
 Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
 du budget, de l'agriculture et du logement en distinguant :
 
 - les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
-occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession;
+occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession ;
 
-- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
+- les logements existants améliorés et occupés par leur propriétaire.
 
 Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
 arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
@@ -49549,7 +49450,8 @@ l'intervalle dans lequel se situent les ressources appréciées conformément à
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 6 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 11 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 	**Cite**:
 
@@ -49557,39 +49459,12 @@ l'intervalle dans lequel se situent les ressources appréciées conformément à
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
-###### Article R351-21-1
-
-La dépense nette de logement, obtenue en déduisant de la somme du loyer principal pris en compte (L) et du montant
-forfaitaire des charges (C) le montant mensuel de l'aide personnalisée due aux locataires, doit être au moins égale à un
-minimum forfaitaire (M) dont le montant est fixé par arrêté conjoint des ministres chargés du logement, du budget, de la
-sécurité sociale et de l'agriculture. Lorsque la dépense nette de logement est inférieure au minimum forfaitaire, il est
-appliqué au montant mensuel de l'aide personnalisée un abattement égal à la différence constatée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-966 1988-10-13 art. 8
-
-	**Modifié par**:
-
-	  - Décret n°88-966 du 10 octobre 1988 - art. 5 () JORF 13 octobre 1988 en vigueur le 1er juillet 1988
-
-	**Abrogé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 12 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-
 ###### Article R351-21-2
 
 A compter du 1er juillet 1987, la mensualité nette, obtenue en déduisant des charges mensuelles de prêts déclarées le montant
 de l'aide personnalisée due aux propriétaires, doit être au moins égale à un minimum déterminé par le produit d'un
 coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture
-et des ressources prises en compte pour le calcul de l'A.P.L. déterminées en application des articles R. 351.5, 7 ou 7.1.
+et des ressources prises en compte pour le calcul de l'APL déterminées en application des articles R. 351.5, 7 ou 7.1.
 
 Lorsque la mensualité nette est inférieure au minimum, il est appliqué au montant mensuel de l'aide personnalisée un
 abattement égal à la différence constatée.
@@ -49598,7 +49473,7 @@ abattement égal à la différence constatée.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -49612,98 +49487,35 @@ abattement égal à la différence constatée.
 	  - Arrêté du 3 juillet 1978 - art. 11 sexies (M)
 	  - Arrêté du 14 août 1987 - art. 12 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-669 du 14 août 1987 - art. 6 () JORF 15 août 1987
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R351
 
 
-###### Article R351-21-3
+##### PARAGRAPHE III : Dispositions communes aux locataires et aux propriétaires.
 
-A compter du 1er juillet 1987 [*date, point de départ*], pour les bénéficiaires titulaires d'un prêt aidé par l'Etat en
-accession à la propriété dont le contrat de prêt a été signé entre le 1er juillet 1981 et le 31 décembre 1984 [*période*]
-lorsque, lors du renouvellement des droits ou en cours de période de paiement, la mensualité nette Mn définie ci-dessous est
-supérieure au produit yR défini ci-dessous, le montant de l'aide personnalisée calculé conformément à l'article R. 351-18 est
-majoré d'un supplément calculé au moyen de la formule suivante :
+###### Article R351-22-2
 
-a X K(Mn - yR) dans laquelle :
-
-a est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture ;
-
-K est le coefficient défini à l'article R. 351-19 pour le cas où le bénéficiaire est propriétaire ;
-
-Mn est la mensualité nette obtenue en déduisant l'aide personnalisée calculée conformément à l'article R. 351-18 des charges
-mensuelles de prêts déclarées prises en compte dans la limite d'un plafond fixé par arrêté conjoint des ministres chargés du
-logement, du budget, de la sécurité sociale et de l'agriculture ;
-
-y est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture ;
-
-R représente les ressources prises en considération pour le calcul de l'aide personnalisée.
-
-Le produit yR ne peut être inférieur à un montant fixé par arrêté conjoint des ministres chargés du logement, du budget, de
-la sécurité sociale et de l'agriculture.
+Le montant de l'aide personnalisée est arrondi au franc le plus proche.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 ter (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 octies (M)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
-	  - Arrêté du 14 août 1987 - art. 13 (T)
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Créé par**:
 
-	  - Décret n°87-669 du 14 août 1987 - art. 7 () JORF 15 août 1987
+	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 17 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-
-
-###### Article R351-22
-
-Lorsque le montant de l'aide personnalisée est inférieur à une somme fixée par arrêté conjoint des ministres chargés des
-finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale, il n'est pas procédé à son
-versement.
-
-Les organismes payeurs définis à l'article R. 351-26 sont autorisés à abandonner la mise en recouvrement des sommes indûment
-payées lorsque leur montant est inférieur à une somme fixée par arrêté conjoint des ministres chargés des finances, de la
-construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°94-1018 du 23 novembre 1994 - art. 2 () JORF 27 novembre 1994
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-23 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-26 (M)
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 7 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
 
 
 ##### Sous-section 5 : Prime de déménagement.
@@ -50364,6 +50176,288 @@ arrêté.
 	**Abrogé par**:
 
 	  - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+
+##### Paragraphe 1 : Dispositions relatives aux locataires.
+
+###### Article R351-17-2
+
+Le montant mensuel de l'aide personnalisée au logement est égal à la différence entre la dépense de logement éligible et une
+participation personnelle du ménage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (M)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 9 (M)
+	  - Arrêté du 18 juillet 1990 - art. 2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+
+	**Modifié par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 2 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+
+###### Article R351-17-3
+
+La dépense de logement éligible comprend le loyer principal retenu dans la limite d'un plafond, ainsi qu'un montant
+forfaitaire au titre des charges. Le plafond de loyer est fixé en fonction de la zone géographique et, sauf dans le cas où le
+logement occupé est une chambre, de la composition familiale.
+
+Dans le cas du calcul de l'aide personnalisée des colocataires prévu au sixième alinéa de l'article R. 351-17, le loyer
+principal retenu représente le quotient du loyer effectivement payé par le nombre de cotitulaires du bail ou de l'engagement
+de location, le résultat étant pris en compte dans la limite du plafond de loyer qui correspond à la situation familiale de
+chacun des colocataires ; le montant forfaitaire de charges est celui qui correspond à la situation familiale de chacune des
+personnes ou ménages concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (M)
+	  - Arrêté du 3 juillet 1978 - art. 2 ter (V)
+
+	**Créé par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+
+
+##### Paragraphe 2 : Dispositions relatives aux propriétaires.
+
+###### Article R351-18
+
+Le montant de l'aide personnalisée est obtenu par l'application de la formule :
+
+A.P.L. = K (L+C-L.),
+
+dans laquelle    a) A.P.L. représente le montant mensuel de l'aide personnalisée ;
+
+b) K représente le coefficient de prise  en charge défini à l'article R. 351-19 ;
+
+c) L représente pour une période d'un mois la somme prise en compte au titre des opérations d'accession, d'amélioration ou de
+location-accession prévues par l'article R. 351-1, dans la limite de la mensualité plafond fixée à l'article R. 351-22-1 ;
+
+d) C représente le montant forfaitaire des charges défini à l'article R. 351-22-1 ;
+
+e) Lo représente le loyer minimal tel que défini à l'article R. 351-21 qui doit rester à la charge du propriétaire compte
+tenu des ressources déterminées conformément à l'article R. 351-5 et de la composition de la famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 7 () JORF 29 mars 1997 en en vigueur le 1er avril 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-21 (M)
+	  - Code de la construction et de l'habitation. - art. R351-22-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+
+
+###### Article R351-20-1
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt conventionné accordé pour l'amélioration du logement et que
+le prêt souscrit antérieurement pour l'acquisition dudit logement est assimilé à un prêt complémentaire dans les conditions
+prévues à l'article R. 351-2 (2e alinéa, a), la mensualité de référence est celle prévue pour les logements acquis et
+améliorés à l'aide d'un prêt conventionné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+
+
+###### Article R351-21-3
+
+A compter du 1er juillet 1987, pour les bénéficiaires titulaires d'un prêt aidé par l'Etat en accession à la propriété dont
+le contrat de prêt a été signé entre le 1er juillet 1981 et le 31 décembre 1984 lorsque, lors du renouvellement des droits ou
+en cours de période de paiement, la mensualité nette Mn définie ci-dessous est supérieure au produit yR défini ci-dessous, le
+montant de l'aide personnalisée calculé conformément à l'article R. 351-18 est majoré d'un supplément calculé au moyen de la
+formule suivante :
+
+a x K(Mn - yR) dans laquelle :
+
+a est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+K est le coefficient défini à l'article R. 351-19 pour le cas où le bénéficiaire est propriétaire ;
+
+Mn est la mensualité nette obtenue en déduisant l'aide personnalisée calculée conformément à l'article R. 351-18 des charges
+mensuelles de prêts déclarées prises en compte dans la limite d'un plafond fixé par arrêté conjoint des ministres chargés du
+logement, du budget, de la sécurité sociale et de l'agriculture ;
+
+y est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+R représente les ressources déterminées dans les conditions fixées à l'article R. 351-19.
+
+Le produit yR ne peut être inférieur à un montant fixé par arrêté conjoint des ministres chargés du logement, du budget, de
+la sécurité sociale et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 octies (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
+	  - Arrêté du 14 août 1987 - art. 13 (T)
+
+	**Modifié par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 13 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+
+###### Article R351-21-4
+
+Dans le cas du calcul de l'aide personnalisée des copropriétaires prévu au sixième alinéa de l'article R. 351-17 :
+
+- l'élément L représente le quotient de la somme prise en compte au titre des charges mentionnées à l'article R. 351-2 par le
+nombre de copropriétaires, cotitulaires du prêt ouvrant droit à l'aide personnalisée, le résultat étant pris en compte dans
+la limite de la mensualité plafond prévue à l'article R. 351-22-1 qui correspond à la situation familiale de chacun des
+intéressés ;
+
+- il est fait application à chaque personne ou ménage concerné du coefficient N prévu à l'article R. 351-19 et de l'élément C
+prévu à l'article R. 351-22-1 qui correspondent à sa situation familiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
+
+	**Créé par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 14 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-22-1 (M)
+
+
+##### Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires.
+
+###### Article R351-22
+
+Lorsque le montant de l'aide personnalisée est inférieur à une somme fixée par arrêté conjoint des ministres chargés des
+finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale, il n'est pas procédé à son
+versement.
+
+Les organismes payeurs définis à l'article R. 351-26 sont autorisés à abandonner la mise en recouvrement des sommes indûment
+payées lorsque leur montant est inférieur à une somme fixée par arrêté conjoint des ministres chargés des finances, de la
+construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-23 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-26 (M)
+
+
+###### Article R351-22-1
+
+Les plafonds de loyers et de mensualités, le montant forfaitaire des charges ainsi que les zones géographiques à l'intérieur
+desquelles sont déterminés ces plafonds sont fixés par arrêté conjoint des ministres en charge du logement, du budget, de la
+sécurité sociale et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 16 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
 ##### Sous-section 5 : Prime de déménagement.
@@ -51715,6 +51809,20 @@ N représente le nombre de parts déterminé par les coefficients suivants :
 
 2,50.
 
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+
+3 ;
+
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
+
+Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
+
 Le coefficient K est arrondi à deux décimales par défaut.
 
 **Liens relatifs à cet article**
@@ -51737,7 +51845,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 7 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 18 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 	**Cite**:
 
@@ -51761,7 +51869,11 @@ CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres c
 sociale et de l'agriculture ;
 
 N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
-charge, 2,3 si le ménage ou la personne isolée a une personne à charge.
+charge, 2,5 si le ménage ou la personne isolée a une personne à charge, 3 si le ménage ou la personne isolée a deux personnes
+à charge ; 3,7 si le ménage ou la personne isolée a trois personnes à charge ; 4,3 si le ménage ou la personne isolée a
+quatre personnes à charge.
+
+Ce dernier coefficient est majoré de 0,5 par personne à charge supplémentaire.
 
 Le coefficient K est arrondi à deux décimales par défaut.
 
@@ -51783,7 +51895,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 8 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+	  - Décret n°97-289 du 28 mars 1997 - art. 19 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 	**Cite**:
 
