@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-04-08
+Version Consolidée au 2003-04-23
 
 # Partie législative
 
@@ -45655,12 +45655,16 @@ effectif des fonds.
 
 ###### Article R*315-40
 
-Lors du retrait des fonds, le souscripteur d'un plan d'épargne-logement reçoit de l'Etat une prime d'épargne égale au montant
-des intérêts acquis.
+Pour les plans ouverts avant le 1er janvier 1981, les souscripteurs d'un plan d'épargne logement reçoivent de l'Etat, lors du
+retrait des fonds, une prime d'épargne égale au montant des intérêts acquis.
 
-La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 est égale à un
-pourcentage, déterminé par arrêté du ministre chargé des finances du ministre chargé de la construction et de l'habitation,
-des intérêts acquis à la date de venue à terme du plan.
+Pour les plans ouverts entre le 1er janvier 1981 et le 11 décembre 2002, cette prime est égale à un pourcentage, déterminé
+par arrêté du ministre chargé des finances et du ministre chargé du logement, des intérêts acquis à la date de venue à terme
+du plan.
+
+Pour les plans ouverts à compter du 12 décembre 2002, la prime d'épargne mentionnée à l'alinéa précédent est attribuée aux
+souscripteurs d'un plan d'épargne logement qui donne lieu à l'octroi du prêt mentionné à l'article R. 315-34, lors du
+versement de ce prêt.
 
 En outre, il est versé au souscripteur d'un plan d'épargne-logement bénéficiaire d'un prêt prévu à l'article R. 315-34 pour
 le financement des dépenses de construction, d'acquisition ou d'amélioration d'un logement destiné à son habitation
@@ -45672,15 +45676,19 @@ habituellement au foyer du bénéficiaire.
 La prime d'épargne et le montant de la majoration ne peuvent pas dépasser un montant fixé par arrêté du ministre chargé des
 finances et du ministre chargé de la construction et de l'habitation.
 
+**Nota:**
+
+Décret 2006-1586 du 12 décembre 2006 article 1 :
+
+Les dispositions de l'article R315-40 du code de la construction et de l'habitation dans sa rédaction issue du décret
+2003-370 du 18 avril 2003 sont applicables à la Nouvelle-Calédonie et à la Polynésie française, suivant les modalités prévues
+par le décret 2001-383 du 3 mai 2001.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -45691,9 +45699,13 @@ finances et du ministre chargé de la construction et de l'habitation.
 	  - Arrêté du 25 février 2011 - art. 3 (V)
 	  - Arrêté du 7 octobre 2011 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-370 du 18 avril 2003 - art. 1 () JORF 23 avril 2003
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGI 1411 III
+	  - TXT_ASSOCIE: CGI 1411
 
 	**Cite**:
 
