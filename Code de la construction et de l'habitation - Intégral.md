@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-06-26
+Version Consolidée au 1979-07-10
 
 # Partie législative
 
@@ -35877,6 +35877,63 @@ chargé de la construction et de l'habitation.
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
+###### Article R351-2
+
+L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des prêts définis par les articles R. 331-32 et
+suivants et qui supporte les charges afférentes à ce prêt [*bénéficiaire*].
+
+Le droit à l'aide personnalisée est ouvert :
+
+Soit, si le propriétaire n'occupe pas le logement à la date de signature du contrat de prêt, à compter du mois au cours
+duquel se situe son entrée dans les lieux ;
+
+Soit, si le propriétaire occupe le logement à la date de signature du contrat de prêt, à compter du mois au cours duquel se
+situe cette date.
+
+L'aide personnalisée est versée à compter de la première échéance due au titre de ce prêt et postérieure à la date d'entrée
+dans les lieux ou de signature du contrat de prêt, si le propriétaire est déjà dans les lieux.
+
+Sont pris en considération pour le calcul de l'aide personnalisée :
+
+a) Les charges d'intérêts, ou les charges d'intérêts et d'amortissement et les charges accessoires au principal de la dette
+afférente aux prêts susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés du budget et
+de la construction et de l'habitation ;
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété accordé pour
+l'agrandissement ou un prêt conventionné accordé pour l'amélioration du logement, le prêt souscrit antérieurement aux fins de
+construction ou d'acquisition dudit logement est assimilé à un prêt complémentaire.
+
+b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance vie, de l'assurance
+couvrant les risques d'invalidité, de l'assurance pour pertes pécuniaires résultant du report d'échéances de sommes dues en
+cas de chômage, contractées par le bénéficiaire en garantie de l'exécution des engagements souscrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 2 JORF 30 JUIN 1981
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-27 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+
+
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
+
 ###### Article R351-8
 
 Sont considérés comme personnes à charge [*définition*] au sens des titres III à V du présent livre, sous réserve qu'ils
@@ -40192,22 +40249,21 @@ donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
-###### Article R351-2
+###### Article R351-3
 
-L'aide personnalisée est accordée [*bénéficiaire*] au propriétaire qui soit paie des intérêts en cas de différé
-d'amortissement, soit rembourse les prêts définis par les articles R. 331-32 et suivants ; elle est versée soit à compter de
-la première échéance d'intérêt ou de prêt lorsque le propriétaire occupe le logement, soit à compter du premier jour du mois
-au cours duquel se situe son entrée dans les lieux.
+Sous réserve des dispositions prévues au dernier alinéa du présent article, le droit à l'aide personnalisée est ouvert :
 
-Sont pris en considération pour le calcul de l'aide personnalisée :
+Au locataire d'un logement conventionné en application de la section I du chapitre III du titre V du livre III de la première
+partie du code de la construction et de l'habitation, qui est titulaire d'un bail conforme aux stipulations de la convention,
+à compter de la première échéance du loyer prévu par ce bail [*bénéficiaire*] ;
 
-a) Les charges d'intérêts, ou les charges d'intérêts et d'amortissement et les charges accessoires au principal de la dette
-afférente aux prêts susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés du budget et
-de la construction et de l'habitation ;
+Au locataire ou à l'occupant de bonne foi d'un logement conventionné en application de la section II du chapitre III du titre
+V du livre III de la première partie du code de la construction et de l'habitation, soit à compter de la première échéance du
+nouveau loyer notifié par le bailleur s'il s'agit d'un locataire ou occupant de bonne foi dans les lieux, soit à compter de
+la première échéance du loyer prévu par l'engagement de location s'il s'agit d'un nouveau locataire.
 
-b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance vie, de l'assurance
-couvrant les risques d'invalidité, de l'assurance pour pertes pécuniaires résultant du report d'échéances de sommes dues en
-cas de chômage, contractées par le bénéficiaire en garantie de l'exécution des engagements souscrits.
+L'aide personnalisée est maintenue, après expiration ou résiliation de la convention, au locataire ou à l'occupant qui
+acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
 
 **Liens relatifs à cet article**
 
@@ -40217,46 +40273,12 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 
 	**Cité par**:
 
-	  - Arrêté du 22 août 1986 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-20-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-27 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R331-32 (M)
-
-
-###### Article R351-3
-
-Sous réserve des dispositions prévues au dernier alinéa du présent article, le droit à l'aide personnalisée est ouvert à
-compter de la première échéance de loyer au locataire titulaire d'un bail conclu en application d'une des conventions
-définies aux articles L. 353-1 à L. 353-13 et qui acquitte effectivement un loyer [*bénéficiaire*].
-
-Dans les cas prévus à l'article L. 353-7, l'aide personnalisée n'est attribuée au titulaire du bail mentionné à l'alinéa
-précédent qu'à compter de la date d'exigibilité du nouveau loyer défini par la convention et applicable après exécution des
-travaux.
-
-L'aide personnalisée est maintenue, aprés expiration ou résiliation de la convention, au locataire ou à l'occupant qui
-acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
 
 
 ###### Article R351-5
