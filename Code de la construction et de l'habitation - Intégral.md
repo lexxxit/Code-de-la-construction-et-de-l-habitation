@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-11-30
+Version Consolidée au 1983-02-25
 
 # Partie législative
 
@@ -35394,8 +35394,9 @@ Un arrêté du ministre chargé de la construction et de l'habitation précise l
 modalités de calcul et de contrôle des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités de mise
 en oeuvre de la garantie.
 
-5. Jusqu'au 31 décembre 1982 [*date*], les travaux d'amélioration de logements achevés avant le 1er janvier 1972. Un arrêté
-conjoint des ministres chargés des finances et du logement fixe le montant minimal de ces travaux.
+5. Jusqu'à une date postérieure de trois mois au 23 février 1983, les travaux d'amélioration de logements achevés avant le
+1er janvier 1972. Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal de ces
+travaux.
 
 **Liens relatifs à cet article**
 
@@ -35433,18 +35434,18 @@ conjoint des ministres chargés des finances et du logement fixe le montant mini
 	  - Code de la sécurité sociale. - art. R831-22 (V)
 	  - Code général des impôts, CGI. - art. 1383 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 8 mars 1985
+	  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
+
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°82-495 1982-06-10 ART. 1 JORF 12 JUIN 1982
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 8 mars 1985
-	  - TXT_ASSOCIE: Code de la construction R331-63 à Code de la construction R331-77
+	  - Décret n°83-134 1983-02-23 ART. 1 JORF 25 FEVRIER 1983
 
 
 ###### Article R331-64
