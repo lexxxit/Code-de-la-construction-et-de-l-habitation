@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-11-03
+Version Consolidée au 1983-11-23
 
 # Partie législative
 
@@ -13100,14 +13100,6 @@ Ce taux s'applique aux contrats en cours, nonobstant toute clause contraire.
 	  - Code de la construction et de l'habitation. - art. L432-4 (V)
 	  - Code de la construction et de l'habitation. - art. L432-5 (Ab)
 
-
-#### Chapitre III : Accession à la propriété.
-
-##### Section 3 : Dispositions particulières aux pensionnés de guerre.
-
-##### Section 3 : Dispositions particulières aux pensionnés de guerre.
-
-##### Section 4 : Taux des intérêts moratoires.
 
 ### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
 
@@ -41578,6 +41570,325 @@ en outre, reproduire, en caractère très apparents, le texte intégral de l'art
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
+
+###### Article R353-202
+
+Les logements sont loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par
+an. Ils ne peuvent faire l'objet de sous-location.
+
+Les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé en application de
+l'article R. 331-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-42 (M)
+
+
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
+
+###### Article R353-200
+
+Les conventions conclues en application de l'article L. 351-2 (3°) entre l'Etat et les personnes physiques ou morales
+bénéficiaires de prêts prévus par la sous-section 4 bis de la section II du chapitre 1er du titre III du livre III doivent
+être conformes à la convention type reproduite en annexe du présent code.
+
+Les conventions ne peuvent être conclues que pour des logements vacants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation annexe, L351-2
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-59-15 (V)
+
+
+###### Article R353-201
+
+Les conventions se renouvellent pour des périodes triennales, sous réserve de dénonciation expresse par l'une ou l'autre
+partie. Selon le cas, la dénonciation est notifiée par acte administratif, notarié ou extrajudiciaire, au moins six mois
+avant leur date d'expiration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-203
+
+Le bailleur est tenu de proposer au locataire un contrat de location conforme à la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-204
+
+Lorsque le bailleur n'est pas un organisme d'habitations à loyer modéré, le contrat de location est conclu pour une durée de
+trois ans. Toutefois, s'il est conclu avant le 30 juin suivant le troisième anniversaire de la prise d'effet de la
+convention, sa durée est égale à la période restant à courir jusqu'à la date du 30 juin mentionnée ci-dessus. Pendant la
+durée de la convention, sous réserve du respect des obligations définies par l'article 18 de la loi n° 82-526 du 22 juin
+1982, le contrat de location se renouvelle pour des périodes triennales, sauf refus du locataire notifié dans les conditions
+prévues par la convention. En cas de vacance intervenant au cours du contrat de location, le nouveau locataire est substitué
+de plein droit à l'ancien locataire.
+
+Lorsque le bailleur est un organisme d'habitations à loyer modéré, les dispositions de l'article L. 353-15 sont applicables
+aux locataires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 18
+	  - Code de la construction et de l'habitation. - art. L353-15 (M)
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-205
+
+Une copie de la convention doit être tenue en permanence à la disposition des locataires, ou de leurs associations, dans les
+conditions fixées par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-206
+
+Le locataire peut donner congé à tout moment, dans les conditions définies par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-207
+
+Le bailleur peut demander au locataire, lors de la signature du contrat de location, le versement d'un dépôt de garantie qui
+ne peut être supérieur à deux mois de loyer en principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-210
+
+Le loyer est payable par fraction mensuelle à terme échu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-211
+
+Les bailleurs sont tenus, envers les organismes chargés du paiement de l'aide personnalisée au logement, de fournir toutes
+les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au logement, à la
+liquidation et au versement de celle-ci, dans les conditions définies par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-212
+
+Les conventions peuvent être révisées à la demande de l'une ou l'autre partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+###### Article R353-213
+
+La convention fixe les sanctions encourues pour le non-respect des engagements contractuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
+
+###### Article R353-208
+
+Le loyer maximum applicable aux logements conventionnés dont la valeur est fixée, selon le cas, au mètre carré de surface
+corrigée, ou au mètre carré de surface habitable, ainsi que les conditions de son évolution, sont fixés par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-209 (V)
+
+
+###### Article R353-209
+
+Les loyers pratiqués, dont la valeur est fixée, selon le cas, au mètre carré de surface corrigée, ou au mètre carré de
+surface habitable, peuvent évoluer selon les modalités fixées par la convention et dans la limite des dispositions prises en
+application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
 ### Titre V : Aide personnalisée au logement.
 
 #### Chapitre Ier : Dispositions générales
@@ -58384,5 +58695,74 @@ Durée.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
+
+
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.
+
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.
+
+###### Article Annexe II à l'article R353-200, art. 1
+
+Description du programme de ....
+
+I. - Désignation du ou des immeubles (1).
+
+II. - Composition du programme.
+
+A. - Locaux auxquels s'applique la présente convention :
+
+1. Nombre des logements prévus par type de logements avec numéro des logements ;
+
+2. Surface habitable ;
+
+3. Surface corrigée des logements (2) ;
+
+4. Dépendances (nombre et surface) ;
+
+5. Locaux collectifs résidentiels (nombre et surface) ;
+
+6. Garages et parkings affectés à ces logements (nombre et différenciation par type).
+
+B. - Locaux auxquels ne s'applique pas la convention.
+
+III. - Origine de propriété (3).
+
+IV. - Renseignements administratifs.
+
+1. Permis de construire ou déclaration de construction ;
+
+2. Modalités de financement (4) ;
+
+Financement principal,
+
+Date d'octroi du prêt,
+
+Numéro du prêt,
+
+Durée,
+
+Financement complémentaire,
+
+Date d'achèvement de la construction ou certificat de conformité,
+
+Fait à Paris, le ....
+
+(1) Etablie conformément à l'article 7 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+(2) Dans le cas où le bailleur est un organisme d'H.L.M..
+
+(3) Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 précité.
+
+(4) Renseignements à compléter dès que les décisions définitives de financement sont intervenues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31
+
+	**Créé par**:
+
+	  - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
 
 
