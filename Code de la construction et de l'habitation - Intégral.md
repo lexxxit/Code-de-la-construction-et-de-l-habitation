@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-11-08
+Version Consolidée au 2000-11-30
 
 # Partie législative
 
@@ -25590,10 +25590,45 @@ postal. Une ampliation de cette décision est transmise au préfet, lorsqu'il n'
 
 ##### Sous-section 1 : Caractéristiques thermiques.
 
-###### Article R*111-20
+###### Article R111-20
 
-Les dispositions de la présente section s'appliquent aux bâtiments nouveaux et parties nouvelles de bâtiments autres que ceux
-concernés par la section II ci-dessus relative aux règles générales de construction applicables aux bâtiments d'habitation.
+I. - Les bâtiments nouveaux et parties nouvelles de bâtiments doivent être construits et aménagés de telle sorte qu'ils
+respectent des caractéristiques thermiques minimales et les conditions suivantes :
+
+- la consommation conventionnelle d'énergie d'un bâtiment pour le chauffage, la ventilation, la climatisation, la production
+d'eau chaude sanitaire et, pour certains types de bâtiments, l'éclairage des locaux, est inférieure ou égale à la
+consommation conventionnelle d'énergie de référence de ce bâtiment ;
+
+- dans le cas d'un bâtiment non climatisé, la température intérieure conventionnelle atteinte en été est inférieure ou égale
+à la température intérieure conventionnelle de référence.
+
+II. - Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction et de l'habitation fixe :
+
+1. Les caractéristiques thermiques minimales ;
+
+2. La méthode de calcul de la consommation conventionnelle d'énergie d'un bâtiment ;
+
+3. Les bâtiments pour lesquels l'éclairage n'est pas pris en compte dans la consommation conventionnelle d'énergie ;
+
+4. La méthode de calcul de la température intérieure conventionnelle atteinte en été dans un bâtiment ;
+
+5. Les caractéristiques thermiques de référence pour le calcul de la consommation conventionnelle d'énergie de référence et
+le calcul de la température intérieure conventionnelle de référence atteinte en été ;
+
+6. Les conditions particulières d'évaluation de la performance thermique des projets de construction pour lesquels, en raison
+de leur spécificité établie, les caractéristiques thermiques, minimales ou de référence, ou les méthodes de calcul ne sont
+pas applicables ;
+
+7. Les conditions d'approbation des procédés et solutions techniques de construction, d'aménagement et d'équipement
+susceptibles en eux-mêmes de justifier du respect des conditions définies au I.
+
+III. - Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction et de l'habitation détermine les
+conditions d'attribution à un bâtiment du label "haute performance énergétique".
+
+IV. - Les dispositions du présent article ne s'appliquent pas aux bâtiments et parties de bâtiment dont la température
+normale d'utilisation est inférieure ou égale à 12 °C, aux piscines, aux patinoires, aux bâtiments d'élevage ainsi qu'aux
+bâtiments chauffés ou climatisés exclusivement pour des raisons particulières liées au processus de conservation ou de
+fabrication qu'ils abritent.
 
 **Liens relatifs à cet article**
 
@@ -25632,7 +25667,11 @@ concernés par la section II ci-dessus relative aux règles générales de const
 
 	**Modifié par**:
 
-	  - Décret n°88-355 1988-04-12 art. 1 JORF 15 avril 1988
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. R*111-21 (M)
 
 
 ##### Sous-section 2 : Performances énergétiques et énergies renouvelables.
@@ -25700,70 +25739,6 @@ de permis de construire déposée postérieurement au 1er juin 2001.
 	  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 4 (V)
 	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. R*111-20 (M)
-
-
-##### Sous-section 3 : Etude de faisabilité des approvisionnements en énergie.
-
-###### Article R*111-22
-
-Les arrêtés prévus à l'article précédent sont applicables six mois après leur application aux projets de construction des
-bâtiments qu'ils concernent et qui font l'objet d'une demande de permis de construire, d'une demande de prorogation de permis
-de construire ou de la déclaration prévue à l'article L. 422-2 du code de l'urbanisme.
-
-Ils sont également applicables aux constructions faisant l'objet d'une déclaration d'achèvement de travaux intervenant après
-un délai de trois ans et six mois à compter de leur publication, quelle que soit la date de la demande du permis de
-construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-355 1988-04-12 art. 3 JORF 15 avril 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
-
-	**Cité par**:
-
-	  - Arrêté du 18 décembre 2007 - art. 1 (VD)
-	  - Arrêté du 11 octobre 2011 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R*111-20 (M)
-	  - Code de la construction et de l'habitation. - art. R131-27 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L422-2 (M)
-
-
-##### Section 4 : Caractéristiques thermiques.
-
-###### Article R111-23
-
-Les règles générales de construction et d'aménagement prévues à l'article L. 111-9 sont fixées après avis du comité
-consultatif de l'utilisation de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-622 1978-05-31
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 
 
 ##### Section 5 : Caractéristiques acoustiques.
