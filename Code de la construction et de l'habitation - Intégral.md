@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-11-10
+Version Consolidée au 1987-12-27
 
 # Partie législative
 
@@ -48042,6 +48042,35 @@ vacant parmi les administrateurs de ces institutions.
 	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 
 
+###### Article R*421-10
+
+Jusqu'à la date de la première réunion du conseil d'administration de l'office public d'aménagement et de construction
+constitué dans les conditions prévues aux articles R. 421-7 et R. 421-8, le ou les offices publics d'habitations à loyer
+modéré transformés en office public d'aménagement et de construction continuent leur activité selon le régime qui leur était
+applicable avant transformation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 6 JORF 27 décembre 1987
+
+	**Cité par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-37 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-7 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+
+
 ###### Article R*421-11
 
 Ne sont pas éligibles ou sont déclarés démissionnaires d'office les membres du conseil d'administration qui se trouvent dans
@@ -48313,6 +48342,118 @@ l'établissement public intéressé et par les futurs usagers.
 	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
+###### Article R*421-27
+
+Le commissaire du Gouvernement est le préfet du département du siège. Il peut se faire représenter.
+
+Pour l'exécution de sa mission, le commissaire du Gouvernement a tous pouvoirs d'investigation sur pièces et sur place.
+
+Il assiste, avec voix consultative, aux séances du conseil d'administration. Il reçoit dans les mêmes conditions que les
+membres du conseil d'administration les convocations, ordres du jour et tous autres documents qui doivent leur être adressés
+avant chaque séance. Il reçoit également copie des procès-verbaux desdites séances ainsi que des décisions prises par
+délégation du conseil d'administration.
+
+Il peut demander au conseil d'administration de délibérer sur toute question qu'il juge utile de lui soumettre et, le cas
+échéant, provoquer sa réunion.
+
+Il est tenu régulièrement informé des projets et activités de l'office public d'aménagement et de construction et reçoit
+communication des documents nécessaires à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 1 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-28
+
+Les offices publics d'aménagement et de construction peuvent être soumis au contrôle économique et financier de l'Etat prévu
+par le décret n° 55-733 du 26 mai 1955 modifié, dans les conditions fixées par un arrêté du ministre chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-733 du 26 mai 1955, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 6 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-29
+
+L'application de nouvelles règles comptables, qu'il s'agisse des règles de la comptabilité publique ou des règles applicables
+aux entreprises de commerce, ne peut partir que d'un 1er janvier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 2 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-30
+
+Le comptable de l'office est soit un comptable direct du Trésor, soit un comptable spécial. Il est nommé dans les formes
+prévues à l'article L. 421-1-2 et révoqué dans les mêmes conditions. Il prête serment devant la chambre régionale des
+comptes. 
+
+Il exerce ses missions dans les conditions prévues par le décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
+la comptabilité publique. 
+
+Il est tenu de produire ses comptes devant la chambre régionale des comptes, qui statue comme il est dit au 4e alinéa de
+l'article 14 de la loi n° 82-213 du 2 mars 1982. 
+
+Lorsqu'il s'agit d'un comptable direct du Trésor, les offices versent, à titre de participation, une contribution au
+fonctionnement du service comptable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Loi n°82-213 du 2 mars 1982 - art. 14 (Ab)
+	  - Code de la construction et de l'habitation. - art. L421-1-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 3 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
 ###### Article R*421-31
 
 Les ressources d'un office public d'aménagement et de construction comprennent notamment :
@@ -48415,6 +48556,136 @@ intéressés tels qu'ils sont prévus à l'article R. 461-8.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R461-8 (V)
+
+
+##### Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.
+
+###### Article R421-40
+
+Les offices publics d'habitations à loyer modéré transformés en offices publics d'aménagement et de construction restent
+soumis aux règles de la comptabilité publique jusqu'à la fin de l'année au cours de laquelle se réunit le premier conseil
+d'administration qui suit la publication de l'arrêté prononçant la transformation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 art. 1
+
+
+###### Article R421-41
+
+Un ou plusieurs commissaires aux comptes sont choisis par le conseil d'administration de l'office sur la liste mentionnée à
+l'article L. 225-219 du code de commerce. Ils exercent leur mission dans les conditions définies par ladite loi sous réserve
+des règles propres à l'établissement public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 art. 1
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-219 (Ab)
+
+
+###### Article R421-42
+
+Le contrôle de l'Etat mentionné à l'article L. 421-1-1 porte sur la gestion financière et comptable de l'office public
+d'aménagement et de construction.
+
+Il est exercé par le commissaire du Gouvernement mentionné à l'article R. 421-27 et dans les conditions prévues audit article
+à l'exception de ses alinéas 4 et 5.
+
+Le commissaire du Gouvernement reçoit communication du rapport du commissaire aux comptes.
+
+Il peut demander au conseil d'administration de délibérer sur toute question pouvant mettre en cause l'équilibre financier de
+l'office et, le cas échéant, provoquer sa réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L421-1-1, R421-27
+	  - Code de la construction et de l'habitation. - art. L421-1-1 (Ab)
+
+
+###### Article R421-43
+
+Le défaut de désignation d'un commissaire aux comptes, l'absence d'établissement des comptes ou le fait de ne pas transmettre
+ceux-ci à l'autorité compétente pendant une période de deux ans sont au nombre des irrégularités, fautes graves ou carences
+justifiant l'application de l'article R. 421-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-13
+
+
+###### Article R421-44
+
+Les articles R. 421-28 et R. 421-30 ne sont pas applicables aux offices publics d'aménagement et de construction qui tiennent
+leur comptabilité selon les règles applicables aux entreprises de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-28, R421-30
 
 
 ##### Section 2 : Offices publics d'habitations à loyer modéré
@@ -58518,190 +58789,6 @@ Réservé.
 ### Titre II : Organismes d'habitations à loyer modéré.
 
 #### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.
-
-##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
-
-###### Article R*421-10
-
-Jusqu'à la date de la première réunion du conseil d'administration de l'office public d'aménagement et de construction
-constitué dans les conditions prévues aux articles R. 421-7 et R. 421-8, le ou les offices publics d'habitations à loyer
-modéré transformés en office public d'aménagement et de construction continuent leur activité selon le régime qui leur était
-applicable avant transformation.
-
-Toutefois les dispositions des articles R. 423-32 à R. 423-68 sur la comptabilité des offices publics d'habitation à loyer
-modéré, dans la mesure où elles ne sont pas contraires aux dispositions du présent chapitre, restent applicables jusqu'à la
-fin de l'année au cours de laquelle la transformation prend effet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Décret n°2008-566 du 18 juin 2008 - art. 5 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-37 (V)
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-7 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R423-32 à R423-68
-
-
-###### Article R*421-26
-
-Les délibérations portant sur des emprunts sont soumises à approbation du préfet du département du siège [*tutelle*], après
-avis du trésorier-payeur général, lorsque les emprunts ne répondent pas aux conditions fixées par arrêté du ministre chargé
-de la construction et de l'habitation, du ministre chargé des finances et du ministre de l'intérieur.
-
-L'approbation [*tacite*] est réputée acquise à l'expiration d'un délai d'un mois à compter de la réception de la
-délibération.
-
-Dans tous les cas, les délibérations portant sur des emprunts à des taux excédant les taux plafonds applicables aux emprunts
-des collectivités locales fixés mensuellement par le ministre chargé des finances doivent être approuvées par le ministre
-chargé de la construction et de l'habitation, le ministre chargé des finances et le ministre de l'intérieur.
-
-Les délibérations prises en application de l'article R. 421-16 (5°) et les délibérations budgétaires sont exécutoires après
-approbation du préfet du département du siège, laquelle doit intervenir dans un délai de deux mois à compter de leur
-transmission à celui-ci ; à défaut de décision expresse dans le délai susindiqué, les délibérations sont réputées approuvées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°87-1036 1987-12-24 art. 4 JORF 27 décembre 1987
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-16 5°
-
-
-###### Article R*421-27
-
-Le commissaire du Gouvernement est le préfet du département du siège.
-
-Pour l'exécution de sa mission [*attributions*], le commissaire du Gouvernement a tous pouvoirs d'investigation sur pièces et
-sur place.
-
-Il assiste, avec voix consultative, aux séances du conseil d'administration. Il peut assister aux séances des autres
-conseils, comités, commissions fonctionnant au sein de l'office public d'aménagement et de construction. Il peut se faire
-représenter par le directeur départemental de l'équipement.
-
-Il reçoit dans les mêmes conditions que les membres du conseil d'administration et des commissions, conseils ou comités
-susmentionnés les convocations, ordres du jour et tous autres documents qui doivent leur être adressés avant chaque séance.
-
-Il reçoit également copie des procès-verbaux desdites séances ainsi que des décisions prises par délégation du conseil
-d'administration.
-
-Il peut demander au conseil d'administration de délibérer sur toute question qu'il juge utile de leur soumettre et, le cas
-échéant, provoquer leur réunion.
-
-Il est tenu régulièrement informé des projets et activités de l'office public d'aménagement et de construction et reçoit
-communication des documents nécessaires à cet effet.
-
-Les délibérations autres que celles prévues à l'article R. 421-25 sont exécutoires à l'expiration d'un délai de dix jours à
-compter de la réunion du conseil d'administration, à moins qu'avant l'expiration de ce délai le commissaire du Gouvernement
-ne demande une nouvelle délibération.
-
-Le commissaire du Gouvernement adresse au ministre chargé de la construction et de l'habitation un rapport annuel sur
-l'exercice de sa mission et sur l'activité de l'office.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-25
-
-
-###### Article R*421-28
-
-Les offices publics d'aménagement et de construction peuvent être soumis au contrôle économique et financier de l'Etat prévu
-par le décret n. 55-733 du 26 mai 1955 modifié, dans les conditions fixées par un arrêté du ministre chargé des finances.
-
-Lorsqu'un contrôleur d'Etat n'a pas été nommé, le projet de budget ainsi que les prises de participation prévues à l'article
-R. 421-5 sont, préalablement à leur examen par le conseil d'administration, soumis à celui du trésorier-payeur général. Ce
-dernier assiste, en outre, avec voix consultative aux séances du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-733 1955-05-26 modifié
-	  - Code de la construction et de l'habitation R421-5
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-29
-
-Si les divers contrôles exercés sur un office public d'aménagement et de construction révèlent qu'il n'est plus en mesure,
-des points de vue technique et financier, d'assumer sa mission de façon satisfaisante, un décret en Conseil d'Etat pris dans
-les conditions prévues à l'article R. 421-1 peut, après que le conseil d'administration a été appelé à présenter ses
-observations, supprimer en tout ou partie, la possibilité pour cet office d'entreprendre à l'avenir les opérations énumérées
-aux articles R. 421-4 et R. 421-5 dans un ou plusieurs départements dans lesquels il a compétence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-4
-
-
-###### Article R*421-30
-
-Le régime financier et comptable applicable aux offices publics d'aménagement et de construction est fixé par décret en
-Conseil d'Etat.
-
-Les fonctions de comptable des offices publics d'aménagement et de construction sont assurées par des comptables directs du
-Trésor ès qualités, nommés par le ministre chargé des finances.
-
-Les offices versent, à titre de participation, une contribution au fonctionnement du service comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
 
 ##### Section 2 : Offices publics d'habitations à loyer modéré
 
