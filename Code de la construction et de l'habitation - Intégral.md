@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-07-17
+Version Consolidée au 1999-09-02
 
 # Partie législative
 
@@ -47456,6 +47456,32 @@ la construction.
 	  - Code de la construction et de l'habitation R111-2
 
 
+###### Article R331-13
+
+Le ministre chargé des finances est autorisé à passer avec la Caisse des dépôts et consignations et le Crédit foncier de
+France ou avec tout établissement ayant acquis la qualité de créancier au titre des prêts et habilité à assurer ou à faire
+assurer par un tiers la gestion et le recouvrement de ces prêts les conventions nécessaires à l'application de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°99-748 du 1 septembre 1999 - art. 2 () JORF 2 septembre 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
+
+
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
 
 ###### Article R331-16
@@ -47965,31 +47991,6 @@ Cet arrêté fixe également les modalités de contrôle des ressources.
 	  - Décret n°94-209 du 11 mars 1994 - art. 1 () JORF 12 mars 1994
 
 
-###### Article R331-13
-
-Le ministre chargé des finances est autorisé à passer avec la Caisse des dépôts et consignations et le Crédit foncier de
-France les conventions nécessaires à l'application de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-23 (Ab)
-
-
 ##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.
 
 ###### Article R331-14
@@ -48496,7 +48497,9 @@ Les prêts prévus par la présente sous-section peuvent être transférés aux 
 ###### Article R331-23
 
 L'aide de l'Etat relative aux prêts, prévus à l'article R. 331-1 et définis par la présente sous-section, est versée au
-Crédit foncier de France. Cette aide prend la forme de subventions.
+Crédit foncier de France ou, dans le cadre d'une convention conformément à l'article R. 331-13, à un établissement ayant
+acquis la qualité de créancier au titre des prêts et habilité à assurer ou à faire assurer par un tiers la gestion et le
+recouvrement de ces prêts. Cette aide prend la forme de subventions.
 
 **Liens relatifs à cet article**
 
@@ -48510,11 +48513,16 @@ Crédit foncier de France. Cette aide prend la forme de subventions.
 
 	**Modifié par**:
 
-	  - Décret n°96-860 du 2 octobre 1996 - art. 6 () JORF 3 octobre 1996
+	  - Décret n°99-748 du 1 septembre 1999 - art. 3 () JORF 2 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2001-207 du 6 mars 2001 - art. 1 () JORF 7 mars 2001
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-13 (M)
 
 	**Cité par**:
 
@@ -48693,6 +48701,23 @@ R. 331-1 est exercé par le ministre chargé de la construction et de l'habitati
 
 
 ##### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.
+
+###### Article R331-31-1
+
+Pour l'application de la présente section, on entend par "établissement prêteur" l'établissement ayant octroyé le prêt ou les
+établissements ayant acquis à la qualité de créancier au titre des prêts et habilités à assurer ou à faire assurer par un
+tiers la gestion et le recouvrement de ces prêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-748 du 1 septembre 1999 - art. 1 () JORF 2 septembre 1999
+
 
 ###### Article R331-32
 
@@ -48909,6 +48934,33 @@ décret n° 71-276 du 7 avril 1971 relatif au régime des caisses d'épargne.
 
 	  - Code de la construction et de l'habitation. - art. R331-38 (M)
 	  - Code de la construction et de l'habitation. - art. R331-44 (V)
+	  - Code de la construction et de l'habitation. - art. R331-56 (V)
+
+
+###### Article R331-38
+
+Pour l'application de la présente section, le ministre chargé des finances est autorisé à passer avec les établissements
+prêteurs les conventions nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°99-748 du 1 septembre 1999 - art. 4 () JORF 2 septembre 1999
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
+	  - Code de la construction et de l'habitation. - art. R331-54-2 (V)
+	  - Code de la construction et de l'habitation. - art. R331-54-3 (V)
 	  - Code de la construction et de l'habitation. - art. R331-56 (V)
 
 
@@ -49685,6 +49737,28 @@ propriété peuvent être réduits, sans augmentation de la durée initiale et e
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
+
+
+###### Article R331-54-3
+
+Dans le but d'améliorer l'efficacité de la gestion et du recouvrement, les conventions conclues sur le fondement des articles
+R. 331-38 et R. 331-39 peuvent prévoir, en plus des dispositions mentionnées ci-dessus, un allongement de la durée du prêt
+initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°99-748 du 1 septembre 1999 - art. 5 () JORF 2 septembre 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-38 (M)
+	  - Code de la construction et de l'habitation. - art. R331-39 (M)
 
 
 ###### Article R331-55
@@ -50565,42 +50639,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-
-##### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.
-
-##### Sous-section 1 : Conditions d'octroi des prêts.
-
-###### Article R331-38
-
-Pour l'application de la présente section, le ministre chargé des finances est autorisé à passer avec les établissements
-prêteurs prévus à l'article R. 331-37 les conventions nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-32 à R331-62
-	  - Code de la construction et de l'habitation. - art. R331-37 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-54-1 bis (V)
-	  - Code de la construction et de l'habitation. - art. R331-54-2 (V)
-	  - Code de la construction et de l'habitation. - art. R331-54-3 (V)
-	  - Code de la construction et de l'habitation. - art. R331-56 (V)
 
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
