@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1989-01-18
+Version Consolidée au 1989-06-24
 
 # Partie législative
 
@@ -1178,43 +1178,26 @@ riverains des chemins de fer.
 	  - Loi du 15 juillet 1845 - art. 3 (Ab)
 
 
-###### Article L112-3
+###### Article L112-4
 
-Conformément à l'article 3 du décret du 26 mars 1852 sur les rues de Paris, à Paris et dans les villes où cette obligation a
-été étendue par décret ou décision administrative, tout constructeur d'immeuble est tenu de [*obligation*] se conformer à
-l'alignement et au nivellement de la voie publique au devant de son terrain.
+Conformément à l'article L.112-5 du code de la voirie routière, il est interdit de faire aucune construction en saillie
+empiétant sur la voie publique sans délivrance d'une permission de voirie, les bâtiments neufs devant, sans cela, en bordure
+de la voie publique être construits droit de la base au sommet et ceux édifiés en infraction de cette disposition pouvant
+être démolis.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°89-413 du 22 juin 1989 - art. 4 (V) JORF 24 juin 1989
 
 	**Cite**:
 
-	  - Décret n°1852-03-26 ART. 3 (rappel)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Loi n°89-413 du 22 juin 1989 - art. 5 (V) JORF 24 juin 1989
-
-
-###### Article L112-4
-
-Conformément aux articles 4 et 5 de l'édit du 16 décembre 1607 et à l'arrêt du conseil du roi du 27 février 1765, il est
-interdit de faire aucune construction en saillie empiétant sur la voie publique sans délivrance d'une permission de voirie,
-les bâtiments neufs devant, sans cela, en bordure de la voie publique être construits droit de la base au sommet et ceux
-édifiés en infraction de cette disposition pouvant être démolis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Code de la voirie routière - art. L112-5 (V)
 
 
 ##### Section 2 : Sondages et travaux souterrains.
