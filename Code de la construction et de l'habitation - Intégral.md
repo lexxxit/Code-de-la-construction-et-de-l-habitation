@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-04-01
+Version Consolidée au 1986-06-01
 
 # Partie législative
 
@@ -55938,28 +55938,6 @@ présent code (deuxième partie).
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
-
-
-##### Section 4 : Commission de contrôle des attributions de logement.
-
-###### Article R441-52
-
-Le président de ladite commission adresse chaque année au préfet un rapport sur les travaux faits par celle-ci ; ce rapport
-est communiqué au comité permanent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-830 1958-09-11 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°86-670 1986-03-19 art. 3 JORF 20 mars 1986
 
 
 #### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation
