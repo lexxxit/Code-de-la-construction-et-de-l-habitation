@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-10-12
+Version Consolidée au 1979-10-23
 
 # Partie législative
 
@@ -19379,6 +19379,38 @@ Les normes mentionnées à l'article L. 131-4 sont fixées après avis du comit�
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
 
+##### Section 4 : Limitation de la température de chauffage.
+
+###### Article R*131-20
+
+Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
+l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
+chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-20, fixées en moyenne à 19° C : 
+
+- pour l'ensemble des pièces d'un logement ; 
+
+- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-907 1979-10-22 ART. 1 JORF 23 OCTOBRE 1979
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-20
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
+
+
 #### Chapitre Ier : Chauffage des immeubles.
 
 ##### Section 1 : Equipement.
@@ -19640,41 +19672,6 @@ totale est inférieure à 250 kilowatts, ils peuvent avoir une régulation commu
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Section 4 : Limitation de la température de chauffage.
-
-###### Article R*131-20
-
-Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
-l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
-chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-21, fixées en moyenne à 20° C :
-
-- pour l'ensemble des pièces d'un logement ;
-
-- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
-
-De plus, la température de chauffage d'aucune pièce d'un logement ni d'aucun local affecté à un usage autre que l'habitation
-ne peut dépasser 22° C.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-1025 1974-12-03 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R131-22, R131-23, R131-21
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
 
 
 #### Chapitre II : Ravalement des immeubles.
