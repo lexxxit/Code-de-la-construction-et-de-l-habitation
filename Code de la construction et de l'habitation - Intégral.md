@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-07-01
+Version Consolidée au 1996-07-04
 
 # Partie législative
 
@@ -38682,7 +38682,7 @@ de l'habitation ;
 
 - le directeur de la caisse nationale d'épargne ou son suppléant ;
 
-- deux représentants des organismes agréés mentionnés à l'article L. 315-19 désignés par le conseil national du crédit ;
+- deux représentants des organismes agréés mentionnés à l'article L. 315-19 désignés par le Conseil national du crédit ;
 
 - le directeur du budget ou son suppléant ;
 
@@ -38700,13 +38700,13 @@ Un administrateur civil du ministère chargé des finances remplit les fonctions
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-880 du 22 septembre 1953 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
 
 	**Cite**:
 
