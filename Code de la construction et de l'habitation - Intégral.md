@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-08-15
+Version Consolidée au 1982-10-17
 
 # Partie législative
 
@@ -54118,25 +54118,24 @@ Cette caisse a pour objet d'assurer le financement des opérations prévues à l
 financement des opérations prévues aux alinéas 2 et 3 du même article. A cet effet, elle consent des prêts aux organismes
 d'habitations à loyer modéré.
 
-Elle assure en outre le financement des opérations prévues à l'article L. 351-2 (1. et 3.). A cet effet, elle consent des
+Elle assure en outre le financement des opérations prévues à l'article L. 351-2 (1° et 3°). A cet effet, elle consent des
 prêts aux organismes d'habitations à loyer modéré, aux sociétés d'économie mixte pour la réalisation des opérations prévues à
-l'article L. 351-2 (3.) et aux collectivités locales et à leurs groupements pour l'acquisition de terrains destinés
-ultérieurement à la construction de logements à usage locatif ou d'immeubles destinés à être ultérieurement améliorés.
+l'article L. 351-2 (3°) et aux collectivités locales et à leurs groupements pour l'acquisition de terrains destinés
+ultérieurement à la construction de logements à usage locatif ou d'immeubles destinés à être ultérieurement améliorés ainsi
+qu'aux sociétés d'économie mixte de construction d'outre-mer ayant fait l'objet de l'agrément prévu à l'article L. 472-1-1 du
+présent code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-156 1966-03-19 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L472-1-1 (M)
 
 
 ###### Article R*431-32
