@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-09-15
+Version Consolidée au 2000-09-21
 
 # Partie législative
 
@@ -3939,36 +3939,30 @@ des sections précédentes du présent chapitre.
 
 Les sociétés coopératives de construction ayant pour objet la construction d'un ou plusieurs immeubles en vue de leur
 division par lots ou d'un ensemble de maisons individuelles groupées à usage d'habitation ou à usage professionnel et
-d'habitation destinés à être attribués ou vendus aux associés sont des sociétés à capital et à personnel variables.
+d'habitation destinés à être attribués ou vendus aux associés sont des sociétés à capital et à personnel variables. 
 
 L'objet de ces sociétés comprend, en outre, la gestion et l'entretien des immeubles jusqu'à la mise en place d'une
-organisation différente.
+organisation différente. 
 
-Elles sont régies par les dispositions non contraires du titre III de la loi du 24 juillet 1867 et de la loi n. 47-1775 du 10
-septembre 1947 portant statut de la coopération, ainsi que par les dispositions des articles L. 212-2 et L. 212-6 (alinéas 1,
-2 et 4).
-
-**Nota:**
-
-(1) : Loi totalement abrogée par l'ordonnance n° 2000-912 du 18 septembre 2000 à l'exception de son article 80.
+Elles sont régies par les dispositions non contraires du chapitre Ier du titre III du livre II de la partie législative du
+code de commerce et de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, ainsi que par les
+dispositions des articles L. 212-2 et L. 212-6 (alinéas 1,2 et 4).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°47-1775 1947-09-10
+	  - Loi n°47-1775 du 10 septembre 1947 (V)
 	  - Code de la construction et de l'habitation. - art. L212-2 (V)
 	  - Code de la construction et de l'habitation. - art. L212-6 (V)
-	  - Loi n°1867-07-24
 
 	**Anciens textes**:
 
-	  - Loi n°71-579 1971-07-16 art. 18
 	  - Loi n°71-579 du 16 juillet 1971 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V)
 
 	**Cité par**:
 
@@ -20106,10 +20100,10 @@ Les organismes mentionnés au chapitre II du titre III, sont soumis au même con
 lesquelles ils ont obtenu un prêt de l'Etat, de la caisse de prêts aux organismes d'habitations à loyer modéré ou de la
 caisse des dépôts et consignations en application du 3° de l'article L. 351-2.
 
-Il en est de même pour les groupements d'intérêt économique constitués en application de l'ordonnance n. 67-821 du 23
-septembre 1967, qui comprennent au moins un organisme d'habitations à loyer modéré parmi leurs membres et pour les personnes
-privées mandataires d'organismes d'habitations à loyer modéré dans le cadre du contrat de promotion immobilière prévu au
-livre II, titre II, du présent code relatif à la promotion immobilière.
+Il en est de même pour les groupements d'intérêt économique constitués en application des articles L. 251-1 et suivants du
+code de commerce, qui comprennent au moins un organisme d'habitations à loyer modéré parmi leurs membres et pour les
+personnes privées mandataires d'organismes d'habitations à loyer modéré dans le cadre du contrat de promotion immobilière
+prévu au livre II, titre II, du présent code relatif à la promotion immobilière.
 
 A l'occasion de l'inspection d'une société anonyme de crédit immobilier, et pour les besoins de cette inspection,
 l'administration peut étendre ses investigations aux filiales de la société visées à l'article L. 422-4-2 et se faire
@@ -20122,14 +20116,6 @@ communiquer toutes les pièces relatives auxdites filiales nécessaires à sa mi
 	  - Ordonnance 67-821 1967-09-23
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L422-4-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°91-457 du 15 mai 1991 - art. 6 () JORF 17 mai 1991
 
 	**Cité par**:
 
@@ -20160,9 +20146,9 @@ communiquer toutes les pièces relatives auxdites filiales nécessaires à sa mi
 	  - Code de la construction et de l'habitation. - art. R451-4 (VT)
 	  - Livre des procédures fiscales - art. L83 C (VT)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 233 AL. 1, 2 ET 3 (LOI 71-580 1971-07-16 art. 23)
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 4 (V)
 
 
 ###### Article L451-2
