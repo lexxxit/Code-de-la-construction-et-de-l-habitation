@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-07-01
+Version Consolidée au 2003-07-03
 
 # Partie législative
 
@@ -1126,13 +1126,10 @@ d'agrément tient compte de la compétence technique et de la moralité professi
 ###### Article L111-26
 
 Le contrôle technique peut, par décret en Conseil d'Etat, être rendu obligatoire pour certaines constructions qui, en raison
-de leur nature ou de leur importance, présentent des risques particuliers pour la sécurité des personnes.
+de leur nature, de leur importance ou de leur localisation dans des zones d'exposition à des risques naturels ou
+technologiques, présentent des risques particuliers pour la sécurité des personnes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-12 du 4 janvier 1978 - art. 11 (V)
 
 	**Codifié par**:
 
@@ -1140,7 +1137,7 @@ de leur nature ou de leur importance, présentent des risques particuliers pour 
 
 	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 78 () JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -1881,10 +1878,10 @@ ne peuvent être faites à proximité des forêts sans une autorisation préfect
 
 ###### Article L112-16
 
-Les dommages causés aux occupants d'un bâtiment par des nuisances dues à des activités agricoles, industrielles, artisanales
-ou commerciales, n'entraînent pas droit à réparation lorsque le permis de construire afférent au bâtiment exposé à ces
-nuisances a été demandé ou l'acte authentique constatant l'aliénation ou la prise de bail établi postérieurement à
-l'existence des activités les occasionnant dès lors que ces activités s'exercent en conformité avec les dispositions
+Les dommages causés aux occupants d'un bâtiment par des nuisances dues à des activités agricoles, industrielles, artisanales,
+commerciales ou aéronautiques, n'entraînent pas droit à réparation lorsque le permis de construire afférent au bâtiment
+exposé à ces nuisances a été demandé ou l'acte authentique constatant l'aliénation ou la prise de bail établi postérieurement
+à l'existence des activités les occasionnant dès lors que ces activités s'exercent en conformité avec les dispositions
 législatives ou réglementaires en vigueur et qu'elles se sont poursuivies dans les mêmes conditions.
 
 **Liens relatifs à cet article**
@@ -1893,9 +1890,9 @@ législatives ou réglementaires en vigueur et qu'elles se sont poursuivies dans
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-502 du 4 juillet 1980 - art. 75 (V) JORF 5 juillet 1980
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 72 () JORF 3 juillet 2003
 
 
 ##### Section 9 : Protection contre les insectes xylophages.
@@ -2166,8 +2163,14 @@ Un décret en Conseil d'Etat détermine les règles à adopter dans cet esprit p
 
 ###### Article L125-1
 
-L'installation d'ascenseurs dépourvus de portes de cabine est interdite. Les infractions à cette disposition sont constatées,
-poursuivies et sanctionnées selon les règles fixées par les articles L. 152-1 à L. 152-10.
+Les dispositions de la présente section s'appliquent aux ascenseurs qui sont destinés à desservir de manière permanente les
+bâtiments et les constructions.
+
+Ne sont pas concernés par les dispositions de la présente section les installations à câbles, y compris les funiculaires pour
+le transport public ou non des personnes, les ascenseurs spécialement conçus et construits à des fins militaires ou de
+maintien de l'ordre, les ascenseurs équipant les puits de mine, les élévateurs de machinerie de théâtre, les ascenseurs
+installés dans des moyens de transport, les ascenseurs liés à une machine et exclusivement destinés à l'accès au poste de
+travail de celle-ci et les ascenseurs de chantier.
 
 **Liens relatifs à cet article**
 
@@ -2175,13 +2178,9 @@ poursuivies et sanctionnées selon les règles fixées par les articles L. 152-1
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-421 du 23 juin 1989 - art. 8 () JORF 29 juin 1989
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L152-1 à L152-10
+	  - Loi n°2003-590 2003-07-02 art. 79 1° JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -2228,6 +2227,136 @@ sécurité, soit de l'accessibilité, ou accorder un délai supplémentaire pour
 	  - Décret n°92-535 du 16 juin 1992 - art. 1 (V)
 	  - Décret n°92-535 du 16 juin 1992 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. L161-2 (M)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+
+
+###### Article L125-2-1
+
+Les ascenseurs doivent être équipés de dispositifs de sécurité dans les conditions prévues à l'article L. 125-2-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 79 2° JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L125-2-4 (V)
+
+
+###### Article L125-2-2
+
+Les ascenseurs font l'objet d'un entretien propre à les maintenir en état de bon fonctionnement et à assurer la sécurité des
+personnes.
+
+Cette obligation incombe au propriétaire de l'ascenseur. Celui-ci confie ou délègue l'entretien de l'ascenseur à un
+prestataire de services dans le cadre d'un contrat écrit. Toutefois, s'il dispose des capacités techniques nécessaires, il
+peut y pourvoir par ses propres moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 23 (V)
+	  - Code de la construction et de l'habitation. - art. L442-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 79 2° JORF 3 juillet 2003
+
+
+###### Article L125-2-3
+
+Les ascenseurs sont soumis à un contrôle technique périodique portant sur leur état de fonctionnement et sur la sécurité des
+personnes.
+
+Le contrôle technique est confié à une personne qualifiée ou compétente dans ce domaine qui n'exerce aucune activité de
+fabrication, d'installation ou d'entretien des ascenseurs et ne détient aucune participation dans le capital d'une entreprise
+exerçant une de ces activités. Lorsqu'il s'agit d'une personne morale, son capital ne doit pas être détenu, même à titre
+partiel, par une telle entreprise.
+
+Toute personne disposant d'un titre d'occupation dans l'immeuble peut obtenir, à ses frais, du propriétaire de l'ascenseur,
+communication du rapport du contrôle technique ou de ses conclusions.
+
+Le rapport du contrôle technique est un document auquel s'appliquent, dans les établissements mentionnés à l'article L. 231-1
+du code du travail, les dispositions de l'article L. 620-6 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 79 2° JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 2 (VT)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R152-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L620-6 (M)
+
+
+###### Article L125-2-4
+
+Les conditions d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+Le décret définit les exigences de sécurité à respecter, y compris par les entreprises chargées de l'entretien. Il établit la
+liste des dispositifs de sécurité à installer ou les mesures équivalentes, en fonction notamment des risques liés à
+l'installation de l'ascenseur, à son mode d'utilisation et à son environnement. Il détermine les délais impartis aux
+propriétaires et aux entreprises concernées pour répondre aux exigences de sécurité et ceux impartis aux propriétaires pour
+installer ces dispositifs. Les délais mentionnés au présent alinéa ne peuvent excéder quinze ans à compter de la publication
+de la loi n° 2003-590 du 2 juillet 2003. Le décret fixe également les conditions dans lesquelles il peut être dérogé à
+l'obligation d'installer des dispositifs de sécurité, afin de tenir compte de contraintes techniques exceptionnelles, de
+l'accessibilité des personnes handicapées ou à mobilité réduite ou de nécessités liées à la conservation du patrimoine
+historique.
+
+Le décret détermine les dispositions minimales à prendre pour assurer l'entretien de l'ascenseur ainsi que les modalités de
+leur exécution et de justification de leur mise en oeuvre. Il précise la nature et le contenu des clauses devant
+obligatoirement figurer dans les contrats d'entretien, ainsi que les obligations des parties au début et au terme du contrat.
+Il fixe également les conditions dans lesquelles le propriétaire de l'ascenseur peut pourvoir par ses propres moyens à
+l'obligation d'entretien.
+
+Le décret détermine le contenu du contrôle technique, notamment la liste des dispositifs et exigences de sécurité sur
+lesquels il porte, sa périodicité et les modalités d'information auxquelles il donne lieu. Le décret fixe les critères de
+qualification ou de compétence auxquels la personne en charge du contrôle technique doit satisfaire.
+
+Un bilan d'application de ces dispositions est réalisé tous les cinq ans. Ce bilan donne lieu à une évaluation dont il est
+rendu compte au Parlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2003-590 2003-07-02
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 79 2° JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L125-2-1 (V)
 	  - Code de la construction et de l'habitation. - art. L161-3 (V)
 
 
@@ -2739,6 +2868,28 @@ remplacée par la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisatio
 	  - Code de la construction et de l'habitation. - art. L161-1 (M)
 
 
+###### Article L131-7
+
+Un décret détermine les exigences à respecter et les dispositifs à installer ou les mesures à mettre en oeuvre pour prévenir
+les intoxications par le monoxyde de carbone dans les locaux existants et les constructions nouvelles, les catégories de
+locaux et de constructions soumises aux dispositions du présent article et les délais impartis aux propriétaires et aux
+occupants des locaux existants pour installer ces dispositifs et mettre en oeuvre ces mesures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 81 () JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2008-1231 du 27 novembre 2008 (V)
+
+
 #### Chapitre II : Ravalement des immeubles.
 
 ###### Article L132-1
@@ -3031,11 +3182,11 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 
 ###### Article L152-1
 
-Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-1, L. 125-3 et L.
-131-4, sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de
-l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de
-l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à
-preuve du contraire.
+Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, sont
+constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des
+collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de l'habitation
+suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à preuve du
+contraire.
 
 **Liens relatifs à cet article**
 
@@ -3045,13 +3196,12 @@ preuve du contraire.
 
 	**Modifié par**:
 
-	  - Loi n°99-471 du 8 juin 1999 - art. 7 () JORF 9 juin 1999
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
 
 	**Cité par**:
 
 	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. L111-10-1 (V)
-	  - Code de la construction et de l'habitation. - art. L125-3 (V)
 	  - Code de la construction et de l'habitation. - art. L131-6 (VT)
 	  - Code de la construction et de l'habitation. - art. L152-2 (V)
 	  - Code de la construction et de l'habitation. - art. R152-3 (V)
@@ -3064,7 +3214,7 @@ preuve du contraire.
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 	  - Code de la construction et de l'habitation. - art. L112-17 (V)
-	  - Code de la construction et de l'habitation. - art. L125-1 (M)
+	  - Code de la construction et de l'habitation. - art. L125-3 (V)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
 
@@ -3155,12 +3305,12 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 ###### Article L152-4
 
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4, L.
-111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par
-les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 45 000 euros. En cas de
-récidive, la peine d'amende sera à 75 000 euros et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal
-peut en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la
-diffusion d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou
-plusieurs journaux qu'il désigne.
+111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par les
+autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 45 000 euros. En cas de récidive, la
+peine d'amende sera à 75 000 euros et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
+ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la diffusion
+d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs
+journaux qu'il désigne.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -3176,19 +3326,19 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 2 250 euros.
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 3 750 euros.
 
-En outre, un emprisonnement d'un mois pourra être prononcé.
+En outre, un emprisonnement de un mois pourra être prononcé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -3207,19 +3357,18 @@ En outre, un emprisonnement d'un mois pourra être prononcé.
 	  - Code pénal - art. 433-7 (M)
 	  - Code pénal - art. 433-8 (M)
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L112-17, L125-1, L125-3, L131-4, L460-1
+	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L112-17, L125-3, L131-4, L460-1
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 	  - Code de la construction et de l'habitation. - art. L112-17 (V)
-	  - Code de la construction et de l'habitation. - art. L125-1 (M)
 	  - Code de la construction et de l'habitation. - art. L125-3 (V)
 	  - Code de la construction et de l'habitation. - art. L131-4 (M)
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 103 AL. 1 et 2 (LOI 66-456 1966-07-02 ART. 4)
+	  - Code de l'urbanisme 103 al. 1, al. 2
 
 	**Liens**:
 
@@ -3485,7 +3634,7 @@ départements d'outre-mer du titre Ier, chapitre Ier, sections IV et V, et du ti
 
 Les dispositions du présent livre ne s'appliquent pas à la collectivité territoriale de Saint-Pierre-et-Miquelon à
 l'exception des articles L. 111-5, L. 111-6, L. 111-7 à L. 111-8-3, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L.
-124-1, L. 125-1, L. 125-2, L. 131-1 à L. 131-6 sous réserve des adaptations suivantes :
+124-1, L. 125-1 à L. 125-2-4, L. 131-1 à L. 131-6 sous réserve des adaptations suivantes :
 
 - aux articles L. 111-8 et L. 111-8-2, les références au code de l'urbanisme sont supprimées et les mots : "permis de
 construire" sont remplacés par les mots : "autorisation de construire" ;
@@ -3502,19 +3651,17 @@ construire" sont remplacés par les mots : "autorisation de construire" ;
 
 	**Modifié par**:
 
-	  - Loi n°99-1038 du 9 décembre 1999 - art. 3 () JORF 12 décembre 1999
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1, L125-2, L131-1 à L131-6, L111-8, L111-8-2
+	  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1 à  L125-2-4, L131-1 à L131-6, L111-8, L111-8-2
 	  - Code de la construction et de l'habitation. - art. L111-5 (M)
 	  - Code de la construction et de l'habitation. - art. L111-6 (M)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8-2 (M)
 	  - Code de la construction et de l'habitation. - art. L112-15 (V)
 	  - Code de la construction et de l'habitation. - art. L124-1 (V)
-	  - Code de la construction et de l'habitation. - art. L125-1 (M)
-	  - Code de la construction et de l'habitation. - art. L125-2 (MMN)
 
 
 ## Livre II : Statut des constructeurs.
@@ -10570,14 +10717,6 @@ nécessaires à l'accomplissement des missions définies aux alinéas précéden
 professionnel dans les conditions et sous les peines prévues à l'article 226-13 et 226-14 du code pénal. Ce secret ne peut
 leur être opposé, sauf par les auxiliaires de justice.
 
-A la demande du ministre chargé du logement, l'Agence nationale pour la participation des employeurs à l'effort de
-construction peut contrôler les opérations réalisées à l'aide de fonds provenant de la participation des employeurs à
-l'effort de construction par les organismes qui n'ont pas le statut d'organisme agréé pour collecter cette participation. A
-ce titre, elle a accès à tous les livres, pièces, documents et justifications nécessaires à l'exercice de son contrôle.
-
-Les dispositions de l'alinéa précédent ne s'appliquent pas aux organismes d'habitations à loyer modéré et aux sociétés
-d'économie mixte exerçant à titre principal une activité de construction, d'acquisition ou de gestion de logements sociaux.
-
 L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des sommes investies au titre de la participation
 des employeurs à l'effort de construction.
 
@@ -10614,9 +10753,7 @@ des employeurs à l'effort de construction.
 
 	**Modifié par**:
 
-	  - Loi n°96-1237 1996-12-30 art. 4, art. 6 II, VII JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Loi n°2003-590 2003-07-02 art. 82 1° JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -10968,13 +11105,10 @@ Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'app
 
 ###### Article L313-16-1
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 1 000 000 F le fait pour un dirigeant d'un organisme collecteur
-de la participation des employeurs à l'effort de construction de faire, de mauvaise foi, à des fins personnelles directes ou
-indirectes et dans l'exercice de ses fonctions :
-
-- des biens ou du crédit de l'organisme un usage contraire à l'objet de celui-ci ;
-
-- des pouvoirs qu'il possédait ou des voix dont il disposait un usage contraire à l'objet de l'organisme.
+Les organismes qui construisent, acquièrent ou améliorent des logements-foyers destinés aux personnes et familles mentionnées
+au II de l'article L. 301-1 doivent, pour bénéficier de fonds provenant de la participation des employeurs à l'effort de
+construction, être agréés par l'autorité administrative. Pour la délivrance de l'agrément, il est tenu compte notamment des
+conditions financières et de gestion dans lesquelles l'organisme exerce son activité.
 
 **Liens relatifs à cet article**
 
@@ -10984,11 +11118,112 @@ indirectes et dans l'exercice de ses fonctions :
 
 	**Créé par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 71 () JORF 30 janvier 1993
+	  - Loi n°2003-590 2003-07-02 art. 82 2° JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-1
 
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. L313-32 (M)
+
+
+###### Article L313-16-2
+
+Sous l'autorité des ministres intéressés, l'Agence nationale pour la participation des employeurs à l'effort de construction
+peut contrôler les opérations réalisées à l'aide de fonds provenant de la participation des employeurs à l'effort de
+construction par les organismes qui n'ont pas le statut d'organismes agréés pour collecter cette participation. Pour les
+besoins exclusifs de ce contrôle, l'agence nationale peut obtenir de l'organisme, au cas où il exerce d'autres activités que
+celle au titre de laquelle il a bénéficié des fonds de la participation des employeurs à l'effort de construction, la
+communication de tout document se rapportant à ces activités.
+
+Lorsque le contrôle de l'agence nationale s'est conclu par un rapport, celui-ci est communiqué à l'organisme en cause, qui
+dispose d'un mois pour présenter ses observations. En cas d'irrégularité ou de faute de gestion commise par un des organismes
+mentionnés au premier alinéa ou de carence des organes dirigeants, l'autorité administrative met l'organisme en demeure de
+prendre, dans un délai déterminé, toute mesure de redressement utile. Lorsque la mise en demeure est restée vaine, l'autorité
+administrative peut décider une ou plusieurs des sanctions suivantes :
+
+1° Suspendre l'agrément pour une période au plus d'un an ou en prononcer le retrait ;
+
+2° Interdire à un ou plusieurs membres ou anciens membres des organes dirigeants de participer aux organes des organismes
+ayant un objet semblable ainsi qu'aux organes délibérants et de direction d'organismes d'habitations à loyer modéré visés à
+l'article L. 411-2 et des sociétés d'économie mixte visées à l'article L. 481-1-1 ;
+
+3° Nommer un administrateur provisoire pour une durée au plus d'un an renouvelable une fois. Pendant la durée de
+l'administration provisoire, l'assemblée générale ne peut désigner de nouveaux organes dirigeants ;
+
+4° Infliger à l'organisme une sanction pécuniaire n'excédant pas un dixième du montant des loyers perçus au cours du dernier
+exercice clos. Cette sanction est recouvrée comme les créances étrangères à l'impôt et au domaine.
+
+Ces sanctions sont prononcées après que l'organisme, le dirigeant ou le membre en cause a été mis en mesure de présenter ses
+observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 82 2° JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-2
+	  - Code de la construction et de l'habitation. - art. L481-1-1
+
+
+###### Article L313-16-3
+
+Le fait de faire obstacle au contrôle de l'Agence nationale pour la participation des employeurs à l'effort de construction
+rend passible, après mise en demeure restée vaine, l'organisme contrôlé d'une amende de 15 000 Euros maximum. La pénalité est
+prononcée par l'autorité administrative et recouvrée au profit de l'Etat comme les créances étrangères à l'impôt et au
+domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 82 2° JORF 3 juillet 2003
+
+
+###### Article L313-16-4
+
+Les dispositions des articles L. 313-16-1 à L. 313-16-3 ne s'appliquent pas aux organismes d'habitations à loyer modéré et
+aux sociétés d'économie mixte exerçant à titre principal une activité de construction, d'acquisition ou de gestion de
+logements sociaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 82 2° JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
 
 
 ##### Section 3 : Union d'économie sociale du logement.
@@ -11146,10 +11381,15 @@ fonds de garantie de l'accession sociale à la propriété mentionné au troisi�
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne
 peuvent déroger aux conventions ci-dessus mentionnées ;
 
-4° Donne, dans les conditions prévues par ses statuts, un avis préalablement aux opérations par lesquelles les associés
-collecteurs convertissent ou transforment en titres ou subventions des créances constituées avec les fonds issus de la
-participation des employeurs à l'effort de construction ou par lesquelles ils cèdent ou prennent des participations financées
-avec les mêmes fonds. L'union peut demander une seconde délibération aux associés collecteurs ;
+4° Donne, en considération des intérêts communs que l'union représente et des objectifs définis dans les conventions
+mentionnées au 2°, un avis conforme préalablement aux opérations par lesquelles les associés collecteurs :
+
+- constituent, cèdent ou transforment, avec les fonds issus de la participation des employeurs à l'effort de construction,
+des créances, dans des conditions qui dérogent aux recommandations mentionnées au 3° ;
+
+- convertissent ou transforment en titres ou subventions des créances constituées avec les fonds de même provenance ;
+
+- prennent ou cèdent des participations financées avec les fonds de même provenance ;.
 
 5° Assure, dans les limites fixées par ses statuts, la gestion d'autres intérêts communs de ses associés et contribue au
 développement de leurs activités. Ces opérations sont retracées dans une comptabilité distincte.
@@ -11232,12 +11472,7 @@ Les statuts de l'union sont approuvés par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°98-1164 du 18 décembre 1998 - art. 2 () JORF 22 décembre 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-1164 du 18 décembre 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°99-126 du 22 février 1999 - art. 1 (V)
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 83 () JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -15502,6 +15737,11 @@ Ces dispositions ne sont pas applicables :
 - aux logements vendus par les organismes d'habitations à loyer modéré en application des premier, troisième et cinquième
 alinéas de l'article L. 443-11 ;
 
+- aux logements cédés ou apportés aux sociétés civiles immobilières régies par l'article L. 443-7-1 et devenus propriété de
+l'associé personne physique ;
+
+- aux logements dont l'usufruit a été détenu temporairement par les organismes d'habitations à loyer modéré ;
+
 - aux logements construits par les organismes d'habitations à loyer modéré dans le cadre d'un bail à construction ou d'un
 bail emphytéotique et devenus propriété du bailleur à l'expiration du bail ;
 
@@ -15526,14 +15766,14 @@ dispositions du présent article et ordonne, le cas échéant, la réaffectation
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 166 () JORF 18 janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-995 du 9 juillet 2002
 	  - TXT_SOURCE: Décret n°2002-995 du 9 juillet 2002 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 84 () JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -15545,6 +15785,7 @@ dispositions du présent article et ordonne, le cas échéant, la réaffectation
 	  - Code de la construction et de l'habitation. - art. L442-6 (M)
 	  - Code de la construction et de l'habitation. - art. L442-6-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-11 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 	**Cité par**:
@@ -15563,11 +15804,18 @@ aide de l'Etat à compter du 5 janvier 1977 et faisant l'objet d'une convention 
 après l'expiration de la convention, même lorsqu'ils font l'objet d'un transfert de propriété, et y compris en cas de cession
 non volontaire, à des règles d'attribution sous condition de ressources et des maxima de loyer fixés par l'autorité
 administrative dans des conditions fixées par décret en Conseil d'Etat. Les articles L. 353-15-1, L. 353-19 et L. 442-6-1
-sont applicables aux locataires de ces logements. Les dispositions du présent article ne s'appliquent pas lorsque les
-logements ont été construits dans le cadre d'un bail à construction ou d'un bail emphytéotique après l'expiration de ce bail,
-lorsque celui-ci prévoit que le propriétaire d'un terrain devient propriétaire des constructions. Les dispositions du présent
-article ne s'appliquent pas aux logements vendus par les sociétés d'économie mixte en application des premier, troisième et
-cinquième alinéas de l'article L. 443-11.
+sont applicables aux locataires de ces logements.
+
+Tout acte transférant la propriété ou la jouissance de ces logements ou constatant un tel transfert reproduit, à peine de
+nullité de plein droit, les dispositions du premier alinéa. L'action en nullité peut être intentée par tout intéressé ou par
+l'autorité administrative dans un délai de cinq ans à compter de la publication de l'acte au fichier immobilier.
+
+Les dispositions du présent article ne s'appliquent pas lorsque les logements ont été construits dans le cadre d'un bail à
+construction ou d'un bail emphytéotique après l'expiration de ce bail, lorsque celui-ci prévoit que le propriétaire d'un
+terrain devient propriétaire des constructions. Les dispositions du présent article ne s'appliquent pas aux logements vendus
+par les sociétés d'économie mixte en application des premier, troisième et cinquième alinéas de l'article L. 443-11, aux
+logements cédés ou apportés aux sociétés civiles immobilières régies par l'article L. 443-7-1 et devenus propriété de
+l'associé personne physique et aux logements dont l'usufruit a été détenu temporairement.
 
 **Liens relatifs à cet article**
 
@@ -15575,14 +15823,14 @@ cinquième alinéas de l'article L. 443-11.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 145 2° JORF 14 décembre 2000
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-995 du 9 juillet 2002
 	  - TXT_SOURCE: Décret n°2002-995 du 9 juillet 2002 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 85 () JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -15591,6 +15839,7 @@ cinquième alinéas de l'article L. 443-11.
 	  - Code de la construction et de l'habitation. - art. L353-19 (M)
 	  - Code de la construction et de l'habitation. - art. L442-6-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-11 (M)
+	  - Code de la construction et de l'habitation. - art. L443-7-1 (Ab)
 
 	**Cité par**:
 
@@ -15745,8 +15994,10 @@ cessions d'immeubles rendues nécessaires par ces réalisations ;
 faisant l'objet de ces opérations ;
 
 - de gérer les immeubles à usage principal d'habitation appartenant à des organismes relevant des deux premiers secteurs
-locatifs définis par l'article 37 de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif, ainsi que les
-immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la propriété ;
+locatifs définis par l'article 37 de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif ou à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association, ainsi que les immeubles
+réalisés par l'ensemble de ces organismes en vue de l'accession à la propriété ;
 
 - de réaliser, en qualité de prestataire de services, des opérations portant sur tout immeuble à usage principal
 d'habitation ;
@@ -15797,6 +16048,15 @@ organismes pour le compte desquels ils sont réalisés.
 Ils peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les
 conditions fixées par les articles L. 444-1 et suivants.
 
+Ils peuvent également réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22, à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles immobilières
+dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à
+la location.
+
+Ils peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de la
+loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association, dans des conditions fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15840,14 +16100,16 @@ conditions fixées par les articles L. 444-1 et suivants.
 	**Cite**:
 
 	  - Loi n°82-526 1982-06-22 art. 37
+	  - Code de la construction et de l'habitation L261-1 à L261-22, L351-2, L411-1, L443-14, L444-1, L615-1
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 146
+	  - Loi n°2003-590 2003-07-02 art. 87 1°, 88 1° JORF 3 juillet 2003
 
 	**Anciens textes**:
 
@@ -16153,7 +16415,12 @@ L'activité des fondations d'habitations à loyer modéré est définie par le d
 ###### Article L422-2
 
 Les sociétés anonymes d'habitations à loyer modéré ont pour objet de réaliser, dans les conditions fixées par leurs statuts,
-principalement en vue de la location, les opérations prévues à l'article L. 411-1.
+principalement en vue de la location, les opérations prévues à l'article L. 411-1. Elles peuvent également gérer les
+immeubles appartenant à d'autres organismes d'habitations à loyer modéré et les immeubles à usage principal d'habitation
+appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales, à une société
+d'économie mixte de construction et de gestion de logements sociaux, à des organismes à but non lucratif, à l'association
+agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles
+immobilières dont les parts sont détenues à au moins 99 % par cette association.
 
 Elles ont également pour objet :
 
@@ -16205,10 +16472,19 @@ sauvegarde en application de l'article L. 615-1, elles peuvent, selon les modali
 qui peuvent déroger aux règles applicables aux habitations à loyer modéré, acquérir des lots en vue de leur revente, y
 effectuer tous travaux et les louer provisoirement ;
 
-- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
+- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1.
 
 Elles peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les
 conditions fixées par les articles L. 444-1 et suivants.
+
+Elles peuvent également réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22, à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles immobilières
+dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à
+la location.
+
+Elles peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de
+la loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16253,6 +16529,8 @@ conditions fixées par les articles L. 444-1 et suivants.
 
 	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de la construction et de l'habitation L411-1, L443-14, L615-1, L421-1, L444-1, L261-1 à L261-22
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 	  - Code de la construction et de l'habitation. - art. L443-14 (M)
@@ -16261,8 +16539,7 @@ conditions fixées par les articles L. 444-1 et suivants.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 82 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 149
+	  - Loi n°2003-590 2003-07-02 art. 87 2°, 88 2° JORF 3 juillet 2003
 
 	**Anciens textes**:
 
@@ -16272,12 +16549,13 @@ conditions fixées par les articles L. 444-1 et suivants.
 ###### Article L422-2-1
 
 Les conseils d'administration ou les conseils de surveillance des sociétés anonymes d'habitations à loyer modéré comprennent
-des représentants des locataires. A cet effet, le nombre des membres du conseil d'administration ou du conseil de
-surveillance peut être porté à quatorze par dérogation à la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+des représentants de leurs locataires. A cet effet et par dérogation aux articles L. 225-17 et L. 225-69 du code de commerce,
+le nombre des membres du conseil d'administration ou du conseil de surveillance peut excéder de deux le nombre
+d'administrateurs ou de membres du conseil de surveillance fixé par ces articles.
 
 Les représentants des locataires au conseil d'administration ou au conseil de surveillance ont les mêmes droits et
 obligations que les autres membres du conseil et sont soumis à toutes les dispositions applicables à ces derniers, à
-l'exception de celles prévues aux articles 95 à 97 et 130 à 132 de la loi n° 66-537 du 24 juillet 1966 précitée.
+l'exception de celles prévues aux articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 du code de commerce.
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
 
@@ -16291,20 +16569,25 @@ ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pou
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 95 à 97, art. 130 à 132
-	  - Loi n°91-662 1991-07-13
-	  - Code de la construction et de l'habitation. - art. L411 (V)
-	  - Code de la construction et de l'habitation. - art. L441 (M)
-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Loi n°91-662 1991-07-13
+	  - Code de commerce. - art. L225-17 (M)
+	  - Code de commerce. - art. L225-25 (M)
+	  - Code de commerce. - art. L225-26 (M)
+	  - Code de commerce. - art. L225-69 (M)
+	  - Code de commerce. - art. L225-72 (M)
+	  - Code de commerce. - art. L225-73 (V)
+	  - Code de la construction et de l'habitation. - art. L411 (V)
+	  - Code de la construction et de l'habitation. - art. L441 (M)
+
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 61 () JORF 31 juillet 1998
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -16381,20 +16664,40 @@ Elles peuvent également, dans les conditions fixées par leurs statuts, constru
 améliorer et gérer des immeubles en vue de la location et destinés à un usage d'habitation ou à un usage professionnel et
 d'habitation.
 
+Elles peuvent également réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22, à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles immobilières
+dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à
+la location.
+
+Elles peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de
+la loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association, dans des conditions fixées par décret en Conseil d'Etat.
+
+Elles peuvent gérer les immeubles à usage principal d'habitation appartenant à l'association agréée mentionnée à l'article
+116 de la loi de finances pour 2002 précitée ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99
+% par cette association.
+
 Un décret détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de la construction et de l'habitation L421-1, L443-14, L451-5, L615-1, L261-1 à L261-22
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 152 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 82 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 149
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+	  - Loi n°2003-590 2003-07-02 art. 87 3°, 88 3° JORF 3 juillet 2003
+	  - Loi n°2003-710 2003-08-01 art. 53 2° JORF 2 août 2003
 
 	**Cité par**:
 
@@ -16421,11 +16724,9 @@ Un décret détermine les modalités d'application du présent article.
 	  - Code de la construction et de l'habitation. - art. R422-9-2 (V)
 	  - Code de la construction et de l'habitation. - art. R443-34 (V)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. L443-14 (M)
-	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+	  - Code de l'urbanisme 173
 
 
 ###### Article L422-3-1
@@ -17324,11 +17625,82 @@ Pour l'application du présent article, le point de départ du délai de dix ans
 	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
 
 
-###### Article L423-1 A
+###### Article L423-1-1
 
-Les organismes d'habitations à loyer modéré peuvent créer entre eux des sociétés anonymes d'habitations à loyer modéré afin
-de renforcer la coordination de leur action sur un territoire donné. Le capital de ces sociétés doit être détenu en totalité
-par des organismes d'habitations à loyer modéré.
+Des organismes d'habitations à loyer modéré peuvent créer entre eux en vue de favoriser leur coopération dans un ou des
+périmètres donnés une société anonyme soumise aux dispositions de la section 5 du chapitre II du présent titre ayant pour
+objet, dans le cadre de projets que ses actionnaires mènent en commun :
+
+- d'assister, comme prestataire de services, ses actionnaires organismes d'habitations à loyer modéré dans toutes
+interventions de ces derniers sur des immeubles qui leur appartiennent ou qu'ils gèrent ;
+
+- de gérer des immeubles appartenant à ses actionnaires organismes d'habitations à loyer modéré ;
+
+- de gérer, dans les périmètres où ses actionnaires mettent en oeuvre des projets communs, des immeubles appartenant à
+d'autres organismes d'habitations à loyer modéré et de gérer des immeubles à usage principal d'habitation appartenant à
+l'Etat, aux collectivités territoriales ou à leurs groupements, à des sociétés d'économie mixte de construction et de gestion
+de logements locatifs sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la
+loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont
+détenues à au moins 99 % par cette association ;
+
+- de réaliser, pour le compte de ses actionnaires et dans le cadre d'une convention passée par la société avec la ou les
+collectivités territoriales ou le ou les établissements publics de coopération intercommunale compétents sur le ou les
+périmètres où sont conduits des projets en commun, toutes les interventions foncières, les actions ou opérations
+d'aménagement prévues par le code de l'urbanisme et le présent code nécessaires. Les dispositions de l'article L. 443-14 ne
+sont pas applicables aux cessions d'immeubles rendues nécessaires par ces réalisations.
+
+Dans le même cadre, elle peut également avoir pour objet, après y avoir été spécialement agréée dans les conditions fixées à
+l'article L. 422-5 après accord de la ou des collectivités territoriales concernées ou, le cas échéant, de leur groupement,
+d'exercer certaines des compétences énumérées aux troisième alinéa et suivants de l'article L. 422-2 et qui sont communes aux
+organismes publics et aux sociétés anonymes d'habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de la construction et de l'habitation. - art. L422-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-5 (M)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-2 (V)
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*423-85 (V)
+	  - Code de la construction et de l'habitation. - art. R423-75 (M)
+	  - Code général des impôts, CGI. - art. 1461 (V)
+	  - Code général des impôts, CGI. - art. 207 (VD)
+
+
+###### Article L423-1-2
+
+Le capital d'une société créée en application de l'article L. 423-1-1 doit être détenu en totalité par des organismes
+d'habitations à loyer modéré et son conseil d'administration ou son conseil de surveillance est exclusivement composé de
+représentants permanents de ces organismes.
+
+Par dérogation aux dispositions des deux premiers alinéas de l'article L. 225-47 du code de commerce, le président du conseil
+d'administration est élu parmi les représentants permanents des organismes d'habitations à loyer modéré membres de ce conseil
+et au plus pour la durée du mandat d'administrateur de la personne qu'il représente.
+
+Par dérogation aux dispositions de l'article L. 225-81 du code de commerce, le président et le vice-président du conseil de
+surveillance sont élus parmi les représentants permanents des organismes d'habitations à loyer modéré membres du conseil de
+surveillance et chacun au plus pour la durée du mandat de la personne qu'il représente.
+
+La perte de la qualité de représentant permanent met toutefois fin aux fonctions, selon le cas, du président du conseil
+d'administration, du président ou du vice-président du conseil de surveillance.
+
+Par dérogation aux dispositions de l'article L. 225-1 du code de commerce, le nombre minimum des associés de la société est
+ramené à deux.
 
 **Liens relatifs à cet article**
 
@@ -17338,11 +17710,62 @@ par des organismes d'habitations à loyer modéré.
 
 	**Créé par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 150 () JORF 14 décembre 2000
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de commerce. - art. L225-1 (V)
+	  - Code de commerce. - art. L225-47 (M)
+	  - Code de commerce. - art. L225-81 (V)
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
+
+
+###### Article L423-1-3
+
+Les conseils d'administration ou les conseils de surveillance des sociétés créées en application de l'article L. 423-1-1
+comprennent des représentants des locataires des logements gérés par elles et appartenant à leurs actionnaires, élus selon
+les dispositions communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré prévues aux quatrième
+et cinquième alinéas de l'article L. 422-2-1.
+
+A cet effet et par dérogation aux articles L. 225-17 et L. 225-69 du code de commerce, le nombre des membres du conseil
+d'administration ou du conseil de surveillance peut excéder de deux le nombre d'administrateurs ou de membres du conseil de
+surveillance fixé par ces articles.
+
+Les représentants des locataires au conseil d'administration ou au conseil de surveillance ont les mêmes droits et
+obligations que les autres membres du conseil et sont soumis à toutes les dispositions applicables à ces derniers, à
+l'exception de celles prévues aux articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 du code de commerce.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
 
 	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-17 (M)
+	  - Code de commerce. - art. L225-25 (M)
+	  - Code de commerce. - art. L225-26 (M)
+	  - Code de commerce. - art. L225-69 (M)
+	  - Code de commerce. - art. L225-72 (M)
+	  - Code de commerce. - art. L225-73 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L423-1-4 (Ab)
 
 
 ###### Article L423-2
@@ -20352,9 +20775,12 @@ Lorsque l'autorisation est accordée pour confier la gérance d'un ou plusieurs 
 loyer modéré ou à une société d'économie mixte de construction et de gestion de logements locatifs sociaux, le gérant
 bénéficie de toutes les délégations nécessaires à l'accomplissement de sa mission, dans des conditions fixées par décret.
 
-Les organismes d'habitations à loyer modéré peuvent également être autorisés à prendre en gérance dans les mêmes conditions
-des logements appartenant à des sociétés d'économie mixte de construction et de gestion de logements locatifs sociaux ou à
-des collectivités territoriales.
+Lorsqu'ils prennent en gérance des logements appartenant à l'Etat, à une collectivité territoriale ou à un groupement de
+collectivités territoriales, à des sociétés d'économie mixte de construction et de gestion de logements sociaux, à des
+organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette
+association, les organismes d'habitations à loyer modéré bénéficient de toutes les délégations nécessaires à l'exercice de
+leur mission, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -20362,9 +20788,13 @@ des collectivités territoriales.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Cite**:
+
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 155 () JORF 14 décembre 2000
+	  - Loi n°2003-590 2003-07-02 art. 88 4° JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -21616,11 +22046,56 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code de l'urbanisme 233 AL. 1, 2 ET 3 (LOI 71-580 1971-07-16 art. 23)
 
 
+###### Article L451-1-1
+
+Après transfert de propriété des logements sociaux mentionnés aux articles L. 411-3 et L. 411-4, les bailleurs de ces
+logements sont, quel que soit leur statut, soumis au contrôle de l'administration. Ce contrôle a pour objet de vérifier
+qu'ils respectent les règles d'accès sous condition de ressources et de plafonnement des loyers auxquelles demeurent soumis
+ces logements, ainsi que leurs conditions d'application.
+
+Le contrôle s'exerce sur pièces ou sur place. Les agents chargés d'effectuer les contrôles sur place sont des agents de
+l'Etat habilités à cet effet par décision de l'autorité ministérielle.
+
+Le bailleur est averti du contrôle sur place dont il fait l'objet avant l'engagement des opérations ; l'avertissement
+mentionne que le bailleur a la faculté de se faire assister de tout conseil de son choix pendant le déroulement des
+opérations. Pour les besoins exclusifs de leur mission, les agents chargés du contrôle ont accès à tous documents,
+renseignements ou justificatifs et peuvent en prendre copie. Ils ont accès, entre 8 heures et 20 heures, à tous locaux
+professionnels où exerce le bailleur.
+
+Lorsque le contrôle de l'administration s'est conclu par un rapport, celui-ci est communiqué au bailleur qui dispose d'un
+mois pour présenter ses observations.
+
+L'autorité administrative met en demeure le bailleur de régulariser sa situation dans un délai déterminé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 86 () JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-3
+	  - Code de la construction et de l'habitation. - art. L411-4
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+
+
 ###### Article L451-2
 
-Les fonctionnaires chargés du contrôle prévu à l'article précédent peuvent, dans l'intérêt exclusif de ce contrôle,
-consulter, dans les bureaux des architectes ou entrepreneurs ayant traité avec des organismes soumis à ce même contrôle, tous
-documents comptables, copies de lettres, pièces de recettes et de dépenses.
+Les fonctionnaires chargés du contrôle prévu à l'article L. 451-1 peuvent, dans l'intérêt exclusif de ce contrôle, consulter,
+dans les bureaux des architectes ou entrepreneurs ayant traité avec des organismes soumis à ce même contrôle, tous documents
+comptables, copies de lettres, pièces de recettes et de dépenses.
 
 **Liens relatifs à cet article**
 
@@ -21636,8 +22111,11 @@ documents comptables, copies de lettres, pièces de recettes et de dépenses.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 162 I, II, IV JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 162 () JORF 14 décembre 2000
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 86 () JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
 
 	**Anciens textes**:
 
@@ -21645,7 +22123,7 @@ documents comptables, copies de lettres, pièces de recettes et de dépenses.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+	  - Code de la construction et de l'habitation. - art. L451-1
 
 
 ###### Article L451-2-1
@@ -22698,8 +23176,8 @@ dans des conditions fixées par décret en Conseil d'Etat.
 
 ###### Article L481-5
 
-Les conseils d'administration des sociétés d'économie mixte gérant des logements sociaux comprennent des représentants des
-locataires qui disposent d'une voix consultative.
+Les conseils d'administration des sociétés d'économie mixte gérant des logements sociaux comprennent des représentants de
+leurs locataires qui disposent d'une voix consultative.
 
 Les représentants des locataires sont élus sur des listes de candidats présentées par des associations oeuvrant dans le
 domaine du logement social.
@@ -22716,9 +23194,9 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 195 () JORF 14 décembre 2000
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 90 () JORF 3 juillet 2003
 
 
 ## Livre V : Bâtiments menaçant ruine ou insalubres.
