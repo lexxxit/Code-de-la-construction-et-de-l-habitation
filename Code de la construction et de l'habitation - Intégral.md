@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-08-07
+Version Consolidée au 1987-08-15
 
 # Partie législative
 
@@ -38970,6 +38970,46 @@ intervient au bénéfice d'un acquéreur autre que l'accédant titulaire du cont
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
+###### Article R*351-7-2
+
+Lorsque le bénéficiaire occupe un logement à usage locatif, qu'il poursuit des études et que, le cas échéant, son conjoint
+soit poursuit également des études, soit, à défaut, ne dispose pas de ressources au sens des articles R. 351.5 et 7, les
+ressources prises en considération pour le calcul de l'aide personnalisée sont évaluées comme suit :
+
+Si le bénéficiaire ou, le cas échéant, son conjoint perçoit une rémunération mensuelle lors de l'ouverture du droit ou au
+début de la période de paiement, les ressources du bénéficiaire et, le cas échéant, de son conjoint sont déterminées
+forfaitairement sur la base de douze fois la ou les rémunérations mensuelles. Le montant des ressources ainsi déterminé est
+affecté des abattements prévus par le code général des impôts. S'il s'agit d'une personne exerçant une activité
+professionnelle en qualité d'employeur ou de travailleur indépendant, les ressources prises en considération sont égales à un
+montant forfaitaire fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+En cas d'absence de revenu d'activité professionnelle ou en cas de ressources inférieures à un montant fixé par arrêté
+conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture, lors de l'ouverture du
+droit ou en début de période de paiement, les ressources du bénéficiaire et, le cas échéant, de son conjoint sont réputées
+égales à ce montant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 quater (V)
+	  - Arrêté du 30 juin 1979 - art. 8 (V)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-669 du 14 août 1987 - art. 4 () JORF 15 août 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+
+
 ###### Article R351-2
 
 L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des prêts définis par les articles R. 331-32 et
@@ -39394,6 +39434,98 @@ Pour l'application du présent article, les ressources sont arrondies dans les c
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+
+###### Article R351-21-2
+
+A compter du 1er juillet 1987, la mensualité nette, obtenue en déduisant des charges mensuelles de prêts déclarées le montant
+de l'aide personnalisée due aux propriétaires, doit être au moins égale à un minimum déterminé par le produit d'un
+coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture
+et des ressources prises en compte pour le calcul de l'A.P.L. déterminées en application des articles R. 351.5, 7 ou 7.1.
+
+Lorsque la mensualité nette est inférieure au minimum, il est appliqué au montant mensuel de l'aide personnalisée un
+abattement égal à la différence constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 bis (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 sexies (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 12 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 sexies (M)
+	  - Arrêté du 14 août 1987 - art. 12 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°87-669 du 14 août 1987 - art. 6 () JORF 15 août 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351
+
+
+###### Article R351-21-3
+
+A compter du 1er juillet 1987 [*date, point de départ*], pour les bénéficiaires titulaires d'un prêt aidé par l'Etat en
+accession à la propriété dont le contrat de prêt a été signé entre le 1er juillet 1981 et le 31 décembre 1984 [*période*]
+lorsque, lors du renouvellement des droits ou en cours de période de paiement, la mensualité nette Mn définie ci-dessous est
+supérieure au produit yR défini ci-dessous, le montant de l'aide personnalisée calculé conformément à l'article R. 351-18 est
+majoré d'un supplément calculé au moyen de la formule suivante :
+
+a X K(Mn - yR) dans laquelle :
+
+a est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+K est le coefficient défini à l'article R. 351-19 pour le cas où le bénéficiaire est propriétaire ;
+
+Mn est la mensualité nette obtenue en déduisant l'aide personnalisée calculée conformément à l'article R. 351-18 des charges
+mensuelles de prêts déclarées prises en compte dans la limite d'un plafond fixé par arrêté conjoint des ministres chargés du
+logement, du budget, de la sécurité sociale et de l'agriculture ;
+
+y est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+R représente les ressources prises en considération pour le calcul de l'aide personnalisée.
+
+Le produit yR ne peut être inférieur à un montant fixé par arrêté conjoint des ministres chargés du logement, du budget, de
+la sécurité sociale et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 octies (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
+	  - Arrêté du 14 août 1987 - art. 13 (T)
+
+	**Créé par**:
+
+	  - Décret n°87-669 du 14 août 1987 - art. 7 () JORF 15 août 1987
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 
@@ -45430,6 +45562,118 @@ application du titre IV de la loi n° 82-526 du 22 juin 1982 [*augmentation*].
 
 ##### Section 1 : Aide personnalisée
 
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement
+
+###### Article R351-7
+
+Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en France ou, dans le cas contraire, n'a disposé de
+ressources imposables au cours de l'année civile de référence et que l'un ou l'autre perçoit une rémunération mensuelle lors
+de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le calcul de
+l'aide personnalisée, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit pendant la période de paiement,
+sont déterminées forfaitairement sur la base de douze fois la ou les rémunérations mensuelles considérées. Le montant des
+ressources ainsi déterminé est affecté des abattements prévus par le code général des impôts.
+
+S'il s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, les
+ressources prises en considération sont égales à un montant forfaitaire fixé par arrêté conjoint des ministres chargés du
+logement, du budget, de la sécurité sociale et de l'agriculture.    Lorsque l'ouverture du droit et le début d'activité se
+situent entre le 1er janvier et le 30 juin d'une période de paiement, les ressources prises en compte lors du renouvellement
+du droit au 1er juillet suivant sont déterminées forfaitairement sur la même base que lors de l'ouverture du droit [*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
+	  - Arrêté du 30 juin 1979 - art. 7 (V)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 10 août 1984 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 9 (Ab)
+	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
+	  - Arrêté du 26 décembre 2016 (V)
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+	  - Arrêté du 30 août 1985 - art. 10 (V)
+	  - Code de la construction et de l'habitation. - art. R*351-7-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-11 (V)
+	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-669 du 14 août 1987 - art. 2 ()
+
+
+###### Article R351-7-1
+
+A compter du 1er janvier 1983 [*date*], lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en
+accession à la propriété ou un prêt conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du
+logement et que le droit à l'aide personnalisée est ouvert postérieurement au 31 décembre 1982, si les ressources du
+bénéficiaire et de son conjoint déterminées en application des articles R. 351-5 et 7 sont inférieures à un montant fixé par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement, les ressources du
+bénéficiaire et de son conjoint sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des
+articles R. 351-10, 12, 13 et 14.
+
+A compter du 1er juillet 1987 [*date, point de départ*], lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt
+aidé par l'Etat en accession à la propriété ou un prêt conventionné et que la date de signature du contrat de prêt est
+postérieure au 30 juin 1987, si les ressources du bénéficiaire et de son conjoint déterminées en application des articles R.
+351.5 et 7 sont inférieures à un montant déterminé par le produit d'un coefficient fixé par arrêté conjoint des ministres
+chargés du logement, du budget, de la sécurité sociale et de l'agriculture et des charges mensuelles de prêt déclarées prises
+en compte dans la limite de la mensualité de référence prévue à l'article R. 351.18, les ressources du bénéficiaire et de son
+conjoint sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R. 351.10, 12,
+13 et 14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 30 juin 1983 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-669 1987-08-14 art. 3 I, II jorf 15 août 1987
+	  - Décret n°87-669 du 14 août 1987 - art. 3 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-12 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+
+
 ##### Sous-section 3 : Conditions particulières.
 
 ###### Article R351-17
@@ -45989,11 +46233,15 @@ en charge, tels que définis à l'article R. 351-19, sont celles percues pendant
 l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer, sauf dans les cas
 mentionnés à l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les personnes y ayant résidé plus de
 six mois au cours de ladite année civile et qui y résident encore au moment de la demande ou au début de la période de
-paiement.
+paiement.    Ces ressources s'entendent du revenu net imposable de l'année civile de référence susmentionnée sous réserve des
+dispositions suivantes :
 
-Ces ressources s'entendent du revenu net imposable de l'année civile de référence susmentionnée, abstraction faite des
-déductions opérées en vertu de l'article 156-I du code général des impôts au titre des reports des déficits constatés au
-cours d'une année antérieure à celle qui est prise en considération.
+- il est fait abstraction des déductions opérées en vertu de l'article 156.I du code général des impôts au titre des reports
+des déficits constatés au cours d'une année antérieure à celle qui est prise en considération ;
+
+- il n'est tenu compte de la déduction des frais de garde prévue à l'article 154 ter du code général des impôts que dans la
+limite d'un montant fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture.
 
 Lorsque le ou les revenus imposables ne provenant pas d'une activité salariée ne sont pas connus au moment de la demande ou
 du réeaxemen des droits, il est tenu compte des derniers revenus nets imposables connus. Ces revenus sont revalorisés par
@@ -46012,6 +46260,13 @@ descendants ou collatéraux aux deuxième et troisième degrés du bénéficiair
 Soit enfants du bénéficiaire ou de son conjoint.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 154 ter
+	  - Code de la famille et de l'aide sociale 169 CGI 156-I
+	  - Code de la sécurité sociale L688
+	  - Code de la construction et de l'habitation R351-19, R351-7-2
 
 	**Codifié par**:
 
@@ -46053,16 +46308,9 @@ Soit enfants du bénéficiaire ou de son conjoint.
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
 
-	**Cite**:
-
-	  - CGI 156-I
-	  - Code de la famille et de l'aide sociale. - art. 169 (M)
-	  - Code de la sécurité sociale L688
-	  - Code de la construction et de l'habitation R351-19, R351-7-2
-
 	**Modifié par**:
 
-	  - Décret n°86-982 1986-08-22 art. 1 JORF 26 août 1986
+	  - Décret n°87-669 du 14 août 1987 - art. 1 () JORF 15 août 1987
 
 
 ###### Article R351-6
@@ -46096,109 +46344,6 @@ l'agriculture et de la sécurité sociale.
 	**Modifié par**:
 
 	  - Décret n°85-932 1985-08-30 art. 7 JORF 3 septembre 1985
-
-
-###### Article R351-7
-
-Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en France ou, dans le cas contraire, n'a disposé de
-ressources imposables au cours de l'année civile de référence et que l'un ou l'autre perçoit une rémunération mensuelle lors
-de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le calcul de
-l'aide personnalisée, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit pendant la période de paiement,
-sont déterminées forfaitairement sur la base de douze fois la ou les rémunérations mensuelles considérées. S'il s'agit d'une
-personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, les ressources prises en
-considération sont fixées forfaitairement à 2028 fois le salaire minimum interprofessionnel de croissance horaire au 1er
-janvier qui précède l'ouverture du droit ou le début de la période de paiement.
-
-Le montant des ressources ainsi déterminé est affecté des abattements prévus par le code général des impôts.
-
-Lorsque l'ouverture du droit et le début d'activité se situent entre le 1er janvier et le 30 juin d'une période de paiement,
-les ressources prises en compte lors du renouvellement du droit au 1er juillet suivant sont déterminées forfaitairement sur
-la même base que lors de l'ouverture du droit [*date*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
-	  - Arrêté du 30 juin 1979 - art. 7 (V)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 10 août 1984 - art. 10 (V)
-	  - Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
-	  - Arrêté du 26 décembre 2016 (V)
-	  - Arrêté du 22 août 1986 - art. 2 (V)
-	  - Arrêté du 30 août 1985 - art. 10 (V)
-	  - Code de la construction et de l'habitation. - art. R*351-7-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-11 (V)
-	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 8 JORF 3 septembre 1985
-
-
-###### Article R351-7-1
-
-A compter du 1er janvier 1983 [*date*], lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en
-accession à la propriété ou un prêt conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du
-logement et que le droit à l'aide personnalisée est ouvert postérieurement au 31 décembre 1982, si les ressources du
-bénéficiaire et de son conjoint déterminées en application des articles R. 351-5 et 7 sont inférieures à un montant fixé par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement, les ressources du
-bénéficiaire et de son conjoint sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des
-articles R. 351-10, 12, 13, 14 ou 15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
-	  - SPEC_APPLI: Disposition transitoire : Décret 82-715 1982-08-13 ART. 4
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 30 juin 1983 - art. 10 (V)
-	  - Arrêté du 14 août 1987 - art. 10 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°82-715 1982-08-13 ART. 1 JORF 15 AOUT 1982
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-12 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ##### Sous-section 3 : Conditions particulières.
@@ -46359,33 +46504,44 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 
 ###### Article R351-19
 
-Le coefficient K au plus égal à 0,95, est déterminé par les formules suivantes :
+Le coefficient K, au plus égal à 0,95, est déterminé par les formules suivantes :
 
 - si le bénéficiaire est locataire :
 
-K = 0,95 - R-(rxN)/CM x N    - si le bénéficiaire est propriétaire :
+K = 0,95 - ((R - (r X N))/(CM X N))    - si le bénéficiaire est propriétaire :
 
-K = 0,95 - R/CM x N    dans lesquelles :
+K = 0,95 -(R/(CM X N)) dans lesquelles :
 
-R représente les ressources déterminées conformément à l'article R. 351-5, arrondies jusqu'à 5000 F au multiple de 250 F
-immédiatement inférieur et au delà de 5000 F au multiple de 500 F immédiatement inférieur ; r est un coefficient fixé par
-arrêté conjoint des ministres chargés chargés de la sécurité sociale, du budget, de l'agriculture et du logement ; CM est un
-coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture
-et du logement ; N représente le nombre de parts déterminé par les coefficients suivants :
+R représente les ressources déterminées conformément à l'article R. 351.5, arrondies jusqu'à 5 000 F au multiple de 250 F
+immédiatement inférieur et au-delà de 5 000 F au multiple de 500 F immédiatement inférieur ;
 
-- bénéficiaire isolé : 1,60 ;
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
 
-- ménage sans personne à charge : 2 ;
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+- bénéficiaire isolé : 1,50 ;
+
+- ménage sans personne à charge : 1,90 ;
 
 - bénéficiaire isolé ou ménage ayant une personne à charge :
 
 2,50 ;
 
-- bénéficiaire isolé ou ménage ayant deux personnes à charge : 3 ;
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
 
-- bénéficiaire isolé ou ménage ayant trois personnes à charge 3,7 ;
+3 ;
 
-- bénéficiaire isolé ou ménage ayant quatre personnes à charge 4,3 ;
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
 
 Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
 
@@ -46398,7 +46554,6 @@ Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentair
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
-	  - TXT_ASSOCIE: Code de la construction R351-29
 
 	**Cité par**:
 
@@ -46414,7 +46569,7 @@ Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentair
 
 	**Modifié par**:
 
-	  - Décret n°85-932 1985-08-30 art. 10 JORF 3 septembre 1985
+	  - Décret n°87-669 du 14 août 1987 - art. 5 () JORF 15 août 1987
 
 
 ###### Article R351-21-1
@@ -46454,26 +46609,28 @@ personnalisée un abattement égal à la différence constatée.
 
 ###### Article R351-23
 
-La prime de déménagement est attribuée aux personnes qui [*bénéficiaires*] s'installent dans un logement donnant vocation à
-l'aide personnalisée.
+La prime de déménagement est attribuée aux personnes ou ménages ayant à charge au moins trois enfants nés ou à naître et qui
+s'installent dans un logement donnant vocation à l'aide personnalisée au cours d'une période comprise entre le premier jour
+du mois civil suivant le troisième mois de grossesse au titre d'un enfant de rang trois ou plus et le dernier jour du mois
+précédant celui au cours duquel ledit enfant atteint son premier anniversaire.
 
 Cette prime est due si [*condition d'octroi*] le droit à l'aide personnalisée est ouvert dans un délai de six mois à compter
 de la date d'emménagement même lorsqu'en application de l'article R. 351-22 il n'est pas procédé au versement de l'aide
 personnalisée.
 
-En cas de transit d'une durée maximale d'un an dans une résidence provisoire ne donnant pas vocation à l'aide personnalisée,
-la prime de déménagement est également due si le droit à cette aide est ouvert dans un délai de six mois à compter de
-l'emménagement dans la résidence définitive.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 19
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-669 du 14 août 1987 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-669 du 14 août 1987 - art. 8 () JORF 15 août 1987
 
 	**Cite**:
 
@@ -46486,23 +46643,28 @@ l'emménagement dans la résidence définitive.
 
 ###### Article R351-61
 
-Le coefficient K, au plus égal à 0,95, est déterminé par  la formule :
+Le coefficient K, au plus égal à 0,95, est déterminé par la formule :
 
-K = 0,95 - R-(r x N)/CM x N        dans laquelle :
+K = 0,95 - ((R -(r X N))/(CM X N)) dans laquelle :
 
-R représente les ressources déterminées conformément à l'articles R. 351-5, arrondies jusqu'à 5000 F au multiple de 250 F
-immédiatement inférieur et au-delà de 5000 F au multiple de 500 F immédiatement inférieur ;
+R représente les ressources déterminées conformément à l'article R. 351-5, arrondies jusqu'à 5 000 F au multiple de 250 F
+immédiatement inférieur et au-delà de 5 000 F au multiple de 500 F immédiatement inférieur ;
 
-r est un coefficient fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
-logement ;
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
 
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
-l'agriculture et du logement ;
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
 
 N représente le nombre de parts déterminé par les coefficients suivants :
 
-Bénéficiaire isolé :                            1,60        Ménage sans personne à charge :                 2
-Bénéficiaire isolé ou ménage ayant une        personne à charge :                             2,50.
+- bénéficiaire isolé : 1,50 ;
+
+- ménage sans personne à charge : 1,90 ;
+
+- bénéficiaire isolé ou ménage ayant une personne à charge :
+
+2,50.
 
 **Liens relatifs à cet article**
 
@@ -46524,7 +46686,7 @@ Bénéficiaire isolé ou ménage ayant une        personne à charge :          
 
 	**Modifié par**:
 
-	  - Décret n°85-932 1985-08-30 art. 12 JORF 3 septembre 1985
+	  - Décret n°87-669 du 14 août 1987 - art. 9 () JORF 15 août 1987
 
 	**Cite**:
 
