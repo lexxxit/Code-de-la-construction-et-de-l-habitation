@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-03-12
+Version Consolidée au 1985-04-15
 
 # Partie législative
 
@@ -16504,22 +16504,14 @@ la commission départementale prévue à l'article 6 du décret n° 78-109 du 1e
 
 ###### Article R*111-20
 
-Les dispositions de la présente section s'appliquent aux bâtiments et parties de bâtiments autres que ceux concernés par la
-section II ci-dessus relative aux règles générales de construction des bâtiments d'habitation.
-
-Toutefois, les bâtiments et parties de bâtiments qui, eu égard à leur destination, ne comportent pas d'installations de
-chauffage ou ne sont normalement chauffés qu'à une température moyenne inférieure à 14° C ne sont pas soumis aux obligations
-découlant des articles R. 111-21 et R. 111-22.
+Les dispositions de la présente section s'appliquent aux bâtiments nouveaux et parties nouvelles de bâtiments autres que ceux
+concernés par la section II ci-dessus relative aux règles générales de construction applicables aux bâtiments d'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-246 1976-03-12 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -16550,9 +16542,9 @@ découlant des articles R. 111-21 et R. 111-22.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 A (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R*111-21 (M)
+	  - Décret n°88-355 1988-04-12 art. 1 JORF 15 avril 1988
 
 
 ##### Sous-section 2 : Performances énergétiques et énergies renouvelables.
@@ -16560,31 +16552,35 @@ découlant des articles R. 111-21 et R. 111-22.
 ###### Article R*111-21
 
 Les bâtiments et parties de bâtiments auxquels s'appliquent les dispositions de la présente section doivent être construits
-et aménagés de telle sorte que les consommations d'énergie pour le chauffage et le conditionnement d'air puissent être aussi
-réduites que possible.
+et aménagés de telle sorte que les consommations d'énergie pour le chauffage et la climatisation puissent être aussi réduites
+que possible.
 
 A cet effet, des arrêtés conjoints du ministre chargé de la construction et de l'habitation, du ministre chargé de
-l'industrie et, le cas échéant, des autres ministres intéressés précisent les caractéristiques requises en matière
-d'isolation thermique ; celles-ci sont définies en prenant comme référence le coefficient volumique de déperditions
-thermiques par transmission à travers les parois. Ce coefficient doit être égal ou inférieur aux valeurs fixées par lesdits
-arrêtés. Elles peuvent varier selon les zones climatiques et la nature ou la destination des bâtiments ou parties de
-bâtiments, notamment s'il s'agit de locaux à usage hospitalier, sanitaire ou sportif.
+l'industrie et du ministre chargé de la santé et, le cas échéant, des autres ministres intéressés précisent les
+caractéristiques requises en matière d'isolation thermique, de régulation et de programmation du chauffage, de ventilation et
+de climatisation.
 
-Un arrêté conjoint du ministre chargé de la construction et de l'habitation, du ministre chargé de l'industrie et du ministre
-chargé de la santé peut imposer une récupération des calories dans les installations ou dispositifs de renouvellement d'air
-dont la capacité moyenne permet d'assurer un renouvellement d'air supérieur aux normes fixées par ce texte, compte tenu de la
-destination des bâtiments. Les normes ainsi fixées ne peuvent en aucun cas être inférieures à celles résultant des règlements
-pris en matière de santé, de salubrité, d'hygiène ou de sécurité.
+Les caractéristiques requises en matière d'isolation thermique ne s'appliquent qu'aux locaux dont la température normale
+d'occupation est égale ou supérieure à 14 °C. Ces caractéristiques sont définies en prenant comme paramètre le coefficient
+volumique de déperditions thermiques par transmission à travers les parois. Les arrêtés prévus à l'alinéa précédent fixent la
+valeur maximale de ce coefficient, qui pourra varier selon les zones climatiques et la nature ou la destination des bâtiments
+ou parties de bâtiments.
+
+Les caractéristiques requises en matière de régulation programmation du chauffage et celle de ventilation ne s'appliquent
+qu'aux locaux dont la température normale d'occupation est égale ou supérieure à 10 °C.
+
+Les caractéristiques requises en matière de climatisation ne s'appliquent qu'aux installations utilisant des machines
+frigorifiques en vue d'assurer le confort des personnes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-246 1976-03-12 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-355 1988-04-12 art. 2 JORF 15 avril 1988
 
 	**Cité par**:
 
@@ -16636,30 +16632,27 @@ pris en matière de santé, de salubrité, d'hygiène ou de sécurité.
 
 ###### Article R*111-22
 
-Les dispositions de la présente section sont applicables après l'expiration d'un délai de six mois à dater de la publication
-respective des arrêtés prévus à l'article R. 111-21, soit à compter du 19 septembre 1976 en ce qui concerne l'isolation
-thermique, à tous projets de construction faisant l'objet d'une demande de permis de construire ou de prorogation de permis
-de construire ou ayant fait l'objet d'une déclaration préalable de travaux au sens de l'ancien article L. 430-3 du code de
-l'urbanisme.
+Les arrêtés prévus à l'article précédent sont applicables six mois après leur application aux projets de construction des
+bâtiments qu'ils concernent et qui font l'objet d'une demande de permis de construire, d'une demande de prorogation de permis
+de construire ou de la déclaration prévue à l'article L. 422-2 du code de l'urbanisme.
 
-Les constructions faisant l'objet d'une déclaration d'achèvement de travaux postérieure à la date du 31 décembre 1979 doivent
-être conformes aux prescriptions de la présente section et ce, quelle que soit la date de la demande de permis de construire
-ou de la déclaration préalable de travaux.
+Ils sont également applicables aux constructions faisant l'objet d'une déclaration d'achèvement de travaux intervenant après
+un délai de trois ans et six mois à compter de leur publication, quelle que soit la date de la demande du permis de
+construire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté 1976-09-19
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°76-246 1976-03-12 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-355 1988-04-12 art. 3 JORF 15 avril 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
 
 	**Cité par**:
 
@@ -16667,6 +16660,10 @@ ou de la déclaration préalable de travaux.
 	  - Arrêté du 11 octobre 2011 - art. 4 (V)
 	  - Code de la construction et de l'habitation. - art. R*111-20 (M)
 	  - Code de la construction et de l'habitation. - art. R131-27 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-2 (M)
 
 
 ##### Section 4 : Caractéristiques thermiques.
@@ -20521,6 +20518,53 @@ pas de la réglementation édictée par le décret précité du 30 novembre 1944
 
 ##### Section 3 : Régulation des installations de chauffage.
 
+###### Article R*131-15
+
+Les dispositions de la présente section s'appliquent :
+
+- aux locaux à usage d'habitation autres que ceux mentionnés à l'article R. 111-1 ;
+
+- aux locaux à usage autre que d'habitation autres que ceux mentionnés à l'article R. 111-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-355 1988-04-12 art. 4 JORF 15 avril 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-1, R111-20
+
+
+###### Article R*131-17
+
+I. - Toute installation de chauffage d'une puissance supérieure à 30 kW doit comporter un dispositif de régulation.
+
+II. - Toute installation de chauffage d'une puissance supérieure à 250 kW et desservant des locaux d'habitation doit
+comporter un dispositif de régulation qui soit fonction au moins de la température extérieure.
+
+III. - Toute installation de chauffage d'une puissance supérieure à 1 500 kW doit comporter un dispositif de régulation soit
+par bâtiment, soit par ensemble de bâtiments ayant la même destination, les mêmes conditions d'occupation et les mêmes
+caractéristiques de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-355 1988-04-12 art. 6 JORF 15 avril 1988
+
+
+##### Section 3 : Régulation des installations de chauffage.
+
 ###### Article R*131-18
 
 Les dispositions de la présente section ne sont pas applicables dans le cas de générateurs à combustibles solides à
@@ -20734,30 +20778,6 @@ années et les frais de fonctionnement, serait supérieure au dixième des frais
 
 ##### Section 3 : Régulation des installations de chauffage.
 
-###### Article R*131-15
-
-Les dispositions de la présente section s'appliquent :
-
-- aux locaux à usage d'habitation autres que ceux auxquels sont ou seront applicables les dispositions de l'article R.
-111-6 ;
-
-- à tous les locaux à usage autre que d'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-495 1975-06-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R111-6
-
-
 ###### Article R*131-16
 
 Pour l'application de la présente section,
@@ -20774,28 +20794,6 @@ en marche continue maximale par le pouvoir calorifique inférieur de ce combusti
 	**Anciens textes**:
 
 	  - Décret n°75-495 1975-06-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*131-17
-
-Toute installation de chauffage d'une puissance supérieure à 250 kilowatts doit comporter, pour chaque bâtiment desservi, une
-régulation au moins en fonction de la température extérieure.
-
-Toute installation de chauffage d'une puissance totale comprise entre 31 et 250 kilowatts doit comporter une régulation au
-moins par bâtiment.
-
-Toutefois, si plusieurs bâtiments de même destination sont désservis par une même installation de chauffage dont la puissance
-totale est inférieure à 250 kilowatts, ils peuvent avoir une régulation commune unique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-495 1975-06-19 art. 3
 
 	**Codifié par**:
 
