@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-30
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -209,8 +209,8 @@ lorsque l'immeuble est soumis aux dispositions de l'article L. 1334-5 du même c
 d'habitation dont le contrôle exercé par la commission de sécurité a donné lieu à un avis défavorable de l'autorité
 compétente ou à des prescriptions qui n'ont pas été exécutées.
 
-Sont punies d'un emprisonnement de deux ans et d'une amende de 500 000 F les personnes qui mettent en vente, en location ou à
-la disposition d'autrui des locaux destinés à l'habitation et provenant d'une division réalisée en méconnaissance des
+Sont punies d'un emprisonnement de deux ans et d'une amende de 75 000 euros les personnes qui mettent en vente, en location
+ou à la disposition d'autrui des locaux destinés à l'habitation et provenant d'une division réalisée en méconnaissance des
 interdictions définies au présent article.
 
 Les personnes morales peuvent être déclarées responsables pénalement des infractions définies ci-dessus dans les conditions
@@ -238,9 +238,14 @@ aux 2°, 4° et 9° de l'article 131-39 du même code.
 	  - Arrêté du 8 décembre 2016 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. L111-6-1-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 74 () JORF 14 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L111-6-2
@@ -1343,6 +1348,42 @@ de l'existence ou de l'absence d'assurance.
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
+###### Article L111-34
+
+Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux articles L.
+111-28 à L. 111-30, sera puni d'un emprisonnement de six mois et d'une amende de 75 000 euros ou de l'une de ces deux peines
+seulement.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
+elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. L111-6-2-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code des assurances L241-1 à L242-1
+	  - Code de la construction et de l'habitation L111-28 à L111-30
+
+
 ###### Article L111-35
 
 Toute personne assujettie à l'obligation de s'assurer qui, ayant sollicité la souscription d'un contrat auprès d'une
@@ -1440,44 +1481,6 @@ types prévues par l'article L. 310-7 du code des assurances.
 
 	  - Code des assurances - art. L310-7 (M)
 	  - Code des assurances L243-8 (citation)
-
-
-##### Section 8 : Assurance des travaux de bâtiment.
-
-##### Sous-section 3 : Dispositions communes aux assurances de bâtiment.
-
-###### Article L111-34
-
-Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux articles L.
-111-28 à L. 111-30, sera puni d'un emprisonnement de six mois et d'une amende de 500 000 F ou de l'une de ces deux peines
-seulement. 
-
-Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
-elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
-	  - Code de la construction et de l'habitation. - art. L111-6-2-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code des assurances L241-1 à L242-1
-	  - Code de la construction et de l'habitation L111-28 à L111-30
 
 
 ##### Section 9 : Dispositions communes.
@@ -2972,7 +2975,7 @@ article. Dans ce cas, le préfet reçoit, au lieu et place du maire, les avis et
 ###### Article L152-3
 
 En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, une amende de
-300 000 F et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
+45 000 euros et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
 les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 
 **Liens relatifs à cet article**
@@ -2984,10 +2987,12 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -3002,11 +3007,11 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4, L.
 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par
-les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 300 000 F. En cas de récidive,
-la peine d'amende sera à 500 000 F et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
-ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la diffusion
-d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs
-journaux qu'il désigne.
+les autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 45 000 euros. En cas de
+récidive, la peine d'amende sera à 75 000 euros et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal
+peut en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la
+diffusion d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou
+plusieurs journaux qu'il désigne.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -3022,7 +3027,7 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 25 000 F.
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 2 250 euros.
 
 En outre, un emprisonnement d'un mois pourra être prononcé.
 
@@ -3034,7 +3039,7 @@ En outre, un emprisonnement d'un mois pourra être prononcé.
 
 	**Modifié par**:
 
-	  - Loi n°99-471 du 8 juin 1999 - art. 7 () JORF 9 juin 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -3066,6 +3071,11 @@ En outre, un emprisonnement d'un mois pourra être prononcé.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 103 AL. 1 et 2 (LOI 66-456 1966-07-02 ART. 4)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L152-5
@@ -3126,12 +3136,11 @@ La demande précitée est recevable jusqu'au jour où l'action publique se serai
 ###### Article L152-7
 
 Le tribunal impartit au bénéficiaire des travaux irréguliers ou de l'utilisation irrégulière du sol un délai pour l'exécution
-de l'ordre de démolition, de mise en conformité ou de réaffectation ; il peut assortir sa décision d'une astreinte de 20 F à
-500 F [*montant*] par jour de retard.
+de l'ordre de démolition, de mise en conformité ou de réaffectation ; il peut assortir sa décision d'une astreinte de 3 à 75
+euros par jour de retard.
 
 Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être revisée que dans le cas prévu au troisième
-alinéa du présent article, court [*durée*] à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement
-exécuté.
+alinéa du présent article, court à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement exécuté.
 
 Si l'exécution n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du ministère
 public, relever à une ou plusieurs reprises le montant de l'astreinte, même au-delà du maximum prévu ci-dessus.
@@ -3145,6 +3154,10 @@ lui a été imparti.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -3195,8 +3208,8 @@ de grande instance qui ordonnera, le cas échéant, l'expulsion de tous occupant
 ###### Article L152-10
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 151-1 sera puni d'une amende de 25 000 F. En
-outre un emprisonnement d'un mois pourra être prononcé.
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 151-1 sera puni d'une amende de 3 750 euros.
+En outre un emprisonnement d'un mois pourra être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -3210,15 +3223,12 @@ outre un emprisonnement d'un mois pourra être prononcé.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 149 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code pénal - art. 433-7 (M)
-	  - Code pénal - art. 433-8 (M)
-	  - Code de la construction et de l'habitation. - art. L151-1 (M)
+	  - Code pénal - art. 433-7 (V)
+	  - Code de la construction et de l'habitation. - art. L151-1 (V)
 
 	**Anciens textes**:
 
@@ -3234,7 +3244,7 @@ outre un emprisonnement d'un mois pourra être prononcé.
 ###### Article L152-11
 
 Le propriétaire qui n'aura pas exécuté les travaux de ravalement dans les délais prévus aux articles L. 132-3 à L. 132-5 est
-puni d'une amende de 25 000 F. En cas de récidive, l'amende sera de 50 000 F.
+puni d'une amende de 3 750 euros. En cas de récidive, l'amende sera de 7 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -3245,11 +3255,12 @@ puni d'une amende de 25 000 F. En cas de récidive, l'amende sera de 50 000 F.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -6036,8 +6047,7 @@ articles L. 231-8, L. 231-9 et L. 231-13 sont applicables au contrat prévu au p
 
 Toute personne qui aura exigé ou accepté un versement, un dépôt de fonds, une souscription ou une acceptation d'effets de
 commerce en violation des dispositions des articles L. 212-10, L. 212-11, L. 213-9, L. 222-5 et du paragraphe II de l'article
-L. 231-4 sera punie d'un emprisonnement de deu x ans et d'une amende de 60 000 F ou de l'une de ces deux peines seulement
-[*sanction*].
+L. 231-4 sera punie d'un emprisonnement de deux ans et d'une amende de 9 000 euros ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -6058,15 +6068,19 @@ L. 231-4 sera punie d'un emprisonnement de deu x ans et d'une amende de 60 000 F
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L212-10 (V)
-	  - Code de la construction et de l'habitation. - art. L212-11 (V)
 	  - Code de la construction et de l'habitation. - art. L213-9 (V)
 	  - Code de la construction et de l'habitation. - art. L222-5 (V)
 	  - Code de la construction et de l'habitation. - art. L231-4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L241-2
@@ -6246,7 +6260,7 @@ n° 2000-912 du 18 septembre 2000.
 ###### Article L241-5
 
 Toute personne qui contreviendra à l'interdiction résultant des articles L. 241-3 et L. 241-4 sera punie d'un emprisonnement
-de deux ans et d'une amende de 150 000 F ou de l'une de ces deux peines seulement.
+de deux ans et d'une amende de 22 500 euros ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -6260,35 +6274,31 @@ de deux ans et d'une amende de 150 000 F ou de l'une de ces deux peines seulemen
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L241-3 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L241-4 (V)
-
 
 ###### Article L241-6
 
-Seront punies d'un emprisonnement de cinq ans et d'une amende de 120 000 F, ou de l'une de ces deux peines seulement
-[*sanction*], les infractions aux dispositions des articles L. 214-6 à L. 214-9.
+Seront punies d'un emprisonnement de cinq ans et d'une amende de 18 000 euros, ou de l'une de ces deux peines seulement, les
+infractions aux dispositions des articles L. 214-6 à L. 214-9. 
 
-Seront punis des mêmes peines :
+Seront punis des mêmes peines : 
 
 1. Le fait soit d'avoir porté des indications volontairement inexactes ou incomplètes dans les contrats ou documents prévus
 par le décret n° 54-1123 du 10 novembre 1954, soit d'avoir, dans l'exécution desdits contrats ou documents, volontairement
 trompé ou tenté de tromper sur la qualité, la quantité ou les dimensions de la construction ou des matériaux, appareils ou
-produits employés ou fournis ;
+produits employés ou fournis ; 
 
-2. Le fait de mettre obstacle à l'action des organes de contrôle prévus par ledit décret ;
+2. Le fait de mettre obstacle à l'action des organes de contrôle prévus par ledit décret ; 
 
 3. Le fait pour une personne exerçant en droit ou en fait, directement ou par personne interposée, la gestion d'une société
 concernée par ces décrets d'avoir, de mauvaise foi, fait, des biens ou du crédit de la société ou des pouvoirs ou des voix
 dont elle disposait, un usage qu'elle savait contraire à l'intérêt de ladite société, dans un but personnel ou pour favoriser
-une autre société ou une entreprise quelconque dans laquelle elle était intéressée directement ou indirectement.
+une autre société ou une entreprise quelconque dans laquelle elle était intéressée directement ou indirectement. 
 
 Seront punies des mêmes peines les tentatives d'infractions prévues au présent article.
 
@@ -6301,8 +6311,8 @@ Seront punies des mêmes peines les tentatives d'infractions prévues au présen
 
 	**Cite**:
 
-	  - Décret n°54-1123 1954-11-10
-	  - Code de la construction et de l'habitation L214-6 à L214-9
+	  - Décret n°54-1123 du 10 novembre 1954, v. init.
+	  - Code de la construction et de l'habitation. - art. L214-6 (V)
 
 	**Anciens textes**:
 
@@ -6314,7 +6324,7 @@ Seront punies des mêmes peines les tentatives d'infractions prévues au présen
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -6379,13 +6389,12 @@ III  - Les dispositions du présent article ne font pas obstacle à l'exécution
 
 ###### Article L241-8
 
-Sera puni [*sanction*] d'un emprisonnement de deux ans et d'une amende 250 000 F, ou de l'une de ces deux peines seulement,
-quiconque, tenu à la conclusion d'un contrat par application de l'article L. 231-1 ou de l'article L. 232-1, aura entrepris
-l'exécution des travaux sans avoir conclu un contrat écrit ou sans avoir obtenu la garantie de livraison définie à l'article
-L. 231-6.
+Sera puni d'un emprisonnement de deux ans et d'une amende 37 500 euros, ou de l'une de ces deux peines seulement, quiconque,
+tenu à la conclusion d'un contrat par application de l'article L. 231-1 ou de l'article L. 232-1, aura entrepris l'exécution
+des travaux sans avoir conclu un contrat écrit ou sans avoir obtenu la garantie de livraison définie à l'article L. 231-6. 
 
-Ces infractions peuvent être constatées et poursuivies dans les conditions fixées par les articles 45, premier et troisième
-alinéa, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence.
+Ces infractions peuvent être constatées et poursuivies dans les conditions fixées par les articles L. 450-1, premier et
+troisième alinéa, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -6393,31 +6402,35 @@ alinéa, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Ordonnance 86-1243 1986-12-01
-	  - Code de la construction et de l'habitation L232-1, L231-6, 45
-	  - Code de la construction et de l'habitation. - art. L231-6 (M)
-	  - Code de la construction et de l'habitation. - art. L232-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-1 (V)
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (V)
+	  - Code de commerce. - art. L450-8 (V)
+	  - Code de la construction et de l'habitation. - art. L231-1 (V)
+	  - Code de la construction et de l'habitation. - art. L231-6 (V)
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L241-9 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L241-9
 
-Sera puni [*sanction*] d'un emprisonnement de deux ans et d'une amende de 125 000 F, ou de l'une de ces deux peines
-seulement, quiconque, chargé de l'une des opérations mentionnées à l'article L. 241-8, n'aura pas conclu par écrit un contrat
-de sous-traitance avant l'exécution des travaux de chacun des lots de l'immeuble [*infraction*].
+Sera puni d'un emprisonnement de deux ans et d'une amende de 18 000 euros, ou de l'une de ces deux peines seulement,
+quiconque, chargé de l'une des opérations mentionnées à l'article L. 241-8, n'aura pas conclu par écrit un contrat de sous-
+traitance avant l'exécution des travaux de chacun des lots de l'immeuble.
 
 **Liens relatifs à cet article**
 
@@ -6428,10 +6441,12 @@ de sous-traitance avant l'exécution des travaux de chacun des lots de l'immeubl
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -7626,7 +7641,7 @@ L. 261-6 peuvent être tenues de se prémunir contre les conséquences pécuniai
 ###### Article L261-17
 
 Toute personne qui exige ou accepte un versement en violation des dispositions des articles L. 261-12 et L. 261-15 est punie
-d'un emprisonnement de deux ans et d'une amende de 60 000 F ou de l'une de ces deux peines seulement [*sanction*].
+d'un emprisonnement de deux ans et d'une amende de 9 000 euros ou de l'une de ces deux peines seulement.
 
 Ne sont pas considérés comme des versements au sens du présent article, les dépôts de fonds effectués dans un compte bancaire
 ouvert au nom du déposant et dont celui-ci peut à tout moment disposer sans restriction d'aucune sorte.
@@ -7647,19 +7662,23 @@ ouvert au nom du déposant et dont celui-ci peut à tout moment disposer sans re
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Ordonnance n°98-774 du 2 septembre 1998 - art. 5 ()
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 80 () JORF 16 juillet 2006
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L261-12 (M)
 	  - Code de la construction et de l'habitation. - art. L261-15 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L261-18
@@ -7869,8 +7888,8 @@ du lendemain de la date de cette rétractation.
 Lorsque l'acte est dressé en la forme authentique, aucune somme ne peut être versée pendant le délai de réflexion de sept
 jours.
 
-Est puni de 200 000 F d'amende le fait d'exiger ou de recevoir un versement ou un engagement de versement en méconnaissance
-des alinéas ci-dessus.
+Est puni de 30 000 euros d'amende le fait d'exiger ou de recevoir un versement ou un engagement de versement en
+méconnaissance des alinéas ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -7878,13 +7897,9 @@ des alinéas ci-dessus.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V) JORF 14 décembre 2000 en vigueur le 1er juin 2001
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V)
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -7896,6 +7911,11 @@ des alinéas ci-dessus.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L271-1 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre VIII : Dispositions particulières aux départements d'outre-mer.
@@ -8564,7 +8584,7 @@ juillet, un inventaire par commune des logements sociaux dont elles sont propri�
 l'année en cours.
 
 Le défaut de production de l'inventaire mentionné ci-dessus, ou la production d'un inventaire manifestement erroné donne lieu
-à l'application d'une amende de 10 000 F recouvrée comme en matière de taxe sur les salaires.
+à l'application d'une amende de 1 500 euros recouvrée comme en matière de taxe sur les salaires.
 
 Le préfet communique chaque année à chaque commune susceptible d'être visée à l'article L. 302-5, avant le 1er septembre, les
 inventaires la concernant assortis du nombre de logements sociaux décomptés en application de l'article L. 302-5 sur son
@@ -8595,12 +8615,14 @@ logements sociaux décomptés.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
 	  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L302-7
@@ -9117,12 +9139,12 @@ entrepreneurs.
 Les locaux dont la création a donné lieu à l'octroi des primes ne peuvent, pendant toute la période au cours de laquelle ces
 primes sont versées, être transformés en locaux commerciaux ni affectés à la location saisonnière.
 
-Le propriétaire est tenu de [*obligation*] déclarer l'existence des interdictions prévues à l'alinéa précédent dans tout acte
-entraînant mutation ou location de l'immeuble.
+Le propriétaire est tenu de déclarer l'existence des interdictions prévues à l'alinéa précédent dans tout acte entraînant
+mutation ou location de l'immeuble.
 
-Toute personne contrevenant aux dispositions du présent article est punie d'une amende de 300 000 F.
+Toute personne contrevenant aux dispositions du présent article est punie d'une amende de 45 000 euros.
 
-Les primes perçues depuis la transformation sont, en outre, sujettes à répétition [*sanction*].
+Les primes perçues depuis la transformation sont, en outre, sujettes à répétition.
 
 **Liens relatifs à cet article**
 
@@ -9133,10 +9155,12 @@ Les primes perçues depuis la transformation sont, en outre, sujettes à répét
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -9165,7 +9189,7 @@ logements qu'ils construisent.
 ###### Article L311-5
 
 Quiconque tente de bénéficier des primes au moyen de fausses déclarations ou de manoeuvres frauduleuses est puni d'une amende
-de 300 000 F [*sanction*].
+de 45 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -9176,10 +9200,12 @@ de 300 000 F [*sanction*].
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -9401,10 +9427,10 @@ cessionnaire a eu connaissance de la réalisation de la condition.
 Est interdite toute publicité concernant les primes et prêts à la construction, prévus par le présent livre, avant
 l'intervention des décisions accordant ces primes et prêts.
 
-Les infractions aux dispositions du présent article sont punies d'un emprisonnement de deux ans et d'une amende de 60000 F ou
-de l'une de ces deux peines seulement.
+Les infractions aux dispositions du présent article sont punies d'un emprisonnement de deux ans et d'une amende de 9 000
+euros ou de l'une de ces deux peines seulement.
 
-En cas de récidive, ces peines peuvent être portées au double [*sanction*].
+En cas de récidive, ces peines peuvent être portées au double.
 
 **Liens relatifs à cet article**
 
@@ -9419,10 +9445,12 @@ En cas de récidive, ces peines peuvent être portées au double [*sanction*].
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -11473,8 +11501,8 @@ disciplinaire;
 
 ###### Article L313-30
 
-Les infractions aux dispositions de l'article L. 313-29 sont punie d'un emprisonnement de deux ans et d'une amende de 120 000
-F, ou de l'une de ces deux peines seulement [*sanction*].
+Les infractions aux dispositions de l'article L. 313-29 sont punie d'un emprisonnement de deux ans et d'une amende de 18 000
+euros, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -11482,10 +11510,9 @@ F, ou de l'une de ces deux peines seulement [*sanction*].
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 1996-12-30 art. 6 IV, VI JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -11495,6 +11522,11 @@ F, ou de l'une de ces deux peines seulement [*sanction*].
 
 	  - Code de la construction et de l'habitation. - art. L313-3 (M)
 	  - Code de la construction et de l'habitation. - art. L313-3 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L313-31
@@ -11529,7 +11561,7 @@ qu'aux administrateurs et aux salariés de l'agence nationale.
 
 ###### Article L313-32
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 1 000 000 F le fait pour un dirigeant d'un organisme collecteur
+Est puni d'un emprisonnement de cinq ans et d'une amende de 150 000 euros le fait pour un dirigeant d'un organisme collecteur
 de la participation des employeurs à l'effort de construction de faire, de mauvaise foi, à des fins personnelles directes ou
 indirectes et dans l'exercice de ses fonctions :
 
@@ -11543,9 +11575,9 @@ indirectes et dans l'exercice de ses fonctions :
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -11554,6 +11586,11 @@ indirectes et dans l'exercice de ses fonctions :
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R313-23 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L313-33
@@ -13464,11 +13501,11 @@ par le décret n° 81-859. L'article L. 160 a été abrogé par la loi n° 98-12
 ###### Article L351-13
 
 Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, faire obtenir, ou tenter d'obtenir ou de faire
-obtenir l'aide personnalisée au logement est puni d'une amende de 30000 F pouvant être portée au double en cas de récidive.
-Le tribunal ordonne, en outre, le remboursement des sommes indûment versées.
+obtenir l'aide personnalisée au logement est puni d'une amende de 4 500 euros pouvant être portée au double en cas de
+récidive. Le tribunal ordonne, en outre, le remboursement des sommes indûment versées.
 
-S'il s'agit d'un administrateur de biens, les peines applicables sont un emprisonnement de six mois et une amende de 120 000
-F ou l'un de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double [*sanction*].
+S'il s'agit d'un administrateur de biens, les peines applicables sont un emprisonnement de six mois et une amende de 18 000
+euros ou l'un de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double.
 
 Le tribunal peut, en outre, dans les cas prévus aux deux alinéas qui précèdent, prononcer, pour une durée n'excédant pas deux
 ans, l'interdiction de passer les conventions prévues au chapitre III.
@@ -13486,10 +13523,12 @@ ans, l'interdiction de passer les conventions prévues au chapitre III.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -14039,8 +14078,8 @@ est assimilé au bailleur du logement pour le versement de cette aide.
 
 Toute personne qui, à l'aide soit d'une dissimulation, soit de tout autre moyen frauduleux, impose ou tente d'imposer au
 locataire ou à l'occupant d'un logement ayant fait l'objet d'une convention un loyer dépassant le prix fixé par cette
-convention est punie d'une amende de 30 000 F pouvant être portée au double en cas de récidive [*sanction*]. Le tribunal
-ordonne en outre le reversement des sommes indûment versées.
+convention est punie d'une amende de 4 500 euros pouvant être portée au double en cas de récidive. Le tribunal ordonne en
+outre le reversement des sommes indûment versées.
 
 **Liens relatifs à cet article**
 
@@ -14055,10 +14094,12 @@ ordonne en outre le reversement des sommes indûment versées.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L353-11
@@ -17245,11 +17286,14 @@ Il est interdit, dans les mêmes conditions, aux personnes physiques et morales 
 l'article L. 411-2, de faire usage, dans leurs contrats, prospectus, affiches et tous autres documents, de toute appellation
 susceptible de faire naître une confusion avec les organismes ci-dessus indiqués.
 
-Les contrevenants au présent article sont passibles d'une amende de 30 000 F et d'un emprisonnement de trois mois
-[*sanction*].
+Les contrevenants au présent article sont passibles d'une amende de 4 500 euros et d'un emprisonnement de trois mois.
 
 Les tribunaux peuvent ordonner l'insertion et l'affichage des jugements et la suppression des appellations interdites, à
 peine d'une astreinte pour chaque jour de retard.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -17260,10 +17304,12 @@ peine d'une astreinte pour chaque jour de retard.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -17282,8 +17328,8 @@ prêts avec hypothèque, de passer avec ces organismes ou avec leur clients des 
 d'imposer le choix d'un fournisseur, entrepreneur ou prestataire de service déterminé pour la réalisation d'une de ces
 opérations prévues au présent livre.
 
-La contravention à ces interdictions [*délit*] est punie d'une amende de 30 000 F [*sanction*]. La peine sera doublée en cas
-de récidive.
+La contravention à ces interdictions [*délit*] est punie d'une amende de 4 500 euros. La peine sera doublée en cas de
+récidive.
 
 **Liens relatifs à cet article**
 
@@ -17294,10 +17340,12 @@ de récidive.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -17319,8 +17367,8 @@ d'immeubles réalisés avec les organismes précités ou avec leurs clients, ain
 entrepreneurs qui exécutent des travaux pour le compte de ces organismes ou de leurs clients et, d'une façon générale, de la
 part de tout fournisseur.
 
-La contravention aux interdictions qui précèdent est punie d'une amende de 60 000 F et d'un emprisonnement de trois ans
-[*sanction*]. La peine est doublée en cas de récidive.
+La contravention aux interdictions qui précèdent est punie d'une amende de 9 000 euros et d'un emprisonnement de trois ans.
+La peine est doublée en cas de récidive.
 
 **Liens relatifs à cet article**
 
@@ -17331,10 +17379,12 @@ La contravention aux interdictions qui précèdent est punie d'une amende de 60 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -19783,7 +19833,7 @@ mois.
 
 Dans tous les immeubles destinés à la location et construits au moyen de crédits ouverts par le présent livre, il est
 interdit de louer en meublé ou de sous-louer un logement en meublé ou non meublé sous quelque forme que ce soit, sous peine
-d'une amende de 60 000 F [*sanction*].
+d'une amende de 9 000 euros.
 
 Les contrevenants sont exclus de tous les avantages et bénéfices concédés par le présent livre.
 
@@ -19807,7 +19857,7 @@ l'occasion des locations en meublé.
 
 	**Modifié par**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 28 () JORF 24 juillet 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -19819,6 +19869,11 @@ l'occasion des locations en meublé.
 	  - Code de la construction et de l'habitation. - art. R353-10 (V)
 	  - Code de la construction et de l'habitation. - art. R442-4 (V)
 	  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L442-8-1
@@ -21339,8 +21394,8 @@ documents comptables, copies de lettres, pièces de recettes et de dépenses.
 ###### Article L451-2-1
 
 Le fait de faire obstacle au contrôle de l'administration rend passible, après mise en demeure demeurée infructueuse, la
-personne morale contrôlée d'une amende de 100 000 F maximum. La pénalité est recouvrée au profit de l'Etat comme les créances
-étrangères à l'impôt et au domaine.
+personne morale contrôlée d'une amende de 15 000 euros maximum. La pénalité est recouvrée au profit de l'Etat comme les
+créances étrangères à l'impôt et au domaine.
 
 Lorsqu'un organisme ne respecte pas, pour un ou plusieurs logements, les règles d'attribution et d'affectation prévues au
 présent code, l'autorité administrative, après l'avoir mis en mesure de présenter ses observations, peut, sans préjudice de
@@ -21353,9 +21408,13 @@ l'équivalent de dix-huit mois du loyer en principal du ou des logements concern
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 162 () JORF 14 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
 
 	**Cité par**:
 
@@ -21365,6 +21424,11 @@ l'équivalent de dix-huit mois du loyer en principal du ou des logements concern
 	  - Code de la construction et de l'habitation. - art. R*441-5 (M)
 	  - Code de la construction et de l'habitation. - art. R*451-8 (VT)
 	  - Code de la construction et de l'habitation. - art. R441-2-8 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L451-5
@@ -22607,8 +22671,9 @@ la mainlevée de l'interdiction d'habiter et d'utiliser.
 
 ###### Article L511-6
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 500 000 F le fait de détruire, dégrader ou détériorer des locaux
-ayant fait l'objet de l'arrêté prévu aux articles L. 511-1 et L. 511-2, dans le but de faire quitter les lieux aux occupants.
+Est puni d'un emprisonnement de deux ans et d'une amende de 75 000 euros le fait de détruire, dégrader ou détériorer des
+locaux ayant fait l'objet de l'arrêté prévu aux articles L. 511-1 et L. 511-2, dans le but de faire quitter les lieux aux
+occupants.
 
 Le fait de contrevenir à l'interdiction édictée au deuxième alinéa de l'article L. 511-5 est puni des mêmes peines.
 
@@ -22621,9 +22686,9 @@ pénal, des infractions définies au présent article.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 179
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22639,6 +22704,11 @@ pénal, des infractions définies au présent article.
 	  - Code pénal - art. 121-2 (M)
 	  - Code de la construction et de l'habitation. - art. L511-1 (M)
 	  - Code de la construction et de l'habitation. - art. L511-5 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre II : Bâtiments insalubres.
@@ -22828,7 +22898,7 @@ portant interdiction définitive d'habiter et la date d'effet de cette interdict
 
 Toute menace ou tout acte d'intimidation à l'égard d'un occupant visé au dernier alinéa de l'article L. 521-1, en vue de le
 contraindre à renoncer aux droits qu'il détient en application des articles L. 521-1 à L. 521-3, est puni de deux ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
 pénal, des mêmes infractions.
@@ -22839,9 +22909,9 @@ pénal, des mêmes infractions.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 181
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22852,6 +22922,11 @@ pénal, des mêmes infractions.
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code de la construction et de l'habitation L521-1 à L521-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.
@@ -25511,7 +25586,7 @@ d'occupation à l'expiration de la réquisition.
 
 ###### Article L642-28
 
-I. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende :
+I. - Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende :
 
 1° Le fait de dissimuler, par des manoeuvres frauduleuses, la vacance de locaux ;
 
@@ -25531,14 +25606,19 @@ III. - Le tribunal peut également ordonner que les travaux de remise en état s
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre V : Sanctions et dispositions diverses.
@@ -25598,7 +25678,7 @@ la profession.
 ###### Article L651-2
 
 Toute personne qui enfreint les dispositions de l'article L. 631-7 ou qui ne se conforme pas aux conditions ou obligations
-imposées en application dudit article est condamnée à une amende civile de 1 000 F à 150 000 F.
+imposées en application dudit article est condamnée à une amende civile de 22 500 euros.
 
 Cette amende est prononcée à la requête du ministère public par le président du tribunal de grande instance du lieu de
 l'immeuble, statuant en référé ; le produit en est intégralement versé à l'agence nationale pour l'amélioration de l'habitat.
@@ -25613,11 +25693,11 @@ l'exécution des travaux nécessaires.
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 351
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -25630,17 +25710,22 @@ l'exécution des travaux nécessaires.
 
 	  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L651-3
 
 Quiconque a, pour l'une quelconque des déclarations prévues aux titres Ier (chapitre II), II (chapitre Ier), III et IV du
 présent livre, à l'exclusion des articles L. 612-1, L. 631-1 à L. 631-6, L. 641-12 et L. 641-14, ou par les textes pris pour
 leur application, sciemment fait de fausses déclarations, quiconque a, à l'aide de manoeuvres frauduleuses, dissimulé ou
-tenté de dissimuler les locaux soumis à déclaration, est passible d'un emprisonnement d'un an et d'une amende de 40 000 F ou
-de l'une de ces deux peines seulement.
+tenté de dissimuler les locaux soumis à déclaration, est passible d'un emprisonnement d'un an et d'une amende de 6 000 euros
+ou de l'une de ces deux peines seulement.
 
-En cas de récidive, l'amende est portée de 80 000 F. Le tribunal correctionnel prononce, en outre, la résiliation du bail et
-l'expulsion des locataires irrégulièrement installés.
+En cas de récidive, l'amende est portée de 12 000 euros. Le tribunal correctionnel prononce, en outre, la résiliation du bail
+et l'expulsion des locataires irrégulièrement installés.
 
 **Liens relatifs à cet article**
 
@@ -25651,10 +25736,12 @@ l'expulsion des locataires irrégulièrement installés.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -25671,7 +25758,7 @@ l'expulsion des locataires irrégulièrement installés.
 ###### Article L651-4
 
 Quiconque ne produit pas, dans les délais fixés, les déclarations prescrites par le présent livre et par les dispositions
-prises pour son application est passible d'une amende de 5 à 15 000 F.
+prises pour son application est passible d'une amende de 2 250 euros.
 
 Le ministère public poursuit d'office l'application de cette amende devant le président du tribunal de grande instance du
 lieu de l'immeuble, statuant en référé.
@@ -25684,7 +25771,7 @@ lieu de l'immeuble, statuant en référé.
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -25695,12 +25782,17 @@ lieu de l'immeuble, statuant en référé.
 	  - Code de la construction et de l'habitation. - art. L651-7 (V)
 	  - Code de la construction et de l'habitation. - art. L661-1 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L651-5
 
 Quiconque a sciemment perçu ou tenté de percevoir indûment une prime de déménagement ou de réinstallation ou de faire fixer
 cette prime à un taux supérieur à l'un de ceux fixés par l'arrêté prévu à l'article L. 631-4, est puni d'un emprisonnement de
-trois mois et d'une amende de 20 000 F ou de l'une de ces deux peines seulement. L'intéressé est, en outre, déchu de plein
+trois mois et d'une amende de 3 000 euros ou de l'une de ces deux peines seulement. L'intéressé est, en outre, déchu de plein
 droit du bénéfice des articles L. 631-1 à L. 631-6.
 
 **Liens relatifs à cet article**
@@ -25715,11 +25807,16 @@ droit du bénéfice des articles L. 631-1 à L. 631-6.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 354
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-1 (V)
+	  - Code de la construction et de l'habitation. - art. L631-4 (V)
 
 
 ###### Article L651-6
@@ -44294,18 +44391,24 @@ Les livrets d'épargne-logement et les droits appartenant à leurs titulaires ne
 ###### Article R*315-7
 
 Les titulaires d'un compte d'épargne-logement peuvent, sous réserve des dispositions de l'article R. 315-13, obtenir un prêt
-lorsque ce compte est ouvert depuis dix-huit mois au moins [*délai*] et lorsque le montant des intérêts acquis s'élève au
-moins à un montant fixé par arrêté du ministre chargé des finances et du ministre chargé de la construction et de
-l'habitation, en fonction du minimum exigé pour l'ouverture du compte ainsi que du taux d'intérêt appliqué aux dépôts.
+lorsque ce compte est ouvert depuis dix-huit mois au moins et lorsque le montant des intérêts acquis s'élève au moins à un
+montant fixé par arrêté du ministre chargé des finances et du ministre chargé de la construction et de l'habitation, en
+fonction du minimum exigé pour l'ouverture du compte ainsi que du taux d'intérêt appliqué aux dépôts. 
 
-Toutefois ce montant est abaissé à 150 francs lorsque le prêt est destiné au financement de travaux de réparation ou
+Toutefois ce montant est abaissé à 22,5 euros lorsque le prêt est destiné au financement de travaux de réparation ou
 d'amélioration dont la nature est fixée par l'arrêté du ministre chargé des finances et du ministre chargé de la construction
-et de l'habitation prévu à l'article R. 315-8.
+et de l'habitation prévu à l'article R. 315-8. 
 
 Sur la demande du titulaire du compte, l'organisme auprès duquel le compte est ouvert délivre une attestation indiquant que
 ces deux conditions sont remplies ; cette attestation permet au titulaire du compte de bénéficier d'une priorité pour
 l'attribution des primes et prêts spéciaux prévus par les articles L. 311-1 à L. 311-7 s'il satisfait aux conditions exigées
 pour leur attribution.
+
+**Nota:**
+
+Décret 2001-95 2001-02-02 art. 6 : les dispositions du présent décret sont applicables dans les territoires d'outre-mer et
+dans la collectivité territoriale de Mayotte lorsque les textes auxquels elles font référence sont applicables dans ces mêmes
+territoires et collectivités.
 
 **Liens relatifs à cet article**
 
@@ -44315,11 +44418,22 @@ pour leur attribution.
 
 	**Modifié par**:
 
-	  - Décret n°92-358 du 1 avril 1992 - art. 4 () JORF 3 avril 1992
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 6 (V)
+	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 	**Cité par**:
 
 	  - Décret n°2001-383 du 3 mai 2001 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L311-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*315-13 (V)
+	  - Code de la construction et de l'habitation. - art. R*315-8 (V)
 
 
 ###### Article R*315-8
@@ -47573,11 +47687,11 @@ travaux joint à la demande.
 
 ###### Article R323-6
 
-Pour déterminer le montant de la subvention, le montant des travaux pris en considération ne peut excéder 85 000 F par
-logement pouvant être porté à 130 000 F en cas d'augmentation de la surface habitable d'au moins 10 p. 100 dans les logements
-achevés au 31 décembre 1960. Toutefois, le représentant de l'Etat dans le département peut accorder des dérogations à ce
-montant de travaux pour des opérations réalisées sur des immeubles dégradés et pour des opérations de restructuration interne
-des immeubles ou de reprise de l'architecture extérieure.
+Pour déterminer le montant de la subvention, le montant des travaux pris en considération ne peut excéder 13 000 euros par
+logement pouvant être porté à 20 000 euros en cas d'augmentation de la surface habitable d'au moins 10 p. 100 dans les
+logements achevés au 31 décembre 1960. Toutefois, le représentant de l'Etat dans le département peut accorder des dérogations
+à ce montant de travaux pour des opérations réalisées sur des immeubles dégradés et pour des opérations de restructuration
+interne des immeubles ou de reprise de l'architecture extérieure.
 
 **Liens relatifs à cet article**
 
@@ -47587,11 +47701,17 @@ des immeubles ou de reprise de l'architecture extérieure.
 
 	**Modifié par**:
 
-	  - Décret n°93-98 du 20 janvier 1993 - art. 1 () JORF 26 janvier 1993
+	  - Décret n°2001-861 du 18 septembre 2001 - art. 1 () JORF 20 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R323-7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement 1103-97 CE 1997-06-17
+	  - TXT_SOURCE: Règlement 2866-98 CE 1998-12-31
+	  - TXT_SOURCE: Règlement 974-98 CE 1998-05-03
 
 
 ###### Article R323-7
@@ -53044,7 +53164,7 @@ Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal
 arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
 prévu à l'article R. 351-19.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+Le résultat est divisé par douze.
 
 Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 500 F mentionné à l'article R. 351-19. Les
 pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la limite supérieure de
@@ -53069,178 +53189,12 @@ l'intervalle dans lequel se situent les ressources appréciées conformément à
 
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 11 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 9 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-
-##### PARAGRAPHE III : Dispositions communes aux locataires et aux propriétaires.
-
-###### Article R351-22-2
-
-Le montant de l'aide personnalisée est arrondi au franc le plus proche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 17 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 7 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
-
-
-##### Sous-section 5 : Prime de déménagement.
-
-###### Article R351-25
-
-Le montant de la prime de déménagement à laquelle ouvre droit l'aide personnalisée est fixé dans la double limite des
-dépenses justifiées réellement engagées par le bénéficiaire et d'un plafond fixé, en fonction de la composition de la
-famille, par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et
-de la sécurité sociale.
-
-Le montant de cette prime est arrondi au franc le plus proche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°90-906 du 1 octobre 1990 - art. 1 () JORF 10 octobre 1990
-
-
-##### Sous-section 6 : Modalités de liquidation et de versement.
-
-###### Article R351-28-1
-
-En application du cinquième alinéa de l'article L. 351-11, les retenues sur les échéances d'aide personnalisée au logement à
-venir effectuées par l'organisme payeur en récupération d'un indu d'aide personnalisée au logement sont déterminées
-conformément aux dispositions suivantes :
-
-I. - Il est tenu compte :
-
-a) De l'ensemble des catégories de ressources prises en compte au II de l'article R. 351-5, perçues par le bénéficiaire et
-son conjoint durant l'année civile de référence précédant la période de paiement, prévue à l'article R. 351-4, au cours de
-laquelle est effectué le recouvrement de l'indu.
-
-Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la déduction des créances alimentaires mentionnées
-au 2° du II de l'article 156 du code général des impôts.
-
-Dans les cas visés à l'article R. 351-7 où les ressources ont été déterminées sur la base d'une évaluation forfaitaire, les
-revenus pris en compte s'entendent également avant tout abattement fiscal et déduction hormis la déduction des créances
-alimentaires mentionnées au 2° du II de l'article 156 du code général des impôts.
-
-Dans les situations visées aux articles R. 351-10 et R. 351-13-1, les revenus d'activité professionnelle et les indemnités de
-chômage de l'intéressé sont affectés d'un abattement de 30 %.
-
-Dans les situations visées à l'article R. 351-13, les revenus d'activité professionnelle de l'intéressé sont affectés d'un
-abattement de 30 %.
-
-Dans les situations visées aux articles R. 351-12, R. 351-14 et R. 351-14-1, il n'est pas tenu compte, selon le cas, des
-ressources du conjoint absent ou décédé, ou des revenus d'activité professionnelle et des indemnités de chômage de
-l'intéressé.
-
-Les revenus ainsi déterminés sont divisés par douze.
-
-b) Des prestations servies par les organismes débiteurs de prestations familiales, à l'exception de l'allocation de rentrée
-scolaire, des compléments d'allocation d'éducation spéciale liés aux périodes de retour au foyer, lorsqu'ils ne sont pas
-payés mensuellement, de l'allocation de garde d'enfant à domicile, de l'aide à la famille pour l'emploi d'une assistante
-maternelle agréée et sa majoration ; sont également exclus les versements d'allocation aux adultes handicapés et de son
-complément ainsi que ceux du revenu minimum d'insertion, lorsqu'ils sont liés aux périodes de congé ou de suspension de prise
-en charge mentionnées respectivement aux articles R. 821-8, R. 821-13, R. 821-14 du code de la sécurité sociale et à
-l'article 29 du décret n° 88-1111 du 12 décembre 1988 modifié relatif à la détermination du revenu minimum d'insertion et à
-l'allocation de revenu minimum d'insertion et modifiant le code de la sécurité sociale.
-
-Les prestations mentionnées à l'alinéa précédent sont constituées des prestations dues au titre de la première mensualité sur
-laquelle porte la récupération.
-
-c) Des charges de logement acquittées mensuellement au titre de la résidence principale et composées soit du montant du loyer
-principal, soit du montant de la mensualité de remboursement d'emprunt, attestées par la pièce justificative fournie pour
-l'attribution de l'aide.
-
-II. - Le revenu mensuel (R) pris en considération pour le calcul des retenues mensuelles à effectuer correspond au montant
-des revenus visés au I (a) majoré des prestations visées au I (b), diminué des charges de logement visées au I (c) ci-dessus.
-
-Ce revenu est pondéré selon la formule :   R  , dans laquelle N
-
-N
-
-représente la composition de la famille appréciée comme suit :
-
-- personne seule : 1,5 part ;
-
-- ménage : 2 parts ;
-
-- par enfant à charge : 0,5 part.
-
-III. - Le montant mensuel du prélèvement effectué sur les prestations à échoir est calculé sur le revenu mensuel pondéré
-résultant du II, dans les conditions suivantes :
-
-25 % sur la tranche de revenus comprise entre 1 333 F et 2 000 F ;
-
-35 % sur la tranche de revenus comprise entre 2 001 F et 3 000 F ;
-
-45 % sur la tranche de revenus comprise entre 3 001 F et 4 000 F ;
-
-60 % sur la tranche de revenus supérieure à 4 001 F.
-
-Il est opéré une retenue forfaitaire de 200 F sur la tranche de revenu inférieure à 1 333 F.
-
-Les tranches de revenus sur lesquelles sont effectuées les retenues ou la retenue forfaitaire sont revalorisées au 1er
-juillet de chaque année conformément à l'évolution en moyenne annuelle des prix à la consommation hors tabac de l'année
-civile précédente, par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'agriculture. Ces
-montants sont arrondis au franc le plus proche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Décret n°88-1111 du 12 décembre 1988 - art. 29 (M)
-	  - CGI 156
-	  - Code de la sécurité sociale. - art. R821-13 (M)
-	  - Code de la sécurité sociale. - art. R821-14 (M)
-	  - Code de la sécurité sociale. - art. R821-8 (M)
-	  - Code de la construction et de l'habitation. - art. L351-11 (M)
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-12 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
-	**Créé par**:
-
-	  - Décret n°99-815 du 16 septembre 1999 - art. 1 () JORF 18 septembre 1999
-
-	**Cité par**:
-
-	  - Arrêté du 26 juin 2003 - art. 3 (V)
-	  - Arrêté du 16 juillet 2004 - art. 4 (V)
-	  - Arrêté du 10 juillet 2007 - art. 4 (V)
-	  - Arrêté du 31 décembre 2008 - art. 4 (V)
-	  - Arrêté du 30 décembre 2010 - art. 4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-28-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 
 
 ##### Section 1 : Aide personnalisée
@@ -54512,6 +54466,24 @@ laquelle ouvre droit l'aide personnalisée, la différence est versée par l'org
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R351-25
+
+Le montant de la prime de déménagement à laquelle ouvre droit l'aide personnalisée est fixé dans la double limite des
+dépenses justifiées réellement engagées par le bénéficiaire et d'un plafond fixé, en fonction de la composition de la
+famille, par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et
+de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
+
+
 ##### Sous-section 6 : Modalités de liquidation et de versement.
 
 ###### Article R351-26
@@ -54648,6 +54620,124 @@ la même périodicité que le paiement de la redevance.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-66 (M)
+
+
+###### Article R351-28-1
+
+En application du cinquième alinéa de l'article L. 351-11, les retenues sur les échéances d'aide personnalisée au logement à
+venir effectuées par l'organisme payeur en récupération d'un indu d'aide personnalisée au logement sont déterminées
+conformément aux dispositions suivantes :
+
+I. - Il est tenu compte :
+
+a) De l'ensemble des catégories de ressources prises en compte au II de l'article R. 351-5, perçues par le bénéficiaire et
+son conjoint durant l'année civile de référence précédant la période de paiement, prévue à l'article R. 351-4, au cours de
+laquelle est effectué le recouvrement de l'indu.
+
+Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la déduction des créances alimentaires mentionnées
+au 2° du II de l'article 156 du code général des impôts.
+
+Dans les cas visés à l'article R. 351-7 où les ressources ont été déterminées sur la base d'une évaluation forfaitaire, les
+revenus pris en compte s'entendent également avant tout abattement fiscal et déduction hormis la déduction des créances
+alimentaires mentionnées au 2° du II de l'article 156 du code général des impôts.
+
+Dans les situations visées aux articles R. 351-10 et R. 351-13-1, les revenus d'activité professionnelle et les indemnités de
+chômage de l'intéressé sont affectés d'un abattement de 30 %.
+
+Dans les situations visées à l'article R. 351-13, les revenus d'activité professionnelle de l'intéressé sont affectés d'un
+abattement de 30 %.
+
+Dans les situations visées aux articles R. 351-12, R. 351-14 et R. 351-14-1, il n'est pas tenu compte, selon le cas, des
+ressources du conjoint absent ou décédé, ou des revenus d'activité professionnelle et des indemnités de chômage de
+l'intéressé.
+
+Les revenus ainsi déterminés sont divisés par douze.
+
+b) Des prestations servies par les organismes débiteurs de prestations familiales, à l'exception de l'allocation de rentrée
+scolaire, des compléments d'allocation d'éducation spéciale liés aux périodes de retour au foyer, lorsqu'ils ne sont pas
+payés mensuellement, de l'allocation de garde d'enfant à domicile, de l'aide à la famille pour l'emploi d'une assistante
+maternelle agréée et sa majoration ; sont également exclus les versements d'allocation aux adultes handicapés et de son
+complément ainsi que ceux du revenu minimum d'insertion, lorsqu'ils sont liés aux périodes de congé ou de suspension de prise
+en charge mentionnées respectivement aux articles R. 821-8, R. 821-13, R. 821-14 du code de la sécurité sociale et à
+l'article 29 du décret n° 88-1111 du 12 décembre 1988 modifié relatif à la détermination du revenu minimum d'insertion et à
+l'allocation de revenu minimum d'insertion et modifiant le code de la sécurité sociale.
+
+Les prestations mentionnées à l'alinéa précédent sont constituées des prestations dues au titre de la première mensualité sur
+laquelle porte la récupération.
+
+c) Des charges de logement acquittées mensuellement au titre de la résidence principale et composées soit du montant du loyer
+principal, soit du montant de la mensualité de remboursement d'emprunt, attestées par la pièce justificative fournie pour
+l'attribution de l'aide.
+
+II. - Le revenu mensuel (R) pris en considération pour le calcul des retenues mensuelles à effectuer correspond au montant
+des revenus visés au I (a) majoré des prestations visées au I (b), diminué des charges de logement visées au I (c) ci-dessus.
+
+Ce revenu est pondéré selon la formule :   R  , dans laquelle N
+
+N
+
+représente la composition de la famille appréciée comme suit :
+
+- personne seule : 1,5 part ;
+
+- ménage : 2 parts ;
+
+- par enfant à charge : 0,5 part.
+
+III. - Le montant mensuel du prélèvement effectué sur les prestations à échoir est calculé sur le revenu mensuel pondéré
+résultant du II, dans les conditions suivantes :
+
+25 % sur la tranche de revenus comprise entre 1 333 F et 2 000 F ;
+
+35 % sur la tranche de revenus comprise entre 2 001 F et 3 000 F ;
+
+45 % sur la tranche de revenus comprise entre 3 001 F et 4 000 F ;
+
+60 % sur la tranche de revenus supérieure à 4 001 F.
+
+Il est opéré une retenue forfaitaire de 200 F sur la tranche de revenu inférieure à 1 333 F.
+
+Les tranches de revenus sur lesquelles sont effectuées les retenues ou la retenue forfaitaire sont revalorisées au 1er
+juillet de chaque année conformément à l'évolution en moyenne annuelle des prix à la consommation hors tabac de l'année
+civile précédente, par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 156
+	  - Décret n°88-1111 du 12 décembre 1988 - art. 29 (M)
+	  - Code de la sécurité sociale. - art. R821-13 (M)
+	  - Code de la sécurité sociale. - art. R821-14 (M)
+	  - Code de la sécurité sociale. - art. R821-8 (M)
+	  - Code de la construction et de l'habitation. - art. L351-11 (M)
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-12 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
+
+	**Cité par**:
+
+	  - Arrêté du 26 juin 2003 - art. 3 (V)
+	  - Arrêté du 16 juillet 2004 - art. 4 (V)
+	  - Arrêté du 10 juillet 2007 - art. 4 (V)
+	  - Arrêté du 31 décembre 2008 - art. 4 (V)
+	  - Arrêté du 30 décembre 2010 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-28-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 
 
 ###### Article R351-28-2
@@ -55691,6 +55781,39 @@ des travailleurs migrants mentionnés aux 2° et 3° du deuxième alinéa de l'a
 	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 
 
+###### Article R351-60
+
+Le montant de l'aide personnalisée est obtenu par application de la formule : A. P. L. = K (E - E0) dans laquelle :
+
+a) A. P. L. représente le montant mensuel de l'aide personnalisée ;
+
+b) K représente le coefficient de prise en charge défini à l'article R. 351-61 ou R. 351-61-1 ;
+
+c) E représente l'équivalence de loyer et de charges locatives telle que définie aux articles R. 353-156 à R. 353-160, prise
+en compte dans la limite d'une équivalence de loyer et de charges locatives de référence fixée par arrêté conjoint des
+ministres chargés de la sécurité sociale, de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la
+construction et de l'habitation et de l'agriculture ;
+
+d) E0 représente l'équivalence de loyer et de charges locatives minima, telle que définie à l'article R. 351-62 ou R.
+351-62-1, prise en compte pour le calcul de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
+
+
 ###### Article R351-62-2
 
 La dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges locatives prise en compte (E) le
@@ -55833,45 +55956,6 @@ applicables aux personnes résidant dans un logement foyer.
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
 
-###### Article R351-60
-
-Le montant de l'aide personnalisée est obtenu par application de la formule : A. P. L. = K (E - E0) dans laquelle :
-
-a) A. P. L. représente le montant mensuel de l'aide personnalisée ;
-
-b) K représente le coefficient de prise en charge défini à l'article R. 351-61 ou R. 351-61-1 ;
-
-c) E représente l'équivalence de loyer et de charges locatives telle que définie aux articles R. 353-156 à R. 353-160, prise
-en compte dans la limite d'une équivalence de loyer et de charges locatives de référence fixée par arrêté conjoint des
-ministres chargés de la sécurité sociale, de l'action sociale, des travailleurs immigrés, du Trésor, du budget, de la
-construction et de l'habitation et de l'agriculture ;
-
-d) E0 représente l'équivalence de loyer et de charges locatives minima, telle que définie à l'article R. 351-62 ou R.
-351-62-1, prise en compte pour le calcul de l'aide personnalisée.
-
-Le montant de l'aide personnalisée au logement est arrondi au franc le plus proche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
-
-	**Modifié par**:
-
-	  - Décret n°90-906 du 1 octobre 1990 - art. 3 () JORF 10 octobre 1990
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-22 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (T)
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-
 ###### Article R351-61
 
 Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule :
@@ -56008,7 +56092,7 @@ L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un mon
 fixée par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du
 coefficient N prévu à l'article R. 351-61.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+Le résultat est divisé par douze.
 
 L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 500 F mentionné à
 l'article R. 351-61. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
@@ -56031,7 +56115,7 @@ limite supérieure de l'intervalle dans lequel se situent les ressources appréc
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 9 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+	  - Décret n°2001-1037 du 5 novembre 2001 - art. 9 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -62586,8 +62670,8 @@ R. 331-25 et au titre VIII du livre III du présent code ainsi qu'aux participat
 
 En région Ile-de-France, pour l'acquisition de fonds de commerce d'hôtels meublés et, le cas échéant, pour la réalisation des
 travaux d'amélioration correspondants, une subvention de 30 % maximum des coûts d'acquisition et de travaux, dans la limite
-de 50 000 F par chambre, peut être versée aux organismes dont l'un des objets est de contribuer au logement des personnes
-défavorisées et agréés à cette fin par le représentant de l'Etat dans le département.
+de 7 622,45 euros par chambre, peut être versée aux organismes dont l'un des objets est de contribuer au logement des
+personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
@@ -62595,9 +62679,9 @@ défavorisées et agréés à cette fin par le représentant de l'Etat dans le d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -69157,23 +69241,24 @@ la santé publique, assujettis aux dispositions des articles R. 431-8 à R. 431-
 Les organismes d'habitations à loyer modéré ayant obtenu des prêts de l'Etat par application du présent code sont tenus de
 verser, à la fin de chaque trimestre, à la caisse des dépôts et consignations, le montant des remboursements anticipés qu'ils
 peuvent avoir reçus, au cours du trimestre, de leurs emprunteurs hypothécaires ou locataires acquéreurs. Ces versements,
-arrondis à un multiple de 2 francs, doivent être appuyés d'un état nominatif indiquant le nom des emprunteurs ayant opéré des
-remboursements anticipés, le montant du remboursement effectué par chacun d'eux, la date à laquelle le prêt avait été
+arrondis à un multiple de 0,30 euro, doivent être appuyés d'un état nominatif indiquant le nom des emprunteurs ayant opéré
+des remboursements anticipés, le montant du remboursement effectué par chacun d'eux, la date à laquelle le prêt avait été
 consenti, ainsi que la durée de ce prêt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret  1926-09-18 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Modifié par**:
 
-	  - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier.
@@ -70112,11 +70197,11 @@ déterminées par lesdits articles.
 
 Lorsque, par les soins de l'agent judiciaire du Trésor, des sommes non payées, soit par une association, soit par une société
 ou union de sociétés de secours mutuels, ont dû être prélevées sur le cautionnement, la reconstitution du cautionnement au
-chiffre de 1 000 F doit être effectuée dans un délai maximum d'un an. Si cette reconstitution n'est pas effectuée dans ledit
-délai, le remboursement du solde des emprunts devient exigible un mois après simple mise en demeure par lettre recommandée.
-Le cautionnement est restitué sur justification du remboursement intégral des avances de l'Etat. Dans les mêmes conditions,
-il met fin à l'affectation de fonds opérée sur les sociétés ou unions de sociétés de secours mutuels reconnues d'utilité
-publique ou approuvées.
+chiffre de 152,45 euros doit être effectuée dans un délai maximum d'un an. Si cette reconstitution n'est pas effectuée dans
+ledit délai, le remboursement du solde des emprunts devient exigible un mois après simple mise en demeure par lettre
+recommandée. Le cautionnement est restitué sur justification du remboursement intégral des avances de l'Etat. Dans les mêmes
+conditions, il met fin à l'affectation de fonds opérée sur les sociétés ou unions de sociétés de secours mutuels reconnues
+d'utilité publique ou approuvées.
 
 **Liens relatifs à cet article**
 
@@ -70127,6 +70212,10 @@ publique ou approuvées.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 3 : Dispositions communes.
@@ -71809,6 +71898,51 @@ ressources de l'ensemble des personnes vivant au foyer. Ces ressources sont appr
 	  - Décret n°98-1028 du 13 novembre 1998 - art. 1 () JORF 15 novembre 1998
 
 
+###### Article *R441-21
+
+En l'absence de délibération exécutoire fixant les modalités de calcul du supplément de loyer de solidarité applicables aux
+logements de l'organisme d'habitations à loyer modéré dans le département, le supplément de loyer est calculé dans les
+conditions prévues au présent article.
+
+Aucun supplément de loyer n'est exigible lorsque le dépassement du plafond de ressources est inférieur à 60 p. 100.
+
+Dans le cas où ce dépassement est égal ou supérieur à 60 p. 100, l'organisme calcule le supplément de loyer en fonction :
+
+1° Du coefficient de dépassement du plafond de ressources dont la valeur est de :
+
+1,5 lorsque le dépassement du plafond de ressources est au moins égal à 60 p. 100 et inférieur à 80 p. 100 ;
+
+2 lorsque le dépassement du plafond de ressources est au moins égal à 80 p. 100 ;
+
+2° Du supplément de loyer de référence dont le montant mensuel par mètre carré habitable est fixé à :
+
+0,50 euro pour les logements situés à Paris et dans les communes limitrophes ;
+
+0,40 euro pour les logements situés dans les autres communes de l'agglomération de Paris et dans les communes des zones
+d'urbanisation et des villes nouvelles de la région d'Ile-de-France ;
+
+0,32 euro pour les logements situés dans le reste de la région d'Ile-de-France, dans les agglomérations et communautés
+urbaines de plus de 100 000 habitants, dans les communes rattachées à un établissement public de coopération intercommunale
+compétent en matière de programme local de l'habitat regroupant plus de 100 000 habitants au dernier recensement partiel
+connu et dans les zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France ;
+
+0,08 euro pour les logements situés dans les départements d'outre-mer et dans le reste du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre en vigueur le 1er janvier 2002
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-22 (VT)
+
+
 ###### Article *R441-23
 
 Le dépassement du plafond de ressources est déterminé au cours de l'année civile en fonction :
@@ -71888,6 +72022,21 @@ l'article *R441-25 ne sont plus en vigueur à cette date.
 	  - Code de la construction et de l'habitation. - art. L441-9 (V)
 
 
+###### Article *R441-26
+
+Le montant maximum de l'indemnité pour frais de dossier prévue à l'article L. 441-9 est égal à 22,87 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre en vigueur le 1er janvier 2002
+
+
 ###### Article R441-19
 
 Les dispositions de la présente sous-section sont applicables aux organismes d'habitations à loyer modéré pour les logements
@@ -71915,25 +72064,6 @@ mentionnés au premier alinéa de l'article L. 441-1, à l'exception des logemen
 
 	  - Code de la construction et de l'habitation. - art. *R441-31 (V)
 	  - Code de la construction et de l'habitation. - art. L441-1 (V)
-
-
-###### Article R441-26
-
-Le montant maximum de l'indemnité pour frais de dossier prévue à l'article L. 441-9 est égal à 150 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L441-9 (M)
 
 
 ###### Article R441-27
@@ -72096,53 +72226,6 @@ chapitre unique du titre III du livre III ;
 ##### Section 2: Supplément de loyer de solidarité.
 
 ##### Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré.
-
-###### Article R441-21
-
-En l'absence de délibération exécutoire fixant les modalités de calcul du supplément de loyer de solidarité applicables aux
-logements de l'organisme d'habitations à loyer modéré dans le département, le supplément de loyer est calculé dans les
-conditions prévues au présent article.
-
-Aucun supplément de loyer n'est exigible lorsque le dépassement du plafond de ressources est inférieur à 40 p. 100.
-
-Dans le cas où ce dépassement est égal ou supérieur à 40 p. 100, l'organisme calcule le supplément de loyer en fonction :
-
-1° Du coefficient de dépassement du plafond de ressources dont la valeur est de :
-
-1 lorsque le dépassement du plafond de ressources est au moins égal à 40 p. 100 et inférieur à 60 p. 100 ;
-
-1,5 lorsque le dépassement du plafond de ressources est au moins égal à 60 p. 100 et inférieur à 80 p. 100 ;
-
-2 lorsque le dépassement du plafond de ressources est au moins égal à 80 p. 100 ;
-
-2° Du supplément de loyer de référence dont le montant mensuel par mètre carré habitable est fixé à :
-
-3,30 F pour les logements situés à Paris et dans les communes limitrophes ;
-
-2,60 F pour les logements situés dans les autres communes de l'agglomération de Paris et dans les communes des zones
-d'urbanisation et des villes nouvelles de la région d'Ile-de-France ;
-
-2,10 F pour les logements situés dans le reste de la région d'Ile-de-France, dans les agglomérations et communautés urbaines
-de plus de 100 000 habitants, dans les communes rattachées à un établissement public de coopération intercommunale compétent
-en matière de programme local de l'habitat regroupant plus de 100 000 habitants au dernier recensement partiel connu et dans
-les zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France ;
-
-0,50 F pour les logements situés dans les départements d'outre-mer et dans le reste du territoire national.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R441-22 (VT)
-
 
 ###### Article R441-22
 
