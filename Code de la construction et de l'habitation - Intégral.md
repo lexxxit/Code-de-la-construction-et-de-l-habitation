@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-02-01
+Version Consolidée au 2005-02-12
 
 # Partie législative
 
@@ -280,10 +280,12 @@ collectives ainsi que des équipements communs et de sécurité.
 
 ###### Article L111-7
 
-Les dispositions architecturales et les aménagements des locaux d'habitation, des lieux de travail et des établissements et
-installations recevant du public, notamment les locaux scolaires, universitaires et de formation, doivent être tels que ces
-locaux et installations soient accessibles aux personnes handicapées. Les modalités d'application des dispositions du présent
-article sont fixées par décret en Conseil d'Etat.
+Les dispositions architecturales, les aménagements et équipements intérieurs et extérieurs des locaux d'habitation, qu'ils
+soient la propriété de personnes privées ou publiques, des établissements recevant du public, des installations ouvertes au
+public et des lieux de travail doivent être tels que ces locaux et installations soient accessibles à tous, et notamment aux
+personnes handicapées, quel que soit le type de handicap, notamment physique, sensoriel, cognitif, mental ou psychique, dans
+les cas et selon les conditions déterminés aux articles L. 111-7-1 à L. 111-7-3. Ces dispositions ne sont pas obligatoires
+pour les propriétaires construisant ou améliorant un logement pour leur propre usage.
 
 **Liens relatifs à cet article**
 
@@ -297,7 +299,8 @@ article sont fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°91-663 du 13 juillet 1991 - art. 1 () JORF 19 juillet 1991
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
 
 	**Cité par**:
 
@@ -329,6 +332,211 @@ article sont fixées par décret en Conseil d'Etat.
 	  - Code général des collectivités territoriales - art. R1614-88 (V)
 	  - Code général des collectivités territoriales - art. R1614-89 (V)
 	  - Code général des collectivités territoriales - art. R1614-90 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L111-7-1 à L111-7-3
+
+
+###### Article L111-7-1
+
+Des décrets en Conseil d'Etat fixent les modalités relatives à l'accessibilité aux personnes handicapées prévue à l'article
+L. 111-7 que doivent respecter les bâtiments ou parties de bâtiments nouveaux. Ils précisent les modalités particulières
+applicables à la construction de maisons individuelles.
+
+Les mesures de mise en accessibilité des logements sont évaluées dans un délai de trois ans à compter de la publication de la
+loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes
+handicapées et une estimation de leur impact financier sur le montant des loyers est réalisée afin d'envisager, si
+nécessaire, les réponses à apporter à ce phénomène.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 8 (VD)
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+	  - Loi n°2013-569 du 1er juillet 2013 - art. 1 (V)
+	  - Décret n°2017-688 du 28 avril 2017 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-4-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-7 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-4 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-18-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-6 (V)
+	  - Code de la construction et de l'habitation. - art. R111-1-2 (V)
+	  - Code de procédure pénale - art. 2-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2005-102 2005-02-11
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+
+
+###### Article L111-7-2
+
+Des décrets en Conseil d'Etat fixent les modalités relatives à l'accessibilité aux personnes handicapées prévue à l'article
+L. 111-7 que doivent respecter les bâtiments ou parties de bâtiments d'habitation existants lorsqu'ils font l'objet de
+travaux, notamment en fonction de la nature des bâtiments et parties de bâtiments concernés, du type de travaux entrepris
+ainsi que du rapport entre le coût de ces travaux et la valeur des bâtiments au-delà duquel ces modalités s'appliquent. Ils
+prévoient dans quelles conditions des dérogations motivées peuvent être autorisées en cas d'impossibilité technique ou de
+contraintes liées à la préservation du patrimoine architectural, ou lorsqu'il y a disproportion manifeste entre les
+améliorations apportées et leurs conséquences. Ces décrets sont pris après avis du Conseil national consultatif des personnes
+handicapées.
+
+En cas de dérogation portant sur un bâtiment appartenant à un propriétaire possédant un parc de logements dont le nombre est
+supérieur à un seuil fixé par décret en Conseil d'Etat, les personnes handicapées affectées par cette dérogation bénéficient
+d'un droit à être relogées dans un bâtiment accessible au sens de l'article L. 111-7, dans des conditions fixées par le
+décret en Conseil d'Etat susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1326 du 5 novembre 2014 (V)
+	  - Code de l'urbanisme - art. L313-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-7-4 (M)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
+	  - Code du patrimoine. - art. L641-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+
+
+###### Article L111-7-3
+
+Les établissements existants recevant du public doivent être tels que toute personne handicapée puisse y accéder, y circuler
+et y recevoir les informations qui y sont diffusées, dans les parties ouvertes au public. L'information destinée au public
+doit être diffusée par des moyens adaptés aux différents handicaps.
+
+Des décrets en Conseil d'Etat fixent pour ces établissements, par type et par catégorie, les exigences relatives à
+l'accessibilité prévues à l'article L. 111-7 et aux prestations que ceux-ci doivent fournir aux personnes handicapées. Pour
+faciliter l'accessibilité, il peut être fait recours aux nouvelles technologies de la communication et à une signalétique
+adaptée.
+
+Les établissements recevant du public existants devront répondre à ces exigences dans un délai, fixé par décret en Conseil
+d'Etat, qui pourra varier par type et catégorie d'établissement, sans excéder dix ans à compter de la publication de la loi
+n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes
+handicapées.
+
+Ces décrets, pris après avis du Conseil national consultatif des personnes handicapées, précisent les dérogations
+exceptionnelles qui peuvent être accordées aux établissements recevant du public après démonstration de l'impossibilité
+technique de procéder à la mise en accessibilité ou en raison de contraintes liées à la conservation du patrimoine
+architectural ou lorsqu'il y a disproportion manifeste entre les améliorations apportées et leurs conséquences.
+
+Ces dérogations sont accordées après avis conforme de la commission départementale consultative de la protection civile, de
+la sécurité et de l'accessibilité, et elles s'accompagnent obligatoirement de mesures de substitution pour les établissements
+recevant du public et remplissant une mission de service public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2004 - art. 1 (V)
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-4 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7-5 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+	  - Code de la construction et de l'habitation. - art. L161-3 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-32 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-33 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-47 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-60 (V)
+	  - Code de la construction et de l'habitation. - art. R125-1-2 (V)
+	  - Code de la santé publique - art. D4364-14 (V)
+	  - Code de la santé publique - art. D5232-13 (V)
+	  - Code des postes et des communications électroni... - art. L3-2 (VD)
+	  - Code des postes et des communications électroni... - art. R1-2-6 (V)
+	  - Code des transports - art. L1112-1 (V)
+	  - Code des transports - art. L1112-2-1 (V)
+
+	**Cite**:
+
+	  - Loi n°2005-102 2005-02-11
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+
+
+###### Article L111-7-4
+
+Un décret en Conseil d'Etat définit les conditions dans lesquelles, à l'issue de l'achèvement des travaux prévus aux articles
+L. 111-7-1, L. 111-7-2 et L. 111-7-3 et soumis à permis de construire, le maître d'ouvrage doit fournir à l'autorité qui a
+délivré ce permis un document attestant de la prise en compte des règles concernant l'accessibilité. Cette attestation est
+établie par un contrôleur technique visé à l'article L. 111-23 ou par une personne physique ou morale satisfaisant à des
+critères de compétence et d'indépendance déterminés par ce même décret. Ces dispositions ne s'appliquent pas pour les
+propriétaires construisant ou améliorant leur logement pour leur propre usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
+	  - Arrêté du 19 avril 2017 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. D111-19-46 (V)
+	  - Code de la construction et de l'habitation. - art. L161-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-21 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-22 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-19-23 (M)
+	  - Code de la construction et de l'habitation. - art. R111-19-27 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-28 (V)
+	  - Code général des collectivités territoriales - art. R1614-79 (V)
+	  - Code général des collectivités territoriales - art. R1614-88 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-23 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7-1 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7-2 (M)
+	  - Code de la construction et de l'habitation. - art. L111-7-3 (M)
 
 
 ###### Article L111-8
@@ -473,6 +681,27 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Code de la construction et de l'habitation. - art. R*111-19-20 (M)
 	  - Code de la construction et de l'habitation. - art. R111-19-29 (V)
 	  - Code de la santé publique - art. R2324-18 (VD)
+
+
+###### Article L111-8-3-1
+
+L'autorité administrative peut décider la fermeture d'un établissement recevant du public qui ne répond pas aux prescriptions
+de l'article L. 111-7-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-7-3 (M)
 
 
 ###### Article L111-8-4
@@ -1129,6 +1358,9 @@ Le contrôle technique peut, par décret en Conseil d'Etat, être rendu obligato
 de leur nature, de leur importance ou de leur localisation dans des zones d'exposition à des risques naturels ou
 technologiques, présentent des risques particuliers pour la sécurité des personnes.
 
+Dans les cas prévus au premier alinéa, le contrôle technique porte également sur le respect des règles relatives à
+l'accessibilité aux personnes handicapées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -1137,7 +1369,8 @@ technologiques, présentent des risques particuliers pour la sécurité des pers
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 78 () JORF 3 juillet 2003
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V) JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
 
 	**Cité par**:
 
@@ -2040,7 +2273,8 @@ Conformément à l'article L. 421-3, alinéa 2, du code de l'urbanisme, les disp
 
 Des mesures complémentaires de sauvegarde et de sécurité et des moyens d'évacuation et de défense contre l'incendie peuvent
 être imposés par décrets aux propriétaires, aux constructeurs et aux exploitants de bâtiments et établissements ouverts au
-public.
+public. Ces mesures complémentaires doivent tenir compte des besoins particuliers des personnes handicapées ou à mobilité
+réduite.
 
 **Liens relatifs à cet article**
 
@@ -2061,6 +2295,10 @@ public.
 	  - Code de la construction et de l'habitation. - art. L111-8 (V)
 	  - Code du patrimoine - art. L621-10 (VD)
 	  - Code du sport. - art. L331-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 42 () JORF 12 février 2005
 
 
 ###### Article L123-3
@@ -3583,11 +3821,12 @@ Ainsi qu'il est dit à l'article L. 460-1 du code de l'urbanisme :
 "Le représentant de l'Etat dans le département, le maire ou ses délégués ainsi que les fonctionnaires et les agents
 commissionnés à cet effet par le ministre chargé de l'urbanisme et assermentés peuvent à tout moment visiter les
 constructions en cours, procéder aux vérifications qu'ils jugent utiles et se faire communiquer tous documents techniques se
-rapportant à la réalisation des bâtiments. Ce droit de visite et de communication peut aussi être exercé après l'achèvement
-des travaux pendant deux ans.
+rapportant à la réalisation des bâtiments, et en particulier ceux concernant l'accessibilité aux personnes handicapées quel
+que soit le type de handicap. Ce droit de visite et de communication peut aussi être exercé après l'achèvement des travaux
+pendant deux ans.
 
 L'autorité compétente pour la conservation du domaine public en bordure duquel la construction est en cours peut, dans les
-mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement ont été respectés".
+mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement ont été respectés."
 
 **Liens relatifs à cet article**
 
@@ -3610,6 +3849,10 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 	  - Code de la santé publique - art. R1334-29-4 (VD)
 	  - Code de la santé publique - art. R1334-29-5 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L460-1 (M)
@@ -3619,11 +3862,11 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 
 ###### Article L152-1
 
-Les infractions aux dispositions des articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, sont
-constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des
-collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de l'habitation
-suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à preuve du
-contraire.
+Les infractions aux dispositions des articles L. 111-4, L. 111-7 à L. 111-7-4, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L.
+131-4, sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de
+l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de
+l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à
+preuve du contraire.
 
 **Liens relatifs à cet article**
 
@@ -3633,7 +3876,7 @@ contraire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
+	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -3644,10 +3887,14 @@ contraire.
 	  - Code de la construction et de l'habitation. - art. R152-3 (V)
 	  - Code de procédure pénale - art. 398-1 (V)
 
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 101
+
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L111-4, L111-7 à L111-7-4, L111-8, L111-9, L112-17, L125-3, L131-4
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
-	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 	  - Code de la construction et de l'habitation. - art. L112-17 (V)
@@ -3712,7 +3959,7 @@ article. Dans ce cas, le préfet reçoit, au lieu et place du maire, les avis et
 
 En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, une amende de
 45 000 euros et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
-les personnes mentionnées à l'article L. 152-4 (2e alinéa).
+les personnes mentionnées au premier alinéa de l'article L. 152-4.
 
 **Liens relatifs à cet article**
 
@@ -3720,15 +3967,9 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
 
 	**Anciens textes**:
 
@@ -3738,34 +3979,51 @@ les personnes mentionnées à l'article L. 152-4 (2e alinéa).
 
 	  - Code de la construction et de l'habitation. - art. L152-4 (M)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L152-4
 
-L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-4, L.
-111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou par les
-autorisations délivrées en conformité avec leurs dispositions, est punie d'une amende de 45 000 euros. En cas de récidive, la
-peine d'amende sera à 75 000 euros et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal peut en outre
-ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement, la diffusion
-d'un message, dont il fixe les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs
-journaux qu'il désigne.
+Est puni d'une amende de 45 000 euros le fait, pour les utilisateurs du sol, les bénéficiaires des travaux, les architectes,
+les entrepreneurs ou toute autre personne responsable de l'exécution de travaux, de méconnaître les obligations imposées par
+les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, par les règlements pris pour leur
+application ou par les autorisations délivrées en conformité avec leurs dispositions. En cas de récidive, la peine est portée
+à six mois d'emprisonnement et 75 000 euros d'amende.
 
-Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
-travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
-
-Ces peines sont également applicables :
+Les peines prévues à l'alinéa précédent sont également applicables :
 
 1° En cas d'inexécution, dans les délais prescrits, de tous travaux accessoires d'aménagement ou de démolition imposés par
-les autorisations visées au premier alinéa ;
+les autorisations mentionnées au premier alinéa ;
 
 2° En cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des
 délais impartis pour le rétablissement des lieux dans leur état antérieur ou la réaffectation du sol à son ancien usage.
 
 Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
-Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
+"Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
 quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 3 750 euros.
 
-En outre, un emprisonnement de un mois pourra être prononcé.
+"En outre, un emprisonnement d'un mois pourra être prononcé."
+
+Les personnes physiques coupables de l'un des délits prévus au présent article encourent également la peine complémentaire
+d'affichage ou de diffusion, par la presse écrite ou par tout moyen de communication audiovisuelle, de la décision prononcée,
+dans les conditions prévues à l'article 131-35 du code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
+pénal, des infractions aux dispositions de l'article L. 111-7, ainsi que des règlements pris pour son application ou des
+autorisations délivrées en conformité avec leurs dispositions. Elles encourent les peines suivantes :
+
+a) L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+b) La peine complémentaire d'affichage ou de diffusion, par la presse écrite ou par tout moyen de communication
+audiovisuelle, de la décision prononcée, dans les conditions prévues à l'article 131-35 du même code ;
+
+c) La peine complémentaire d'interdiction, à titre définitif ou pour une durée de cinq ans au plus, d'exercer directement ou
+indirectement une ou plusieurs activités professionnelles ou sociales, selon les modalités prévues à l'article 131-48 du même
+code.
 
 **Liens relatifs à cet article**
 
@@ -3775,7 +4033,7 @@ En outre, un emprisonnement de un mois pourra être prononcé.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
+	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -3791,10 +4049,11 @@ En outre, un emprisonnement de un mois pourra être prononcé.
 
 	**Cite**:
 
-	  - Code pénal - art. 433-7 (M)
-	  - Code pénal - art. 433-8 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-48 (V)
 	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de la construction et de l'habitation L111-4, L111-7, L111-8, L111-9, L112-17, L125-3, L131-4, L460-1
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
@@ -4069,16 +4328,27 @@ départements d'outre-mer du titre Ier, chapitre Ier, sections IV et V, et du ti
 
 ###### Article L161-2
 
-Les dispositions du présent livre ne s'appliquent pas à la collectivité territoriale de Saint-Pierre-et-Miquelon à
-l'exception des articles L. 111-5, L. 111-6, L. 111-7 à L. 111-8-3, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L.
-124-1, L. 125-1 à L. 125-2-4, L. 131-1 à L. 131-6 sous réserve des adaptations suivantes :
+Les dispositions du présent livre ne s'appliquent pas à Saint-Pierre-et-Miquelon, à l'exception des articles L. 111-5, L.
+111-6, L. 111-7, L. 111-7-1, L. 111-7-3 à L. 111-8-3-1, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L. 124-1, L.
+125-1 à L. 125-2-4, L. 131-1 à L. 131-6 et L. 151-1 à L. 152-10, sous réserve des adaptations suivantes :
 
-- aux articles L. 111-8 et L. 111-8-2, les références au code de l'urbanisme sont supprimées et les mots : "permis de
-construire" sont remplacés par les mots : "autorisation de construire" ;
+- dans l'article L. 111-7, les mots : " des locaux d'habitation, qu'ils soient la propriété de personnes privées ou publiques
+" sont supprimés ;
 
-- à l'article L. 111-8-2, les mots : "ladite autorisation" sont remplacés par les mots : "cette dernière autorisation" ;
+- la dernière phrase de l'article L. 111-7-1 est supprimée ;
 
-- à l'article L. 125-2, la date : "31 décembre 1992" est remplacée par la date : "31 décembre 2001".
+- dans l'article L. 111-7-4, la référence : " L. 111-7-2 " est supprimée ;
+
+- dans l'article L. 152-4, les références : " L. 112-17, L. 125-3 " ainsi que le deuxième alinéa du 2° sont supprimés ;
+
+- dans l'article L. 111-8, les mots : " Conformément au troisième alinéa de l'article L. 421-3 du code de l'urbanisme " sont
+supprimés, et les mots : " le permis de construire ne peut être délivré " sont remplacés par les mots : " l'autorisation de
+construire ne peut être délivrée " ;
+
+- dans l'article L. 111-8-2, les mots : " Ainsi qu'il est dit à l'article L. 421-1 du code de l'urbanisme, le permis de
+construire " sont remplacés par les mots : " L'autorisation de construire " ;
+
+- le premier alinéa de l'article L. 151-1 est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -4088,17 +4358,22 @@ construire" sont remplacés par les mots : "autorisation de construire" ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 80 () JORF 3 juillet 2003
+	  - Loi n°2005-102 2005-02-11 art. 93 6° JORF 12 février 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1 à  L125-2-4, L131-1 à L131-6, L111-8, L111-8-2
-	  - Code de la construction et de l'habitation. - art. L111-5 (M)
-	  - Code de la construction et de l'habitation. - art. L111-6 (M)
-	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
-	  - Code de la construction et de l'habitation. - art. L111-8-2 (M)
+	  - Code de la construction et de l'habitation. - art. L111-5 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-4 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-9 (V)
 	  - Code de la construction et de l'habitation. - art. L112-15 (V)
-	  - Code de la construction et de l'habitation. - art. L124-1 (V)
+	  - Code de la construction et de l'habitation. - art. L112-8 (V)
+	  - Code de la construction et de l'habitation. - art. L125-1 (V)
+	  - Code de la construction et de l'habitation. - art. L131-1 (V)
+	  - Code de la construction et de l'habitation. - art. L151-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
 
 
 ## Livre II : Statut des constructeurs.
@@ -9414,9 +9689,9 @@ Pour les communes de Paris, Marseille et Lyon, les maires d'arrondissement ou le
 du programme local de l'habitat.
 
 Le programme local de l'habitat définit, pour une durée au moins égale à six ans, les objectifs et les principes d'une
-politique visant à répondre aux besoins en logements et en hébergement, et à favoriser le renouvellement urbain et la mixité
-sociale en assurant entre les communes et entre les quartiers d'une même commune une répartition équilibrée et diversifiée de
-l'offre de logements.
+politique visant à répondre aux besoins en logements et en hébergement, à favoriser le renouvellement urbain et la mixité
+sociale et à améliorer l'accessibilité du cadre bâti aux personnes handicapées (1) en assurant entre les communes et entre
+les quartiers d'une même commune une répartition équilibrée et diversifiée de l'offre de logements.
 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et économique, de l'évaluation des besoins des
 habitants actuels et futurs, de la desserte en transports et des options d'aménagement déterminées par le schéma directeur ou
@@ -9455,6 +9730,10 @@ particulières ;
 - les réponses apportées aux besoins particuliers des étudiants.
 
 Le programme local de l'habitat fait l'objet d'un programme d'actions détaillé par secteurs géographiques.
+
+**Nota:**
+
+NOTA : (1) Les modalités d'application de ces dispositions sont définies par décret (Article 45 VI de la loi n° 2005-102).
 
 **Liens relatifs à cet article**
 
@@ -9498,13 +9777,10 @@ Le programme local de l'habitat fait l'objet d'un programme d'actions détaillé
 	  - Code général des impôts, CGI. - art. 1407 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004
+	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M) JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M)
 
 	**Cite**:
 
@@ -9657,7 +9933,9 @@ Nord - Pas-de-Calais ;
 travailleurs migrants et des logements-foyers dénommés résidences sociales, conventionnés dans les conditions définies au 5°
 de l'article L. 351-2 ainsi que les places des centres d'hébergement et de réinsertion sociale visées à l'article 185 du code
 de la famille et de l'aide sociale. Les lits des logements-foyers et les places des centres d'hébergement et de réinsertion
-sociale sont pris en compte dans des conditions fixées par décret.
+sociale sont pris en compte dans des conditions fixées par décret. Dans les foyers d'hébergement et les foyers de vie
+destinés aux personnes handicapées mentales, les chambres occupées par ces personnes sont comptabilisées comme autant de
+logements locatifs sociaux dès lors qu'elles disposent d'un élément de vie indépendante défini par décret.
 
 Les résidences principales retenues pour l'application du présent article sont celles qui figurent au rôle établi pour la
 perception de la taxe d'habitation.
@@ -9752,7 +10030,7 @@ perception de la taxe d'habitation.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 55 () JORF 14 décembre 2000
+	  - Loi n°2005-102 du 11 février 2005 - art. 49 () JORF 12 février 2005
 
 
 ###### Article L302-6
