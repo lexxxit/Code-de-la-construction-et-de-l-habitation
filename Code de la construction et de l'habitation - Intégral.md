@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-10-15
+Version Consolidée au 1991-10-26
 
 # Partie législative
 
@@ -40992,10 +40992,9 @@ global initialement fixé ne soit pas augmenté. "
 
 ###### Article R331-76-1
 
-Dans les limites et conditions fixées par la présente section, les prêts conventionnés définis au premier et au troisième
-alinéa de l'article R. 331-63 peuvent être accordés pour financer des logements faisant l'objet d'un contrat régi par la loi
-n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière et prévoyant le paiement fractionné
-du prix.
+Dans les limites et conditions fixées par la présente section, les prêts conventionnés définis au premier alinéa de l'article
+R. 331-63 peuvent être accordés pour financer des logements faisant l'objet d'un contrat régi par la loi n° 84-595 du 12
+juillet 1984 définissant la location-accession à la propriété immobilière et prévoyant le paiement fractionné du prix.
 
 La redevance prévue au contrat comporte une partie correspondant au droit de l'accédant à la jouissance du logement et une
 partie correspondant au paiement anticipé du prix.
@@ -41013,11 +41012,7 @@ partie correspondant au paiement anticipé du prix.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 7 () JORF 26 octobre 1991
 
 	**Cité par**:
 
@@ -41029,8 +41024,8 @@ partie correspondant au paiement anticipé du prix.
 
 ###### Article R331-76-2
 
-Peuvent bénéficier des prêts visés à l'article R. 331-76-1 les personnes physiques ou morales qui construisent ou acquièrent
-et améliorent des logements dont le transfert de propriété est prévu au profit de personnes physiques [*bénéficiaires*].
+Peuvent bénéficier des prêts visés à l'article R. 331-76-1 les personnes physiques ou morales qui construisent des logements
+dont le transfert de propriété est prévu au profit de personnes physiques [*bénéficiaires*].
 
 **Liens relatifs à cet article**
 
@@ -41040,11 +41035,7 @@ et améliorent des logements dont le transfert de propriété est prévu au prof
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 8 () JORF 26 octobre 1991
 
 	**Cite**:
 
@@ -41054,7 +41045,7 @@ et améliorent des logements dont le transfert de propriété est prévu au prof
 ###### Article R331-76-3
 
 Les prêts visés à l'article R. 331-76-1 ne peuvent être attribués que pour les logements n'ayant pas été occupés depuis
-l'achèvement des travaux de construction ou d'amélioration [*condition d'attribution*].
+l'achèvement des travaux de construction.
 
 Toutefois, cette disposition ne s'applique pas aux logements ayant fait l'objet d'une première occupation au titre d'un
 contrat conforme aux dispositions de l'article R. 331-76-1.
@@ -41067,11 +41058,7 @@ contrat conforme aux dispositions de l'article R. 331-76-1.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 9 () JORF 26 octobre 1991
 
 	**Cite**:
 
@@ -41151,7 +41138,8 @@ chapitre III, du présent livre (1re partie).
 
 ###### Article R331-63
 
-Des prêts conventionnés peuvent être accordés dans les conditions fixées par la présente section, pour financer :
+Des prêts conventionnés peuvent être accordés [*définition*] dans les conditions fixées par la présente section, pour
+financer [*opérations*] :
 
 1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
 logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
@@ -41159,17 +41147,15 @@ destinés à l'habitation et l'agrandissement de logements existants, par extens
 
 2° L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
-3° L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
+" 3° L'acquisition de logements existants et, le cas échéant, les travaux d'amélioration nécessaires. "
 
 4° Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
 d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
-de construire.
+de construire.    Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux
+visés au 4° du présent article.
 
-Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux visés au 4° du
-présent article.
-
-5° Le remboursement anticipé total d'un prêt conventionné à annuités progressives consenti avant le 31 décembre 1983 dans le
-cadre des 1° et 3° du présent article.
+5° Le remboursement anticipé total d'un prêt conventionné à annuités progréssives consenti avant le 31 décembre 1984 [*date
+limite*] dans le cadre des 1° et 3° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -41213,11 +41199,11 @@ cadre des 1° et 3° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°91-1111 1991-10-25 art. 1 I, II JORF 26 octobre 1991
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 1 () JORF 26 octobre 1991
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 8 mars 1985
 	  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
 
@@ -41294,8 +41280,8 @@ celles fixées par la convention type mentionnée à l'alinéa précédent.
 
 Peuvent bénéficier de ces prêts :
 
-1° Les personnes physiques qui, pour leur habitation familiale, construisent ou acquièrent des logements neufs et celles qui
-acquièrent des logements existants, en vue de leur amélioration.
+1° Les personnes physiques qui construisent ou acquièrent des logements neufs ou celles qui acquièrent des logements
+existants et, le cas échéant, les améliorent.
 
 Sont assimilées à une acquisition immobilière la souscription ou l'acquisition de parts ou d'actions des sociétés régies par
 le livre II, titre 1er, chapitres II ou III du présent code (première partie).
@@ -41321,7 +41307,7 @@ destiner le logement à leur résidence principale, ils peuvent être autorisés
 conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
 
 Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné peuvent passé un contrat conforme à l'article
-6 de la loi n° 89-475 du 10 juillet 1989 relative à l'acceuil par des particuliers à leur domicile, à titre onéreux, de
+6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre onéreux, de
 personnes agées ou handicapées adultes.
 
 Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui réalisent les travaux visés au 4° de
@@ -41346,24 +41332,22 @@ principale représentent la moitié au moins du total des voix [*condition*].
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
 	**Cite**:
 
 	  - Loi n°89-475 1989-07-10 art. 6
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 4 () JORF 19 juillet 1990
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 2 () JORF 26 octobre 1991
 
 
 ###### Article R331-67
 
 Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales
 [*bénéficiaires*] qui destinent un ou des logements à la location. L'octroi de ces prêts n'est pas subordonné à la passation
-d'une convention régie par le titre V, chapitre III, du présent livre (1ère partie).
+d'une convention régie par le titre V, chapitre III, du présent livre (1ère partie) sauf lorsque ces prêts financent les
+opérations visées à l'article R. 331-63 (3°). "
 
 **Liens relatifs à cet article**
 
@@ -41373,11 +41357,7 @@ d'une convention régie par le titre V, chapitre III, du présent livre (1ère p
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 3 () JORF 26 octobre 1991
 
 	**Cité par**:
 
@@ -41392,15 +41372,16 @@ d'une convention régie par le titre V, chapitre III, du présent livre (1ère p
 	  - Code de la construction et de l'habitation. - art. R331-70 (V)
 	  - Code de la construction et de l'habitation. - art. R353-126 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
 
 ###### Article R331-68
 
 Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1. et 3.) doivent respecter
 un prix de vente maximum ou, si elles sont réalisées soit en secteur diffus, soit par application de l'article R. 331-67, un
 prix de revient maximum.
-
-En outre, pour les opérations prévues à l'article R. 331-63 (3.), le montant des travaux d'amélioration doit être au moins
-égal à une fraction du coût total de l'opération.
 
 Les conditions d'application du présent article sont fixées par arrêté conjoint des ministres chargés des finances et de la
 construction et de l'habitation.
@@ -41422,29 +41403,34 @@ construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 4 () JORF 26 octobre 1991
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°2001-911 du 4 octobre 2001 - art. 3 (V) JORF 6 octobre 2001
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R331-63 1 et 3
+	  - Code de la construction et de l'habitation. - art. R331-63 (M)
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
 
 ###### Article R331-69
 
-Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1°) doivent respecter des
-normes minimales de surface, les opérations d'agrandissement de logements existants, par extension ou surélévation, doivent
-conduire à une création de surface habitable minimale fixée par arrêté du ministre chargé de la construction et de
+Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à l'article R. 331-63 (1° et 3°) doivent respecter
+des normes minimales de surface, les opérations d'agrandissement de logements existants, par extension ou surélévation,
+doivent conduire à une création de surface habitable minimale fixée par arrêté du ministre chargé de la construction et de
 l'habitation.
 
 Dans le cas des opérations prévues à l'article R. 331-63 (2° et 3°), les travaux d'amélioration doivent avoir pour effet de
 mettre en conformité à des normes minimales d'habitabilité des logements qui ne le sont pas.
 
-Les normes de surface et d'habitabilité sont fixées par arrêté du ministre chargé de la construction et de l'habitation.
+Les opérations visées à l'article R. 331-63 (3°) portant sur des immeubles chevés depuis plus de vingt ans font l'objet d'un
+état des lieux relatif aux conditions d'habitabilité et de surface, annexé au contrat de prêt. Les frais relatifs à cet état
+des lieux peuvent s'imputer sur le montant total de l'opération et être financés par le prêt.
+
+Les modalités de cet état des lieux ainsi que les normes de surface et d'habitabilité sont fixées par un arrêté du ministre
+chargé du logement.
 
 **Liens relatifs à cet article**
 
@@ -41461,11 +41447,7 @@ Les normes de surface et d'habitabilité sont fixées par arrêté du ministre c
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 5 () JORF 26 octobre 1991
 
 	**Cite**:
 
@@ -41690,7 +41672,7 @@ La convention type prévue à l'article R. 331-65 précise les modalités d'appl
 
 Les prêts sont amortissables [*durée amortissement*] :
 
-En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 1°, 3° et 5°;
+En dix ans au minimum et vingt-cinq ans au maximum pour les opérations prévues à l'article R. 331-63 1°, 3° et 5°;
 
 En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à l'article R. 331-63 (2°, 4°).
 
@@ -41702,11 +41684,7 @@ En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à
 
 	**Modifié par**:
 
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
+	  - Décret n°91-1111 du 25 octobre 1991 - art. 6 () JORF 26 octobre 1991
 
 	**Cite**:
 
