@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-10-15
+Version Consolidée au 2004-10-28
 
 # Partie législative
 
@@ -31813,11 +31813,18 @@ type d'établissement sont assujettis à des dispositions particulières déterm
 Le maire, après consultation de la commission de sécurité compétente, peut faire procéder à des visites de contrôle dans les
 conditions fixées aux articles R. 123-45 et R. 123-48 à R. 123-50 afin de vérifier si les règles de sécurité sont respectées.
 
+Lorsque ces établissements disposent de locaux d'hébergement pour le public, ils sont soumis aux dispositions des articles R.
+123-22 à R. 123-26 et R. 123-43 à R. 123-52.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2004-1141 du 27 octobre 2004 - art. 1 () JORF 28 octobre 2004
 
 	**Cité par**:
 
@@ -31827,7 +31834,7 @@ conditions fixées aux articles R. 123-45 et R. 123-48 à R. 123-50 afin de vér
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R123-45, R123-48 à R123-50
+	  - Code de la construction et de l'habitation R123-45, R123-48 à R123-50, R123-22 à R123-26, R123-43 à R123-52
 
 	**Anciens textes**:
 
@@ -32831,17 +32838,14 @@ Avant toute ouverture des établissements au public ainsi qu'avant la réouvertu
 dix mois, il est procédé à une visite de réception par la commission. Celle-ci propose les modifications de détail qu'elle
 tient pour nécessaires.
 
-Sauf dans le cas prévu à l'article R. 123-14, l'exploitant demande au maire l'autorisation d'ouverture.
+L'exploitant demande au maire l'autorisation d'ouverture, sauf dans le cas des établissements visés au premier alinéa de
+l'article R. 123-14 qui ne comportent pas de locaux d'hébergement pour le public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979 p. 292
 
 	**Cité par**:
 
@@ -32861,6 +32865,10 @@ Sauf dans le cas prévu à l'article R. 123-14, l'exploitant demande au maire l'
 	  - Code de la construction et de l'habitation. - art. R111-19-29 (V)
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 	  - Code du sport. - art. A312-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-1141 du 27 octobre 2004 - art. 2 () JORF 28 octobre 2004
 
 	**Cite**:
 
