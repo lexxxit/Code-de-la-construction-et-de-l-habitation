@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-02-14
+Version Consolidée au 1991-04-24
 
 # Partie législative
 
@@ -50726,13 +50726,9 @@ leur comptabilité selon les règles applicables aux entreprises de commerce.
 
 ###### Article R*421-5
 
-Pour la réalisation des opérations prévues par les articles R. 311-1 et R. 311-2 et des opérations financées dans les
-conditions fixées par les articles R. 331-32 à R. 331-62 et dès lors qu'ils y ont été habilités par le ministre chargé de la
-construction et de l'habitation, les offices publics d'aménagement et de construction peuvent prendre des participations dans
-les sociétés civiles lorsqu'elles sont constituées uniquement par des organismes d'habitations à loyer modéré.
-
-Ils peuvent réaliser des hébergements de loisirs à vocation sociale, dans les conditions définies à l'article L. 421-1 et
-précisées aux articles R. 421-4 et R. 421-4-1.
+Les offices publics d'aménagement et de construction peuvent souscrire ou acquérir des parts de sociétés civiles immobilières
+pour la réalisation d'opérations prévues par les articles R. 311-1 et R. 311-2 et d'opérations financées dans les conditions
+fixées par les articles R. 331-32 à R. 331-77, après accord de la collectivité locale de rattachement de l'office.
 
 **Liens relatifs à cet article**
 
@@ -50742,13 +50738,15 @@ précisées aux articles R. 421-4 et R. 421-4-1.
 
 	**Modifié par**:
 
-	  - Décret n°87-158 du 9 mars 1987 - art. 3 () JORF 10 MARS 1987
+	  - Décret n°91-385 du 23 avril 1991 - art. 1 () JORF 24 avril 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-943 du 2 septembre 2004 - art. 7 () JORF 7 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R311-1, R311-2, R331-32 à R331-62, L421-1, R421-4, R421-4-1
-	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. R421-4-1 (V)
+	  - Code de la construction et de l'habitation R311-1, R311-2, R331-32 à R331-77
 
 	**Cité par**:
 
@@ -52049,22 +52047,18 @@ d'administration de l'office public d'habitations à loyer modéré.
 
 ###### Article R*422-1
 
-L'adoption de statuts types par les sociétés anonymes d'habitations à loyer modéré est obligatoire. Ces statuts doivent être
-conformes au modèle reproduit en annexe au présent code.
-
-Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
-indiqué par une mention spéciale que le bénéfice de la législation sur les habitations à loyer modéré n'est acquis ou
-maintenu à la société qu'après l'approbation des statuts par le préfet.
+Les statuts des sociétés anonymes d'habitations à loyer modéré doivent contenir des clauses conformes aux clauses types
+reproduites en annexe au présent code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-271 1968-03-20 art. 1 al. 1
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 2 () JORF 24 avril 1991
 
 	**Cité par**:
 
@@ -52077,33 +52071,27 @@ maintenu à la société qu'après l'approbation des statuts par le préfet.
 La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
 assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
-Les modifications statutaires mentionnées à l'alinéa précédent ainsi que celles qui sont consécutives à l'application des
-articles R. 422-3, R. 422-4 et R. 422-5 sont dispensées de l'approbation du commissaire de la République du département.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R422-3
+	  - Décret n°91-385 du 23 avril 1991 - art. 3 () JORF 24 avril 1991
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. R441-9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°83-754 1983-08-05 ART. 1 JORF 17 AOUT 1983
-
 
 ###### Article R*422-3
 
 L'activité des sociétés anonymes d'habitations à loyer modéré s'exerce sur le territoire de la région où est situé leur siège
-social.
+social. Elles ont également compétence pour intervenir sur le territoire des départements limitrophes à la région de leur
+siège, après accord de la commune d'implantation de l'opération.
 
 Le ministre chargé de la construction et de l'habitation peut, après avis du conseil supérieur des habitations à loyer
 modéré, agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
@@ -52119,6 +52107,10 @@ dont la qualité de la gestion a été constatée dans les conditions précisée
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 4 () JORF 24 avril 1991
 
 	**Cite**:
 
@@ -52143,8 +52135,8 @@ Un arrêté conjoint du ministre chargé de la construction et de l'habitation e
 du conseil supérieur des habitations à loyer modéré, agréer spécialement les sociétés anonymes d'habitations à loyer modéré
 dont la qualité de la gestion sur les plans technique et financier a été appréciée à l'occasion du contrôle prévu aux
 articles L. 451-1 et R. 451-2 pour permettre à ces sociétés de réaliser pour le compte de tiers toutes opérations
-d'aménagement [*zones d'habitation, zones industrielles*] prévues au premier alinéa de l'article L. 321-1 du code de
-l'urbanisme. Cet agrément peut être limité dans le temps.
+d'aménagement [*zones d'habitation, zones industrielles*] prévues aux articles L. 300-1 et suivants du code de l'urbanisme.
+Cet agrément peut être limité dans le temps. Cet agrément n'est pas nécessaire pour les lotissements.
 
 Il peut également être limité à certaines catégories d'opérations en raison de leur nature ou de leur importance ou à une ou
 plusieurs opérations déterminées.
@@ -52162,13 +52154,11 @@ Dans les cas visés aux deux alinéas précédents, les dispositions des article
 
 	**Modifié par**:
 
-	  - Décret n°81-717 1981-07-21 ART. 1, ART. 2 JORF 26 JUILLET 1981
+	  - Décret n°91-385 du 23 avril 1991 - art. 5 () JORF 24 avril 1991
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-8 (Ab)
+	  - Code de la construction et de l'habitation L451-1, R451-2, L423-4 à L423-8
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 	  - Code de la construction et de l'habitation. - art. R451-2 (M)
 
@@ -52372,7 +52362,8 @@ aux membres des coopératives de construction constituées sous leur égide bén
 ###### Article R*422-8-1
 
 L'activité des sociétés anonymes coopératives de production d'habitations à loyer modéré s'exerce sur le territoire de la
-région où est situé leur siège social.
+région où est situé leur siège social. Elles ont également compétence pour intervenir sur le territoire des départements
+limitrophes à la région de leur siège, après accord de la commune d'implantation de l'opération.
 
 Le ministre chargé de la construction et du logement peut, après avis du conseil supérieur des habitations à loyer modéré,
 agréer spécialement les sociétés dont la qualité de la gestion sur les plans technique et financier a été constatée à
@@ -52389,6 +52380,10 @@ qualité de la gestion a été constatée dans les conditions précisées à l'a
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 6 () JORF 24 avril 1991
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
@@ -52396,37 +52391,29 @@ qualité de la gestion a été constatée dans les conditions précisées à l'a
 
 ###### Article R*422-9
 
-Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent être conformes à ceux des
-statuts types, reproduits en annexe au code, fixés selon l'origine de celles-ci (annexe 1 et 2).
+" Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent contenir des clauses
+conformes aux clauses types reproduites en annexe au présent code. "
 
 Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
 indiqué par une mention spéciale que le bénéfice de législation sur les habitations à loyer modéré n'est acquis ou maintenu à
 la société qu'après l'approbation des statuts et leurs modifications par le préfet du département du siège.
 
-Jusqu'à l'approbation par le préfet du département du siège de leurs statuts mis en conformité avec les statuts-types, celles
-des sociétés qui proviennent de la transformation prévue à l'article L. 422-14 ne peuvent exercer que les attributions d'une
-société anonyme coopérative d'habitations à loyer modéré.
-
 La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
 assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
-Les modifications statutaires mentionnées à l'alinéa précédent sont dispensées de l'approbation du commissaire de la
-République du département.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation annexe, L422-14
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R422-9 ANNEXE 1 et 2
-	  - Code de la construction et de l'habitation. - art. L422-14 (M)
-
 	**Modifié par**:
 
-	  - Loi n°83-754 1983-08-05 ART. 2 JORF 17 AOUT 1983
+	  - Décret n°91-385 du 23 avril 1991 - art. 7 () JORF 24 avril 1991
 
 
 ###### Article R422-7-1
@@ -52740,8 +52727,13 @@ Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modé
 le ministre chargé de la construction et de l'habitation après avis du [*comité départemental*] conseil départemental de
 l'habitat et du conseil supérieur des habitations à loyer modéré.
 
-Le décret en Conseil d'Etat approuvant les statuts-types est pris après avis du conseil supérieur des habitations à loyer
-modéré.
+" La compétence géographique des sociétés anonymes d'habitations à loyer modéré dont le capital est détenu en totalité par un
+ou plusieurs organismes d'habitations à loyer modéré et éventuellement par des personnes physiques ne possédant que le nombre
+d'actions minimum exigé pour être admis à exercer les fonctions d'administrateur est, par dérogation aux dispositions de
+l'article R. 422-3, définie lors de la délivrance de l'agrément visé au présent article. "
+
+" Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du Conseil supérieur des habitations à loyer
+modéré (comité permanent). "
 
 Les conditions dans lesquelles sont approuvés les emprunts contractés par lesdites sociétés sont fixées par arrêté conjoint
 du ministre chargé des finances et du ministre chargé de la construction et de l'habitation.
@@ -52752,10 +52744,6 @@ du ministre chargé des finances et du ministre chargé de la construction et de
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
@@ -52765,6 +52753,7 @@ du ministre chargé des finances et du ministre chargé de la construction et de
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L422-5, R422-3
 	  - Code de la construction et de l'habitation. - art. L422-5 (M)
 
 
@@ -53101,113 +53090,28 @@ signature.
 	  - Code de la construction et de l'habitation R422-20
 
 
-###### Article R*422-31
-
-Les réserves qui, au sens de l'article L. 422-13, alinéa 1, peuvent être transférées par les sociétés anonymes coopératives
-d'habitations à loyer modéré de location-attribution soit à des sociétés anonymes coopératives de production d'habitations à
-loyer modéré, soit à des sociétés anonymes d'habitations à loyer modéré, sont les suivantes : différence sur réalisation
-d'immobilisation, réserve de prévoyance.
-
-La contrepartie active des réserves transférées est constituée par des valeurs immobilisées, réalisables ou disponibles,
-telles qu'elles sont évaluées au bilan.
-
-Si la société anonyme coopérative d'habitations à loyer modéré de location-attribution transmet les immobilisations
-auxquelles est attachée une plus-value sur indemnités de dommages de guerre ou de réévaluation, le solde afférent à ces
-immobilisations des comptes d'indemnités de dommage de guerre et de réserve de réévaluation doit être transféré en même
-temps.
-
-L'utilisation des réserves supérieures à la rémunération pour frais de gestion perçue par la société au titre des deux
-derniers exercices est subordonnée à l'autorisation du ministre chargé des finances et du ministre chargé de la construction
-et de l'habitation.
-
-Peuvent également faire l'objet d'un transfert les subventions reçues, dans la mesure où elles sont disponibles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-241 1974-05-15 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 9 () JORF 24 avril 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L422-13 AL. 1
-
-
-###### Article R*422-32
-
-Nonobstant les dispositions des articles R. 423-74 et R. 423-75, les sociétés anonymes coopératives d'habitations à loyer
-modéré de location-attribution peuvent :
-
-a) Souscrire au capital des sociétés anonymes d'habitations à loyer modéré et des sociétés anonymes coopératives de
-production d'habitations à loyer modéré ;
-
-b) Consentir des prêts aux sociétés anonymes d'habitations à loyer modéré et aux sociétés anonymes coopératives de production
-d'habitations à loyer modéré ; si ces prêts sont productifs d'intérêts le taux de ceux-ci ne peut excéder le taux de base des
-intérêts servis par les caisses d'épargne ; une convention détermine les modalités de ces prêts ;
-
-c) Transférer aux sociétés anonymes d'habitations à loyer modéré et aux sociétés anonymes coopératives de production
-d'habitations à loyer modéré un ou plusieurs éléments de leur patrimoine contre le versement, jusqu'à la dissolution de la
-société anonyme coopérative d'habitations à loyer modéré de location-attribution et, en tout état de cause, pendant une durée
-ne pouvant pas excéder vingt-cinq années, d'une annuité égale à un pourcentage de la valeur nette patrimoniale du ou des
-éléments transférés ; ce pourcentage ne peut excéder le taux d'intérêt, au moment du transfert, des prêts consentis par la
-caisse des dépôts et consignations aux collectivités locales pour une durée correspondante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-241 1974-03-15 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 9 () JORF 24 avril 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R423-74 (M)
-	  - Code de la construction et de l'habitation. - art. R423-75 (M)
-
-
 ###### Article R*422-33
 
-La demande d'autorisation de transfert de réserves d'une société anonyme coopérative d'habitations à loyer modéré de
-location-attribution indiquées à l'article R. 422-31, lorsqu'elle porte sur un élément mobilier, est soumise, accompagnée de
-la délibération de l'assemblée générale extraordinaire qui a décidé le transfert, à l'approbation du préfet du département du
-siège social de la société [*tutelle*].
+Les demandes des sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution tendant à voir autorisés
+les transferts visés à l'article L. 422-13 sont adressées au représentant de l'Etat dans le département du siège social de la
+société par lettre recommandée avec demande d'avis de réception.
 
-La demande d'autorisation des opérations prévues par l'article R. 422-32 c, lorsque celles-ci ne portent pas sur un élément
-immobilier, est soumise à l'approbation du préfet du département du siège social de la société.
-
-Ces demandes sont adressées au préfet par lettre recommandée avec demande d'avis de réception.
-
-Si le préfet n'a pas statué dans un délai de quatre mois sur la demande dont il est saisi, l'approbation [*tacite*] est
-réputée accordée.
+Si le préfet n'a pas statué dans un délai de quatre mois sur la demande dont il est saisi, l'approbation est réputée
+accordée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-241 1974-03-15 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 10 () JORF 24 avril 1991
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R422-32 c
+	  - Code de la construction et de l'habitation. - art. L422-13 (M)
 
 
 ##### Sous-section 2 : Durée d'activité.
@@ -53289,17 +53193,12 @@ d'habitations à loyer modéré.
 	  - Code de la construction et de l'habitation. - art. R422-34 (V)
 
 
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
-
 ##### Sous-section 3 : Statuts.
 
 ###### Article R*422-38
 
 La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
 assemblée générale extraordinaire tenue après la publication desdites dispositions.
-
-Les modifications statutaires mentionnées à l'alinéa précédent sont dispensées de l'approbation du commissaire de la
-République du département.
 
 **Liens relatifs à cet article**
 
@@ -53309,14 +53208,13 @@ République du département.
 
 	**Modifié par**:
 
-	  - Loi n°83-754 1983-08-05 ART. 4 JORF 17 AOUT 1983
+	  - Décret n°91-385 du 23 avril 1991 - art. 12 () JORF 24 avril 1991
 
 
 ###### Article R422-37
 
-Les statuts types des sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution doivent être
-conformes à ceux des statuts types reproduits en annexe au présent code, fixés selon l'origine de celles-ci (annexes 1 et 2).
-Leur adoption est obligatoire.
+Les statuts des sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution doivent contenir des
+clauses conformes aux clauses types reproduites en annexe au présent code.
 
 Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
 indiqué par une mention spéciale que le bénéfice de la législation sur les habitations à loyer modéré n'est acquis ou
@@ -53324,13 +53222,13 @@ maintenu à la société qu'après l'approbation des statuts par le préfet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-273 1968-03-20 art. 1
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 11 () JORF 24 avril 1991
 
 	**Cité par**:
 
@@ -53722,12 +53620,13 @@ versés à l'un des comptes ouverts au nom de l'office et énumérés à l'alin�
 En dehors des opérations prévues par la législation en vigueur, les offices peuvent effectuer des achats de bons du Trésor ou
 valeurs assimilées et de rentes sur l'Etat ou de valeurs garanties par l'Etat. Ils peuvent également souscrire ou acquérir
 des parts ou actions émises par des sociétés d'habitations à loyer modéré, des sociétés d'économie mixte, et des sociétés
-civiles immobilières constituées uniquement par des organismes d'habitation à loyer modéré dûment autorisés. Un arrêté
-conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation peut étendre ces
-participations à d'autres organismes.
+civiles immobilières dans les conditions prévues à l'article R. 421-5. Un arrêté conjoint du ministre chargé des finances et
+du ministre chargé de la construction et de l'habitation peut étendre ces participations à d'autres organismes.
 
-Les souscriptions de parts ou d'actions et les prises de participation doivent être autorisées par le conseil
-d'administration.
+" Les souscriptions, acquisitions et cessions d'actions doivent être autorisées par le conseil d'administration. "
+
+" Les souscriptions ou acquisitions d'actions de sociétés anonymes d'habitations à loyer modéré ne peuvent être effectuées
+qu'après accord de la collectivité locale de rattachement de l'office. "
 
 **Liens relatifs à cet article**
 
@@ -53737,7 +53636,7 @@ d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
+	  - Décret n°91-385 du 23 avril 1991 - art. 13 () JORF 24 avril 1991
 
 
 ###### Article R*423-16
@@ -55228,22 +55127,6 @@ Les dispositions des articles R. 423-14-1 à R. 423-14-5 s'appliquent aux office
 	  - Décret n°90-213 du 9 mars 1990 - art. 3 () JORF 10 mars 1990 en vigueur le 15 mars 1990
 
 
-###### Article R423-61
-
-En dehors des opérations prévues par la législation en vigueur l'office ne peut effectuer que des placements en valeurs
-émises ou garanties par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-297 1951-03-03 art. 30
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
 ###### Article R423-62
 
 En fin d'année, le président du conseil d'administration arrête les livres du comptable, dont il peut prendre à tout moment
@@ -55578,14 +55461,13 @@ lorsqu'elles font l'objet d'une liquidation ou d'une administration judiciaire. 
 En dehors des opérations prévues par la législation en vigueur, les sociétés ne peuvent effectuer que des achats de bons du
 Trésor ou valeurs assimilées et de rentes sur l'Etat ou de valeurs garanties par l'Etat.
 
-Les sociétés d'H.L.M. peuvent en outre être autorisées par le ministre chargé du logement, après information préalable du
-conseil supérieur des H.L.M. (comité permanent), à souscrire ou acquérir des parts ou actions d'autres sociétés d'H.L.M., de
-sociétés d'économie mixte ayant pour objet l'exploitation d'énergies nouvelles ou de sociétés ou organismes à caractère
-mutualiste ou coopératif susceptibles de faciliter leur action dans le cadre de la réglementation sur les H.L.M..
-
-Les acquisitions ou souscriptions d'actions de sociétés d'économie mixte d'aménagement, de société d'H.L.M. visées par
-l'article L. 423-1-1 ainsi que celles de sociétés coopératives de location-attribution ne sont pas soumises à l'autorisation
-prévue à l'alinéa précédent.
+" Les sociétés anonymes d'habitations à loyer modéré, les sociétés anonymes de crédit immobilier et les sociétés anonymes
+coopératives de production d'habitations à loyer modéré peuvent en outre souscrire ou acquérir des actions ou des parts
+d'autres sociétés d'habitations à loyer modéré, ou de sociétés d'économie mixte, ou de sociétés ou d'organismes à caractère
+mutualiste ou coopératif susceptibles de faciliter leur action dans le cadre de la réglementation sur les H.L.M. Toutefois,
+les acquisitions ou souscriptions d'actions de sociétés d'H.L.M. sont soumises à l'autorisation préalable du ministre chargé
+du logement, délivrée après information du Conseil supérieur des H.L.M. (comité permanent), dès lors que l'acquisition ou la
+souscription s'effectue à un prix supérieur de plus de 50 p. 100 à la valeur nominale des titres. "
 
 **Liens relatifs à cet article**
 
@@ -55593,17 +55475,13 @@ prévue à l'alinéa précédent.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. L423-1-1 (Ab)
+	  - Décret n°91-385 du 23 avril 1991 - art. 15 () JORF 24 avril 1991
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*422-32 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°81-567 1981-06-12 ART. 1 JORF 17 MAI 1981
 
 
 ###### Article R423-76
@@ -55675,6 +55553,36 @@ la réglementation ou aux instructions en vigueur.
 ##### Section 1 : Dispositions communes financières et comptables.
 
 ##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.
+
+###### Article R423-61
+
+En dehors des opérations prévues par la législation en vigueur l'office ne peut effectuer que des placements en valeurs
+émises ou garanties par l'Etat.
+
+" Les offices publics d'habitations à loyer modéré peuvent également, après accord de leur collectivité locale de
+rattachement, souscrire ou acquérir des actions émises par des sociétés d'habitations à loyer modéré ou des sociétés
+d'économie mixte.
+
+" Ils peuvent en outre, pour la réalisation d'opérations prévues par les articles R. 311-1 et R. 311-2 et d'opérations
+financées dans les conditions fixées par les articles R. 331-32 à R. 331-77, souscrire ou acquérir des parts de sociétés
+civiles immobilières, après accord de leur collectivité locale de rattachement.
+
+" Les souscriptions et acquisitions de parts ou d'actions doivent être autorisées par le conseil d'administration. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°91-385 du 23 avril 1991 - art. 14 () JORF 24 avril 1991
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R311-1, R311-2, R331-32 à R331-77
+
 
 ###### Article R423-66
 
@@ -59776,211 +59684,6 @@ disposition, désigner le délégué spécial chargé de prononcer les attributi
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L441-2 (M)
-
-
-##### Section 2 : Indemnité d'occupation.
-
-###### Article R*441-32
-
-Un décret détermine le délai pendant lequel les locataires ou occupants qui ne remplissent pas les conditions [*attribution
-de logements*] fixées par la section I peuvent continuer à bénéficier de leur logement à titre temporaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 1 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-
-###### Article R*441-33
-
-Le décret prévu à l'article R. 441-32 fixe l'indemnité d'occupation exigible pendant cette période temporaire, dans la limite
-du triple du loyer réglementaire maximum et détermine l'affectation du produit de ces indemnités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 1 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R441-32
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R442-9 (V)
-
-
-###### Article R*441-34
-
-Sur la proposition du préfet et, après avis du [*comité départemental des habitations à loyer modéré*] conseil départemental
-de l'habitat, le ministre chargé de la construction et de l'habitation peut décider, par arrêté, la réduction ou la
-suppression de l'indemnité d'occupation prévue à l'article R. 441-33 sur le territoire des circonscriptions administratives
-où des logements dépendant des organismes d'habitations à loyer modéré sont en nombre suffisant pour répondre aux besoins.
-
-Aucun programme nouveau ne peut alors être entrepris sur ce territoire tant que la mesure prise n'a pas été rapportée par un
-arrêté pris suivant la même procédure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R441-33
-
-
-###### Article R*441-35
-
-Les locataires ou occupants de locaux régis par la législation sur les habitations à loyer modéré qui ne remplissent pas les
-conditions prévues à la section I sont autorisés à échanger leur logement avec des personnes bénéficiant ou susceptibles de
-bénéficier de ladite législation. Cette possibilité est donnée à l'ensemble des locataires ou occupants logés dans une
-habitation à loyer modéré.
-
-Ces échanges ont lieu dans les conditions prévues à l'article 79 de la loi n. 48-1360 du 1er septembre 1948 modifiée, aux
-articles L. 411-1, R. 441-1, R. 441-32, notamment en ce qui concerne le montant des ressources des bénéficiaires, et à
-l'article L. 442-4 en ce qui concerne les conditions d'occupation des logements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 79 (Ab)
-	  - Code de la construction et de l'habitation R441-32
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
-	  - Code de la construction et de l'habitation. - art. L442-4 (M)
-	  - Code de la construction et de l'habitation. - art. R*441-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°58-1469 1958-12-31 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-
-###### Article R441-36
-
-Les organismes d'habitations à loyer modéré sont tenus, dans la limite de leurs possibilités, de proposer aux locataires ou
-occupants qui dépassent le plafond de ressources prévu à l'article R. 441-2, un logement correspondant à leurs besoins
-personnels ou familiaux et à leurs ressources.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-346 1954-03-27 art. 1 bis
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
-	  - Code de la construction et de l'habitation. - art. R441-37 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R*441-2 (M)
-
-
-###### Article R441-37
-
-Les occupants [*dépassant le plafond de ressources*] mentionnés à l'article R. 441-36 qui acceptent la proposition de
-logement qui leur est faite bénéficient d'une exonération de l'indemnité due par eux en application de l'article R. 441-33.
-
-Cette exonération porte sur les six derniers mois précédant leur déménagement.
-
-Elle est également accordée aux occupants qui quittent volontairement les lieux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-346 1954-03-27 art. 1 ter
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R441-33
-	  - Code de la construction et de l'habitation. - art. R441-36 (Ab)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
-
-
-###### Article R441-38
-
-La présente section n'est pas applicable aux locataires de logements construits postérieurement au 3 septembre 1947 [*date*]
-par les organismes d'habitations à loyer modéré sans le concours financier de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-346 1954-03-27 art. 10-8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°91-385 du 23 avril 1991 - art. 16 () JORF 24 avril 1991
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-63 (M)
-	  - Code de la construction et de l'habitation. - art. R441-26 (Ab)
 
 
 #### Chapitre II : Loyers et divers.
