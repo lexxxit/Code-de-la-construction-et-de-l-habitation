@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-04-03
+Version Consolidée au 2005-04-06
 
 # Partie législative
 
@@ -40962,26 +40962,22 @@ R. 211-1 à R. 211-6, R. 222-1 à R. 222-14 et R. 261-1 à R. 261-33.
 
 ### Titre préliminaire : Politique d'aide au logement.
 
-#### Chapitre II : Politique locale de l'habitat.
+#### Chapitre II : Programme local de l'habitat
 
-##### Section 4 : Convention d'application du programme local de l'habitat.
+##### Section 1 : Contenu du programme local de l'habitat.
 
-###### Article R302-17
+###### Article R302-1
 
-Lorsqu'un programme local de l'habitat a été élaboré et adopté par un établissement public de coopération intercommunale et
-si cet établissement est doté de la compétence de politique du logement, le président de l'établissement public et le préfet
-négocient une convention d'application du programme local de l'habitat.
+Le programme local de l'habitat comprend, pour l'ensemble des communes membres de l'établissement public de coopération
+intercommunale compétent :
 
-La convention, d'une durée de trois ans, est passée entre l'Etat et l'établissement public.
+- un diagnostic sur le fonctionnement du marché local du logement et sur les conditions d'habitat dans le territoire auquel
+il s'applique ;
 
-La convention fixe les moyens qui seront mis en oeuvre pour réaliser le programme local de l'habitat et l'aide financière que
-l'Etat apportera en matière d'habitat et d'action foncière dans la limite des dotations ouvertes par les lois de finances.
+- un document d'orientation comprenant l'énoncé des principes et objectifs du programme ;
 
-La convention précise en tant que de besoin les parties d'agglomération, communes ou quartiers sur lesquels porte l'aide
-financière de l'Etat.
-
-La convention peut être modifiée par avenant pour prendre en compte l'état annuel de réalisation du programme local de
-l'habitat et adapter les engagements des signataires à l'évolution de la situation sociale ou démographique.
+- un programme d'actions détaillé pour l'ensemble du territoire auquel il s'applique et pour chaque secteur géographique
+défini à l'intérieur de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -40991,243 +40987,7 @@ l'habitat et adapter les engagements des signataires à l'évolution de la situa
 
 	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R302-18 (V)
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-31 (T)
-
-
-##### Section 5 : Dispositions transitoires.
-
-###### Article R302-18
-
-Peuvent être transformés, en application de l'article 15 de la loi d'orientation pour la ville n° 91-662 du 13 juillet 1991,
-en programme local de l'habitat au sens de l'article 13 de ladite loi, les programmes locaux de l'habitat élaborés avant le
-21 juillet 1991 qui contiennent un diagnostic et ont défini les objectifs et principes d'une politique visant à répondre aux
-besoins en logements et à assurer entre les communes et entre les quartiers d'une même commune une répartition équilibrée et
-diversifiée de l'offre de logements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Cite**:
-
-	  - Loi n°91-662 1991-07-13 art. 15, art. 13
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-32 (T)
-
-
-###### Article R302-19
-
-Si un établissement public de coopération intercommunale avait élaboré un programme local de l'habitat avant le 21 juillet
-1991, l'organe délibérant engage la procédure de transformation du programme local de l'habitat.
-
-Si le programme local de l'habitat n'avait pas été élaboré par un établissement public de coopération intercommunale,
-l'organe délibérant d'un établissement public de coopération intercommunale nouvellement créé, ayant compétence en matière de
-programme local de l'habitat et regroupant des communes ayant élaboré ensemble avant le 21 juillet 1991 un programme local de
-l'habitat, délibère pour engager la procédure de transformation du programme local de l'habitat.
-
-La délibération visée aux alinéas précédents est transmise au préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-33 (T)
-
-
-###### Article R302-20
-
-Le préfet, dans un délai de trois mois à compter de la transmission prévue à l'article R. 302-19, porte à la connaissance du
-président de l'établissement public de coopération intercommunale toute information utile sur les éléments à compléter ainsi
-que les objectifs locaux à prendre en compte.
-
-Si le programme local de l'habitat élaboré avant le 21 juillet 1991 ne répond pas aux conditions énoncées par l'article R.
-302-18, le préfet, dans un délai de deux mois à compter de la transmission prévue à l'article R. 302-19, notifie au président
-de l'établissement public de coopération intercommunale l'impossibilité de la transformation visée à l'article 15 de la loi
-d'orientation pour la ville.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-34 (T)
-
-
-###### Article R302-21
-
-L'établissement public de coopération intercommunale procède aux adaptations du programme local de l'habitat pour rendre
-conforme son contenu à celui défini par les articles L. 302-1 et R. 302-1.
-
-L'organe délibérant de l'établissement public de coopération intercommunale arrête le projet de programme local de l'habitat
-ainsi transformé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-35 (T)
-
-
-###### Article R302-22
-
-Le projet de programme local de l'habitat est ensuite soumis aux dispositions des articles R. 302-8 à R. 302-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-36 (T)
-
-
-###### Article R302-23
-
-Si, dans le délai visé à l'article L. 302-4-1, un établissement public de coopération intercommunale compétent en matière de
-programme local de l'habitat n'a pas été constitué ou saisi, une commune ayant élaboré un programme local de l'habitat avant
-le 21 juillet 1991 pourra engager la procédure de transformation telle que définie aux articles R. 302-19 à R. 302-21. Le
-projet de programme local de l'habitat est ensuite soumis aux dispositions des articles R. 302-14 à R. 302-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-37 (T)
-
-
-#### Chapitre II : Programme local de l'habitat
-
-##### Section 1 : Contenu du programme local de l'habitat.
-
-###### Article R302-1
-
-Le programme local de l'habitat, pour une période qu'il détermine, comprend, tant pour l'ensemble de son périmètre que pour
-les différentes parties qui le composent :
-
-- un diagnostic ;
-
-- l'énoncé de principes et d'objectifs ;
-
-- un programme d'actions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -41236,18 +40996,35 @@ les différentes parties qui le composent :
 
 ###### Article R302-1-1
 
-Le diagnostic :
+Le diagnostic comprend :
 
-a) Analyse la situation existante et les évolutions en cours, notamment des marchés du foncier et du logement, du logement
-des personnes défavorisées, des transports, du rôle et de l'insertion de chaque quartier dans l'aire du programme local de
-l'habitat et des besoins des habitants actuels et futurs ;
+a) Une analyse de la situation existante et des évolutions en cours en ce qui concerne l'adéquation de l'offre et de la
+demande sur le marché local de l'habitat prenant en compte les enjeux liés aux déplacements et aux transports. Elle
+comprend :
 
-Cette analyse est fondée sur les informations et données relatives à l'habitat dans le périmètre du programme et, le cas
-échéant, dans l'ensemble de l'agglomération à laquelle appartiennent les communes concernées.
+- l'analyse de l'offre, qui porte notamment sur l'offre foncière, sur l'offre publique et privée de logement et
+d'hébergement, ainsi que sur l'état du parc de logements existant ;
 
-b) Expose les conséquences en matière d'habitat des prévisions et objectifs d'aménagement urbain ressortant des schémas
-directeurs, et schémas de secteurs, quand ils existent, des orientations d'aménagement du territoire et des perspectives de
-développement démographiques et socio-économiques.
+- l'analyse de la demande, qui comporte une estimation quantitative et qualitative des besoins en logement tenant compte des
+évolutions démographiques prévisibles, des besoins répertoriés dans le cadre du plan départemental d'action pour le logement
+des personnes défavorisées, des besoins en logements sociaux et en places d'hébergement, y compris les foyers-logements, des
+besoins liés au logement des étudiants et des besoins propres à certaines catégories de population, en particulier en matière
+d'accessibilité et de logements adaptés ;
+
+- l'analyse des dysfonctionnements constatés en matière d'équilibre social de l'habitat et de leurs conséquences ;
+
+b) Une évaluation des résultats et des effets des politiques de l'habitat mises en oeuvre sur le territoire auquel s'applique
+le programme au cours des dernières années ou du précédent programme local de l'habitat, qui indique notamment :
+
+- les actions réalisées et les moyens qui ont été mis en oeuvre ;
+
+- le bilan des actions réalisées au regard des objectifs et leurs effets sur le marché du logement ;
+
+c) Un exposé des conséquences, en matière d'habitat, des perspectives de développement et d'aménagement telles qu'elles
+ressortent des schémas de cohérence territoriale et des schémas de secteurs quand ils existent. En absence de schéma de
+cohérence territoriale, le programme local de l'habitat indique la manière dont il prend en compte l'objectif de mixité
+sociale dans l'habitat mentionné à l'article L. 121-1 du code de l'urbanisme sur le territoire couvert par le programme au
+vu, le cas échéant, de la situation de territoires limitrophes.
 
 **Liens relatifs à cet article**
 
@@ -41255,13 +41032,13 @@ développement démographiques et socio-économiques.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de l'urbanisme - art. L121-1 (M)
 
 	**Cité par**:
 
@@ -41272,15 +41049,27 @@ développement démographiques et socio-économiques.
 
 ###### Article R302-1-2
 
-L'énoncé d'objectifs et de principes :
+Le document d'orientation énonce, au vu du diagnostic, les principes et objectifs du programme local de l'habitat et indique
+notamment :
 
-a) Précise les objectifs quantitatifs retenus en matière de constructions neuves et de réhabilitation ;
+a) Les principes retenus pour permettre, dans le respect des objectifs de mixité sociale dans l'habitat, une offre
+suffisante, diversifiée et équilibrée des différents types de logements sur le territoire couvert par le programme local de
+l'habitat ;
 
-b) Décrit les principes retenus pour assurer une diversité de l'habitat et une répartition équilibrée des différents types de
-logements ;
+b) Les principes retenus pour répondre aux besoins et, notamment, à ceux des personnes mal logées, défavorisées ou présentant
+des difficultés particulières ;
 
-c) Justifie la cohérence entre ces objectifs et principes et les dispositions du plan départemental d'action pour le logement
-des personnes défavorisées ainsi que des protocoles d'occupation du patrimoine social, quand ils existent.
+c) Les axes principaux susceptibles de guider les politiques d'attribution des logements locatifs sociaux ;
+
+d) Les secteurs géographiques et les catégories de logements sur lesquels des interventions publiques sont nécessaires ;
+
+e) La politique envisagée en matière de requalification du parc public et privé existant, de lutte contre l'habitat indigne
+et de renouvellement urbain, en particulier les actions de rénovation urbaine au sens du chapitre II de la loi n° 2003-710 du
+1er août 2003 ;
+
+f) Les principaux axes d'une politique d'adaptation de l'habitat en faveur des personnes âgées et handicapées ;
+
+g) Les réponses apportées aux besoins particuliers de logement des étudiants.
 
 **Liens relatifs à cet article**
 
@@ -41288,13 +41077,13 @@ des personnes défavorisées ainsi que des protocoles d'occupation du patrimoine
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Loi n°2003-710 2003-08-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -41305,15 +41094,32 @@ des personnes défavorisées ainsi que des protocoles d'occupation du patrimoine
 
 ###### Article R302-1-3
 
-Le programme d'actions :
+Le programme d'actions indique :
 
-a) Définit les actions et les moyens qui seront mis en oeuvre par les communes ou les établissements publics de coopération
-intercommunale compétents pour la durée du programme local de l'habitat pour atteindre les objectifs retenus ;
+a) Les modalités de suivi et d'évaluation du programme local de l'habitat et les conditions de mise en place d'un dispositif
+d'observation de l'habitat ;
 
-A ce titre, le programme d'actions indique notamment, lorsqu'il y a lieu, les taux et les zones d'application de la
-participation à la diversité de l'habitat.
+b) Les objectifs quantifiés et la localisation de l'offre nouvelle de logement et d'hébergement dans chaque secteur
+géographique défini au sein du territoire couvert par le programme local de l'habitat. Dans les agglomérations où les
+dispositions de l'article L. 302-5 sont applicables, il précise la répartition prévisionnelle des logements locatifs sociaux
+nécessaires pour atteindre les objectifs définis à l'article L. 302-8, entre les différentes communes membres de
+l'établissement public de coopération intercommunale ;
 
-b) Précise les modalités de suivi et d'évaluation du programme local de l'habitat.
+c) La liste des principales actions envisagées pour l'amélioration et la réhabilitation du parc de logements publics ou
+privés existant ainsi que, le cas échéant, les dispositifs opérationnels auxquels il est envisagé de recourir, dans chaque
+secteur géographique défini au sein du territoire couvert par le programme local de l'habitat ;
+
+d) La description des opérations de rénovation urbaine envisagées, en précisant les modalités de reconstitution de l'offre de
+logement social liée à ces opérations ;
+
+e) Les interventions en matière foncière permettant la réalisation des actions du programme.
+
+Le programme d'actions indique, le cas échéant, les incidences de la mise en oeuvre des actions retenues sur les plans locaux
+d'urbanisme et les cartes communales, dans chaque secteur géographique défini au sein du territoire couvert par le programme
+local de l'habitat.
+
+Il évalue les moyens financiers nécessaires à sa mise en oeuvre et indique, pour chaque type d'actions, à quelles catégories
+d'intervenants incombe sa réalisation.
 
 **Liens relatifs à cet article**
 
@@ -41321,18 +41127,53 @@ b) Précise les modalités de suivi et d'évaluation du programme local de l'hab
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-3-1 (VT)
 	  - Code de l'urbanisme - art. R151-54 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+
+###### Article R302-1-4
+
+Le dispositif d'observation de l'habitat mentionné au septième alinéa de l'article L. 302-1 porte notamment sur :
+
+- l'analyse de la conjoncture du marché immobilier ;
+
+- le suivi de la demande de logement locatif social ;
+
+- le suivi des évolutions constatées dans le parc de logements locatifs sociaux et le parc de logements privés.
+
+Les services de l'Etat mettent à la disposition des gestionnaires du dispositif d'observation les informations utiles dont
+ils disposent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-14-1 (VT)
+	  - Code de l'urbanisme - art. R151-54 (V)
+	  - Code de l'urbanisme - art. R152-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
 
 
 ##### Section 2 : Etablissement du programme local de l'habitat par un établissement public de coopération intercommunale.
@@ -41362,8 +41203,8 @@ intercommunale mentionné à l'article L. 302-1.
 L'organe délibérant de l'établissement public de coopération intercommunale décide d'engager la procédure d'élaboration du
 programme local de l'habitat.
 
-Il indique par la même délibération les modalités de l'association des personnes morales, autres que l'Etat, à l'élaboration
-du programme.
+Il indique par la même délibération les personnes morales qu'il juge utile d'associer à l'élaboration du programme, ainsi que
+les modalités de leur association.
 
 **Liens relatifs à cet article**
 
@@ -41371,13 +41212,9 @@ du programme.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -41408,12 +41245,8 @@ l'habitat.
 
 ###### Article R302-5
 
-La délibération prévue à l'article R. 302-3 est notifiée aux personnes morales que l'établissement public de coopération
-intercommunale juge utile d'associer à l'élaboration du programme local de l'habitat. Celles-ci, dans un délai de deux mois à
-compter de la notification de cette délibération, font savoir si elles acceptent d'être associées à l'élaboration du
-programme local de l'habitat et désignent à cet effet leurs représentants.
-
-A l'issue du délai mentionnée à l'alinéa précédent, le président arrête la liste des personnes morales associées.
+La délibération mentionnée à l'article R. 302-3 est notifiée aux personnes morales associées à l'élaboration du programme
+local de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -41423,7 +41256,7 @@ A l'issue du délai mentionnée à l'alinéa précédent, le président arrête 
 
 	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cite**:
 
@@ -41461,9 +41294,10 @@ d'association de l'Etat à son élaboration.
 
 Dans un délai de trois mois à compter de la transmission de la délibération prévue à l'article R. 302-3, le préfet porte à la
 connaissance du président de l'établissement public de coopération intercommunale toute information utile concernant
-notamment l'évolution démographique, le développement économique local, les options d'aménagement ressortant des schémas
-directeurs, ainsi que les objectifs à prendre en compte en matière d'habitat et de répartition équilibrée des différents
-types de logements dans l'agglomération concernée.
+notamment l'évolution démographique, le développement économique local, les options d'aménagement ressortant des schémas de
+cohérence territoriale ou des schémas directeurs, ainsi que les objectifs à prendre en compte en matière d'habitat et de
+répartition équilibrée des différents types de logements dans l'agglomération concernée et notamment les obligations
+résultant de l'application de l'article L. 302-5.
 
 Il porte également à sa connaissance, le cas échéant, les objectifs spécifiques à certains quartiers notamment ceux qui
 résultent des conventions de développement social urbain.
@@ -41480,13 +41314,14 @@ l'établissement public qui en rend compte à l'organe délibérant.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. R302-3 (M)
 
 
 ###### Article R302-8
@@ -41508,8 +41343,8 @@ intercommunale.
 ###### Article R302-9
 
 Après avoir été arrêté, le projet de programme local de l'habitat est soumis par le président de l'établissement public de
-coopération intercommunale aux communes membres et aux établissements publics de coopération intercommunale territorialement
-concernés compétents en matière d'urbanisme, d'action foncière ou de logement.
+coopération intercommunale aux communes membres et, s'il y a lieu, aux organes compétents chargés de l'élaboration du schéma
+de cohérence territoriale.
 
 Les conseils municipaux des communes et les organes délibérants des établissements publics de coopération intercommunale
 visés à l'alinéa précédent délibèrent notamment sur les moyens, relevant de leurs compétences respectives, à mettre en place
@@ -41523,13 +41358,9 @@ Faute de réponse dans un délai de deux mois, à compter de la transmission du 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
 	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -41540,12 +41371,12 @@ Faute de réponse dans un délai de deux mois, à compter de la transmission du 
 ###### Article R302-10
 
 Au vu des avis exprimés en application de l'article R. 302-9, l'organe délibérant de l'établissement public de coopération
-intercommunale délibère à nouveau sur le projet et le transmet au préfet. Celui-ci le soumet, pour avis dans un délai de deux
-mois, au conseil départemental de l'habitat et transmet l'avis de ce dernier à l'établissement public de coopération
-intercommunale.
+intercommunale délibère à nouveau sur le projet et le transmet au préfet. Celui-ci le transmet au représentant de l'Etat dans
+la région afin qu'il en saisisse pour avis le comité régional de l'habitat, qui dispose d'un délai de deux mois pour se
+prononcer. Son avis est transmis au préfet du département intéressé.
 
-Lorsqu'il y a lieu, le préfet adresse, dans un délai d'un mois à compter de l'avis du conseil départemental de l'habitat, des
-demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
+Lorsqu'il y a lieu, le préfet adresse, dans un délai d'un mois à compter de la transmission de l'avis du comité régional de
+l'habitat, des demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -41555,7 +41386,7 @@ demandes motivées de modifications formulées en application de l'article L. 30
 
 	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cite**:
 
@@ -41569,15 +41400,14 @@ demandes motivées de modifications formulées en application de l'article L. 30
 
 ###### Article R302-11
 
-L'établissement public de coopération intercommunale délibère sur les demandes motivées de modifications du préfet et adopte
-par délibération le programme local de l'habitat éventuellement modifié et, si la nature et l'importance des modifications le
-justifient, après consultation des communes et des établissements publics de coopération intercommunale suivant les modalités
-prévues par l'article R. 302-9.
+L'établissement public de coopération intercommunale délibère sur les demandes motivées de modifications présentées, le cas
+échéant, par le préfet. S'il les accepte, il transmet pour avis le projet ainsi modifié aux communes et aux établissements
+publics de coopération intercommunale suivant les modalités prévues à l'article R. 302-9.
 
-Cette délibération est transmise aux maires des communes membres, aux présidents des établissements publics de coopération
-intercommunale mentionnés au premier alinéa de l'article R. 302-9 et au préfet.
+Le programme local de l'habitat est adopté par l'établissement public de coopération intercommunale. Sa délibération est
+transmise aux personnes morales mentionnées à l'article R. 302-9.
 
-Le programme local de l'habitat adopté accompagné des avis exprimés en application des articles R. 302-9 et R. 302-10 est
+Le programme local de l'habitat adopté, accompagné des avis exprimés en application des articles R. 302-9 et R. 302-10, est
 transmis pour information aux personnes morales associées à son élaboration.
 
 **Liens relatifs à cet article**
@@ -41586,19 +41416,25 @@ transmis pour information aux personnes morales associées à son élaboration.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de la construction et de l'habitation. - art. R302-10 (M)
+	  - Code de la construction et de l'habitation. - art. R302-9 (M)
 
 
 ###### Article R302-12
 
+La délibération adoptant le programme local de l'habitat est affichée pendant un mois au siège de l'établissement public de
+coopération intercommunale compétent et dans les mairies des communes membres. Mention de cet affichage est insérée dans un
+journal diffusé dans le ou les départements intéressés.
+
 Le programme local de l'habitat adopté est tenu à la disposition du public au siège de l'établissement public de coopération
-intercommunale, dans les mairies des communes membres ainsi qu'à la préfecture du ou des départements concernés.
+intercommunale, dans les mairies des communes membres, à Paris, Marseille et Lyon, dans les mairies d'arrondissement, ainsi
+qu'à la préfecture du ou des départements intéressés.
 
 **Liens relatifs à cet article**
 
@@ -41606,13 +41442,9 @@ intercommunale, dans les mairies des communes membres ainsi qu'à la préfecture
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -41624,12 +41456,9 @@ intercommunale, dans les mairies des communes membres ainsi qu'à la préfecture
 L'établissement public de coopération intercommunale dresse un bilan annuel de réalisation du programme local de l'habitat et
 décide d'éventuelles adaptations que justifierait l'évolution de la situation sociale, économique ou démographique.
 
-Lorsque les adaptations qui seraient nécessaires remettent en cause l'économie générale du programme local de l'habitat,
-celui-ci est modifié dans les formes prévues pour son établissement.
-
-Le bilan annuel ainsi que les documents portant le contenu des adaptations visées à l'alinéa précédent sont transmis aux
-personnes mentionnées aux deuxième et troisième alinéas de l'article R. 302-11 et tenus à la disposition du public dans les
-conditions visées à l'article R. 302-12.
+Le bilan annuel ainsi que les délibérations approuvant les adaptations mentionnées à l'alinéa précédent sont transmis aux
+communes et aux établissements publics de coopération intercommunale ainsi qu'au préfet et sont tenus à la disposition du
+public dans les conditions prévues à l'article R. 302-12.
 
 **Liens relatifs à cet article**
 
@@ -41637,23 +41466,47 @@ conditions visées à l'article R. 302-12.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+	  - Décret n°2005-317 du 4 avril 2005 - art. 1 () JORF 6 avril 2005
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
+	  - Code de la construction et de l'habitation. - art. R302-12 (M)
 
 
-##### Section 3 : Etablissement d'un programme local de l'habitat par une commune.
+##### Section 3 : Dispositions particulières à certaines agglomérations.
 
 ###### Article R302-14
 
-Lorsqu'en vertu de l'article L. 302-4-1, une commune élabore seule un programme local de l'habitat, la procédure
-d'élaboration obéit aux dispositions des articles R. 302-3 à R. 302-8, le conseil municipal se substituant à l'organe
-délibérant de l'établissement public de coopération intercommunale et le maire se substituant au président de cet
-établissement.
+L'inventaire prévu à l'article L. 302-6 est établi pour chaque bâtiment par la personne morale propriétaire, à défaut par la
+personne morale gestionnaire. Il comporte les informations suivantes :
+
+A. - Données générales concernant :
+
+a) Le propriétaire : nom ou raison sociale, dénomination usuelle, statut, numéro SIRET, adresse ;
+
+b) Le gestionnaire, s'il diffère du propriétaire : nom ou raison sociale, dénomination usuelle, statut, numéro SIRET,
+adresse ;
+
+c) Le bâtiment : adresse, nom du programme ou du bâtiment, date de première mise en location, mode de financement ;
+
+d) La convention, s'il y a lieu : numéro de la convention, date de la publication au fichier immobilier ou de l'inscription
+au livre foncier, année d'expiration de la convention.
+
+B. - Nombre de logements locatifs sociaux, au sens de l'article L. 302-5, dans le bâtiment, pour chacune des catégories
+suivantes :
+
+1° Logements appartenant aux organismes d'habitation à loyer modéré et construits ou acquis et améliorés avant le 5 janvier
+1977 ;
+
+2° Autres logements conventionnés ;
+
+3° Logements mentionnés au 3° de l'article L. 302-5 ;
+
+4° Logements ou équivalents logement des lits et places mentionnés au 4° de l'article L. 302-5, le nombre de logements
+équivalents étant obtenu en retenant la partie entière issue du calcul effectué à raison d'un logement pour trois lits en
+logements-foyer ou pour trois places en centre d'hébergement et de réinsertion sociale.
 
 **Liens relatifs à cet article**
 
@@ -41661,15 +41514,7 @@ délibérant de l'établissement public de coopération intercommunale et le mai
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
 	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
 
 	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
 
@@ -41684,6 +41529,11 @@ délibérant de l'établissement public de coopération intercommunale et le mai
 	  - Décret n°2017-840 du 5 mai 2017 - art. 5 (V)
 	  - Code de la construction et de l'habitation. - art. R*445-24 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-6 (M)
+
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation. - art. R302-28 (T)
@@ -41691,10 +41541,7 @@ délibérant de l'établissement public de coopération intercommunale et le mai
 
 ###### Article R302-15
 
-Le projet de programme local de l'habitat arrêté par le conseil municipal est transmis au préfet. Celui-ci le soumet, pour
-avis dans un délai de deux mois, au conseil départemental de l'habitat et transmet l'avis exprimé par ce conseil à la
-commune. Lorsqu'il y a lieu, le préfet adresse, dans le délai d'un mois à compter de l'avis du conseil départemental de
-l'habitat, les demandes motivées de modifications formulées en application de l'article L. 302-2, cinquième alinéa.
+L'inventaire est établi selon des modalités définies par arrêté du ministre chargé du logement.
 
 **Liens relatifs à cet article**
 
@@ -41702,17 +41549,9 @@ l'habitat, les demandes motivées de modifications formulées en application de 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Modifié par**:
-
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-2 (M)
 
 	**Anciens textes**:
 
@@ -41721,9 +41560,37 @@ l'habitat, les demandes motivées de modifications formulées en application de 
 
 ###### Article R302-16
 
-Le conseil municipal délibère sur les demandes motivées de modifications du préfet et adopte par délibération le programme
-local de l'habitat éventuellement modifié. Le programme local de l'habitat adopté est tenu à la disposition du public à la
-mairie ainsi qu'à la préfecture du département concerné. Il est soumis aux dispositions de l'article R. 302-13.
+Peuvent être déduites du prélèvement prévu à l'article L. 302-7 du présent code les dépenses et les moins-values, énumérées
+ci-après, supportées par les communes pour atteindre les objectifs de réalisation de logements locatifs sociaux définis à
+l'article L. 302-8 du même code :
+
+1° I. - Pour leur montant intégral, les subventions foncières, quelle que soit leur forme, bénéficiant directement à ceux,
+propriétaires ou maîtres d'ouvrage, qui réalisent sur des terrains ou des biens immobiliers des opérations ayant pour objet
+la création de logements locatifs sociaux au sens de l'article L. 302-5 du présent code.
+
+II. - Pour tout ou partie de leur montant, les subventions versées à l'aménageur d'une zone d'aménagement concerté créée en
+application de l'article L. 311-1 du code de l'urbanisme qui opère dans le cadre d'une convention publique d'aménagement
+mentionnée à l'article L. 300-4 du même code, lorsque la charge foncière par mètre carré de surface hors oeuvre nette payée à
+l'aménageur de la zone par le maître d'ouvrage des logements locatifs sociaux est inférieure ou égale à la charge foncière
+moyenne par mètre carré de surface hors oeuvre nette autorisée pour l'ensemble de la zone, telle que cette dernière peut être
+évaluée à partir du dernier compte rendu financier fourni à la commune par l'aménageur de la zone en application de l'article
+L. 300-5 du même code. Il y a alors lieu à déduction au prorata de la surface hors oeuvre nette des logements locatifs
+sociaux rapportée à la surface hors oeuvre nette totale autorisée dans le cadre de l'aménagement d'ensemble de la zone
+d'aménagement concerté.
+
+2° Le coût des travaux engagés pour viabiliser des terrains ou des biens immobiliers appartenant à la commune et mis
+ultérieurement par elle à disposition de maîtres d'ouvrages par bail emphytéotique, bail à construction ou bail à
+réhabilitation, dans la mesure où ces travaux sont effectivement destinés à la construction de logements locatifs sociaux.
+Les dépenses ainsi supportées sont déductibles au prorata de la surface hors oeuvre nette des logements locatifs sociaux
+créés. La déduction n'est toutefois possible qu'autant que la délibération du conseil municipal autorisant les travaux
+mentionnés ci-dessus précise le nombre de logements locatifs sociaux projetés et identifie chaque maître d'ouvrage concerné.
+
+3° Les moins-values correspondant à la différence entre le prix de cession de terrains ou de biens immobiliers devant
+effectivement donner lieu à la réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la date de la
+cession, par le service des domaines.
+
+Seule peut être admise en déduction la fraction des dépenses qui n'a pas fait l'objet d'une subvention du fonds d'aménagement
+urbain.
 
 **Liens relatifs à cet article**
 
@@ -41731,17 +41598,17 @@ mairie ainsi qu'à la préfecture du département concerné. Il est soumis aux d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
 	**Créé par**:
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
 	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme - art. L300-5 (Ab)
+	  - Code de l'urbanisme - art. L311-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
 
 	**Cité par**:
 
@@ -41750,93 +41617,35 @@ mairie ainsi qu'à la préfecture du département concerné. Il est soumis aux d
 
 	**Anciens textes**:
 
+	  - Code de la construction et de l'habitation. - art. R302-30 (M)
 	  - Code de la construction et de l'habitation. - art. R302-30 (T)
 
 
-##### Section 6 : Dispositions particulières à certaines agglomérations.
+###### Article R302-17
 
-###### Article R302-24
+Les communes concernées par le prélèvement prévu à l'article L. 302-5 du présent code adressent chaque année au préfet, au
+plus tard le 31 octobre, un état, certifié conforme par l'ordonnateur, des dépenses et moins-values, déductibles dans les
+conditions fixées à l'article R. 302-30, qu'elles ont effectivement supportées au titre de l'exercice précédent.
 
-La population mentionnée à l'article L. 302-5, premier alinéa, est la population sans double compte de l'agglomération au
-sens de l'INSEE.
+Cet état des dépenses déductibles indique, pour chaque opération ayant pour objet la réalisation de logements locatifs
+sociaux :
 
-**Liens relatifs à cet article**
+a) Sa localisation ;
 
-	**Codifié par**:
+b) Le nombre et la surface des logements locatifs sociaux programmés ;
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+c) Le montant des dépenses effectivement supportées au titre du 1° et du 2° de l'article R. 302-30, tel qu'il ressort du
+compte administratif ;
 
-	**Liens**:
+d) Les éléments, comptables et autres, pris en compte pour le calcul de la moins-value supportée au titre du 3° de l'article
+R. 302-30 ;
 
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
+e) La date de la délibération ayant autorisé la dépense ou la cession.
 
-	**Créé par**:
+Les délibérations mentionnées à l'alinéa ci-dessus, ainsi que tous autres documents propres à justifier que les dépenses
+figurant dans l'état remplissent les conditions requises pour être admises en déduction, sont annexées à celui-ci.
 
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-38 (T)
-
-
-###### Article R302-25
-
-Le nombre de bénéficiaires de prestations visés par l'article L. 302-5 est celui du 30 juin de l'année précédente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-662 1991-07-13 art. 13 et 15
-
-	**Créé par**:
-
-	  - Décret n°92-459 du 22 mai 1992 - art. 1 () JORF 23 mai 1992
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-
-###### Article R302-26
-
-Le nombre de logements sociaux pris en compte pour l'application de l'article L. 302-8 est calculé en arrondissant par défaut
-au multiple de dix directement inférieur ou égal au nombre résultant de l'application des pourcentages mentionnés au premier
-alinéa dudit article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°95-676 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-
-###### Article R302-27
-
-Les logements sociaux en accession à la propriété prévus à l'article L. 302-5 sont :
-
-- les logements achevés depuis moins de dix ans et occupés par leur propriétaire si celui-ci a financé ce logement dans les
-conditions prévues aux articles R. 331-32 à R. 331-62, sous réserve que leur nombre soit au moins égal à cinq par opération à
-la date du permis de construire ;
-
-- les logements ayant bénéficié, depuis moins de quinze ans, de l'avance remboursable ne portant pas intérêt prévue à
-l'article R. 317-1 en complément d'un prêt garanti par l'Etat en application de l'article R. 312-3-1.
+L'état des dépenses déductibles sera annexé au budget primitif de l'exercice au titre duquel le prélèvement est établi.
 
 **Liens relatifs à cet article**
 
@@ -41846,24 +41655,85 @@ l'article R. 317-1 en complément d'un prêt garanti par l'Etat en application d
 
 	**Créé par**:
 
-	  - Décret n°97-119 du 10 février 1997 - art. 1 () JORF 12 février 1997 en vigueur le 1er janvier 1997
-
-	**Abrogé par**:
-
 	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Cité par**:
-
-	  - Décret n°2015-638 du 8 juin 2015 (V)
-	  - Code de la construction et de l'habitation. - art. R391-8 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L302-5, R331-32 à R331-62, R317-1, R312-3-1
 	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. R317-1 (M)
+	  - Code de la construction et de l'habitation. - art. R302-30 (M)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
 
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-18 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+
+
+###### Article R302-18
+
+Si dans un délai de deux ans après la déduction opérée en application de l'article L. 302-7 du présent code l'opération de
+logements sociaux n'a pas reçu un commencement d'exécution, les sommes ainsi déduites sont ajoutées au prélèvement de l'année
+en cours. Pour l'application du présent article, le commencement d'exécution est la signature de la convention visée à
+l'article L. 351-2 du même code, conclue entre l'Etat et le maître d'ouvrage de l'opération.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 ne correspondent manifestement pas au
+financement d'une opération de logement locatif social tel que défini à l'article R. 302-30, les sommes correspondantes ne
+seront pas admises en déduction.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 s'avèrent ne pas entrer dans le champ défini à
+l'article R. 302-30 du présent code, les sommes indûment déduites seront ajoutées au prélèvement de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+	  - Code de la construction et de l'habitation. - art. R302-30 (M)
+	  - Code de la construction et de l'habitation. - art. R302-31 (T)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-32 (T)
+
+
+###### Article R302-19
+
+Le prélèvement mentionné à l'article L. 302-7 du présent code dont le montant est arrêté par le préfet est imputé chaque
+année sur les attributions mentionnées au premier alinéa de l'article L. 2332-2 du code général des collectivités
+territoriales. Il est effectué par neuvième à partir du mois de mars et jusqu'au mois de novembre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2332-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-33 (T)
+
+
+##### Section 6 : Dispositions particulières à certaines agglomérations.
 
 ###### Article R302-28
 
@@ -42022,152 +41892,6 @@ urbain.
 	  - Code de la construction et de l'habitation. - art. R302-18 (M)
 	  - Code de la construction et de l'habitation. - art. R302-31 (T)
 	  - Code de la construction et de l'habitation. - art. R302-32 (T)
-
-
-###### Article R302-31
-
-Les communes concernées par le prélèvement prévu à l'article L. 302-5 du présent code adressent chaque année au préfet, au
-plus tard le 31 octobre, un état, certifié conforme par l'ordonnateur, des dépenses et moins-values, déductibles dans les
-conditions fixées à l'article R. 302-30, qu'elles ont effectivement supportées au titre de l'exercice précédent.
-
-Cet état des dépenses déductibles indique, pour chaque opération ayant pour objet la réalisation de logements locatifs
-sociaux :
-
-a) Sa localisation ;
-
-b) Le nombre et la surface des logements locatifs sociaux programmés ;
-
-c) Le montant des dépenses effectivement supportées au titre du 1° et du 2° de l'article R. 302-30, tel qu'il ressort du
-compte administratif ;
-
-d) Les éléments, comptables et autres, pris en compte pour le calcul de la moins-value supportée au titre du 3° de l'article
-R. 302-30 ;
-
-e) La date de la délibération ayant autorisé la dépense ou la cession.
-
-Les délibérations mentionnées à l'alinéa ci-dessus, ainsi que tous autres documents propres à justifier que les dépenses
-figurant dans l'état remplissent les conditions requises pour être admises en déduction, sont annexées à celui-ci.
-
-L'état des dépenses déductibles sera annexé au budget primitif de l'exercice au titre duquel le prélèvement est établi.
-
-**Nota:**
-
-NOTA : Décret 2001-1194 2001-12-13 art. 2 : Pour la production de l'état afférent aux dépenses ou moins-values supportées au
-titre de l'exercice 2000, qui seront imputées sur le prélèvement opéré au titre de l'exercice 2002, la date limite mentionnée
-à l'article R. 302-31 est reportée au 31 décembre 2001.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
-
-	**Transféré par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. R302-30 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R302-17 (M)
-	  - Code de la construction et de l'habitation. - art. R302-18 (M)
-	  - Code de la construction et de l'habitation. - art. R302-31 (T)
-	  - Code de la construction et de l'habitation. - art. R302-32 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-17 (M)
-
-
-###### Article R302-32
-
-Si dans un délai de deux ans après la déduction opérée en application de l'article L. 302-7 du présent code l'opération de
-logements sociaux n'a pas reçu un commencement d'exécution, les sommes ainsi déduites sont ajoutées au prélèvement de l'année
-en cours. Pour l'application du présent article, le commencement d'exécution est la signature de la convention visée à
-l'article L. 351-2 du même code, conclue entre l'Etat et le maître d'ouvrage de l'opération.
-
-Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 ne correspondent manifestement pas au
-financement d'une opération de logement locatif social tel que défini à l'article R. 302-30, les sommes correspondantes ne
-seront pas admises en déduction.
-
-Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31 s'avèrent ne pas entrer dans le champ défini à
-l'article R. 302-30 du présent code, les sommes indûment déduites seront ajoutées au prélèvement de l'année suivante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
-
-	**Transféré par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-7 (M)
-	  - Code de la construction et de l'habitation. - art. R302-30 (M)
-	  - Code de la construction et de l'habitation. - art. R302-31 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-18 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-18 (M)
-
-
-###### Article R302-33
-
-Le prélèvement mentionné à l'article L. 302-7 du présent code dont le montant est arrêté par le préfet est imputé chaque
-année sur les attributions mentionnées au premier alinéa de l'article L. 2332-2 du code général des collectivités
-territoriales. Il est effectué par neuvième à partir du mois de mars et jusqu'au mois de novembre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2001-1194 du 13 décembre 2001 - art. 1 () JORF 15 décembre 2001
-
-	**Transféré par**:
-
-	  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2332-2 (V)
-	  - Code de la construction et de l'habitation. - art. L302-7 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la construction et de l'habitation. - art. L302-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-19 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-19 (M)
 
 
 ###### Article R302-34
