@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1989-09-27
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -18264,6 +18264,31 @@ coordonner l'ensemble des missions de contrôle.
 	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
 
 
+###### Article R*111-42
+
+Sera puni d'une amende de 3000 à 6000 F [*montant (1)*] et d'un emprisonnement dix jours à un mois ou de l'une de ces deux
+peines seulement [*sanctions*] le maître de l'ouvrage ou son mandataire qui aura entrepris ou poursuivi des travaux sans
+avoir fait procéder au contrôle technique dans le cas où celui-ci est obligatoire.
+
+En cas de récidive, la peine d'amende sera portée de 6000 à 12000 F. et l'emprisonnement de un à deux mois au plus. [*(1)
+Taux résultant du décret 89-989 du 29 décembre 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+
 ### Titre II : Sécurité et protection contre l'incendie.
 
 #### Chapitre Ier : Protection contre l'incendie - Classification des matériaux.
@@ -22433,6 +22458,92 @@ maxima des différentes catégories de personnels du centre scientifique et tech
 
 #### Chapitre II : Sanctions pénales.
 
+##### Section 1 : Sécurité des ascenseurs.
+
+###### Article R152-1
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
+code de l'urbanisme et L. 152-1 à L. 152-9 du présent code, toute infraction aux dispositions des articles R. 122-7, R.
+122-8, R. 122-14 à R. 122-18 et R. 122-20 est punie d'une amende de 3000 à 6000 F et, en cas de récidive, d'un emprisonnement
+de un mois à deux mois.
+
+Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-22. Dans ce cas, l'amende est appliquée
+autant de fois qu'il y a eu de journées d'occupation de l'immeuble sans autorisation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1063 1967-11-15 art. 29
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code de l'urbanisme L480-2 à L480-9
+	  - Code de la construction et de l'habitation R122-7, R122-8, R122-14 à R122-18, R122-20, R122-22
+	  - Code de la construction et de l'habitation. - art. R122-20 (V)
+	  - Code de la construction et de l'habitation. - art. R122-22 (V)
+	  - Code de la construction et de l'habitation. - art. R122-7 (V)
+	  - Code de la construction et de l'habitation. - art. R122-8 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (M)
+	  - Code de la construction et de l'habitation. - art. R152-2 (Ab)
+
+
+###### Article R152-2
+
+Toute infraction à celles des dispositions des articles R. 122-23 et R. 122-28 qui sont relatives à l'obligation pour le
+propriétaire d'assister aux visites de contrôle est punie d'une amende de 3000 à 6000 F. En cas de récidive, la peine
+d'amende peut être portée de 6000 à 12000 F.
+
+Est punie des mêmes peines toute infraction aux dispositions de l'article R. 122-29.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1063 1967-11-15 art. 30
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*161-2 (V)
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R122-23 (V)
+	  - Code de la construction et de l'habitation. - art. R122-28 (V)
+	  - Code de la construction et de l'habitation. - art. R122-29 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-4 (V)
+
+
 ##### Section 2 : Immeubles de grande hauteur.
 
 ###### Article R152-3
@@ -22467,6 +22578,127 @@ la protection civile et à ceux de la commission technique interministérielle d
 
 	  - Code de la construction et de l'habitation. - art. R*152-5 (M)
 	  - Code de la construction et de l'habitation. - art. R152-5 (V)
+
+
+##### Section 2 : Immeubles recevant du public.
+
+###### Article R*152-4
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues notamment aux articles L. 480-2 à L. 480-9 du
+code de l'urbanisme et L. 152-2 à L. 152-9 du présent code, tout constructeur, propriétaire, exploitant d'un établissement
+soumis aux dispositions du présent chapitre qui contrevient aux dispositions des articles R. 123-21, 3e alinéa, R. 123-23, R.
+123-25, R. 123-43 et R. 123-44, est puni d'une amende de 3000 à 6000 F et, en cas de récidive, d'un emprisonnement de un à
+deux mois.
+
+Est puni des mêmes peines tout constructeur, propriétaire, exploitant qui ouvre un établissement au public sans les visites
+de contrôle prévues à l'article R. 123-45, 2e alinéa, sans l'autorisation d'ouverture prévue à l'article R. 123-46. Dans ces
+deux cas, l'amende est appliquée autant de fois qu'il y a de journées d'ouverture sans visite de contrôle, sans autorisation
+ou sans déclaration d'ouverture.
+
+Est puni des mêmes peines quiconque contrevient aux obligations définies à l'article R. 123-7, alinéa 2, et aux articles R.
+123-8, R. 123-9 et R. 123-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code de l'urbanisme L480-2 à L480-9
+	  - Code de la construction et de l'habitation R123-21, R123-45, R123-46, R123-7, R123-8, R123-9, R123-11
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*111-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R152-2 (T)
+	  - Décret n°73-1007 1973-10-31 art. 53
+
+
+###### Article R*152-5
+
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 209 à 233 du code pénal et à
+l'article L. 480-12 du code de l'urbanisme et l'article L. 152-10 du présent code, quiconque a mis obstacle à l'exercice du
+droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni d'une amende de 3000 à 6000 F. En cas de récidive, la
+peine d'amende peut être portée à 6000 à 12000 F.
+
+Est puni des mêmes peines tout propriétaire ou exploitant qui contrevient aux dispositions des articles R. 123-49, 1er
+alinéa, et R. 123-51.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-1007 1973-10-31 art. 54
+	  - Code de la construction et de l'habitation. - art. R152-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code pénal 209 à 233
+	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de la construction et de l'habitation L152-10, R123-45, R123-48, R123-49
+	  - Code de la construction et de l'habitation. - art. L152-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R*152-7 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R111-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+
+
+##### Section 3 : Chauffage.
+
+###### Article R*152-6
+
+Les infractions aux dispositions des articles R. 131-19 à R. 131-23 sont punies d'une amende de 3000 à 6000 F qui peut être
+portée au double en cas de récidive.
+
+Est punie de la même peine l'opposition à l'exercice des fonctions des agents chargés de constater les infractions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-1025 1974-12-03 art. 6 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R131-19 à R131-23
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer.
