@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-04-29
 
 # Partie législative
 
@@ -33089,11 +33089,18 @@ des frais de constitution d'hypothèque et autres relatifs à la réalisation du
 
 ###### Article R312-3-1
 
-La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 ne peut être accordée qu'aux prêts conventionnés
-mentionnés aux articles R. 331-63 à R. 331-77, consentis par des établissements de crédit ayant conclu une convention avec la
-société de gestion du fonds de garantie de l'accession sociale à la propriété, à des personnes physiques dont les revenus
-sont inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé
-du budget et du ministre chargé du logement.
+La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 peut être accordée aux prêts conventionnés mentionnés
+aux articles R. 331-63 à R. 331-77 consentis par des établissements de crédit ayant conclu une convention avec la société de
+gestion du fonds de garantie de l'accession sociale à la propriété, à des personnes physiques dont les revenus sont
+inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du
+budget et du ministre chargé du logement.
+
+Cette garantie peut également être accordée aux prêts bancaires conventionnés accordés dans les départements d'outre-mer par
+les établissements de crédit ayant passé une convention d'habilitation avec l'Institut d'émission des départements d'outre-
+mer ainsi qu'une convention avec la société de gestion du fonds de garantie de l'accession sociale à la propriété, à des
+personnes physiques dont les revenus sont inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre
+chargé de l'économie, du ministre chargé du budget, du ministre chargé du logement et du ministre chargé des départements et
+territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -33146,9 +33153,9 @@ du budget et du ministre chargé du logement.
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993
 	  - TXT_SOURCE: Arrêté du 3 septembre 1993 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°1993-03-18 art. 1 JORF 19 mars 1993
+	  - Décret n°95-476 du 27 avril 1995 - art. 1 () JORF 29 avril 1995
 
 	**Cite**:
 
@@ -33160,10 +33167,10 @@ du budget et du ministre chargé du logement.
 
 Le fonds de garantie de l'accession sociale à la propriété est financé par une contribution des établissements de crédit et
 une dotation de l'Etat. La contribution d'un établissement de crédit dépend du taux de sinistre des prêts garantis qu'il
-accorde. Cette contribution est au moins égale à la dotation initiale de l'Etat afférente à ces prêts. En cas d'insuffisance
-des disponibilités de la société de gestion du fonds de garantie de l'accession sociale à la propriété, l'Etat fournit à
-celle-ci les ressources nécessaires afin d'honorer ses engagements liés à la garantie mentionnée au troisième alinéa de
-l'article L. 312-1.
+accorde. Pour les prêts visés au premier alinéa de l'article R. 312-3-1, cette contribution est au moins égale à la dotation
+initiale de l'Etat afférente à ces prêts. En cas d'insuffisance des disponibilités de la société de gestion du fonds de
+garantie de l'accession sociale à la propriété, l'Etat fournit à celle-ci les ressources nécessaires afin d'honorer ses
+engagements liés à la garantie mentionnée au troisième alinéa de l'article L. 312-1.
 
 **Liens relatifs à cet article**
 
@@ -33171,18 +33178,19 @@ l'article L. 312-1.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°95-476 du 27 avril 1995 - art. 1 () JORF 29 avril 1995
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R312-3-2-1 (V)
 	  - Code de la construction et de l'habitation. - art. R312-3-3 (V)
-
-	**Créé par**:
-
-	  - Décret n°1993-03-18 art. 1 JORF 19 mars 1993
 
 
 ###### Article R312-3-3
