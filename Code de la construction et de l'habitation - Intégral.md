@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-07-03
+Version Consolidée au 1992-07-14
 
 # Partie législative
 
@@ -4340,18 +4340,13 @@ Elle entraîne l'inopposabilité au maître de l'ouvrage des contrats passés pa
 
 Nonobstant toute stipulation contraire, les clauses de résolution de plein droit concernant les obligations de versement
 mises à la charge du maître de l'ouvrage par le contrat ne produisent effet qu'un mois après mise en demeure restée
-infructueuse.
+infructueuse. 
 
-Un délai peut être demandé pendant le mois ainsi imparti, conformément à l'article 1244 du code civil.
+Un délai peut être demandé pendant le mois ainsi imparti, conformément aux articles 1244-1 à 1244-3 du code civil. 
 
 Les effets des clauses de résolution de plein droit sont suspendus pendant le cours des délais ainsi octroyés en vertu de
 l'article 1244 du code civil. Ces clauses sont réputées n'avoir jamais joué si le débiteur se libère dans les conditions
 déterminées par le juge.
-
-**Nota:**
-
-[*Le renvoi à l'article 1244 du code civil s'entend comme se rapportant aux articles 1244-1 à 1244-3 du même code (art. 83
-bis de la loi n° 91-650 du 9 juillet 1991)*].
 
 **Liens relatifs à cet article**
 
@@ -4363,9 +4358,15 @@ bis de la loi n° 91-650 du 9 juillet 1991)*].
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991
+	  - Loi n°92-644 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
 	**Cite**:
 
-	  - Code civil - art. 1244 (M)
+	  - Code civil - art. 1244 (V)
+	  - Code civil - art. 1244-1 (V)
 
 	**Cité par**:
 
@@ -6642,16 +6643,11 @@ Nonobstant toutes stipulations contraires, les clauses de résolution de plein d
 ou de dépôt prévues aux articles L. 261-10 à L. 261-12 ne produisent effet qu'un mois après la date de la sommation ou du
 commandement de payer demeuré infructueux.
 
-Un délai peut être demandé pendant le mois ainsi imparti, conformément à l'article 1244 du code civil.
+Un délai peut être demandé pendant le mois ainsi imparti, conformément aux articles 1244-1 à 1244-3 du code civil.
 
 Les effets des clauses de résolution de plein droit sont suspendus pendant le cours des délais octroyés dans les conditions
 prévues à l'article 1244 du code civil. Ces clauses sont réputées n'avoir jamais joué si le débiteur se libère dans les
 conditions déterminées par le juge.
-
-**Nota:**
-
-[*Le renvoi à l'article 1244 du code civil s'entend comme se rapportant aux articles 1244-1 à 1244-3 du même code (art. 83
-bis de la loi n° 91-650 du 9 juillet 1991)*].
 
 **Liens relatifs à cet article**
 
@@ -6663,9 +6659,15 @@ bis de la loi n° 91-650 du 9 juillet 1991)*].
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991
+	  - Loi n°92-644 du 13 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
 	**Cite**:
 
 	  - Code civil - art. 1244 (M)
+	  - Code civil 1244-1 à 1244-3, 1244
 	  - Code de la construction et de l'habitation L261-10 à L261-12
 
 
@@ -13145,17 +13147,34 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ###### Article L422-3
 
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré ont pour objet d'assister, à titre de
-prestataires de services, des personnes physiques et des sociétés coopératives de construction, constituées en application du
-livre II, titre Ier, chapitre III, pour la réalisation et la gestion de programmes de construction en accession à la
-propriété.
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré ont pour objet :
 
-Elles peuvent également réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L.
-421-1, lorsqu'elles bénéficient de l'extension de compétences prévues à l'article L. 422-3-1.
+" 1° D'assister, à titre de prestataires de services, des personnes physiques et des sociétés coopératives de construction,
+constituées en application du chapitre III du titre Ier du livre II, pour la réalisation et la gestion de programmes de
+construction en accession à la propriété ;
 
-Toutefois, à défaut de pouvoir constituer une société coopérative de construction en raison de la dispersion des parcelles,
-les sociétés anonymes coopératives de production d'habitations à loyer modéré peuvent procéder à la construction de maisons
-individuelles destinées à être vendues en l'état futur d'achèvement à des personnes physiques [*attributions*].
+" 2° En vue de l'accession à la propriété, de construire, acquérir, réaliser des travaux, vendre et gérer des immeubles à
+usage d'habitation ou à usage professionnel ou d'habitation ou destinés à cet usage ;
+
+" 3° D'assister, à titre de prestataires de services, des personnes physiques ou morales en vue de la réalisation de tous
+travaux portant sur des immeubles existants et destinés à usage d'habitation ou à usage professionnel et d'habitation ;
+
+" 4° De réaliser des lotissements ;
+
+" 5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1.
+
+" Toute opération réalisée en application du 2° du présent article doit faire l'objet d'une garantie de financement et d'une
+garantie d'acquisition des locaux non vendus.
+
+" Les sociétés anonymes coopératives de production d'habitations à loyer modéré font procéder périodiquement à l'examen
+analytique de leur situation financière et de leur gestion. Un décret en Conseil d'Etat, pris après avis du comité permanent
+du Conseil supérieur des habitations à loyer modéré, détermine les modalités de mise en oeuvre de la procédure, dite de
+révision coopérative,
+
+définie au présent alinéa, ainsi que les conditions d'agrément garantissant le pluralisme de son exercice et le respect des
+principes coopératifs.
+
+" Un décret détermine les modalités d'application du présent article. "
 
 **Liens relatifs à cet article**
 
@@ -13165,7 +13184,7 @@ individuelles destinées à être vendues en l'état futur d'achèvement à des 
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
+	  - Loi n°92-643 du 13 juillet 1992 - art. 53 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -13195,103 +13214,28 @@ individuelles destinées à être vendues en l'état futur d'achèvement à des 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
-
-
-###### Article L422-3-1
-
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré ayant construit au moins cinquante logements au
-cours des trois années précédant la date de publication de la loi n° 83-657 du 20 juillet 1983 relative au développement de
-certaines activités d'économie sociale peuvent être autorisées par le ministre chargé de la construction et de l'habitation
-à : 
-
-a) Construire, acquérir, aménager, restaurer, agrandir, améliorer en vue de l'accession à la propriété et gérer des immeubles
-collectifs ou individuels à usage d'habitation ou à usage professionnel et d'habitation ou destinés à cet usage ;
-
-b) Assister, à titre de prestataire de services, des personnes physiques ou morales en vue de la réalisation de toutes
-opérations d'aménagement, de restauration, d'agrandissement et d'aménagement d'immeubles existants et destinés à usage
-d'habitation ou à usage professionnel et d'habitation ;
-
-c) Réaliser des lotissements ;
-
-Les sociétés ne remplissant pas la condition énoncée au premier alinéa du présent article devront avoir construit au moins
-cent logements au cours d'une période de trois ans avant de pouvoir bénéficier de l'autorisation susvisée.
-
-L'autorisation ministérielle ne peut intervenir qu'après décision d'une assemblée générale extraordinaire prise à la majorité
-des deux tiers des voix dont disposent les associés présents ou représentés.
-
-Cette autorisation peut être retirée à la suite d'un contrôle fait dans les conditions prévues à l'article L. 451-1 et
-portant sur la qualité de la gestion technique et financière de la société.
-
-Toute opération réalisée en application de l'alinéa a ci-dessus doit faire l'objet d'une garantie de financement et d'une
-garantie d'acquisition des locaux non vendus.
-
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré mentionnées au présent article font procéder
-périodiquement à l'examen analytique de leur situation financière et de leur gestion.
-
-Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de la coopération, détermine les modalités de mise en
-oeuvre de la procédure, dite de révision coopérative, définie à l'alinéa précédent ainsi que les conditions d'agrément
-garantissant le pluralisme de son exercice et le respect des principes coopératifs.
-
-Un décret détermine les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Loi n°83-657 1983-07-20
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°83-657 du 20 juillet 1983 - art. 66 () JORF 21 JUILLET 1983
-
-	**Abrogé par**:
-
-	  - Loi n°92-643 du 13 juillet 1992 - art. 53 () JORF 14 juillet 1992
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L422-3 (M)
-	  - Code de la construction et de l'habitation. - art. L422-3-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R422-3-1 (M)
-	  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R422-7-4 (M)
 
 
 ###### Article L422-3-2
 
-Les sociétés anonymes coopératives de production d'habitations à loyer modéré dont la qualité de la gestion sur les plans
-technique et financier a été constatée à l'occasion du contrôle prévu à l'article L. 451-1 peuvent, par décision du ministre
-chargé de la construction et de l'habitation et du ministre de l'économie et des finances, être autorisées, dans des
-conditions fixées par décret, à construire, acquérir, aménager, restaurer, agrandir, améliorer et gérer des immeubles en vue
-de la location et destinés à usage d'habitation ou à usage professionnel et d'habitation à la condition que les locataires,
-par dérogation au deuxième alinéa de l'article 3 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
-ne soient pas associés de la société coopérative.
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré dont la qualité de gestion sur les plans
+technique et financier a été constatée à l'occasion du contrôle prévu à l'article L. 451-1 peuvent, par décision de
+l'autorité administrative, être autorisées, dans des conditions fixées par décret, à construire, acquérir, aménager,
+restaurer, agrandir, améliorer et gérer des immeubles en vue de la location et destinés à un usage d'habitation ou à un usage
+professionnel et d'habitation.
 
 Ces sociétés doivent faire procéder, sous le nom de révision coopérative, à l'examen analytique et périodique de leurs
 comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°47-1775 1947-09-10 ART. 3 AL. 2
-	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-657 du 20 juillet 1983 - art. 66 () JORF 21 JUILLET 1983
+	  - Loi n°92-643 du 13 juillet 1992 - art. 48 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -13304,6 +13248,11 @@ comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
 	  - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-7-4 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 
 
 ##### Section 4 : Sociétés anonymes de crédit immobilier.
@@ -13784,26 +13733,36 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 ###### Article L422-12
 
-Par dérogation aux dispositions des articles 153 et 155 de la loi n. 66-537 du 24 juillet 1966, sur les sociétés
-commerciales, modifiée, les règles de quorum et de majorité prévues à ces articles sont calculées dans les assemblées des
-sociétés coopératives d'habitations à loyer modéré mentionnées aux articles L. 422-3 et L. 422-13 en fonction du nombre des
-associés présents ou représentés et non pas du nombre des actions.
+Les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération sont applicables aux sociétés
+anonymes coopératives d'habitations à loyer modéré mentionnées aux articles L. 422-3 et L. 422-13, à l'exception des
+dispositions des troisième et quatrième alinéas de son article 16 et de son article 18.
+
+Pour l'application de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 précitée, les associés ayant qualité
+d'organismes d'habitation à loyer modéré énumérés à l'article L. 411-2 bénéficient des dispositions fixées par le troisième
+alinéa de cet article.
+
+Lorsqu'il est fait application de l'article 25 de la loi n° 47-1775 du 10 septembre 1947 précitée par une société coopérative
+d'habitations à loyer modéré, les réserves ne peuvent être distribuées aux associés ni incorporées au capital de la société
+issue de la transformation. En cas de dissolution de ladite société, la partie de l'actif net de liquidation correspondant à
+ces réserves doit être attribuée conformément à l'article L. 422-11.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 art. 153, art. 155
-	  - Code de la construction et de l'habitation. - art. L422-13 (M)
-	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Loi n°47-1775 1947-09-10 art. 16, art. 3 bis, art. 25
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 16 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 25 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de la construction et de l'habitation. - art. L422-11 (M)
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 178 bis
+	  - Loi n°92-643 du 13 juillet 1992 - art. 49 () JORF 14 juillet 1992
 
 
 ##### Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré.
@@ -13812,18 +13771,22 @@ associés présents ou représentés et non pas du nombre des actions.
 
 Les sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution existant au 16 juillet 1971 peuvent
 être autorisées à transférer dans des conditions fixées par décret, soit à des sociétés anonymes coopératives de production
-d'habitations à loyer modéré soit à des sociétés anonymes d'habitations à loyer modéré déjà existantes ou nouvellement
+d'habitations à loyer modéré, soit à des sociétés anonymes d'habitations à loyer modéré déjà existantes ou nouvellement
 créées, tout ou partie de leurs réserves, dans la mesure où elles ne sont pas indispensables pour assurer la sauvegarde des
 intérêts de leurs associés.
 
 Un décret fixe les conditions d'application du présent article, notamment en ce qui concerne les sociétés anonymes
 coopératives d'habitations à loyer modéré existant au 16 juillet 1971 et toutes dispositions transitoires nécessaires.
 
+Les dispositions des alinéas précédents sont également applicables aux sociétés anonymes coopératives de production
+d'habitations à loyer modéré mentionnées à l'article L. 422-3 désireuses de transférer leurs réserves au profit d'autres
+sociétés anonymes coopératives de production d'habitations à loyer modéré.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°71-580 1971-07-16 art. 10 III, V
+	  - Loi n°71-580 1971-07-16 ART. 10-III ET V
 
 	**Cité par**:
 
@@ -13838,14 +13801,22 @@ coopératives d'habitations à loyer modéré existant au 16 juillet 1971 et tou
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 50 () JORF 14 juillet 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L. 422-3
 
 
 ###### Article L422-14
 
 Les sociétés anonymes coopératives d'habitation à loyer modéré de location-attribution peuvent, pendant un délai d'un an à
-compter de la date de publication de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités
-d'économie sociale, décider de se transformer en sociétés anonymes coopératives de production d'habitations à loyer modéré.
+compter de la date de publication de la loi n° 92-643 du 13 juillet 1992 relative à la modernisation des entreprises
+coopératives, décider de se transformer en sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
 A peine de nullité, la décision de transformation doit être agréée par le ministre chargé de la construction et de
 l'habitation.
@@ -13866,11 +13837,11 @@ du capital telle que doit être limité à un le nombre des actions dont chaque 
 
 	**Cite**:
 
-	  - Loi n°83-657 1983-07-20
+	  - Loi n°92-643 1992-07-13
 
 	**Modifié par**:
 
-	  - Loi n°83-657 du 20 juillet 1983 - art. 64 () JORF 21 JUILLET 1983
+	  - Loi n°92-643 du 13 juillet 1992 - art. 51 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -15820,6 +15791,45 @@ et le recouvrement des prêts par le décret du 28 février 1852 et la loi du 10
 	**Modifié par**:
 
 	  - Loi n°83-953 1983-11-02 art. 2 JORF 3 novembre 1983
+
+
+###### Article L443-6-1
+
+Les dispositions suivantes sont applicables aux contrats de location-attribution ou de vente à terme conclus en vue de
+l'accession à la propriété par des organismes d'habitations à loyer modéré, lorsque ces contrats étaient en cours à la date
+du 13 novembre 1974.
+
+Pour les contrats arrivés à échéance à la date du 1er juin 1992 et n'ayant pas fait l'objet d'un recours juridictionnel à
+cette date, les frais de liquidation fixés par l'arrêté interministériel du 13 novembre 1974 sont exigibles si l'accédant à
+la propriété a bénéficié de la diminution des frais de gestion prévue par cet arrêté ; dans ce cas, les paiements effectués à
+ce titre ne peuvent donner lieu à restitution.
+
+Pour les contrats qui ne sont pas arrivés à échéance à la date du 1er juin 1992, l'accédant à la propriété bénéficie du taux
+réduit des frais de gestion fixé par l'arrêté du 13 novembre 1974 à compter de la date de l'arrêté. Dans ce cas, il verse les
+frais de liquidation fixés par cet arrêté.
+
+En cas de désaccord et à sa demande, il peut verser des frais de gestion calculés à compter du 13 novembre 1974 selon des
+modalités identiques à celles applicables avant l'arrêté du 13 novembre 1974. Dans ce cas, à compter du 13 novembre 1974, les
+frais de gestion sont révisés chaque année dans la limite de la variation de l'indice du coût de la construction publié par
+l'Institut national de la statistique et des études économiques et les frais de liquidation ne sont pas exigibles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1974-11-13
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 52 () JORF 14 juillet 1992
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 232 AL. 1
 
 
 ##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.
