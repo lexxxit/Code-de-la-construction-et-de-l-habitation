@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-10-06
+Version Consolidée au 2001-11-16
 
 # Partie législative
 
@@ -2267,9 +2267,38 @@ en Conseil d'Etat.
 ###### Article L126-1
 
 Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants peuvent accorder à la police et à la
-gendarmerie nationales une autorisation permanente de pénétrer dans les parties communes de ces immeubles.
+gendarmerie nationales ainsi, le cas échéant, qu'à la police municipale une autorisation permanente de pénétrer dans les
+parties communes de ces immeubles.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 51 () JORF 16 novembre 2001
+
+
+###### Article L126-2
+
+Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants, qui satisfont à l'obligation
+mentionnée par l'article L. 127-1, peuvent également, en cas d'occupation des espaces communs du bâti par des personnes qui
+entravent l'accès et la libre circulation des locataires ou empêchent le bon fonctionnement des dispositifs de sécurité et de
+sûreté ou nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie nationales pour rétablir la
+jouissance paisible de ces lieux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+	  - TXT_ASSOCIE: Décret n°2002-824 du 3 mai 2002 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -2277,7 +2306,15 @@ gendarmerie nationales une autorisation permanente de pénétrer dans les partie
 
 	**Créé par**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 12 () JORF 24 janvier 1995
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 52 () JORF 16 novembre 2001
+
+	**Cité par**:
+
+	  - Décret n°2002-824 du 3 mai 2002 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 #### Chapitre VII : Gardiennage ou surveillance des immeubles.
@@ -2286,13 +2323,33 @@ gendarmerie nationales une autorisation permanente de pénétrer dans les partie
 
 Les propriétaires, exploitants ou affectataires, selon le cas, d'immeubles à usage d'habitation et de locaux administratifs,
 professionnels ou commerciaux doivent, lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le
-justifient, assurer le gardiennage ou la surveillance de ceux-ci.
+justifient, assurer le gardiennage ou la surveillance de ceux-ci et prendre les mesures permettant d'éviter les risques
+manifestes pour la sécurité et la tranquillité des locaux.
 
 Un décret en Conseil d'Etat précise les zones dans lesquelles cette obligation s'applique, les caractéristiques des immeubles
 ou locaux qui y sont assujettis, les mesures de gardiennage ou de surveillance à prendre en fonction de l'usage, de la
 localisation et de la taille des immeubles ou locaux et les dates auxquelles ces mesures devront au plus tard intervenir.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 5 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 7 (VT)
+	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 8 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 3 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 4 (VT)
+	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 5 (VT)
 
 	**Codifié par**:
 
@@ -2311,27 +2368,9 @@ localisation et de la taille des immeubles ou locaux et les dates auxquelles ces
 	  - Code pénal - art. 222-8 (V)
 	  - Code pénal - art. 433-3 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 12 () JORF 24 janvier 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 2 (VT)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 5 (VT)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 6 (VT)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 7 (VT)
-	  - TXT_SOURCE: Décret n°97-46 du 15 janvier 1997 - art. 8 (VT)
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 2 (VT)
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 3 (VT)
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 4 (VT)
-	  - TXT_SOURCE: Décret n°97-47 du 15 janvier 1997 - art. 5 (VT)
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 52 () JORF 16 novembre 2001
 
 
 ### Titre III : Chauffage et ravalement des immeubles
@@ -51835,62 +51874,6 @@ chapitre III, du présent livre (1re partie).
 
 	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-76-4 (M)
-
-
-##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.
-
-##### Sous-section 2 : Caractéristiques.
-
-###### Article R331-76
-
-La durée initiale d'amortissement des prêts est fixée à cinq ans au minimum et vingt-cinq ans au maximum. Les contrats de
-prêt peuvent prévoir que la durée peut être rallongée au cours de la période de remboursement jusqu'à un maximum de trente
-ans, ou réduite sans durée minimale. A la fin de la dernière année de prolongation, l'emprunteur est dégagé du règlement de
-toutes charges financières, à l'exception de dettes résultant d'un arriéré éventuel.
-
-**Nota:**
-
-NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
-compter du 1er novembre 2001.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2001-911 du 4 octobre 2001 - art. 10 () JORF 6 octobre 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R331-73 (V)
-
-
-##### Sous-section 3 : Départements d'outre-mer.
-
-###### Article R331-77
-
-La présente section n'est pas applicable aux départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
 ##### Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.
