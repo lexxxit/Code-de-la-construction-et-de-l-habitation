@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-07-21
+Version Consolidée au 1983-08-17
 
 # Partie législative
 
@@ -44549,34 +44549,30 @@ maintenu à la société qu'après l'approbation des statuts par le préfet.
 
 ###### Article R*422-2
 
-La mise en conformité des statuts avec les dispositions des décrets n. 74-213 du 25 février 1974 et n. 77-863 du 26 juillet
-1977 doit être faite par la première assemblée générale extraordinaire tenue respectivement après le 8 mars 1974 et après le
-29 juillet 1977.
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
-Les modifications statutaires consécutives à l'application des articles R. 422-3, R. 422-4 et R. 422-5 sont dispensées de
-l'approbation préfectorale prévue par l'article R. 422-1.
+Les modifications statutaires mentionnées à l'alinéa précédent ainsi que celles qui sont consécutives à l'application des
+articles R. 422-3, R. 422-4 et R. 422-5 sont dispensées de l'approbation du commissaire de la République du département.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°74-213 1974-02-25
-	  - Décret n°77-863 1977-07-26
-	  - Code de la construction et de l'habitation R422-1
-
-	**Anciens textes**:
-
-	  - Décret n°74-213 1974-02-25 art. 5 al. 2, al. 3
-	  - Décret n°77-863 1977-07-26 art. 5 al. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R422-3
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
 	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°83-754 1983-08-05 ART. 1 JORF 17 AOUT 1983
 
 
 ###### Article R*422-3
@@ -44773,6 +44769,41 @@ qualité de la gestion a été constatée dans les conditions précisées à l'a
 	  - Code de la construction et de l'habitation. - art. L451-1 (M)
 
 
+###### Article R*422-9
+
+Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent être conformes à ceux des
+statuts types, reproduits en annexe au code, fixés selon l'origine de celles-ci (annexe 1 et 2).
+
+Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
+indiqué par une mention spéciale que le bénéfice de législation sur les habitations à loyer modéré n'est acquis ou maintenu à
+la société qu'après l'approbation des statuts et leurs modifications par le préfet du département du siège.
+
+Jusqu'à l'approbation par le préfet du département du siège de leurs statuts mis en conformité avec les statuts-types, celles
+des sociétés qui proviennent de la transformation prévue à l'article L. 422-14 ne peuvent exercer que les attributions d'une
+société anonyme coopérative d'habitations à loyer modéré.
+
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
+
+Les modifications statutaires mentionnées à l'alinéa précédent sont dispensées de l'approbation du commissaire de la
+République du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R422-9 ANNEXE 1 et 2
+	  - Code de la construction et de l'habitation. - art. L422-14 (M)
+
+	**Modifié par**:
+
+	  - Loi n°83-754 1983-08-05 ART. 2 JORF 17 AOUT 1983
+
+
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
 ###### Article R*422-6
@@ -44916,28 +44947,25 @@ Lors de l'accomplissement des formalités de publicité auxquelles les statuts e
 indiqué par une mention spéciale que le bénéfice de la législation sur les habitations à loyer modéré n'est acquis ou
 maintenu à la société qu'après l'approbation des statuts par le préfet.
 
-La mise en conformité des statuts avec les dispositions du décret n. 74-212 du 25 février 1974 doit être faite par la
-première assemblée générale extraordinaire tenue après le 8 mars 1974 et avec celles du décret n. 74-936 du 6 novembre 1974
-dans le délai d'un an à compter du 10 novembre 1974.
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
 
-Les modifications statutaires consécutives à l'application des articles R. 422-11 à R. 422-13 et du décret n. 74-936 du 6
-novembre 1974 précité sont dispensées de l'approbation préfectorale prévue par l'article R. 422-14.
+Les modifications statutaires mentionnées à l'alinéa précédent ainsi que celles qui sont consécutives à l'application des
+articles R. 422-10, R. 422-11 et R. 422-12 sont dispensées de l'approbation du commissaire de la République du département.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°68-272 1968-03-20 art. 1 al. 1, al. 2
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Décret n°74-212 1974-02-25
-	  - Décret n°74-936 1974-11-06
-	  - Code de la construction et de l'habitation R422-13
+	  - Code de la construction et de l'habitation R422-11
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Loi n°83-754 1983-08-05 ART. 3 JORF 17 AOUT 1983
 
 
 ###### Article R*422-15
@@ -45450,6 +45478,25 @@ d'habitations à loyer modéré.
 ##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
 
 ##### Sous-section 3 : Statuts.
+
+###### Article R*422-38
+
+La mise en conformité des statuts avec les dispositions réglementaires qui les modifient doit être faite par la première
+assemblée générale extraordinaire tenue après la publication desdites dispositions.
+
+Les modifications statutaires mentionnées à l'alinéa précédent sont dispensées de l'approbation du commissaire de la
+République du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Loi n°83-754 1983-08-05 ART. 4 JORF 17 AOUT 1983
+
 
 ###### Article R422-37
 
@@ -54031,67 +54078,6 @@ comptable du Trésor, les conditions de nomination, de suspension et de révocat
 	**Abrogé par**:
 
 	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
-
-
-##### Chapitre II : Organismes privés d'habitations à loyer modéré.
-
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.
-
-###### Article R*422-9
-
-Les statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré doivent être conformes à ceux des
-statuts types, reproduits en annexe au code, fixés selon l'origine de celles-ci (annexe 1 et 2).
-
-Lors de l'accomplissement des formalités de publicité auxquelles les statuts et leurs modifications sont soumis, il doit être
-indiqué par une mention spéciale que le bénéfice de législation sur les habitations à loyer modéré n'est acquis ou maintenu à
-la société qu'après l'approbation des statuts et leurs modifications par le préfet du département du siège.
-
-Jusqu'à l'approbation par le préfet du département du siège de leurs statuts mis en conformité avec les statuts-types, celles
-des sociétés qui proviennent de la transformation prévue à l'article L. 422-14 ne peuvent exercer que les attributions d'une
-société anonyme coopérative d'habitations à loyer modéré.
-
-Les modifications statutaires consécutives à l'application du décret n. 76-753 du 9 août 1976 sont dispensées de
-l'approbation préfectorale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-240 1974-03-15 art. 1 al. 1, al. 2
-	  - Décret n°76-753 1976-08-09 art. 1 al. 2, art. 2 al. 2
-
-	**Cite**:
-
-	  - Décret n°76-753 1976-08-09
-	  - Code de la construction et de l'habitation. - art. L422-14 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution
-
-##### Sous-section 3 : Statuts.
-
-###### Article R*422-38
-
-La mise en conformité des statuts avec les dispositions du décret n. 74-211 du 25 février 1974 doit être faite par la
-première assemblée générale extraordinaire tenue après le 8 mars 1974.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°74-211 1974-02-25
-
-	**Anciens textes**:
-
-	  - Décret n°74-211 1974-02-25 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
