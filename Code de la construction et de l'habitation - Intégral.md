@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-19
+Version Consolidée au 1983-06-22
 
 # Partie législative
 
@@ -15299,22 +15299,17 @@ Les immeubles collectifs comportent un local clos et ventilé pour le dépôt de
 
 ###### Article R*111-4
 
-Compte tenu des modes d'occupation normalement admissibles, l'isolation des logements doit être telle que le niveau de
+Compte-tenu des modes d'occupation normalement admissibles, l'isolation des logements doit être telle que le niveau de
 pression du bruit transmis à l'intérieur de chaque logement ne dépasse pas les limites fixées par un arrêté conjoint du
-ministre chargé de la construction et de l'habitation et du ministre chargé de la santé.
+ministre chargé de la construction et de l'habitation et du ministre chargé de la santé. 
 
-Le bruit engendré par un équipement quelconque du bâtiment extérieur à ce logement ne doit pas dépasser les limites fixées
-dans la même forme.
+Le bruit engendré par un équipement quelconque du bâtiment ne doit pas dépasser les limites fixées dans la même forme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
