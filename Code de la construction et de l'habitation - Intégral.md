@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-09-19
+Version Consolidée au 1984-10-26
 
 # Partie législative
 
@@ -27131,7 +27131,8 @@ par les articles suivants.
 
 ###### Article R*313-9
 
-Les quatre cinquièmes [*pourcentage*] de la participation sont utilisés selon les modalités ci-après [*bénéficiaires*] :
+La participation est, sous réserve des dispositions prévues à l'article R. 313-10, utilisée selon les modalités ci-après
+[*bénéficiaires*] :
 
 1. Prêts aux salariés de l'employeur pour faciliter la construction de leur propre logement ;
 
@@ -27172,7 +27173,7 @@ répondre aux besoins des salariés.
 	**Cite**:
 
 	  - Décret n°46-1433 1946-06-14
-	  - Code de la construction et de l'habitation R313-23, R313-15, L351-2
+	  - Code de la construction et de l'habitation R313-10, R313-23, R313-15, L351-2
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Codifié par**:
@@ -27199,28 +27200,28 @@ répondre aux besoins des salariés.
 
 	**Modifié par**:
 
-	  - Décret n°80-190 1980-03-05 ART. 1 JORF 9 MARS 1980
-	  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
+	  - Décret n°84-949 1984-10-25 ART. 1 JORF 26 OCTOBRE 1984
 
 
 ###### Article R*313-10
 
-Le cinquième de la participation est versé à l'un quelconque des organismes figurant à l'article R. 313-9 (2, a, b et c) en
-vue d'être réservé par priorité au logement des travailleurs immigrés et de leur famille.
+La fraction de la participation réservée en priorité au logement des travailleurs immigrés et de leurs familles conformément
+au troisième alinéa de l'article L. 313-1 est versée à l'un quelconque des organismes figurant à l'article R. 313-9 (2°, a, b
+ou c).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R313-9
+	  - Décret n°84-949 1984-10-25 ART. 2 JORF 26 OCTOBRE 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2009-746 du 22 juin 2009 - art. 2
 
 	**Cité par**:
 
@@ -27287,36 +27288,49 @@ que leur conjoint et leurs enfants non émancipés ne peuvent bénéficier direc
 soit de la participation des employeurs. Il en est de même de l'exploitant individuel, de son conjoint et de leurs enfants
 non émancipés.
 
+Toutefois, le conjoint du dirigeant de société ou de l'exploitant individuel et leurs enfants non émancipés, salariés d'une
+autre entreprise, peuvent bénéficier d'un prêt au titre de la participation des employeurs de cette entreprise.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 39-3, 211 bis
-
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 9
+	  - CGI 39, 211 bis
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 3 JORF 26 OCTOBRE 1984
 
 
 ###### Article R*313-14
 
-Ne peuvent être financés dans le cadre de la participation des employeurs, les logements de gardiennage d'un établissement
-industriel, commercial ou professionnel ainsi que ceux dont l'accès n'est pas indépendant de celui d'un établissement de
-cette nature.
+Les logements qui bénéficient d'un financement dans le cadre de la participation des employeurs ne peuvent être :
+
+a) Transformés en locaux industriels, commerciaux, artisanaux ou professionnels, ni avoir un accès dépendant uniquement des
+locaux de cette nature ;
+
+b) Affectés à la location saisonnière, ou en meublé à l'exception des logements-foyers mentionnés aux articles R. 351-55 à R.
+351-57 ;
+
+c) Occupés à titre d'accessoire d'un contrat de travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 4 JORF 26 OCTOBRE 1984
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-55 à R351-57
 
 	**Cité par**:
 
@@ -27325,20 +27339,30 @@ cette nature.
 
 ###### Article R*313-15
 
-Les prêts à des personnes physiques au titre de la participation des employeurs à l'effort de construction pour la
-construction, l'acquisition, l'agrandissement ou l'acquisition et l'amélioration de logements en accession à la propriété et
-les prêts pour l'amélioration de logements occupés par leurs propriétaires sont attribués pour des logements destinés à être
-occupés par des personnes dont l'ensemble des ressources est au plus égal à un montant déterminé par arrêté conjoint du
-ministre chargé de la construction et de l'habitation et du ministre des finances [*plafond*]. Le critère de ressources est
-également applicable au bénéficiaire du prêt lorsque le logement financé est destiné à la résidence principale d'un de ses
-ascendants ou descendants ou d'un des ascendants ou descendants de son conjoint.
+Le plafond des prêts consentis aux personnes physiques pour la construction, l'acquisition, l'acquisition suivie de
+l'amélioration de logements en accession à la propriété et celui des prêts pour l'amélioration de logements occupés par leurs
+propriétaires sont déterminés en fonction des ressources du ménage occupant le logement, du nombre de personnes composant le
+ménage et de la zone géographique d'habitation [*critères*] dans les limites fixées par arrêté conjoint du ministre chargé de
+la construction et de l'habitation et du ministre chargé de l'économie. Le plafond des prêts consentis pour les opérations
+d'agrandissement est déterminé en fonction des caractéristiques techniques des opérations et de leur zone d'implantation dans
+les limites fixées par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de
+l'économie. Lorsque le logement financé est destiné à la résidence principale  d'un des ascendants ou descendants de
+l'emprunteur ou d'un des ascendants ou descendants de son conjoint les ressources, la composition du ménage et la zone
+géographique d'habitation à prendre en considération sont celles du demandeur du prêt.
 
-Toutefois, les conditions de ressources ne sont pas applicables aux bénéficiaires des prêts visés à l'article R. 313-32.
+Toutefois, les conditions de ressources ne sont pas applicables aux bénéficiaires des prêts mentionnés à l'article R. 313-32.
 
-Le financement des logements à usage locatif construits ou acquis et améliorés par les sommes recueillies au titre de
-l'article R. 313-9 doit intervenir en complément des prêts visés aux articles R. 331-1 ou R. 331-67 et ne doit pas dépasser
-un pourcentage du coût de l'opération fixé par arrêté conjoint du ministre chargé de la construction et de l'habitation et du
-ministre chargé des finances.
+Le financement des logements à usage locatif construits ou acquis et améliorés au moyen des sommes recueillies au titre de
+l'article R. 313-9 doit intervenir en complément des prêts mentionnés aux articles R. 331-1, R. 331-59-2 et R. 331-67 et ne
+doit pas dépasser un pourcentage du coût de l'opération fixé par arrêté conjoint du ministre chargé de la construction et de
+l'habitation et du ministre chargé de l'économie.
+
+Pour les opérations mentionnées à l'article R. 313-31 (13°), le ministre chargé de la construction et de l'habitation peut
+autoriser des dérogations aux dispositions précédentes.
+
+Les logements construits ou acquis et améliorés en vue de locations ouvrant au locataire une faculté d'accession à la
+propriété ne peuvent être financés qu'en complément des prêts visés aux articles R. 331-32 ou R. 331-67, dans les limites
+fixées par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -27346,10 +27370,16 @@ ministre chargé des finances.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 5 JORF 26 OCTOBRE 1984
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9
+	  - Code de la construction et de l'habitation R313-32
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
 
@@ -27410,17 +27440,18 @@ de celui des deux délais suivants dont le terme est le plus éloigné :
 2. Trois mois après la première occupation du logement.
 
 Le financement de l'amélioration de logements existants au titre de la participation des employeurs doit intervenir au plus
-tard trois mois après l'exécution de travaux.
+tard trois mois après l'achèvement des travaux. En cas d'acquisition en vue d'amélioration de logements, ce délai est porté à
+vingt-quatre mois à compter de la date d'acquisition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 6 JORF 26 OCTOBRE 1984
 
 	**Cité par**:
 
@@ -27874,13 +27905,14 @@ articles R. 313-38 (alinéa 2) et R. 313-39 (alinéa 2) ;
 - l'acquisition, l'aménagement ou la remise en état de leur logement dans les conditions fixées par arrêté conjoint du
 ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
 
+Ces prêts ne doivent pas constituer un accessoire au contrat de travail.
+
 2. Souscriptions de titres de sociétés immobilières dont les parts ou actions ne permettent par l'attribution en toute
 propriété ou en jouissance de logements.
 
 Ces sociétés ont pour objet :
 
-a) Soit l'acquisition et l'aménagement de terrains destinés à la construction de logements sociaux ou la gestion de logements
-locatifs sociaux dont elles ne sont pas propriétaires.
+a) Soit la gestion de logements locatifs sociaux dont elles ne sont pas propriétaires.
 
 Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a et b) doivent détenir au moins 95 p. 100 du capital de ces
 sociétés.
@@ -27911,8 +27943,7 @@ vue de l'amélioration de logements existants destinés à la location, et bén�
 R. 331-1. Les conditions de fonctionnement et d'intervention de ces sociétés sont définies par arrêté conjoint du ministre
 chargé de la construction et de l'habitation et du ministre chargé des finances.
 
-3. Prêts à des sociétés mentionnées au 2. ci-dessus autres que celles ayant pour objet la gestion de logements locatifs
-sociaux dont elles ne sont pas propriétaires.
+3. Prêts à des sociétés mentionnées au 2. et au 2. bis ci-dessus.
 
 4. Prêts :
 
@@ -27945,8 +27976,8 @@ mentionnés au 2. ci-dessus.
 9. Souscription de parts ou d'actions de sociétés habilitées à collecter les versements de la participation des employeurs en
 application de l'article R. 313-9 (2., c).
 
-10. Participations sous forme de subventions ou de prêts au financement des opérations d'aménagement de logements existants
-occupés par des handicapés physiques.
+10. Participation sous forme de subventions ou de prêts au financement d'aménagement spécifique de logement pour des
+handicapés physiques.
 
 11. Prêts à des personnes morales pour le financement complémentaire de travaux d'aménagement ou de remise en état sur les
 immeubles existants occupés ou destinés à être occupés par des personnes relevant du statut du personnel des exploitations
@@ -27955,17 +27986,29 @@ ministre chargé de la construction et de l'habitation et du ministre chargé de
 
 12. Versements à l'organisme visé à l'article R. 313-36 (alinéa 2).
 
+13. Prêts à des personnes morales qui réalisent, dans les grandes agglomérations, des opérations de logements locatifs à
+usage d'habitation principale dont le loyer est fixé par convention entre l'Etat et la personne morale et qui sont destinés à
+des familles dont les ressources ne dépassent pas un plafond fixé par arrêté du ministre chargé de la construction et de
+l'habitation.
+
+Les conditions de ces prêts, les modalités d'occupation des logements ainsi que celles du contrôle exercé par l'organisme
+collecteur sont déterminées par une convention conclue entre les personnes morales et les organismes collecteurs.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°46-1433 1946-06-14
-	  - Code de la construction et de l'habitation R313-38 AL. 2
+	  - Code de la construction et de l'habitation R313-9 2 A
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 7, ART. 8, ART. 9, ART. 10 et ART. 11 JORF 26 OCTOBRE 1984
 
 	**Cité par**:
 
@@ -28095,14 +28138,15 @@ le ministre chargé de la construction et de l'habitation, le ministre chargé d
 le ministre chargé du commerce et le ministre chargé de l'artisanat à utiliser directement au financement des programmes
 agréés dans les conditions fixées à l'article R 313-31 tout ou partie des sommes qu'ils ont recueillies.
 
-L'organisme interprofessionnel reçoit en subventions des organismes collecteurs des sommes destinées à permettre aux
-organismes utilisateurs directs dont les ressources seraient insuffisantes de réaliser des opérations qui leur auraient été
-confiées dans le cadre de programmes agréés. A ce titre :
+L'organisme interprofessionnel reçoit des organismes collecteurs des sommes destinées à permettre aux organismes utilisateurs
+directs dont les ressources seraient insuffisantes de réaliser des opérations dans le cadre de programmes agréés. A ce
+titre :
 
-a) Les organismes collecteurs doivent lui reverser les sommes qu'ils n'ont pas été autorisés à utiliser directement dans les
-conditions et sous les sanctions fixées par un des arrêtés mentionnés au dernier alinéa du présent article ;
+a) Les organismes collecteurs doivent lui reverser en subvention les sommes qu'ils n'ont pas été autorisés à utiliser
+directement, dans les conditions et sous les sanctions fixées par un des arrêtés mentionnés au dernier alinéa du présent
+article ;
 
-b) Il peut imposer aux organismes collecteurs le versement de subventions.
+b) Il peut imposer aux organismes utilisateurs directs le versement de sommes en tant que de besoin.
 
 Des arrêtés du ministre chargé des finances, du ministre chargé de la construction et de l'habitation, du ministre chargé du
 travail, du ministre chargé du commerce, du ministre chargé de l'artisanat et du ministre chargé de l'industrie fixent les
@@ -28119,9 +28163,13 @@ programmes.
 
 	  - Décret n°78-622 1978-05-31 JORF 5 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 12 JORF 26 OCTOBRE 1984
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9 2 B
+	  - Code de la construction et de l'habitation R313-8, R313-10, R313-11
 
 
 ###### Article R*313-37
@@ -28150,10 +28198,13 @@ l'exercice précédent qui n'auraient pu être utilisées pour le logement des t
 
 ###### Article R*313-38
 
-Les investissements réalisés directement par les employeurs selon les modalités définies à l'article R. 313-9 (1. et 3.) sont
-pris en compte selon des barèmes fixés par arrêtés conjoints du ministre chargé de la construction et de l'habitation et du
-ministre chargé des finances en fonction des caractéristiques techniques des logements construits ou améliorés et de leur
-lieu d'implantation.
+Les plafonds des prêts aux salariés consentis par les employeurs selon les modalités définies à l'article R. 313-9 (1°) sont
+déterminés en fonction des ressources du ménage occupant le logement, du nombre de personnes composant le ménage et de la
+zone géographique d'habitation [*critères*], dans les limites fixées par arrêté conjoint du ministre chargé de la
+construction et de l'habitation et du ministre chargé de l'économie. Les investissements réalisés directement par les
+employeurs selon les modalités définies à l'article R. 313-9 (3°) sont pris en compte selon des barêmes fixés par arrêté
+conjoint du ministre chargé de la consstruction et de l'habitation et du ministre chargé de l'économie, en fonction des types
+de logements construits ou améliorés et de leur lieu d'implantation.
 
 Les achats de terrains ne sont pris en compte que si la construction intervient dans les délais et conditions fixés par
 l'article 691 II du code général des impôts.
@@ -28165,32 +28216,34 @@ l'article 691 II du code général des impôts.
 	  - CGI 691
 	  - Code de la construction et de l'habitation R313-9
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 32
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 ART. 13 JORF 26 OCTOBRE 1984
 
 
 ###### Article R*313-39
 
-Les prêts consentis par les employeurs à leurs salariés au titre de l'article R. 313-9 (1.), ne peuvent comporter le paiement
+Les prêts consentis par les employeurs à leurs salariés au titre de l'article R. 313-9 (1°), ne peuvent comporter le paiement
 d'intérêts excédant 3 p. 100 l'an.
 
 Les logements auxquels sont destinés ces prêts doivent constituer, dès la fin des travaux, la résidence principale du salarié
 bénéficiaire d'un prêt ou de l'un de ses ascendants ou descendants ou de l'un des ascendants ou descendants de son conjoint.
 
+Ces prêts ne doivent pas constituer un accessoire du contrat de travail.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 art. 32
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-949 1984-10-25 art. 14 JORF 26 octobre 1984
 
 	**Cite**:
 
@@ -33636,6 +33689,185 @@ pas respectées.
 	  - Code de la construction et de l'habitation. - art. R323-21 (V)
 
 
+### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
+
+#### Chapitre unique.
+
+##### Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.
+
+###### Article R331-78
+
+Dans les limites et conditions fixées par la section I (sous-sections I à V), sauf dispositions expresses particulières de la
+présente section, des prêts à taux préférentiel et révisable dont les caractéristiques sont définies à l'article R. 331-82
+peuvent être accordés pour financer :
+
+L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
+construction de ces logements ;
+
+L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
+d'amélioration correspondants ;
+
+Par assimilation, l'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en
+logements ;
+
+Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
+collectivités locales ou leurs groupements, ainsi que les travaux de transformation ou d'aménagement en logements de locaux
+ou d'immeubles non affectés à cet usage ;
+
+La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux collectifs à
+usage commun, annexes, dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation ;
+
+La réalisation des opérations de logements-foyers à usage locatif tels que définis à l'article R. 331-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-3 à R331-30
+	  - Code de la construction et de l'habitation. - art. R331-55 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R331-80 (V)
+	  - Code de la construction et de l'habitation. - art. R331-81 (V)
+	  - Code de la construction et de l'habitation. - art. R331-82 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-83 (V)
+
+
+###### Article R331-80
+
+Les prêts prévus à l'article R. 331-78 sont accordés par la caisse de prêts aux organismes d'habitations à loyer modéré.
+
+Ils peuvent être attribués aux organismes visés aux 1° et 2° de l'article R. 331-8. Leur octroi est subordonné à la passation
+par le demandeur d'une convention régie par les articles L. 353-1 à L. 353-13 et portant sur l'ensemble des logements
+financés par les prêts visés à l'article R. 331-78.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-8 1° et 2°
+	  - Code de la construction et de l'habitation. - art. R331-78 (M)
+
+
+###### Article R331-81
+
+L'octroi des prêts prévus à l'article R. 331-78 est subordonné à l'obtention d'une décision favorable du ministre chargé de
+la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-78 (M)
+
+
+###### Article R331-82
+
+Les prêts prévus à l'article R. 331-78 sont accordés pour une durée de trente-quatre ans avec deux ans de différé
+d'amortissement et sont assortis d'une remise d'intérêts de deux ans et trois mois. Les délais sont calculés à partir de la
+date de la signature du contrat.
+
+Ces prêts sont à taux révisables.
+
+Le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces périodes et les conditions de
+leur révisabilité, ainsi que le rythme de la progressivité des annuités en cours d'amortissement, sont fixés par arrêté des
+ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à
+leur financement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Décret n°98-796 du 2 septembre 1998 - art. 2 (V)
+	  - Arrêté du 25 octobre 1984 - art. 1 (Ab)
+	  - Arrêté du 25 octobre 1984 - art. 2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-78 (M)
+
+
+###### Article R331-83
+
+Les dispositions des articles R. 331-3, R. 331-6, R. 331-7,
+
+R. 331-8 (3°) et R. 331-8, dernier alinéa, R. 331-9, R. 331-21 (2° et 3°), R. 331-22, R. 331-24, R. 331-25 et R. 331-27 ne
+sont pas applicables aux opérations dont le financement est assuré au moyen des prêts visés à l'article R. 331-78 [*champ
+d'application*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-21 2° et 3°
+	  - Code de la construction et de l'habitation. - art. R331-22 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25 (M)
+	  - Code de la construction et de l'habitation. - art. R331-27 (M)
+	  - Code de la construction et de l'habitation. - art. R331-3 (M)
+	  - Code de la construction et de l'habitation. - art. R331-6 (M)
+	  - Code de la construction et de l'habitation. - art. R331-7 (M)
+	  - Code de la construction et de l'habitation. - art. R331-78 (M)
+	  - Code de la construction et de l'habitation. - art. R331-9 (M)
+
+
+###### Article R331-84
+
+Les dispositions de la présente section [*articles R331-78 à R331-84*] ne sont pas applicables aux départements d'outre-mer
+[*champ d'application*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-78 à R331-84
+
+
+### Titre III : Prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
+
+#### Chapitre unique.
+
+##### Section 4 : Prêt à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.
+
+###### Article R331-79
+
+Les occupants des logements financés à l'aide de ces prêts bénéficient de l'aide personnalisée au logement dans les
+conditions prévues par le livre III, titre V, du présent code (1re partie) et de l'article L. 431-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-1 à L353-18
+	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+
+
 ### Titre III : Prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
 
 #### Section 1 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements locatifs
@@ -34711,23 +34943,20 @@ principal des personnes âgées indépendantes.
 ###### Article R331-22
 
 Les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte sont accordés pour une durée
-de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise d'intérêts de deux ans et trois
-mois. Les prêts accordés aux sociétés filiales d'organismes collecteurs de la participation des employeurs à l'effort de
-construction et aux autres bénéficiaires mentionnés à l'article R. 331-8 sont accordés pour une durée de vingt-cinq ans avec
-deux ans de différé d'amortissement sans remise d'intérêts. Les délais sont calculés à partir de la date de la signature du
-contrat [*point de départ*].
+de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise d'intérêts de deux ans. Les prêts
+accordés aux sociétés filiales d'organismes collecteurs de la participation des employeurs à l'effort de construction et aux
+autres bénéficiaires mentionnés à l'article R. 331-8 sont accordés pour une durée de vingt-cinq ans avec deux ans de différé
+d'amortissement sans remise d'intérêts. Les délais sont calculés à partir de la date de la signature du contrat [*point de
+départ*].
 
-Ces prêts sont à annuités progressives.
+A compter du 25 octobre 1984 [*date*],les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés
+d'économie mixte sont à taux révisables.
 
-Pour les prêts assortis d'une remise d'intérêt, la troisième annuité est de 4,43 p. 100 du nominal, la quatrième de 6,13 p.
-100 du nominal et à partir de la quatrième année, l'annuité progresse de 4 p. 100 l'an jusqu'à l'expiration du prêt.
-
-Pour les prêts qui ne sont pas assortis de la remise d'intérêts, les deux premières annuités sont de 7,65 p. 100 du nominal,
-la troisième de 7,70 p. 100 du nominal et leur progression annuelle est de 4 p. 100 jusqu'à l'expiration du contrat
-[*montant*].
-
-Les conditions relatives aux taux des prêts assortis d'une remise d'intérêt sont valables aussi longtemps que le taux de
-rémunération du livret A des caisses d'épargne reste fixé à 8,50 p. 100.
+A compter du 25 octobre 1984, le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces
+périodes et, le cas échéant, les conditions de leur révisabilité, ainsi que le rythme de la progressivité des annuités en
+cours d'amortissement sont, nonobstant les dispositions de l'article R. 331-22-1, fixés par arrêté des ministres chargés de
+la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à leur financement et
+du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
 
 **Liens relatifs à cet article**
 
@@ -34737,7 +34966,7 @@ rémunération du livret A des caisses d'épargne reste fixé à 8,50 p. 100.
 
 	**Modifié par**:
 
-	  - Décret n°81-1233 1981-12-31 ART. 1 JORF 6 JANVIER 1982
+	  - Décret n°84-952 1984-10-25 ART. 1 JORF 26 OCTOBRE 1984
 
 	**Cité par**:
 
@@ -34748,7 +34977,34 @@ rémunération du livret A des caisses d'épargne reste fixé à 8,50 p. 100.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. R331-25 (M)
 	  - Code de la construction et de l'habitation. - art. R331-8 (M)
+
+
+###### Article R331-22-1
+
+A la suite de la révision des taux de prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie
+mixte, aucune annuité, à partir de la quatrième, et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p.
+100, ni inférieure à l'annuité précédente.
+
+Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les conditions d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°84-952 1984-10-25 ART. 2 JORF 26 OCTOBRE 1984
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 1979 - art. 13 (Ab)
+	  - Arrêté du 13 mars 1979 - art. 15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-22 (M)
 
 
 ###### Article R331-23
@@ -36053,8 +36309,8 @@ l'habitation, et des finances.
 
 ###### Article R331-56
 
-Pour les prêts mentionnés à l'article R. 331-32, de l'Etat est consentie aux établissements visés à l'article R. 331-37 sous
-forme de bonification d'intérêt, suivant les modalités précisées par les conventions prévues à l'article R. 331-38
+Pour les prêts mentionnés à l'article R. 331-32, aide de l'Etat est consentie aux établissements visés à l'article R. 331-37
+sous forme de bonification d'intérêt, suivant les modalités précisée par les conventions prévues à l'article R. 331-38
 [*bénéficiaire*].
 
 La rémunération des sociétés de crédit immobilier et des sociétés coopératives de production d'habitations à loyer modéré,
@@ -36077,7 +36333,7 @@ bonification égale à 0,60 p. 100 du montant du prêt pendant dix ans.
 
 	**Modifié par**:
 
-	  - Décret n°84-786 1984-08-16 ART. 7 JORF 19 AOUT 1984
+	  - Décret n°84-950 1984-10-25 ART. 2 JORF 26 OCTOBRE 1984
 
 	**Cité par**:
 
@@ -36183,6 +36439,9 @@ La demande de transfert ou de maintien du préfinancement doit être présentée
 déclaration d'achèvement des travaux. Ce délai peut être prolongé par décision conjointe des ministres chargés de la
 construction et de l'habitation et des finances.
 
+Le préfinancement obtenu en application du paragraphe 2 du premier alinéa de l'article R. 331-57 est remboursé au fur et à
+mesure de la vente de chacune des parcelles.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -36191,7 +36450,7 @@ construction et de l'habitation et des finances.
 
 	**Modifié par**:
 
-	  - Décret n°84-786 1984-08-16 ART. 8 JORF 19 AOUT 1984
+	  - Décret n°84-950 1984-10-25 ART. 3 JORF 26 OCTOBRE 1984
 
 	**Cité par**:
 
@@ -36202,6 +36461,7 @@ construction et de l'habitation et des finances.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation R331-57 al. 1 par. 2
 	  - Code de la construction et de l'habitation. - art. R331-39 (M)
 	  - Code de la construction et de l'habitation. - art. R331-53 (M)
 	  - Code de la construction et de l'habitation. - art. R331-54 (M)
@@ -39106,6 +39366,53 @@ doivent être conformes à l'annexe de l'article R. 353-59.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+
+
+###### Article R353-59
+
+La convention ci-annexée s'applique aux logements à usage locatif appartenant à ou gérés par les sociétés d'économie mixte de
+construction immobilière et ne bénéficiant pas des dispositions de l'article L. 353-18.
+
+Ces logements doivent répondre à l'une des conditions de financement fixées ci-dessous :
+
+1. Logements financés dans les conditions prévues par le chapitre Ier du titre Ier du présent livre, par le titre II de la
+loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
+
+2. Logements donnant lieu aux prêts visés aux sections I, III et IV du chapitre unique du présent titre :
+
+a) soit pour leur construction ;
+
+b) soit pour leur acquisition et amélioration ;
+
+c) soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
+leurs groupements ;
+
+3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°84-951 1984-10-25 art. 2 JORF 26 octobre 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme 269
+	  - Code de la construction et de l'habitation L353-18, R323-1 à R323-11
+	  - Code de la construction et de l'habitation. - art. L353-18 (V)
+	  - Loi n°1928-07-13
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R353-58 (V)
+	  - Code de la construction et de l'habitation. - art. R353-62 (V)
+	  - Code de la construction et de l'habitation. - art. R353-63 (M)
+	  - Code de la construction et de l'habitation. - art. R353-64 (M)
+	  - Code de la construction et de l'habitation. - art. R353-77 (Ab)
 
 
 ###### Article R353-60
@@ -44220,59 +44527,6 @@ Elles fixent également les sanctions encourues pour non-respect des engagements
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R353-25 (M)
-
-
-### Titre V : Aide personnalisée du logement
-
-#### Chapitre III : Régime juridique des logements locatifs conventionnés.
-
-##### Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L. 353-18.
-
-###### Article R353-59
-
-La convention ci-annexée s'applique aux logements à usage locatif appartenant à ou gérés par les sociétés d'économie mixte de
-construction immobilière et ne bénéficiant pas des dispositions de l'article L. 353-18.
-
-Ces logements doivent répondre à l'une des conditions de financement fixées ci-dessous :
-
-1. Logements financés dans les conditions prévues par le chapitre Ier du titre Ier du présent livre, par le titre II de la
-loi du 13 juillet 1928, ainsi que par l'article 269 du code de l'urbanisme et de l'habitation ;
-
-2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles R. 331-1 à R. 331-31 :
-
-a) Soit pour leur construction ;
-
-b) Soit pour leur acquisition et amélioration ;
-
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à construction par des collectivités locales ou
-leurs groupements.
-
-3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat définie par les articles R. 323-1 à R. 323-11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-416 1980-06-10 ART. 3 JORF 13 JUIN 1980
-
-	**Cite**:
-
-	  - Code de l'urbanisme 269
-	  - Code de la construction et de l'habitation R331-1 à R331-31
-	  - Code de la construction et de l'habitation. - art. L353-18 (V)
-	  - Loi  1928-07-13 TITRE II
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R353-58 (V)
-	  - Code de la construction et de l'habitation. - art. R353-62 (V)
-	  - Code de la construction et de l'habitation. - art. R353-63 (M)
-	  - Code de la construction et de l'habitation. - art. R353-64 (M)
-	  - Code de la construction et de l'habitation. - art. R353-77 (Ab)
 
 
 ### Titre VI : Organismes consultatifs.
