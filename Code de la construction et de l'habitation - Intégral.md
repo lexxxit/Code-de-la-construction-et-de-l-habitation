@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-02-06
+Version Consolidée au 1986-03-12
 
 # Partie législative
 
@@ -16578,10 +16578,9 @@ cette hauteur peut être abaissée jusqu'à 0,80 mètre au cas où le garde-corp
 
 ###### Article R*111-16
 
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
-peut, par dérogation aux dispositions de la présente section, fixer des règles spéciales à certaines catégories de logements
-destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
-permanente.
+Un arrêté conjoint du ministre chargé de la construction et de l'habitation, du ministre chargé de la santé et du ministre de
+l'intérieur et de la décentralisation peut, par dérogation aux dispositions de la présente section, fixer des règles
+spéciales à certaines catégories de logements destinés à l'occupation temporaire ou saisonnière.
 
 Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
 tant que de besoin, des dérogations aux dispositions de la présente section pour la réalisation d'habitations ayant un
@@ -16589,32 +16588,35 @@ caractère expérimental.
 
 Le ministre chargé de la construction et de l'habitation peut accorder des dérogations aux dispositions du deuxième alinéa de
 l'article R. 111-5 pour la réalisation de bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental rendant
-momentanément impossible leur application [*ascenseur plus de trois étages*].
+momentanément impossible l'application de ces dispositions.
 
 Le préfet peut accorder des dérogations aux dispositions du deuxième alinéa de l'article R. 111-5 lorsque les
-caractèristiques du terrain ou la présence de constructions existantes fait obstacle à leur application. Le préfet se
-prononce par arrêté après consultation de la commission départementale prévue à l'article 6 du décret n. 78-109 du 1er
-février 1978.
+caractéristiques du terrain ou la présence de constructions existantes font obstacle à leur application. Le préfet se
+prononce par arrêté après consultation de la commission consultative départementale de la protection civile, de la sécurité
+et de l'accessibilité prévue par le décret n° 85-988 du 16 septembre 1985.
+
+Le préfet peut accorder des dérogations aux dispositions des articles R. 111-3 c, R. 111-10, R. 111-12 (1er alinéa) et R.
+111-13 si les aménagements proposés par le constructeur ou imposés à lui par la décision accordant la dérogation assurent aux
+bâtiments les mêmes garanties de confort, d'hygiène ou de sécurité.
+
+Le préfet peut accorder des dérogations aux dispositions de la première phrase du premier alinéa de l'article R. 111-14
+lorsque des caractéristiques techniques et économiques de certaines opérations de construction le justifient.
+
+Les décisions accordant les dérogations mentionnées aux deux alinéas précédents sont publiées au Recueil des actes
+administratifs du département. Le dossier de ces demandes de dérogation est communiqué aux personnes physiques ou morales qui
+en font la demande dans les conditions fixées par la loi n° 78-753 du 17 juillet 1978.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°78-109 du 1 février 1978 - art. 6, v. init.
-	  - Code de la construction et de l'habitation R111-5
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°80-637 1980-08-04 ART. 2 JORF 10 AOUT 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
-	  - SPEC_APPLI: Les dispositions du présent décret sont applicables aux bâtiments d'habitation collectifs ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er octobre 1980
+	  - Loi n°78-753 1978-07-17
+	  - Décret n°85-988 1985-09-16
+	  - Code de la construction et de l'habitation R111-5, R111-3, R111-10, R111-12, R111-13, R111-14
 
 	**Cité par**:
 
@@ -16626,6 +16628,10 @@ février 1978.
 	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 	  - Code du tourisme. - art. D333-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-341 1986-03-10 art. 1 JORF 12 mars 1986
 
 
 ###### Article R*111-17
