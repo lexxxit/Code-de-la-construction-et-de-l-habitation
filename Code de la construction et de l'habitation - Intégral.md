@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-10-23
+Version Consolidée au 1979-11-22
 
 # Partie législative
 
@@ -30720,24 +30720,43 @@ fixées par arrêté du ministre chargé de la construction et de l'habitation e
 
 ###### Article R322-1
 
-Dans les limites et conditions [*occupation*] fixées par la présente section, des primes peuvent être accordées aux personnes
-physiques qui effectuent des travaux d'amélioration dans des immeubles ou des logements dont elles sont propriétaires et qui
-constituent leur résidence principale ou dont leurs ascendants ou ceux de leur conjoint sont propriétaires et qui constituent
-la résidence principale de ceux-ci [*bénéficiaires*].
+Dans les limites et conditions fixées par la présente section, des primes peuvent être accordées aux personnes physiques qui
+effectuent des travaux d'amélioration dans des immeubles ou des logements dont elles sont propriétaires ou usufruitières et
+qui constituent leur résidence principale, ou dont leurs ascendants ou descendants ou ceux de leur conjoint sont
+propriétaires ou usufruitiers et qui constituent la résidence principale de ceux-ci [*bénéficiaires*].
+
+Les primes peuvent également être attribuées pour des travaux exécutés sur des logements destinés à être occupés soit par des
+exploitants agricoles ou des associés d'exploitation titulaires d'un contrat enregistré, soit par des ouvriers agricoles.
 
 Pour l'application de la présente section, sont assimilés à des propriétaires les titulaires d'un contrat leur donnant
-vocation à l'attribution à terme de la propriété du logement qu'ils occupent, ainsi que les porteurs de parts ou d'actions de
+vocation à l'attribution à terme de la propriété du logement qu'ils occupent ainsi que les porteurs de parts ou d'actions de
 sociétés donnant vocation à l'attribution en propriété du logement qu'ils occupent.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°77-851 1977-07-26 art. 1
+	  - TXT_ASSOCIE: Code de la construction R322-15
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
 
 	**Cité par**:
 
@@ -30749,30 +30768,51 @@ sociétés donnant vocation à l'attribution en propriété du logement qu'ils o
 	  - Code de la construction et de l'habitation. - art. R322-16 bis (Ab)
 	  - Code de la construction et de l'habitation. - art. R322-2 bis (Ab)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 4 (Ab)
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
 
 
 ###### Article R322-2
 
-Les primes ne peuvent être attribuées [*conditions*] que dans le cadre de programmes d'intérêt général visant à améliorer des
-ensembles d'immeubles ou de logements et approuvés par le préfet.
+Les primes ne peuvent être attribuées que pour des immeubles ou des logements destinés à être occupés au moins huit mois par
+an par des personnes dont les ressources [*plafond*] n'excèdent pas, à la date de la demande de prime, un montant déterminé
+par arrêté des ministres chargés de l'économie, du budget, de la construction et de l'habitation [*durée*].
 
-Toutefois, le préfet peut attribuer les primes dans les périmètres de restauration immobilière agréés par l'agence nationale
-pour l'amélioration de l'habitat jusqu'à l'expiration de leur agrément et, au plus tard, jusqu'au 31 décembre 1978 [*date
-limite*].
+Ces conditions sont également applicables aux personnes qui, n'occupant pas les logements améliorés, sollicitent le bénéfice
+des primes.
+
+Lorsque les travaux, pour lesquels la prime est demandée, portent sur les parties communes d'un immeuble en copropriété, elle
+est accordée aux copropriétaires répondant aux conditions de la présente section. Elle est calculée sur la base de la quote-
+part des travaux leur incombant. Dans ce cas, la subvention peut être versée directement au syndic pour le compte des
+copropriétaires concernés.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cité par**:
 
@@ -30782,22 +30822,36 @@ limite*].
 
 ###### Article R322-3
 
-Les primes ne peuvent être attribuées que pour des immeubles ou des logements destinés à être occupés au moins huit mois
-[*durée*] par an par des personnes dont les ressources n'excèdent pas un montant déterminé [*plafond*] dans des conditions
-fixées par arrêté des ministres chargés de la construction et de l'habitation, de l'agriculture et des finances.
+Les travaux de mise aux normes, d'amélioration du confort, d'adaptation des logements aux besoins des handicapés physiques et
+des travailleurs manuels appelés à travailler la nuit et les travaux tendant à économiser l'énergie qui donnent lieu à
+l'octroi de prime sont définis par arrêté du ministre chargé de la construction et de l'habitation.
 
-Le cas échéant, ces conditions sont également applicables aux personnes qui sollicitent le bénéfice des primes, mais
-n'occupent pas les logements améliorés.
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cité par**:
 
@@ -30806,111 +30860,193 @@ n'occupent pas les logements améliorés.
 
 ###### Article R322-4
 
-Les immeubles doivent avoir été achevés depuis vingt ans au moins à la date de la notification de décision d'octroi de prime.
+Les logements doivent avoir été achevés depuis vingt ans au moins à la date de la notification de la décision d'octroi de
+prime. Cette condition n'est pas exigée lorsque les travaux envisagés tendent soit à réaliser l'adaptation des logements aux
+besoins des handicapés physiques, soit à améliorer les logements occupés par les travailleurs manuels appelés à travailler la
+nuit, soit à économiser l'énergie. En cas de circonstances exceptionnelles, des dérogations à cette condition peuvent être
+accordées par le préfet en fonction de l'urgence et de l'intérêt des travaux à réaliser.
 
-Toutefois, ce délai n'est pas obligatoire pour les travaux visant à économiser l'énergie. Des dérogations exceptionnelles à
-cette condition peuvent être accordées par le préfet en fonction de l'urgence et de l'intérêt de travaux à réaliser.
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 :
+
+La section I du chapitre II du titre II du livre III du code de la construction et de l'habitation (partie Réglementaire)
+sont abrogés. Cette abrogation prend effet à compter de la date de publication de l'arrêté interministériel approuvant le
+règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ###### Article R322-5
 
-Peuvent seuls donner lieu à l'octroi de primes [*conditions*] les travaux ayant pour résultat la mise en conformité avec des
-normes minimales d'habitabilité ou l'installation d'équipements de confort. Ces travaux sont définis par arrêté du ministre
-chargé de la construction et de l'habitation.
+Ne donnent pas lieu à l'octroi de la prime les travaux commencés avant la notification de la décision d'octroi de prime. En
+cas de circonstances exceptionnelles des dérogations à cette condition peuvent être accordées par le préfet en fonction de
+l'urgence et de l'intérêt des travaux à réaliser. Toutefois, cette dérogation ne peut être accordée que pour des travaux
+commencés après la date de dépôt de la demande de prime.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ###### Article R322-6
 
-Ne donnent pas lieu à l'octroi de prime les travaux commencés avant la notification de la décision d'octroi de prime.
+Ne donnent pas lieu au bénéfice des primes :
 
-**Liens relatifs à cet article**
+Les travaux qui ont fait l'objet depuis moins de dix ans ou qui font l'objet des concours financiers prévus par la
+réglementation relative :
 
-	**Anciens textes**:
+Aux prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété ;
 
-	  - Décret n°77-851 1977-07-26 art. 6
+Aux prêts bonifiés à moyen et long terme du crédit agricole mutuel sauf pour l'amélioration de logements dans les zones de
+montagne, telles qu'elles sont définies par le décret n. 77-566 du 3 juin 1977 modifié ;
 
-	**Codifié par**:
+Aux habitations à loyer modéré ;
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+Aux primes à la construction convertibles ou non en bonifications d'intérêt ;
 
+Aux subventions à l'amélioration de l'habitat accordées par le ministre chargé de l'agriculture en application des articles
+180 et 181 du code rural et aux subventions à l'habitat autonome des jeunes agriculteurs.
 
-###### Article R322-7
+**Nota:**
 
-Ne donnent pas lieu au bénéfice des primes les travaux qui bénéficient ou ont bénéficié depuis moins de dix ans des concours
-financiers prévus par la réglementation relative :
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
 
-- aux prêts bonifiés à moyen et long terme du crédit agricole mutuel ;
-
-- aux habitations à loyer modéré ;
-
-- aux primes à la construction convertibles ou non en bonifications d'intérêt ;
-
-- aux primes à l'amélioration de l'habitat rural ;
-
-- aux aides à l'amélioration de l'habitat accordées par le ministère chargé de l'agriculture en application des articles 180
-et 181 du code rural et aux subventions à l'habitat autonome des jeunes agriculteurs.
-
-Ne donnent pas lieu au bénéfice des primes les travaux effectués dans des logements ayant bénéficié depuis moins de dix ans
-d'aides prévues par la présente section dont le montant cumulé atteint le plafond mentionné à l'article R. 322-8 en vigueur
-au moment de la première demande d'aide.
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 180, 181
-	  - Code de la construction et de l'habitation. - art. R322-8 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 7
+	  - Code rural 180
+	  - Code rural 181
+	  - Décret n°77-566 1977-06-03
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+
+###### Article R322-7
+
+Dans des logements ayant donné lieu depuis moins de dix ans à l'attribution des aides prévues par le décret n. 72-104 du 4
+février 1972, par la présente section et par la section I du chapitre IV du titre II du livre III du code de la construction
+et de l'habitation, seuls les travaux qui n'ont pas fait l'objet des aides susvisées peuvent bénéficier de la prime.
+
+Le montant cumulé des aides ne doit pas excéder le plafond mentionné à l'article R. 322-8 et en vigueur au moment de la
+dernière demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°72-104 1972-02-04
+	  - Code de la construction et de l'habitation R324-1 à R324-19
+	  - Code de la construction et de l'habitation. - art. R322-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
 
 
 ###### Article R322-8
 
-Le montant des primes, leur plafond et leurs modalités de versement sont fixés par un arrêté des ministres chargés de la
-construction et de l'habitation, de l'agriculture et des finances.
+Le montant des primes, leur taux, leur plafond et leurs modalités de versement sont fixés par arrêtés des ministres chargés
+de l'économie, du budget, de la construction et de l'habitation et de l'agriculture. La forme de la demande de prime ainsi
+que les justifications et pièces à fournir à l'appui de la demande sont fixées par arrêtés des ministres chargés de
+l'économie, du budget et de la construction et de l'habitation.
 
-Le même arrêté détermine le contenu de la demande de prime et énumère les justifications et pièces à fournir à l'appui de la
-demande.
-
-Les primes sont payées par le Crédit foncier de France, pour le compte de l'Etat, au vu de la notification de la décision de
+Les primes sont payées par le Crédit foncier de France, pour le compte de l'Etat, au vu de la notification de décision de
 paiement des primes, dans des conditions précisées par une convention avec l'Etat. Cette convention précise notamment les
 modalités de remboursement des frais exposés par le Crédit foncier de France.
 
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 8
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cité par**:
 
@@ -30920,57 +31056,74 @@ modalités de remboursement des frais exposés par le Crédit foncier de France.
 
 ###### Article R322-9
 
-La personne qui sollicite le bénéfice des primes doit adresser sa demande au service instructeur défini à l'article R.
-322-10. Copie de cette demande est adressée au maire.
+La personne qui sollicite le bénéfice des primes doit adresser sa demande à la direction départementale de l'équipement, sauf
+à Paris où elle doit être adressée au préfet. Copie de cette demande est adressée au maire.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R322-10 (M)
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ###### Article R322-10
 
-L'instruction de la demande est effectuée :
+L'instruction de la demande est effectuée par le directeur départemental de l'équipement.
 
-1. En ce qui concerne les bâtiments d'habitation dépendant d'une exploitation agricole et les bâtiments destinés à usage
-mixte professionnel et d'habitation des artisans ruraux entendus au sens de l'article 1061 du code rural, par le directeur
-départemental de l'agriculture ;
+La décision est prise par le préfet [*autorité compétente*].
 
-2. En ce qui concerne les autres bâtiments d'habitation, par le directeur départemental de l'équipement sauf à Paris où elle
-est assurée par le préfet de Paris.
+Elle est notifiée à l'intéressé par lettre recommandée et comporte éventuellement fixation du montant de la prime.
 
-Dans tous les cas, la décision est prise par le préfet sur le rapport du directeur départemental de l'équipement [*autorité
-compétente*].
-
-Elle est notifié à l'intéressé par lettre recommandée [*condition de forme*] et comporte éventuellement fixation du montant
-de la prime.
-
-Elle n'a d'effet que si les travaux sont commencés dans le délai d'un an à compter de la date de notification de la décision
+Elle n'a d'effet que si les travaux sont commencés dans le délai d'un à compter de la date de notification de la décision
 d'octroi de prime.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 1061
-
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cité par**:
 
@@ -30981,83 +31134,101 @@ d'octroi de prime.
 ###### Article R322-11
 
 Dans un délai de deux ans à compter de la date de notification de la décision d'octroi de prime, le bénéficiaire est tenu de
-[*obligation*] justifier de l'achèvement des travaux sous peine d'annulation de cette décision.
+justifier de l'achèvement des travaux sous peine d'annulation de cette décision.
 
-Une prorogation de ce délai peut être accordée par le préfet selon la procédure définie à l'article R. 322-10.
+Une prorogation de ce délai peut être accordée par le préfet.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R322-10 (M)
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ###### Article R322-12
 
 Les décisions concernant les primes peuvent, dans un délai de deux mois à compter de leur notification, être déférées au
-ministre chargé de la construction et de l'habitation. Celui-ci peut également les évoquer dans le même délai.
+ministre chargé de la construction et de l'habitation. Celui-ci peut également les évoquer dans le même délai [*autorité
+compétente*].
 
-Le ministre statue après avoir pris l'avis de la commission prévue par l'article R. 311-16.
+Le ministre statue après avoir pris l'avis de la commission prévue par l'article R. 331-12.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R311-16
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°85-1004 1985-09-19 ART. 1 JORF 24 SEPTEMBRE 1985
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R322-14 (M)
 	  - Code de la construction et de l'habitation. - art. R322-15 (Ab)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-12 (Ab)
+
 
 ###### Article R322-13
 
-A peine de remboursement de la prime :
+Sous peine d'annulation de la décision d'octroi de prime et de remboursement des sommes déjà perçues :
 
-- les locaux primés doivent être occupés dans les conditions mentionnées aux articles R. 322-1 et R. 322-3 ;
+Le logement pour lequel la prime est accordée doit être occupé dans les conditions fixées aux articles R. 322-1 et R. 322-2,
+dans le délai maximum d'un an qui suit la date de versement du solde de la prime et pendant une durée de dix ans à compter de
+la date de notification de la décision d'octroi de prime [*période*] ;
 
-- cette occupation doit intervenir dans le délai maximum d'un an qui suit la date du versement du solde de la prime et
-pendant une durée de dix ans à compter de la date de notification de la décision d'octroi de prime ;
+Le bénéficiaire de la prime doit pouvoir justifier, à toute réquisition, que le logement ayant fait l'objet de la prime est
+régulièrement occupé.
 
-- le bénéficiaire de la prime doit pouvoir justifier à toute réquisition que les locaux primés sont régulièrement occupés.
+Le délai de un an est porté à trois ans lorsque le logement est destiné à être occupé personnellement par le bénéficiaire de
+la prime dès son retour d'un département ou territoire d'outre-mer ou de l'étranger.
 
-Le délai d'un an est porté à trois ans lorsque les logements sont destinés à être occupés personnellement par le bénéficiaire
-de la prime dès son retour d'un département ou territoire d'outre-mer ou de l'étranger.
-
-Le délai d'un an est porté à cinq ans lorsque les logements sont destinés à être occupés personnellement par le bénéficiaire
-de la prime dès sa mise à la retraite.
+Le délai de un an est porté à cinq ans lorsque le logement est destiné à être occupé personnellement par le bénéficiaire de
+la prime dès sa mise à la retraite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R322-1 (M)
-	  - Code de la construction et de l'habitation. - art. R322-3 (M)
+	  - Code de la construction et de l'habitation. - art. R322-2 (M)
 
 	**Cité par**:
 
@@ -31069,60 +31240,78 @@ de la prime dès sa mise à la retraite.
 
 Sous peine d'annulation de la décision d'octroi de prime :
 
-- tout changement d'occupation ou d'utilisation des logements primés, intervenant pendant la période de dix ans définie à
-l'article R. 322-13, doit être déclaré dans un délai de deux mois ;
+Tout changement d'occupation ou d'utilisation des logements primés, intervenant pendant la période de dix ans définie à
+l'article R. 322-13 doit être déclaré dans un délai de deux mois ;
 
-- il doit être justifié, dans un délai de quatre mois à compter de la date de la déclaration, que le nouvel occupant
-satisfait à l'ensemble des exigences réglementaires.
+Il doit être justifié, dans un délai de quatre mois à compter de la date de la déclaration, que le nouvel occupant satisfait
+à l'ensemble des exigences réglementaires.
 
 En cas de décès, ce délai de justification est porté à trois ans.
 
 La déclaration et la justification prévues au présent article sont adressées par lettre recommandée avec demande d'avis de
-réception [*condition de forme*] à l'autorité ayant délivré la prime.
+réception à l'autorité ayant délivré la prime.
 
-En cas de changement dans la composition de la famille occupant le logement primé, des dérogations à l'article R. 322-1
-peuvent être accordées par le ministre chargé de la construction et de l'habitation après avis de la commission prévue à
-l'article R.  322-12.
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R322-1 (M)
-	  - Code de la construction et de l'habitation. - art. R322-12 (M)
 	  - Code de la construction et de l'habitation. - art. R322-13 (M)
 
 
 ###### Article R322-15
 
-La décision d'octroi de prime est annulée lorsque les logements primés sont :
+La prime est remboursée lorsque le logement pour lequel elle a été attribuée est :
 
-a) Transformés en locaux commerciaux ou professionnels ;
+a) Transformé en locaux commerciaux ou professionnels ;
 
-b) Affectés à la location sauf pour les ouvriers agricoles ;
+b) Affecté à la location sauf en ce qui concerne les exploitants agricoles, les associés d'exploitation titulaires d'un
+contrat enregistré et les ouvriers agricoles ;
 
-c) Utilisés comme résidence secondaire au-delà des périodes de un, trois et cinq ans prévues à l'article R. 322-13.
+c) Utilisé comme résidence secondaire au-delà des périodes de un, trois et cinq ans prévues à l'article R. 322-13.
+
+En cas de modification de la situation familiale de l'occupant du logement primé, des dérogations à l'article R. 322-1
+peuvent être accordées par le ministre chargé de la construction et de l'habitation aprés avis de la commission prévue à
+l'article R. 322-12.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-851 1977-07-26 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 art.1 JORF 22 NOVEMBRE 1979
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. R322-1 (M)
+	  - Code de la construction et de l'habitation. - art. R322-12 (M)
 	  - Code de la construction et de l'habitation. - art. R322-13 (M)
 
 	**Cité par**:
@@ -31133,29 +31322,56 @@ c) Utilisés comme résidence secondaire au-delà des périodes de un, trois et 
 
 ###### Article R322-16
 
-Par dérogation aux dispositions de l'article R. 322-15 (b), l'autorisation de louer avec maintien du bénéfice de la prime
-peut être donnée par l'autorité qui l'a délivrée :
+Par dérogation à l'article R. 322-15 (b), l'autorisation de louer avec maintien du bénéfice de la prime peut être donnée par
+l'autorité qui l'a délivrée [*non remboursement*] :
 
-- soit, au maximum, pour la période de trois ou cinq années qui s'écoule entre la date du versement du solde de la prime et
-celle de l'occupation régulière par le bénéficiaire après son retour d'un département d'outre-mer ou de l'étranger ou sa mise
-à la retraite ;
+Soit au maximum pour la période de trois ou cinq années qui s'écoule entre la date du versement du solde de la prime et celle
+de l'occupation régulière par le bénéficiaire après sa mise à la retraite ou son retour d'un département d'outre-mer ou de
+l'étranger ;
 
-- soit, lorsque la cessation d'occupation du logement, dûment motivée par des raisons professionnelles, est limitée à une
-durée de trois ans. Cette durée peut être prolongée de trois ans.
+Soit lorsque la cessation d'occupation du logement, dûment motivée par des raisons professionnelles, est limitée à une durée
+de trois ans. Cette durée peut être prolongée de trois ans.
+
+Les logements doivent alors être loués dans les conditions fixées par l'article R. 331-41 (2.), alinéa 2, du présent code
+[*loyer maximum*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R322-15 (M)
+	  - Code de la construction et de l'habitation. - art. R331-41 (M)
+
+
+###### Article R322-17
+
+Le remboursement de la prime est effectué sous déduction d'un abattement de 5 p. 100 [*taux*] par an à compter de la date de
+notification de la décision d'octroi de la prime.
+
+Lorsque la prime a été obtenue à la suite de fausses déclarations ou de manoeuvres frauduleuses, son remboursement est exigé
+sans aucun abattement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°77-851 1977-07-26 art. 16
+	  - Décret n°77-851 1977-07-26 art. 17
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la construction et de l'habitation. - art. R322-15 (M)
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
 
 
 ##### Section 2 : Habitat locatif.
@@ -31826,34 +32042,45 @@ par logement.
 
 ###### Article R323-7
 
-La subvention est au plus égale à 20 p. 100 [*montant*] du coût prévisionnel des travaux, dans la limite de 8.000 francs par
-logement.
+Le taux de la subvention est au plus égal à 20 p. 100 du coût prévisionnel des travaux dans la limite de 12000 F par
+logement. Toutefois, le taux de la subvention peut atteindre 30 p. 100 du coût prévisionnel des travaux.
+
+- dans la limite de 12000 F par logement pour les travaux ou parties de travaux visant à améliorer la qualité acoustique des
+logements, sur production d'un rapport établi par un organisme de contrôle agréé, dans des conditions fixées par un arrêté du
+ministre chargé de la construction et de l'habitation ;
+
+- dans la limite de 18000 F par logement :
+
+1. Pour les travaux ou parties de travaux visant à améliorer la qualité thermique des logements et définis par un arrêté du
+ministre chargé de la construction et de l'habitation, sur production d'un rapport établi par un organisme d'étude faisant
+apparaître que la rentabilité de l'investissement consenti est satisfaisante.
+
+2. Pour les travaux portant sur des logements appartenant à des communes de moins de 7500 habitants et pour les logements
+mentionnés à l'article R. 323-11-I ci-après, sous réserve, lorsqu'il s'agit de travaux visant à améliorer la qualité
+thermique ou acoustique des logements, du respect des conditions prévues ci-dessus [*personnes agées, handicapés*].
+
+Des dérogations aux taux et plafonds de la subvention peuvent être accordées par le ministre chargé de la construction et de
+l'habitation pour des opérations à caractère expérimental et sur avis du comité directeur du groupe interministériel "Habitat
+et vie sociale" pour des opérations relevant du programme d'action prioritaire n. 21 du VIIe Plan de développement économique
+et social ou pour d'autres opérations, lorsqu'elles présentent un caractère social marqué.
 
 La décision d'octroi de subvention est prise par le préfet [*autorité compétente*].
 
-Des dérogations à ce taux et à ce plafond de subvention peuvent être accordées par le ministre chargé de la construction et
-de l'habitation pour des opérations à caractère expérimental et sur avis du comité directeur du groupe interministériel
-Habitat et vie sociale pour des opérations relevant du programme d'action prioritaire n° 21 du VIIe Plan de développement
-économique et social ou pour d'autres opérations, lorsqu'elles présentent un caractère social marqué.
-
-Des dérogations peuvent également être accordées par le préfet pour les travaux visant à économiser l'énergie et effectués
-dans le cadre d'un contrat national passé entre l'Etat et les organismes propriétaires ou gestionnaires de logements.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1019 1977-08-29 art. 7
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. ANNEXE (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L351-2 (3), R323-11-I
 
 	**Cité par**:
 
@@ -32715,6 +32942,52 @@ d'amélioration de l'habitat et du transfert de son actif à l'agence nationale 
 
 #### Chapitre III : Subventions de l'Etat
 
+##### Subventions subordonnées à la passation de conventions prévues à l'article L. 351-2 (3).
+
+###### Article R323-11-1
+
+Les collectivités locales et les établissements publics groupant plusieurs communes et ayant compétence en matière
+d'urbanisme peuvent bénéficier de subventions à l'amélioration des logements, acquis en application de l'article L. 311-3 du
+code des communes.
+
+Peuvent seuls être améliorés les logements occupés par les personnes ayant cédé leur logement dans les conditions prévues à
+l'article L. 311-3 du code des communes, s'il s'agit :
+
+1. De personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail et titulaires à
+ce titre d'un avantage de vieillesse ;
+
+2. Ou de personnes handicapées atteintes d'une incapacité permanente d'au moins 80 p. 100 ou qui, compte tenu de leur
+handicap, sont dans l'impossibilité reconnue par la commission technique d'orientation ou de reclassement professionnel
+prévue à l'article L. 323-11 du code du travail de se procurer un emploi, et dont les ressources, ajoutées le cas échéant à
+celles des autres personnes du ménage, ne dépassent pas celles fixées en application de l'article R. 331-20 du code de la
+construction et de l'habitation [*plafond*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°79-975 1979-11-20 ART. 4 JORF 22 NOVEMBRE 1979
+
+	**Abrogé par**:
+
+	  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L311-3 (Ab)
+	  - Code du travail - art. L323-11 (M)
+	  - Code de la construction et de l'habitation L351-2 3
+	  - Code de la construction et de l'habitation. - art. R331-20 (M)
+
+
 ##### Subventions subordonnées au respect de conditions réglementaires.
 
 ###### Article R323-20
@@ -32738,34 +33011,6 @@ pas respectées.
 	  - Décret n°2016-698 du 27 mai 2016 (V)
 	  - Code de la construction et de l'habitation. - art. R323-20 (T)
 	  - Code de la construction et de l'habitation. - art. R323-21 (V)
-
-
-#### Chapitre IV : Aide à l'habitat rural.
-
-##### Aide prévue par le code rural.
-
-###### Article R324-20
-
-Les subventions prévues par l'article 180 modifié du code rural en vue de la restauration de l'habitat rural sont accordées
-par le préfet de chaque département sur le vu des propositions faites par le directeur départemental de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 180
-
-	**Anciens textes**:
-
-	  - Décret n°54-608 1954-06-11 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°79-977 1979-11-20 art. 2 JORF 22 novembre 1979
 
 
 ### Titre III : Prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
@@ -54659,6 +54904,404 @@ effectués et des subventions qu'ils ont accordées.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R522-2 (V)
+
+
+#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.
+
+###### Article R523-1
+
+Dans les limites et conditions fixées par le présent chapitre, des subventions peuvent être accordées aux personnes physiques
+[*bénéficiaires*] qui, en application des articles L. 28 et L. 38 du code de la santé publique, effectuent des travaux
+tendant à remédier à l'insalubrité des logements dont elles sont propriétaires et qui constituent leur résidence principale
+depuis plus de deux ans [*durée*].
+
+Ces subventions ne sont attribuées qu'aux personnes dont les ressources n'excèdent pas un montant déterminé par arrêté du
+ministre du budget et du ministre chargé de la construction et de l'habitation [*plafond*].
+
+Ces aides sont également accordées aux communes ou à leurs groupements qui se substitueraient aux propriétaires défaillants
+en application de l'article L. 40 du code de la santé publique.
+
+Lorsque les travaux tendant à remédier à l'insalubrité portent sur les parties communes d'un immeuble en copropriété, le
+montant de la subvention accordée aux copropriétaires répondant aux conditions du présent chapitre est calculé sur la base de
+la quote-part des travaux leur incombant. Dans ce cas, la subvention peut être versée directement au syndic pour le compte
+des copropriétaires concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L28 (M)
+	  - Code de la santé publique - art. L38 (Ab)
+	  - Code de la santé publique - art. L40 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R523-2 (V)
+	  - Code de la construction et de l'habitation. - art. R523-3 (V)
+	  - Code de la construction et de l'habitation. - art. R523-8 (Ab)
+
+
+###### Article R523-2
+
+Cette subvention [*montant*] est égale à 50 p. 100 du coût des dépenses dans la limite d'un plafond fixé par arrêté du
+ministre du budget, du ministre chargé de la construction et de l'habitation et du ministre de la santé et de la sécurité
+sociale.
+
+Ne peuvent être retenus pour le calcul de la subvention que les travaux fixés par arrêté du ministre chargé de la
+construction et de l'habitation.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R321-20 (V)
+
+
+###### Article R523-3
+
+Toute mutation à titre onéreux, volontaire ou forcée ou toute donation entre vifs de la pleine propriété du logement dont
+l'habitation a justifié l'octroi de la subvention emporte de plein droit le remboursement de celle-ci. La notification de la
+mutation doit être faite par le notaire au directeur départemental de l'équipement, sauf à Paris où elle est faite au préfet.
+La notification doit être faite par lettre recommandée avec accusé de réception dans un délai de deux mois à compter de la
+mutation.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R321-6-4 (V)
+	  - Code de la construction et de l'habitation. - art. R321-7 (V)
+	  - Code de la construction et de l'habitation. - art. R523-4 (Ab)
+
+
+###### Article R523-4
+
+Le remboursement de la subvention est garanti par la constitution d'une hypothèque conventionnelle inscrite par le préfet au
+profit de l'Etat aux frais du bénéficiaire de la subvention.
+
+L'obligation de remboursement dans le cas de mutation visé à l'article R. 523-3 est éteinte au bout de quinze ans à compter
+de la date de notifcation de la décision d'octroi de la subvention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R523-3 (Ab)
+
+
+###### Article R523-5
+
+Ne donnent pas lieu à l'octroi de subvention les travaux commencés avant la notification de la décision d'octroi de
+subvention. En cas de circonstances exceptionnelles, des dérogations à cette condition peuvent être accordées par le préfet
+en fonction de l'urgence et de l'intérêt des travaux à réaliser. Toutefois, cette dérogation n'est autorisée que pour des
+travaux commencés après la date de dépôt de la demande de subvention.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+
+###### Article R523-6
+
+Les conditions de cumul de cette subvention avec la prime à l'amélioration de l'habitat sont définies par arrêté du ministre
+du budget et du ministre chargé de la construction et de l'habitation.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+
+###### Article R523-7
+
+La personne qui sollicite le bénéfice de la subvention doit adresser sa demande à la direction départementale de l'équipement
+qui instruit le dossier. La décision est prise par le préfet [*autorité compétente*]. Elle est notifiée à l'intéressé par
+arrêté et comporte son montant. Les décisions concernant les subventions peuvent, dans un délai de deux mois à compter de
+leur notification, être déférées au ministre chargé de la construction et de l'habitation. Celui-ci peut les évoquer de son
+plein gré. Le ministre statue après avoir pris l'avis de la commission prévue à l'article R. 331-12 [*recours*].
+
+"La subvention est payée par le Crédit foncier de France, pour le compte de l'Etat, au vu de la notification de la décision
+de paiement de la subvention, dans des conditions précisées par une convention avec l'Etat. Cette convention prévoit
+notamment les modalités de remboursement des frais exposés par le Crédit foncier de France."
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-12 (Ab)
+
+
+###### Article R523-8
+
+Sous peine d'annulation de la décision d'octroi de la subvention et de remboursement des sommes déjà perçues, le logement
+pour lequel la subvention est accordée doit être occupé dans les conditions fixées à l'article R. 523-1 dans le délai maximum
+d'un an qui suit la date de versement du solde de la subvention et pendant une durée de quinze ans à compter de la date de
+notification de la décision d'octroi de la subvention.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R523-1 (M)
+
+
+###### Article R523-9
+
+Lorsque les bénéficiaires des subventions ne peuvent plus, pour des raisons professionnelles ou familiales, destiner le
+logement à leur résidence principale, ils peuvent être autorisés par le préfet à le louer selon les conditions fixées par
+l'article R. 331-41 (2.), alinéa 2, du présent code, pour la durée restant à courir jusqu'à l'expiration du délai prévu à
+l'article précédent.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R331-41 2 AL. 2
+
+
+###### Article R523-10
+
+Dans un délai de deux ans à compter de la date de la notification de la décision d'octroi de la subvention, le bénéficiaire
+est tenu de justifier de l'achèvement des travaux sous peine d'annulation de la décision et de remboursement des sommes déjà
+perçues. Sur demande du propriétaire ou de sa propre initiative, le préfet constate alors la cessation de l'insalubrité et
+abroge l'arrêté la déclarant.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+
+###### Article R523-11
+
+Si les travaux sont exécutés d'office en application de l'article L. 40, alinéa 2, du code de la santé publique, les sommes
+versées au titre de la subvention le sont directement à la commune et sont déduites de la créance de la collectivité
+publique.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique L40 AL. 2
+
+
+###### Article R523-12
+
+S'il s'avère que la subvention a été obtenue à la suite de fausses déclarations ou de manoeuvres frauduleuses, le
+remboursement sera exigé [*sanction*].
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : Le chapitre III du titre II du livre V du code de la construction et de
+l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Abrogé par**:
+
+	  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ### Titre III : Dispositions spéciales aux départements d'outre-mer.
