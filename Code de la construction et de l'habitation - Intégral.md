@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-28
+Version Consolidée au 2000-12-30
 
 # Partie législative
 
@@ -45381,6 +45381,47 @@ dispositions des articles R. 321-1 à R. 321-16, R. 322-1 à R. 322-17, R. 331-3
 
 ##### Section 2 : Caractéristiques financières de l'avance.
 
+###### Article R317-8
+
+Le montant de l'avance ne peut excéder 20 p. 100 du coût de l'opération retenu dans la limite d'un prix maximal déterminé en
+fonction de la composition familiale du ménage bénéficiaire et de la localisation du logement.
+
+Le taux mentionné à l'alinéa précédent est porté à 30 % dans les zones urbaines sensibles et dans les zones franches urbaines
+mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire.
+
+Les conditions d'application du présent article sont fixées par arrêté conjoint du ministre chargé de l'économie et des
+finances, du ministre chargé du budget et du ministre chargé du logement.
+
+**Nota:**
+
+Décret 2000-1338 2000-12-26 art. 2 : Les dispositions du présent décret sont applicables aux offres de prêt émises à compter
+du 1er janvier 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 2 octobre 1995 - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1338 du 26 décembre 2000 - art. 1 () JORF 30 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1338 du 26 décembre 2000 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2000-1338 du 26 décembre 2000
+
+
 ###### Article R317-9
 
 Le montant de l'avance ne peut être supérieur à 50 p. 100 du montant du ou des autres prêts, d'une durée supérieure à deux
@@ -45470,44 +45511,6 @@ bénéficiaire.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-
-
-##### Section 2 : Caractéristiques financières de l'avance.
-
-###### Article R317-8
-
-Le montant de l'avance ne peut excéder 20 p. 100 du coût de l'opération retenu dans la limite d'un prix maximal déterminé en
-fonction de la composition familiale du ménage bénéficiaire et de la localisation du logement.
-
-Le taux mentionné à l'alinéa précédent est porté à 25 % dans les zones franches urbaines définies au B du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
-
-Les conditions d'application du présent article sont fixées par arrêté conjoint du ministre chargé de l'économie et des
-finances, du ministre chargé du budget et du ministre chargé du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°2000-1338 du 26 décembre 2000
-	  - TXT_SOURCE: Décret n°2000-1338 du 26 décembre 2000 - art. 2 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 2 octobre 1995 - art. 8 (V)
-
-	**Modifié par**:
-
-	  - Décret n°97-62 du 20 janvier 1997 - art. 1 () JORF 25 janvier 1997
 
 
 ##### Section 3 : Conventions avec les établissements de crédit.
