@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-07-02
+Version Consolidée au 1987-07-21
 
 # Partie législative
 
@@ -37578,12 +37578,16 @@ l'habitation et des finances.
 Les prêts sont consentis à taux fixes ou à taux révisables. Ils sont accordés pour une durée maximum de vingt ans, non
 compris la durée du préfinancement prévue à l'article R. 331-57.
 
-Ils sont assortis d'un différé d'amortissement de deux ans.
+Les prêts à taux fixes peuvent être consentis à annuités constantes ou à annuités progressives.
 
-A compter du 29 avril 1984, le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces
-périodes et le rythme de la progressivité des charges en cours d'amortissement sont, nonobstant les dispositions de l'article
-R. 331-54-1, fixés par arrêté des ministres chargés de la construction et de l'habitation et des finances, en tenant compte
-du coût des ressources concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-56.
+Les prêts à taux fixes ou à taux variables consentis à annuités progressives sont assortis d'un différé d'amortissement de
+deux ans.
+
+Les prêts à taux fixes consentis à annuités constantes peuvent être précédés d'une période d'anticipation.
+
+Les caractéristiques financières de ces prêts sont, nonobstant les dispositions de l'article R. 331-54-1, fixées par arrêté
+des ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources
+concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-56.
 
 Le remboursement anticipé, total ou partiel du prêt, est autorisé selon des modalités fixées par arrêté des ministres chargés
 de la construction et de l'habitation et des finances.
@@ -37593,6 +37597,10 @@ de la construction et de l'habitation et des finances.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-562 1987-07-20 art. 1 jorf 21 juillet 1987
 
 	**Cité par**:
 
@@ -37616,23 +37624,16 @@ de la construction et de l'habitation et des finances.
 Lorsqu'ils sont consentis à taux révisables, les prêts sont soumis aux conditions suivantes :
 
 1° Les taux des périodes successives des prêts sont périodiquement révisés en fonction d'un indice tenant compte du coût des
-ressources concourant à leur financement ;
-
-2° La première révision des taux ne peut intervenir qu'à l'issue du différé d'amortissement ;
-
-3° La première annuité de la période d'amortissement ne peut être majorée du fait de la révision des taux ;
-
-4° Sans préjudice des dispositions du 3° qui précède, aucune annuité, à l'exception de la dernière, ne peut être au cours de
-la période d'amortissement, ni supérieure de plus de 8 p. 100, ni inférieure à l'annuité précédente.
+ressources concourant à leur financement ;    2° La première révision des taux ne peut intervenir qu'à l'issue du différé
+d'amortissement ;    3° La première annuité de la période d'amortissement ne peut être majorée du fait de la révision des
+taux ;    4° Sans préjudice des dispositions du 3° ci-dessus, aucune annuité, à l'exception de la dernière, ne peut être, au
+cours de la période d'amortissement et par rapport à l'annuité précédente ni supérieure, ni inférieure à un taux fixé par
+arrêté des ministres chargés de la construction et de l'habitation et des finances. "
 
 Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les conditions d'application du
 présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-944 1977-07-27 ART. 23 (Décret 78-48 1978-01-12 ART. 1ET 3)
 
 	**Cité par**:
 
@@ -37645,6 +37646,10 @@ présent article.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°87-562 1987-07-20 art. 2 jorf 21 juillet 1987
 
 
 ###### Article R331-55
@@ -57747,12 +57752,6 @@ l'article 5 de la loi n° 65-557 du 10 juillet 1965 sur la copropriété.
 
 	  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
-
-#### Chapitre III : Accession à la propriété et autres cessions.
-
-##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.
-
-##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.
 
 ### Titre V : Contrôle
 
