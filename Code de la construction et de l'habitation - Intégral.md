@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-05-17
+Version Consolidée au 1981-06-30
 
 # Partie législative
 
@@ -35870,6 +35870,77 @@ passibles de l'impôt sur le revenu.
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 
 
+##### Sous-section 3 : Conditions particulières.
+
+###### Article R351-17-2
+
+Dans le cas prévu à l'article R. 351-17 (6è alinéa), l'élément L de la formule de calcul prévue à l'article R. 351-18
+représente [*loyer principal minimum*] :
+
+Soit le quotient du loyer effectivement payé par le nombre de cotitulaires du bail ou de l'engagement de location, le
+résultat étant pris en compte dans la limite du loyer de référence prévu à l'article R. 351-20 qui correspond à la situation
+familiale de chacun des intéressés ;
+
+Soit le quotient de la somme prise en compte au titre des charges mentionnées à l'article R. 351-2 par le nombre de
+copropriétaires, cotitulaires du prêt ouvrant droit à l'aide personnalisée, le résultat étant pris en compte dans la limite
+de la mensualité de référence prévue à l'article R. 351-20 qui correspond à la situation familiale de chacun des intéressés.
+
+Il est fait application à chaque personne ou ménage concerné du coefficient N prévu à l'article R. 351-19 et de l'élément C
+prévu à l'article R. 351-20 qui correspond à sa situation familiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (M)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 9 (M)
+	  - Arrêté du 18 juillet 1990 - art. 2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-22 (V)
+
+	**Créé par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 13 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-20 (Ab)
+
+
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
+
+###### Article R351-20-1
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt conventionné accordé pour l'amélioration du logement et que
+le prêt souscrit antérieurement pour l'acquisition dudit logement est assimilé à un prêt complémentaire dans les conditions
+prévues à l'article R. 351-2 (2è alinéa, a), la mensualité de référence est celle prévue pour les logements acquis et
+améliorés à l'aide d'un prêt conventionné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 14 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-2 AL. 2 A
+
+
 ##### Sous-section 7 : Dispositions diverses.
 
 ##### SECTION IV : Dispositions particulières aux logements-foyers
@@ -35929,7 +36000,71 @@ prévue par le titre d'occupation [*date*].
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
+##### Sous-section 7 : Dispositions diverses.
+
+###### Article R351-29
+
+Au conjoint mentionné aux articles R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10 à R. 351-15, R. 351-17, R. 351-17-1 et R.
+351-19 est assimilée, pour l'application de la présente section, la personne vivant maritalement avec le bénéficiaire de
+l'aide personnalisée [*concubin*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 15 JORF 30 JUIN 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999
+	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999 - art. 1 ()
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-1-1, R351-5 à R351-8, R351-10 à R351-15, R351-17, R351-17-1, R351-19
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-66 (M)
+
+
 ##### Section 1 : Aide personnalisée
+
+##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
+
+###### Article R351-1-1
+
+Lorsque le conjoint ou le ou les enfants à charge du bénéficiaire occupent à titre de résidence principale un local
+indépendant du local occupé par le bénéficiaire et situé dans le même bâtiment, ces deux locaux sont assimilés au logement
+prévu à l'article R. 351-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 1 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
+
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
@@ -40410,6 +40545,65 @@ en outre, reproduire, en caractère très apparents, le texte intégral de l'art
 
 ##### Section 1 : Aide personnalisée
 
+##### Sous-section 3 : Conditions particulières.
+
+###### Article R351-17
+
+L'aide personnalisée ne peut être attribuée au profit d'un même bénéficiaire ou d'une même famille au titre de plusieurs
+logements.
+
+L'aide personnalisée et l'allocation de logement prévue à l'article L. 510 (5°) du code de la sécurité sociale et par la loi
+n° 71-532 du 16 juillet 1971 ne peuvent être cumulées ni au titre d'un même logement, ni au profit du même bénéficiaire ou de
+la même famille.
+
+Lorsque les conditions d'ouverture du droit à l'aide personnalisée sont remplies au titre d'un logement, seule cette aide est
+attribuée pour ce logement.
+
+DECR. 677 du 29 juin 1981 :
+
+Toutefois, en cas de séparation légale ou de fait des conjoints entraînant la création de deux foyers distincts et
+l'occupation de deux résidences principales constatées par l'organisme payeur lors de l'ouverture du droit ou du début de la
+période de paiement, l'aide personnalisée peut être accordée à chacun des conjoints, même si l'autre conjoint bénéficie de
+l'aide personnalisée ou de l'allocation de logement.
+
+Lorsqu'une personne bénéficie de l'allocation de logement au titre de l'acquisition du logement qu'elle occupe et qu'il lui
+est accordé un prêt aidé par l'Etat en accession à la propriété pour l'agrandissement dudit logement ou un prêt conventionné
+pour son amélioration, seule l'aide personnalisée lui est attribuée dans les conditions prévues à l'article R. 351-2 (2è
+alinéa, a) et le droit à l'allocation de logement est éteint à compter de l'ouverture du droit à l'aide personnalisée.
+
+Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent le même logement et qu'ils sont
+copropriétaires du logement et cotitulaires du prêt ouvrant droit à l'aide personnalisée ou cotitulaires du bail ou de
+l'engagement de location, l'aide personnalisée peut être accordée à chacune de ces personnes ou ménages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
+	  - Arrêté du 3 juillet 1978 - art. 9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-17-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-66 (V)
+
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 10, ART. 11 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L510 5
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Loi n°71-532 1971-07-16
+
+
 ##### Sous-section 5 : Prime de déménagement.
 
 ###### Article R351-25
@@ -40740,21 +40934,18 @@ Soit enfants du bénéficiaire ou de son conjoint//.
 Le revenu net imposable est majoré du montant des intérêts correspondant à l'emprunt contracté par le propriétaire pour
 l'acquisition ou l'amélioration du logement et qui ont été déduits du revenu brut.
 
-Il est diminué d'un abattement forfaitaire lorsque les deux conjoints exercent une activité professionnelle productrice de
-revenus et que chacun des deux revenus correspondants a été au moins égal pendant l'année civile de référence à douze fois la
-base mensuelle de calcul des allocations familiales en vigueur au 31 décembre de ladite année. Cet abattement est fixé par
-arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité
-sociale.
+Il est diminué d'un abattement forfaitaire lorsque les deux conjoints ont exercé une activité professionnelle productrice de
+revenus au cours de l'année civile de référence et que chacun des deux revenus correspondants a été au moins égal à douze
+fois la base mensuelle de calcul des allocations familiales en vigueur au 31 décembre de ladite année.
+
+Cet abattement est fixé par arrêté conjoint des ministres chargés des finances, de la construction et de l'habitation, de
+l'agriculture et de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
@@ -40768,30 +40959,33 @@ sociale.
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 4 JORF 30 JUIN 1981
+
 
 ###### Article R351-7
 
-Lorsque le bénéficiaire ou son conjoint n'a pas, au cours de l'année civile de référence, disposé en France de ressources
-imposables ou exercé une activité professionnelle productrice de ressources imposables et qu'il perçoit une rémunération
-mensuelle lors de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le
-calcul de l'aide personnalisée due à l'intéressé, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit
-pendant la période de paiement, sont déterminées forfaitairement sur la base de onze fois la rémunération mensuelle
-considérée. S'il s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur
-indépendant, les ressources prises en considération sont fixées forfaitairement à 2080 fois le salaire minimum
-interprofessionnel de croissance horaire au 1er janvier qui précède la date d'ouverture du droit ou le début de la période de
-paiement.
+Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en France ou, dans le cas contraire, n'a disposé de
+ressources imposables au cours de l'année civile de référence et que l'un ou l'autre perçoit une rémunération mensuelle lors
+de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le calcul de
+l'aide personnalisée, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit pendant la période de paiement,
+sont déterminées forfaitairement sur la base de onze fois la ou les rémunérations mensuelles considérées. S'il s'agit d'une
+personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, les ressources prises en
+considération sont fixées forfaitairement à 2080 fois le salaire minimum interprofessionnel de croissance horaire au 1er
+janvier qui précède l'ouverture du droit ou le début de la période de paiement.
 
 Le montant des ressources ainsi déterminé est affecté des abattements prévus par le code général des impôts.
 
+Lorsque l'ouverture du droit et le début d'activité se situent entre le 1er janvier et le 30 juin d'une période de paiement,
+les ressources prises en compte lors du renouvellement du droit au 1er juillet suivant sont déterminées forfaitairement sur
+la même base que lors de l'ouverture du droit [*date*].
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 7
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Liens**:
 
@@ -40821,6 +41015,52 @@ Le montant des ressources ainsi déterminé est affecté des abattements prévus
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 5 ART. 6 JORF 30 JUIN 1981
+
+
+###### Article R351-7-1
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
+conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement et que le bénéficiaire et
+son conjoint étaient au cours de l'année civile de référence dans la situation prévue à l'article R. 351-7 et qu'ils
+déclarent ne percevoir aucune rémunération lors de l'ouverture du droit ou au début de la période de paiement, les ressources
+prises en considération pour le calcul de l'aide personnalisée sont réputées égales au plafond prévu à l'article L. 688 du
+code de la sécurité sociale soit pour une personne seule, soit pour un ménage selon le cas, en vigueur au 31 décembre qui
+précède le début de la période de paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - SPEC_APPLI: Disposition transitoire : Décret 82-715 1982-08-13 ART. 4
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 30 juin 1983 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 7 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L688
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ###### Article R351-9
@@ -40870,26 +41110,22 @@ justifications avant la date fixée par ledit arrêté, le paiement de l'aide pe
 ###### Article R351-10
 
 Lorsque le bénéficiaire ou son conjoint apporte la preuve de sa cessation d'activité professionnelle au début ou au cours de
-la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité, ou de l'ouverture d'un
-droit à prestation en application du chapitre III de la loi n° 75-534 du 30 juin 1975 en faveur des personnes handicapées, il
-est procédé, à compter de la date d'ouverture du droit à l'aide personnalisée ou du premier jour du mois au cours duquel
-survient le changement de situation, a un abattement de 30 p. 100 sur le revenu net imposable perçu par l'intéressé au cours
-de l'année civile de référence. Cette mesure est applicable jusqu'à la fin de la période de paiement considérée et
-éventuellement de la période suivante si la cessation d'activité se situe au cours du second semestre d'une période.
+la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une rente d'accident de
+travail ou de l'allocation aux adultes handicapés ou de l'allocation compensatrice, le revenu net imposable perçu par
+l'intéressé au cours de l'année civile de référence est affecté d'un abattement égal à 30 p. 100 des revenus d'activité.
+Cette mesure prend effet le premier jour du mois au cours duquel les deux conditions mentionnées ci-dessus sont remplies.
+Elle est applicable à chaque renouvellement du droit tant que des revenus d'activité ont été perçus au cours de l'année
+civile de référence considérée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°75-534 1975-06-30
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-677 1981-06-29 ART. 8 JORF 30 JUIN 1981
 
 	**Cité par**:
 
@@ -41117,52 +41353,30 @@ période de différé d'amortissement.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-###### Article R351-17
+###### Article R351-17-1
 
-L'aide personnalisée ne peut être attribuée au profit d'un même bénéficiaire ou d'une même famille au titre de plusieurs
-logements.
-
-L'aide personnalisée et l'allocation de logement prévue à l'article L. 510 (5.) du code de la sécurité sociale et par la loi
-n° 71-582 du 16 juillet 1971 ne peuvent être cumulées ni au titre d'un même logement, ni au profit du même bénéficiaire ou de
-la même famille.
-
-Lorsque les conditions d'ouverture du droit à l'aide personnalisée sont remplies au titre d'un logement, seule cette aide est
-attribuée pour ce logement.
-
-En cas de résidences séparées des époux, hormis le cas de séparation légale, si les conditions d'ouverture du droit à l'aide
-personnalisée sont remplies au titre de chacun des logements occupés par les époux, seule est attribuée l'aide personnalisée
-afférente au logement occupé par la famille. Il en est de même lorsque le logement d'un des époux ouvre droit à l'aide
-personnalisée et l'autre à l'allocation de logement.
+Lorsque la séparation [*légale ou de fait des conjoints*] prévue à l'article R. 351-17 (4è alinéa) intervient en cours de
+période de paiement, le droit à l'aide personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation avec
+effet au premier jour du mois au cours duquel la séparation a eu lieu.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°71-582 1971-07-16
-	  - Code de la sécurité sociale L510
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Créé par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°81-677 1981-06-29 ART. 12 JORF 30 JUIN 1981
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-17 AL. 4
 
 	**Cité par**:
 
-	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 2 bis (V)
-	  - Arrêté du 3 juillet 1978 - art. 4 (Ab)
-	  - Arrêté du 3 juillet 1978 - art. 9 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-17-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (M)
+	  - Code de la construction et de l'habitation. - art. R351-4 (V)
 	  - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
@@ -41444,40 +41658,6 @@ celles prévues par les différents contrats de prêts.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R351-66 (M)
-
-
-###### Article R351-29
-
-Au conjoint mentionné aux articles R. 351-10 à R. 351-15 et R. 351-19 est assimilée pour l'application de la présente section
-la personne vivant maritalement avec le bénéficiaire de l'aide personnalisée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°80-391 1980-06-02 art. 4 JORF 4 juin 1980
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999
-	  - TXT_SOURCE: Décret n°99-1160 du 29 décembre 1999 - art. 1 ()
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-10 à R351-15, R351-19
-	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 	**Cité par**:
 
