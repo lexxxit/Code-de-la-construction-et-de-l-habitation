@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-01-25
+Version Consolidée au 1997-02-01
 
 # Partie législative
 
@@ -48208,10 +48208,10 @@ de l'aide.
 ###### Article R*351-7-2
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le demandeur occupe un logement à usage locatif,
-qu'il poursuit des études ainsi que, le cas échéant, son conjoint, et que les ressources du ménage au titre de l'année de
-référence, appréciées au sens des articles R. 351-5 à R. 351-7, sont inférieures à un montant fixé par arrêté conjoint des
-ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture, les ressources du bénéficiaire ou du
-ménage sont réputées égales à ce montant.
+qu'il poursuit des études ainsi que, le cas échéant, son conjoint, et que les ressources du ménage, appréciées au sens des
+articles R. 351-5 à R. 351-7, sont inférieures à un montant fixé par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture, les ressources du bénéficiaire ou du ménage sont réputées égales à ce
+montant.
 
 **Liens relatifs à cet article**
 
@@ -48227,7 +48227,7 @@ ménage sont réputées égales à ce montant.
 
 	**Modifié par**:
 
-	  - Décret n°91-1178 du 18 novembre 1991 - art. 2 () JORF 20 novembre 1991
+	  - Décret n°97-79 du 30 janvier 1997 - art. 3 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
@@ -48281,44 +48281,61 @@ alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
 
 ###### Article R351-5
 
-Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coéfficient de prise
-en charge, tels que définis à l'article R. 351-19, sont celles percues pendant l'année civile précédant la période prévue par
-l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme
-vivant habituellement au foyer les personnes y ayant résidé plus de six mois [*durée*] au cours de ladite année civile et qui
-y résident encore au moment de la demande ou au début de la période de paiement. Les ressources prises en considération
-s'entendent du total des revenus nets catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après le barème des
-revenus taxés à un taux proportionnel ou soumis à un prélèvement libératoire de l'impôt sur le revenu, ainsi que des revenus
-perçus hors de France ou versés par une organisation internationale et après application :
+I. - Les ressources prises en considération pour le calcul de l'aide personnalisée sont celles perçues par le bénéficiaire,
+son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme vivant habituellement au foyer les
+personnes y ayant résidé plus de six mois au cours de l'année civile précédant la période de paiement prévue par l'article R.
+351-4 et qui y résident encore au moment de la demande ou au début de la période de paiement.
 
-d'une déduction représentative des frais de garde des enfants à charge, dont le montant maximum est fixé par arrêté des
-ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture ".
+Sont retenues les ressources perçues pendant ladite année civile, appréciées selon les dispositions ci-dessous et après
+application le cas échéant des dispositions des articles R. 351-6, R. 351-7-1, R. 351-7-2 et R. 351-10 à R. 351-14-1, sauf
+dans les cas prévus à l'article R. 351-7 où sont retenues les ressources évaluées forfaitairement conformément aux
+dispositions dudit article.
 
-" - de la déduction au titre des créances alimentaires mentionnée au 2° du II de l'article 156 du code général des impôts ;
+II. -  Les ressources prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement
+de l'impôt sur le revenu d'après le barème, des revenus taxés à un taux proportionnel ou soumis à un prélèvement libératoire
+de l'impôt sur le revenu, ainsi que des revenus perçus hors de France ou versés par une organisation internationale.
 
-" - de l'abattement mentionné à l'article 157 bis du code général des impôts en faveur des personnes âgées ou invalides.
+Est également prise en considération, suivant les règles applicables en matière d'imposition aux traitements et salaires
+prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts,
+l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du code de la sécurité sociale.
 
-" Est exclue du décompte des ressources l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988
-relative au revenu minimum d'insertion et servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes définies à
-l'alinéa 1er du présent article. "
+Ne sont pas déduits du décompte des ressources les déficits constatés au cours d'une année antérieure à celle qui est prise
+en considération et qui font l'objet d'un report, en vertu de l'article 156-I du code général des impôts.
 
-" Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports
-des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
+Sont déduits de ce décompte :
 
-" Les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
-code général des impôts sont également exclus du décompte des ressources.
+- les frais de garde des enfants à charge, dans la limite d'un montant fixé par arrêté des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture ;
 
-" Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du réexamen
-du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au deuxième alinéa.
-Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des prix à la
-consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé au projet
-de loi finances. "
+- les créances alimentaires mentionnées au 2° du II de l'article 156 du code général des impôts ;
 
-Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 815-8 du code de la
-sécurité sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont : Soit ascendants du
-bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
+- l'abattement mentionné à l'article 157 bis du code général des impôts pour les personnes nées avant le 1er janvier 1931 et
+pour les personnes invalides.
+
+Sont exclus de ce décompte :
+
+- l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et
+servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes définies au I du présent article ;
+
+- les arrérages des rentes viagères constituées en faveur d'une personne handicapée et mentionnés à l'article 199 septies du
+code général des impôts.
+
+III. - Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas connues au moment de la demande ou du
+réexamen du droit, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues au présent
+article. Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des
+prix à la consommation des ménages pour l'année civile de référence figurant dans le rapport économique et financier annexé
+au projet de loi finances.
+
+IV. - Ne sont prises en compte que pour la fraction dépassant le plafond individuel prévu à l'article L. 815-8 du code de la
+sécurité sociale les ressources de chacune des personnes vivant habituellement au foyer qui sont :
+
+Soit ascendants du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas
+d'inaptitude au travail ;
+
 Soit "grands infirmes" au sens de l'article 169 du code de la famille et de l'aide sociale et qui sont ascendants,
-descendants ou collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ; Soit enfants du bénéficiaire
-ou de son conjoint.
+descendants ou collatéraux aux deuxième et troisième degrés du bénéficiaire ou de son conjoint ;
+
+Soit enfants du bénéficiaire ou de son conjoint.
 
 **Liens relatifs à cet article**
 
@@ -48360,44 +48377,53 @@ ou de son conjoint.
 
 	**Cite**:
 
-	  - CGI 156, 157 bis, 156-1, 199 septies
+	  - CGI 158, 156, 157 bis, 199 septies
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 169 (M)
+	  - Code de la sécurité sociale. - art. L431-1 (V)
 	  - Code de la sécurité sociale. - art. L815-8 (M)
+	  - Code de la construction et de l'habitation R351-4, R351-6, R351-7-1, R351-7-2, R351-10 à R351-14-1, R351-7, 83
 	  - Code de la construction et de l'habitation. - art. R351-4 (M)
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°91-1178 du 18 novembre 1991 - art. 1 () JORF 20 novembre 1991
+	  - Décret n°97-79 du 30 janvier 1997 - art. 1 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 
 ###### Article R351-7
 
-Lorsque ni le bénéficiaire ni son conjoint n'avait son domicile fiscal en France ou, dans le cas contraire, n'a disposé de
-ressources imposables au cours de l'année civile de référence et que l'un ou l'autre perçoit une rémunération mensuelle lors
-de l'ouverture du droit ou au début de la période de paiement, les ressources prises en considération pour le calcul de
-l'aide personnalisée, soit à compter de l'ouverture du droit jusqu'au 30 juin suivant, soit pendant la période de paiement,
-sont déterminées forfaitairement sur la base de douze fois la ou les rémunérations mensuelles considérées. Le montant des
-ressources ainsi déterminé est affecté des abattements prévus par le code général des impôts.
+I. - Il est procédé à une évaluation forfaitaire des ressources du bénéficiaire et, le cas échéant, de son conjoint, dès lors
+que l'un ou l'autre perçoit une rémunération mensuelle et ne perçoit pas l'allocation mentionnée à l'article 4 de la loi n°
+88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion :
 
-S'il s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, les
-ressources prises en considération sont fixées forfaitairement à 2 028 fois le salaire minimum de croissance horaire en
-vigueur au 1er janvier qui précède la date d'ouverture du droit. Ce montant est affecté des déductions et abattements fixés
-par le premier alinéa de l'article R. 531-10 du code de la sécurité sociale.
+a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et, le cas échéant, de son conjoint, perçues au
+titre de l'année civile de référence et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à 812
+fois le salaire minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
 
-Lorsque l'ouverture du droit et le début d'activité se situent entre le 1er janvier et le 30 juin d'une période de paiement,
-les ressources prises en compte lors du renouvellement du droit au 1er juillet suivant sont déterminées forfaitairement sur
-la même base que lors de l'ouverture du droit [*date*].
+b) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
+conformément à l'article R. 351-5 pendant l'année civile de référence.
+
+II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
+précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
+deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts, soit, s'il
+s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 2 028
+fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui précède l'ouverture ou le renouvellement du
+droit.
+
+Le montant des ressources ainsi déterminé est affecté des déductions et abattements fixés par le II de l'article R. 351-5.
+
+III. - Lorsque les ressources, lors de l'ouverture du droit, ont été déterminées sur la base d'une évaluation forfaitaire,
+les mêmes ressources sont prises en compte lors du premier renouvellement du droit au 1er juillet suivant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -48405,16 +48431,15 @@ la même base que lors de l'ouverture du droit [*date*].
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
 	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - Arrêté du 30 juin 1979 - art. 7 (V)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Arrêté du 10 août 1984 - art. 10 (V)
 	  - Arrêté du 14 août 1987 - art. 9 (Ab)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
 	  - Arrêté du 26 décembre 2016 (V)
 	  - Arrêté du 22 août 1986 - art. 2 (V)
@@ -48429,13 +48454,15 @@ la même base que lors de l'ouverture du droit [*date*].
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
-	**Modifié par**:
-
-	  - Décret n°89-843 du 15 novembre 1989 - art. 2 ()
-
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R531-10 (M)
+	  - CGI 158
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
+	  - Code de la construction et de l'habitation R351-5, 83
+
+	**Modifié par**:
+
+	  - Décret n°97-79 du 30 janvier 1997 - art. 2 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 
 ###### Article R351-7-1
@@ -48550,12 +48577,11 @@ la sécurité sociale en vigueur au 31 décembre de l'année de référence.
 
 ###### Article R351-11
 
-" Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
+Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer supplémentaires consécutives à une obligation
 de résidence séparée imposée par ses conditions de travail, il est procédé, à partir du premier jour du mois civil suivant
-celui au cours duquel ces charges apparaissent, à un abattement forfaitaire sur les ressources déterminées dans les
-conditions prévues à l'article R. 351-5 et perçues par le ménage au cours de l'année civile de référence. Le montant de cet
-abattement est fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
-logement. "
+celui au cours duquel ces charges apparaissent, à un abattement forfaitaire sur les ressources du ménage déterminées dans les
+conditions prévues aux articles R. 351-5 et R. 351-7. Le montant de cet abattement est fixé par arrêté conjoint des ministres
+chargés de la sécurité sociale, du budget, de l'agriculture et du logement.
 
 Lorsque les charges de loyer supplémentaires disparaissent, l'abattement prévu au premier alinéa est supprimé à partir du
 premier jour du mois civil au cours duquel lesdites charges disparaissent [*date d'effet*].
@@ -48564,7 +48590,7 @@ premier jour du mois civil au cours duquel lesdites charges disparaissent [*date
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -48572,7 +48598,6 @@ premier jour du mois civil au cours duquel lesdites charges disparaissent [*date
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 bis (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 quater (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 2 ter (M)
-	  - SPEC_APPLI: Décret n°88-516 du 3 mai 1988 - art. 3 (V)
 
 	**Cité par**:
 
@@ -48582,11 +48607,12 @@ premier jour du mois civil au cours duquel lesdites charges disparaissent [*date
 
 	**Modifié par**:
 
-	  - Décret n°88-516 1988-05-03 art. 2 3. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+	  - Décret n°97-79 du 30 janvier 1997 - art. 4 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
 ###### Article R351-12
@@ -48819,7 +48845,8 @@ Le montant de l'aide personnalisée au logement est arrondi au franc le plus pro
 
 ###### Article R351-19
 
-Le coefficient K, au plus égal à 0,95, est déterminé par les formules suivantes :
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant les formules
+suivantes :
 
 - si le bénéficiaire est locataire :
 
@@ -48827,7 +48854,8 @@ K = 0,95 - ((R - (r X N))/(CM X N))    - si le bénéficiaire est propriétaire 
 
 K = 0,95 -(R/(CM X N)) dans lesquelles :
 
-R représente les ressources déterminées conformément à l'article R. 351.5, arrondies au franc inférieur ;
+R représente la limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article
+R. 351-5 ;
 
 r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture ;
@@ -48865,12 +48893,11 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
 
 	**Cité par**:
 
@@ -48886,7 +48913,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 3 () JORF 30 septembre 1992
+	  - Décret n°97-79 du 30 janvier 1997 - art. 5 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 
 ###### Article R351-19-1
@@ -48966,13 +48993,15 @@ prévu à l'article R. 351-19.
 
 Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
 
-Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
+Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 500 F mentionné à l'article R. 351-19. Les
+pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la limite supérieure de
+l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -48987,11 +49016,12 @@ Pour l'application du présent article, les ressources sont arrondies dans les c
 
 	**Modifié par**:
 
-	  - Décret n°86-982 1986-08-22 art. 4 JORF 26 août 1986
+	  - Décret n°97-79 du 30 janvier 1997 - art. 6 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
 ###### Article R351-21-1
@@ -51127,13 +51157,14 @@ Le montant de l'aide personnalisée au logement est arrondi au franc le plus pro
 
 ###### Article R351-61
 
-Le coefficient K, au plus égal à 0,95, est déterminé par la formule :
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule :
 
 K = 0,95 - ((R -(r X N))/(CM X N))
 
 dans laquelle :
 
-R représente les ressources déterminées conformément à l'article R. 351-5, arrondies au franc inférieur ;
+R représente la limite supérieur de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R.
+351-5 ;
 
 r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture ;
@@ -51157,12 +51188,11 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
 
 	**Cité par**:
 
@@ -51174,7 +51204,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 7 () JORF 30 septembre 1992
+	  - Décret n°97-79 du 30 janvier 1997 - art. 7 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
@@ -51186,18 +51216,18 @@ Le coefficient K est arrondi à deux décimales par défaut.
 Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
 denommés résidences sociales et mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er janvier 1995 , en
 application du 5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient
-K est déterminé par la formule :
+K est déterminé pour chaque intervalle de ressources de 500F en appliquant la formule :
 
-" K = 0,9 -( R /(CM X N))
+K = 0,9 -( R /(CM X N))
 
-" dans laquelle :
+dans laquelle :
 
-" R représente les ressources déterminées conformément à l'article R. 351-61 ;
+R représente les ressources déterminées conformément à l'article R. 351-61 ;
 
-" CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
 sociale et de l'agriculture ;
 
-" N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
+N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
 charge, 2,3 si le ménage ou la personne isolée a une personne à charge.
 
 Le coefficient K est arrondi à deux décimales par défaut.
@@ -51206,7 +51236,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -51220,7 +51250,7 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 13 () JORF 11 mai 1995
+	  - Décret n°97-79 du 30 janvier 1997 - art. 8 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
@@ -51233,8 +51263,8 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 ###### Article R351-62
 
-L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
-ressources dont les limites inférieures et supérieures sont affectées du coefficients N prévu à l'article R. 351-61.
+L'équivalence de loyer et de charges minima est obtenue par l'application de pourcentages à des tranches de ressources dont
+les limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61.
 
 Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
 du budget, de l'agriculture et du logement.
@@ -51245,13 +51275,15 @@ coefficient N prévu à l'article R. 351-61.
 
 Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
 
-Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-61.
+L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 500 F mentionné à
+l'article R. 351-61. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
+limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -51264,10 +51296,11 @@ Pour l'application du présent article, les ressources sont arrondies dans les c
 
 	**Modifié par**:
 
-	  - Décret n°85-932 1985-08-30 art. 13 JORF 3 septembre 1985
+	  - Décret n°97-79 du 30 janvier 1997 - art. 9 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 
 
@@ -51285,15 +51318,21 @@ de la sécurité sociale et de l'agriculture.
 L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
 arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur. Pour le calcul de cette équivalence de loyer et
-de charges minima, les ressources à prendre en considération sont déterminées dans les conditions prévues à l'article R.
-351-61.
+L'équivalence de loyer et de charges minima est déterminée pour chaque intervalle de ressources de 500 F mentionné à
+l'article R. 351-61-1. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
+limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
+
+**Nota:**
+
+NOTA : Décret 2001-1037 du 5 novembre 2001 art. 9 : "A l'article R351-62-1 les mots : et arrondi au franc immédiatement
+inférieur sont supprimés." Cette modification n'a pas lieu d'être ; le dernier alinéa qui contenait ces termes a été
+entièrement refondu en 1997 et ces termes supprimés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Liens**:
 
@@ -51307,15 +51346,15 @@ de charges minima, les ressources à prendre en considération sont déterminée
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 14 () JORF 11 mai 1995
+	  - Décret n°97-79 du 30 janvier 1997 - art. 10 () JORF 31 janvier 1997 en vigueur le 1er février 1997
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
 
 	**Nouveaux textes**:
