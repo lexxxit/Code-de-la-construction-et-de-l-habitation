@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-06-29
+Version Consolidée au 1999-07-01
 
 # Partie législative
 
@@ -51785,20 +51785,19 @@ a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et
 titre de l'année civile de référence et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à 812
 fois le salaire minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
 
-b) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
+b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du droit, ont été évaluées forfaitairement ;
+
+c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
 conformément à l'article R. 351-5 pendant l'année civile de référence.
 
 II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
 précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
 deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts, soit, s'il
-s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 2 028
+s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 500
 fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui précède l'ouverture ou le renouvellement du
 droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et abattements fixés par le II de l'article R. 351-5.
-
-III. - Lorsque les ressources, lors de l'ouverture du droit, ont été déterminées sur la base d'une évaluation forfaitaire,
-les mêmes ressources sont prises en compte lors du premier renouvellement du droit au 1er juillet suivant.
 
 **Liens relatifs à cet article**
 
@@ -51818,9 +51817,9 @@ les mêmes ressources sont prises en compte lors du premier renouvellement du dr
 	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
 	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
 	  - Arrêté du 30 juin 1979 - art. 7 (V)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Arrêté du 10 août 1984 - art. 10 (V)
 	  - Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
 	  - Arrêté du 26 décembre 2016 (V)
 	  - Arrêté du 22 août 1986 - art. 2 (V)
@@ -51843,7 +51842,7 @@ les mêmes ressources sont prises en compte lors du premier renouvellement du dr
 
 	**Modifié par**:
 
-	  - Décret n°97-79 du 30 janvier 1997 - art. 2 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+	  - Décret n°99-541 du 28 juin 1999 - art. 1 () JORF 29 juin 1999 en vigueur le 1er juillet 1999
 
 
 ###### Article R351-7-1
@@ -52316,43 +52315,6 @@ l'intervalle dans lequel se situent les ressources appréciées conformément à
 
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-
-###### Article R351-21-2
-
-A compter du 1er juillet 1987, la mensualité nette, obtenue en déduisant des charges mensuelles de prêts déclarées le montant
-de l'aide personnalisée due aux propriétaires, doit être au moins égale à un minimum déterminé par le produit d'un
-coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture
-et des ressources prises en compte pour le calcul de l'APL déterminées en application des articles R. 351.5, 7 ou 7.1.
-
-Lorsque la mensualité nette est inférieure au minimum, il est appliqué au montant mensuel de l'aide personnalisée un
-abattement égal à la différence constatée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 bis (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 sexies (M)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 12 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 bis (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 sexies (M)
-	  - Arrêté du 14 août 1987 - art. 12 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351
 
 
 ##### PARAGRAPHE III : Dispositions communes aux locataires et aux propriétaires.
@@ -53168,6 +53130,51 @@ améliorés à l'aide d'un prêt conventionné.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+
+
+###### Article R351-21-2
+
+I. - A compter du 1er juillet 1987 et pour les contrats de prêt signés avant le 1er juillet 1999, la mensualité nette,
+obtenue en déduisant des charges mensuelles de prêts déclarées le montant de l'aide personnalisée due aux propriétaires, doit
+être au moins égale à un minimum déterminé par le produit d'un coefficient fixé par arrêté conjoint des ministres chargés du
+logement, du budget, de la sécurité sociale et de l'agriculture et des ressources prises en compte pour le calcul de l'APL
+déterminées en application des articles R. 351-5, 7 ou 7-1.
+
+Lorsque la mensualité nette est inférieure au minimum, il est appliqué au montant mensuel de l'aide personnalisée un
+abattement égal à la différence constatée.
+
+II. - Pour les contrats de prêt signés à compter du 1er juillet 1999, la mensualité nette, majorée du montant forfaitaire des
+charges pris en compte pour le calcul de l'aide personnalisée, doit être au moins égale à un minimum déterminé par le produit
+d'un coefficient fixé par l'arrêté susmentionné et des ressources prises en compte pour le calcul de l'aide.
+
+Lorsque la mensualité nette augmentée du montant forfaitaire des charges est inférieure au minimum, il est appliqué au
+montant mensuel de l'aide personnalisée un abattement égal à la différence constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 bis (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 sexies (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 12 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 bis (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 sexies (M)
+	  - Arrêté du 14 août 1987 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°99-541 du 28 juin 1999 - art. 3 () JORF 29 juin 1999 en vigueur le 1er juillet 1999
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351
 
 
 ###### Article R351-21-3
