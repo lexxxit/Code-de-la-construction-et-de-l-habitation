@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-01-06
+Version Consolidée au 1984-01-25
 
 # Partie législative
 
@@ -6495,19 +6495,17 @@ d'économie mixte dont l'objet principal est la construction et la vente d'immeu
 antérieurement au 1er janvier 1965, bénéficié de la garantie de l'Etat en ce qui concerne leurs engagements financiers, est
 obligatoirement assuré par un commissaire du Gouvernement.
 
+Les sociétés de crédit immobilier sont, en outre, soumises au contrôle de la commission bancaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
-
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+	  - Loi n°84-46 1984-01-24 art. 94 VII JORF 25 janvier 1984
 
 	**Cité par**:
 
@@ -6516,7 +6514,7 @@ obligatoirement assuré par un commissaire du Gouvernement.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 270 AL. 1 ET 3 (LOI 63-156 1963-02-23 ART. 46)
+	  - Code de l'urbanisme 270 al. 1, al. 3
 
 
 ##### Section 2 : Action des collectivités territoriales.
