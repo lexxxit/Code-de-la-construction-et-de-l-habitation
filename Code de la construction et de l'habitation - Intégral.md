@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-03-12
+Version Consolidée au 1986-03-16
 
 # Partie législative
 
@@ -47011,6 +47011,27 @@ bénéficiaires d'aide à la personne défaillante.
 	  - Code de la construction et de l'habitation. - art. R371-1 (M)
 
 
+###### Article R362-8
+
+Le conseil départemental de l'habitat [*attributions*] est substitué au comité départemental des habitations à loyer modéré.
+Il est notamment saisi pour avis de toute création, dissolution, modification de compétences des organismes d'habitations à
+loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+
 ##### Section 2 : Composition et fonctionnement.
 
 ###### Article R362-9
@@ -47403,37 +47424,6 @@ La section est régie par les articles R. 351-49 à R. 351-53.
 	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
-### Titre VI : Reversement de l'aide de l'Etat.
-
-#### Chapitre II : Conseil départemental de l'habitat.
-
-##### Section 1 : Compétences.
-
-###### Article R362-8
-
-Le conseil départemental de l'habitat [*attributions*] est substitué au comité départemental des habitations à loyer modéré.
-Il est notamment saisi pour avis de toute création, transformation, dissolution, modification de compétences des organismes
-d'habitations à loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°84-702 1984-06-30 ART. 2 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
-
-
 ## Livre IV : Habitations à loyer modéré
 
 ### Titre Ier : Dispositions générales
@@ -47469,6 +47459,29 @@ arrêté du ministre chargé de la construction et de l'habitation et du ministr
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
 
+###### Article R*421-2
+
+La dissolution des offices d'aménagement et de construction est prononcée dans les mêmes formes que leur constitution ;
+l'arrêté interministériel de dissolution fixe les modalités de transfert de leur patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (M)
+	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
+	  - Code général de la propriété des personnes publ... - art. R2222-16 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-17 (V)
+
+
 ###### Article R*421-3
 
 Les offices publics d'aménagement et de construction créés, en application de l'article R. 421-1, par transformation
@@ -47487,6 +47500,80 @@ d'offices publics d'habitations à loyer modéré, sont régis par les dispositi
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
+
+
+###### Article R*421-7
+
+Les offices publics d'aménagement et de construction sont administrés par un conseil d'administration de vingt et un
+[*nombre*] membres ainsi composé :
+
+1° Sept membres désignés par l'organe délibérant de la collectivité locale ou de l'établissement public de rattachement ;
+
+2° Cinq membres désignés, après avis de l'organe exécutif de la collectivité locale ou de l'établissement public de
+rattachement, par le préfet parmi les personnes ayant exercé ou exerçant des responsabilités dans les domaines du logement,
+de l'urbanisme, de l'environnement ou en matière sociale et culturelle ;
+
+3° Deux membres désignés par le préfet, choisis respectivement sur une liste d'au moins trois noms établie par les conseils
+d'administration des caisses d'épargne et sur une liste d'au moins trois noms établis par les organismes collecteurs de la
+participation des employeurs à la construction existant dans le département du siège ou, à défaut, la région, ou choisis sur
+l'une de ces deux listes seulement ;
+
+4° Un membre désigné par les conseils d'administration des caisses d'allocations familiales ;
+
+5° Trois membres élus par les locataires, dans les conditions fixées à l'article R. 421-8 ;
+
+6° Un membre désigné par l'union départementale des associations familiales ;
+
+7° Deux membres désignés par les organisations syndicales les plus représentatives dans le département du siège.
+
+Si, après une mise en demeure du préfet non suivie d'effet dans la quinzaine, les conseils d'administration des caisses
+d'épargne ou les organismes collecteurs de la participation des employeurs à la construction n'ont pas établi la liste de
+trois noms prévue au 3° ci-dessus, le préfet procède directement au choix d'un administrateur de ces institutions.
+
+Si, après une mise en demeure du préfet non suivie d'effet dans la quinzaine, les conseils d'administration des caisses
+d'allocations familiales ainsi que l'union départementale des associations familiales n'ont pas désigné leur représentant
+comme il est dit aux 4° et 6° ci-dessus, le conseil d'administration de l'office se complète lui-même en pourvoyant au poste
+vacant parmi les administrateurs de ces institutions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+
+
+###### Article R*421-11
+
+Ne sont pas éligibles ou sont déclarés démissionnaires d'office les membres du conseil d'administration qui se trouvent dans
+un cas d'incapacité ou d'indignité prévu par les lois électorales, à l'exception des incapacités relatives à la nationalité
+qui tomberaient sous le coup des dispositions de l'article L. 423-12 ou qui entreraient dans l'une des situations prévues à
+l'alinéa suivant.
+
+Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les
+entreprises privées traitant avec l'office pour des marchés de travaux ou de fournitures ou assurer des prestations pour ces
+entreprises. Sous réserve des dispositions de l'article R. 421-14, ils ne peuvent, en aucun cas, prêter leur concours à titre
+onéreux à l'établissement ni recevoir de celui-ci des avantages directs ou indirects, sous quelque forme que ce soit, du fait
+de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*421-12
@@ -47537,6 +47624,121 @@ prévues au premier alinéa.
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R423-33 (Ab)
+
+
+###### Article R*421-15
+
+Le conseil d'administration élit en son sein, à la majorité absolue des membres en fonction, un président qui doit
+nécessairement être choisi parmi les membres désignés par la collectivité locale ou l'établissement public de rattachement.
+
+Le conseil d'administration forme en son sein un bureau qui comprend le président du conseil d'administration, président de
+droit du bureau, et quatre autres membres élus au scrutin majoritaire. Ces quatre membres ne peuvent être élus au premier
+tour de scrutin s'ils n'ont réuni la majorité absolue, en cas de partage des voix celle du président du conseil
+d'administration est prépondérante. Sur les quatre membres ainsi élus, l'un d'eux doit être choisi parmi les membres désignés
+par le préfet, un autre doit être un représentant des locataires. Le bureau est élu pour trois ans. Il est procédé à une
+nouvelle élection après chaque renouvellement des représentants de la collectivité locale ou de l'établissement public de
+rattachement de l'office.
+
+Le conseil d'administration peut toutefois révoquer le bureau ou un de ses membres sans attendre le terme ci-dessus sous
+réserve de prendre cette décision à la majorité des trois quarts des membres en fonction et de désigner immédiatement, à la
+majorité simple, un nouveau bureau ou un nouveau membre selon le cas.
+
+Sur proposition du président, le conseil d'administration confère à un membre du bureau le titre de vice-président. Le vice-
+président assiste le président dans ses fonctions et le supplée en cas d'absence ou d'empêchement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 7 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R441-9 (V)
+
+
+###### Article R*421-17
+
+Le conseil d'administration peut former en son sein des commissions chargées d'étudier des questions qu'il détermine
+expressément.
+
+Elles sont convoquées par le président du conseil d'administration, qui en est le président de droit. Au cours de leur
+première réunion les commissions désignent un vice-président qui peut les convoquer et les présider si le président est
+absent ou empêché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-18 (V)
+
+
+###### Article R*421-18
+
+Le conseil d'administration se réunit au moins trois fois par an.
+
+La convocation du conseil d'administration est de droit lorsqu'elle est demandée par la moitié au moins de leurs membres.
+
+L'ordre du jour des délibérations doit être porté à la connaissance des membres des conseils au moins dix jours à l'avance.
+
+Les décisions sont prises à la majorité absolue des membres du conseil d'administration, la délibération n'étant valable que
+si les deux tiers des membres au moins participent à la séance ou sont représentés. En cas de partage, la voix du président
+est prépondérante.
+
+Au cas où le quorum n'est pas atteint, les décisions sur les questions portées à l'ordre du jour de la séance peuvent être
+prises, après convocation régulière, à la séance suivante à la majorité des membres présents ou représentés.
+
+Un administrateur ne peut se faire représenter que par un autre administrateur. Chaque administrateur ne peut recevoir qu'un
+seul mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
+
+
+###### Article R*421-19
+
+Le président préside le conseil d'administration dont il fixe l'ordre du jour.
+
+Il soumet au conseil d'administration, à l'occasion de l'examen du budget, un rapport sur la politique de l'office pendant
+l'exercice en voie d'achèvement et pour l'exercice à venir.
+
+Il propose au conseil d'administration la nomination du directeur général et, le cas échéant, la cessation de ses fonctions.
+
+Le président représente l'office en justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
 ###### Article R*421-20
@@ -48226,6 +48428,311 @@ l'exercice de sa mission et sur l'activité de l'office.
 	**Abrogé par**:
 
 	  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+##### Section 1 : Offices publics d'aménagement et  construction
+
+##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
+
+###### Article R*421-1
+
+Sur leur demande, et après avis conforme de la collectivité locale ou de l'établissement public de rattachement les offices
+publics d'habitations à loyer modéré peuvent être transformés en office public d'aménagement et de construction.
+
+Cette transformation est prononcée par arrêté du ministre chargé de l'intérieur et de la décentralisation, du ministre chargé
+des finances et du ministre chargé de l'urbanisme et du logement, après avis du Conseil supérieur des habitations à loyer
+modéré.
+
+Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une même région peuvent demander à se
+transformer par voie de fusion en un seul office public d'aménagement et de construction ; cette transformation est soumise
+aux règles fixées aux alinéas précédents.
+
+Seuls peuvent obtenir la transformation les offices publics d'habitations à loyer modéré dont la qualité de gestion est
+compatible avec une telle opération. Cette qualité est appréciée au regard de la situation financière et des perspectives
+d'activité de l'office ainsi que des résultats d'un contrôle opéré en vertu de l'article L. 451-1.
+
+Seuls sont soumis à ce contrôle les offices n'en ayant pas fait l'objet au cours des douze mois précédant la demande de
+transformation.
+
+L'office public d'aménagement et de construction est substitué dans les droits et obligations du ou des offices publics
+d'habitations à loyer modéré dont il est issu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Décret n°2012-416  du 23 mars 2012 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+
+###### Article R*421-6
+
+Les offices publics d'aménagement et de construction ont compétence sur le territoire de leur collectivité territoriale ou de
+leur établissement public de rattachement. Ils ont également compétence pour intervenir sur le territoire de la région de
+leur siège et des départements limitrophes, après accord de la commune d'implantation de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
+
+
+###### Article R*421-8
+
+Les représentants des locataires sont élus pour trois ans dans les conditions ci-après :
+
+1° Sont électeurs les personnes physiques et morales qui ont conclu avec l'office un contrat de location d'un local à usage
+d'habitation au plus tard six semaines avant la date de l'élection et ont toujours la qualité de cet office. Les personnes
+morales participent au scrutin par l'intermédiaire d'un mandataire dûment habilité ; chaque contrat de location ne donne
+droit qu'à une voix ; le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix ;
+
+2° Sont éligibles les personnes physiques, âgées de dix-huit ans au minimum et ne tombant pas sous le coup des dispositions
+de l'article R. 421-11, qui sont locataires d'un local à usage d'habitation et peuvent produire soit la quittance
+correspondant à la période de location précédant l'acte de candidature, soit le récépissé visé à l'article 20 de la loi n°
+82-526 du 22 juin 1982, soit la décision de justice octroyant les délais de paiement du loyer ou des charges. Chaque contrat
+de location ne donne droit qu'à une seule candidature ;
+
+3° Au plus tard deux mois avant la date de l'élection, une lettre circulaire fournissant toutes indications utiles sur la
+date des élections, la procédure électorale et les conditions requises des candidats est portée à la connaissance des
+locataires par voie d'affichage.
+
+Les candidatures doivent parvenir à l'office six semaines au moins avant la date de l'élection ; un mois au moins avant cette
+même date, l'office porte la liste des candidats à la connaissance des locataires. Toute contestation relative à
+l'inscription sur cette liste est soumise au juge d'instance qui statue dans les conditions prévues par le code électoral ;
+huit jours au moins avant la date de l'élection, l'office adresse à chaque locataire les bulletins de vote correspondant à
+chacune des listes de candidats avec éventuellement pour chacune d'elles l'indication de son affiliation ;
+
+4° La date de l'élection, ainsi que les modalités pratiques de celle-ci sont arrêtées par le commissaire de la République,
+sur proposition du conseil d'administration. Le vote a lieu soit par correspondance, soit par dépôt des bulletins dans une
+urne, soit simultanément par les deux méthodes au scrutin secret de liste à un tour avec représentation proportionnelle au
+plus fort reste, sans radiation ni panachage.
+
+Chaque liste doit comprendre six noms. Les sièges revenant à chaque liste en fonction des résultats du scrutin sont attribués
+dans l'ordre des noms figurant sur la liste. Les autres personnes figurant sur la liste sont qualifiées, en tant que
+suppléants, pour succéder, dans l'ordre où elles sont inscrites sur la liste, aux titulaires qui cessent leurs fonctions dans
+les conditions prévues au septième alinéa de l'article R. 421-9.
+
+Le dépouillement du scrutin a lieu au siège de l'office. Il est effectué par un bureau comprenant le président en exercice de
+l'office, un membre du conseil d'administration choisi parmi les administrateurs désignés par le commissaire de la République
+et un représentant de chaque liste de candidats. Les résultats sont affichés immédiatement dans tous les immeubles dépendant
+de l'office.    Les réclamations contre les opérations électorales sont portées devant le tribunal administratif du lieu du
+siège de l'office dans la quinzaine qui suit le dépouillement. Le tribunal statue dans les conditions prévues par l'article
+R. 120 du code électoral ;
+
+5° La perte de la qualité de locataire met un terme au mandat des administrateurs nommés en cette qualité ;
+
+6° Au cas de création d'un nouvel office ou d'élections faisant suite à une dissolution, les attributions conférées par les
+dispositions du présent article aux offices existants ou à certains des membres de leur conseil d'administration sont
+exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration par le commissaire de la République ou par les
+fonctionnaires qu'il délègue à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 20
+	  - Code électoral - art. R120 (M)
+	  - Code de l'urbanisme - art. R421-11 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
+	  - Code de la construction et de l'habitation. - art. R*421-11 (V)
+	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
+
+
+###### Article R*421-14
+
+Le mandat de tous les administrateurs est gratuit.
+
+Toutefois, le conseil d'administration peut décider, dans les conditions prévues par l'article R. 421-56 du code de la
+construction et de l'habitation, l'allocation d'une indemnité forfaitaire aux administrateurs salariés, ainsi que le
+remboursement des frais de déplacement des membres du conseil.
+
+Les administrateurs fonctionnaires ou agents de l'Etat et des collectivités territoriales bénéficient du régime des
+autorisations d'absence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 6 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-56
+
+
+###### Article R*421-16
+
+Le conseil d'administration [*attributions*] :
+
+1. Etablit le règlement intérieur ;
+
+2. Décide de la politique générale de l'office ;
+
+3. Décide des actes de disposition, des emprunts et des programmes de réservation foncière, d'aménagement et de
+construction ;
+
+4. Vote le budget, approuve les comptes et donne quitus au directeur général ;
+
+5. Autorise la participation aux sociétés indiquées à l'article R. 421-5 ;
+
+6. Nomme le directeur général et met fin à ses fonctions dans les conditions fixées à l'article R. 421-19 ;
+
+7. Autorise le président à ester en justice ; toutefois, en cas d'urgence ou lorsqu'il s'agit d'une action en recouvrement
+d'une créance, le président peut intenter une action en justice sans cette autorisation. Dans tous les cas, il doit rendre
+compte des actions qu'il a introduites à la prochaine séance du conseil d'administration.
+
+Le conseil d'administration peut déléguer les pouvoirs spécifiés aux 3° et 7° ci-dessus au bureau mentionné à l'article R.
+421-15.
+
+Le bureau rend compte de son activité au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R421-5, R421-15, R421-19
+
+
+###### Article R*421-22
+
+Les fonctions de directeur général et de directeur sont incompatibles avec celles de membre du conseil d'administration.
+
+Le directeur général [*attributions*] assiste, avec voix consultative, aux séances du conseil d'administration dont il
+prépare et exécute les décisions, sous réserve des pouvoirs conférés au président par l'article R. 421-19.
+
+Il est ordonnateur, passe tous actes et contrats et dirige l'activité de l'office dans le cadre des orientations générales
+fixées par le conseil d'administration.
+
+Le directeur général a autorité sur les services et recrute le personnel. Il fixe les effectifs et la rémunération du
+personnel dans la limite des crédits prévus à cet effet par le budget et dans les conditions prévues par l'article 27 du
+décret n. 73-986 du 22 octobre 1973.
+
+Il fournit au conseil d'administration les informations qu'ils demandent.
+
+Il rend compte de sa gestion au conseil d'administration.
+
+Il présente annuellement au conseil d'administration un rapport sur sa gestion.
+
+En cas d'absence ou d'empêchement du directeur général, ses pouvoirs sont assumés par l'un des directeurs ou chefs de
+service, désigné par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°73-986 1973-10-22 ART. 27
+	  - Code de la construction et de l'habitation R421-19
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+
+
+###### Article R*421-23
+
+Une commission désignée en son sein par le conseil d'administration se substitue à celui-ci pour l'attribution des logements.
+
+Elle est ainsi composée :
+
+- deux représentants de la collectivité locale ou de l'établissement public de rattachement de l'office ;
+
+- deux membres choisis parmi les administrateurs nommés par le commissaire de la République du département ;
+
+- un représentant des locataires ;
+
+- le représentant des caisses d'allocations familiales.
+
+Les six membres permanents mentionnés ci-dessus élisent en leur sein à la majorité absolue un président. En cas de partage
+des voix, le candidat le plus âgé est élu.
+
+Le président dispose d'une voix prépondérante en cas de partage égal des voix.
+
+Le maire de la commune où sont situés les immeubles dans lesquels des logements sont mis en location ou son représentant
+participe aux délibérations.
+
+Un représentant des bureaux d'aie sociale peut être appelé à siéger, à titre consultatif, par le président de la commission.
+En l'absence d'un bureau d'aide sociale, un représentant de la direction départementale de l'action sanitaire et sociale peut
+être appelé à siéger dans les mêmes conditions.
+
+La commission se substitue pour l'application des articles R. 441-2 à R. 441-31 et R. 441-36 à R. 441-38 au conseil
+d'administration de l'office public d'aménagement et de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 11 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R441-2 à R441-31, R441-36 à R441-38
+
+
+###### Article R*421-24
+
+Avant toute notification des attributions décidées, le procès-verbal des réunions de la commission est adressé au président
+du conseil d'administration qui peut demander une seconde délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 12 () JORF 16 mars 1986) A(Décret 92-726 1992-07-29 art. 8 JORF 30 juillet 1992
 
 
 ##### Section 2 : Offices publics d'habitations à loyer modéré
@@ -50041,7 +50548,7 @@ financement. Les plans de financement précisent l'origine et le montant des moy
 Le budget, les budgets annexes et les délibérations de programme sont préparés par le directeur général avec le concours de
 l'agent comptable.
 
-Ils sont soumis au conseil restreint ainsi qu'au contrôleur d'Etat ou au trésorier-payeur général.
+Ils sont soumis au contrôleur d'Etat ou au trésorier-payeur général.
 
 Ils sont votés par le conseil d'administration sur proposition de son président avant le 30 novembre de l'année précédant
 celle pour laquelle les budgets sont établis.
@@ -50054,13 +50561,13 @@ la base du budget de l'année précédente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*423-4
@@ -50119,21 +50626,18 @@ liquide et ordonnance toutes dépenses.
 
 Il est conseillé, dans cette tâche, par l'agent comptable.
 
-Il rend compte périodiquement au conseil restreint de l'exécution des budgets et le consulte pour tout problème qui engage la
-politique générale de l'office.
-
-Le directeur général peut déléguer sa signature avec l'accord du conseil restreint aux membres du personnel de l'office
-exerçant les fonctions de chef de service.
+Le directeur général peut déléguer sa signature avec l'accord du conseil d'administration aux membres du personnel de
+l'office exerçant les fonctions de chef de service.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*423-7
@@ -50185,7 +50689,7 @@ L'agent comptable est chargé, sous sa responsabilité, de la perception des rec
 Il veille à la conservation des droits, privilèges et hypothèques de l'office et fait, le cas échéant, au directeur général
 toutes représentations utiles pour que soit assurée cette conservation.
 
-Dans le cadre défini par le conseil restreint, il se concerte avec le directeur général sur les modalités et délais de
+Dans le cadre défini par le conseil d'administration, il se concerte avec le directeur général sur les modalités et délais de
 recouvrement.
 
 Les produits de l'office sont recouvrés soit en vertu de contrats et de jugements exécutoires, soit, à défaut, en vertu
@@ -50198,21 +50702,21 @@ sommes dues, l'agent comptable en rend compte au directeur général à qui il a
 notamment pour faire prononcer la résiliation des contrats à raison de leur inexécution.
 
 Sauf lorsqu'il s'agit d'une dette de l'agent comptable ou d'un régisseur, les créances peuvent faire l'objet d'une remise
-gracieuse par le conseil d'administration ou, sur délégation de celui-ci, par le conseil restreint.
+gracieuse par le conseil d'administration.
 
-Indépendamment de la contribution prévue à l'article R.421-30, des indemnités de fonction et de sujétions peuvent être
+Indépendamment de la contribution prévue à l'article R. 421-30, des indemnités de fonction et de sujétions peuvent être
 allouées à l'agent comptable par le conseil d'administration, conformément à un barème déterminé conjointement par le
 ministre chargé des finances et le ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
 
 	**Cite**:
 
@@ -50224,9 +50728,10 @@ ministre chargé des finances et le ministre chargé de la construction et de l'
 
 L'agent comptable est chargé, sous sa responsabilité, du paiement des dépenses.
 
-A charge d'en saisir le conseil restreint à sa plus prochaine réunion, le directeur général peut requérir, par écrit, l'agent
-comptable de passer outre au refus de règlement d'un mandat et de procéder à son paiement sans autre délai. La déclaration de
-refus de paiement et l'acte de réquisition sont annexés au mandat. Il en est rendu compte aux ministres intéressés.
+A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le directeur général peut requérir, par écrit,
+l'agent comptable de passer outre au refus de règlement d'un mandat et de procéder à son paiement sans autre délai. La
+déclaration de refus de paiement et l'acte de réquisition sont annexés au mandat. Il en est rendu compte aux ministres
+intéressés.
 
 Cette procédure ne peut pas s'exercer lorsque le refus de paiement est fondé sur un des motifs ci-après :
 
@@ -50240,19 +50745,19 @@ Cette procédure ne peut pas s'exercer lorsque le refus de paiement est fondé s
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
+
 	**Cité par**:
 
 	  - Arrêté du 10 décembre 2014 - art. 2 (V)
 	  - Arrêté du 10 décembre 2014 - art. 3 (V)
 	  - Arrêté du 10 décembre 2014 - art. 4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°75-525 1975-06-15 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 ###### Article R*423-10
@@ -50388,38 +50893,37 @@ civiles immobilières constituées uniquement par des organismes d'habitation à
 conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation peut étendre ces
 participations à d'autres organismes.
 
-Les souscriptions de parts ou d'actions et les prises de participation doivent être autorisées par le conseil restreint, dans
-le cadre d'un montant global fixé par le conseil d'administration et révisé aussi souvent qu'il est nécessaire.
+Les souscriptions de parts ou d'actions et les prises de participation doivent être autorisées par le conseil
+d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*423-16
 
 Le conseil d'administration fixe, dans les limites de la réglementation en vigueur, le montant global et les conditions
-générales des emprunts que peut contracter l'office. Il peut déléguer cette compétence au conseil restreint dans des limites
-qu'il détermine.
+générales des emprunts que peut contracter l'office.
 
 Dans ce cadre, le directeur général est habilité à contracter des emprunts, sous réserve d'en rendre compte à la plus
-prochaine réunion du conseil restreint.
+prochaine réunion du conseil d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 ###### Article R*423-17
@@ -50466,20 +50970,20 @@ décembre 1962, susmentionné, sous réserve des dispositions de la présente so
 
 Le directeur général peut demander, à tout moment, à l'agent comptable communication de sa comptabilité.
 
-L'agent comptable peut être chargé par le conseil restreint, sur proposition du directeur général, de la tenue de la
+L'agent comptable peut être chargé par le conseil d'administration sur proposition du directeur général, de la tenue de la
 comptabilité d'engagement et d'ordonnancement ou de l'une ou l'autre.
 
 A ce titre, il relève du directeur général qui lui fournit le personnel et les moyens nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-525 1976-06-15 art. 18
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986) A(Décret 88-921 1988-09-09 art. 9 JORF 15 septembre 1988
 
 
 ###### Article R*423-20
@@ -58020,80 +58524,6 @@ Réservé.
 
 ##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
 
-###### Article R*421-1
-
-Les offices publics d'habitations à loyer modéré peuvent demander à être transformés en offices publics d'aménagement et de
-construction. Cette transformation est prononcée par décret en Conseil d'Etat pris sur le rapport du ministre chargé de la
-construction et de l'habitation, du ministre chargé des finances et du ministre de l'intérieur, après avis de la collectivité
-locale ou de l'établissement public local qui a participé à leur dotation, du [*comité départemental des habitations à loyer
-modéré*] conseil départemental de l'habitat du département du siège, du conseil général, du préfet, du comité régional des
-habitations à loyer modéré, s'il a été constitué, du préfet de région et du conseil supérieur des habitations à loyer modéré.
-
-Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une même région  peuvent demander à se
-transformer par voie de fusion en un seul office public d'aménagement et de construction ; cette transformation est soumise
-aux règles fixées à l'alinéa précédent.
-
-Seuls peuvent obtenir la transformation mentionnée aux deux premiers alinéas les offices publics d'habitations à loyer modéré
-dont la compétence et la qualité de la gestion sur les plans administratif, financier, technique et social ont été
-constatées.
-
-A cet effet, ils doivent faire l'objet d'un contrôle opéré en vertu de l'article L. 451-1, à moins qu'un tel contrôle ait été
-effectué au cours de l'année précédant la demande de transformation.
-
-Ces offices doivent avoir des capacités administratives, techniques et financières qui leur permettent, au cours de chacune
-des trois années suivant la transformation, de réaliser au moins 500 logements ou des opérations d'aménagement nécessitant la
-mise en oeuvre de moyens d'une importance équivalente.
-
-L'office public d'aménagement et de construction est substitué dans les droits et obligations du ou des offices publics
-d'habitations à loyer modéré dont il est issu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-	**Cité par**:
-
-	  - Décret n°2012-416  du 23 mars 2012 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-
-###### Article R*421-2
-
-La dissolution des offices d'aménagement et de construction est prononcée dans les mêmes formes que leur constitution ; le
-décret de dissolution fixe les modalités de transfert de leur patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (M)
-	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
-	  - Code général de la propriété des personnes publ... - art. R2222-16 (V)
-	  - Code général de la propriété des personnes publ... - art. R2222-17 (V)
-
-
 ###### Article R*421-4
 
 Les offices publics d'aménagement et de construction peuvent :
@@ -58150,151 +58580,6 @@ aux entrepreneurs, architectes et techniciens ainsi qu'à celle des réceptions 
 	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
 	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
 	  - Code de la construction et de l'habitation. - art. R421-4-1 (Ab)
-
-
-###### Article R*421-6
-
-Les offices publics d'aménagement et de construction ont compétence sur le territoire de la région dans laquelle est situé
-leur siège et sur celui des départements limitrophes. Cette compétence peut être étendue par décret en Conseil d'Etat pris
-dans les mêmes conditions que le décret de constitution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-22 (VD)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
-
-
-###### Article R*421-7
-
-Les offices publics d'aménagement et de construction sont administrés par un conseil d'administration de vingt-huit
-[*nombre*] membres nommés par arrêté du préfet du département du siège dans les conditions ci-après [*composition*] :
-
-1. Sept membres élus par les collectivités ou établissements publics à savoir ;
-
-- cinq par le conseil municipal, le comité du syndicat de communes, le conseil de district, le conseil de communauté urbaine
-ou le conseil général selon la nature de la collectivité ou de l'établissement public de rattachement antérieur ;
-
-- deux maires par le conseil général hors de son sein, lorsque la collectivité de rattachement antérieur est un département,
-ou deux conseillers généraux par le conseil général, dans les autres cas ;
-
-2. Trois membres désignés ;
-
-- l'un par la ou les caisses d'allocations familiales existant dans le département du siège ;
-
-- les deux autres respectivement par les deux organisations syndicales de salariés les plus représentatives dans le
-département du siège ;
-
-3. Trois membres désignés par le préfet du département du siège, sur proposition des organismes ou groupements ci-après
-existant dans ledit département, soit :
-
-- un membre choisi sur une liste d'au moins trois personnes établie par la ou les chambres de commerce et d'industrie ;
-
-- un membre choisi sur une liste d'au moins trois personnes établie par l'union départementale des associations familiales ;
-
-- un membre choisi sur une liste d'au moins trois personnes établie par les conseils d'administration des caisses d'épargne ;
-
-4. Six membres désignés par le préfet du département du siège parmi les personnes particulièrement compétentes dans les
-domaines de l'environnement, de l'urbanisme, de la construction et de l'habitation et en matière sociale et culturelle ;
-
-5. Cinq membres désignés par le préfet de région parmi les personnes particulièrement compétentes dans les domaines de
-l'environnement, de l'urbanisme, de la construction et de l'habitation et en matière sociale et culturelle au niveau de la
-région, dont deux désignés sur proposition du conseil régional, lorsque celui-ci est constitué ;
-
-6. Deux représentants des locataires élus pour quatre ans au scrutin majoritaire à deux tours, par tous les locataires.
-
-Les personnes physiques ayant fait l'objet d'une des condamnations énumérées aux articles L. 5, L. 6 et L. 7 du code
-électoral et les personnes morales en état de règlement judiciaire ou de liquidation de biens ne peuvent participer au
-scrutin.
-
-Le titulaire de plusieurs contrats de location ne peut prétendre à plusieurs voix.
-
-Seuls sont éligibles les locataires personnes physiques n'ayant fait l'objet d'aucune des condamnations énumérées aux
-articles L. 5, L. 6 et L. 7 du code électoral, n'étant pas frappés des incapacités prévues à l'article L. 423-12 du code de
-la construction et de l'habitation et n'ayant aucun retard dans le paiement de leurs loyers et des charges annexes, sauf
-délais de grâce judiciairement octroyés.
-
-Chaque candidat doit mentionner dans sa déclaration de candidature le nom de son suppléant.
-
-La qualité de suppléant ne confère d'autre droit que de succéder au titulaire dans les conditions prévues au dernier alinéa
-de l'article R. 421-9.
-
-Nul ne peut figurer sur plusieurs déclarations de candidature.
-
-Nul ne peut être déclaré élu au premier tour de scrutin s'il n'a réuni à la fois la majorité absolue des suffrages exprimés
-et un nombre de voix égal au quart du nombre des membres du collège électoral.
-
-Seuls les candidats du premier tour peuvent se présenter au second tour.
-
-Au second tour, la majorité relative suffit.
-
-En cas d'égalité de suffrages entre plusieurs candidats, le plus âgé d'entre eux est élu.
-
-Les modalités de l'élection sont déterminées par un arrêté du ministre chargé de la construction et de l'habitation.
-
-7. Deux représentants du personnel élus au scrutin secret et à la majorité absolue des électeurs.
-
-Le conseil d'administration peut se réunir valablement et délibérer dès que vingt membres au moins [*quorum*] ont été nommés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 6 I
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code électoral 5
-	  - Code de la construction et de l'habitation R421-9 AL. 4
-	  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-1-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (V)
-
-
-###### Article R*421-8
-
-Lorsque l'office public d'aménagement et de construction provient de la transformation d'un office d'habitations à loyer
-modéré rattaché à un groupement de collectivités locales autre qu'un syndicat de communes, un district ou une communauté
-urbaine, le décret de constitution peut adapter les dispositions figurant à l'article R. 421-7 (1°) sans toutefois que le
-nombre des membres du conseil d'administration fixé par les dispositions ainsi aménagées puisse être supérieur à sept.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 6 II
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-7 1/
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-10 (VT)
-	  - Code de la construction et de l'habitation. - art. R*421-11 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-12 (V)
 
 
 ###### Article R*421-9
@@ -58364,310 +58649,6 @@ fin de l'année au cours de laquelle la transformation prend effet.
 	  - Code de la construction et de l'habitation R423-32 à R423-68
 
 
-###### Article R*421-11
-
-Ne sont pas éligibles ou sont déclarés démissionnaires d'office les membres du conseil d'administration qui se trouvent dans
-un cas d'incapacité ou d'indignité prévu par les lois électorales, qui tomberaient sous le coup des dispositions de l'article
-L. 423-12 ou qui entreraient dans l'une des situations prévues à l'alinéa suivant.
-
-Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les
-entreprises privées traitant avec l'office pour des marchés de travaux ou de fournitures ou assurer des prestations pour ces
-entreprises. Sous réserve des dispositions de l'article R. 421-14, ils ne peuvent, en aucun cas, prêter leur concours à titre
-onéreux à l'établissement ni recevoir de celui-ci des avantages directs ou indirects, sous quelque forme que ce soit, du fait
-de leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-14
-	  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-
-###### Article R*421-14
-
-Les fonctions des membres du conseil d'administration sont gratuites. Toutefois le président, les vice-présidents du conseil
-d'administration et le président de la commission [*d'attributions des logements*] prévue à l'article R. 421-23 peuvent
-bénéficier d'indemnités de fonctions forfaitaires dont les montants maxima sont fixés, selon la nature des fonctions exercées
-et d'après l'importance des établissements, par arrêté du ministre chargé de la construction et de l'habitation et du
-ministre chargé des finances.
-
-Le régime des frais de déplacement des membres du conseil d'administration est également fixé par arrêté du ministre chargé
-de la construction et de l'habitation et du ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-23
-
-
-###### Article R*421-15
-
-Le conseil d'administration élit en son sein, à la majorité absolue des membres le composant et pour quatre ans, un bureau
-[*composition*] qui comprend un président, un premier et un second vice-présidents ; deux des trois titulaires de ces
-fonctions doivent être choisis, respectivement, parmi les représentants de la collectivité ou de l'établissement public de
-rattachement et parmi les membres désignés par le préfet de région ou le préfet de département ; les vice-présidents
-assistent le président dans ses fonctions et le suppléent en cas d'absence ou d'empêchement.    Une même personne ne peut
-exercer la présidence ou la vice-présidence que d'un seul office public d'aménagement et de construction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R441-9 (V)
-
-
-###### Article R*421-16
-
-Le conseil d'administration [*attributions*] :
-
-1. Etablit le règlement intérieur ;
-
-2. Décide de la politique générale de l'office ;
-
-3. Décide des actes de disposition, des emprunts et des programmes de réservation foncière, d'aménagement et de
-construction ;
-
-4. Vote le budget, approuve les comptes et donne quitus au directeur général ;
-
-5. Autorise la participation aux sociétés indiquées à l'article R. 421-5 ;
-
-6. Nomme le directeur général et met fin à ses fonctions dans les conditions fixées à l'article R. 421-19 ;
-
-7. Autorise le président à ester en justice ; toutefois, en cas d'urgence ou lorsqu'il s'agit d'une action en recouvrement
-d'une créance, le président peut intenter une action en justice sans cette autorisation. Dans tous les cas, il doit rendre
-compte des actions qu'il a introduites à la prochaine séance du conseil d'administration.
-
-Il peut déléguer à un conseil restreint les pouvoirs spécifiés aux 3. et 7. ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-5
-
-
-###### Article R*421-17
-
-Au bureau mentionné à l'article R. 421-15 sont adjoints, pour constituer le conseil restreint, trois administrateurs élus
-dans les mêmes conditions que les membres du bureau.
-
-Outre les pouvoirs qui peuvent lui être délégués par le conseil d'administration en vertu de l'article précédent, le conseil
-restreint contrôle, pour le compte du conseil d'administration, l'application que fait le directeur général de la politique
-décidée par ledit conseil, et, à ce titre, il peut demander toutes justifications au directeur général.
-
-Il rend compte de son activité au conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-15
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-18 (V)
-
-
-###### Article R*421-18
-
-Le conseil d'administration se réunit au moins trois fois par an et le conseil restreint se réunit au moins huit fois par an.
-
-La convocation des conseils est de droit lorsqu'elle est demandée par la moitié au moins de leurs membres.
-
-L'ordre du jour des délibérations doit être porté à la connaissance des membres des conseils au moins dix jours à l'avance.
-
-Les décisions sont prises à la majorité absolue des membres des conseils, la délibération n'étant valable que si les deux
-tiers des membres au moins participent à la séance ou sont représentés. En cas de partage, la voix du président est
-prépondérante [*vote*].
-
-Au cas où le quorum n'est pas atteint, les décisions sur les questions portées à l'ordre du jour de la séance peuvent être
-prises, après convocation régulière, à la séance suivante à la majorité des membres présents ou représentés.
-
-Un administrateur ne peut se faire représenter que par un autre administrateur. Chaque administrateur ne peut recevoir qu'un
-seul mandat [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*421-16 (V)
-
-
-###### Article R*421-19
-
-Le président [*attributions*] préside le conseil d'administration et le conseil restreint dont il fixe l'ordre du jour.
-
-Après avis du conseil restreint, il soumet au conseil d'administration, à l'occasion de l'examen du budget, un rapport sur la
-politique de l'office pendant l'exercice en voie d'achèvement et pour l'exercice à venir.
-
-Il propose au conseil d'administration la nomination du directeur général et, le cas échéant, la cessation de ses fonctions.
-
-Le président représente l'office en justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-22
-
-Les fonctions de directeur général et de directeur sont incompatibles avec celles de membre du conseil d'administration.
-
-Le directeur général [*attributions*] assiste, avec voix consultative, aux séances du conseil d'administration dont il
-prépare et exécute les décisions, sous réserve des pouvoirs conférés au président par l'article R. 421-19.
-
-Il est ordonnateur, passe tous actes et contrats et dirige l'activité de l'office dans le cadre des orientations générales
-fixées par le conseil d'administration.
-
-Le directeur général a autorité sur les services et recrute le personnel. Il fixe les effectifs et la rémunération du
-personnel dans la limite des crédits prévus à cet effet par le budget et dans les conditions prévues par l'article 27 du
-décret n. 73-986 du 22 octobre 1973.
-
-Il fournit au conseil restreint et au conseil d'administration les informations qu'ils demandent.
-
-Il rend compte de sa gestion au conseil d'administration et au conseil restreint.
-
-Il présente annuellement au conseil d'administration un rapport sur sa gestion.
-
-En cas d'absence ou d'empêchement du directeur général, ses pouvoirs sont assumés par l'un des directeurs ou chefs de
-service, désigné par le conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°73-986 1973-10-22 ART. 27
-	  - Code de la construction et de l'habitation R421-19
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 18 al. 5 à 12
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-23
-
-Il est institué dans chaque office public d'aménagement et de construction une commission d'attribution des logements.
-
-Elle est composée de cinq membres [*nombre*], à savoir :
-
-1. Un administrateur désigné par le conseil d'administration parmi les administrateurs nommés sur désignation du préfet de
-région ou du préfet de département, président ;
-
-2. Un administrateur désigné par le conseil d'administration parmi les représentants de la collectivité locale ou de
-l'établissement public énumérés à l'article R. 421-7 (1.) ;
-
-3. Deux administrateurs désignés par le conseil d'administration parmi les membres énumérés à l'article R. 421-7 (2., 3. ou
-4.) ;
-
-4. Un administrateur désigné par le conseil d'administration parmi les membres indiqués à l'article R. 421-7 (6.).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 19 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R421-7 1/, 2/, 3/, 4/, 6/
-
-
-###### Article R*421-24
-
-Cette commission exerce les attributions dévolues par les articles R. 441-4 à R. 441-36 relatifs aux conditions d'attribution
-des logements des organismes d'habitations à loyer modéré au conseil d'administration ou à la sous-commission prévue à
-l'article R. 441-5, alinéa 2.
-
-En outre, lors de la première mise en location d'immeubles, le maire de la commune où sont situés ces immeubles, ou son
-représentant, participe aux délibérations.
-
-Avant toute notification des attributions décidées, le procès-verbal des réunions de la commission est adressé au président
-du conseil d'administration qui peut demander une seconde délibération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 19 al. 2, al. 3, al. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R441-5 AL. 2
-
-
 ###### Article R*421-26
 
 Les délibérations portant sur des emprunts sont soumises à approbation du préfet du département du siège [*tutelle*], après
@@ -58721,32 +58702,32 @@ susmentionnés les convocations, ordres du jour et tous autres documents qui doi
 Il reçoit également copie des procès-verbaux desdites séances ainsi que des décisions prises par délégation du conseil
 d'administration.
 
-Il peut demander au conseil d'administration ou au conseil restreint de délibérer sur toute question qu'il juge utile de leur
-soumettre et, le cas échéant, provoquer leur réunion.
+Il peut demander au conseil d'administration de délibérer sur toute question qu'il juge utile de leur soumettre et, le cas
+échéant, provoquer leur réunion.
 
 Il est tenu régulièrement informé des projets et activités de l'office public d'aménagement et de construction et reçoit
 communication des documents nécessaires à cet effet.
 
 Les délibérations autres que celles prévues à l'article R. 421-25 sont exécutoires à l'expiration d'un délai de dix jours à
-compter de la réunion du conseil d'administration ou du conseil restreint, à moins qu'avant l'expiration de ce délai le
-commissaire du Gouvernement ne demande une nouvelle délibération.
+compter de la réunion du conseil d'administration, à moins qu'avant l'expiration de ce délai le commissaire du Gouvernement
+ne demande une nouvelle délibération.
 
 Le commissaire du Gouvernement adresse au ministre chargé de la construction et de l'habitation un rapport annuel sur
 l'exercice de sa mission et sur l'activité de l'office.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-986 1973-10-22 art. 22
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R421-26
+	  - Code de la construction et de l'habitation R421-25
 
 
 ###### Article R*421-28
@@ -58914,25 +58895,6 @@ comptable du Trésor, les conditions de nomination, de suspension et de révocat
 	**Abrogé par**:
 
 	  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
-
-
-##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.
-
-###### Article R*421-79
-
-Le conseil d'administration de l'office peut allouer au président [*rémunération*] une indemnité de fonction forfaitaire dont
-le montant maximum est fixé par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé du
-budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Abrogé par**:
-
-	  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
 #### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré
