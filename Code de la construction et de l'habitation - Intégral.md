@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-05-10
+Version Consolidée au 1995-05-11
 
 # Partie législative
 
@@ -34781,8 +34781,8 @@ subventions.
 
 ###### Article R*313-25
 
-Les sommes recueillies au titre de la participation des employeurs par les organismes collecteurs énnumérés au b et c du 2 de
-l'article R313-9 comprennent :
+Les sommes recueillies au titre de la participation des employeurs par les organismes collecteurs énumérés aux b, c et d du
+2° de l'article R. 313-9 comprennent :
 
 a) Les versements effectués par les employeurs en application des articles R. 313-8 à R. 313-11 ;
 
@@ -34790,19 +34790,16 @@ b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence
 employeurs à l'effort de construction ;
 
 c) Les remboursements de prêts consentis à l'aide de la participation des employeurs ainsi que le produit net de la cession
-d'éléments d'actif constitués à l'aide de cette participation ;
+d'éléments d'actif constitués à l'aide de cette participation, à l'exclusion des plus-values sur valeurs mobilières de
+placement ;
 
 d) Le produit net des intérêts de chacun des prêts visés à l'article R. 313-31 pour la fraction excédant 4 p. 100 ;
 
-e) Les produits financiers nets résultant de chacun des placements des sommes en attente d'un emploi conforme à l'article R.
-313-31 pour la fraction excédant 4 p. 100.
+e) Les produits résultant du placement des fonds en attente d'un emploi conforme aux articles R. 313-31, R. 313-34 et R.
+313-52 à R. 313-56 pour la part excédant une limite fixée par décret.
 
-Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2. a, b) ou à
+Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a, b) ou à
 l'Agence nationale pour la participation des employeurs à l'effort de construction sont déduits de ces sommes.
-
-Le montant des sommes em attente d'un emploi conforme à l'article R. 313-31 ne peut dépasser une fraction des sommes
-recueillies au titre de l'exercice précédent, définie par arrêté du ministre chargé de la construction et de l'habitation et
-du ministre chargé de l'industrie et du commerce.
 
 **Liens relatifs à cet article**
 
@@ -34810,18 +34807,13 @@ du ministre chargé de l'industrie et du commerce.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
-	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
-
 	**Modifié par**:
 
-	  - Décret n°90-100 du 26 janvier 1990 - art. 1 () JORF 30 janvier 1990
+	  - Décret n°95-707 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
 
 	**Cite**:
 
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION R313-9, R313-8 à R313-11, R313-31
+	  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31, R313-34, R313-52 à R313-56
 
 
 ###### Article R313-21
@@ -45854,170 +45846,25 @@ L'aide personnalisée au logement instituée par l'article L. 351-1 est attribu�
 principale, aux personnes qui occupent :
 
 - soit le logement dont elles sont propriétaires et qui a été ou construit, ou amélioré, ou acquis et amélioré dans les
-conditions définies par l'article L. 351-2 (1.).    Pour l'application du présent chapitre, sont assimilés à des
-propriétaires les titulaires d'un contrat leur donnant vocation à l'attribution à terme de la propriété du logement qu'ils
-occupent, ainsi que les porteurs de parts ou d'actions de sociétés donnant vocation à l'attribution en propriété du logement
-qu'ils occupent.    - soit un logement à usage locatif, faisant l'objet d'une convention intervenue en vertu des articles L.
-351-2 (2., 3. ou 4.), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n.
-82-526 du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs.    - soit un logement faisant
-l'objet d'un contrat de location-accession conclu dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
-définissant la location-accession à la propriété immobilière et qui a été construit ou acquis dans les conditions définies
-par l'article L. 351-2 (6.).    " La notion de résidence principale doit être entendue [*définition*] au sens du logement
-effectivement occupé au moins huit mois par an soit par le bénéficiaire ou par son conjoint, soit par leurs descendants. "
+conditions définies par l'article L. 351-2 (1.).
 
-" Le logement mis à la disposition d'un requérant par un de ses ascendants ou de ses descendants n'ouvre pas droit au
-bénéfice de l'aide. "
+Pour l'application du présent chapitre, sont assimilés à des propriétaires les titulaires d'un contrat leur donnant vocation
+à l'attribution à terme de la propriété du logement qu'ils occupent, ainsi que les porteurs de parts ou d'actions de sociétés
+donnant vocation à l'attribution en propriété du logement qu'ils occupent.
 
-**Liens relatifs à cet article**
+- soit un logement à usage locatif, faisant l'objet d'une convention intervenue en vertu des articles L. 351-2 (2., 3. ou
+4.), L. 325-1 ou L. 431-6 ou d'un contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du 22 juin
+1982 relative aux droits et obligations des locataires et des bailleurs.
 
-	**Codifié par**:
+- soit un logement faisant l'objet d'un contrat de location-accession conclu dans les conditions prévues par la loi n° 84-595
+du 12 juillet 1984 définissant la location-accession à la propriété immobilière et qui a été construit ou acquis dans les
+conditions définies par l'article L. 351-2 (6.).
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+La notion de résidence principale doit être entendue au sens du logement effectivement occupé au moins huit mois par an soit
+par le bénéficiaire ou son conjoint, soit par une des personnes à charge au sens de l'article R. 351-8..
 
-	**Cite**:
-
-	  - Loi n°82-526 1982-06-22
-	  - Loi n°84-595 1984-07-12
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L352-1 (V)
-	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
-
-	**Modifié par**:
-
-	  - Décret n°92-1048 du 28 septembre 1992 - art. 1 () JORF 30 septembre 1992
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R31-10-6 (VD)
-	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
-	  - Code de la construction et de l'habitation. - art. R318-7 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-1-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
-
-
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
-
-###### Article R351-2
-
-L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des prêts définis par les articles R. 331-32 et
-suivants et qui supporte les charges afférentes à ce prêt [*bénéficiaire*].
-
-Le droit à l'aide personnalisée est ouvert :
-
-Soit, si le propriétaire n'occupe pas le logement à la date de signature du contrat de prêt, à compter du mois au cours
-duquel se situe son entrée dans les lieux ;
-
-Soit, si le propriétaire occupe le logement à la date de signature du contrat de prêt, à compter du mois au cours duquel se
-situe cette date.
-
-L'aide personnalisée est versée à compter de la première échéance due au titre de ce prêt et postérieure à la date d'entrée
-dans les lieux ou de signature du contrat de prêt, si le propriétaire est déjà dans les lieux.
-
-Sont pris en considération pour le calcul de l'aide personnalisée :
-
-a) Les charges d'intérêts, ou les charges d'intérêts et d'amortissement et les charges accessoires au principal de la dette
-afférente aux prêts susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés du budget et
-de la construction et de l'habitation ;
-
-Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété accordé pour
-l'agrandissement ou un prêt conventionné accordé pour l'amélioration du logement, le prêt souscrit antérieurement aux fins de
-construction ou d'acquisition dudit logement est assimilé à un prêt complémentaire.
-
-b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance vie, de l'assurance
-couvrant les risques d'invalidité, de l'assurance pour pertes pécuniaires résultant du report d'échéances de sommes dues en
-cas de chômage, contractées par le bénéficiaire en garantie de l'exécution des engagements souscrits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°81-677 1981-06-29 ART. 2 JORF 30 JUIN 1981
-
-	**Cité par**:
-
-	  - Arrêté du 22 août 1986 - art. 2 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-20-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-27 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R331-32 (M)
-
-
-###### Article R351-2-1
-
-L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
-d'un prêt défini par les articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1 et suivants et
-supporte les charges afférentes à ce prêt [*bénéficiaire*].
-
-Le droit à l'aide personnalisée est ouvert :
-
-Soit, si l'accédant n'occupe pas le logement à la date de signature du contrat de location-accession, à compter du mois au
-cours duquel se situe son entrée dans les lieux ;
-
-Soit, si l'accédant occupe le logement à la date de signature du contrat de location-accession, à compter du mois au cours
-duquel se situe cette date.
-
-L'aide personnalisée est versée à compter de la première échéance due au titre de ce contrat et postérieure à la date
-d'entrée dans les lieux ou de signature du contrat si l'accédant est déjà dans les lieux.
-
-Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
-alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°85-932 1985-08-30 art. 14 JORF 3 septembre 1985
-
-	**Cité par**:
-
-	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R331-59-8 et s., R331-59-16 al. 1, R331-76-1
-	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
-
-
-###### Article R351-3
-
-Sous réserve des dispositions prévues au deuxième alinéa du présent article, le droit à l'aide personnalisée est ouvert :
-
-Au locataire d'un logement conventionné en application de la section I du chapitre III du titre V du livre III de la première
-partie du code de la construction et de l'habitation, qui est titulaire d'un bail conforme aux stipulations de la convention,
-à compter de la première échéance du loyer prévu par ce bail [*bénéficiaire*] ;
-
-Au locataire ou à l'occupant de bonne foi d'un logement conventionné en application de la section II du chapitre III du titre
-V du livre III de la première partie du code de la construction et de l'habitation, soit à compter de la première échéance du
-nouveau loyer notifié par le bailleur s'il s'agit d'un locataire ou occupant de bonne foi dans les lieux, soit à compter de
-la première échéance du loyer prévu par l'engagement de location s'il s'agit d'un nouveau locataire.
-
-L'aide personnalisée est maintenue, après expiration ou résiliation de la convention, au locataire ou à l'occupant qui
-acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
-
-le droit à l'A.P.L. est ouvert au locataire d'un logement ayant fait l'objet d'un contrat d'amélioration en application de
-l'article 59 de la loi n. 82-526 du 22 juin 1982 et titulaire d'un contrat de location conforme aux stipulations du contrat
-d'amélioration, à compter de la première échéance du loyer prévu par le contrat de location.
+Le logement mis à la disposition d'un requérant par un de ses ascendants ou de ses descendants n'ouvre pas droit au bénéfice
+de l'aide.
 
 **Liens relatifs à cet article**
 
@@ -46028,113 +45875,26 @@ d'amélioration, à compter de la première échéance du loyer prévu par le co
 	**Cite**:
 
 	  - Loi n°82-526 1982-06-22 art. 59
-	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+	  - Loi n°84-595 1984-07-12
+	  - Code de la construction et de l'habitation L351-1, L351-2, L325-1, L431-6, R351-8
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 	**Modifié par**:
 
-	  - Décret n°84-12 1984-01-04 ART. 1 JORF 6 JANVIER 1984
+	  - Décret n°95-709 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
-
-
-###### Article R351-4-1
-
-Lorsque les conditions d'attribution prévues par les articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3 sont remplies au
-cours d'un mois civil et que le montant de l'aide personnalisée due au titre de ce mois est supérieur au montant prévu à
-l'article R. 351-22, le droit à l'aide personnalisée est ouvert à partir du premier jour de ce mois. Lorsque l'une de ces
-conditions cesse d'être remplie au cours d'un mois civil, le droit à l'aide personnalisée est éteint à partir du premier jour
-du mois civil suivant. Toutefois, lorsque le locataire quitte les lieux au cours d'un mois civil, le droit est éteint à
-partir du premier jour de ce mois, si le bail expire avant le dernier jour de ce même mois civil.
-
-En cas de décès du bénéficiaire, le droit à l'aide personnalisée est éteint à partir du premier jour du mois civil suivant
-celui au cours duquel survient le décès [*point de départ*].
-
-Lorsqu'un changement de situation a pour effet soit d'ouvrir le droit à l'aide personnalisée à une personne qui remplit les
-conditions prévues aux articles R. 351-1, R. 351-1-1, R. 351-2 ou R. 351-3, soit de modifier en cours de période de paiement
-le droit du bénéficiaire, l'ouverture ou la révision du droit prend effet à partir du premier jour du mois civil qui suit
-celui au cours duquel est survenu le changement de situation. Si la situation considérée prend fin, la clôture ou la révision
-du droit prend effet le premier jour du mois civil au cours duquel la situation cesse, sauf lorsque la clôture ou la révision
-du droit résulte du décès du conjoint du bénéficiaire ou d'une personne à charge, auquel cas elle prend effet le premier jour
-du mois civil suivant le décès.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-176 1983-03-07 ART. 1 JORF 11 MARS 1983
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-22 (M)
-	  - Code de la construction et de l'habitation. - art. R351-3 (M)
-
-
-###### Article R351-7-1
-
-Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
-conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement :
-
-I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son conjoint déterminées en application des
-articles R. 351-5, 6 et 7 sont inférieures :
-
-1. Pour les contrats de prêt signés postérieurement au 31 décembre 1982, à un montant forfaitaire ;
-
-2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un montant déterminé par le produit d'un coefficient
-et des charges mensuelles de prêt déclarées prises en compte dans la limite de la mensualité de référence prévue à l'article
-R. 351-18,
-
-" les ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer les
-dispositions des articles R. 351-10, 12, 13, 13-1 et 14.
-
-II. - A compter du 1er janvier 1995, pour les contrats de prêt signés postérieurement au 31 décembre 1994, si les ressources
-du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5, 6 et 7 sont inférieures au montant visé
-au 2 ci-dessus, celles-ci sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de signature du contrat
-de prêt et pendant la période d'accession en cours, il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13,
-13-1 et 14.
-
-Les montants visés aux 1 et 2 du I sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
-l'agriculture et du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 30 juin 1983 - art. 10 (V)
-	  - Arrêté du 14 août 1987 - art. 10 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°94-1018 du 23 novembre 1994 - art. 1 () JORF 27 novembre 1994
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-5, 6, 7, R351-18, R351-10, 12, 13, 13-1, 14
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+	  - Code de la construction et de l'habitation. - art. R31-10-6 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R318-7 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
@@ -46166,6 +45926,51 @@ ménage sont réputées égales à ce montant.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R351-5 à R351-7
+
+
+###### Article R351-2-1
+
+L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
+d'un prêt défini par les articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1 et suivants et
+supporte les charges afférentes à ce prêt [*bénéficiaire*].
+
+Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert :
+
+- soit, si l'accédant occupe le logement à la date de la première échéance due au titre du contrat de location-accession :
+
+- en cas de périodicité mensuelle, à compter du premier jour du mois civil suivant celui de ladite échéance ;
+
+- en cas de périodicité supérieure au mois, à compter du premier jour du mois civil suivant le premier mois de la période
+couverte par ladite échéance ;
+
+- soit, si l'accédant n'occupe pas le logement à la date de la première échéance due au titre du contrat de location-
+accession ou si l'entrée dans les lieux se situe au cours de la période couverte par ladite échéance, à compter du premier
+jour du mois civil suivant celui au cours duquel se situe l'entrée dans les lieux.
+
+Est pris en considération pour le calcul de l'aide personnalisée le montant de la redevance telle que définie au premier
+alinéa de l'article R. 331-59-16 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 3 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-16 (M)
+	  - Code de la construction et de l'habitation. - art. R331-59-8 (M)
+	  - Code de la construction et de l'habitation. - art. R331-76-1 (M)
 
 
 ###### Article R351-5
@@ -46325,6 +46130,64 @@ la même base que lors de l'ouverture du droit [*date*].
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. R531-10 (M)
+
+
+###### Article R351-7-1
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
+conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement :
+
+I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son conjoint déterminées en application des
+articles R. 351-5, 6 et 7 sont inférieures :
+
+1. Pour les contrats de prêt signés postérieurement au 31 décembre 1982, à un montant forfaitaire ;
+
+2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un montant déterminé par le produit d'un coefficient
+et des charges mensuelles de prêt déclarées prises en compte dans la limite de la mensualité de référence prévue à l'article
+R. 351-18,
+
+les ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer les
+dispositions des articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
+
+II. - A compter du 1er janvier 1995, pour les contrats de prêt signés postérieurement au 31 décembre 1994, si les ressources
+du bénéficiaire et de son conjoint déterminées en application des articles R. 351-5, 6 et 7 sont inférieures au montant visé
+au 2 ci-dessus, celles-ci sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de signature du contrat
+de prêt et pendant la période d'accession en cours, il y a lieu d'appliquer les dispositions des articles R. 351-10, 12, 13,
+13-1, 14 et 14-1.
+
+Les montants visés aux 1 et 2 du I sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
+l'agriculture et du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 ter (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 quater (M)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 30 juin 1983 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 6 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-5, 6, 7, R351-18, R351-10, 12, 13, 13-1, 14, 14-1
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
 
 
 ###### Article R351-8
@@ -46998,119 +46861,6 @@ Le montant de cette prime est arrondi au franc le plus proche.
 
 ##### Sous-section 7 : Dispositions diverses.
 
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-59
-
-Le droit à l'aide personnalisée est ouvert à la personne isolée ou au ménage résidant effectivement dans une unité
-d'habitation située dans un logement-foyer à compter du premier mois au titre duquel elle acquitte la redevance mensuelle
-prévue par le titre d'occupation [*date*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-###### Article R351-61-1
-
-Pour les logements-foyers de jeunes travailleurs conventionnés à compter de la parution du présent décret, en application du
-5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient K est
-déterminé par la formule :
-
-" K = 0,9 -( R /(CM X N))
-
-" dans laquelle :
-
-" R représente les ressources déterminées conformément à l'article R. 351-61 ;
-
-" CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-" N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
-charge, 2,3 si le ménage ou la personne isolée a une personne à charge.
-
-" Le coefficient K est arrondi à deux décimales par défaut. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
-	  - Arrêté du 30 juin 1979 - art. 5 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-
-	**Créé par**:
-
-	  - Décret n°90-906 du 1 octobre 1990 - art. 4 () JORF 10 octobre 1990
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-
-
-###### Article R351-62-1
-
-Pour les logements-foyers de jeunes travailleurs conventionnés à compter de la parution du présent décret, en application du
-5° de l'article L. 351-2, à l'exception de ceux qui sont mentionnés aux 2° et 3° de l'article R. 351-56, l'équivalence de
-loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches dont les limites
-inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61-1.
-
-" Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés du logement, du budget,
-de la sécurité sociale et de l'agriculture.
-
-" L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
-arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
-
-" Le résultat est divisé par douze et arrondi au franc immédiatement inférieur. Pour le calcul de cette équivalence de loyer
-et de charges minima, les ressources à prendre en considération sont déterminées dans les conditions prévues à l'article R.
-351-61. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
-	  - Arrêté du 30 juin 1979 - art. 5 (V)
-
-	**Créé par**:
-
-	  - Décret n°90-906 du 1 octobre 1990 - art. 6 () JORF 10 octobre 1990
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-56 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-
-##### Sous-section 7 : Dispositions diverses.
-
 ###### Article R351-29
 
 Au conjoint mentionné aux articles R. 351-1-1, R. 351-5 à R. 351-8, R. 351-10 à R. 351-15, R. 351-17, R. 351-17-1 et R.
@@ -47177,6 +46927,110 @@ prévu à l'article R. 351-1.
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
+###### Article R351-2
+
+L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des prêts définis par les articles R. 331-32 et
+suivants et qui supporte les charges afférentes à ce prêt :
+
+Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert :
+
+- soit, si le propriétaire occupe le logement à la date de la première échéance due au titre de ce prêt :
+
+- en cas de périodicité mensuelle, à compter du premier jour du mois civil suivant celui de ladite échéance ;
+
+- en cas de périodicité supérieure au mois, à compter du premier jour du mois civil suivant le premier mois de la période
+couverte par ladite échéance ;
+
+- soit, si le propriétaire n'occupe pas le logement à la date de la première échéance due au titre de ce prêt ou si l'entrée
+dans les lieux se situe au cours de la période couverte par ladite échéance, à compter du premier jour du mois civil suivant
+celui au cours duquel se situe l'entrée dans les lieux.
+
+Sont pris en considération pour le calcul de l'aide personnalisée :
+
+a) Les charges d'intérêts, ou les charges d'intérêts et d'amortissement et les charges accessoires au principal de la dette
+afférente aux prêts susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés du budget et
+de la construction et de l'habitation ;
+
+Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété accordé pour
+l'agrandissement ou un prêt conventionné accordé pour l'amélioration du logement, le prêt souscrit antérieurement aux fins de
+construction ou d'acquisition dudit logement est assimilé à un prêt complémentaire.
+
+b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance vie, de l'assurance
+couvrant les risques d'invalidité, de l'assurance pour pertes pécuniaires résultant du report d'échéances de sommes dues en
+cas de chômage, contractées par le bénéficiaire en garantie de l'exécution des engagements souscrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 2 () JORF 11 mai 1995
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-27 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-32 (M)
+
+
+###### Article R351-3
+
+Sous réserve des dispositions prévues au deuxième alinéa du présent article et de celles prévues au dernier alinéa de
+l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert :
+
+- au locataire d'un logement conventionné, en application de la section 1 du chapitre III du titre V du livre III de la
+première partie du code de la construction et de l'habitation, qui est titulaire d'un bail conforme aux stipulations de la
+convention, à compter du premier jour du mois civil suivant celui de la première échéance du loyer prévue par ce bail ;
+
+- au locataire ou à l'occupant de bonne foi d'un logement conventionné, en application de la section 2 du chapitre III du
+titre V du livre III de la première partie du code de la construction et de l'habitation, soit à compter du premier jour du
+mois civil suivant celui du nouveau loyer notifié par le bailleur s'il s'agit d'un locataire ou occupant de bonne foi dans
+les lieux, soit à compter du premier jour du mois civil suivant celui de la première échéance du loyer prévu par l'engagement
+de location s'il s'agit d'un nouveau locataire.
+
+L'aide personnalisée est maintenue, après expiration ou résiliation de la convention, au locataire ou à l'occupant qui
+acquitte un loyer et qui justifie des conditions prévues à l'article L. 353-9.
+
+Sous réserve des dispositions prévues au deuxième alinéa du présent article et de celles prévues au dernier alinéa de
+l'article L. 351-3-1, le droit à l'aide personnalisée est ouvert au locataire d'un logement ayant fait l'objet d'un contrat
+d'amélioration en application de l'article 59 de la loi n° 82-526 du 22 juin 1982 et titulaire d'un contrat de location
+conforme aux stipulations du contrat d'amélioration, à compter du premier jour du mois civil suivant celui de la première
+échéance du loyer prévu par le contrat de location.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°82-526 1982-06-22 art. 59
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. L353-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 4 () JORF 11 mai 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+
 ###### Article R351-4
 
 L'aide personnalisée est calculée au 1er juillet de chaque année [*périodicité*], sous réserve des cas prévus aux articles R.
@@ -47205,6 +47059,34 @@ lesquels le droit est ouvert.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R351-10 à R351-16
+
+
+###### Article R351-4-1
+
+En application du dernier alinéa de l'article L. 351-3-1 et par dérogation aux dispositions des articles R. 351-2, R. 351-2-1
+et R. 351-3, en cas de déménagement, de conclusion ou de résiliation des conventions mentionnées à l'article L. 351-2, le
+droit à l'aide personnalisée peut être ouvert, dans des conditions fixées par directive du Fonds national de l'habitation, à
+compter du premier jour du mois civil au cours duquel les conditions d'ouverture du droit sont réunies ; il peut être éteint
+dans les mêmes conditions le dernier jour du mois civil au cours duquel les conditions d'ouverture du droit cessent d'être
+réunies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 5 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-3 (M)
 
 
 ###### Article R351-6
@@ -48011,51 +47893,56 @@ caisse des dépôts et consignations, après décision du conseil de gestion, et
 
 ###### Article R351-34
 
-Le conseil de gestion du fonds national de l'habitation, présidé par le ministre chargé de la construction et de l'habitation
-ou son représentant, est constitué comme suit [*composition*] ;
+Le conseil de gestion du Fonds national de l'habitation est constitué comme suit :
 
-- deux représentants du ministre chargé de la construction et de l'habitation ;
+- trois représentants du ministre chargé du logement ;
 
-- deux représentants du ministre chargé des finances ;
+- un représentant du ministre chargé du budget ;
 
-- un représentant du ministre chargé de l'agriculture ;
+- un représentant du ministre chargé des finances ;
 
 - deux représentants du ministre chargé de la sécurité sociale ;
 
-- le directeur général de la caisse des dépôts et consignations ou son représentant ;
+- un représentant du ministre chargé de l'action sociale ;
 
-- le président du conseil d'administration de la caisse nationale des allocations familiales ou son représentant ;
+- un représentant du ministre chargé de l'agriculture ;
+
+- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+- le président du conseil d'administration de la Caisse nationale des allocations familiales ou son représentant ;
 
 - le président du conseil central d'administration de la mutualité sociale agricole ou son représentant ;
 
-- le président du conseil d'administration de l'agence centrale des organismes de sécurité sociale ou son représentant.
+- le président du conseil d'administration de l'Agence centrale des organismes de sécurité sociale ou son représentant.
+
+Il est présidé par l'un des représentants du ministre chargé du logement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 7 () JORF 11 mai 1995
 
 
 ###### Article R351-35
 
-Le conseil de gestion se réunit au moins une fois par trimestre, sur convocation du président.
+Le conseil de gestion se réunit au moins une fois par an, sur convocation du président.
 
 Il établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 33
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 8 () JORF 11 mai 1995
 
 
 ##### Sous-section 2 : Attributions.
@@ -48116,20 +48003,20 @@ Il peut être saisi de toute question relative à la gestion et au financement d
 
 Chaque année, sur proposition du président, le conseil de gestion adopte :
 
-- l'état prévisionnel des recettes et des dépenses afférentes aux obligations de toute nature incombant au fonds pour
-l'exercice à venir ;
+- pour l'exercice à venir, et au plus tard au 31 mars, l'état prévisionnel des recettes et des dépenses afférentes aux
+obligations de toute nature incombant au fonds ;
 
 - le compte financier et le rapport d'activité concernant l'exercice écoulé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 9 () JORF 11 mai 1995
 
 	**Cité par**:
 
@@ -48139,21 +48026,21 @@ l'exercice à venir ;
 
 ###### Article R351-39
 
-L'état prévisionnel des recettes et des dépenses, adopté par le conseil de gestion, est approuvé par le ministre chargés des
-finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+L'état prévisionnel des recettes et des dépenses, adopté par le conseil de gestion, est approuvé par les ministres chargés
+des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 
-L'approbation [*tacite*] d'un ministre est réputée acquise si celui-ci ne fait pas d'observation dans un délai de deux mois à
-compter de la date à laquelle ce document lui a été notifié.
+L'approbation d'un ministre est réputée acquise si celui-ci ne fait pas d'observation dans un délai de trente jours à compter
+de la réeception des documents afférents à l'état prévisionnel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 10 () JORF 11 mai 1995
 
 
 ##### Sous-section 3 : Dispositions financières.
@@ -48226,21 +48113,23 @@ II - Les dépenses sont les suivantes :
 
 2. Les dépenses de gestion exposées pour liquider et payer les prestations pour le compte du fonds national de l'habitation ;
 
-3. Les dépenses du conseil national de l'aide personnalisée au logement ;
+3. Les dépenses du conseil national de l'habitat;
 
-4. Les frais de fonctionnement du fonds national de l'habitation ;    5. Les frais de procédure ;
+4. Les frais de fonctionnement du fonds national de l'habitation ;
+
+5. Les frais de procédure ;
 
 6. Les dépenses accidentelles et diverses.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 11 () JORF 11 mai 1995
 
 	**Cite**:
 
@@ -48750,6 +48639,28 @@ prévues au titre V, chapitre III, section VII du présent livre.
 	  - Code de la construction et de l'habitation. - art. R351-55 (M)
 
 
+###### Article R351-59
+
+Les logements-foyers visés au deuxième alinéa du I et du II de l'article L. 351-3-1 sont, outre les logements-foyers de
+jeunes travailleurs, les logements-foyers dénommés "résidences sociales" et les logements-foyers hébergeant à titre principal
+des travailleurs migrants mentionnés aux 2° et 3° du deuxième alinéa de l'article R. 351-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 12 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
 ###### Article R351-62-2
 
 La dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges locatives prise en compte (E) le
@@ -48964,6 +48875,56 @@ Le coefficient K est arrondi à deux décimales par défaut.
 	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
+###### Article R351-61-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
+denommés résidences sociales et mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er janvier 1995 , en
+application du 5° de l'article L. 351-2, à l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient
+K est déterminé par la formule :
+
+" K = 0,9 -( R /(CM X N))
+
+" dans laquelle :
+
+" R représente les ressources déterminées conformément à l'article R. 351-61 ;
+
+" CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+" N représente le nombre de parts, égal à 1,2 si le bénéficiaire est un isolé, 1,5 s'il s'agit d'un ménage sans personne à
+charge, 2,3 si le ménage ou la personne isolée a une personne à charge.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 13 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
 ###### Article R351-62
 
 L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
@@ -49002,6 +48963,58 @@ Pour l'application du présent article, les ressources sont arrondies dans les c
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
+###### Article R351-62-1
+
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er octobre 1990 et pour les logements-foyers
+dénommés résidences sociales et mentionnés aux articles R. 331-1 et R. 351-55 conventionnés à compter du 1er janvier 1995, en
+application du 5° de l'article L. 351-2, à l'exception de ceux qui sont mentionnés aux 2° et 3° de l'article R. 351-56,
+l'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches dont les
+limites inférieures et supérieures sont affectées du coefficient N prévu à l'article R. 351-61-1.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés du logement, du budget,
+de la sécurité sociale et de l'agriculture.
+
+L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un montant égal à une valeur numérique fixée par
+arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
+
+Le résultat est divisé par douze et arrondi au franc immédiatement inférieur. Pour le calcul de cette équivalence de loyer et
+de charges minima, les ressources à prendre en considération sont déterminées dans les conditions prévues à l'article R.
+351-61.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-709 du 9 mai 1995 - art. 14 () JORF 11 mai 1995
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. R351-56 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 ###### Article R351-66
