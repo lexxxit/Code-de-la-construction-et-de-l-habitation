@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-02-01
+Version Consolidée au 1997-02-12
 
 # Partie législative
 
@@ -70438,6 +70438,127 @@ finances. Elles sont ensuite soumises au ministre chargé des chemins de fer.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L612-1 (V)
+
+
+#### Chapitre V : Mesures de sauvegarde.
+
+###### Article R615-1
+
+La commission mentionnée à l'article L. 615-1 comprend, outre les personnes mentionnées à l'article L. 615-3, au maximum dix
+membres, parmi lesquels des représentants des services de l'Etat et des organismes publics concernés et des personnalités
+qualifiées. 
+
+La commission peut se faire assister par toute personne dont les compétences sont jugées utiles à l'exécution de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+	  - Code de la construction et de l'habitation. - art. L615-3 (V)
+
+
+###### Article R615-2
+
+La commission mentionnée à l'article L. 615-1, après avoir entendu les personnes intéressées, prend acte des engagements
+souscrits, le cas échéant sous forme conditionnelle, par les différentes parties. Sur ces bases, elle prépare une proposition
+contenant les mesures de sauvegarde préconisées, les aides envisagées et l'échéancier d'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L615-1 (V)
+
+
+###### Article R615-3
+
+Le plan de sauvegarde, approuvé par arrêté du préfet, est notifié par lettre recommandée avec accusé de réception :
+
+- aux collectivités publiques et organismes publics concernés ;
+
+- à chaque occupant tel que visé à l'article L. 615-4-1 ;
+
+- aux propriétaires lorsque ceux-ci ne sont pas occupants au sens de ce même article ;
+
+- au syndic ou à l'administrateur provisoire du syndicat, si le groupe d'immeubles bâtis ou l'ensemble immobilier est soumis
+à la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ;
+
+- au gérant de la société d'attribution ;
+
+- au gestionnaire de l'association syndicale ou foncière ;
+
+- le cas échéant, aux autres personnes parties aux engagements contenus dans le plan. 
+
+Il est transmis au procureur de la République et peut être consulté à la mairie pendant sa durée de validité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 du 10 juillet 1965 (V)
+	  - Code de la construction et de l'habitation. - art. L615-4-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
+
+
+###### Article R615-4
+
+Le préfet désigne, parmi les membres de la commission ou à l'extérieur de celle-ci, un coordonnateur chargé de veiller au bon
+déroulement du plan de sauvegarde.
+
+Le coordonnateur réunit les parties aux dates fixées par l'échéancier. Il peut adresser des mises en demeure aux parties qui
+ne respectent pas dans les délais prévus les engagements contenus dans le plan de sauvegarde.
+
+Il établit un rapport de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
+
+
+###### Article R615-5
+
+Le préfet transmet, le cas échéant avec ses observations, le rapport du coordonnateur au procureur de la République, ainsi
+qu'à la commission de surendettement des particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
 
 
 ### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.
