@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1978-12-09
+Version Consolidée au 1979-01-01
 
 # Partie législative
 
@@ -253,6 +253,42 @@ en raison d'une impossibilité technique ou d'un coût excessif.
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 
 
+##### Section 5 : Isolation phonique.
+
+###### Article L111-11
+
+Les contrats de louage d'ouvrage ayant pour objet la construction de bâtiments d'habitation sont réputés contenir les
+prescriptions légales ou réglementaires relatives aux exigences minimales requises en matière d'isolation phonique.
+
+Les travaux de nature à satisfaire à ces exigences relèvent de la garantie de parfait achèvement visée à l'article 1792-6 du
+code civil reproduit à l'article L. 111-19.
+
+Le vendeur ou le promoteur immobilier est garant, à l'égard du premier occupant de chaque logement, de la conformité à ces
+exigences pendant six mois [*délai*] à compter de sa prise de possession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Loi n°2013-569 du 1er juillet 2013 - art. 1 (V)
+	  - Code de l'environnement - art. L571-8 (V)
+	  - Code de la construction et de l'habitation. - art. L111-4-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-41 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792-6 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+
+
 ##### Section 6 : Responsabilité des constructeurs d'ouvrage.
 
 ###### Article L111-12
@@ -264,6 +300,263 @@ Les articles 1792, 1792-1 à 1792-6 et 2270 du code civil sont reproduits ci-apr
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+
+###### Article L111-13
+
+Tout constructeur d'un ouvrage est responsable de plein droit, envers le maître ou l'acquéreur de l'ouvrage, des dommages,
+même résultant d'un vice du sol, qui compromettent la solidité de l'ouvrage ou qui, l'affectant dans l'un de ses éléments
+constitutifs ou l'un de ses éléments d'équipement, le rendent impropre à sa destination.
+
+Une telle responsabilité n'a point lieu si le constructeur prouve que les dommages proviennent d'une cause étrangère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-12 (V)
+	  - Code de la construction et de l'habitation. - art. L111-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-15 (V)
+	  - Code de la construction et de l'habitation. - art. L111-17 (V)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
+	  - Code de la construction et de l'habitation. - art. L111-29 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L261-22 (V)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. L262-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
+
+
+###### Article L111-14
+
+Est réputé constructeur de l'ouvrage :
+
+1° Tout architecte, entrepreneur, technicien ou autre personne liée au maître de l'ouvrage par un contrat de louage
+d'ouvrage ;
+
+2° Toute personne qui vend après achèvement un ouvrage qu'elle a construit ou fait construire ;
+
+3° Toute personne qui, bien qu'agissant en qualité de mandataire du propriétaire de l'ouvrage, accomplit une mission
+assimilable à celle d'un locateur d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792-1 (V)
+	  - Loi n°12 1978-01-04 art. 2 citation
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L231-1 (V)
+	  - Code de la construction et de l'habitation. - art. L231-2 (M)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+
+
+###### Article L111-15
+
+La présomption de responsabilité établie par l'article 1792 du code civil reproduit à l'article L. 111-13 du présent code
+s'étend également [*définition*] aux dommages qui affectent la solidité des éléments d'équipement d'un bâtiment, mais
+seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou
+de couvert.
+
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa
+précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de
+matière de cet ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil 1792, Code civil 1792-2
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
+	  - Loi n°12 1978-01-04 art. 2 citation
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. L262-4 (V)
+
+
+###### Article L111-16
+
+Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
+ans à compter de la réception de l'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792-3 (M)
+	  - Loi n°12 1978-01-04 art. 2 citation
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. L262-2 (V)
+
+
+###### Article L111-17
+
+Le fabricant d'un ouvrage, d'une partie d'ouvrage ou d'un élément d'équipement conçu et produit pour satisfaire, en état de
+service, à des exigences précises et déterminées à l'avance, est solidairement responsable des obligations mises par les
+articles 1792,1792-2 et 1792-3 du code civil, reproduits aux articles L. 111-13, L. 111-15 et L. 111-16 à la charge du
+locateur d'ouvrage qui a mis en oeuvre, sans modification et conformément aux règles édictées par le fabricant, l'ouvrage, la
+partie d'ouvrage ou l'élément d'équipement considéré. 
+
+Sont assimilés à des fabricants pour l'application du présent article : 
+
+Celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ; 
+
+Celui qui l'a présenté comme son oeuvre en faisant figurer sur lui son nom, sa marque de fabrique ou tout autre signe
+distinctif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Décret n°2000-810 du 24 août 2000 - art. 2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
+
+
+###### Article L111-18
+
+Toute clause d'un contrat qui a pour objet, soit d'exclure ou de limiter la responsabilité prévue aux articles 1792, 1792-1
+et 1792-2 du code civil, reproduits aux articles L. 111-13, L. 111-14 et L. 111-15, soit d'exclure la garantie prévue à
+l'article 1792-3 de ce code, reproduit à l'article L. 111-16 ou d'en limiter la portée, soit d'écarter ou de limiter la
+solidarité prévue à l'article 1792-4 du même code, reproduit à l'article L. 111-17, est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 en vigueur le 1er janvier 1979, rectificatif JORF 31 janvier 1979
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (M)
+	  - Code civil - art. 1792-3 (M)
+	  - Code civil - art. 1792-4 (V)
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
+	  - Code de la construction et de l'habitation. - art. L111-14 (V)
+	  - Code de la construction et de l'habitation. - art. L111-15 (M)
+	  - Code de la construction et de l'habitation. - art. L111-16 (M)
+	  - Code de la construction et de l'habitation. - art. L111-17 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L261-22 (V)
+
+
+###### Article L111-19
+
+La réception est l'acte par lequel le maître de l'ouvrage déclare accepter l'ouvrage avec ou sans réserves. Elles intervient
+à la demande de la partie la plus diligente soit à l'amiable, soit, à défaut, judiciairement. Elle est, en tout état de
+cause, prononcée contradictoirement.
+
+La garantie de parfait achèvement, à laquelle l'entrepreneur est tenu pendant un délai d'un an à compter de la réception
+s'étend à la réparation de tous les désordres signalés par le maître de l'ouvrage, soit au moyen de réserves mentionnées au
+procès-verbal de réception, soit par voie de notification écrite pour ceux révélés postérieurement à la réception.
+
+Les délais nécessaires à l'éxécution des travaux de réparation sont fixés d'un commun accord par le maître de l'ouvrage et
+l'entrepreneur concerné.
+
+En l'absence d'un tel accord ou en cas d'inexécution dans le délai fixé, les travaux peuvent, après mise en demeure restée
+infructueuse, être exécutés aux frais et risques de l'entrepreneur défaillant.
+
+L'éxécution des travaux exigés au titre de la garantie de parfait achèvement est constatée d'un commun accord, ou, à défaut,
+judiciairement.
+
+La garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets de l'usure normale ou de l'usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Loi n°2000-646 du 10 juillet 2000 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-11 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. R* 262-5 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792-6 (V)
+	  - Loi n°12 1978-01-04 art. 2 citation
+
+
+###### Article L111-20
+
+Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles 1792 à 1792-4 du code civil,
+reproduits aux articles L. 111-13 à L. 111-17, est déchargée des responsabilités et garanties pesant sur elle en application
+des articles 1792 à 1792-2 du même code, reproduits aux articles L. 111-13 à L. 111-15, après dix ans à compter de la
+réception des travaux ou, en application de l'article 1792-3 de ce code, reproduit à l'article L. 111-16, à l'expiration du
+délai visé à cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L111-33 (V)
+	  - Code de la construction et de l'habitation. - art. L261-22 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
 
 
 ###### Article L111-21
@@ -312,6 +605,173 @@ temporaire ou définitive est prononcée après avis d'une commission, dans des 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
+##### Section 7 : Contrôle technique.
+
+###### Article L111-23
+
+Le contrôleur technique a pour mission de contribuer à la prévention des différents aléas techniques susceptibles d'être
+rencontrés dans la réalisation des ouvrages.
+
+Il intervient à la demande du maître de l'ouvrage et donne son avis à ce dernier sur les problèmes d'ordre technique. Cet
+avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage et la sécurité des personnes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1974 - art. 3 (V)
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 (V)
+	  - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
+	  - Arrêté du 26 février 2002 - art. Annexe 2 (M)
+	  - Loi n°2005-102 du 11 février 2005 - art. 93-2 (Ab)
+	  - Arrêté du 21 juillet 2014 - art. 3 (V)
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+	  - Arrêté du 1er juin 2016 - art. (V)
+	  - Arrêté du 13 mars 1986 - art. 3 (Ab)
+	  - Arrêté du 24 février 1978 - art. 3 (Ab)
+	  - Arrêté du 26 mars 1985 - art. 2 (Ab)
+	  - Arrêté du 26 mars 1985 - art. 2 (V)
+	  - Arrêté du 26 mars 1985 - art. 3 (MMN)
+	  - Arrêté du 31 août 1979 - art. 3 (Ab)
+	  - Code de l'urbanisme - art. A431-10 Annexe (V)
+	  - Code de l'urbanisme - art. A462-4 Annexe (V)
+	  - Code de l'urbanisme - art. R431-16 (V)
+	  - Code de l'urbanisme - art. R462-4 (V)
+	  - Code de la construction et de l'habitation. - art. L111-10-2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-41 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-4 (V)
+	  - Code de la construction et de l'habitation. - art. L111-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L112-19 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+	  - Code de la construction et de l'habitation. - art. L231-8 (V)
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-22 (M)
+	  - Code de la construction et de l'habitation. - art. R*128-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-38 (V)
+	  - Code de la construction et de l'habitation. - art. R111-4-3 (V)
+	  - Code de la construction et de l'habitation. - art. R125-2-5 (V)
+	  - Code de la construction et de l'habitation. - art. R131-28-4 (V)
+	  - Code du travail - art. R238-6 (VT)
+	  - Code du travail - art. R4532-19 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+
+
+###### Article L111-24
+
+Le contrôleur technique est soumis, dans les limites de la mission à lui confiée par le maître de l'ouvrage à la présomption
+de responsabilité édictée par les articles 1792, 1792-1 et 1792-2 du code civil, reproduits aux articles L. 111-13 à L.
+111-15, qui se prescrit dans les conditions prévues à l'article 2270 du même code reproduit à l'article L. 111-20.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (M)
+	  - Code civil - art. 2270 (M)
+	  - Code de la construction et de l'habitation L111-13 à L111-15, L111-20
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+
+
+###### Article L111-25
+
+L'activité de contrôle technique prévue à la présente section est incompatible avec l'exercice de toute activité de
+conception, d'exécution ou d'expertise d'un ouvrage.
+
+L'agrément des contrôleurs techniques est donné dans des conditions prévues par décret en Conseil d'Etat. La décision
+d'agrément tient compte de la compétence technique et de la moralité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+
+	**Cité par**:
+
+	  - Arrêté du 11 décembre 2007 - art. 16 (VD)
+	  - Arrêté du 11 décembre 2007 - art. 3 (V)
+	  - Arrêté du 26 novembre 2009 - art. 4 (V)
+	  - Arrêté du 26 novembre 2009 - art. Annexe II (V)
+	  - Décret n°2017-440 du 30 mars 2017 - art. 27 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-29 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-29-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-31 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-32-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-32-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-33 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-33-1 (V)
+	  - Code de la santé publique - art. R1334-11 (M)
+	  - Code de la santé publique - art. R1334-12 (M)
+	  - Code de la santé publique - art. R32-11 (Ab)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code du tourisme. - art. R342-25 (V)
+	  - Code du tourisme. - art. R342-8 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L111-23 à L111-26
+
+
+###### Article L111-26
+
+Le contrôle technique peut, par décret en Conseil d'Etat, être rendu obligatoire pour certaines constructions qui, en raison
+de leur nature ou de leur importance, présentent des risques particuliers pour la sécurité des personnes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D114-4 (M)
+
+
 ##### Section 8 : Assurance des travaux de bâtiment.
 
 ###### Article L111-27
@@ -330,7 +790,334 @@ reproduit aux articles L. 111-28 à L. 111-39.
 	  - Code de la construction et de l'habitation L111-28 à L111-39
 
 
+##### Sous-section 1 : Assurance de responsabilité obligatoire.
+
+###### Article L111-28
+
+Toute personne physique ou morale dont la responsabilité peut être engagée sur le fondement de la présomption établie par les
+articles 1792 et suivants du code civil, reproduits aux articles L. 111-13 à L. 111-19, à propos de travaux de bâtiment doit
+être couverte par une assurance.
+
+A l'ouverture de tout chantier, elle doit être en mesure de justifier qu'elle a souscrit un contrat d'assurance la couvrant
+pour cette responsabilité.
+
+Tout contrat d'assurance souscrit en vertu du présent article est, nonobstant toute stipulation contraire, réputé comporter
+une clause assurant le maintien de la garantie pour la durée de la responsabilité pesant sur la personne assujettie à
+l'obligation d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code de la construction et de l'habitation L111-13 à L111-19
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-27 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L111-31 (V)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-33 (V)
+	  - Code de la construction et de l'habitation. - art. L111-34 (V)
+	  - Code de la construction et de l'habitation. - art. L111-38 (V)
+
+
+###### Article L111-29
+
+Celui qui fait réaliser pour le compte d'autrui des travaux de bâtiment mentionnés à l'article précédent doit être couvert
+par une assurance de responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil, reproduits aux
+articles L. 111-13 et L. 111-15, et résultant de son fait.
+
+Il en est de même lorsque les bâtiments sont construits en vue de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+
+
+##### Sous-section 2 : Assurance de dommages obligatoire.
+
+###### Article L111-30
+
+Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du
+propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son
+compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des
+responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les
+constructeurs au sens de l'article 1792-1 du code civil, reproduit à l'article L. 111-14, les fabricants et importateurs ou
+le contrôleur technique sur le fondement de l'article 1792 du même code, reproduit à l'article L. 111-13.
+
+Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6 du code
+civil reproduit à l'article L. 111-19. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
+
+Avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est
+résilié pour inexécution, par celui-ci, de ses obligations ;
+
+Après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
+
+Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 du code des assurances même si elle ne
+gère pas les risques régis par les articles L. 241-1 et L. 241-2 de ce code, reproduits aux articles L. 111-28 et L. 111-29,
+est habilitée à prendre en charge les risques prévus au présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1974 - art. 3 (V)
+	  - Arrêté du 5 février 1975 - art. 2 (V)
+	  - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
+	  - Arrêté du 13 mars 1986 - art. 3 (Ab)
+	  - Arrêté du 24 février 1978 - art. 3 (Ab)
+	  - Arrêté du 26 mars 1985 - art. 3 (MMN)
+	  - Arrêté du 31 août 1979 - art. 3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-31 (M)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-6 (V)
+	  - Code des assurances - art. L241-1 (M)
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
+	  - Code de la construction et de l'habitation. - art. L111-14 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+	  - Code de la construction et de l'habitation. - art. L111-28 (M)
+	  - Code de la construction et de l'habitation. - art. L111-29 (M)
+
+
+###### Article L111-31
+
+Dans les cas prévus par les articles 1831-1 à 1831-5 du code civil relatifs au contrat de promotion immobilière repris aux
+articles L. 221-1 à L. 221-5 du présent code ainsi que par les articles L. 222-1, L. 222-2, L. 222-3 d, avant dernier et
+dernier alinéas, L. 222-4 et L. 222-5, les obligations définies aux articles L. 241-2 et L. 242-1 du code des assurances,
+reproduits aux articles L. 111-28 [*assurance de responsabilité obligatoire*] et L. 111-30, incombent au promoteur
+immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code civil 1831-1 à 1831-5
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code de la construction et de l'habitation L221-1 à L221-5, L222-1, L222-2, L222-3, L111-28, L111-30
+	  - Code de la construction et de l'habitation. - art. L111-28 (M)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L222-1 (V)
+	  - Code de la construction et de l'habitation. - art. L222-2 (M)
+	  - Code de la construction et de l'habitation. - art. L222-3 (V)
+
+
+##### Sous-section 3 : Dispositions communes aux assurances de bâtiment.
+
+###### Article L111-32
+
+Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte. Des dérogations totales ou
+partielles peuvent être accordées par l'autorité administrative aux collectivités locales et à leurs groupements, ainsi
+qu'aux établissements publics, justifiant de moyens permettant la réparation rapide et complète des dommages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code des assurances L243-1 (citation)
+
+
+###### Article L111-33
+
+Les personnes soumises aux obligations prévues par les articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux
+articles L. 111-28 à L. 111-30 [*assurance de responsabilité obligatoire*], doivent être en mesure de justifier qu'elles ont
+satisfait auxdites obligations.
+
+Lorsqu'un acte intervenant avant l'expiration du délai de dix ans prévu à l'article 2270 du code civil, reproduit à l'article
+L. 111-20, a pour effet de transférer la propriété ou la jouissance du bien, quelle que soit la nature du contrat destiné à
+conférer ces droits, à l'exception toutefois des baux à loyer, mention doit être faite dans le corps de l'acte ou en annexe
+de l'existence ou de l'absence d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+
+###### Article L111-35
+
+Toute personne assujettie à l'obligation de s'assurer qui, ayant sollicité la souscription d'un contrat auprès d'une
+entreprise d'assurance dont les statuts n'interdisent pas la prise en charge du risque en cause en raison de sa nature, se
+voit opposer un refus, peut saisir un bureau central de tarification dont les conditions de constitution et les règles de
+fonctionnement sont fixées par décret en Conseil d'Etat.
+
+Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime moyennant laquelle l'entreprise
+d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut déterminer le montant d'une franchise
+qui reste à la charge de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code des assurances L243-4 (citation)
+
+
+###### Article L111-36
+
+Est nulle toute clause des traités de réassurance tendant à exclure certains risques de la garantie de réassurance en raison
+de la tarification adoptée par le bureau central de tarification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code des assurances L243-5 (citation)
+
+
+###### Article L111-37
+
+Toute entreprise d'assurance qui maintient son refus de garantir un risque dont la prime a été fixée par le bureau central de
+tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de
+l'agrément administratif prévu par l'article L. 321-1 du code des assurances [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances L243-6 (citation)
+
+
+###### Article L111-38
+
+Les dispositions de l'article L. 113-16 et du deuxième alinéa de l'article L. 121-10 du code des assurances [*résiliation du
+contrat*] ne sont pas applicables aux assurances obligatoires prévues par le titre IV du livre II du code des assurances
+repris aux articles L. 111-28 à L. 111-39.
+
+Les victimes des dommages prévus par les sections V, VI, VII et VIII ont la possibilité d'agir directement contre l'assureur
+du responsable desdits dommages si ce dernier est en règlement judiciaire ou en liquidation de biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 en vigueur le 1er janvier 1979, rectificatif JORF 31 janvier 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. L121-10 (M)
+	  - Code de la construction et de l'habitation L113-16, L111-28 à L111-39
+
+
+###### Article L111-39
+
+Tout contrat d'assurance souscrit par une personne assujettie à l'obligation d'assurance en vertu de la présente section est,
+nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses
+types prévues par l'article L. 310-7 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-7 (M)
+	  - Code des assurances L243-8 (citation)
+
+
+##### Section 8 : Assurance des travaux de bâtiment.
+
+##### Sous-section 3 : Dispositions communes aux assurances de bâtiment.
+
+###### Article L111-34
+
+Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux articles L.
+111-28 à L. 111-30 sera puni d'un emprisonnement de dix jours à six mois et d'une amende de 2000 F à 500000 F ou de l'une de
+ces deux peines seulement.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
+elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
+	  - Code de la construction et de l'habitation. - art. L111-6-2-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+
 ##### Section 9 : Dispositions communes.
+
+###### Article L111-40
+
+Des décrets en Conseil d'Etat fixent les modalités d'application des sections V, VI, VII et VIII, hormis les articles L.
+111-21 et L. 111-22.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-21 (V)
+
 
 ###### Article L111-41
 
@@ -11880,6 +12667,104 @@ Les dispositions du présent livre ne s'appliquent pas au département de Saint-
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+
+### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.
+
+#### Chapitre unique.
+
+###### Article L481-1
+
+Une redevance dont le montant, les modalités de perception et l'utilisation sont fixés par arrêté conjoint des ministres
+chargés de l'économie, du budget, de l'intérieur et de la construction et de l'habitation est versée, par les sociétés
+d'économie mixte, à la caisse de prêts aux organismes d'HLM, dans les trois premiers mois de chaque année pour les emprunts
+qu'elles contractent auprès de cette caisse en application de l'article L. 351-2 du présent code.
+
+Le montant de cette redevance ne peut excéder 0,15 p. 100 des capitaux restant dus à la caisse au 31 décembre de l'année
+précédente.
+
+Le produit de cette redevance est destiné à participer à la couverture des frais de gestion de la caisse de prêts ; en outre,
+une fraction en est affectée au fonds de garantie géré par cette caisse en vue de garantir celles des opérations de
+construction qui sont réalisées par les sociétés d'économie mixte avec le concours de la caisse de prêts aux organismes
+d'HLM.
+
+//LOI 1160 du 30 décembre 1981 :
+
+Cette redevance est due également par les sociétés d'économie mixte de construction agréées en application des dispositions
+de l'article L. 472-1 du code de la construction et de l'habitation pour les emprunts qu'elles contractent en application du
+livre IV du présent code.//
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (V)
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24-2 (V)
+	  - Arrêté du 30 décembre 2010 - art. 9 (V)
+	  - Loi n°2014-173 du 21 février 2014 - art. 6 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Décret n°2015-587 du 29 mai 2015 - art. 1 (V)
+	  - Décret n°2016-178 du 22 février 2016 (V)
+	  - Décret n°2016-178 du 22 février 2016 - art. 1
+	  - Décret n°2016-384 du 30 mars 2016 (V)
+	  - Décret n°2016-751 du 6 juin 2016 (V)
+	  - Décret n°2016-751 du 6 juin 2016 - art. 3 (V)
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
+	  - Code de l'urbanisme - art. L211-2 (V)
+	  - Code de l'urbanisme - art. L240-1 (V)
+	  - Code de la construction et de l'habitation. - art. 481-1-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-10-5 (V)
+	  - Code de la construction et de l'habitation. - art. L200-4 (V)
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-2 (V)
+	  - Code de la construction et de l'habitation. - art. L31-10-3 (V)
+	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Code de la construction et de l'habitation. - art. L313-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+	  - Code de la construction et de l'habitation. - art. L411-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. L422-11-1 (V)
+	  - Code de la construction et de l'habitation. - art. L435-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Code de la construction et de l'habitation. - art. L444-10 (V)
+	  - Code de la construction et de l'habitation. - art. L481-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L481-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R*431-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*431-32 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*441-13 (V)
+	  - Code de la construction et de l'habitation. - art. R353-159 (VD)
+	  - Code de la construction et de l'habitation. - art. R441-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-11 (V)
+	  - Code de la construction et de l'habitation. - art. R481-1 (V)
+	  - Code de la construction et de l'habitation. - art. R481-14 (V)
+	  - Code de la construction et de l'habitation. - art. R481-15 (V)
+	  - Code du service national - art. L120-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
+	  - Code général des impôts, CGI. - art. 1388 ter (V)
+	  - Code général des impôts, CGI. - art. 199 undecies C (V)
+	  - Code général des impôts, CGI. - art. 207 (VD)
+	  - Code monétaire et financier - art. R214-155 (V)
+	  - Code monétaire et financier - art. R214-81 (V)
+	  - Livre des procédures fiscales - art. L102 AE (V)
+	  - Livre des procédures fiscales - art. R102 AE-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Loi n°78-1239 1978-12-29 ART. 105 finances pour 1979 JORF 30 DECEMBRE 1978 en vigueur le 1er JANVIER 1979
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 115 () JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L472-1 (V)
 
 
 ## Livre V : Bâtiments menaçant ruine ou insalubres.
