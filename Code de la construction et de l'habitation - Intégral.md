@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-12-01
+Version Consolidée au 1991-12-29
 
 # Partie législative
 
@@ -32425,46 +32425,45 @@ leurs charges et aux opérations prévues aux articles R. 313-31, R. 313-31-1, R
 Le résultat de l'exercice clos des organismes collecteurs mentionnés à l'article R. 313-9 (2°, a) est affecté dans les
 conditions suivantes :
 
-" 1° Le bénéfice est affecté en priorité au compte de report à nouveau dans la limite du solde débiteur de ce compte.
+1° Le bénéfice est affecté en priorité au compte de report à nouveau dans la limite du solde débiteur de ce compte.
 
-" Lorsque le surplus éventuel est inférieur au total du prélèvement pour frais généraux visé à l'article R. 313-33 et des
-plus-values autres que les plus-values sur valeurs mobilières de placement, ce surplus est affecté intégralement à une
-réserve destinée aux activités réglementées. Lorsque la différence entre le surplus éventuel et le total ci-dessus est
-positive, une fraction, définie par décret, de la différence entre ces deux sommes peut être affectée aux réserves destinées
-aux activités définies aux articles R. 313-31-1 et R. 313-33-3, le solde du résultat étant affecté à une réserve destinée aux
-activités réglementées.
+Lorsque le surplus éventuel est inférieur au total du prélèvement pour frais généraux visé à l'article R. 313-33, des plus-
+values autres que les plus-values sur valeurs mobilières de placement, et des produits résultant du placement des fonds en
+attente d'emploi pour la part excédant les limites prévues dans les clauses types des statuts, ce surplus est affecté
+intégralement à une réserve destinée aux activités réglementées. Lorsque la différence entre le surplus éventuel et le total
+ci-dessus est positive, une fraction, définie par décret, de la différence entre ces deux sommes peut être affectée aux
+reserves destinées aux activités définies aux articles R. 313-31-1 et R313-33-3, le solde du résultat étant affecté à une
+réserve destinée aux activités réglementées.
 
-" 2° La perte est affectée en report à nouveau débiteur ou, sur autorisation du ministre chargé de la construction et de
+2° La perte est affectée en report à nouveau débiteur ou, sur autorisation du ministre chargé de la construction et de
 l'habitation, en diminution des comptes de réserves.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-1269 1975-12-27 ART. 27
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-100 1990-01-26 art. 8
-	  - SPEC_APPLI: Décret n°90-101 1990-01-26 art. 7
-
-	**Créé par**:
-
-	  - Décret n°90-100 du 26 janvier 1990 - art. 4 () JORF 30 janvier 1990
 
 	**Cité par**:
 
 	  - Décret n°90-101 du 26 janvier 1990 - art. 3 (V)
 	  - Décret n°90-101 du 26 janvier 1990 - art. 7 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1319 1991-12-27 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-1319 du 27 décembre 1991 - art. 1 () JORF 29 décembre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 2
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R313-9, R313-33, R313-33-3, R313-31-1
-	  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
+	  - Code de la construction et de l'habitation.
 
 
 ###### Article R313-33-3
