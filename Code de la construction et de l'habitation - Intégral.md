@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-04-21
+Version Consolidée au 1988-06-01
 
 # Partie législative
 
@@ -40623,6 +40623,31 @@ versement.
 
 ##### Sous-section 5 : Prime de déménagement.
 
+###### Article R351-23
+
+La prime de déménagement est attribuée aux personnes ou ménages ayant à charge au moins trois enfants nés ou à naître et qui
+s'installent dans un logement donnant vocation à l'aide personnalisée au cours d'une période comprise entre le premier jour
+du mois civil suivant le troisième mois de grossesse au titre d'un enfant de rang trois ou plus et le dernier jour du mois
+précédant celui au cours duquel ledit enfant atteint son deuxième anniversaire.
+
+Cette prime est due si le droit à l'aide personnalisée est ouvert dans un délai de six mois à compter de la date
+d'emménagement même lorsqu'en application de l'article R. 351-22 il n'est pas procédé au versement de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°88-966 du 10 octobre 1988 - art. 6 () JORF 13 octobre 1988 en vigueur le 1er juin 1988
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-22 (M)
+
+
 ###### Article R351-24
 
 La demande, conforme à un modèle-type, doit être déposée auprès de l'organisme payeur de l'aide personnalisée six mois au
@@ -47347,38 +47372,6 @@ personnalisée un abattement égal à la différence constatée.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
-
-
-##### Sous-section 5 : Prime de déménagement.
-
-###### Article R351-23
-
-La prime de déménagement est attribuée aux personnes ou ménages ayant à charge au moins trois enfants nés ou à naître et qui
-s'installent dans un logement donnant vocation à l'aide personnalisée au cours d'une période comprise entre le premier jour
-du mois civil suivant le troisième mois de grossesse au titre d'un enfant de rang trois ou plus et le dernier jour du mois
-précédant celui au cours duquel ledit enfant atteint son premier anniversaire.
-
-Cette prime est due si [*condition d'octroi*] le droit à l'aide personnalisée est ouvert dans un délai de six mois à compter
-de la date d'emménagement même lorsqu'en application de l'article R. 351-22 il n'est pas procédé au versement de l'aide
-personnalisée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-669 du 14 août 1987 - art. 10 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-669 du 14 août 1987 - art. 8 () JORF 15 août 1987
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-22 (M)
 
 
 ##### Dispositions particulières aux logements-foyers
