@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-06-22
+Version Consolidée au 2003-07-01
 
 # Partie législative
 
@@ -22098,6 +22098,162 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent c
 	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-4 (M)
 	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-5 (V)
 	  - SPEC_APPLI: Code de la construction et de l'habitation. - art. L452-6 (M)
+
+
+#### Chapitre III : Garantie des opérations d'accession sociale à la propriété.
+
+###### Article L453-1
+
+I. - La Société de garantie des organismes d'habitations à loyer modéré contre les risques d'opérations immobilières a pour
+objet de garantir les organismes d'habitations à loyer modéré contre les risques financiers encourus par eux dans les
+opérations de promotion immobilière et les opérations de vente d'immeubles à construire, à améliorer ou achevés, exception
+faite des opérations de vente mentionnées aux articles L. 443-7 et suivants.
+
+Un organisme d'habitations à loyer modéré, directement ou indirectement, ne peut procéder aux acquisitions immobilières,
+contracter un emprunt ou réaliser les travaux afférents à une opération mentionnée au premier alinéa s'il ne bénéficie de la
+garantie de la société. La garantie accordée à l'organisme d'habitations à loyer modéré consiste en l'engagement de la
+société de verser à ce dernier, à partir d'un certain seuil, une fraction de la perte sur fonds propres constatée au titre
+des opérations mentionnées au premier alinéa. Cette fraction est fixée par la convention de garantie et ne peut être ni
+inférieure à 50 %, ni supérieure à 80 %. Le seuil de versement ainsi que les autres conditions d'engagement de la société
+sont fixés par la convention de garantie selon les modalités précisées par décret.
+
+II. - La société est une société anonyme soumise aux dispositions du livre II du code de commerce, sous réserve des
+dispositions suivantes.
+
+Ses statuts sont approuvés par décret.
+
+Les seuls actionnaires de la société sont l'union et les fédérations groupant les organismes d'habitations à loyer modéré.
+Son conseil d'administration, auquel assiste un commissaire du Gouvernement désigné par le ministre chargé du logement, est
+composé de représentants de ces actionnaires et est présidé par l'un de ces représentants.
+
+La société a notamment pour ressources les dotations en capital ou autres concours versés par ses actionnaires et les
+cotisations versées par les organismes qui réalisent les opérations mentionnées au premier alinéa du I.
+
+Elle a accès à l'ensemble des documents comptables et financiers et aux rapports des commissaires aux comptes des organismes
+d'habitations à loyer modéré qui réalisent les opérations mentionnées au I.
+
+**Nota:**
+
+NOTA : La loi 2001-1168 du 11 décembre 2001 change la date d'entrée en vigueur créee par l'article 164 de la loi 2000-1208
+pour les articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+NOTA : La loi 2002-1575 du 30 décembre 2002 (art. 39) change la date d'entrée en vigueur créée par l'article 164 de la loi
+2002-1208 pour les articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+	  - Loi - art. 39 (V)
+	  - Décret n°2003-538 du 20 juin 2003 - art. 1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 44 (V)
+	  - Décret n°2007-1941 du 26 décembre 2007 (V)
+	  - Code de la construction et de l'habitation. - art. L423-14 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-16 (V)
+	  - Code de la construction et de l'habitation. - art. L453-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-24-1 (V)
+	  - Code de la construction et de l'habitation. - art. R453-1 (V)
+	  - Code de la construction et de l'habitation. - art. R453-3 (V)
+	  - Code de la construction et de l'habitation. - art. R453-4 (V)
+	  - Code de la construction et de l'habitation. - art. R453-6 (V)
+	  - Code de la construction et de l'habitation. - art. R453-7 (V)
+	  - Code de la construction et de l'habitation. - art. R453-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-537 du 20 juin 2003
+	  - TXT_SOURCE: Décret n°2003-537 du 20 juin 2003 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2003-537 du 20 juin 2003 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2003-538 du 20 juin 2003
+	  - TXT_SOURCE: Décret n°2003-538 du 20 juin 2003 - art. 1 (V)
+	  - SPEC_APPLI: Loi n°2000-1208 2000-12-14 art. 164 II
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L443-7 (M)
+
+
+###### Article L453-2
+
+L'activité de vente définie au premier alinéa de l'article L. 453-1 fait l'objet d'une comptabilité distincte dans les
+écritures de chaque organisme d'habitations à loyer modéré.
+
+**Nota:**
+
+La loi 2001-1168 du 11 décembre 2001 change la date d'entrée en vigueur créee par l'article 164 de la loi 2000-1208 pour les
+articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+La loi 2002-1575 du 30 décembre 2002 (art. 39) change la date d'entrée en vigueur créée par l'article 164 de la loi 2002-1208
+pour les articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 2000-12-14 art. 164 II
+
+	**Cité par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L453-1 (V)
+
+
+###### Article L453-3
+
+Les organismes d'habitations à loyer modéré, lorsqu'ils concluent une vente d'immeuble en l'état futur d'achèvement, sont
+tenus d'apporter la garantie d'achèvement de l'immeuble ou du remboursement des versements effectués prévue au d de l'article
+L. 261-11.
+
+**Nota:**
+
+La loi 2001-1168 du 11 décembre 2001 change la date d'entrée en vigueur créee par l'article 164 de la loi 2000-1208 pour les
+articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+La loi 2002-1575 du 30 décembre 2002 (art. 39) change la date d'entrée en vigueur créée par l'article 164 de la loi 2002-1208
+pour les articles L453-1 à L453-3 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-24-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 164 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-11 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 2000-12-14 art. 164 II
 
 
 ### Titre VI : Organismes consultatifs.
@@ -53026,40 +53182,6 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
-###### Article R*351-7-2
-
-Lors de l'ouverture du droit ou en début de période de paiement, lorsque le demandeur occupe un logement à usage locatif,
-qu'il poursuit des études ainsi que, le cas échéant, son conjoint, et que les ressources du ménage, appréciées au sens des
-articles R. 351-5 à R. 351-7, sont inférieures à un montant fixé par arrêté conjoint des ministres chargés du logement, du
-budget, de la sécurité sociale et de l'agriculture, les ressources du bénéficiaire ou du ménage sont réputées égales à ce
-montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le demandeur est titulaire d'une bourse de
-l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 quater (V)
-	  - Arrêté du 30 juin 1979 - art. 8 (V)
-	  - Code de la construction et de l'habitation. - art. R351-5 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-541 1999-06-28 art. 4 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°99-541 du 28 juin 1999 - art. 2 () JORF 29 juin 1999
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-5 à R351-7
-
-
 ###### Article R351-2-1
 
 L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de location-accession lorsque le vendeur est titulaire
@@ -53218,105 +53340,6 @@ Soit enfants du bénéficiaire ou de son conjoint.
 	**Modifié par**:
 
 	  - Décret n°97-79 du 30 janvier 1997 - art. 1 () JORF 31 janvier 1997 en vigueur le 1er février 1997
-
-
-###### Article R351-7
-
-I. - Il est procédé à une évaluation forfaitaire des ressources du bénéficiaire et, le cas échéant, de son conjoint, dès lors
-que l'un ou l'autre perçoit une rémunération mensuelle et ne perçoit ni l'allocation mentionnée à l'article L. 262-3 du code
-de l'action sociale et des familles ni l'allocation mentionnée à l'article L. 821-1 du code de la sécurité sociale :
-
-a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et, le cas échéant, de son conjoint, perçues au
-titre de l'année civile de référence et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à 812
-fois le salaire minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
-
-b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du droit, ont été évaluées forfaitairement ;
-
-c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
-conformément à l'article R. 351-5 pendant l'année civile de référence.
-
-La condition relative à l'existence d'une activité professionnelle rémunérée, à la perception de l'allocation mentionnée à
-l'article L. 262-3 du code de l'action sociale et des familles ou à celle de l'allocation mentionnée à l'article L. 821-1 du
-code de la sécurité sociale est appréciée au cours du mois civil précédant l'ouverture du droit ou du mois de mai précédant
-le renouvellement du droit.
-
-II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
-précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
-deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts, soit, s'il
-s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 200
-fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui précède l'ouverture ou le renouvellement du
-droit.
-
-Le montant des ressources ainsi déterminé est affecté des déductions et abattements fixés par le II de l'article R. 351-5.
-
-III. - Les dispositions du I et du II ne sont pas applicables :
-
-1° Au bénéficiaire isolé âgé de moins de vingt-cinq ans, s'il exerce une activité professionnelle non salariée ou, s'il est
-salarié, s'il perçoit un salaire mensuel net fiscal inférieur à un montant fixé par arrêté conjoint des ministres en charge
-de la sécurité sociale, du logement, du budget et de l'agriculture ;
-
-2° Au couple dont l'un au moins des membres est âgé de moins de vingt-cinq ans et exerce une activité professionnelle, si
-aucun des deux membres du couple n'est salarié ou, dans le cas contraire, si le salaire ou l'addition des deux salaires
-mensuels nets fiscaux est inférieur à un montant fixé par l'arrêté visé à l'alinéa précédent.
-
-Les salaires mensuels visés aux deux alinéas précédents sont ceux du mois civil précédant l'ouverture du droit ou du mois de
-mai précédant le renouvellement du droit.
-
-Les montants visés aux deuxième et troisième alinéas sont revalorisés au 1er juillet de chaque année, conformément à
-l'évolution en moyenne annuelle des prix à la consommation hors tabac de l'année civile précédente, par arrêté conjoint des
-ministres chargés de la sécurité sociale, du logement, du budget et de l'agriculture.
-
-La condition d'âge, visée aux deuxième et troisième alinéas, est examinée le premier jour du mois de l'ouverture du droit ou
-le 1er juillet lors du renouvellement du droit.
-
-La condition relative à l'existence d'une activité professionnelle rémunérée visée aux 1° et 2° est appréciée au cours du
-mois civil précédant l'ouverture du droit ou du mois de mai précédant le renouvellement du droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - SPEC_APPLI: Décret n°2002-399 du 20 mars 2002 - art. 2, v. init.
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
-	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
-	  - Arrêté du 30 juin 1979 - art. 7 (V)
-	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
-	  - Arrêté du 10 août 1984 - art. 10 (V)
-	  - Arrêté du 14 août 1987 - art. 9 (Ab)
-	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
-	  - Arrêté du 26 décembre 2016 (V)
-	  - Arrêté du 22 août 1986 - art. 2 (V)
-	  - Arrêté du 30 août 1985 - art. 10 (V)
-	  - Code de la construction et de l'habitation. - art. R*351-7-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-11 (V)
-	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-61 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2002-399 du 20 mars 2002 - art. 1 () JORF 26 mars 2002
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L821-1 (M)
-	  - Code de l'action sociale et des familles - art. L262-3 (V)
-	  - CGI 83, 158
 
 
 ##### Sous-section 3 : Conditions particulières.
@@ -53514,6 +53537,37 @@ prévu à l'article R. 351-1.
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
 
+###### Article R*351-7-2
+
+Lors de l'ouverture du droit ou en début de période de paiement, lorsque le demandeur occupe un logement à usage locatif, que
+lui-même ou, le cas échéant, son conjoint poursuit des études,  et que les ressources du ménage, appréciées au sens des
+articles R. 351-5 à R. 351-7, sont inférieures à un montant fixé par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture, les ressources du bénéficiaire ou du ménage sont réputées égales à ce
+montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le demandeur est titulaire d'une bourse de
+l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu. Ce montant subit une majoration, fixée par le même
+arrêté, lorsque les deux membres d'un couple poursuivent des études.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 quater (V)
+	  - Arrêté du 30 juin 1979 - art. 8 (V)
+	  - Code de la construction et de l'habitation. - art. R351-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-579 du 27 juin 2003 - art. 2 () JORF 29 juin 2003 en vigueur le 1er juillet 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R351-5 à R351-7
+
+
 ###### Article R351-2
 
 L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des prêts définis par les articles R. 331-32 et
@@ -53706,6 +53760,91 @@ allocations familiales en vigueur au 31 décembre de ladite année.
 	**Modifié par**:
 
 	  - Décret n°88-516 1988-05-03 art. 2 1. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+
+
+###### Article R351-7
+
+I. - Il est procédé à une évaluation forfaitaire des ressources du bénéficiaire et, le cas échéant, de son conjoint, dès lors
+que l'un ou l'autre perçoit une rémunération mensuelle et ne perçoit ni l'allocation mentionnée à l'article L. 262-3 du code
+de l'action sociale et des familles ni l'allocation mentionnée à l'article L. 821-1 du code de la sécurité sociale :
+
+a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et, le cas échéant, de son conjoint, perçues au
+titre de l'année civile de référence et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à 812
+fois le salaire minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
+
+b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du droit, ont été évaluées forfaitairement ;
+
+c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son conjoint n'a disposé de ressources appréciées
+conformément à l'article R. 351-5 pendant l'année civile de référence.
+
+La condition relative à l'existence d'une activité professionnelle rémunérée, à la perception de l'allocation mentionnée à
+l'article L. 262-3 du code de l'action sociale et des familles ou à celle de l'allocation mentionnée à l'article L. 821-1 du
+code de la sécurité sociale est appréciée au cours du mois civil précédant l'ouverture du droit ou du mois de mai précédant
+le renouvellement du droit.
+
+II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle perçue par l'intéressé le mois civil qui
+précède l'ouverture du droit ou le mois de mai précédant le renouvellement du droit, affectée des déductions prévues au
+deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts, soit, s'il
+s'agit d'une personne exerçant une activité professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 200
+fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui précède l'ouverture ou le renouvellement du
+droit.
+
+Le montant des ressources ainsi déterminé est affecté des déductions et abattements fixés par le II de l'article R. 351-5.
+
+III. - L'évaluation forfaitaire peut être révisée en cours de période de paiement, à la demande du bénéficiaire, si lui-même
+ou son conjoint est âgé de moins de vingt-cinq ans et titulaire d'un contrat de travail autre qu'à durée indéterminée et s'il
+a perçu au cours du mois précédent une rémunération inférieure d'au moins 10 % à celle précédemment prise en considération.
+La demande ne peut être formée moins de quatre mois après l'ouverture ou le renouvellement du droit ou une révision
+précédente.
+
+Pour une personne titulaire d'un contrat de travail autre qu'un contrat à durée indéterminée et âgée de moins de vingt-cinq
+ans à la date de l'ouverture ou du renouvellement du droit ou de la demande de révision mentionnée à l'alinéa précédent,
+l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la rémunération mensuelle considérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 1 quinquies (V)
+	  - Arrêté du 3 juillet 1978 - art. 11 ter (Ab)
+	  - Arrêté du 30 juin 1979 - art. 7 (V)
+	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
+	  - Arrêté du 10 août 1984 - art. 10 (V)
+	  - Arrêté du 14 août 1987 - art. 9 (Ab)
+	  - Décret n°2003-579 du 27 juin 2003 - art. 3 (V)
+	  - Arrêté du 26 décembre 2016 (V)
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+	  - Arrêté du 30 août 1985 - art. 10 (V)
+	  - Code de la construction et de l'habitation. - art. R*351-7-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-11 (V)
+	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-4 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
+
+	**Cite**:
+
+	  - CGI 158, 83
+	  - Code de la sécurité sociale. - art. L821-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-579 du 27 juin 2003 - art. 1 () JORF 29 juin 2003 en vigueur le 1er juillet 2003
 
 
 ###### Article R351-7-1
