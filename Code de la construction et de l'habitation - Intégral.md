@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-01-07
+Version Consolidée au 1992-02-08
 
 # Partie législative
 
@@ -10229,6 +10229,34 @@ A défaut de justification, les bénéficiaires de l'aide sont tenus de reverser
 	  - Code de la construction et de l'habitation. - art. R316-1 (V)
 
 
+###### Article L316-2
+
+Les agents des administrations fiscales et des services extérieurs du Trésor sont habilités à communiquer tous renseignements
+permettant de déterminer le caractère de résidence principale des logements construits avec la participation financière de
+l'Etat aux agents des administrations compétentes et commissionnés à cet effet. 
+
+Les agents ainsi commissionnés sont tenus au secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 290-2
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R316-2 (V)
+	  - Livre des procédures fiscales - art. L124 (V)
+
+
 ### Titre II : Amélioration de l'habitat.
 
 #### Chapitre Ier : Agence nationale de l'habitat - Statut et concours financier.
@@ -19593,6 +19621,87 @@ en font la demande dans les conditions fixées par la loi n° 78-753 du 17 juill
 	**Modifié par**:
 
 	  - Décret n°86-341 1986-03-10 art. 1 JORF 12 mars 1986
+
+
+###### Article R*111-16-1
+
+Il est créé, auprès du ministre chargé de la construction et de l'habitation, une commission du règlement de construction
+présidée par le directeur de la construction et qui comprend, outre son président : 
+
+- trois représentants du ministre chargé de la construction et de l'habitation dont un en fonctions dans les services
+déconcentrés ; 
+
+- un représentant du ministre chargé de l'architecture ; 
+
+- deux représentants du ministre de l'intérieur et de la décentralisation ; 
+
+- un représentant du ministre chargé de la santé ; 
+
+- un représentant du ministre chargé des affaires sociales et de la solidarité nationale ; 
+
+- un représentant du ministre chargé de l'industrie ; 
+
+- un représentant du ministre chargé de l'énergie ; 
+
+- un représentant du ministre chargé de l'environnement; 
+
+- un représentant du ministre chargé des postes et télécommunications ;
+
+- un représentant du centre scientifique et technique du bâtiment ; 
+
+- deux représentants des entreprises de bâtiment nommés par le ministre chargé de la construction et de l'habitation sur
+proposition, l'un, de la fédération nationale du bâtiment, l'autre, de la confédération de l'artisanat et des petites
+entreprises du bâtiment ; 
+
+- un représentant des architectes nommé par le ministre chargé de la construction et de l'habitation sur proposition des
+organismes représentatifs des architectes ; 
+
+- un représentant de l'ingénierie nommé par le ministre chargé de la construction et de l'habitation avec l'accord du
+ministre de l'industrie sur proposition des organismes représentatifs de l'ingénierie ; 
+
+- un représentant des industries du bâtiment nommé par le ministre chargé de la construction et de l'habitation avec l'accord
+du ministre de l'industrie sur proposition des organismes représentatifs des industries du bâtiment ; 
+
+- deux représentants des maîtres d'ouvrage nommés par le ministre chargé de la construction et de l'habitation sur
+proposition, l'un, de l'union nationale des fédérations d'organismes d'H.L.M., l'autre, de la fédération nationale des
+promoteurs constructeurs; 
+
+- un représentant des contrôleurs techniques nommé par le ministre chargé de la construction et de l'habitation sur
+proposition du comité professionnel de la prévention et du contrôle technique;
+
+- deux représentants des usagers nommés par le ministre chargé de la construction et de l'habitation sur proposition de la
+Commission nationale de la consommation.
+
+Le président peut, en outre, faire participer aux travaux de la commission toute personne qualifiée par sa compétence
+professionnelle dont il estime la collaboration utile. 
+
+La commission du règlement de construction donne son avis sur toutes les questions intéressant les règles de construction des
+bâtiments d'habitation, qui sont soumises à son examen par le ministre chargé de la construction et de l'habitation.
+
+La commission du règlement de construction peut constituer des sous-commissions chargées d'étudier des questions
+particulières.
+
+**Nota:**
+
+Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°86-341 1986-03-10 art. 2 JORF 12 mars 1986
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article R*111-17
@@ -35471,6 +35580,32 @@ le ministre chargé de la construction et de l'habitation.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L316-1 (V)
+
+
+###### Article R316-2
+
+Les agents du ministère chargé de la construction et de l'habitation auxquels les administrations fiscales et les services
+déconcentrés du Trésor sont habilités à fournir les renseignements prévus à l'article L. 316-2 doivent avoir un grade au
+moins équivalent à celui d'inspecteur-adjoint des impôts et être commissionnés à cet effet par le ministre chargé de la
+construction et de l'habitation ou par le directeur départemental de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 290-2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L316-2 (V)
 
 
 ###### Article R316-3
@@ -63146,6 +63281,55 @@ d'intérêts ou de subventions de l'Etat au titre de la législation sur les hab
 
 	  - Code de la construction et de l'habitation. - art. R451-4 (M)
 	  - Code de la construction et de l'habitation. - art. R452-25-2 (M)
+
+
+###### Article R451-2
+
+Le contrôle sur place est exercé, au nom du ministre chargé des finances, par l'inspection générale des finances et par les
+fonctionnaires désignés par arrêté dudit ministre et, au nom du ministre chargé de la construction et de l'habitation, par
+les membres de l'inspection générale de l'équipement et par les fonctionnaires ou agents de l'administration centrale ou des
+services déconcentrés désignés par lui. 
+
+Des fonctionnaires appartenant à la caisse des dépôts et consignations peuvent être appelés à participer aux vérifications
+opérées par les membres de l'inspection générale des finances, sous la responsabilité de ces derniers, pour le contrôle des
+opérations de financement prévues au présent livre. 
+
+Le ministre chargé des finances et le ministre chargé de la construction et de l'habitation constituent l'autorité
+administrative compétente prévue à l'article L. 451-1.
+
+**Nota:**
+
+[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1346 1954-12-31 art. 2
+	  - Code de l'urbanisme 233 al. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*215-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*422-4 (M)
+	  - Code de la construction et de l'habitation. - art. R422-7-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R451-3 (M)
 
 
 ###### Article R451-3
