@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -9937,6 +9937,11 @@ sociale sont pris en compte dans des conditions fixées par décret. Dans les fo
 destinés aux personnes handicapées mentales, les chambres occupées par ces personnes sont comptabilisées comme autant de
 logements locatifs sociaux dès lors qu'elles disposent d'un élément de vie indépendante défini par décret.
 
+Sont considérés comme logements locatifs sociaux au sens du troisième alinéa ceux financés par l'Etat ou les collectivités
+locales occupés à titre gratuit, à l'exception des logements de fonction, ou donnés à leur occupant ou acquis par d'anciens
+supplétifs de l'armée française en Algérie ou assimilés, grâce à une subvention accordée par l'Etat au titre des lois
+d'indemnisation les concernant.
+
 Les résidences principales retenues pour l'application du présent article sont celles qui figurent au rôle établi pour la
 perception de la taxe d'habitation.
 
@@ -10030,7 +10035,7 @@ perception de la taxe d'habitation.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 49 () JORF 12 février 2005
+	  - Loi n°2005-158 du 23 février 2005 - art. 8 () JORF 24 février 2005
 
 
 ###### Article L302-6
@@ -16176,37 +16181,43 @@ l'article L. 351-2 est ramené à un mois.
 
 ###### Article L353-19-2
 
-Nonobstant toutes dispositions ou stipulations contraires, les sociétés d'économie mixte peuvent louer les logements
-conventionnés en application de l'article L. 351-2 à des centres communaux d'action sociale ou à des associations déclarées
-ayant pour objet de les sous-louer meublés pour une durée n'excédant pas six mois à des travailleurs dont l'emploi présente
-un caractère saisonnier tel que mentionné au 3° de l'article L. 122-1-1 du code du travail.
+Nonobstant toutes dispositions ou stipulations contraires, les bailleurs autres que les organismes d'habitations à loyer
+modéré mentionnés à l'article L. 353-14 peuvent louer les logements conventionnés en application de l'article L. 351-2 à des
+centres communaux d'action sociale ou à des associations déclarées ayant pour objet de les sous-louer meublés pour une durée
+n'excédant pas six mois à des travailleurs dont l'emploi présente un caractère saisonnier tel que mentionné au 3° de
+l'article L. 122-1-1 du code du travail. 
 
-Les sous-locataires sont assimilés aux locataires, dans la mesure et dans les conditions prévues par le présent article.
+Les sous-locataires sont assimilés aux locataires, dans la mesure et dans les conditions prévues par le présent article. 
 
 Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnalisée au logement prévue par l'article
-L. 351-1 du présent code.
+L. 351-1 du présent code. 
 
 Les dispositions de la loi n° 89-462 du 6 juillet 1989 précitée sont applicables au contrat de sous-location dans les
-conditions prévues au III de l'article 40 de ladite loi.
+conditions prévues au III de l'article 40 de ladite loi. 
 
 Les dispositions de la section 2 du chapitre Ier du livre IV, et de l'article L. 442-5 ainsi que celles relatives au niveau
 de ressources prévues à l'article L. 441-1 du présent code sont applicables aux contrats de sous-location des logements loués
-dans les conditions mentionnées au premier alinéa du présent article, pendant la durée du contrat de location principal.
+dans les conditions mentionnées au premier alinéa du présent article, pendant la durée du contrat de location principal. 
+
+Le loyer peut être majoré du prix de location des meubles. Ce prix est fixé et peut être révisé dans les conditions de
+l'article L. 442-8-3-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°89-462 1989-07-06 art. 40
-	  - Code du travail - art. L122-1-1 (M)
+	  - Loi n°89-462 du 6 juillet 1989 (V)
+	  - Code du travail - art. L122-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. L351-1 (V)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L441-1 (M)
-	  - Code de la construction et de l'habitation. - art. L442-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
+	  - Code de la construction et de l'habitation. - art. L353-14 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de la construction et de l'habitation. - art. L442-5 (V)
+	  - Code de la construction et de l'habitation. - art. L442-8-3-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 154 () JORF 14 décembre 2000
+	  - Loi n°2005-157 du 23 février 2005 - art. 192 () JORF 24 février 2005
 
 	**Cité par**:
 
