@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-08-28
+Version Consolidée au 2003-09-06
 
 # Partie législative
 
@@ -16331,6 +16331,9 @@ l'association agréée mentionnée à l'article 116 de la loi de finances pour 2
 dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à
 la location.
 
+- réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-sociaux
+pour les besoins d'un établissement public de santé.
+
 Ils peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de la
 loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
 cette association, dans des conditions fixées par décret en Conseil d'Etat.
@@ -16387,7 +16390,7 @@ cette association, dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 87 1°, 88 1° JORF 3 juillet 2003
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 22 () JORF 6 septembre 2003
 
 	**Anciens textes**:
 
@@ -16760,6 +16763,9 @@ l'association agréée mentionnée à l'article 116 de la loi de finances pour 2
 dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à
 la location.
 
+- réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-sociaux
+pour les besoins d'un établissement public de santé.
+
 Elles peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de
 la loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
 cette association, dans des conditions fixées par décret en Conseil d'Etat.
@@ -16817,7 +16823,7 @@ cette association, dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 87 2°, 88 2° JORF 3 juillet 2003
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 22 () JORF 6 septembre 2003
 
 	**Anciens textes**:
 
