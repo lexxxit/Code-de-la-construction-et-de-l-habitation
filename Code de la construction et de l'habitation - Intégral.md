@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1995-01-07
+Version Consolidée au 1995-01-10
 
 # Partie législative
 
@@ -20542,6 +20542,36 @@ contraires ou divergentes des règlements sanitaires départementaux et communau
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 
 
+###### Article R111-4-1
+
+L'isolement acoustique des logements contre les bruits des transports terrestres doit être au moins égal aux valeurs
+déterminées par arrêté préfectoral dans le département concerné, conformément à l'article 13 de la loi n° 92-1444 du 31
+décembre 1992 relative à la lutte contre le bruit.
+
+En application de l'article R. 410-13 du code de l'urbanisme, le certificat d'urbanisme précise les secteurs éventuels dans
+lesquels des prescriptions d'isolement acoustique sont prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°92-1444 1992-12-31 art. 13
+	  - Code de l'urbanisme R410-13
+
+	**Créé par**:
+
+	  - Décret n°95-21 du 9 janvier 1995 - art. 10 () JORF 10 janvier 1995
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 1996 - art. 10 (V)
+	  - Arrêté du 11 janvier 2016 - art. 2
+
+
 ##### Section 3 : Personnes handicapées.
 
 ##### Sous-section 1 : Dispositions applicables aux bâtiments d'habitations collectifs neufs.
@@ -21525,35 +21555,109 @@ consultatif de l'utilisation de l'énergie.
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
 
 
-##### Section 5 : Responsabilité des constructeurs d'ouvrage
+##### Section 5 : Caractéristiques acoustiques.
+
+###### Article R111-23-1
+
+Les dispositions de la présente section s'appliquent aux bâtiments nouveaux et parties nouvelles de bâtiments existants
+relevant de tout établissement d'enseignement, de santé, de soins, d'action sociale, de loisirs et de sport ainsi qu'aux
+hôtels et établissements d'hébergement à caractère touristique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R111-23-3 (V)
+
+
+###### Article R111-23-2
+
+Les bâtiments auxquels s'appliquent les dispositions de la présente section sont construits et aménagés de telle sorte que
+soient limités les bruits à l'intérieur des locaux, par une isolation acoustique vis-à-vis de l'extérieur et entre locaux,
+par la recherche des conditions d'absorption acoustique et par la limitation des bruits engendrés par les équipements des
+bâtiments.
+
+Des arrêtés conjoints des ministres chargés de la construction, de l'environnement, de l'intérieur et, selon les cas, des
+autres ministères intéressés, pris après consultation du Conseil national du bruit, fixent, pour les différentes catégories
+de locaux et en fonction de leur utilisation, les seuils et les exigences techniques, applicables à la construction et à
+l'aménagement, permettant d'atteindre les objectifs définis à l'alinéa 1er du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1995 - art. 1 (Ab)
+	  - Arrêté du 25 avril 2003 - art. 1 (V)
+	  - Code de l'environnement - art. D571-99 (V)
+
+
+###### Article R111-23-3
+
+Les arrêtés prévus à l'article précédent peuvent fixer leur date d'entrée en vigueur, qui ne peut excéder d'un an celle de
+leur publication. Ils s'appliquent aux projets de construction des bâtiments mentionnés à l'article R. 111-23-1 qui font
+l'objet d'une demande de permis de construire, d'une demande de prorogation de permis de construire ou de la déclaration
+prévue à l'article L. 422-2 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de la construction et de l'habitation. - art. R111-23-1 (V)
+
+
+##### Section 6 : Responsabilité des constructeurs d'ouvrage.
 
 ##### Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979.
 
 ###### Article R*111-24
 
-Pour l'application des articles 1792 et 2270 du code civil, dans leur rédaction antérieure à l'entrée en vigueur de la loi n°
+Pour l'application des articles 1792 et 2270 du code civil, dans leur rédaction antérieure à l'entrée en vigueur de la loi n.
 78-12 du 4 janvier 1978, à la construction de bâtiments à usage d'habitation ou de caractéristiques similaires, la réception
 des travaux constitue, pour ceux à l'égard desquels aucune réserve n'est faite, le point de départ de la garantie prévue par
-ces articles.
+ces articles. 
 
 Pour les travaux qui font l'objet de réserves la garantie court du jour où il est constaté que l'exécution des travaux
 satisfait à ces réserves.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°67-1166 1967-12-22 art. 8
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cite**:
 
-	  - Loi n°78-12 1978-01-04
 	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 2270 (M)
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Code civil - art. 2270 (V)
 
 	**Cité par**:
 
@@ -21565,62 +21669,59 @@ satisfait à ces réserves.
 
 ###### Article R*111-25
 
-Pour l'application des articles 1792 et 2270 du code civil, dans leur rédaction antérieure à l'entrée en vigueur de la loi n°
+Pour l'application des articles 1792 et 2270 du code civil, dans leur rédaction antérieure à l'entrée en vigueur de la loi n.
 78-12 du 4 janvier 1978, à la construction de bâtiments à usage d'habitation ou de caractéristiques similaires, les gros et
 menus ouvrages sont définis selon les dispositions ci-après.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°67-1166 1967-12-22 art. 10
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cite**:
 
-	  - Loi n°78-12 1978-01-04
 	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 2270 (M)
+	  - Code civil - art. 2270 (V)
 
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979.
 
 ###### Article R*111-26
 
-Les gros ouvrages sont :
+Les gros ouvrages sont : 
 
 a) Les éléments porteurs concourant à la stabilité ou à la solidité du bâtiment et tous autres éléments qui leur sont
-intégrés ou forment corps avec eux ;
+intégrés ou forment corps avec eux ; 
 
-b) Les éléments qui assurent le clos, le couvert et l'étanchéité à l'exclusion de leurs parties mobiles.
+b) Les éléments qui assurent le clos, le couvert et l'étanchéité à l'exclusion de leurs parties mobiles. 
 
-Ces éléments comprennent notamment :
+Ces éléments comprennent notamment : 
 
-- les revêtements des murs à l'exclusion de la peinture et des papiers peints ;
+- les revêtements des murs à l'exclusion de la peinture et des papiers peints; 
 
-- les escaliers et planchers ainsi que leur revêtement en matériau dur ;
+- les escaliers et planchers ainsi que leur revêtement en matériau dur ; 
 
-- les plafonds et les cloisons fixes ;
+- les plafonds et les cloisons fixes ; 
 
 - les portions de canalisations, tuyauteries, conduites et gaines de toute sorte logées à l'intérieur des murs, plafonds ou
-planchers, ou prises dans la masse du revêtement, à l'exclusion de celles qui sont seulement scellées ;
+planchers, ou prises dans la masse du revêtement, à l'exclusion de celles qui sont seulement scellées ; 
 
-- les charpentes fixes des ascenseurs et monte-charge ;
+- les charpentes fixes des ascenseurs et monte-charge ; 
 
 - les bâtis et huisseries des portes, fenêtres et verrières.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21630,24 +21731,25 @@ planchers, ou prises dans la masse du revêtement, à l'exclusion de celles qui 
 ###### Article R*111-27
 
 Les menus ouvrages sont les éléments du bâtiment autres que les gros ouvrages, façonnés, fabriqués ou installés par
-l'entrepreneur.
+l'entrepreneur. 
 
-Ces éléments comprennent notamment :
+Ces éléments comprennent notamment : 
 
-- les canalisations, radiateurs, tuyauteries, conduites, gaines et revêtements de toutes sortes autres que ceux constituant
-de gros ouvrages ;
+- les canalisations, radiateurs, tuyauteries, conduites,
+
+gaines et revêtements de toutes sortes autres que ceux constituant de gros ouvrages ; 
 
 - les éléments mobiles nécessaires au clos et au couvert tels que portes, fenêtres, persiennes et volets.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
 ###### Article R*111-28
@@ -21657,16 +21759,16 @@ lui sont livrés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1166 1967-12-22 art. 13
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
-##### Section 6 : Contrôle technique.
+##### Section 7 : Contrôle technique.
 
 ##### Sous-section 1 : Agrément des contrôleurs techniques.
 
@@ -21674,9 +21776,21 @@ lui sont livrés.
 
 L'agrément des contrôleurs techniques prévu par l'article L. 111-25 est délivré par le ministre chargé de la construction,
 pour une durée maximale de cinq ans. La décision est prise sur l'avis motivé de la commission d'agrément qui entend
-l'intéressé.
+l'intéressé. 
 
 L'agrément est renouvelable dans les mêmes conditions.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+d'agrément des contrôleurs techniques de la construction).
+
+Conformément à l'article 1 du décret n° 2014-603 du 6 juin 2014, la Commission d'agrément des contrôleurs techniques de la
+construction est renouvelée pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015).
+
+Conformément à l'annexe du décret n° 2015-630 du 5 juin 2015, la Commission d'agrément des contrôleurs techniques de la
+construction est renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -21684,9 +21798,9 @@ L'agrément est renouvelable dans les mêmes conditions.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21712,9 +21826,9 @@ leur exécution.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21736,9 +21850,9 @@ conception, d'exécution ou d'expertise dans le domaine de la construction.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21752,23 +21866,23 @@ conception, d'exécution ou d'expertise dans le domaine de la construction.
 ###### Article R*111-32
 
 Les demandes d'octroi, de modification ou de renouvellement d'agrément doivent être accompagnées d'un dossier comportant les
-indications suivantes :
+indications suivantes : 
 
 1. Les nom, prénoms, nationalité et domicile du demandeur ou, si la demande émane d'une personne morale, sa nature, son
 siège, sa nationalité, son objet et les nom, prénoms, nationalité et domicile de chacun des administrateurs et des membres du
-personnel de direction ;
+personnel de direction ; 
 
 2. La justification de la compétence théorique et de l'expérience pratique du personnel de direction, l'organisation interne
 de la direction technique, les règles d'assistance aux services opérationnels chargés effectivement du contrôle et les
-critères d'embauche ou d'affectation des agents ;
+critères d'embauche ou d'affectation des agents ; 
 
-3. L'engagement du demandeur de respecter les prescriptions de l'article R. 111-31 ;
+3. L'engagement du demandeur de respecter les prescriptions de l'article R. 111-31 ; 
 
 4. L'engagement du demandeur de porter sans délai à la connaissance de l'administration toute modification des renseignements
-figurant au dossier de la demande ;
+figurant au dossier de la demande ; 
 
 5. Le cas échéant, la liste des agréments administratifs dont bénéficie le demandeur dans le domaine de la construction et la
-référence des missions de contrôle technique qu'il a exercées antérieurement ;
+référence des missions de contrôle technique qu'il a exercées antérieurement ; 
 
 6. L'étendue de l'agrément sollicité.
 
@@ -21778,9 +21892,9 @@ référence des missions de contrôle technique qu'il a exercées antérieuremen
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21796,11 +21910,11 @@ référence des missions de contrôle technique qu'il a exercées antérieuremen
 ###### Article R*111-33
 
 L'agrément est modifié ou retiré lorsque le contrôleur ne remplit plus les conditions de qualification technique constatées
-lors de son octroi.
+lors de son octroi. 
 
 En cas de faute professionnelle grave ou de manquement à la moralité professionnelle, notamment aux règles d'incompatibilité
 mentionnées à l'article L. 111-25 et aux obligations prévues à l'article R. 111-31, l'agrément peut être retiré
-temporairement pour une durée maximale de six mois ou définitivement.
+temporairement pour une durée maximale de six mois ou définitivement. 
 
 La décision de modification ou de retrait d'agrément est prise par le ministre chargé de la construction sur l'avis motivé de
 la commission d'agrément. Le ministre doit, avant de saisir la commission, mettre le contrôleur technique à même de présenter
@@ -21812,9 +21926,9 @@ ses observations. La commission entend l'intéressé avant de donner son avis.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21823,42 +21937,47 @@ ses observations. La commission entend l'intéressé avant de donner son avis.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R111-31
 	  - Code de la construction et de l'habitation. - art. L111-25 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-31 (V)
 
 
 ###### Article R*111-34
 
-La commission d'agrément est présidée par un membre du conseil général des ponts et chaussées ; elle comprend :
+La commission d'agrément est présidée par un membre du conseil général des ponts et chaussées ; elle comprend : 
 
-Deux représentants du ministre chargé de la construction ;
+Deux représentants du ministre chargé de la construction ; 
 
-Un représentant du ministre de l'intérieur ;
+Un représentant du ministre de l'intérieur ; 
 
-Un représentant du ministre chargé de l'économie ;
+Un représentant du ministre chargé de l'économie ; 
 
-Un représentant du ministre chargé de l'éducation ;
+Un représentant du ministre chargé de l'éducation ; 
 
-Un représentant du ministre chargé de l'industrie ;
+Un représentant du ministre chargé de l'industrie ; 
 
-Un représentant du ministre chargé du travail ;
+Un représentant du ministre chargé du travail ; 
 
-Un représentant des sociétés d'assurances garantissant les risques de la construction ;
+Un représentant des sociétés d'assurances garantissant les risques de la construction ; 
 
-Deux représentants des maîtres d'ouvrages publics et privés ;
+Deux représentants des maîtres d'ouvrages publics et privés ; 
 
-Cinq représentants des professions intervenant à l'acte de construire, dont un représentant des contrôleurs techniques ;
+Cinq représentants des professions intervenant à l'acte de construire, dont un représentant des contrôleurs techniques ; 
 
-Un suppléant est désigné pour le président et chacun des membres de la commission.
+Un suppléant est désigné pour le président et chacun des membres de la commission. 
 
 Le président, les membres titulaires et leurs suppléants sont nommés pour trois ans ; leur mandat est renouvelable. Leur
-désignation est effectuée par le ministre chargé de la construction ;
+désignation est effectuée par le ministre chargé de la construction ; 
 
-En ce qui concerne les représentants de l'administration, sur la proposition des ministres intéressés ;
+En ce qui concerne les représentants de l'administration, sur la proposition des ministres intéressés ; 
 
 En ce qui concerne les représentants des sociétés d'assurances, maîtres d'ouvrage et professions, sur les listes proposées
 par les organisations nationales les plus représentatives et le conseil national de l'ordre des architectes et après avis des
 ministres compétents.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 art. 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -21866,9 +21985,9 @@ ministres compétents.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21883,9 +22002,12 @@ ministres compétents.
 
 ###### Article R*111-35
 
-Le président peut faire entendre par la commission les experts et techniciens dont il juge utile la consultation.
+Le président peut faire entendre par la commission
+
+les experts et techniciens dont il juge utile la consultation.
 
 Les rapporteurs auprès de la commission ont voix consultative ; ils sont désignés par le ministre chargé de la construction ;
+
 ils peuvent recevoir des vacations dont le montant et les conditions d'attribution sont fixés par arrêté interministériel.
 
 Le secrétariat de la commission est assuré par le ministère chargé de la construction.
@@ -21898,9 +22020,9 @@ Le réglement intérieur de la commission est approuvé par le ministre chargé 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21920,9 +22042,9 @@ publiées au Journal officiel de la République française.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
 ###### Article R*111-37
@@ -21937,26 +22059,24 @@ de grande hauteur et dans les établissements recevant du public.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R123-43
-	  - Code de la construction et de l'habitation. - art. R122-16 (M)
+	  - Code de la construction et de l'habitation. - art. R*123-43 (V)
+	  - Code de la construction et de l'habitation. - art. R122-16 (V)
 
-
-##### Section 7 : Contrôle technique.
 
 ##### Sous-section 2 : Contrôle technique obligatoire.
 
 ###### Article R*111-38
 
 Sont soumises obligatoirement au contrôle technique prévu à l'article L. 111-23 les opérations de construction ayant pour
-objet la réalisation.
+objet la réalisation:
 
-1. D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1ère, 2e et 3e catégories visées à
+1. D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1re, 2e et 3e catégories visées à
 l'article R. 123-19 ;
 
 2. D'immeubles dont le plancher bas du dernier niveau est situé à plus de 28 mètres par rapport au niveau du sol le plus haut
@@ -21965,9 +22085,13 @@ utilisable par les engins des services publics de secours et de lutte contre l'i
 3. De bâtiments, autres qu'à usage industriel :
 
 Comportant des éléments en porte à faux de portée supérieure à 20 mètres ou des poutres ou arcs de portée supérieure à 40
-mètres, ou    Comportant, par rapport au sol naturel, des parties enterrées de profondeur supérieure à 15 mètres ou des
-fondations de profondeur supérieure à 30 mètres, ou    Nécessitant des reprises en sous-oeuvre ou des travaux de soutènement
-d'ouvrages voisins, sur une hauteur supérieure à 5 mètres.
+mètres, ou
+
+Comportant, par rapport au sol naturel, des parties enterrées de profondeur supérieure à 15 mètres, ou des fondations de
+profondeur supérieure à 30 mètres, ou
+
+Nécessitant des reprises en sous-oeuvre ou des travaux de soutènement d'ouvrages voisins, sur une hauteur supérieure à 5
+mètres.
 
 **Liens relatifs à cet article**
 
@@ -21975,9 +22099,9 @@ d'ouvrages voisins, sur une hauteur supérieure à 5 mètres.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -21990,7 +22114,7 @@ d'ouvrages voisins, sur une hauteur supérieure à 5 mètres.
 
 	**Cite**:
 
-	  - CODE DE LA CONSTRUCTION ET DE L'HABITATION L111-23, R123-2, R123-19
+	  - Code de la construction et de l'habitation L111-23, R123-2, R123-19
 	  - Code de la construction et de l'habitation. - art. L111-23 (M)
 
 
@@ -22010,9 +22134,9 @@ lesquels le maître de l'ouvrage estime utile de se prémunir.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -22022,7 +22146,7 @@ lesquels le maître de l'ouvrage estime utile de se prémunir.
 ###### Article R*111-40
 
 Au cours de la phase de conception, le contrôleur technique procède à l'examen critique de l'ensemble des dispositions
-techniques du projet.
+techniques du projet. 
 
 Pendant la période d'exécution des travaux, il s'assure notamment que les vérifications techniques qui incombent à chacun des
 constructeurs énumérés à l'article 1792-1 (1°) du code civil s'effectuent de manière satisfaisante.
@@ -22033,13 +22157,13 @@ constructeurs énumérés à l'article 1792-1 (1°) du code civil s'effectuent d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 	**Cite**:
 
-	  - Code civil 1792-1 1
+	  - Code civil - art. 1792-1 (V)
 
 
 ###### Article R*111-41
@@ -22053,18 +22177,18 @@ coordonner l'ensemble des missions de contrôle.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 ART. 2 JORF 9 DECEMBRE 1978
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
 ###### Article R*111-42
 
-Sera puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe
-[*sanction*] le maître de l'ouvrage ou son mandataire qui aura entrepris ou poursuivi des travaux sans avoir fait procéder au
-contrôle technique dans le cas où celui-ci est obligatoire.
+Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe le maître de l'ouvrage ou son mandataire qui
+aura entrepris ou poursuivi des travaux sans avoir fait procéder au contrôle technique dans le cas où celui-ci est
+obligatoire.
 
-En cas de récidive, la peine d'amende sera portée à 20 000 F..
+En cas de récidive, la peine d'amende sera celle prévue pour les contraventions de 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
@@ -22074,11 +22198,7 @@ En cas de récidive, la peine d'amende sera portée à 20 000 F..
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13 (M)
+	  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
 ### Titre II : Sécurité et protection contre l'incendie.
