@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-08-06
+Version Consolidée au 1982-08-15
 
 # Partie législative
 
@@ -41232,13 +41232,13 @@ la même base que lors de l'ouverture du droit [*date*].
 
 ###### Article R351-7-1
 
-Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en accession à la propriété ou un prêt
-conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du logement et que le bénéficiaire et
-son conjoint étaient au cours de l'année civile de référence dans la situation prévue à l'article R. 351-7 et qu'ils
-déclarent ne percevoir aucune rémunération lors de l'ouverture du droit ou au début de la période de paiement, les ressources
-prises en considération pour le calcul de l'aide personnalisée sont réputées égales au plafond prévu à l'article L. 688 du
-code de la sécurité sociale soit pour une personne seule, soit pour un ménage selon le cas, en vigueur au 31 décembre qui
-précède le début de la période de paiement.
+A compter du 1er janvier 1983 [*date*], lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l'Etat en
+accession à la propriété ou un prêt conventionné accordé pour la construction, l'acquisition ou l'acquisition-amélioration du
+logement et que le droit à l'aide personnalisée est ouvert postérieurement au 31 décembre 1982, si les ressources du
+bénéficiaire et de son conjoint déterminées en application des articles R. 351-5 et 7 sont inférieures à un montant fixé par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement, les ressources du
+bénéficiaire et de son conjoint sont réputées égales à ce montant, sauf lorsqu'il y a lieu d'appliquer les dispositions des
+articles R. 351-10, 12, 13, 14 ou 15.
 
 **Liens relatifs à cet article**
 
@@ -41250,8 +41250,8 @@ précède le début de la période de paiement.
 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
-	  - SPEC_APPLI: Disposition transitoire : Décret 82-715 1982-08-13 ART. 4
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - SPEC_APPLI: Disposition transitoire : Décret 82-715 1982-08-13 ART. 4
 
 	**Cité par**:
 
@@ -41262,13 +41262,17 @@ précède le début de la période de paiement.
 	  - Arrêté du 14 août 1987 - art. 10 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-677 1981-06-29 ART. 7 JORF 30 JUIN 1981
+	  - Décret n°82-715 1982-08-13 ART. 1 JORF 15 AOUT 1982
 
 	**Cite**:
 
-	  - Code de la sécurité sociale L688
+	  - Code de la construction et de l'habitation. - art. R351-10 (M)
+	  - Code de la construction et de l'habitation. - art. R351-12 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+	  - Code de la construction et de l'habitation. - art. R351-15 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
@@ -41749,6 +41753,39 @@ Le loyer mimimum mensuel est arrondi au franc inférieur.
 	  - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 
+###### Article R351-21-1
+
+A compter du 1er octobre 1982, la dépense nette de logement, obtenue en déduisant de la somme du loyer principal pris en
+compte (L) et du montant forfaitaire des charges (C) le montant mensuel de l'aide personnalisée due aux locataires, doit être
+au moins égale au minimum forfaitaire défini ci-après.
+
+Le minimum forfaitaire est déterminé par la formule :
+
+MF = P X N    dans laquelle :
+
+P est un coefficient fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
+logement ;
+
+N est le nombre de parts déterminé par l'article R. 351-19.
+
+Lorsque la dépense nette de logement est inférieure au minimum forfaitaire, il est appliqué au montant mensuel de l'aide
+personnalisée un abattement égal à la différence constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°82-715 1982-08-13 ART. 2 JORF 15 AOUT 1982
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+
 ##### Sous-section 5 : Prime de déménagement.
 
 ###### Article R351-23
@@ -42085,6 +42122,54 @@ personnalisée*].
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+
+###### Article R351-62-1
+
+A compter du 1er octobre 1982, la dépense nette de logement, obtenue en déduisant de l'équivalence de loyer et de charges
+locatives prise en compte (E) le montant mensuel de l'aide personnalisée obtenu par l'application de la formule prévue à
+l'article R. 351-60, doit être au moins égale au minimum forfaitaire défini ci-après :
+
+Le minimum forfaitaire est déterminé par la formule :
+
+MF = P X N    dans laquelle :
+
+P est un coefficient fixé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
+logement ;
+
+N est le nombre de parts déterminé à l'article R. 351-61.
+
+Lorsque la dépense nette de logement est inférieure au minimum forfaitaire, il est appliqué au montant mensuel de l'aide
+personnalisée un abattement égal à la différence constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4-1 (M)
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 4-1 (V)
+	  - Arrêté du 30 juin 1979 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Décret n°82-715 1982-08-13 ART. 3 JORF 15 AOUT 1982
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-60 (M)
+	  - Code de la construction et de l'habitation. - art. R351-61 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
