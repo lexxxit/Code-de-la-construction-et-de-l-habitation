@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-04
+Version Consolidée au 1983-06-10
 
 # Partie législative
 
@@ -36062,84 +36062,6 @@ La présente section n'est pas applicable aux départements d'outre-mer.
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-### Titre IV : Organismes consultatifs.
-
-#### Chapitre Ier : Conseil national de l'accession à la propriété.
-
-###### Article R362-20
-
-Les rapporteurs peuvent bénéficier d'indemnités de vacations dans des conditions fixées par arrêté conjoint du ministre
-chargé de la construction et de l'habitation et du ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-626 1977-06-17 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
-###### Article R362-21
-
-Les membres du conseil national de l'accession à la propriété autres que ceux mentionnés au a de l'article R. 362-4 peuvent
-bénéficier du remboursement de leurs frais de déplacement dans les conditions fixées par arrêté conjoint du ministre chargé
-de la construction et de l'habitation et du ministre chargé des finances, à l'exclusion de toute autre indemnité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-626 1977-06-17
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R362-4 a
-
-
-###### Article R362-22
-
-Les frais de fonctionnement du conseil national de l'accession à la propriété, notamment les dépenses de secrétariat et les
-vacations versées aux rapporteurs, sont supportés par le ministère chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-626 1977-06-17 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R362-23
-
-Le conseil national de l'accession à la propriété établit un règlement intérieur qui est soumis à l'approbation du ministre
-chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-626 1977-06-17 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
 ### Titre V : Aide personnalisée au logement
 
 #### Chapitre Ier : Dispositions générales
@@ -42656,173 +42578,192 @@ leurs groupements.
 	  - Code de la construction et de l'habitation. - art. R353-77 (Ab)
 
 
-### Titre VI : Organismes consultatifs
+### Titre VI : Organismes consultatifs.
 
-#### Conseil national de l'aide personnalisée au logement.
+#### Chapitre Ier : Conseil national de l'habitat.
 
-###### Article R361-1
+###### Article R*361-1
 
-Le conseil national de l'aide personnalisée au logement est habilité à donner son avis sur toutes les questions concernant
-cette aide, la lutte contre la ségrégation et la réhabilitation de l'habitat existant, qui lui sont soumises par le ministre
-chargé de la construction et de l'habitation.
-
-Il est obligatoirement consulté sur l'établissement et sur la révision annuelle du barème de l'aide personnalisée prévu par
-l'article L. 351-1 ainsi que sur toute mesure relative aux modalités de son financement et de son versement [*attributions*].
-
-Il suit la mise en place de cette aide.
+Il est institué auprès du ministre chargé de la construction et de l'habitation un Conseil national de l'habitat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-###### Article R361-2
+###### Article R*361-2
 
-Lorsque le conseil national de l'aide personnalisée émet un avis ayant pour effet de majorer les dépenses publiques, l'avis
-doit comporter une évaluation des dépenses entraînées par les mesures proposées.
+Le Conseil national de l'habitat exerce les attributions dévolues respectivement au Conseil national de l'aide personnalisée
+au logement et au Conseil national de l'accession à la propriété par les articles L. 361-1 et L. 362-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-###### Article R361-3
+###### Article R*361-3
 
-Le conseil national de l'aide personnalisée au logement est présidé par le ministre chargé de la construction et de
-l'habitation ou, en cas d'absence ou d'empêchement de ce dernier, par le directeur de la construction.
-
-Il est composé comme suit :
-
-a) Pour l'administration, sept membres représentant :
-
-- le ministre chargé de la construction et de l'habitation ;
-
-- le ministre chargé des finances ;
-
-- le ministre de l'intérieur ;
-
-- le ministre chargé de l'agriculture ;
-
-- le ministre chargé de la sécurité sociale ;
-
-- le ministre chargé de la santé ;
-
-- le ministre chargé des travailleurs immigrés.
-
-b) Pour les collectivités locales, deux membres désignés, l'un par l'association des maires de France, l'autre par
-l'assemblée des présidents des conseils généraux de France.
-
-c) Pour les organismes chargés de la construction, de la réhabilitation ou de la gestion des logements, onze membres
-représentants :
-
-- l'union nationale des fédérations d'organismes d'habitations à loyer modéré ;
-
-- la fédération nationale des offices publics d'habitations à loyer modéré, d'aménagement et de construction ;
-
-- la fédération nationale des sociétés anonymes et fondations d'habitations à loyer modéré ;
-
-- la fédération des sociétés de crédit immobilier de France ;
-
-- la fédération nationale des sociétés coopératives d'habitations à loyer modéré ;
-
-- la fédération nationale des sociétés d'économie mixte ;
-
-- l'union nationale interprofessionnelle du logement ;
-
-- la fédération nationale des promoteurs constructeurs ;
-
-- la confédération nationale des administrateurs de biens ;
-
-- la fédération nationale des centres pour la protection, l'amélioration, la conservation et la transformation de l'habitat
-ancien ;
-
-- l'union nationale de la propriété immobilière, désignés par l'organisation à laquelle ils appartiennent.
-
-Pour l'étude de certaines questions particulières, le conseil national de l'aide personnalisée au logement peut s'adjoindre
-avec voix consultative des personnalités choisies en raison de leur compétence et de leur activité.
-
-Un représentant des départements ministériels, autres que ceux représentés de façon permanente au conseil national de l'aide
-personnalisée au logement, peut prendre part à l'examen des questions qui concernent son département.
-
-Un suppléant à chaque membre est désigné dans les mêmes conditions que le titulaire.
-
-d) Pour les organismes d'allocations familiales, trois membres dont deux désignés par la caisse nationale d'allocations
-familiales et un par la caisse centrale d'allocations familiales mutuelles agricoles.
-
-e) Pour les usagers, quatre membres désignés respectivement par :
-
-- l'union nationale des associations familiales ;
-
-- la confédération générale du logement ;
-
-- la fédération nationale de l'habitat rural et de l'aménagement du territoire rural.
-
-f) Pour les organismes financiers, six membres représentant :
-
-- le Crédit foncier de France ;
-
-- la caisse nationale du crédit agricole ;
-
-- la confédération nationale du crédit mutuel ;
-
-- l'union nationale des caisses d'épargne de France ;
-
-- l'association française des banques ;
-
-- la Chambre syndicale des banques populaires, désignés par l'organisation à laquelle ils appartiennent.
-
-g) Quatre membres choisis en raison de leur compétence et désignés par le ministre chargé de la construction et de
-l'habitation.
+Le président et le vice-président du Conseil national de l'habitat sont nommés par le ministre chargé de la construction et
+de l'habitation après consultation du ministre chargé des affaires sociales. Le vice-président est choisi parmi les membres
+du Conseil national de l'habitat énumérés à l'article R. 361-4 ci-après.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R361-13 (Ab)
 
+	**Cite**:
 
-###### Article R361-4
+	  - Code de la construction et de l'habitation. - art. R361-4 (Ab)
 
-A l'exception des représentants des ministres, les membres du conseil national de l'aide personnalisée au logement et leurs
-suppléants sont nommés pour une période de trois ans, renouvelable par arrêté du ministre chargé de la construction et de
-l'habitation.
 
-Toute personne ayant perdu la qualité en raison de laquelle elle a été nommée cesse d'appartenir au conseil national de
-l'aide personnalisée au logement. Son remplaçant est nommé pour la durée du mandat restant à courir.
+###### Article R*361-4
+
+Le Conseil national de l'habitat comprend, outre son président :
+
+a) Pour l'administration :
+
+- deux membres représentant le ministre chargé de la construction et de l'habitation ;
+
+- un membre représentant le garde des sceaux, ministre de la Justice ;
+
+- un membre représentant le ministre de l'Intérieur et de la Décentralisation ;
+
+- un membre représentant le ministre chargé de l'Economie ;
+
+- un membre représentant le ministre chargé du Budget ;
+
+- un membre représentant le ministre chargé de la Consommation ;
+
+- trois membres représentant le ministre chargé des Affaires sociales dont un en sa qualité de ministre chargé des personnes
+immigrées ;
+
+- un membre représentant le ministre chargé de l'Agriculture ;
+
+- un membre représentant le ministre chargé des Droits de la femme.
+
+b) Pour les élus de la nation et des collectivités locales, huit membres, à savoir :
+
+- un député désigné par l'Assemblée nationale ;
+
+- un sénateur désigné par le Sénat ;
+
+- deux conseillers généraux désignés par l'association des présidents des conseils généraux de France ;
+
+- trois maires désignés par l'association des maires de France ;
+
+- un président de conseil régional désigné par le ministre chargé de la construction et de l'habitation.
+
+c) Pour les constructeurs, les maîtres d'oeuvre et les entreprises du Bâtiment, les gestionnaires de logements, les
+établissements financiers, les organismes d'allocations familiales, le notariat, trente et un membres représentant
+respectivement :
+
+- le Conseil national de l'ordre des architectes ;
+
+- le Conseil supérieur de l'ordre des géomètres experts ;
+
+- le Conseil supérieur du notariat ;
+
+- l'Union nationale des fédérations d'organismes d'HLM ;
+
+- la Fédération nationale des offices publics d'HLM et des offices publics d'aménagement et de construction ;
+
+- la Fédération nationale des sociétés anonymes et fondations d'HLM ;
+
+- la Fédération des sociétés de crédit immobilier de France ;
+
+- la Fédération nationale des sociétés coopératives d'HLM ;
+
+- la Fédération nationale des sociétés d'économie mixte, de construction, d'aménagement et de rénovation ;
+
+- l'Union nationale interprofessionnelle du logement ;
+
+- la Fédération nationale des promoteurs constructeurs ;
+
+- le Syndicat national des constructeurs de maisons individuelles ;
+
+- la Confédération nationale des administrateurs de biens ;
+
+- la Fédération nationale des centres pour la protection, l'amélioration, la conservation et la transformation de l'habitat
+ancien ;
+
+- la Fédération nationale des agents immobiliers ;
+
+- la Fédération nationale du Bâtiment ;
+
+- la Confédération de l'artisanat et des petites entreprises du Bâtiment ;
+
+- la Fédération nationale de l'habitat rural et de l'aménagement du territoire rural ;
+
+- l'Union nationale de la propriété immobilière ;
+
+- la Caisse nationale des allocations familiales (deux membres) ;
+
+- la Caisse centrale d'allocations familiales mutuelles agricoles ;
+
+- la Banque de France ;
+
+- le Crédit foncier de France ;
+
+- la Caisse des dépôts et consignations ;
+
+- la Caisse nationale de crédit agricole ;
+
+- la Confédération nationale du crédit mutuel ;
+
+- l'Union nationale des caisses d'épargne de France ;
+
+- l'Association française des banques ;
+
+- la Chambre syndicale des banques populaires ;
+
+- la Fédération française des sociétés d'assurances.
+
+d) Pour les usagers, douze membres représentant :
+
+- l'Union nationale des associations familiales ;
+
+- la Fédération nationale des associations familiales rurales ;
+
+- la Confédération générale du logement ;
+
+- la Confédération nationale du logement ;
+
+- l'Union féminine, civique et sociale ;
+
+- la Confédération syndicale des familles ;
+
+- la Confédération syndicale du cadre de vie ;
+
+- la Confédération générale du travail ;
+
+- la Confédération générale du travail Force ouvrière ;
+
+- la Confédération française démocratique du travail ;
+
+- la Confédération française des travailleurs chrétiens ;
+
+- la Confédération générale des cadres.
+
+e) Six personnalités choisies en raison de leur compétence par le ministre chargé de la construction et de l'habitation.
+
+Les membres mentionnés aux c et d du présent article sont désignés par l'organisme qu'ils représentent. Des suppléants des
+membres mentionnés aux b, c et d sont désignés en nombre égal et dans les mêmes conditions que les titulaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cité par**:
 
@@ -42833,235 +42774,301 @@ l'aide personnalisée au logement. Son remplaçant est nommé pour la durée du 
 	  - Code de la construction et de l'habitation. - art. R*361-6 (V)
 
 
-###### Article R361-5
+###### Article R*361-5
 
-Toute personne qui, sans excuse jugée valable, a été absente à trois séances consécutives du conseil national de l'aide
-personnalisée au logement, peut être déclarée démissionnaire d'office par le ministre chargé de la construction et de
-l'habitation. Le siège vacant est pourvu dans un délai de quatre mois.
+Pour l'étude de certaines questions particulières, le Conseil national peut s'adjoindre, avec voix consultative, des
+personnalités choisies en raison de leur compétence et de leur activité.
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R361-6
-
-Le conseil national de l'aide personnalisée au logement se réunit au moins une fois par an, notamment pour donner son avis
-sur la révision du barème de cette aide.
-
-Il est convoqué par le ministre chargé de la construction et de l'habitation.
-
-Lorsqu'il est appelé à donner son avis sur la revision du barème de l'aide personnalisée, il doit être saisi du projet de
-révision au moins quinze jours [*délai*] avant la date de sa réunion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R361-7
-
-Le secrétariat général du conseil national de l'aide personnalisée au logement est assuré par la direction de la construction
-du ministère chargé de la construction et de l'habitation.
+Un représentant de chacun des départements ministériels non mentionnés au a de l'article R. 361-4 peut être appelé à prendre
+part, avec voix délibérative, à l'examen des questions qui concernent son département.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°622 1978-05-31 JORF 8 juin 1978
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 7
-
-
-###### Article R361-8
-
-Le président du conseil national de l'aide personnalisée au logement peut constituer, soit à son initiative, soit à la
-demande du conseil, des commissions d'étude composées de membres dudit conseil et dont il désigne le président.
-
-Il peut adjoindre aux commissions d'étude, en qualité de conseiller technique, des personnalités ayant une qualification
-spéciale pour les questions à traiter.
-
-Le secrétariat des commissions d'étude est assuré par le secrétariat général du conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
-
-
-###### Article R361-9
-
-Le conseil national de l'aide personnalisée au logement ne peut valablement délibérer que si la majorité de ses membres est
-présente [*quorum*]. Les délibérations sont prises à la majorité des suffrages. En cas de partage égal des suffrages, la voix
-du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
-
-
-###### Article R361-10
-
-Chaque affaire soumise au conseil ou à l'une de ses commissions d'étude fait l'objet d'un rapport. Les rapports sont
-présentés soit par un membre du conseil, soit par l'un des rapporteurs désignés à l'article R. 361-12.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
-
-
-###### Article R361-11
-
-Le compte rendu des travaux du conseil national de l'aide personnalisée au logement prévu par l'article L. 361-1 est transmis
-à l'Assemblée nationale et au Sénat par le président dudit conseil. Il fait état des rapports et comporte les avis émis par
-le conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L361-1 (M)
+	  - Code de la construction et de l'habitation. - art. R361-4 (Ab)
 
 
-###### Article R361-12
+###### Article R*361-6
 
-Peuvent être désignés comme rapporteurs devant le conseil national de l'aide personnalisée au logement ou devant ses
-commissions d'études, outre le fonctionnaire chargé du secrétariat général, des fonctionnaires en activité ou en retraite.
+A l'exception des représentants des ministres mentionnés au a de l'article R. 361-4 ci-dessus, les membres du Conseil
+national de l'habitat et leurs suppléants sont nommés pour trois ans par arrêté du ministre chargé de la construction et de
+l'habitation. Leur mandat est renouvelable. Toute personne ayant perdu la qualité en raison de laquelle elle a été nommée
+cesse d'appartenir au Conseil national. Son remplaçant est nommé pour la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°77-627 1977-06-17 art. 12
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R361-4 (Ab)
+
+
+###### Article R*361-7
+
+Le Conseil national de l'habitat se réunit au moins une fois par an.
+
+Il comprend un bureau, une commission permanente, et des commissions spécialisées.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-8
+
+Le bureau est composé du président, du vice-président et des présidents des commissions spécialisées. Un fonctionnaire, nommé
+par le ministre chargé de la construction et de l'habitation, exerce les fonctions de secrétaire général.
+
+Le bureau organise les travaux du conseil et des commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
+
+
+###### Article R*361-9
+
+La commission permanente est spécialement chargée de suivre les évolutions constatées dans les domaines de la compétence du
+Conseil. Elle est consultée, en cas d'urgence, sur les textes réglementaires intéressant ces domaines.
+
+Elle est présidée par le président du Conseil national de l'habitat.
+
+Cette commission est composée :
+
+- de deux représentants du ministre chargé de la construction et de l'habitation ;
+
+- du représentant du ministre chargé de l'économie ;
+
+- du représentant du ministre chargé du budget ;
+
+- de deux représentants du ministre chargé des affaires sociales ;
+
+- du représentant de l'Union nationale des fédérations d'organismes d'HLM ;
+
+- du représentant de l'Union nationale interprofessionnelle du logement ;
+
+- du représentant de la Fédération nationale des promoteurs constructeurs ;
+
+- du représentant du Syndicat national des constructeurs de maisons individuelles ;
+
+- du représentant du Crédit foncier de France ;
+
+- du représentant de la Caisse des dépôts et consignations ;
+
+- du représentant de l'Union nationale des caisses d'épargne de France ;
+
+- du représentant de l'Association française des banques ;
+
+- du représentant de la Confédération générale du logement ;
+
+- du représentant de la Caisse nationale des allocations familiales ;
+
+- du représentant de la Confédération nationale du logement ;
+
+- d'un maire ;
+
+- d'un conseiller général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
+
+
+###### Article R*361-10
+
+Chacune des commissions spécialisées comprend :
+
+a) Les membres du Conseil national mentionnés au a de l'article R. 361-4 ;
+
+b) Des membres désignés en conformité avec le règlement intérieur prévu à l'article R. 361-20, par ledit Conseil.
+
+Chaque commission élit son président pour un an renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R361-4, R361-20
+	  - Code de la construction et de l'habitation. - art. R361-4 (Ab)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*361-12 (V)
+
+
+###### Article R*361-11
+
+Pour l'étude des problèmes ressortissant à la compétence de plusieurs commissions, le président du Conseil national peut
+constituer soit à son initiative, soit à la demande du Conseil des commissions temporaires composées de membres des
+commissions intéressées et dont il désigne le président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-12
+
+Le secrétariat du Conseil national est assuré, sous la direction du secrétaire général mentionné à l'article R. 361-8, par la
+direction de la construction du ministère de l'Urbanisme et du Logement. Il prête son concours au fonctionnement des
+commissions définies aux articles R. 361-9 et R. 361-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°83-465 1983-06-08 JORF 10 JUIN 1983 rectificatif JORF 25 JUIN 1983
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R361-10 (Ab)
 
+	**Cite**:
 
-###### Article R361-13
+	  - Code de la construction et de l'habitation. - art. R361-8 (Ab)
+	  - Code de la construction et de l'habitation. - art. R361-9 (Ab)
 
-Les membres du conseil national de l'aide personnalisée au logement autres que ceux mentionnés au a de l'article R. 361-3
-peuvent bénéficier du remboursement de leurs frais de déplacement dans les conditions fixées par arrêté conjoint du ministre
-chargé de la construction et de l'habitation et du ministre chargé des finances, à l'exclusion de toute autre indemnité.
+
+###### Article R*361-13
+
+Le Conseil national, son bureau et ses commissions sont convoqués par leur président respectif soit à l'initiative de ce
+dernier, soit à la demande du ministre chargé de la construction et de l'habitation.
+
+Le Conseil national, sa commission permanente et son bureau ne peuvent valablement délibérer que si la majorité des membres
+la composant est présente ou représentée. Les délibérations sont prises à la majorité des suffrages. En cas de partage égal,
+la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°77-627 1977-06-17 art. 13
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-14
+
+Toute personne qui, sans excuse valable, a été absente à trois séances consécutives des commissions peut être déclarée
+démissionnaire d'office par le ministre chargé de la construction et de l'habitation. Le siège vacant est pourvu dans un
+délai de quatre mois.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-15
+
+Chaque commission peut faire des propositions sur les questions entrant dans les attributions qui lui sont conférées par le
+règlement intérieur. Le président du Conseil national ou le ministre chargé de la construction et de l'habitation peut
+demander que ces propositions fassent l'objet d'une délibération du Conseil national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-16
+
+Chaque affaire soumise au Conseil national ou à l'une de ses commissions fait l'objet d'un rapport. Les rapports sont
+présentés soit par un membre de la formation délibérante, soit par un rapporteur désigné par le président de cette formation.
+
+Ces rapporteurs ont voix délibérative pour les affaires qu'ils rapportent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-17
+
+Les rapporteurs peuvent bénéficier d'indemnités de vacations dans les conditions fixées par arrêté conjoint du ministre
+chargé de la construction et de l'habitation et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-18
+
+Les membres du Conseil national peuvent bénéficier du remboursement de leurs frais de déplacement dans les conditions prévues
+par le décret n° 68-724 du 7 août 1968 fixant les conditions de remboursement des frais occasionnés par les déplacements des
+agents de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes consultatifs qui
+apportent leurs concours à l'Etat.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R361-3 (Ab)
-
-
-###### Article R361-14
-
-Les rapporteurs du conseil national de l'aide personnalisée au logement peuvent bénéficier d'indemnités de vacation dans des
-conditions fixées par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 14
+	  - Décret n°68-724 1968-08-07
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-###### Article R361-15
+###### Article R*361-19
 
-Les frais de fonctionnement du conseil national de l'aide personnalisée au logement, notamment les dépenses de secrétariat et
-les vacations versées aux rapporteurs, sont supportés par le fonds national de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-627 1977-06-17 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R361-16
-
-Le conseil national de l'aide personnalisée au logement établit un règlement intérieur qui est soumis à l'approbation du
-ministre chargé de la construction et de l'habitation.
+Les frais de fonctionnement du Conseil national, notamment les dépenses de secrétariat et les vacations versées aux
+rapporteurs, sont supportés par le ministère de l'Urbanisme et du Logement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°77-627 1977-06-17 art. 16
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article R*361-20
+
+Le Conseil national établit un règlement intérieur qui est soumis à l'approbation du ministre chargé de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
 ## Livre IV : Habitations à loyer modéré
