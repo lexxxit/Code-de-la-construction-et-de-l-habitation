@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-07-05
+Version Consolidée au 2000-07-06
 
 # Partie législative
 
@@ -60750,6 +60750,206 @@ groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation. - art. R371-9 (T)
+
+
+### Titre VIII : Dispositions particulières à la région Ile-de-France
+
+#### Chapitre unique : Subventions spécifiques aux logements locatifs ou subventions foncières
+
+##### Section 1 : Conditions d'attribution des subventions foncières aux logements locatifs sociaux
+
+###### Article R381-1
+
+Dans l'agglomération de Paris, au sens du recensement général de la population, le délai d'acquisition d'un terrain ou d'un
+immeuble par les collectivités locales ou leurs groupements, mentionné au 1° du I de l'article R. 331-24 ou par les
+bénéficiaires visés à l'article R. 331-14, mentionné au 2° du I de l'article R. 331-24 ainsi que le délai de commencement des
+travaux de construction ou d'amélioration, imparti aux organismes d'habitation à loyer modéré et aux sociétés d'économie
+mixte, mentionné à l'article R. 331-25, sont portés de trois à cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-14 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25 (M)
+
+
+###### Article R381-2
+
+Dans l'agglomération de Paris, au sens du recensement général de la population et dans les villes nouvelles de la région Ile-
+de-France, le déplafonnement du montant de la subvention foncière prévue au II de l'article R. 331-24 peut être autorisé par
+le représentant de l'Etat dans le département.
+
+Dans ce cas, le montant cumulé de la subvention foncière de l'Etat et de la participation financière des collectivités
+locales ne peut excéder 80 % du dépassement de la valeur foncière de référence multipliée par la surface utile de
+l'opération. La participation des collectivités locales doit être au moins égale à celle de l'Etat, sauf dérogation accordée
+par le représentant de l'Etat dans le département dans le cas où la situation financière des collectivités locales ne le
+permet pas et dans le cas d'acquisition de terrains ou d'immeubles situés sur le territoire de la ville de Paris et
+appartenant à l'Etat ou à des organismes dont il a la tutelle ou dont il est actionnaire. Dans ces deux cas, le montant de la
+subvention de l'Etat ne peut être supérieur à 60 % du dépassement et celui de la subvention des collectivités locales ne peut
+être inférieur à 20 % dudit dépassement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cité par**:
+
+	  - Décret n°2004-1005 du 24 septembre 2004 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R302-19-1 (V)
+	  - Code de la construction et de l'habitation. - art. R381-6 (V)
+	  - Code de la construction et de l'habitation. - art. R381-8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+
+
+###### Article R381-3
+
+En région Ile-de-France, les dispositions du II de l'article R. 331-24 sont également applicables aux personnes morales ou
+physiques qui réalisent des opérations bénéficiant des prêts prévus au premier alinéa de l'article R. 331-1 accordés dans les
+conditions prévues à la sous-section III de la section 1 du chapitre unique du titre III.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+
+
+##### Section 2 : Subventions spécifiques aux logements locatifs sociaux
+
+###### Article R381-4
+
+I. - En région Ile-de-France, le financement des opérations mentionnées au deuxième alinéa de l'article R. 331-1 peut être
+complété par une subvention représentant 10 % du prix de revient de l'opération défini à l'article R. 331-9 limité à 140 % de
+l'assiette de subvention définie au 1° de l'article R. 331-15.
+
+Les dispositions du présent article sont également applicables aux opérations mentionnées au premier alinéa de l'article R.
+331-1, dans la proportion du prix de revient égale à la part des logements qui doit être occupée par des ménages dont les
+ressources, à l'entrée dans les lieux, ne peuvent excéder 60 % des plafonds fixés par l'arrêté visé à la première phrase de
+l'article R. 331-12. La même proportion est affectée au plafond de l'assiette de subvention.
+
+II. - a) Ce taux de subvention peut être porté à 30 % lorsque ces opérations ne bénéficient pas de la subvention des
+collectivités locales prévue à l'article R. 331-24 et lorsqu'elles s'intègrent dans un programme de réalisation de logements
+sociaux prioritaire par son caractère d'urgence ou par la nature des populations à accueillir agréé par le préfet de région.
+
+b) Sous les mêmes conditions, ce taux peut être porté à 42,5 % du prix de revient de l'opération défini à l'article R. 331-9
+limité à 200 % de l'assiette de subvention définie au 1° de l'article R. 331-15 :
+
+- pour les opérations d'acquisition-amélioration réalisées en région Ile-de-France par des organismes d'habitation à loyer
+modéré ou des sociétés d'économie mixte lorsqu'ils ont pour objet de loger, à titre de résidence principale, des ménages sans
+domicile ou hébergés dans des conditions précaires ;
+
+- pour les opérations de résidences sociales mentionnées au 2° de l'article R. 351-55.
+
+III. - A Paris, le plafond de l'assiette de subvention visé au premier alinéa peut être porté à 200 %. Dans les départements
+limitrophes, ce plafond peut être porté à 200 % en l'absence de subventions complémentaires des collectivités locales.
+
+IV. - Les subventions prévues au présent article peuvent s'ajouter aux subventions prévues aux articles R. 331-15, R. 331-24,
+R. 331-25 et au titre VIII du livre III du présent code ainsi qu'aux participations ou subventions des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R302-19-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
+	  - Code de la construction et de l'habitation. - art. R331-12 (Ab)
+	  - Code de la construction et de l'habitation. - art. R331-15 (M)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25 (M)
+	  - Code de la construction et de l'habitation. - art. R331-9 (M)
+	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+
+
+###### Article R381-5
+
+En région Ile-de-France, pour l'acquisition de fonds de commerce d'hôtels meublés et, le cas échéant, pour la réalisation des
+travaux d'amélioration correspondants, une subvention de 30 % maximum des coûts d'acquisition et de travaux, dans la limite
+de 50 000 F par chambre, peut être versée aux organismes dont l'un des objets est de contribuer au logement des personnes
+défavorisées et agréés à cette fin par le représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+
+
+##### Section 3 : Subvention foncière aux logements locatifs intermédiaires
+
+###### Article R381-6
+
+En région Ile-de-France, une subvention foncière peut être versée, dans les conditions de l'article R. 331-24, pour les
+opérations réalisées par des personnes morales qui s'engagent à louer les logements dans les conditions prévues par le
+contrat de prêt pendant une durée égale à celle du prêt sans pouvoir être inférieure à quinze ans et sans que cet engagement
+ne puisse être remis en cause par un remboursement anticipé du prêt.
+
+Les dispositions relatives au déplafonnement de l'assiette de subvention foncière prévue à l'article R. 381-2 sont
+applicables à ces opérations.
+
+A titre dérogatoire, la demande de subvention foncière peut être déposée après le commencement d'exécution des travaux, dans
+le délai maximum de six mois à compter de la date d'octroi du prêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2000-616 du 5 juillet 2000 - art. 1 () JORF 6 juillet 2000
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
+	  - Code de la construction et de l'habitation. - art. R381-2 (V)
 
 
 ## Livre IV : Habitations à loyer modéré
