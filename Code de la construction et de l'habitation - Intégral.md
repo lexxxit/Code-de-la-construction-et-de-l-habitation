@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-08-06
+Version Consolidée au 1980-08-10
 
 # Partie législative
 
@@ -15410,6 +15410,58 @@ cette hauteur peut être abaissée jusqu'à 0,80 mètre au cas où le garde-corp
 	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
 
 
+###### Article R*111-16
+
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
+peut, par dérogation aux dispositions de la présente section, fixer des règles spéciales à certaines catégories de logements
+destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
+permanente.
+
+Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
+tant que de besoin, des dérogations aux dispositions de la présente section pour la réalisation d'habitations ayant un
+caractère expérimental.
+
+Le ministre chargé de la construction et de l'habitation peut accorder des dérogations aux dispositions du deuxième alinéa de
+l'article R. 111-5 pour la réalisation de bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental rendant
+momentanément impossible leur application [*ascenseur plus de trois étages*].
+
+Le préfet peut accorder des dérogations aux dispositions du deuxième alinéa de l'article R. 111-5 lorsque les
+caractèristiques du terrain ou la présence de constructions existantes fait obstacle à leur application. Le préfet se
+prononce par arrêté après consultation de la commission départementale prévue à l'article 6 du décret n. 78-109 du 1er
+février 1978.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-109 du 1 février 1978 - art. 6, v. init.
+	  - Code de la construction et de l'habitation R111-5
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°80-637 1980-08-04 ART. 2 JORF 10 AOUT 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
+	  - SPEC_APPLI: Les dispositions du présent décret sont applicables aux bâtiments d'habitation collectifs ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er octobre 1980
+
+	**Cité par**:
+
+	  - Arrêté du 18 décembre 1980 - art. 11 (V)
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (M)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 3 mars 1982 - art. 29 (Ab)
+	  - Code de l'urbanisme - art. R*444-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+	  - Code du tourisme. - art. D333-1 (M)
+
+
 ###### Article R*111-17
 
 En application de l'article L. 111-4, les dispositions du présent chapitre se substituent de plein droit aux dispositions
@@ -15430,60 +15482,34 @@ contraires ou divergentes des règlements sanitaires départementaux et communau
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 
 
-###### Article R111-16
-
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
-peut, par dérogation aux dispositions du présent chapitre, fixer des règles spéciales à certaines catégories de logements
-destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
-permanente.
-
-Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
-tant que de besoin, des dérogations aux dispositions du présent chapitre pour la réalisation d'habitations ayant un caractère
-expérimental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 18 décembre 1980 - art. 11 (V)
-	  - Décret n°95-260 du 8 mars 1995 - art. 2 (M)
-	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
-	  - Arrêté du 3 mars 1982 - art. 29 (Ab)
-	  - Code de l'urbanisme - art. R*444-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
-	  - Code de la construction et de l'habitation. - art. R161-5 (V)
-	  - Code du tourisme. - art. D333-1 (M)
-
-
 ##### Section 3 : Personnes handicapées.
+
+##### Sous-section 1 : Dispositions applicables aux bâtiments d'habitations collectifs neufs.
 
 ###### Article R*111-18
 
-Les bâtiments d'habitation collectifs doivent être accessibles aux handicapés physiques circulant en fauteuil roulant.
+Doivent être accessibles, par un cheminement praticable sans discontinuité, aux personnes handicapées à mobilité réduite, y
+compris celles qui se déplacent en fauteuil roulant, les bâtiments d'habitation collectifs, les logements situés dans ces
+bâtiments, les ascenseurs ou un ascenseur au moins par batterie d'ascenseurs, les locaux collectifs affectés aux ensembles
+résidentiels et une partie des places de stationnement d'automobiles destinées aux habitants et aux visiteurs.
 
-Dans ces bâtiments, les logements doivent être accessibles aux handicapés physiques circulant en fauteuil roulant et les
-portes intérieures desdits logements permettre le passage d'une personne en fauteuil roulant. Cette disposition ne s'impose
-toutefois aux logements situés en étage que s'ils sont desservis par un ascenseur utilisable par de tels handicapés.
-
-Un arrêté du ministre chargé de la construction et de l'habitation fixe les modalités d'application du présent article.
+Dans les mêmes bâtiments, les étages non desservis par ascenseurs doivent être accessibles à toutes personnes handicapées à
+mobilité réduite par un escalier conçu de telle sorte que les intéressés puissent recevoir une aide appropriée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-596 1969-06-14 art. 5-1
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-637 1980-08-04 ART. 3 JORF 10 AOUT 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
+	  - SPEC_APPLI: Les dispositions du présent décret sont applicables aux bâtiments d'habitation collectifs ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er octobre 1980
 
 	**Cité par**:
 
@@ -15497,35 +15523,150 @@ Un arrêté du ministre chargé de la construction et de l'habitation fixe les m
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 
 
-###### Article R*111-19
+###### Article R*111-18-1
 
-Les dispositions de l'article R. 111-18 sont applicables aux projets de construction ayant fait l'objet soit d'une demande de
-permis de construire, soit d'une déclaration préalable au sens de l'ancien article L. 430-3 du code de l'urbanisme à compter
-du 1er juin 1975.
+Les circulations et les portes des logements situés dans les bâtiments d'habitation collectifs doivent, dès la construction,
+permettre le passage des personnes handicapées à mobilité réduite,
 
-Toutefois, elles ne sont pas applicables :
+y compris celles qui circulent en fauteuil roulant.
 
-a) Aux modèles de logements ayant fait l'objet d'un agrément préalable du ministre chargé de la construction et de
-l'habitation au sens du code des marchés publics avant le 1er juin 1975 ;
+Les logements situés dans ces bâtiments, au rez-de-chaussée et aux étages desservis par ascenseur, doivent être adaptables
+par des travaux simples aux besoins particuliers des personnes handicapées circulant en fauteuil roulant de façon à leur
+permettre au moins l'utilisation de la cuisine ou d'une partie du studio aménagée en cuisine, du séjour, d'une chambre ou
+d'une partie du studio aménagée en chambre, d'un cabinet d'aisance et d'une salle d'eau.
 
-b) Aux constructions faisant l'objet d'un marché pluriannuel signé avant cette même date ;
-
-c) Aux constructions faisant l'objet d'une reconduction de marché au sens du code des marchés publics et pour lesquelles une
-demande de permis de construire ou une déclaration préalable aura été déposée avant cette même date.
+Dans le cas d'un logement réalisé sur plusieurs niveaux, les dispositions des deux alinéas précédents sont applicables à l'un
+de ces niveaux au moins.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-553 1974-05-24 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
 
 	**Créé par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°80-637 1980-08-04 ART. 3 JORF 10 AOUT 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
+	  - SPEC_APPLI: Les dispositions du présent décret sont applicables aux bâtiments d'habitation collectifs ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er octobre 1980
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
+	  - Arrêté du 14 mars 2014 - art. 1 (V)
+	  - Arrêté du 14 mars 2014 - art. 2 (V)
+	  - Arrêté du 24 décembre 2015 (V)
+	  - Arrêté du 24 décembre 2015 - art. 17 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-9 (V)
+
+
+###### Article R*111-18-2
+
+Les places de stationnement d'automobiles rendues accessibles,
+
+en application de l'article R. 111-18, aux personnes handicapées circulant en fauteuil roulant doivent être adaptables par
+des travaux simples aux besoins particuliers de celles-ci de façon à leur permettre l'accès aux véhicules.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-637 1980-08-04 ART. 3 JORF 10 AOUT 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
+	  - SPEC_APPLI: Les dispositions du présent décret sont applicables aux bâtiments d'habitation collectifs ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er octobre 1980
+
+	**Cité par**:
+
+	  - Arrêté du 1 août 2006 - art. 1 (VT)
+	  - Arrêté du 24 décembre 2015 (V)
+	  - Arrêté du 24 décembre 2015 - art. 16 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-9 (V)
+	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-18
+
+
+###### Article R*111-18-3
+
+Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de la santé fixe les
+modalités techniques d'application des articles R. 111-18 à R. 111-18-2.
+
+Ces modalités peuvent comporter, en ce qui concerne les salles d'eau et les dispositions intérieures des logements, des
+étapes successives au cours desquelles les conditions de confort offertes aux handicapés seront progressivement améliorées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-637 1980-08-04 ART. 3 JORF 10 AOUT 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-637 1980-08-04 ART. 5 :
+
+	**Cité par**:
+
+	  - Arrêté du 1 août 2006 - art. 16 (Ab)
+	  - Arrêté du 1 août 2006 - art. 5 (VT)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
+	  - Code de la construction et de l'habitation. - art. R*631-20 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-18 à R111-18-2
+
+
+##### Section 3 : Personnes handicapées.
+
+###### Article R*111-19
+
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
+peut, par dérogation aux dispositions de la présente section, fixer des règles spéciales à certaines catégories de logements
+destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
+permanente.
+
+Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
+tant que de besoin, des dérogations aux dispositions de la présente section pour la réalisation d'habitations ayant un
+caractère expérimental.
+
+Le ministre chargé de la construction et de l'habitation peut accorder des dérogations aux dispositions de la présente
+section pour la réalisation de bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental rendant
+momentanément impossible leur application.
+
+Le préfet peut accorder des dérogations aux dispositions de la présente section lorsque les caractéristiques du terrain ou la
+présence de constructions existantes fait obstacle à leur application. Le préfet se prononce par arrêté après consultation de
+la commission départementale prévue à l'article 6 du décret n° 78-109 du 1er février 1978.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-109 du 1 février 1978 - art. 6, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°80-637 1980-08-04 ART. 4 JORF 10 AOUT 1980
 
 	**Cité par**:
 
@@ -15539,10 +15680,9 @@ demande de permis de construire ou une déclaration préalable aura été dépos
 	  - Arrêté du 20 avril 2017 - art. 21 (VD)
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de la construction et de l'habitation R111-18
+	  - Code de la construction et de l'habitation R111-18-4
 
 
 ##### Section 4 : Caractéristiques thermiques et performances énergétiques.
