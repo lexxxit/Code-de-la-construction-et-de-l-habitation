@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-09-12
+Version Consolidée au 1992-09-30
 
 # Partie législative
 
@@ -43941,6 +43941,9 @@ définissant la location-accession à la propriété immobilière et qui a été
 par l'article L. 351-2 (6.).    " La notion de résidence principale doit être entendue [*définition*] au sens du logement
 effectivement occupé au moins huit mois par an soit par le bénéficiaire ou par son conjoint, soit par leurs descendants. "
 
+" Le logement mis à la disposition d'un requérant par un de ses ascendants ou de ses descendants n'ouvre pas droit au
+bénéfice de l'aide. "
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -43955,9 +43958,13 @@ effectivement occupé au moins huit mois par an soit par le bénéficiaire ou pa
 	  - Code de la construction et de l'habitation. - art. L352-1 (V)
 	  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
 	**Modifié par**:
 
-	  - Décret n°88-966 du 10 octobre 1988 - art. 1 () JORF 13 octobre 1988 en vigueur le 1er juillet 1988
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 1 () JORF 30 septembre 1992
 
 	**Cité par**:
 
@@ -43968,10 +43975,6 @@ effectivement occupé au moins huit mois par an soit par le bénéficiaire ou pa
 	  - Code de la construction et de l'habitation. - art. R351-18 (V)
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
 	  - Code de la construction et de l'habitation. - art. R351-4-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-966 1988-10-13 art. 8
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
@@ -44209,78 +44212,6 @@ mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative 
 	**Modifié par**:
 
 	  - Décret n°89-843 du 15 novembre 1989 - art. 3 ()
-
-
-##### SOUS-SECTION IV : Calcul de l'aide personnalisée au logement.
-
-###### Article R351-19
-
-Le coefficient K, au plus égal à 0,95, est déterminé par les formules suivantes :
-
-- si le bénéficiaire est locataire :
-
-K = 0,95 - ((R - (r X N))/(CM X N))    - si le bénéficiaire est propriétaire :
-
-K = 0,95 -(R/(CM X N)) dans lesquelles :
-
-R représente les ressources déterminées conformément à l'article R. 351.5, arrondies au multiple de 500 F immédiatement
-inférieur ;    r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-N représente le nombre de parts déterminé par les coefficients suivants :
-
-- bénéficiaire isolé : 1,40 ;
-
-- ménage sans personne à charge : 1,80 ;
-
-- bénéficiaire isolé ou ménage ayant une personne à charge :
-
-2,50 ;
-
-- bénéficiaire isolé ou ménage ayant deux personnes à charge :
-
-3 ;
-
-- bénéficiaire isolé ou ménage ayant trois personnes à charge :
-
-3,7 ;
-
-- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
-
-4,3.
-
-Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.    Le coefficient K est arrondi à deux
-décimales par défaut ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
-	  - Code de la construction et de l'habitation. - art. R351-29 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (MMN)
-
-	**Modifié par**:
-
-	  - Décret n°89-843 du 15 novembre 1989 - art. 5 ()
 
 
 ##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.
@@ -44532,9 +44463,14 @@ Lorsque le bénéficiaire ou son conjoint se trouve, depuis au moins deux mois c
 perçoit l'allocation de base prévue à l'article L. 351-3 du code du travail ou se trouve en chômage partiel et perçoit
 l'allocation spécifique prévue à l'article L. 351-25 du code du travail, les revenus d'activité professionnelle perçus par
 l'intéressé pendant l'année civile de référence sont affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir
-du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation.    " Le nombre minimal
-d'heures de chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de quarante heures sur
-une période de deux mois consécutifs. "
+du premier jour du mois civil suivant celui au cours duquel est intervenu le changement de situation.
+
+" La rémunération perçue par les personnes relevant des conventions conclues en application du deuxième alinéa de l'article
+L. 961-1 du code du travail est assimilée, pendant la durée de la formation et pour l'application des dispositions de
+l'alinéa précédent, à l'allocation de chômage à laquelle elle s'est substituée lors de l'entrée en formation. "
+
+" Le nombre minimal d'heures de chômage partiel requis pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de
+quarante heures sur une période de deux mois consécutifs. "
 
 Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement est supprimé à partir du premier jour du mois
 civil au cours duquel intervient la reprise d'activité.
@@ -44555,18 +44491,19 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
 	**Modifié par**:
 
-	  - Décret n°88-966 du 10 octobre 1988 - art. 2 () JORF 13 octobre 1988 en vigueur le 1er juillet 1988
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 2 () JORF 30 septembre 1992
 
 	**Cite**:
 
 	  - Code du travail - art. L351-25 (AbD)
 	  - Code du travail - art. L351-3 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-966 1988-10-13 art. 8
+	  - Code du travail - art. L961-1 (M)
 
 
 ###### Article R351-14
@@ -44843,6 +44780,78 @@ Le montant de l'aide personnalisée au logement est arrondi au franc le plus pro
 	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
 
 
+###### Article R351-19
+
+Le coefficient K, au plus égal à 0,95, est déterminé par les formules suivantes :
+
+- si le bénéficiaire est locataire :
+
+K = 0,95 - ((R - (r X N))/(CM X N))    - si le bénéficiaire est propriétaire :
+
+K = 0,95 -(R/(CM X N)) dans lesquelles :
+
+R représente les ressources déterminées conformément à l'article R. 351.5, arrondies au franc inférieur ;
+
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+- bénéficiaire isolé : 1,40 ;
+
+- ménage sans personne à charge : 1,80 ;
+
+- bénéficiaire isolé ou ménage ayant une personne à charge :
+
+2,50 ;
+
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+
+3 ;
+
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
+
+Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 3 (M)
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-1 (M)
+	  - Code de la construction et de l'habitation. - art. R351-21-3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
+	  - Code de la construction et de l'habitation. - art. R351-29 (M)
+	  - Code de la construction et de l'habitation. - art. R351-5 (MMN)
+
+	**Modifié par**:
+
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 3 () JORF 30 septembre 1992
+
+
 ###### Article R351-19-1
 
 Par dérogation aux dispositions des articles R. 351-6, R. 351-7 (2e alinéa), R. 351-7-2, R. 351-11, R. 351-17-2, R. 351-18,
@@ -45091,101 +45100,6 @@ Le montant de cette prime est arrondi au franc le plus proche.
 
 ##### Sous-section 7 : Dispositions diverses.
 
-###### Article R*351-30
-
-" Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
-des aides publiques au logement du conseil départemental de l'habitat par le bailleur ou l'établissement habilité percevant
-l'aide personnalisée pour son compte.
-
-" En secteur locatif, l'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque
-le locataire est débiteur à l'égard du bailleur d'une somme au moins égale à deux fois le montant mensuel brut du loyer et
-des charges. Dans le secteur de l'accession à la propriété, l'impayé est constitué, en cas de périodicité trimestrielle
-lorsque deux échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
-l'établissement habilité d'une somme au moins égale à une échéance de prêt brute et en cas de périodicité mensuelle lorsque
-trois échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
-l'établissement habilité d'une somme au moins égale à deux échéances de prêt brutes.
-
-" Le bailleur [*obligation*] ou l'établissement habilité doit, dans un délai de trois mois après la constitution de l'impayé
-défini à l'alinéa précédent, porter la situation du bénéficiaire défaillant à la connaissance de la section des aides
-publiques au logement du conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement
-de sa créance.
-
-" Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de
-la section départementale des aides pubiques au logement (S.D.A.P.L.) dans les conditions suivantes :
-
-" I. - Locatif
-
-" Compte tenu de la situation du bénéficiaire, la S.D.A.P.L. décide :
-
-" - soit de renvoyer le dossier au bailleur aux fins de mettre en place, dans un délai de six mois au plus, un plan
-d'apurement de la dette. Si la S.D.A.P.L. approuve ce plan, elle maintient le versement de l'A.P.L. sous réserve de la
-reprise du paiement du loyer et de la bonne exécution du plan d'apurement. A défaut de réception du plan d'apurement dans le
-délai précité ou d'approbation du plan par la S.D.A.P.L. et après mise en demeure du bailleur, la S.D.A.P.L. peut soit
-suspendre le versement de l'A.P.L., soit saisir le dispositif mentionné ci-dessous qui doit faire connaître sa décision dans
-un délai maximum de six mois ; il en est de même en cas de mauvaise exécution du plan d'apurement ou de constitution d'un
-nouvel impayé ;
-
-" - soit de saisir directement un fonds local d'aide au logement, et notamment le fonds de solidarité pour le logement prévu
-à l'article 6 de la loi n° 90-449 du 31 mai 1990 ou tout autre dispositif ou organisme à vocation analogue, en lui demandant
-de faire connaître sa décision à la S.D.A.P.L. dans un délai maximum de douze mois. Le bailleur, informé de cette saisine par
-la S.D.A.P.L., doit faire part de ses propositions au dispositif d'aide. Au vu de cette décision, la S.D.A.P.L. maintient le
-versement de l'A.P.L. sous réserve de la reprise du paiement du loyer et du respect des conditions fixées par le dispositif
-d'aide. Si le dispositif d'aide n'a pas fait connaître sa décision dans le délai précité, et après mise en demeure, la
-S.D.A.P.L. suspend le versement de l'A.P.L. Il en est de même en cas de non-respect des conditions fixées par le dipositif ou
-de constitution d'un nouvel impayé.
-
-" L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la S.D.A.P.L.
-
-" II. - Accession
-
-" Lorsque le bénéficiaire accédant à la propriété se trouve en situation d'impayé, le versement de l'A.P.L. est maintenu
-selon les dispositions prévues au I.
-
-" III. - Locatif et accession
-
-" Si un dispositif d'aide a été saisi préalablement ou parallèlement à la S.D.A.P.L., celle-ci maintient le versement de
-l'A.P.L. et suspend l'examen du dossier pendant le délai qu'elle estime nécessaire à l'élaboration d'un plan d'apurement de
-la dette par le dispositif. A défaut de réception d'un plan d'apurement dans le délai précité ou d'approbation de la
-S.D.A.P.L., et après mise en demeure, la S.D.A.P.L. peut soit suspendre l'A.P.L., soit renvoyer le dossier à l'établissement
-prêteur ou au bailleur aux fins de mettre en place un plan d'apurement dans un délai qu'elle fixe.
-
-" L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la S.D.A.P.L.
-
-" Si le bailleur ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
-troisième alinéa, il pourra être fait application des dispositions de l'article L. 351-13 du présent code. En outre, la
-S.D.A.P.L. est habilitée à décider que le bailleur ou l'établissement habilité devra rembourser à l'organisme payeur tout ou
-partie de l'aide personnalisée depuis la défaillance du bénéficiaire. "
-
-" Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à
-jour de ses obligations. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Loi n°90-449 1990-05-31 art. 6
-
-	**Modifié par**:
-
-	  - Décret n°90-880 du 28 septembre 1990 - art. 6 () JORF 30 septembre 1990
-
-	**Cité par**:
-
-	  - Arrêté du 16 mars 1992 - art. 5 (Ab)
-	  - Décret n°99-897 du 22 octobre 1999 - art. 24 (Ab)
-	  - Arrêté du 5 août 2016 - art. 1 (VD)
-	  - Code de la construction et de l'habitation. - art. R*351-31 (VD)
-	  - Code de la construction et de l'habitation. - art. R321-36 (V)
-	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-64 (VD)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
 ##### SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat.
 
 ###### Article R*351-48
@@ -45327,59 +45241,6 @@ prévue par le titre d'occupation [*date*].
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-
-###### Article R351-61
-
-Le coefficient K, au plus égal à 0,95, est déterminé par la formule :
-
-K = 0,95 - ((R -(r X N))/(CM X N)) dans laquelle :
-
-R représente les ressources déterminées conformément à l'article R. 351-5, arrondies au multiple de 500 F immédiatement
-inférieur ;    r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
-
-N représente le nombre de parts déterminé par les coefficients suivants :
-
-- bénéficiaire isolé : 1,40 ;
-
-- ménage sans personne à charge : 1,80 ;
-
-- bénéficiaire isolé ou ménage ayant une personne à charge :
-
-2,50.
-
-Le coefficient K est arrondi à deux décimales par défaut.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
-	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 1979 - art. 3 (V)
-	  - Code de la construction et de l'habitation. - art. R351-60 (V)
-	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62 (V)
-	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°89-843 du 15 novembre 1989 - art. 5 ()
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
 
 
 ###### Article R351-61-1
@@ -46099,6 +45960,108 @@ la même périodicité que le paiement de la redevance.
 
 ##### Sous-section 7 : Dispositions diverses.
 
+###### Article R*351-30
+
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
+aides publiques au logement du conseil départemental de l'habitat par le bailleur ou l'établissement habilité percevant
+l'aide personnalisée pour son compte.
+
+En secteur locatif, l'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque
+le locataire est débiteur à l'égard du bailleur d'une somme au moins égale à deux fois le montant mensuel brut du loyer et
+des charges. Dans le secteur de l'accession à la propriété, l'impayé est constitué, en cas de périodicité trimestrielle
+lorsque deux échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à une échéance de prêt brute et en cas de périodicité mensuelle lorsque
+trois échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à deux échéances de prêt brutes.
+
+Le bailleur ou l'établissement habilité doit, dans un délai de trois mois après la constitution de l'impayé défini à l'alinéa
+précédent, porter la situation du bénéficiaire défaillant à la connaissance de la section des aides publiques au logement du
+conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance. Lorsque la
+section départementale des aides publiques au logement a connaissance d'une situation d'impayé qui ne lui a pas été signalée,
+elle peut s'en saisir.
+
+Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
+section départementale des aides pubiques au logement (SDAPL) dans les conditions suivantes :
+
+I. - Locatif
+
+Compte tenu de la situation du bénéficiaire, la SDAPL décide :
+
+- soit de renvoyer le dossier au bailleur aux fins de mettre en place, dans un délai de six mois au plus, un plan d'apurement
+de la dette. Si la SDAPL approuve ce plan, elle maintient le versement de l'A.P.L. sous réserve de la reprise du paiement du
+loyer et de la bonne exécution du plan d'apurement. A défaut de réception du plan d'apurement dans le délai précité ou
+d'approbation du plan par la SDAPL et après mise en demeure du bailleur, la SDAPL peut soit suspendre le versement de l'APL,
+soit saisir le dispositif mentionné ci-dessous qui doit faire connaître sa décision dans un délai maximum de six mois ; il en
+est de même en cas de mauvaise exécution du plan d'apurement ou de constitution d'un nouvel impayé ;
+
+- soit de saisir directement un fonds local d'aide au logement, et notamment le fonds de solidarité pour le logement prévu à
+l'article 6 de la loi n° 90-449 du 31 mai 1990 ou tout autre dispositif ou organisme à vocation analogue, en lui demandant de
+faire connaître sa décision à la SDAPL dans un délai maximum de douze mois. Le bailleur, informé de cette saisine par la
+SDAPL, doit faire part de ses propositions au dispositif d'aide. Au vu de cette décision, la SDAPL maintient le versement de
+l'APL sous réserve de la reprise du paiement du loyer et du respect des conditions fixées par le dispositif d'aide. Si le
+dispositif d'aide n'a pas fait connaître sa décision dans le délai précité, et après mise en demeure, la SDAPL suspend le
+versement de l'APL Il en est de même en cas de non-respect des conditions fixées par le dispositif ou de constitution d'un
+nouvel impayé.
+
+L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la SDAPL.
+
+II. - Accession
+
+Lorsque le bénéficiaire accédant à la propriété se trouve en situation d'impayé, le versement de l'APL est maintenu selon les
+dispositions prévues au I.
+
+III. - Locatif et accession
+
+Si un dispositif d'aide a été saisi préalablement ou parallèlement à la SDAPL, celle-ci maintient le versement de l'APL et
+suspend l'examen du dossier pendant le délai qu'elle estime nécessaire à l'élaboration d'un plan d'apurement de la dette par
+le dispositif. A défaut de réception d'un plan d'apurement dans le délai précité ou d'approbation de la SDAPL, et après mise
+en demeure, la S.D.A.P.L. peut soit suspendre l'APL, soit renvoyer le dossier à l'établissement prêteur ou au bailleur aux
+fins de mettre en place un plan d'apurement dans un délai qu'elle fixe.
+
+L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la SDAPL.
+
+Si le bailleur ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+troisième alinéa, il pourra être fait application des dispositions de l'article L. 351-13 du présent code. En outre, la SDAPL
+est habilitée à décider que le bailleur ou l'établissement habilité devra rembourser à l'organisme payeur tout ou partie de
+l'aide personnalisée depuis la défaillance du bénéficiaire. Le bailleur ou l'établissement habilité ne pourra se retourner
+vers le bénéficiaire pour lui réclamer l'aide personnalisée que la SDAPL lui demande de rembourser.
+
+Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
+de ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 6
+	  - Code de la construction et de l'habitation. - art. L351-13 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 5 (Ab)
+	  - Décret n°99-897 du 22 octobre 1999 - art. 24 (Ab)
+	  - Arrêté du 5 août 2016 - art. 1 (VD)
+	  - Code de la construction et de l'habitation. - art. R*351-31 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-36 (V)
+	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-64 (VD)
+	  - Code de la construction et de l'habitation. - art. R362-19 (M)
+	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 4 () JORF 30 septembre 1992
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 5 () JORF 30 septembre 1992
+
+
 ###### Article R*351-31
 
 I. - Locatif
@@ -46283,32 +46246,6 @@ tutelle compétent.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R351-37
-
-Le conseil de gestion est consulté par le président sur les conventions et les accords particuliers prévus par l'article L.
-351-8, alinéas 2 et 3.
-
-Il se prononce sur les demandes de remise de dette formulées par les bénéficiaires de l'aide personnalisée : il peut déléguer
-ce pouvoir aux commissions départementales instituées par l'article L.  351-14.
-
-Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-783 1977-07-13 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. L351-8 (M)
 
 
 ###### Article R351-38
@@ -46552,6 +46489,41 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
+
+
+##### Section 2 : Fonds national de l'habitation.
+
+##### Sous-section 2 : Attributions.
+
+###### Article R351-37
+
+Le conseil de gestion est consulté par le président sur les conventions et les accords particuliers prévus par l'article L.
+351-8, alinéas 2 et 3.
+
+Il se prononce sur les demandes de remises de dettes formulées par les bénéficiaires de l'aide personnalisée. Il peut
+déléguer ce pouvoir aux sections départementales des aides publiques au logement mentionnées à l'article R. 351-48. Celles-ci
+peuvent subdéléguer ce pouvoir dans des conditions fixées par directive du Fonds national de l'habitation. "
+
+Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 6 () JORF 30 septembre 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-8 (M)
+	  - Code de la construction et de l'habitation. - art. R351-48 (M)
 
 
 ##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.
@@ -46834,6 +46806,54 @@ caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
+###### Article R351-64
+
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
+aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
+compte.
+
+L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
+débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
+
+Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
+situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
+départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
+
+Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
+section départementale des aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30.
+
+Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
+l'aide personnalisée versée depuis la défaillance du bénéficiaire. Le gestionnaire ne pourra se retourner vers le
+bénéficiaire pour lui réclamer l'aide personnalisée que la section départementale des aides publiques au logement lui demande
+de rembourser.
+
+Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
+de ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 8 () JORF 30 septembre 1992
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-30 (M)
+
+
 ###### Article R351-65
 
 L'abattement prévu à l'article R. 351-11 est applicable aux ressources prises en considération pour le calcul de l'aide
@@ -46895,6 +46915,62 @@ Le montant de l'aide personnalisée au logement est arrondi au franc le plus pro
 	  - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
+###### Article R351-61
+
+Le coefficient K, au plus égal à 0,95, est déterminé par la formule :
+
+K = 0,95 - ((R -(r X N))/(CM X N))
+
+dans laquelle :
+
+R représente les ressources déterminées conformément à l'article R. 351-5, arrondies au franc inférieur ;
+
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture ;
+
+CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture ;
+
+N représente le nombre de parts déterminé par les coefficients suivants :
+
+- bénéficiaire isolé : 1,40 ;
+
+- ménage sans personne à charge : 1,80 ;
+
+- bénéficiaire isolé ou ménage ayant une personne à charge :
+
+2,50.
+
+Le coefficient K est arrondi à deux décimales par défaut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 3 (M)
+	  - SPEC_APPLI: Décret n°92-1048 1992-09-28 art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 1979 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R351-60 (V)
+	  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62 (V)
+	  - Code de la construction et de l'habitation. - art. R351-62-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°92-1048 du 28 septembre 1992 - art. 7 () JORF 30 septembre 1992
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R351-5 (M)
+
+
 ###### Article R351-62
 
 L'équivalence de loyer et de charges locatives minima est obtenue par l'application de pourcentages à des tranches de
@@ -46952,52 +47028,6 @@ applicables aux personnes résidant dans un logement-foyer.
 	  - Code de la construction et de l'habitation. - art. R351-28 (M)
 	  - Code de la construction et de l'habitation. - art. R351-29 (M)
 	  - Code de la construction et de l'habitation. - art. R351-32 (M)
-
-
-##### Sous-section 4  : Dispositions particulières aux logements-foyers.
-
-##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.
-
-###### Article R351-64
-
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
-aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
-compte.
-
-L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
-débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
-
-Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
-situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
-départemental de l'habitat et justifier qu'il poursuit par tous les moyens de recouvrement de sa créance.
-
-Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
-section départementale des aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30.
-
-Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
-troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
-l'aide personnalisée versée depuis la défaillance du bénéficiaire.
-
-Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
-de ses obligations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-30 (M)
 
 
 #### Chapitre III : Régime juridique des logements locatifs conventionnés.
