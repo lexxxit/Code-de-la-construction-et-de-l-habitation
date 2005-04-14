@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-04-06
+Version Consolidée au 2005-04-15
 
 # Partie législative
 
@@ -67274,6 +67274,136 @@ peut exiger le remboursement de la subvention de l'Etat.
 	**Créé par**:
 
 	  - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
+
+
+##### Section 3 : Dispositions applicables aux autres prêts locatifs sociaux.
+
+###### Article R372-20
+
+La Caisse des dépôts et consignations ainsi que les établissements de crédit qui ont conclu avec celle-ci une convention sous
+l'égide de l'Etat sont habilités à consentir les prêts prévus à l'article R. 372-1 et régis par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-350 du 12 avril 2005 - art. 1 () JORF 15 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R372-1 (M)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1051 (V)
+
+
+###### Article R372-21
+
+Ces prêts peuvent être attribués à des personnes morales ou physiques lorsque celles-ci contribuent au financement de
+l'opération par un financement propre minimum fixé par arrêté conjoint des ministres chargés du logement, de l'outre-mer et
+des finances et qu'elles s'engagent à assurer elles-mêmes la gestion de ces logements ou à les confier à des personnes et
+organismes agréés par arrêté du ministre chargé du logement. Les prêts consentis par la Caisse des dépôts et consignations ne
+peuvent l'être qu'aux organismes mentionnés à l'article R. 372-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-350 du 12 avril 2005 - art. 1 () JORF 15 avril 2005
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2005 - art. 1 (V)
+	  - Arrêté du 12 avril 2005 - art. 2 (V)
+	  - Arrêté du 12 avril 2005 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R372-23 (V)
+	  - Code de la construction et de l'habitation. - art. R372-24 (V)
+	  - Code général des impôts, CGI. - art. 199 undecies C (V)
+	  - Code général des impôts, CGI. - art. 244 quater X (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R372-3 (V)
+
+
+###### Article R372-22
+
+L'octroi du prêt est subordonné à l'obtention de la décision favorable prise dans les conditions prévues à la sous-section 3
+de la section 1 du chapitre II du titre VII du livre III du code de la construction et de l'habitation.
+
+Le dépôt de la demande de prêt doit être effectué auprès de l'établissement prêteur dans un délai maximum de six mois après
+la date de la décision favorable précitée, faute de quoi ladite décision est frappée de caducité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-350 du 12 avril 2005 - art. 1 () JORF 15 avril 2005
+
+
+###### Article R372-23
+
+I. - La quotité minimum des prêts accordés par les établissements de crédit aux bénéficiaires mentionnés à l'article R.
+372-21 ne peut être inférieure à 50 % du prix de revient de l'opération mentionné à l'article R. 372-9.
+
+II. - Toutefois, la quotité peut être ramenée à 30 % pour la réalisation des programmes de logements locatifs de
+l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001). Dans ce cas, le
+montant de la subvention consentie à l'aide des sommes mentionnées à l'article L. 313-1 est pris en compte dans le calcul de
+cette quotité.
+
+III. - Le prêt constitue le seul concours de l'établissement prêteur au plan de financement de l'opération. L'établissement
+prêteur apprécie les sûretés nécessaires à la garantie de ses créances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. R372-21 (V)
+	  - Code de la construction et de l'habitation. - art. R372-9 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-350 du 12 avril 2005 - art. 1 () JORF 15 avril 2005
+
+
+###### Article R372-24
+
+Les prêts régis par la présente section peuvent être transférés aux personnes et organismes mentionnés à l'article R. 372-21
+sous réserve de l'accord du représentant de l'Etat dans le département et de l'établissement prêteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-350 du 12 avril 2005 - art. 1 () JORF 15 avril 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R372-21 (V)
 
 
 ### Titre VIII : Dispositions particulières à la région Ile-de-France
