@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-04-15
+Version Consolidée au 2005-05-05
 
 # Partie législative
 
@@ -51422,7 +51422,10 @@ logement ;
 
 7° Il autorise la conclusion des conventions nécessaires à l'exercice de missions de l'agence ;
 
-8° Il statue sur le rapport annuel d'activités.
+8° Il statue sur le rapport annuel d'activités ;
+
+9° Il examine le rapport annuel relatif à la mise en oeuvre des délégations de compétence et à la réalisation des objectifs
+de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -51432,7 +51435,7 @@ logement ;
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -51500,11 +51503,14 @@ l'exécution immédiate d'une délibération, quel que soit son objet.
 Le directeur général de l'agence est nommé par le ministre chargé du logement. Il prépare les délibérations du conseil
 d'administration et du comité restreint et en assure l'exécution.
 
-Ses instructions sont transmises au délégué mentionné à l'article R. 321-11 et communiquées au président de la commission
-instituée à l'article R. 321-10. Il prescrit l'exécution des recettes et des dépenses de l'agence. Il représente l'agence en
-justice et dans tous les actes de la vie civile et fait tous actes utiles au fonctionnement de l'agence. Il établit le
-rapport annuel d'activités, le soumet au conseil d'administration et le transmet, après approbation du conseil, aux ministres
-de tutelle.
+Ses instructions sont transmises au délégué mentionné à l'article R. 321-11 et au président de la commission instituée au I
+de l'article R. 321-10 et sont communiquées au président des établissements publics de coopération intercommunale et des
+conseils généraux des départements ayant conclu la convention prévue à l'article L. 321-1-1. Il conclut les conventions
+mentionnées aux articles L. 312-2-1 et L. 321-1-1. Il prescrit l'exécution des recettes et des dépenses de l'agence. Il est
+ordonnateur des dépenses de l'agence, y compris de celles prises en application des conventions prévues aux articles L.
+301-3, L. 301-5-1, L. 301-5-2, L. 312-2-1 et L. 321-1-1. Il représente l'agence en justice et dans tous les actes de la vie
+civile et fait tous actes utiles au fonctionnement de l'agence. Il établit le rapport annuel d'activités, le soumet au
+conseil d'administration et le transmet, après approbation du conseil, aux ministres de tutelle.
 
 Il nomme aux emplois de l'agence et a autorité sur le personnel.
 
@@ -51516,17 +51522,46 @@ Il nomme aux emplois de l'agence et a autorité sur le personnel.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-11, R321-10
+	  - Code de la construction et de l'habitation R321-11, R321-10, L321-1-1, L312-2-1, L301-3, L301-5-1, L301-5-2
+	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 
 
 ###### Article R*321-8
 
 La gestion financière et comptable de l'agence est organisée suivant les modalités fixées par le décret n° 62-1587 du 29
-décembre 1962 modifié portant règlement général sur la comptabilité publique.
+décembre 1962 modifié portant règlement général sur la comptabilité publique et les dispositions des articles L. 301-3, L.
+301-5-1, L. 301-5-2, L. 312-2-1 et L. 321-1-1.
+
+Lorsque les aides de l'agence sont payées par un établissement public de coopération intercommunale ou un département dans le
+cadre d'une convention de délégation de compétence prévue à l'article L. 321-1-1, les pièces justificatives des paiements
+effectués sont conservées par le comptable de l'établissement public de coopération intercommunale ou du département qui
+produit une attestation certifiant que les paiements effectués par lui sont accompagnés des pièces justificatives
+correspondantes et qu'il est en possession de toutes les pièces afférentes aux opérations prévues par la convention de
+délégation. Cette attestation est communiquée à l'agence.
+
+Lorsque l'agence est autorisée, par une convention conclue avec une collectivité territoriale ou un établissement public de
+coopération intercommunale en application de l'article L. 321-1-1 ou de l'article L. 312-2-1, à exécuter les dépenses
+résultant des décisions d'attribution d'aides apportées sur son budget propre par le mandant et à recouvrer les produits des
+reversements, elle peut bénéficier du versement d'une avance d'un montant équivalent, au maximum, aux dépenses prévues. Ce
+montant est fixé par la collectivité territoriale ou l'établissement public de coopération intercommunale mandant dans la
+limite d'un plafond inscrit dans la convention.
+
+Le paiement des avances ultérieures ou le remboursement de débours de l'agence s'effectue selon un échéancier prévu à la
+convention, au vu d'un décompte détaillé des opérations, d'un certificat de l'ordonnateur de l'agence attestant de la
+réalisation des opérations et d'une attestation du comptable de l'agence certifiant que les paiements effectués par lui sont
+appuyés des pièces justificatives correspondantes.
+
+La convention conclue entre l'agence et la collectivité territoriale ou l'établissement public de coopération intercommunale
+prévoit la périodicité, au moins annuelle, et les modalités de reddition des comptes dans des délais permettant au comptable
+de la collectivité territoriale ou de l'établissement public de coopération intercommunale de produire son compte de gestion.
 
 L'agence est soumise au contrôle de l'inspection générale du ministère chargé du logement.
 
@@ -51535,6 +51570,11 @@ L'agence est soumise au contrôle de l'inspection générale du ministère charg
 	**Cite**:
 
 	  - Décret n°62-1587 1962-12-29
+	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 
 	**Codifié par**:
 
@@ -51542,7 +51582,7 @@ L'agence est soumise au contrôle de l'inspection générale du ministère charg
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 
 ###### Article R*321-9
@@ -51602,8 +51642,11 @@ ministre chargé des finances.
 
 ###### Article R321-2
 
-Dans le cadre de sa mission définie à l'article L. 321-1, l'agence apporte son aide financière sous forme de subvention dans
-les conditions fixées au présent chapitre.
+Dans le cadre de sa mission définie à l'article L. 321-1, l'agence apporte son aide financière sous forme de subventions aux
+bénéficiaires mentionnés aux articles R. 321-12 et R. 321-13 ou de dotations aux établissements publics de coopération
+intercommunale ainsi qu'aux départements ayant conclu la convention prévue à l'article L. 321-1-1. Elle peut se voir confier
+la gestion des aides des collectivités territoriales et des établissements publics de coopération intercommunale mentionnées
+aux articles L. 312-2-1 et L. 321-1-1.
 
 **Liens relatifs à cet article**
 
@@ -51621,7 +51664,7 @@ les conditions fixées au présent chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Anciens textes**:
 
@@ -51629,7 +51672,9 @@ les conditions fixées au présent chapitre.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
 	  - Code de la construction et de l'habitation. - art. L321-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 
 
 ###### Article R321-3
@@ -51649,7 +51694,11 @@ la réglementation ;
 
 6° Le produit des dons et legs ;
 
-7° Des recettes accessoires.
+7° Des recettes accessoires ;
+
+8° Les sommes correspondant aux aides accordées par les collectivités territoriales et les établissements publics de
+coopération intercommunale mentionnées aux articles L. 312-2-1 et L. 321-1-1 qui lui sont versées en application des
+conventions prévues à ces articles.
 
 **Liens relatifs à cet article**
 
@@ -51659,10 +51708,12 @@ la réglementation ;
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. L651-2 (M)
 
 
@@ -51670,10 +51721,25 @@ la réglementation ;
 
 ###### Article R*321-10
 
-I. - Il est créé dans chaque département une commission d'amélioration de l'habitat composée de huit membres :
+I. - Dans chaque département, une commission d'amélioration de l'habitat :
 
-a) Le directeur départemental de l'équipement on son représentant ou, à Paris, le directeur de l'urbanisme et du logement à
-la préfecture de Paris ou son représentant, président ;
+1° Décide de l'attribution des subventions dans la limite des autorisations d'engagement notifiées par le directeur général
+ou prononce le rejet des demandes d'aide ;
+
+2° Décide du reversement des subventions en application de l'article R. 321-21 ;
+
+3° Approuve les programmes d'actions intéressant son ressort ;
+
+4° Statue, pour la partie concernant son champ de compétence, sur le rapport annuel d'activité établi par le délégué local
+mentionné à l'article R. 321-11.
+
+La commission peut être saisie pour avis de toute convention intéressant l'amélioration de l'habitat et engageant l'agence
+exclusivement dans son ressort territorial.
+
+La commission est composée des membres suivants :
+
+a) Le directeur départemental de l'équipement ou son représentant ou, à Paris, le directeur de l'urbanisme et du logement à
+la préfecture de Paris ou son représentant ;
 
 b) Le trésorier-payeur général ou son représentant ou, à Paris, le receveur général des finances ou son représentant ;
 
@@ -51685,37 +51751,50 @@ e) Une personne qualifiée pour ses compétences dans le domaine du logement ;
 
 f) Une personne qualifiée pour ses compétences dans le domaine social.
 
-Les membres de la commission mentionnés aux c, d, e et f ainsi qu'un nombre égal de membres suppléants sont nommés pour trois
-ans par arrêté du représentant de l'Etat dans le département. Leur mandat est renouvelable. Lorsqu'une de ces personnes a un
-intérêt direct ou indirect aux opérations pouvant être financées par l'agence, elle s'abstient de participer à la décision de
-la commission.
+Les membres de la commission mentionnés au c, d, e et f ainsi qu'un nombre égal de membres suppléants sont nommés pour trois
+ans par arrêté du préfet. Leur mandat est renouvelable. La commission est présidée par le membre mentionné au a.
 
-En cas de partage égal des voix, celle du président est prépondérante.
+Sur proposition du délégué local mentionné à l'article R. 321-11, la commission arrête son règlement intérieur et le soumet
+pour approbation au directeur général de l'agence.
 
-Sur proposition du délégué local mentionné à l'article R. 321-11, la commission d'amélioration de l'habitat arrête son
-règlement intérieur et le soumet, pour approbation, au directeur général de l'agence.
+II. - Lorsqu'un département ou un établissement public de coopération intercommunale a conclu une convention mentionnée à
+l'article L. 321-1-1, les décisions d'attribution des aides ou de rejet des demandes d'aide sont prises après avis de la
+commission locale d'amélioration de l'habitat.
 
-En lieu et place de la commission départementale, une commission interdépartementale, composée de huit membres désignés, dans
-le respect des équilibres prévus au sein d'une commission départementale, par arrêté conjoint des représentants de l'Etat
-dans les départements concernés, peut être créée au sein d'une même région. Elle dispose des mêmes attributions que la
-commission départementale.
+Cette commission, présidée de plein droit, selon le cas, par le président du conseil général ou son représentant ou par le
+président de l'établissement public de coopération intercommunale ou son représentant, est composée des membres de la
+commission d'amélioration de l'habitat mentionnée au I ci-dessus.
 
-II. - La commission d'amélioration de l'habitat :
+Toutefois, le département ou l'établissement public coopération intercommunale peut décider que, pour la durée de la
+convention, la commission locale d'amélioration de l'habitat sera composée de membres choisis et désignés par le président du
+conseil général ou le président de l'établissement public de coopération intercommunale. Outre son président, le délégué
+local de l'agence nationale pour l'amélioration de l'habitat et le trésorier-payeur général ou, à Paris, le receveur général
+des finances ou leur représentant, la commission ne peut compter plus de six membres, dont un représentant des locataires et
+au moins un représentant des propriétaires. Le mandat des membres de la commission ne peut excéder six ans. La composition de
+la commission est notifiée au préfet du département et au délégué local de l'agence. Il en est de même des changements
+ultérieurs intervenant dans la composition de la commission.
 
-1° Décide l'attribution des subventions dans la limite des autorisations d'engagement notifiées par le directeur général ou
-prononce le rejet des demandes d'aide ;
+La commission locale d'amélioration de l'habitat émet un avis sur :
 
-2° Décide le reversement des subventions en application de l'article R. 321-21 ;
+1° Les demandes présentées dans le cadre de la convention conclue entre l'agence et la collectivité concernée en application
+de l'article L. 321-1-1 ;
 
-3° Approuve les programmes d'actions intéressant son ressort ;
+2° Le reversement des subventions effectué en application de l'article R. 321-21 ;
 
-4° Statue sur le rapport annuel d'activités établi par le délégué local.
+3° Pour la partie concernant son champ de compétence, le rapport annuel d'activité établi par le délégué local mentionné à
+l'article R. 321-11.
 
-La commission peut être saisie pour avis de toute convention intéressant l'amélioration de l'habitat et engageant l'agence
-exclusivement dans son ressort territorial.
+Elle établit son règlement intérieur, le soumet pour avis au délégué local de l'agence mentionné à l'article R. 321-11 et le
+notifie au préfet dans le mois qui suit son adoption.
 
-Pour l'exécution de ses missions, la commission d'amélioration de l'habitat peut faire appel, en tant que de besoin, aux
-hommes de l'art ou aux professionnels de l'immobilier dans le respect des dispositions prévues au II de l'article R. 321-9.
+III. - Dans les commissions mentionnées aux I et II ci-dessus, en cas de partage égal des voix, celle du président est
+prépondérante.
+
+Lorsqu'une personne siégeant dans l'une des commissions mentionnées aux I et II ci-dessus a un intérêt direct ou indirect aux
+opérations susceptibles d'être financées par l'agence, elle s'abstient de participer à la délibération de la commission.
+
+Les rapports annuels des commissions mentionnées aux I et II ci-dessus sont transmis au directeur général pour l'élaboration
+des rapports visés aux 8° et 9° de l'article R. 321-5.
 
 **Liens relatifs à cet article**
 
@@ -51725,7 +51804,7 @@ hommes de l'art ou aux professionnels de l'immobilier dans le respect des dispos
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -51737,7 +51816,41 @@ hommes de l'art ou aux professionnels de l'immobilier dans le respect des dispos
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-11, R321-21, R321-9
+	  - Code de la construction et de l'habitation R321-21, R321-11, L321-1-1, R321-5
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R321-21 (M)
+
+
+###### Article R*321-10-1
+
+Lorsqu'une convention mentionnée à l'article L. 321-1-1 a été signée, le président, selon le cas, du conseil général ou de
+l'établissement public de coopération intercommunale :
+
+1° Décide de l'attribution des subventions, dans la limite des autorisations d'engagement annuelles prévues dans la
+convention mentionnée à l'article L. 301-5-1 ou à l'article L. 301-5-2 ou prononce le rejet des demandes d'aide, après avis
+de la commission mentionnée au II de l'article R. 321-10 ;
+
+2° Décide du reversement des subventions en application de l'article R. 321-21 après avis de la commission mentionnée au II
+de l'article R. 321-10 ;
+
+3° Approuve les programmes d'actions intéressant son ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L321-1-1, L301-5-1, L301-5-2, R321-10, R321-21
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. R321-21 (M)
 
 
@@ -51747,17 +51860,22 @@ Le directeur général de l'agence nomme auprès de chaque commission d'amélior
 choisit, sur proposition du directeur départemental de l'équipement, parmi les personnels de la direction départementale de
 l'équipement dans le ou les départements concernés.
 
-Le délégué local remplit auprès de la commission le rôle confié au directeur général auprès du conseil d'administration de
-l'agence. Il instruit les demandes d'aide, assiste aux séances de la commission et assure l'exécution de ses décisions. Pour
-ces tâches, il peut être assisté d'un délégué adjoint nommé sur sa proposition par le directeur général.
+Le délégué local remplit, auprès de la commission d'amélioration de l'habitat, le rôle confié au directeur général auprès du
+conseil d'administration de l'agence. Il instruit les demandes d'aide et assiste aux séances de la commission. Il assure
+l'exécution des décisions prises par la commission en application du I de l'article R. 321-10. Il assure les missions
+confiées à l'agence, dans le ressort territorial dont il a la charge, en application des conventions signées en application
+des articles L. 301-5-1, L. 301-5-2, L. 312-2-1 et L. 321-1-1. Il peut être assisté d'un délégué adjoint nommé sur sa
+proposition par le directeur général. Dans les territoires non couverts par les conventions mentionnées aux articles L.
+301-5-1 et L. 301-5-2, le délégué local décide de l'attribution des subventions aux prestations d'ingénierie permettant la
+mise en oeuvre des opérations mentionnées à l'article R. 321-16.
 
 Par délégation de pouvoir du directeur général, le délégué local prescrit l'exécution des dépenses d'intervention prévues à
 l'article R. 321-12 et l'exécution des recettes résultant de l'application de l'article R. 321-21.
 
 Dans le délai de quinze jours suivant la réunion de la commission, le délégué local peut déférer au conseil d'administration
-de l'agence les décisions prises en application des 1° et 2° de l'article R. 321-10, qui ne deviennent exécutoires qu'après
-leur approbation par le conseil d'administration ou le comité restreint. A défaut d'approbation, la décision du conseil
-d'administration se substitue à celle de la commission.
+de l'agence les décisions prises en application des 1° et 2° du I de l'article R. 321-10, qui ne deviennent exécutoires
+qu'après leur approbation par le conseil d'administration ou le comité restreint. A défaut d'approbation, la décision du
+conseil d'administration se substitue à celle de la commission.
 
 Le directeur général peut autoriser le délégué local à déléguer sa signature aux personnes placées sous son autorité.
 
@@ -51769,11 +51887,15 @@ Le directeur général peut autoriser le délégué local à déléguer sa signa
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-12, R321-21, R321-10
+	  - Code de la construction et de l'habitation R321-10, L301-5-1, L301-5-2, L312-2-1, L321-1-1, R321-16, R321-12, R321-21
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. R321-21 (M)
 
 	**Cité par**:
@@ -51901,9 +52023,10 @@ Les établissements publics d'aménagement prévus à l'article L. 321-1 du code
 loyer modéré mentionnés à l'article L. 411-2 du présent code et les sociétés d'économie mixte ayant pour objet statutaire la
 construction ou la gestion de logements ou la restructuration urbaine ne peuvent bénéficier de l'aide de l'agence que pour
 les opérations de réhabilitation, en vue de leur revente, des logements acquis dans les copropriétés faisant l'objet du plan
-de sauvegarde prévu à l'article L. 615-1. La commission d'amélioration de l'habitat peut, selon des critères définis par le
-règlement général de l'agence, assortir l'aide qu'elle accorde de dérogations aux règles d'utilisation des locaux définies à
-l'article R. 321-20.
+de sauvegarde prévu à l'article L. 615-1. La commission d'amélioration de l'habitat ou le président de l'établissement public
+de coopération intercommunale ou du conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 peut, selon
+des critères définis par le règlement général de l'agence, assortir l'aide accordée de dérogations aux règles d'utilisation
+des locaux définies à l'article R. 321-20.
 
 **Liens relatifs à cet article**
 
@@ -51915,14 +52038,15 @@ l'article R. 321-20.
 
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 191 (M)
 	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de la construction et de l'habitation R321-12, L411-2, L615-1, R321-20
+	  - Code de la construction et de l'habitation R321-12, L411-2, L615-1, L321-1-1, R321-20
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 	  - Code de la construction et de l'habitation. - art. R321-20 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2003-75 du 28 janvier 2003 - art. 1 () JORF 29 janvier 2003
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 
 ###### Article R*321-14
@@ -51938,8 +52062,9 @@ besoins spécifiques des personnes handicapées ou des personnes âgées, soit �
 personnes appelées à travailler la nuit, soit à économiser l'énergie.
 
 A titre exceptionnel, des dérogations à la condition de délai énoncée au premier alinéa peuvent être accordées par la
-commission d'amélioration de l'habitat, en fonction de l'urgence et de l'intérêt des travaux à réaliser et selon des critères
-définis par le règlement général de l'agence.
+commission d'amélioration de l'habitat ou par le président de l'établissement public de coopération intercommunale ou du
+conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1, en fonction de l'urgence et de l'intérêt des
+travaux à réaliser et selon des critères définis par le règlement général de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -51949,7 +52074,7 @@ définis par le règlement général de l'agence.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -51958,6 +52083,7 @@ définis par le règlement général de l'agence.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 
@@ -52005,10 +52131,10 @@ du présent code ou qu'ils constituent la transformation en logements de locaux 
 
 ###### Article R*321-16
 
-L'agence peut également participer, sous forme de subvention et par voie de convention, au financement d'études relatives aux
-travaux lors de la réalisation des opérations programmées d'amélioration de l'habitat prévues à l'article L. 303-1 et des
-plans de sauvegarde prévus à l'article L. 615-1 ainsi qu'au financement de l'animation et du suivi de la mise en oeuvre de
-ces opérations.
+L'agence peut participer, sous forme de subventions ou par voie de convention, à des diagnostics préalables, à des études
+pré-opérationnelles, à l'animation et au suivi nécessaires à la mise en oeuvre des opérations programmées d'amélioration de
+l'habitat mentionnées à l'article L. 303-1 et au 7° de l'article R. 321-12, des plans de sauvegarde prévus à l'article L.
+615-1, des programmes d'intérêt général et des programmes sociaux thématiques concourant à l'amélioration de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -52018,7 +52144,7 @@ ces opérations.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -52027,6 +52153,7 @@ ces opérations.
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L303-1, R321-12, L615-1
 	  - Code de la construction et de l'habitation. - art. L303-1 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
@@ -52074,9 +52201,10 @@ détermine les modalités permettant d'assurer la confidentialité des informati
 des dossiers, en particulier celles relatives à la réception et aux délais d'instruction des demandes ainsi qu'à la
 notification des décisions.
 
-Seuls les travaux commencés après le dépôt de la demande de subvention peuvent bénéficier d'une aide de l'agence. Toutefois,
-sur proposition justifiée du délégué local, la commission d'amélioration de l'habitat peut, à titre exceptionnel, accorder
-une subvention lorsque le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en cas d'application de
+Seuls les travaux commencés après le dépôt de la demande de subvention peuvent bénéficier d'une aide de l'agence. Toutefois
+la commission d'amélioration de l'habitat ou par le président de l'établissement public de coopération intercommunale ou du
+conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 peut, à titre exceptionnel, accorder une
+subvention lorsque le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en cas d'application de
 l'article L. 125-1 du code des assurances relatif aux dommages causés par des catastrophes naturelles ou de l'article L.
 122-7 du même code relatif aux dommages causés par les effets du vent dû aux tempêtes, ouragans et cyclones.
 
@@ -52096,9 +52224,10 @@ chargée des travaux.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 2005-05-03 art. 1 X, XII JORF 5 mai 2005
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -52116,7 +52245,8 @@ chargée des travaux.
 
 	  - Code des assurances - art. L122-7 (M)
 	  - Code des assurances - art. L125-1 (M)
-	  - Code de la construction et de l'habitation R321-12
+	  - Code de la construction et de l'habitation R321-12, L321-1-1
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 
 
 ###### Article R321-19
@@ -52130,8 +52260,10 @@ l'achèvement des travaux sous peine d'annulation de la décision d'octroi de la
 perçues.
 
 Une prolongation de ces délais peut, selon des critères fixés par le règlement général de l'agence et dans la limite d'un an,
-être accordée par la commission d'amélioration de l'habitat sur demande dûment motivée du bénéficiaire de la subvention,
-notamment lorsque des circonstances extérieures à la volonté de l'intéressé ont fait obstacle à la réalisation des travaux.
+être accordée par la commission d'amélioration de l'habitat ou par le président de l'établissement public de coopération
+intercommunale ou du conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 sur demande dûment motivée
+du bénéficiaire de la subvention, notamment lorsque des circonstances extérieures à la volonté de l'intéressé ont fait
+obstacle à la réalisation des travaux.
 
 **Liens relatifs à cet article**
 
@@ -52139,9 +52271,9 @@ notamment lorsque des circonstances extérieures à la volonté de l'intéressé
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -52149,7 +52281,8 @@ notamment lorsque des circonstances extérieures à la volonté de l'intéressé
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-14
+	  - Code de la construction et de l'habitation R321-14, L321-1-1
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 
 
 ###### Article R321-20
@@ -52197,13 +52330,30 @@ conformément aux dispositions de la présente section.
 
 ###### Article R321-21
 
-Sans préjudice de poursuites judiciaires, en cas de méconnaissance dûment constatée des prescriptions de la présente section,
-le reversement total ou partiel de la subvention peut être prononcé par la commission d'amélioration de l'habitat. Le
-reversement est de plein droit exigé si les conditions d'occupation du logement prévues à l'article R. 321-20 ne sont pas
-respectées ou s'il s'avère que la subvention a été obtenue à la suite de fausses déclarations ou de manoeuvres frauduleuses.
+Le reversement est de plein droit exigé s'il s'avère que l'aide a été obtenue à la suite de fausses déclarations ou de
+manoeuvres frauduleuses.
+
+I. - Lorsque aucune convention de délégation de compétence mentionnée aux articles L. 301-5-1 et L. 301-5-2 n'a été signée et
+sans préjudice de poursuites judiciaires, le reversement total ou partiel de l'aide est prononcé par la commission
+d'amélioration de l'habitat en cas de méconnaissance des prescriptions de la présente section.
 
 Le conseil d'administration ou, sur délégation, le comité restreint exerce le pouvoir de sanction prévu à l'article L. 321-2.
-Il prononce notamment une sanction pécuniaire en cas de fausses déclarations ou de manoeuvres frauduleuses.
+Il peut, notamment, prononcer une sanction pécuniaire en cas de fausses déclarations ou de manoeuvre frauduleuses.
+
+II. - Lorsque a été signée une convention de délégation de compétence mentionnée aux articles L. 301-5-1 et L. 301-5-2 du
+présent code et sans préjudice de poursuites judiciaires, le reversement total ou partiel de l'aide est prononcé par le
+président de l'établissement public de coopération intercommunale ou du conseil général ayant attribué la subvention en cas
+de méconnaissance des prescriptions de la présente section.
+
+III. - Le recouvrement des sommes dues en application des I et II ci-dessus est effectué selon les règles applicables à
+l'organisme ou à la collectivité qui avait assuré le paiement de l'aide.
+
+IV. - Dans le cas où un établissement public de coopération intercommunale ou une collectivité territoriale confie à
+l'agence, en application des articles L. 312-2-1 ou L. 321-1-1, la gestion des aides à l'habitat privé, la convention peut
+prévoir que le recouvrement est effectué par l'agence selon les règles applicables au recouvrement des sommes dues aux
+établissements publics nationaux à caractère administratif et les frais de recouvrement supportés par l'agence sont ensuite
+mis à la charge du mandant. Les décisions de remise gracieuse et d'admission en non-valeur sont, le cas échéant, adoptées par
+l'assemblée délibérante de la collectivité territoriale ou de l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -52211,9 +52361,9 @@ Il prononce notamment une sanction pécuniaire en cas de fausses déclarations o
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
 
 	**Cité par**:
 
@@ -52231,8 +52381,45 @@ Il prononce notamment une sanction pécuniaire en cas de fausses déclarations o
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. L321-2 (M)
-	  - Code de la construction et de l'habitation. - art. R321-20 (M)
+
+
+###### Article R321-21-1
+
+Les dispositions des articles R. 321-12 à R. 321-21 sont applicables aux décisions prises par le président de l'établissement
+public de coopération intercommunale ou du conseil général, par délégation de l'agence en application des conventions
+mentionnées à l'article L. 321-1-1.
+
+La convention mentionnée à l'article L. 321-1-1 prévoit les conditions dans lesquelles le taux prévu au 2e alinéa de
+l'article R. 321-17 peut être majoré, dans la limite maximale de 10 points, en fonction de critères liés aux revenus des
+demandeurs, fixés par l'arrêté mentionné au dernier alinéa de l'article R. 321-12, de critères géographiques ou des
+conditions de location acceptées par les propriétaires, notamment du niveau des loyers pratiqués après réhabilitation.
+Lorsque l'aide de l'agence est fixée de façon forfaitaire en application du même article, elle peut être majorée dans la
+limite maximale de 25 %, dans les conditions fixées ci-dessus.
+
+La convention peut également prévoir des adaptations à la liste des travaux dressée par le conseil d'administration de
+l'agence en application du 4° de l'article R. 321-5, dans le respect du second alinéa de l'article R. 321-15. Elle précise
+les conditions dans lesquelles le plafond des travaux éligibles peut être majoré, dans la limite maximale de 25 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R321-12 à R321-21, L321-1-1, R321-17, R321-12, R321-5, R321-15
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. R*321-17 (Ab)
 
 
 ###### Article R321-22
@@ -52537,6 +52724,37 @@ logements mentionnés au b de l'article R. 323-3.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R323-7-1 (VD)
+
+
+###### Article R323-7-1
+
+Lorsque la décision d'octroi de subvention est prise par le président de l'établissement public de coopération intercommunale
+ou le président du conseil général en application de l'article R. 323-12-1, les taux de subvention prévus à l'article R.
+323-7 peuvent être majorés dans la limite de 5 points dans certains secteurs géographiques déterminés dans la convention
+mentionnée aux articles L. 301-5-1 et L. 301-5-2, quand des particularités locales et démographiques ou la situation du
+marché du logement entraînent des coûts d'opération de nature à rendre cette majoration nécessaire pour assurer leur
+équilibre financier.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 2 () JORF 5 mai 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. R323-12-1 (V)
+	  - Code de la construction et de l'habitation. - art. R323-7 (M)
 
 
 ###### Article R323-8
@@ -54073,6 +54291,42 @@ d'application du présent article.
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 
 
+###### Article R331-15-1
+
+Lorsque la décision d'octroi de l'aide est prise par le président de l'établissement public de coopération intercommunale ou
+le président du conseil général en application de l'article R. 331-13-1 :
+
+1° Une majoration de l'assiette de subvention prévue au second alinéa du 1° de l'article R. 331-15 peut être appliquée dans
+les conditions prévues par les conventions de délégation de compétence conclues en application des articles L. 301-5-1 ou L.
+301-5-2 ;
+
+2° Les taux d'aide prévus aux 2° et 3° de l'article R. 331-15 peuvent être majorés dans la limite de 5 points de l'assiette
+définie au 1° du même article, dans certains secteurs géographiques déterminés dans la convention mentionnée aux articles L.
+301-5-1 et L. 301-5-2, quand des particularités locales et démographiques ou la situation du marché du logement rendent cette
+majoration nécessaire pour assurer l'équilibre financier de l'opération.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 3 () JORF 5 mai 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-15 (M)
+
+
 ###### Article R331-16
 
 La subvention est versée dans les conditions suivantes :
@@ -54432,6 +54686,34 @@ construction et de l'habitation et des finances.
 	  - Code de la construction et de l'habitation. - art. R331-13-1 (V)
 	  - Code de la construction et de l'habitation. - art. R331-14 (V)
 	  - Code de la construction et de l'habitation. - art. R331-8 (V)
+
+
+###### Article R331-24-1
+
+Lorsque la décision d'octroi de subvention est prise par le président de l'établissement public de coopération intercommunale
+ou le président du conseil général en application de l'article R. 331-13-1, le montant de la subvention prévue au II de
+l'article R. 331-24 peut atteindre 75 % du dépassement défini au II du même article, limité à deux fois le montant de la
+valeur foncière de référence multiplié par la surface utile de l'opération en construction neuve et à 0,4 fois le montant de
+la valeur foncière de référence multiplié par la surface utile de l'opération en acquisition-amélioration.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 4 () JORF 5 mai 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-24 (M)
 
 
 ###### Article R331-25
@@ -76807,6 +77089,36 @@ articles L. 351-1 et suivants.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R472-1 (V)
+
+
+###### Article R441-1-2
+
+Les conventions de délégation de compétence conclues en application des articles L. 301-5-1 ou L. 301-5-2 peuvent prévoir,
+afin de favoriser la mixité sociale, pour des logements d'un même immeuble situés dans des ensembles immobiliers ou quartiers
+dans lesquels plus de 20 % des logements locatifs sociaux sont vacants depuis au moins trois mois ou pour des logements
+situés dans des quartiers classés en zone urbaine sensible définie au 3° de l'article 42 de la loi n° 95-115 du 4 février
+1995 d'orientation pour l'aménagement et le développement des territoires ou pour les logements d'un même immeuble ou
+ensemble immobilier lorsqu'ils sont occupés à plus de 65 % par des ménages bénéficiant des aides personnelles au logement
+mentionnées au 5° de l'article L. 301-2, des majorations aux plafonds de ressources fixés par l'arrêté prévu au 1° de
+l'article R. 441-1 et au premier alinéa de l'article R. 331-12, sans pouvoir dépasser ces derniers de plus de 30 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+	  - Code de la construction et de l'habitation. - art. L301-2 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. R331-12 (V)
+	  - Code de la construction et de l'habitation. - art. R441-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-416 du 3 mai 2005 - art. 5 () JORF 5 mai 2005
 
 
 ###### Article R441-2-1
