@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-05-05
+Version Consolidée au 2005-05-07
 
 # Partie législative
 
@@ -7387,41 +7387,42 @@ Seront punies des mêmes peines les tentatives d'infractions prévues au présen
 
 ###### Article L241-7
 
-I - Ne peuvent ni procéder habituellement à titre quelconque, directement ou par personne interposée, pour leur compte ou
-pour celui d'autrui aux opérations mentionnées au décret n. 54-1123 du 10 novembre 1954 présentement abrogé sauf en ses
+I-Ne peuvent ni procéder habituellement à titre quelconque, directement ou par personne interposée, pour leur compte ou pour
+celui d'autrui aux opérations mentionnées au décret n° 54-1123 du 10 novembre 1954 présentement abrogé sauf en ses
 dispositions concernant le conseil de surveillance, reproduites aux articles L. 214-6 à L. 214-9, ni participer en droit ou
 en fait, directement ou par personne interposée, à la fondation ou à la gestion des sociétés ou autres organismes mentionnés
-audit décret [*interdiction*] :
+audit décret : 
 
-1. Les personnes empêchées d'exercer un commerce en vertu de la loi n. 47-1635 du 30 août 1947 relative à l'assainissement
-des professions industrielles ou commerciales, ainsi que les personnes condamnées en application soit du décret du 14 juin
-1938 sur les entreprises d'assurances présentement repris par le code des assurances (livre III, titre II, chapitre VIII et
-livre V, titre Ier, chapitre IV, section IV), soit des lois des 13 et 14 juin 1941 relatives à la réglementation et à
-l'organisation de la profession bancaire et des professions qui s'y rattachent, soit de la loi n. 52-332 du 24 mars 1952
-relative aux entreprises de crédit différé, soit de l'article L. 241-6 ;
+1. Les personnes empêchées d'exercer un commerce en vertu du chapitre VIII du titre II du livre Ier du code de commerce,
+ainsi que les personnes condamnées en application soit du décret du 14 juin 1938 sur les entreprises d'assurances
+présentement repris par le code des assurances (livre III, titre II, chapitre VIII et livre V, titre Ier, chapitre IV,
+section IV), soit des lois des 13 et 14 juin 1941 relatives à la réglementation et à l'organisation de la profession bancaire
+et des professions qui s'y rattachent (1), soit de la loi n° 52-332 du 24 mars 1952 relative aux entreprises de crédit
+différé, soit de l'article L. 241-6 ; 
 
 2. Les personnes ayant fait l'objet d'une condamnation pour une des infractions suivantes : vol, abus de confiance,
 escroquerie, émission de chèques sans provision, soustraction commise par un dépositaire public, extorsion de fonds ou de
-valeurs, usure, atteinte au crédit de la nation ou recel de choses obtenues à l'aide de l'une de ces infractions.
+valeurs, usure, atteinte au crédit de la nation ou recel de choses obtenues à l'aide de l'une de ces infractions. 
 
 Toute condamnation pour tentative ou complicité des infractions mentionnées aux deux alinéas qui précèdent entraîne la même
-interdiction.
+interdiction. 
 
-II - Les infractions aux dispositions du paragraphe I du présent article sont punies des peines portées à l'article L. 241-6
-[*sanction*].
+II-Les infractions aux dispositions du paragraphe I du présent article sont punies des peines portées à l'article L. 241-6. 
 
-III  - Les dispositions du présent article ne font pas obstacle à l'exécution des contrats en cours au 9 août 1957.
+III-Les dispositions du présent article ne font pas obstacle à l'exécution des contrats en cours au 9 août 1957.
+
+**Nota:**
+
+(1) : Lois abrogées par l'article 94 de la loi n° 84-46 du 24 janvier 1984.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1938-06-14
-	  - Loi n°47-1635 1947-08-30
-	  - Loi n°52-332 1952-03-24
-	  - Décret n°54-1123 1954-11-10
-	  - Code de la construction et de l'habitation L214-6 à L214-9, L241-6
-	  - Code de la construction et de l'habitation. - art. L241-6 (M)
+	  - Loi n°52-332 du 24 mars 1952 (V)
+	  - Décret n°54-1123 du 10 novembre 1954, v. init.
+	  - Code de la construction et de l'habitation. - art. L214-6 (V)
+	  - Code de la construction et de l'habitation. - art. L241-6 (V)
 
 	**Anciens textes**:
 
@@ -7430,6 +7431,10 @@ III  - Les dispositions du présent article ne font pas obstacle à l'exécution
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -13016,12 +13021,11 @@ de transactions immobilières, ou par la loi n° 60-580 du 21 juin 1960 interdis
 transaction portant sur des immeubles et des fonds de commerce lorsque la condamnation comporte fermeture définitive de
 l'établissement;
 
-3° Les personnes empêchées d'exercer un commerce en vertu de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement
-des professions industrielles ou commerciales, ainsi que les personnes condamnées en application, soit du décret du 14 juin
-1938 sur les entreprises d'assurances, repris par le code des assurances, livre III, titre II, chapitre VIII, et livre V,
-titre Ier, chapitre IV, section IV, soit des lois des 13 et 14 juin 1941 relatives à la réglementation et à l'organisation de
-la profession bancaire et des professions qui s'y rattachent, soit de la loi n° 52-332 du 24 mars 1952 relative aux
-entreprises de crédit différé, soit de l'article L. 241-6 ;
+3° Les personnes empêchées d'exercer un commerce en vertu du chapitre VIII du titre II du livre Ier du code de commerce,
+ainsi que les personnes condamnées en application, soit du décret du 14 juin 1938 sur les entreprises d'assurances, repris
+par le code des assurances, livre III, titre II, chapitre VIII, et livre V, titre Ier, chapitre IV, section IV, soit des lois
+des 13 et 14 juin 1941 relatives à la réglementation et à l'organisation de la profession bancaire et des professions qui s'y
+rattachent, soit de la loi n° 52-332 du 24 mars 1952 relative aux entreprises de crédit différé, soit de l'article L. 241-6 ;
 
 4° Les faillis non réhabilités ;
 
@@ -13036,8 +13040,6 @@ disciplinaire;
 
 	**Cite**:
 
-	  - Décret n°1938-06-14
-	  - Loi n°47-1635 1947-08-30
 	  - Loi n°52-332 1952-03-24
 	  - Loi n°57-908 1957-08-07
 	  - Ordonnance 58-1229 1958-12-16
@@ -13045,16 +13047,15 @@ disciplinaire;
 	  - Code pénal - art. 441-1 (M)
 	  - Code de la construction et de l'habitation. - art. L241-6 (M)
 	  - Code de la construction et de l'habitation. - art. L313-13 (M)
+	  - Décret n°1938-06-14
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 5 () JORF 1er janvier 1997
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
 
 	**Cité par**:
 
