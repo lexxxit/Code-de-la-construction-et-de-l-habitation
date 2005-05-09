@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -45483,8 +45483,8 @@ nommés pour une période de trois ans renouvelable par arrêté du ministre cha
 décédés ou qui perdent la qualité au titre de laquelle ils ont été nommés sont remplacés. Leurs remplaçants sont désignés
 pour la durée du mandat restant à courir.
 
-Participent, avec voix consultative, aux travaux du conseil d'administration le directeur général et le contrôleur d'Etat de
-l'agence nationale.
+Participent, avec voix consultative, aux travaux du conseil d'administration le directeur général et le membre du corps du
+contrôle général économique et financier de l'agence nationale.
 
 **Liens relatifs à cet article**
 
@@ -45505,7 +45505,7 @@ l'agence nationale.
 
 	**Modifié par**:
 
-	  - Décret n°97-143 du 14 février 1997 - art. 2 (V) JORF 16 février 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R313-35-3
@@ -47884,36 +47884,23 @@ dans les conventions passées en vertu des dispositions du présent chapitre.
 
 Les conventions prévues par l'article R. 314-4 et concernant les logements réservés aux personnels militaires ainsi que les
 avenants aux conventions déjà conclues sont, sauf en cas de délégation aux préfets donnée en application du décret n° 68-1070
-du 29 novembre 1968, signés par le ministre de la défense sur proposition d'une commission dite "Commission d'études pour le
-logement des personnels militaires", présidée par ledit ministre et composée de :
+du 29 novembre 1968, signés par le ministre de la défense sur proposition d'une commission dite " Commission d'études pour le
+logement des personnels militaires ", présidée par ledit ministre et composée de :
 
 - deux représentants du ministre chargé de la construction et de l'habitation ;
 
 - deux représentants du ministre chargé des finances ;
 
-- deux représentants du ministre de la défense.
+- deux représentants du ministre de la défense. 
 
-Indépendamment du visa du contrôleur financier pour le département des armées, ces conventions doivent être communiquées au
-préalable au ministre chargé des finances et au ministre chargé de la construction et de l'habitation, qui disposent d'un
-délai d'un mois pour y faire opposition le cas échéant.
+Indépendamment du visa du membre du corps du contrôle général économique et financier pour le département des armées, ces
+conventions doivent être communiquées au préalable au ministre chargé des finances et au ministre chargé de la construction
+et de l'habitation, qui disposent d'un délai d'un mois pour y faire opposition le cas échéant. 
 
 La commission peut convoquer toute personne qu'elle juge nécessaire d'entendre, notamment les représentants des
 administrations intéressées aux programmes de construction de logements.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R314-17, R314-18
-
-	**Anciens textes**:
-
-	  - Décret n°55-119 1955-01-19 art. 1
-
-	**Cite**:
-
-	  - Décret n°68-1070 1968-11-29
-	  - Code de la construction et de l'habitation. - art. R314-4 (M)
 
 	**Codifié par**:
 
@@ -47921,13 +47908,21 @@ administrations intéressées aux programmes de construction de logements.
 
 	**Modifié par**:
 
-	  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R314-17 (V)
 	  - Code de la construction et de l'habitation. - art. R314-18 (V)
 	  - Code de la construction et de l'habitation. - art. R441-2-9 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R314-4 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°55-119 1955-01-19 art. 1
 
 
 ###### Article R314-17
@@ -51370,8 +51365,8 @@ Le mandat du président et des membres titulaires et suppléants est d'une duré
 
 Le conseil d'administration est réuni sur convocation de son président au moins deux fois par an et de plein droit à la
 demande de la majorité des membres du conseil ou d'un des ministres de tutelle dans le mois suivant la demande. Le directeur
-général de l'agence, le contrôleur financier et l'agent comptable assistent avec voix consultative aux séances du conseil
-d'administration et, le cas échéant, à celles du comité restreint mentionné ci-après.
+général de l'agence, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix
+consultative aux séances du conseil d'administration et, le cas échéant, à celles du comité restreint mentionné ci-après.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -51389,7 +51384,7 @@ les matières mentionnées à l'article R. 321-5, à l'exception de celles figur
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cité par**:
 
