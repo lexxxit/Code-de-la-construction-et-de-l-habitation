@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-05-29
 
 # Partie législative
 
@@ -60119,7 +60119,7 @@ bases.
 
 ###### Article R*351-30
 
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la commission
 départementale des aides publiques au logement par le bailleur ou l'établissement habilité percevant l'aide personnalisée
 pour son compte.
 
@@ -60132,35 +60132,42 @@ trois échéances de prêt nettes consécutives sont totalement impayées ou lor
 l'établissement habilité d'une somme au moins égale à deux échéances de prêt brutes.
 
 Le bailleur ou l'établissement habilité doit, dans un délai de trois mois après la constitution de l'impayé défini à l'alinéa
-précédent, porter la situation du bénéficiaire défaillant à la connaissance de la section des aides publiques au logement du
-conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance. Lorsque la
-section départementale des aides publiques au logement a connaissance d'une situation d'impayé qui ne lui a pas été signalée,
-elle peut s'en saisir.
+précédent, porter la situation du bénéficiaire défaillant à la connaissance de la commission des aides publiques au logement
+du conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance. Lorsque
+la commission départementale des aides publiques au logement a connaissance d'une situation d'impayé qui ne lui a pas été
+signalée, elle peut s'en saisir.
 
 Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
-section départementale des aides pubiques au logement (SDAPL) dans les conditions suivantes :
+commission départementale des aides publiques au logement (CDAPL) dans les conditions suivantes :
 
 I. - Locatif
 
-Compte tenu de la situation du bénéficiaire, la SDAPL décide :
+Compte tenu de la situation du bénéficiaire, la CDAPL décide :
 
 - soit de renvoyer le dossier au bailleur aux fins de mettre en place, dans un délai de six mois au plus, un plan d'apurement
-de la dette. Si la SDAPL approuve ce plan, elle maintient le versement de l'A.P.L. sous réserve de la reprise du paiement du
+de la dette. Si la CDAPL approuve ce plan, elle maintient le versement de l'A.P.L. sous réserve de la reprise du paiement du
 loyer et de la bonne exécution du plan d'apurement. A défaut de réception du plan d'apurement dans le délai précité ou
-d'approbation du plan par la SDAPL et après mise en demeure du bailleur, la SDAPL peut soit suspendre le versement de l'APL,
+d'approbation du plan par la CDAPL et après mise en demeure du bailleur, la CDAPL peut soit suspendre le versement de l'APL,
 soit saisir le dispositif mentionné ci-dessous qui doit faire connaître sa décision dans un délai maximum de six mois ; il en
 est de même en cas de mauvaise exécution du plan d'apurement ou de constitution d'un nouvel impayé ;
 
 - soit de saisir directement un fonds local d'aide au logement, et notamment le fonds de solidarité pour le logement prévu à
 l'article 6 de la loi n° 90-449 du 31 mai 1990 ou tout autre dispositif ou organisme à vocation analogue, en lui demandant de
-faire connaître sa décision à la SDAPL dans un délai maximum de douze mois. Le bailleur, informé de cette saisine par la
-SDAPL, doit faire part de ses propositions au dispositif d'aide. Au vu de cette décision, la SDAPL maintient le versement de
+faire connaître sa décision à la CDAPL dans un délai maximum de douze mois. Le bailleur, informé de cette saisine par la
+CDAPL, doit faire part de ses propositions au dispositif d'aide. Au vu de cette décision, la CDAPL maintient le versement de
 l'APL sous réserve de la reprise du paiement du loyer et du respect des conditions fixées par le dispositif d'aide. Si le
-dispositif d'aide n'a pas fait connaître sa décision dans le délai précité, et après mise en demeure, la SDAPL suspend le
+dispositif d'aide n'a pas fait connaître sa décision dans le délai précité, et après mise en demeure, la CDAPL suspend le
 versement de l'APL Il en est de même en cas de non-respect des conditions fixées par le dispositif ou de constitution d'un
 nouvel impayé.
 
-L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la SDAPL.
+Toutefois, en cas de difficultés dans la mise en place du plan d'apurement ou dans l'exécution de celui-ci, dès lors que le
+locataire s'acquitte du paiement du loyer, la commission peut décider du maintien du versement de l'APL.
+
+Dans les cas de mauvaise foi avérée, lorsque la commission suspend le versement de l'APL pour non-respect du plan
+d'apurement, elle est habilitée à décider le remboursement par le bénéficiaire de l'aide versée postérieurement à
+l'interruption de l'exécution du plan.
+
+L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la CDAPL.
 
 II. - Accession
 
@@ -60169,22 +60176,28 @@ dispositions prévues au I.
 
 III. - Locatif et accession
 
-Si un dispositif d'aide a été saisi préalablement ou parallèlement à la SDAPL, celle-ci maintient le versement de l'APL et
+Si un dispositif d'aide a été saisi préalablement ou parallèlement à la CDAPL, celle-ci maintient le versement de l'APL et
 suspend l'examen du dossier pendant le délai qu'elle estime nécessaire à l'élaboration d'un plan d'apurement de la dette par
-le dispositif. A défaut de réception d'un plan d'apurement dans le délai précité ou d'approbation de la SDAPL, et après mise
-en demeure, la S.D.A.P.L. peut soit suspendre l'APL, soit renvoyer le dossier à l'établissement prêteur ou au bailleur aux
-fins de mettre en place un plan d'apurement dans un délai qu'elle fixe.
+le dispositif. A défaut de réception d'un plan d'apurement dans le délai précité ou d'approbation de la CDAPL, et après mise
+en demeure, la CDAPL peut soit suspendre l'APL, soit renvoyer le dossier à l'établissement prêteur ou au bailleur aux fins de
+mettre en place un plan d'apurement dans un délai qu'elle fixe.
 
-L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la SDAPL.
+Lorsqu'une procédure de surendettement a été engagée, préalablement ou parallèlement à la saisine de la CDAPL, devant la
+commission prévue à l'article L. 331-1 du code de la consommation, le versement de l'aide est maintenu pendant le délai prévu
+pour l'orientation du dossier de surendettement. A réception du plan conventionnel de redressement, la CDAPL maintient le
+versement de l'APL sous réserve de la reprise du paiement du loyer ou de l'échéance d'emprunt et du respect des conditions
+prévues par la commission de surendettement.
 
-Si le bailleur ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
-troisième alinéa, il pourra être fait application des dispositions de l'article L. 351-13 du présent code. En outre, la SDAPL
+L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la CDAPL.
+
+Si le bailleur ne saisit pas la commission dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+troisième alinéa, il pourra être fait application des dispositions de l'article L. 351-13 du présent code. En outre, la CDAPL
 est habilitée à décider que le bailleur ou l'établissement habilité devra rembourser à l'organisme payeur tout ou partie de
 l'aide personnalisée depuis la défaillance du bénéficiaire. Le bailleur ou l'établissement habilité ne pourra se retourner
-vers le bénéficiaire pour lui réclamer l'aide personnalisée que la SDAPL lui demande de rembourser.
+vers le bénéficiaire pour lui réclamer l'aide personnalisée que la CDAPL lui demande de rembourser.
 
-Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
-de ses obligations.
+Les organismes payeurs saisissent la commission des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à
+jour de ses obligations.
 
 **Liens relatifs à cet article**
 
@@ -60195,6 +60208,7 @@ de ses obligations.
 	**Cite**:
 
 	  - Loi n°90-449 1990-05-31 art. 6
+	  - Code de la consommation - art. L331-1 (M)
 	  - Code de la construction et de l'habitation. - art. L351-13 (M)
 
 	**Cité par**:
@@ -60211,31 +60225,80 @@ de ses obligations.
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+
+###### Article R*351-30-1
+
+Pour le bénéfice de l'aide personnalisée au logement, le protocole d'accord, conclu en application de l'article L. 353-15-2
+entre l'organisme bailleur et l'occupant d'un logement dont le bail a été résilié par décision judiciaire pour défaut de
+paiement de loyer et de charges, est signé après approbation du plan d'apurement par la commission prévue à l'article L.
+351-14.
+
+La commission fixe les modalités du versement du rappel de l'aide pendant la période comprise entre l'interruption du
+versement par l'organisme payeur et la signature du protocole.
+
+Ces modalités doivent tenir compte de la situation financière du bénéficiaire et du plan de résorption de la dette établi
+avec le bailleur. A ce titre, la commission décide du versement du rappel d'aide :
+
+- soit en une seule fois si le montant du rappel ou de la dette sont peu élevés ;
+
+- soit par versements semestriels échelonnés sur la durée du plan d'apurement et sous réserve de sa bonne exécution. Dans ce
+cas, le premier versement est effectué trois mois après la reprise du paiement par l'occupant des échéances prévues par le
+protocole.
+
+En cas de non-respect par l'occupant des engagements contenus dans le protocole, le bailleur est tenu d'en informer la
+commission qui suspend le versement du rappel. Sauf en cas de mauvaise foi avérée, la CDAPL maintient l'aide personnalisée au
+logement pendant une durée, qui ne peut excéder six mois, pour permettre la négociation d'un nouveau plan d'apurement entre
+le bailleur et l'occupant. Ce nouveau plan d'apurement fait l'objet d'un avenant au protocole, la durée totale de ce dernier
+ne pouvant être supérieure à cinq ans. Si la commission ne reçoit pas le plan d'apurement dans le délai précité, ou si elle
+ne l'approuve pas, le versement de l'aide est suspendu.
+
+Les dispositions de cet article s'appliquent également aux baux des logements appartenant à l'établissement public de gestion
+immobilière du Nord - Pas-de-Calais créé par l'article 191 de la loi n° 2000-1208 du 13 décembre 2000 relative à la
+solidarité et au renouvellement urbains, ainsi qu'aux baux des logements appartenant à des organismes concourant aux
+objectifs de la politique d'aide au logement visés à l'article L. 365-1 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 191 (M)
+	  - Code de la construction et de l'habitation. - art. L351-14 (M)
+	  - Code de la construction et de l'habitation. - art. L353-15-2 (V)
+	  - Code de la construction et de l'habitation. - art. L365-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2005-588 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 
 ###### Article R*351-31
 
 I. - Locatif
 
-Dans le cas où le bénéficiaire perçoit directement l'aide personnalisée au logement (A.P.L.) en application de l'article R.
+Dans le cas où le bénéficiaire perçoit directement l'aide personnalisée au logement (APL) en application de l'article R.
 351-27 et s'il se trouve en situation d'impayé au sens de l'article R. 351-30, le bailleur peut obtenir de l'organisme payeur
 le versement entre ses mains de cette aide en lieu et place du bénéficiaire.
 
-A réception de la demande, l'organisme payeur en informe la S.D.A.P.L. et le bénéficiaire et lui notifie son intention de
-procéder au versement au bailleur des mensualités d'A.P.L., sauf si l'intéressé justifie par tous moyens avoir soldé sa dette
-de loyer avant l'expiration d'un délai d'un mois à compter de cette notification.
+A réception de la demande, l'organisme payeur en informe la CDAPL et le bénéficiaire et lui notifie son intention de procéder
+au versement au bailleur des mensualités d'APL, sauf si l'intéressé justifie par tous moyens avoir soldé sa dette de loyer
+avant l'expiration d'un délai d'un mois à compter de cette notification.
 
-Le versement de l'A.P.L. est effectué entre les mains du bailleur à compter de l'expiration du délai d'un mois.
+Le versement de l'APL est effectué entre les mains du bailleur à compter de l'expiration du délai d'un mois.
 
-Sauf en cas de mauvaise foi avérée, le versement de l'aide est maintenu sur décision de la section départementale des aides
-publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30.
+Sauf en cas de mauvaise foi avérée, le versement de l'aide est maintenu sur décision de la commission départementale des
+aides publiques au logement (CDAPL) dans les conditions prévues à l'article R. 351-30.
 
-L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la S.D.A.P.L.
+L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par la CDAPL.
 
 Au terme du plan d'apurement, le versement de l'aide au bénéficiaire est repris si celui-ci est à jour vis-à-vis de son
-bailleur. Toutefois, sur demande du bailleur et du bénéficiaire, la S.D.A.P.L. peut décider de reconduire, pour une période
-qu'elle fixe, le versement de l'A.P.L. entre les mains du bailleur.
+bailleur. Toutefois, sur demande du bailleur et du bénéficiaire, la CDAPL peut décider de reconduire, pour une période
+qu'elle fixe, le versement de l'APL entre les mains du bailleur.
 
 II. - Accession
 
@@ -60249,15 +60312,15 @@ au I.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Modifié par**:
-
-	  - Décret n°90-880 du 28 septembre 1990 - art. 7 () JORF 30 septembre 1990
-
 	**Cité par**:
 
 	  - Arrêté du 16 mars 1992 - art. 5 (Ab)
 	  - Arrêté du 22 août 1986 - art. 4 (M)
 	  - Code de la construction et de l'habitation. - art. R321-36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cite**:
 
@@ -60712,11 +60775,11 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	  - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-##### Section 3 : Section départementale des aides publiques au logement.
+##### Section 3 : Commission départementale des aides publiques au logement.
 
 ###### Article R*351-48
 
-La section départementale des aides publiques au logement est présidée par le préfet ou son représentant.
+La commission départementale des aides publiques au logement est présidée par le préfet ou son représentant.
 
 Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
 travail, de l'emploi et de la politique sociale agricoles compétent, du directeur départemental des affaires sanitaires et
@@ -60736,8 +60799,7 @@ Son secrétariat est assuré par les services départementaux du ministère char
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, III, IV JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -60749,17 +60811,17 @@ Son secrétariat est assuré par les services départementaux du ministère char
 
 ###### Article R351-47
 
-Les compétences prévues à l'article L. 351-14 sont exercées par une commission dénommée "section départementale des aides
-publiques au logement". Dans les conditions déterminées par l'article R. 351-49, cette section :
+Les compétences prévues à l'article L. 351-14 sont exercées par une commission dénommée "commission départementale des aides
+publiques au logement". Dans les conditions déterminées par l'article R. 351-49, cette commission :
 
-1. Décide, selon les modalités fixées par les articles R. 351-30, R. 351-31 et R. 351-64, du maintien du versement de l'aide
+1. Décide, selon les modalités fixées par les articles R. 351-30 à R. 351-31 et R. 351-64, du maintien du versement de l'aide
 personnalisée au logement lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge ;
 
 2. Statue, selon les modalités fixées par l'article R. 351-50, sur les demandes de remise de dettes présentées à titre
 gracieux par les bénéficiaires de l'aide personnalisée au logement en cas de réclamation d'un trop-perçu effectuée par
 l'organisme payeur ;
 
-3. Statue, selon les modalités fixées par les articles R. 351-50 et R. 351-51, sur les contestations des décisions des
+3. Statue, selon les modalités fixées par les articles R. 351-50 à R. 351-51, sur les contestations des décisions des
 organismes ou services chargés du paiement de l'aide personnalisée au logement ou de la prime de déménagement.
 
 Elle formule en outre des recommandations concernant les mesures susceptibles de faciliter la régularisation de la situation
@@ -60773,15 +60835,14 @@ des bénéficiaires d'aide à la personne défaillants.
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, II JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 3 () JORF 29 mai 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L351-14, R351-49, R351-50 à R351-51
 	  - Code de la construction et de l'habitation. - art. L351-14 (M)
 	  - Code de la construction et de l'habitation. - art. R351-49 (M)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-51 (M)
 
 	**Cité par**:
 
@@ -60792,13 +60853,13 @@ des bénéficiaires d'aide à la personne défaillants.
 
 ###### Article R351-49
 
-La section départementale des aides publiques au logement délibère valablement lorsque quatre au moins de ses membres, dont
-le président, sont présents. Ses décisions sont prises à la majorité des voix des membres présents ou représentés, sauf dans
-le cas d'une délibération portant délégation en application de l'article R. 351-52 où la décision est prise à la majorité des
-membres composant la section départementale des aides publiques au logement. En cas de partage égal des voix, celle du
-président est prépondérante.
+La commission départementale des aides publiques au logement délibère valablement lorsque quatre au moins de ses membres,
+dont le président, sont présents. Ses décisions sont prises à la majorité des voix des membres présents ou représentés, sauf
+dans le cas d'une délibération portant délégation en application de l'article R. 351-52 où la décision est prise à la
+majorité des membres composant la commission départementale des aides publiques au logement. En cas de partage égal des voix,
+celle du président est prépondérante.
 
-La section départementale des aides publiques au logement peut, avant de statuer, demander toute enquête ou supplément
+La commission départementale des aides publiques au logement peut, avant de statuer, demander toute enquête ou supplément
 d'information nécessaire ou, à l'initiative de son président, auditionner toute personne.
 
 **Liens relatifs à cet article**
@@ -60809,8 +60870,7 @@ d'information nécessaire ou, à l'initiative de son président, auditionner tou
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -60824,21 +60884,21 @@ d'information nécessaire ou, à l'initiative de son président, auditionner tou
 ###### Article R351-50
 
 Lorsqu'elle est saisie d'une demande gracieuse de remise de dettes ou d'un recours administratif contestant une décision d'un
-organisme ou service chargé du paiement de l'aide personnalisée au logement ou de la prime de déménagement, la section
+organisme ou service chargé du paiement de l'aide personnalisée au logement ou de la prime de déménagement, la commission
 départementale des aides publiques au logement en accuse réception, soit par la délivrance d'un récépissé, soit par lettre
 dans les quinze jours, en indiquant les délais et voies de recours.
 
-La section notifie sa décision à la personne intéressée dans un délai de deux mois par lettre recommandée avec demande d'avis
-de réception. La notification comporte l'indication de la possibilité d'un recours contentieux devant le tribunal
+La commission notifie sa décision à la personne intéressée dans un délai de deux mois par lettre recommandée avec demande
+d'avis de réception. La notification comporte l'indication de la possibilité d'un recours contentieux devant le tribunal
 administratif dans le ressort duquel est situé le logement ayant donné lieu à la décision et du délai dans lequel ce recours
 contentieux doit être exercé.
 
-Lorsque la décision de la section départementale des aides publiques au logement n'a pas été portée à la connaissance de
+Lorsque la décision de la commission départementale des aides publiques au logement n'a pas été portée à la connaissance de
 l'intéressé dans ce délai de deux mois, l'intéressé peut considérer sa demande gracieuse ou son recours administratif comme
 rejeté tacitement et se pourvoir devant le tribunal administratif.
 
 Le délai de deux mois prévu aux alinéas précédents court à compter de la réception de la demande gracieuse ou du recours
-administratif par la section départementale des aides publiques au logement. Toutefois, si un document est produit par
+administratif par la commission départementale des aides publiques au logement. Toutefois, si un document est produit par
 l'intéressé après le dépôt de sa demande gracieuse ou de son recours administratif, le délai ne court qu'à dater de la
 réception de ce document.
 
@@ -60850,8 +60910,7 @@ réception de ce document.
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -60865,17 +60924,17 @@ réception de ce document.
 ###### Article R351-51
 
 Les contestations des décisions prises en matière d'aide personnalisée au logement ou de prime de déménagement par les
-organismes ou services payeurs sont portées sous forme de recours administratifs devant la section départementale des aides
-publiques au logement dans le ressort de laquelle est situé le logement au titre duquel la décision a été prise.
+organismes ou services payeurs sont portées sous forme de recours administratifs devant la commission départementale des
+aides publiques au logement dans le ressort de laquelle est situé le logement au titre duquel la décision a été prise.
 
-La section doit être saisie dans le délai de deux mois à compter de la notification de la décision de l'organisme ou service
-payeur que l'intéressé entend contester. Les recours sont adressés au secrétariat de la section. Ils sont rédigés sur papier
-libre et accompagnés d'un exemplaire de la décision faisant l'objet du recours administratif. Ils comportent un exposé
-sommaire des motifs invoqués à leur appui.
+La commission doit être saisie dans le délai de deux mois à compter de la notification de la décision de l'organisme ou
+service payeur que l'intéressé entend contester. Les recours sont adressés au secrétariat de la commission. Ils sont rédigés
+sur papier libre et accompagnés d'un exemplaire de la décision faisant l'objet du recours administratif. Ils comportent un
+exposé sommaire des motifs invoqués à leur appui.
 
 La notification de la décision de l'organisme ou service payeur comporte la mention de la possibilité, dans les conditions
-prévues à l'article R. 351-50, d'un recours administratif auprès de la section départementale des aides publiques au logement
-compétente ainsi que l'adresse du secrétariat de cette commission.
+prévues à l'article R. 351-50, d'un recours administratif auprès de la commission départementale des aides publiques au
+logement compétente ainsi que l'adresse du secrétariat de cette commission.
 
 **Liens relatifs à cet article**
 
@@ -60885,8 +60944,7 @@ compétente ainsi que l'adresse du secrétariat de cette commission.
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -60902,20 +60960,20 @@ compétente ainsi que l'adresse du secrétariat de cette commission.
 
 ###### Article R351-52
 
-La section départementale des aides publiques au logement peut déléguer par voie de convention tout ou partie des compétences
-mentionnées aux 2 et 3 de l'article R. 351-47 aux organismes ou services chargés dans le département du paiement de l'aide
-personnalisée au logement et de la prime de déménagement. La convention énonce précisément les compétences déléguées.
-Notamment lorsque le montant des sommes contestées ou faisant l'objet d'une demande de remise de dettes constitue un critère
-de délégation, elle indique ce montant.
+La commission départementale des aides publiques au logement peut déléguer par voie de convention tout ou partie des
+compétences mentionnées aux 2 et 3 de l'article R. 351-47 aux organismes ou services chargés dans le département du paiement
+de l'aide personnalisée au logement et de la prime de déménagement. La convention énonce précisément les compétences
+déléguées. Notamment lorsque le montant des sommes contestées ou faisant l'objet d'une demande de remise de dettes constitue
+un critère de délégation, elle indique ce montant.
 
 La convention détermine les modalités de l'exercice des compétences déléguées. Elle rappelle que l'organisme ou service
-délégataire est substitué à la section départementale des aides publiques au logement et à son secrétariat pour l'application
-des articles R. 351-50 et R. 351-51. Elle prévoit notamment que les demandes gracieuses ou recours administratifs sont
-adressés directement à l'organisme ou service délégataire et que ce dernier recueille, préalablement à toute décision, l'avis
-de la commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale. Elle fixe les conditions de
-sa dénonciation par l'une ou l'autre des parties, notamment le délai de préavis.
+délégataire est substitué à la commission départementale des aides publiques au logement et à son secrétariat pour
+l'application des articles R. 351-50 et R. 351-51. Elle prévoit notamment que les demandes gracieuses ou recours
+administratifs sont adressés directement à l'organisme ou service délégataire et que ce dernier recueille, préalablement à
+toute décision, l'avis de la commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale. Elle
+fixe les conditions de sa dénonciation par l'une ou l'autre des parties, notamment le délai de préavis.
 
-La convention de délégation est approuvée par arrêté préfectoral après délibération de la section départementale des aides
+La convention de délégation est approuvée par arrêté préfectoral après délibération de la commission départementale des aides
 publiques au logement dans les conditions fixées au premier alinéa de l'article R. 351-49.
 
 **Liens relatifs à cet article**
@@ -60926,8 +60984,7 @@ publiques au logement dans les conditions fixées au premier alinéa de l'articl
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 2005-03-23 art. 3 I, V JORF 24 mars 2005
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cite**:
 
@@ -61455,27 +61512,27 @@ caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
 
 ###### Article R351-64
 
-Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la commission
 départementale des aides publiques au logement par le gestionnaire percevant l'aide personnalisée pour son compte.
 
 L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
 débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
 
 Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
-situation du bénéficiaire défaillant à la connaissance de la section départementale des aides publiques publiques au logement
-et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
+situation du bénéficiaire défaillant à la connaissance de la commission départementale des aides publiques publiques au
+logement et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
 
-Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (A.P.L.) est maintenu sur décision de la
-section départementale des aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article R. 351-30.
+Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au logement (APL) est maintenu sur décision de la
+commission départementale des aides publiques au logement (CDAPL) dans les conditions prévues à l'article R. 351-30.
 
-Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+Si le gestionnaire ne saisit pas la commission dans les délais susmentionnés ou n'apporte pas les justifications prévues au
 troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
 l'aide personnalisée versée depuis la défaillance du bénéficiaire. Le gestionnaire ne pourra se retourner vers le
-bénéficiaire pour lui réclamer l'aide personnalisée que la section départementale des aides publiques au logement lui demande
-de rembourser.
+bénéficiaire pour lui réclamer l'aide personnalisée que la commission départementale des aides publiques au logement lui
+demande de rembourser.
 
-Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
-de ses obligations.
+Les organismes payeurs saisissent la commission des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à
+jour de ses obligations.
 
 **Liens relatifs à cet article**
 
@@ -61485,7 +61542,7 @@ de ses obligations.
 
 	**Modifié par**:
 
-	  - Décret n°2005-260 du 23 mars 2005 - art. 3 () JORF 24 mars 2005
+	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
