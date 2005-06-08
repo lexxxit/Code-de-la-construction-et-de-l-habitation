@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-06-09
 
 # Partie législative
 
@@ -974,13 +974,17 @@ assimilable à celle d'un locateur d'ouvrage.
 ###### Article L111-15
 
 La présomption de responsabilité établie par l'article 1792 du code civil reproduit à l'article L. 111-13 du présent code
-s'étend également [*définition*] aux dommages qui affectent la solidité des éléments d'équipement d'un bâtiment, mais
-seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou
-de couvert.
+s'étend également aux dommages qui affectent la solidité des éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-
+ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert. 
 
-Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa
-précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de
-matière de cet ouvrage.
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages de viabilité, de
+fondation, d'ossature, de clos ou de couvert lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans
+détérioration ou enlèvement de matière de cet ouvrage.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -988,12 +992,19 @@ matière de cet ouvrage.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance 2005-658 2005-06-08 art. 4 I, II JORF 9 juin 2005
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
 	**Cite**:
 
 	  - Code civil - art. 1792 (V)
-	  - Code civil 1792, Code civil 1792-2
 	  - Code de la construction et de l'habitation. - art. L111-13 (V)
-	  - Loi n°12 1978-01-04 art. 2 citation
 
 	**Cité par**:
 
@@ -1005,8 +1016,13 @@ matière de cet ouvrage.
 
 ###### Article L111-16
 
-Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
-ans à compter de la réception de l'ouvrage.
+Les autres éléments d'équipement de l'ouvrage font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
+ans à compter de sa réception.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1014,10 +1030,13 @@ ans à compter de la réception de l'ouvrage.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Cite**:
+	**Liens**:
 
-	  - Code civil - art. 1792-3 (M)
-	  - Loi n°12 1978-01-04 art. 2 citation
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 	**Cité par**:
 
@@ -1136,6 +1155,44 @@ La garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets d
 	  - Loi n°12 1978-01-04 art. 2 citation
 
 
+###### Article L111-19-1
+
+Ne sont pas considérés comme des éléments d'équipement d'un ouvrage au sens des articles 1792, 1792-2, 1792-3 et 1792-4 du
+code civil reproduits aux articles L. 111-13, L. 111-15, L. 111-16 et L. 111-17 du présent code, les éléments d'équipement, y
+compris leurs accessoires, dont la fonction exclusive est de permettre l'exercice d'une activité professionnelle dans
+l'ouvrage.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 11
+
+	**Cite**:
+
+	  - Code civil - art. 1792
+	  - Code civil - art. 1792-2
+	  - Code civil - art. 1792-3
+	  - Code civil - art. 1792-4
+	  - Code de la construction et de l'habitation. - art. L111-13
+	  - Code de la construction et de l'habitation. - art. L111-15
+	  - Code de la construction et de l'habitation. - art. L111-16
+	  - Code de la construction et de l'habitation. - art. L111-17
+
+
 ###### Article L111-20
 
 Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles 1792 à 1792-4 du code civil,
@@ -1216,8 +1273,14 @@ temporaire ou définitive est prononcée après avis d'une commission, dans des 
 Le contrôleur technique a pour mission de contribuer à la prévention des différents aléas techniques susceptibles d'être
 rencontrés dans la réalisation des ouvrages.
 
-Il intervient à la demande du maître de l'ouvrage et donne son avis à ce dernier sur les problèmes d'ordre technique. Cet
-avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage et la sécurité des personnes.
+Il intervient à la demande du maître de l'ouvrage et donne son avis à ce dernier sur les problèmes d'ordre technique, dans le
+cadre du contrat qui le lie à celui-ci. Cet avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage et
+la sécurité des personnes.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1268,9 +1331,13 @@ avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
 	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 
 ###### Article L111-24
@@ -1278,6 +1345,15 @@ avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage
 Le contrôleur technique est soumis, dans les limites de la mission à lui confiée par le maître de l'ouvrage à la présomption
 de responsabilité édictée par les articles 1792, 1792-1 et 1792-2 du code civil, reproduits aux articles L. 111-13 à L.
 111-15, qui se prescrit dans les conditions prévues à l'article 2270 du même code reproduit à l'article L. 111-20.
+
+Le contrôleur technique n'est tenu vis-à-vis des constructeurs à supporter la réparation de dommages qu'à concurrence de la
+part de responsabilité susceptible d'être mise à sa charge dans les limites des missions définies par le contrat le liant au
+maître d'ouvrage.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1289,18 +1365,13 @@ de responsabilité édictée par les articles 1792, 1792-1 et 1792-2 du code civ
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
 	**Modifié par**:
 
-	  - Décret n°78-1146 1978-12-07 art. 1 JORF 9 décembre 1978
-
-	**Cite**:
-
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-1 (V)
-	  - Code civil - art. 1792-2 (M)
-	  - Code civil - art. 2270 (M)
-	  - Code de la construction et de l'habitation L111-13 à L111-15, L111-20
-	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 
 ###### Article L111-25
@@ -1377,44 +1448,71 @@ l'accessibilité aux personnes handicapées.
 	  - Code de l'action sociale et des familles - art. D114-4 (M)
 
 
-##### Section 8 : Assurance des travaux de bâtiment.
+##### Section 8 : Assurance des travaux de construction.
 
 ###### Article L111-27
 
 L'assurance obligatoire des travaux de bâtiment est régie par le titre IV du livre II du code des assurances ci-après
 reproduit aux articles L. 111-28 à L. 111-39.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L111-28 à L111-39
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
 
 
 ##### Sous-section 1 : Assurance de responsabilité obligatoire.
 
 ###### Article L111-28
 
-Toute personne physique ou morale dont la responsabilité peut être engagée sur le fondement de la présomption établie par les
-articles 1792 et suivants du code civil, reproduits aux articles L. 111-13 à L. 111-19, à propos de travaux de bâtiment doit
-être couverte par une assurance.
+Toute personne physique ou morale dont la responsabilité décennale peut être engagée sur le fondement de la présomption
+établie par les articles 1792 et suivants du code civil, reproduits aux articles L. 111-13 à L. 111-19, doit être couverte
+par une assurance.
 
 A l'ouverture de tout chantier, elle doit être en mesure de justifier qu'elle a souscrit un contrat d'assurance la couvrant
 pour cette responsabilité.
 
 Tout contrat d'assurance souscrit en vertu du présent article est, nonobstant toute stipulation contraire, réputé comporter
-une clause assurant le maintien de la garantie pour la durée de la responsabilité pesant sur la personne assujettie à
-l'obligation d'assurance.
+une clause assurant le maintien de la garantie pour la durée de la responsabilité décennale pesant sur la personne assujettie
+à l'obligation d'assurance.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance 2005-658 2005-06-08 art. 4 VII, VIII, IX JORF 9 juin 2005
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
 
 	**Cite**:
 
@@ -1434,11 +1532,16 @@ l'obligation d'assurance.
 
 ###### Article L111-29
 
-Celui qui fait réaliser pour le compte d'autrui des travaux de bâtiment mentionnés à l'article précédent doit être couvert
-par une assurance de responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil, reproduits aux
-articles L. 111-13 et L. 111-15, et résultant de son fait.
+Celui qui fait réaliser pour le compte d'autrui des travaux de construction doit être couvert par une assurance de
+responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil, reproduits aux articles L. 111-13
+et L. 111-15, et résultant de son fait. 
 
-Il en est de même lorsque les bâtiments sont construits en vue de la vente.
+Il en est de même lorsque les travaux de construction sont réalisés en vue de la vente.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1446,10 +1549,19 @@ Il en est de même lorsque les bâtiments sont construits en vue de la vente.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance 2005-658 2005-06-08 art. 4 VII, X, XI JORF 9 juin 2005
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
 	**Cite**:
 
 	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-2 (M)
+	  - Code de la construction et de l'habitation. - art. L111-13 (V)
 
 	**Cité par**:
 
@@ -1461,24 +1573,52 @@ Il en est de même lorsque les bâtiments sont construits en vue de la vente.
 
 ###### Article L111-30
 
-Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du
-propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son
-compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des
-responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les
-constructeurs au sens de l'article 1792-1 du code civil, reproduit à l'article L. 111-14, les fabricants et importateurs ou
-le contrôleur technique sur le fondement de l'article 1792 du même code, reproduit à l'article L. 111-13.
+Les règles relatives à l'assurance dommage obligatoire sont fixées par l'article L. 242-1 du code des assurances reproduit
+ci-après : 
 
-Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6 du code
-civil reproduit à l'article L. 111-19. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
+" Art.L. 242-1-Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de
+mandataire du propriétaire de l'ouvrage, fait réaliser des travaux de construction, doit souscrire avant l'ouverture du
+chantier, pour son compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute
+recherche des responsabilités, le paiement de la totalité des travaux de réparation des dommages de la nature de ceux dont
+sont responsables les constructeurs au sens de l'article 1792-1 du code civil, les fabricants et importateurs ou le
+contrôleur technique sur le fondement de l'article 1792 du même code. 
 
-Avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est
-résilié pour inexécution, par celui-ci, de ses obligations ;
+" Toutefois, l'obligation prévue au premier alinéa ne s'applique ni aux personnes morales de droit public ni aux personnes
+morales exerçant une activité dont l'importance dépasse les seuils prévus au dernier alinéa de l'article L. 111-6, lorsque
+ces personnes font réaliser pour leur compte des travaux de construction pour un usage autre que l'habitation. 
 
-Après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
+" L'assureur a un délai maximal de soixante jours, courant à compter de la réception de la déclaration du sinistre, pour
+notifier à l'assuré sa décision quant au principe de la mise en jeu des garanties prévues au contrat. 
 
-Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 du code des assurances même si elle ne
-gère pas les risques régis par les articles L. 241-1 et L. 241-2 de ce code, reproduits aux articles L. 111-28 et L. 111-29,
-est habilitée à prendre en charge les risques prévus au présent article.
+" Lorsqu'il accepte la mise en jeu des garanties prévues au contrat, l'assureur présente, dans un délai maximal de quatre-
+vingt-dix jours, courant à compter de la réception de la déclaration du sinistre, une offre d'indemnité, revêtant le cas
+échéant un caractère provisionnel et destinée au paiement des travaux de réparation des dommages. En cas d'acceptation, par
+l'assuré, de l'offre qui lui a été faite, le règlement de l'indemnité par l'assureur intervient dans un délai de quinze
+jours. 
+
+" Lorsque l'assureur ne respecte pas l'un des délais prévus aux deux alinéas ci-dessus ou propose une offre d'indemnité
+manifestement insuffisante, l'assuré peut, après l'avoir notifié à l'assureur, engager les dépenses nécessaires à la
+réparation des dommages.L'indemnité versée par l'assureur est alors majorée de plein droit d'un intérêt égal au double du
+taux de l'intérêt légal. 
+
+" Dans les cas de difficultés exceptionnelles dues à la nature ou à l'importance du sinistre, l'assureur peut, en même temps
+qu'il notifie son accord sur le principe de la mise en jeu de la garantie, proposer à l'assuré la fixation d'un délai
+supplémentaire pour l'établissement de son offre d'indemnité. La proposition doit se fonder exclusivement sur des
+considérations d'ordre technique et être motivée. 
+
+" Le délai supplémentaire prévu à l'alinéa qui précède est subordonné à l'acceptation expresse de l'assuré et ne peut excéder
+cent trente-cinq jours. 
+
+" L'assurance mentionnée au premier alinéa du présent article prend effet après l'expiration du délai de garantie de parfait
+achèvement visé à l'article 1792-6 du code civil. Toutefois, elle garantit le paiement de réparations nécessaires lorsque : 
+
+"-avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur
+est résilié pour inexécution, par celui-ci, de ses obligations ; 
+
+"-après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations. 
+
+" Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1, même si elle ne gère pas les risques
+régis par les articles L. 241-1 et L. 241-2, est habilitée à prendre en charge les risques prévus au présent article. "
 
 **Liens relatifs à cet article**
 
@@ -1499,19 +1639,23 @@ est habilitée à prendre en charge les risques prévus au présent article.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance 2005-658 2005-06-08 art. 4 VII, XII JORF 9 juin 2005
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+	  - PILOTE_SUIVEUR: Code des assurances - art. L242-1 (V)
+
 	**Cite**:
 
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-1 (V)
 	  - Code civil - art. 1792-6 (V)
-	  - Code des assurances - art. L241-1 (M)
-	  - Code des assurances - art. L241-2 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code de la construction et de l'habitation. - art. L111-13 (V)
-	  - Code de la construction et de l'habitation. - art. L111-14 (V)
-	  - Code de la construction et de l'habitation. - art. L111-19 (V)
-	  - Code de la construction et de l'habitation. - art. L111-28 (M)
-	  - Code de la construction et de l'habitation. - art. L111-29 (M)
+	  - Code de la construction et de l'habitation. - art. L111-6 (M)
+	  - Code de la construction et de l'habitation. - art. L241-1 (M)
+	  - Code de la construction et de l'habitation. - art. L241-2 (M)
+	  - Code de la construction et de l'habitation. - art. L321-1 (M)
 
 
 ###### Article L111-31
@@ -1519,8 +1663,12 @@ est habilitée à prendre en charge les risques prévus au présent article.
 Dans les cas prévus par les articles 1831-1 à 1831-5 du code civil relatifs au contrat de promotion immobilière repris aux
 articles L. 221-1 à L. 221-5 du présent code ainsi que par les articles L. 222-1, L. 222-2, L. 222-3 d, avant dernier et
 dernier alinéas, L. 222-4 et L. 222-5, les obligations définies aux articles L. 241-2 et L. 242-1 du code des assurances,
-reproduits aux articles L. 111-28 [*assurance de responsabilité obligatoire*] et L. 111-30, incombent au promoteur
-immobilier.
+reproduits aux articles L. 111-28 et L. 111-30, incombent au promoteur immobilier.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1528,20 +1676,25 @@ immobilier.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code civil 1831-1 à 1831-5
+	  - Code civil - art. 1831-1 (V)
 	  - Code des assurances - art. L241-2 (M)
-	  - Code des assurances - art. L242-1 (M)
-	  - Code de la construction et de l'habitation L221-1 à L221-5, L222-1, L222-2, L222-3, L111-28, L111-30
-	  - Code de la construction et de l'habitation. - art. L111-28 (M)
-	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
+	  - Code de la construction et de l'habitation. - art. L221-1 (V)
 	  - Code de la construction et de l'habitation. - art. L222-1 (V)
-	  - Code de la construction et de l'habitation. - art. L222-2 (M)
-	  - Code de la construction et de l'habitation. - art. L222-3 (V)
+	  - Code de la construction et de l'habitation. - art. L222-4 (V)
 
 
-##### Sous-section 3 : Dispositions communes aux assurances de bâtiment.
+##### Sous-section 3 : Dispositions communes aux assurances de construction.
 
 ###### Article L111-32
 
@@ -1549,43 +1702,124 @@ Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit po
 partielles peuvent être accordées par l'autorité administrative aux collectivités locales et à leurs groupements, ainsi
 qu'aux établissements publics, justifiant de moyens permettant la réparation rapide et complète des dommages.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code des assurances L243-1 (citation)
+	  - Code des assurances - art. L243-1 (M)
+
+
+###### Article L111-32-1
+
+Les obligations d'assurance prévues aux articles L. 241-1, L. 241-2 et L. 242-1 du code des assurances, reproduits aux
+articles L. 111-28, L. 111-29 et L. 111-30 du présent code, sont limitées dans des conditions définies par l'article L.
+243-1-1 du code des assurances reproduit ci-après : 
+
+" Art.L. 243-1-1-I.-Ne sont pas soumis aux obligations d'assurance édictées par les articles L. 241-1, L. 241-2 et L. 242-1
+les ouvrages maritimes, lacustres, fluviaux, les ouvrages d'infrastructures routières, portuaires, aéroportuaires,
+héliportuaires, ferroviaires, les ouvrages de traitement de résidus urbains, de déchets industriels et d'effluents, ainsi que
+les éléments d'équipement de l'un ou l'autre de ces ouvrages. 
+
+" Les voiries, les ouvrages piétonniers, les parcs de stationnement, les réseaux divers, les canalisations, les lignes ou
+câbles et leurs supports, les ouvrages de transport, de production, de stockage et de distribution d'énergie, les ouvrages de
+télécommunications, les ouvrages sportifs non couverts, ainsi que leurs éléments d'équipement, sont également exclus des
+obligations d'assurance mentionnées au premier alinéa, sauf si l'ouvrage ou l'élément d'équipement est accessoire à un
+ouvrage soumis à ces obligations d'assurance. 
+
+" II.-Ces obligations d'assurance ne sont pas applicables aux ouvrages existants avant l'ouverture du chantier, à l'exception
+de ceux qui, totalement incorporés dans l'ouvrage neuf, en deviennent techniquement indivisibles. "
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+	  - PILOTE_SUIVEUR: Code des assurances - art. L243-1-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L241-1 (M)
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code de la construction et de l'habitation L111-28, L111-29, L111-30, 5, 2
+	  - Code de la construction et de l'habitation. - art. L111-28 (M)
+	  - Code de la construction et de l'habitation. - art. L111-29 (M)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
 
 
 ###### Article L111-33
 
 Les personnes soumises aux obligations prévues par les articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux
-articles L. 111-28 à L. 111-30 [*assurance de responsabilité obligatoire*], doivent être en mesure de justifier qu'elles ont
-satisfait auxdites obligations.
+articles L. 111-28 à L. 111-30, doivent être en mesure de justifier qu'elles ont satisfait auxdites obligations.
 
 Lorsqu'un acte intervenant avant l'expiration du délai de dix ans prévu à l'article 2270 du code civil, reproduit à l'article
 L. 111-20, a pour effet de transférer la propriété ou la jouissance du bien, quelle que soit la nature du contrat destiné à
 conférer ces droits, à l'exception toutefois des baux à loyer, mention doit être faite dans le corps de l'acte ou en annexe
 de l'existence ou de l'absence d'assurance.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 
 ###### Article L111-34
 
 Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du code des assurances, reproduits aux articles L.
 111-28 à L. 111-30, sera puni d'un emprisonnement de six mois et d'une amende de 75 000 euros ou de l'une de ces deux peines
-seulement.
+seulement. 
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
 elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1600,18 +1834,16 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 	**Cite**:
 
-	  - Code des assurances L241-1 à L242-1
-	  - Code de la construction et de l'habitation L111-28 à L111-30
+	  - Code des assurances - art. L241-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
 
 
 ###### Article L111-35
@@ -1625,11 +1857,24 @@ Le bureau central de tarification a pour rôle exclusif de fixer le montant de l
 d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut déterminer le montant d'une franchise
 qui reste à la charge de l'assuré.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 	**Cite**:
 
@@ -1641,22 +1886,40 @@ qui reste à la charge de l'assuré.
 Est nulle toute clause des traités de réassurance tendant à exclure certains risques de la garantie de réassurance en raison
 de la tarification adoptée par le bureau central de tarification.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code des assurances L243-5 (citation)
+	  - Code des assurances - art. L243-5 (M)
 
 
 ###### Article L111-37
 
 Toute entreprise d'assurance qui maintient son refus de garantir un risque dont la prime a été fixée par le bureau central de
 tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de
-l'agrément administratif prévu par l'article L. 321-1 du code des assurances [*sanction*].
+l'agrément administratif prévu par l'article L. 321-1 du code des assurances.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1664,20 +1927,32 @@ l'agrément administratif prévu par l'article L. 321-1 du code des assurances [
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances L243-6 (citation)
+	  - Code des assurances - art. L321-1 (T)
 
 
 ###### Article L111-38
 
-Les dispositions de l'article L. 113-16 et du deuxième alinéa de l'article L. 121-10 du code des assurances [*résiliation du
-contrat*] ne sont pas applicables aux assurances obligatoires prévues par le titre IV du livre II du code des assurances
-repris aux articles L. 111-28 à L. 111-39.
+Les dispositions de l'article L. 113-16 et du deuxième alinéa de l'article L. 121-10 du code des assurances ne sont pas
+applicables aux assurances obligatoires prévues par le titre IV du livre II du code des assurances repris aux articles L.
+111-28 à L. 111-39. 
 
 Les victimes des dommages prévus par les sections V, VI, VII et VIII ont la possibilité d'agir directement contre l'assureur
 du responsable desdits dommages si ce dernier est en règlement judiciaire ou en liquidation de biens.
+
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -1685,14 +1960,19 @@ du responsable desdits dommages si ce dernier est en règlement judiciaire ou en
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 en vigueur le 1er janvier 1979, rectificatif JORF 31 janvier 1979
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L121-10 (M)
-	  - Code de la construction et de l'habitation L113-16, L111-28 à L111-39
+	  - Code des assurances - art. L113-16 (M)
+	  - Code des assurances - art. L121-10 (V)
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
 
 
 ###### Article L111-39
@@ -1701,16 +1981,28 @@ Tout contrat d'assurance souscrit par une personne assujettie à l'obligation d'
 nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses
 types prévues par l'article L. 310-7 du code des assurances.
 
+**Nota:**
+
+Ordonnance n° 2005-658 art. 5 : Les dispositions du présent titre (titre Ier), à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-658 2005-06-08 art. 5 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 4 () JORF 9 juin 2005
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-7 (M)
-	  - Code des assurances L243-8 (citation)
 
 
 ##### Section 9 : Dispositions communes.
@@ -3606,7 +3898,92 @@ n'ont pas satisfait aux obligations du présent chapitre.
 	  - Loi n°99-471 du 8 juin 1999 - art. 5 () JORF 9 juin 1999
 
 
-#### Chapitre IV : Diagnostic de performance énergétique
+###### Article L133-4
+
+Dès qu'il a connaissance de la présence de termites dans un immeuble bâti ou non bâti, l'occupant de l'immeuble contaminé en
+fait la déclaration en mairie. A défaut d'occupant, la déclaration incombe au propriétaire. Pour les parties communes d'un
+immeuble relevant de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, la
+déclaration incombe au syndicat des copropriétaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 1965-07-10
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 16 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R133-3 (V)
+	  - Code de la construction et de l'habitation. - art. R133-6 (V)
+
+
+###### Article L133-5
+
+Lorsque, dans une ou plusieurs communes, des foyers de termites sont identifiés, un arrêté préfectoral, pris sur proposition
+ou après consultation des conseils municipaux, délimite les zones contaminées ou susceptibles de l'être à court terme.
+
+En cas de démolition totale ou partielle d'un bâtiment situé dans ces zones, les bois et matériaux contaminés sont incinérés
+sur place ou traités avant tout transport si leur destruction par incinération sur place est impossible. La personne qui a
+procédé à ces opérations en fait la déclaration en mairie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 16 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 27 juin 2006 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L133-6 (V)
+	  - Code de la construction et de l'habitation. - art. R112-3 (V)
+	  - Code de la construction et de l'habitation. - art. R133-4 (V)
+	  - Code de la construction et de l'habitation. - art. R133-5 (V)
+	  - Code de la construction et de l'habitation. - art. R133-6 (V)
+
+
+###### Article L133-6
+
+En cas de vente de tout ou partie d'un immeuble bâti situé dans une zone délimitée en application de l'article L. 133-5, un
+état relatif à la présence de termites est produit dans les conditions et selon les modalités prévues aux articles L. 271-4 à
+L. 271-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 16 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L133-5, L271-4 à L271-6
+	  - Code de la construction et de l'habitation. - art. L133-5 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L271-4 (V)
+	  - Code de la construction et de l'habitation. - art. R133-7 (V)
+
+
+#### Chapitre IV : Diagnostics techniques
+
+##### Section 1 : Diagnostic de performance énergétique.
 
 ###### Article L134-1
 
@@ -3614,14 +3991,6 @@ Le diagnostic de performance énergétique d'un bâtiment ou d'une partie de bâ
 d'énergie effectivement consommée ou estimée pour une utilisation standardisée du bâtiment ou de la partie de bâtiment et une
 classification en fonction de valeurs de référence afin que les consommateurs puissent comparer et évaluer sa performance
 énergétique. Il est accompagné de recommandations destinées à améliorer cette performance.
-
-Il est établi par une personne physique ou morale satisfaisant à des critères de compétence définis par décret en Conseil
-d'Etat.
-
-Les activités de cette personne doivent être couvertes par une assurance contre les conséquences de sa responsabilité
-professionnelle. Elle ne doit avoir aucun lien de nature â porter atteinte à son impartialité et à son indépendance ni avec
-le ou les propriétaires ou leurs mandataires qui font appel à elle, ni avec une entreprise susceptible d'effectuer des
-travaux sur les ouvrages, installations ou équipements pour lesquels elle réalise le diagnostic.
 
 **Liens relatifs à cet article**
 
@@ -3653,9 +4022,9 @@ travaux sur les ouvrages, installations ou équipements pour lesquels elle réal
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
 
 
 ###### Article L134-2
@@ -3669,9 +4038,9 @@ mentionné à l'article L. 134-1. Il le remet au propriétaire du bâtiment au p
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
 
 	**Cité par**:
 
@@ -3687,20 +4056,12 @@ mentionné à l'article L. 134-1. Il le remet au propriétaire du bâtiment au p
 
 ###### Article L134-3
 
-I. - A compter du 1er juillet 2006, les candidats acquéreurs peuvent obtenir du vendeur d'un bâtiment ou d'une partie d'un
-bâtiment communication du diagnostic mentionné à l'article L. 134-1. Ce diagnostic, fourni par le vendeur, est annexé à toute
-promesse de vente ou, à défaut de promesse, à l'acte authentique de vente.
+Le diagnostic de performance énergétique est communiqué à l'acquéreur et au locataire dans les conditions et selon les
+modalités prévues aux articles L. 271-4 à L. 271-6 du présent code et à l'article 3-1 de la loi n° 89-462 du 6 juillet 1989
+tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.
 
-II. - A compter du 1er juillet 2007, les candidats locataires peuvent obtenir du bailleur d'un bâtiment ou d'une partie d'un
-bâtiment communication du diagnostic mentionné à l'article L. 134-1.
-
-A compter de la même date, ce diagnostic est annexé à tout nouveau contrat de location aux frais du bailleur.
-
-III. - Le diagnostic visé au présent article doit avoir été établi depuis moins de dix ans. Lorsque l'objet de la vente ou de
-la location est un lot de copropriété, le diagnostic porte exclusivement sur la partie privative du lot.
-
-IV. - Le diagnostic de performance énergétique n'a qu'une valeur informative. L'acquéreur ou le locataire ne peut se
-prévaloir des informations contenues dans ce diagnostic à l'encontre du propriétaire.
+Lorsque l'immeuble est offert à la vente ou à la location, le propriétaire tient le diagnostic de performance énergétique à
+la disposition de tout candidat acquéreur ou locataire qui en fait la demande.
 
 **Liens relatifs à cet article**
 
@@ -3708,19 +4069,21 @@ prévaloir des informations contenues dans ce diagnostic à l'encontre du propri
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-1 (V)
+	  - Code de la construction et de l'habitation L271-4 à L271-6
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
 
 	**Cité par**:
 
 	  - Arrêté du 18 avril 2012 - art. 4 (VD)
 	  - Code de la construction et de l'habitation. - art. L731-1 (VD)
 	  - Code de la construction et de l'habitation. - art. R134-4-1 (VD)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L134-1 (M)
 
 
 ###### Article L134-4
@@ -3734,9 +4097,9 @@ diagnostic mentionné à l'article L. 134-1 datant de moins de dix ans.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
 
 	**Cite**:
 
@@ -3758,9 +4121,41 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent c
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
+
+
+##### Section 2 : Sécurité des installations intérieures de gaz
+
+###### Article L134-6
+
+En cas de vente de tout ou partie d'un immeuble à usage d'habitation comportant une installation intérieure de gaz naturel
+réalisée depuis plus de quinze ans, un état de cette installation en vue d'évaluer les risques pouvant compromettre la
+sécurité des personnes est produit dans les conditions et selon les modalités prévues aux articles L. 271-4 à L. 271-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
 	**Créé par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 17 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 3 (V)
+	  - Décret n°2016-1104 du 11 août 2016 - art. 2 (V)
+	  - Décret n°2016-1104 du 11 août 2016 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. L271-4 (V)
+	  - Code de la construction et de l'habitation. - art. R*134-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*134-9 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L271-4 à L271-6
 
 
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
@@ -8992,6 +9387,192 @@ Les dispositions du présent chapitre ne sont pas applicables aux ventes par adj
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
+##### Section 2 : Dossier de diagnostic technique.
+
+###### Article L271-4
+
+I. - En cas de vente de tout ou partie d'un immeuble bâti, un dossier de diagnostic technique, fourni par le vendeur, est
+annexé à la promesse de vente ou, à défaut de promesse, à l'acte authentique de vente. En cas de vente publique, le dossier
+de diagnostic technique est annexé au cahier des charges.
+
+Le dossier de diagnostic technique comprend, dans les conditions définies par les dispositions qui les régissent, les
+documents suivants :
+
+1° Le constat de risque d'exposition au plomb prévu aux articles L. 1334-5 et L. 1334-6 du code de la santé publique ;
+
+2° L'état mentionnant la présence ou l'absence de matériaux ou produits contenant de l'amiante prévu à l'article L. 1334-13
+du même code ;
+
+3° L'état relatif à la présence de termites dans le bâtiment prévu à l'article L. 133-6 du présent code ;
+
+4° L'état de l'installation intérieure de gaz naturel prévu à l'article L. 134-6 du présent code ;
+
+5° Dans les zones mentionnées au I de l'article L. 125-5 du code de l'environnement, l'état des risques naturels et
+technologiques prévu au deuxième alinéa du I du même article ;
+
+6° Le diagnostic de performance énergétique prévu à l'article L. 134-1 du présent code.
+
+Les documents mentionnés aux 1° et 4° ne sont requis que pour les immeubles ou parties d'immeuble à usage d'habitation.
+
+Lorsque les locaux faisant l'objet de la vente sont soumis aux dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le
+statut de la copropriété des immeubles bâtis ou appartiennent à des personnes titulaires de droits réels immobiliers sur les
+locaux ou à des titulaires de parts donnant droit ou non à l'attribution ou à la jouissance en propriété des locaux, le
+document mentionné au 1° porte exclusivement sur la partie privative de l'immeuble affectée au logement et les documents
+mentionnés au 3° et 4° sur la partie privative du lot.
+
+II. - En l'absence, lors de la signature de l'acte authentique de vente, d'un des documents mentionnés aux 1°, 2°, 3° et 4°
+du I en cours de validité, le vendeur ne peut pas s'exonérer de la garantie des vices cachés correspondante.
+
+En l'absence, lors de la signature de l'acte authentique de vente, du document mentionné au 5° du I, l'acquéreur peut
+poursuivre la résolution du contrat ou demander au juge une diminution du prix.
+
+L'acquéreur ne peut se prévaloir à l'encontre du propriétaire des informations contenues dans le diagnostic de performance
+énergétique qui n'a qu'une valeur informative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°65-557 1965-07-10
+	  - Code de la santé publique - art. L1334-5 (M)
+	  - Code de la construction et de l'habitation. - art. L134-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 18 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-44 du 9 janvier 2006 - art. 2 (Ab)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Ordonnance n°2016-985 du 20 juillet 2016 - art. 1
+	  - Arrêté du 28 octobre 2016 - art. 12
+	  - Code de commerce - art. A444-172-1 (V)
+	  - Code de l'environnement - art. L125-5 (VD)
+	  - Code de l'urbanisme - art. R213-7 (V)
+	  - Code de l'éducation - art. R822-27 (V)
+	  - Code de la construction et de l'habitation. - art. L111-10-5 (V)
+	  - Code de la construction et de l'habitation. - art. L133-6 (V)
+	  - Code de la construction et de l'habitation. - art. L133-9 (V)
+	  - Code de la construction et de l'habitation. - art. L134-3 (V)
+	  - Code de la construction et de l'habitation. - art. L134-6 (V)
+	  - Code de la construction et de l'habitation. - art. L134-7 (V)
+	  - Code de la construction et de l'habitation. - art. L255-10 (V)
+	  - Code de la construction et de l'habitation. - art. L271-5 (V)
+	  - Code de la construction et de l'habitation. - art. L271-6 (V)
+	  - Code de la construction et de l'habitation. - art. L291-4 (V)
+	  - Code de la construction et de l'habitation. - art. L721-2 (M)
+	  - Code de la construction et de l'habitation. - art. R* 262-14 (V)
+	  - Code de la construction et de l'habitation. - art. R134-4-3 (V)
+	  - Code de la construction et de l'habitation. - art. R271-4 (V)
+	  - Code de la construction et de l'habitation. - art. R271-5 (V)
+	  - Code de la santé publique - art. L1331-11-1 (VD)
+	  - Code de la santé publique - art. L1334-13 (V)
+	  - Code de la santé publique - art. L1334-6 (V)
+
+
+###### Article L271-5
+
+La durée de validité des documents prévus aux 1° à 4° et au 6° du I de l'article L. 271-4 est fixée par décret en fonction de
+la nature du constat, de l'état ou du diagnostic.
+
+Si l'un de ces documents produits lors de la signature de la promesse de vente n'est plus en cours de validité à la date de
+la signature de l'acte authentique de vente, il est remplacé par un nouveau document pour être annexé à l'acte authentique de
+vente.
+
+Si le constat mentionné au 1° établit l'absence de revêtements contenant du plomb ou la présence de revêtements contenant du
+plomb à des concentrations inférieures aux seuils définis par arrêté des ministres chargés de la santé et de la construction,
+il n'y a pas lieu de faire établir un nouveau constat à chaque mutation, le constat initial étant joint au dossier de
+diagnostic technique.
+
+Si, après la promesse de vente, la parcelle sur laquelle est implanté l'immeuble est inscrite dans une des zones mentionnées
+au I de l'article L. 125-5 du code de l'environnement ou l'arrêté préfectoral prévu au III du même article fait l'objet d'une
+mise à jour, le dossier de diagnostic technique est complété lors de la signature de l'acte authentique de vente par un état
+des risques naturels et technologiques ou par la mise à jour de l'état existant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 18 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L125-5 (VD)
+	  - Code de la construction et de l'habitation. - art. R271-5 (V)
+	  - Code de la santé publique - art. L1331-11-1 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L271-4 (M)
+
+
+###### Article L271-6
+
+Les documents prévus aux 1° à 4° et au 6° de l'article L. 271-4 sont établis par une personne présentant des garanties de
+compétence et disposant d'une organisation et de moyens appropriés.
+
+Cette personne est tenue de souscrire une assurance permettant de couvrir les conséquences d'un engagement de sa
+responsabilité en raison de ses interventions.
+
+Elle ne doit avoir aucun lien de nature à porter atteinte à son impartialité et à son indépendance ni avec le propriétaire ou
+son mandataire qui fait appel à elle, ni avec une entreprise pouvant réaliser des travaux sur les ouvrages, installations ou
+équipements pour lesquels il lui est demandé d'établir l'un des documents mentionnés au premier alinéa.
+
+Un décret en Conseil d'Etat définit les conditions et modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 18 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 26 (V)
+	  - Arrêté du 12 décembre 2012 - art. 6 (V)
+	  - Code de la consommation - art. L141-1 (VT)
+	  - Code de la consommation - art. L511-7 (V)
+	  - Code de la construction et de l'habitation. - art. L111-10-2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L134-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*134-12 (VD)
+	  - Code de la construction et de l'habitation. - art. R*134-8 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-21 (M)
+	  - Code de la construction et de l'habitation. - art. R133-7 (V)
+	  - Code de la construction et de l'habitation. - art. R134-4 (V)
+	  - Code de la construction et de l'habitation. - art. R271-1 (V)
+	  - Code de la construction et de l'habitation. - art. R271-2 (V)
+	  - Code de la construction et de l'habitation. - art. R271-3 (V)
+	  - Code de la construction et de l'habitation. - art. R271-4 (VD)
+	  - Code de la santé publique - art. L1334-1-1 (V)
+	  - Code de la santé publique - art. R1334-11 (V)
+	  - Code de la santé publique - art. R1334-23 (VD)
+	  - Code de la santé publique - art. R1334-29 (V)
+	  - Code de la santé publique - art. R1334-9 (V)
+	  - Code de la santé publique - art. R1337-3 (V)
+	  - Code de la santé publique - art. R1337-4 (VD)
+	  - Code général des impôts, CGI. - art. 200 quater (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L271-4 (M)
+
+
 ### Titre VIII : Dispositions particulières aux départements d'outre-mer.
 
 #### Chapitre unique.
@@ -14012,7 +14593,7 @@ de personnalités qualifiées. Un décret en Conseil d'Etat détermine les condi
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 114 () JORF 19 janvier 2005
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
 
 	**Anciens textes**:
 
@@ -14034,19 +14615,18 @@ l'habitat privé qu'ils apportent sur leur budget propre. Elle peut, dans des li
 arrêter les règles particulières d'octroi des aides destinées aux propriétaires bailleurs et occupants, en fonction de
 critères économiques, sociaux ou géographiques.
 
+Elle prévoit les conditions dans lesquelles le président du conseil général ou de l'établissement public de coopération
+intercommunale signe au nom de l'agence les conventions mentionnées à l'article L. 321-4.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
 
 	**Cité par**:
 
@@ -14080,6 +14660,10 @@ critères économiques, sociaux ou géographiques.
 	  - Code de la construction et de l'habitation. - art. R321-6-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R321-7 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L321-4 (Ab)
+
 
 ###### Article L321-2
 
@@ -14097,16 +14681,12 @@ de ses ressources, sont déterminées par un décret en conseil d'Etat.
 
 	**Anciens textes**:
 
-	  - Loi n°70-1283 1970-12-31 ART. 6 III 1 pour partie
+	  - Loi n°70-1283 1970-12-31 art. 6 III 1 (pour partie)
 	  - Code de l'urbanisme 292
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 185 () JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -14122,6 +14702,355 @@ de ses ressources, sont déterminées par un décret en conseil d'Etat.
 	  - Code de la construction et de l'habitation. - art. R321-30-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R321-5 (V)
 	  - Code de la construction et de l'habitation. - art. R321-6-3 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+
+##### Section 2 : Dispositions communes aux aides accordées aux propriétaires bailleurs.
+
+###### Article L321-3
+
+L'aide que l'Agence nationale pour l'amélioration de l'habitat accorde au propriétaire d'un logement à usage locatif pour y
+réaliser des travaux d'amélioration est subordonnée à la condition que le logement soit donné en location pendant une durée
+fixée par le règlement général de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2017-839 du 5 mai 2017 - art.
+	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. L321-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R321-3 (M)
+
+
+###### Article L321-4
+
+Une aide particulière peut être accordée au propriétaire qui s'engage à respecter des obligations définies par voie de
+convention. La convention, conforme à des conventions types prévues par décret, détermine notamment :
+
+a) Les travaux d'amélioration qui incombent au bailleur ;
+
+b) Le montant maximum des loyers ;
+
+c) Les conditions d'occupation du logement et, le cas échéant, ses modalités d'attribution ;
+
+d) Sa durée, qui ne peut être inférieure à neuf ans ;
+
+e) Les conditions de sa révision et de sa résiliation ;
+
+f) Les pénalités encourues en cas de méconnaissance des engagements conventionnels.
+
+Le contrôle du respect de la convention est assuré par l'Agence nationale pour l'amélioration de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 10 (V)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Arrêté du 1er août 2014 - art. Annexe 4 (V)
+	  - Arrêté du 1er août 2014 - art. Annexe 5 (V)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Décret n°2015-638 du 8 juin 2015 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 59
+	  - Décret n°2017-839 du 5 mai 2017 - art.
+	  - Décret n°2017-839 du 5 mai 2017 - art. 2
+	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. L301-3 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-1-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-10 (V)
+	  - Code de la construction et de l'habitation. - art. L321-11 (V)
+	  - Code de la construction et de l'habitation. - art. L321-2 (V)
+	  - Code de la construction et de l'habitation. - art. L321-7 (V)
+	  - Code de la construction et de l'habitation. - art. L321-8 (V)
+	  - Code de la construction et de l'habitation. - art. L421-4 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (V)
+	  - Code de la construction et de l'habitation. - art. L444-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R313-19-2 (V)
+	  - Code de la construction et de l'habitation. - art. R321-17 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. R321-24 (V)
+	  - Code de la construction et de l'habitation. - art. R321-26 (V)
+	  - Code de la construction et de l'habitation. - art. R321-27 (V)
+	  - Code de la construction et de l'habitation. - art. R321-30 (V)
+	  - Code de la construction et de l'habitation. - art. R321-30-1 (VD)
+	  - Code général des collectivités territoriales - art. L3641-5 (V)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies G (V)
+	  - Livre des procédures fiscales - art. L83 D (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+
+###### Article L321-5
+
+Les rapports entre le bailleur et les locataires ou occupants du logement pendant la durée de la convention sont régis par la
+loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et par les dispositions du présent chapitre dans la
+mesure où elles dérogent à la législation en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°89-462 1989-07-06
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+
+###### Article L321-6
+
+Lorsque l'exécution des travaux nécessite l'évacuation temporaire des lieux, le bailleur est tenu de mettre provisoirement à
+la disposition du locataire ou de l'occupant un logement au moins équivalent au logement faisant l'objet des travaux ou
+correspondant aux besoins de l'intéressé, dans un périmètre géographique tel que défini à l'article 13 bis de la loi du 1er
+septembre 1948.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 art. 13 bis
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+
+###### Article L321-7
+
+Pendant la durée de la convention, le bailleur tient à la disposition du locataire ou de l'occupant du logement la convention
+prévue à l'article L. 321-4. Si le loyer dépasse le prix fixé par cette convention, le locataire ou l'occupant peut saisir le
+juge compétent pour obtenir la modification du bail et le remboursement de la fraction des loyers indûment versés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L321-4 (Ab)
+
+
+##### Section 3 : Dispositions particulières applicables à certains logements conventionnés.
+
+###### Article L321-8
+
+Lorsque des logements mentionnés au 4° de l'article L. 351-2 bénéficient d'une aide de l'Agence nationale pour l'amélioration
+de l'habitat, la convention conclue avec l'agence en application de l'article L. 321-4 tient lieu de la convention prévue à
+l'article L. 353-2. Ces logements sont soumis aux dispositions de la section 2 et de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 10 (V)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Arrêté du 1er août 2014 - art. Annexe 4 (V)
+	  - Arrêté du 1er août 2014 - art. Annexe 5 (V)
+	  - Décret n°2014-1740 du 29 décembre 2014 - art. (Ab)
+	  - Décret n°2015-587 du 29 mai 2015 - art. 1 (V)
+	  - Décret n°2015-587 du 29 mai 2015 - art. Annexe 1 (VD)
+	  - Décret n°2017-839 du 5 mai 2017 - art.
+	  - Décret n°2017-839 du 5 mai 2017 - art. 2
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-10 (V)
+	  - Code de la construction et de l'habitation. - art. L321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-11 (V)
+	  - Code de la construction et de l'habitation. - art. L321-2 (V)
+	  - Code de la construction et de l'habitation. - art. L321-9 (V)
+	  - Code de la construction et de l'habitation. - art. L342-2 (V)
+	  - Code de la construction et de l'habitation. - art. L353-9-3 (M)
+	  - Code de la construction et de l'habitation. - art. L421-4 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
+	  - Code de la construction et de l'habitation. - art. L422-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L444-7 (V)
+	  - Code de la construction et de l'habitation. - art. L531-3 (V)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R321-17 (V)
+	  - Code de la construction et de l'habitation. - art. R321-21 (V)
+	  - Code de la construction et de l'habitation. - art. R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. R321-24 (V)
+	  - Code de la construction et de l'habitation. - art. R321-26 (V)
+	  - Code de la construction et de l'habitation. - art. R321-27 (V)
+	  - Code de la construction et de l'habitation. - art. R321-30 (V)
+	  - Code de la construction et de l'habitation. - art. R321-30-1 (VD)
+	  - Code de la construction et de l'habitation. - art. R321-31 (V)
+	  - Code de la construction et de l'habitation. - art. R321-32 (V)
+	  - Code de la construction et de l'habitation. - art. R321-33 (V)
+	  - Code de la construction et de l'habitation. - art. R321-36 (V)
+	  - Code général des impôts, CGI. - art. 1051 (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies G (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L321-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+
+
+###### Article L321-9
+
+A l'exception des articles L. 353-6 à L. 353-9-1, L. 353-19-2 et L. 353-20, les dispositions du chapitre III du titre V du
+présent livre ne s'appliquent pas aux logements mentionnés à l'article L. 321-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L353-6 à L353-9-1, L353-19-2, L353-20, L321-8
+	  - Code de la construction et de l'habitation. - art. L321-8 (M)
+	  - Code de la construction et de l'habitation. - art. L353-19-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-20 (M)
+
+
+###### Article L321-10
+
+La convention et leurs avenants sont publiés au bureau des hypothèques ou inscrits au livre foncier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 79 (V) JORF 16 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L312-5-3 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (V)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-10-1 (V)
+	  - Code de la construction et de l'habitation. - art. L321-11 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L531-3 (V)
+	  - Code de la construction et de l'habitation. - art. R365-1 (V)
+
+
+###### Article L321-11
+
+En cas de mutation d'un bien faisant l'objet d'une convention mentionnée à l'article L. 321-10, la convention en cours
+s'impose de plein droit au nouveau propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 1er août 2014 - art. Annexe 4 (V)
+	  - Décret n°2017-839 du 5 mai 2017 - art.
+	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe II à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe IV à l'article R321-23 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L321-10 (Ab)
+
+
+###### Article L321-12
+
+Les obligations des bailleurs à l'égard des organismes chargés de la liquidation et du paiement de l'aide personnalisée au
+logement sont fixées par décret.
+
+Ces organismes sont tenus de fournir à l'Agence nationale pour l'amélioration de l'habitat toutes les informations
+nécessaires à l'exercice de son contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 14 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R321-5 (V)
 
 
 #### Chapitre IV : Aide à l'habitat rural.
@@ -14290,7 +15219,8 @@ chapitre III du présent titre ; celles-ci doivent être conformes à des conven
 
 4° Les logements à usage locatif construits ou améliorés après le 4 janvier 1977 dans des conditions fixées par décret et
 dont les bailleurs s'engagent à respecter certaines obligations définies par décrets et précisées par des conventions régies
-par le chapitre III du présent titre ; celles-ci doivent être conformes à des conventions types annexées aux décrets ;
+par le chapitre III du présent titre ou par la section 3 du chapitre Ier du titre II du présent livre ; celles-ci doivent
+être conformes à des conventions types annexées aux décrets ;
 
 5° Les logements-foyers de jeunes travailleurs et les logements-foyers assimilés dans des conditions fixées par décret en
 Conseil d'Etat aux logements mentionnés aux 2° et 3° ci-dessus, dès lors qu'ils font l'objet des conventions régies par le
@@ -14302,26 +15232,6 @@ construits, améliorés ou acquis et améliorés au moyen de formes spécifiques
 caractéristiques et les conditions d'octroi sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la construction R353-89
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 1 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 2 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 3 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 4 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 5 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
-	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe III (V)
 
 	**Cité par**:
 
@@ -14602,9 +15512,28 @@ caractéristiques et les conditions d'octroi sont fixées par décret.
 	  - Loi n°84-595 1984-07-12
 	  - Loi n°86-1290 1986-12-23 art. 41 ter
 
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 1 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 2 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 3 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 4 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 5 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 6 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
+	  - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe III (V)
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 61 () JORF 14 décembre 2000
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 15 () JORF 9 juin 2005
 
 
 ###### Article L351-2-1
@@ -14694,8 +15623,8 @@ plafond, ainsi que les dépenses accessoires retenues forfaitairement.
 La prise en compte des ressources peut faire l'objet de dispositions spécifiques, lorsque le demandeur est âgé de moins de
 vingt-cinq ans, et qu'il bénéficie d'un contrat de travail autre qu'un contrat à durée indéterminée.
 
-Le barême, révisé le 1er juillet de chaque année, tient compte de l'évolution constatée des prix de détail et du coût de la
-construction. Cette révision assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
+Le barème, révisé chaque année à une date fixée par décret, tient compte de l'évolution constatée des prix de détail et du
+coût de la construction. Cette révision assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
 personnalisée au logement.
 
 **Liens relatifs à cet article**
@@ -14724,7 +15653,7 @@ personnalisée au logement.
 
 	**Modifié par**:
 
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 39 () JORF 14 juillet 2000
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 9 () JORF 9 juin 2005
 
 
 ###### Article L351-3-1
@@ -14850,13 +15779,14 @@ Cette prime ne se cumule pas avec les primes de même nature.
 
 ###### Article L351-6
 
-Un fonds national de l'habitation est institué. Il est chargé [*attributions*] du financement de l'aide personnalisée au
-logement, de la prime de déménagement prévue à l'article L. 351-5 et des dépenses de gestion y afférentes ainsi que des
-dépenses du conseil national de l'aide personnalisée au logement. Ce fonds est administré par un conseil de gestion présidé
-par le ministre chargé de la construction et de l'habitation.
+Le fonds national d'aide au logement est chargé de financer l'aide personnalisée au logement, la prime de déménagement prévue
+à l'article L. 351-5 et les dépenses de gestion qui s'y rapportent ainsi que les dépenses du conseil national de l'habitat.
 
-La composition, les modes de désignation et les modalités de fonctionnement du conseil de gestion mentionné ci-dessus sont
-fixés par décret.
+Il finance également l'allocation de logement relevant du titre III du livre VIII du code de la sécurité sociale ainsi que
+les dépenses de gestion qui s'y rapportent.
+
+Le fonds est administré par un conseil de gestion dont la composition, les modes de désignation des membres et les modalités
+de fonctionnement sont fixés par décret.
 
 **Liens relatifs à cet article**
 
@@ -14885,6 +15815,10 @@ fixés par décret.
 	  - Code général des impôts, CGI. - art. 1600-0 S (V)
 	  - Code général des impôts, CGI. - art. 1609 nonies G (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 10 () JORF 9 juin 2005
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-5 (V)
@@ -14892,25 +15826,20 @@ fixés par décret.
 
 ###### Article L351-7
 
-Les recettes du fonds national de l'habitation sont constituées notamment par des contributions provenant :
+Les recettes du Fonds national d'aide au logement sont constituées notamment par :
 
-De l'Etat ;
+a) Des dotations de l'Etat ;
 
-Des régimes de prestations familiales ;
+b) Le produit des prélèvements mis à la charge des employeurs en application des 1° et 2° de l'article L. 834-1 du code de la
+sécurité sociale ;
 
-Du fonds national d'aide au logement ;
+c) Des contributions des régimes de prestations familiales.
 
-Des bailleurs de logements qui ont passé une convention dans les conditions définies à l'article L. 351-2, par. 2 et 3.
+La contribution annuelle de chaque régime de prestations familiales est égale au montant des prestations qui auraient été
+versées par eux au titre de l'allocation de logement familiale et de la prime de déménagement. Cette contribution peut être
+calculée au moyen de formules forfaitaires selon des modalités fixées par décret en Conseil d'Etat.
 
-La contribution annuelle de chaque régime de prestations familiales et du fonds national d'aide au logement est égale au
-montant des prestations qui auraient été versées par eux au titre de l'allocation de logement et de la prime de déménagement.
-Cette contribution peut être calculée au moyen de formules forfaitaires selon des modalités fixées par décret en Conseil
-d'Etat.
-
-La contribution annuelle des bailleurs de logement est déterminée par des conventions conclues avec l'Etat.
-
-Compte tenu de ces diverses contributions, l'Etat assure l'équilibre des recettes et des dépenses du fonds national de
-l'habitation.
+L'Etat assure l'équilibre des recettes et des dépenses du fonds national d'aide au logement.
 
 **Liens relatifs à cet article**
 
@@ -14922,9 +15851,13 @@ l'habitation.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 10 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la sécurité sociale. - art. L834-1 (M)
 
 	**Cité par**:
 
@@ -14938,16 +15871,16 @@ l'habitation.
 ###### Article L351-8
 
 L'aide personnalisée au logement et la prime de déménagement prévue à l'article L. 351-5 sont liquidées et payées pour le
-compte du fonds national de l'habitation et selon ses directives par les organismes ou services désignés par décret parmi
+compte du fonds national d'aide au logement et selon ses directives par les organismes ou services désignés par décret parmi
 ceux qui sont chargés de gérer les prestations familiales.
 
 Pour l'exécution de la mission confiée à ces organismes, des conventions nationales sont conclues par l'Etat représenté par
-le président du fonds national de l'habitation avec, d'une part, la caisse nationale des allocations familiales et, d'autre
-part, la caisse centrale d'allocations familiales mutuelles agricoles. Elles fixent notamment les obligations des organismes
-chargés de la liquidation et du paiement de l'aide, les conditions dans lesquelles les fonds sont mis à leur disposition, les
-modalités d'adaptation de l'aide en cas de variation importante des ressources ou des charges du bénéficiaire, les modalités
-techniques d'application de l'article L. 351-9 ainsi que les modalités de remboursement par le fonds national de l'habitation
-des dépenses occasionnées à ces organismes par la gestion de l'aide.
+le président du fonds national d'aide au logement avec, d'une part, la caisse nationale des allocations familiales et,
+d'autre part, la caisse centrale d'allocations familiales mutuelles agricoles. Elles fixent notamment les obligations des
+organismes chargés de la liquidation et du paiement de l'aide, les conditions dans lesquelles les fonds sont mis à leur
+disposition, les modalités d'adaptation de l'aide en cas de variation importante des ressources ou des charges du
+bénéficiaire, les modalités techniques d'application de l'article L. 351-9 ainsi que les modalités de remboursement par le
+fonds national d'aide au logement des dépenses occasionnées à ces organismes par la gestion de l'aide.
 
 Les dispositions de ces conventions nationales sont applicables aux organismes ou services désignés par le décret prévu au
 premier alinéa du présent article. Toutefois, des adaptations peuvent leur être apportées en vertu d'accords particuliers
@@ -14965,6 +15898,10 @@ alinéa sont fixées par décret.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 11 () JORF 9 juin 2005
 
 	**Cite**:
 
@@ -15354,10 +16291,10 @@ l'article L. 351-2.
 ###### Article L353-2
 
 Les conventions mentionnées à l'article L. 351-2 sont conclues entre l'Etat et les bailleurs de logements précisés à cet
-article.
+article. 
 
 Elles déterminent, dans le cadre des conventions types mentionnées au même article, les obligations des parties et fixent
-notamment [*contenu*] :
+notamment :
 
 - les travaux d'amélioration qui incombent aux bailleurs ;
 
@@ -15377,7 +16314,7 @@ locataire pendant la durée de la convention ;
 le remboursement incombe aux locataires ;
 
 - les obligations des bailleurs à l'égard des organismes chargés de la liquidation et du paiement de l'aide personnalisée au
-logement ainsi que le montant de leur contribution au fonds national de l'habitation ;
+logement ;
 
 - les conditions de leur révision ainsi que leur durée qui ne peut être inférieure à neuf ans ;
 
@@ -15421,9 +16358,13 @@ torts du bailleur après mise en demeure.
 	  - Code général des impôts, CGI. - art. 1384 A (V)
 	  - Code général des impôts, CGI. - art. 200 nonies (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 12 () JORF 9 juin 2005
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (V)
 
 
 ###### Article L353-3
@@ -16293,142 +17234,6 @@ Les sous-locations peuvent être effectuées meublées ou non meublées.
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.
-
-#### Chapitre Ier : Conseil national de l'aide personnalisée au logement.
-
-###### Article L361-1
-
-Un conseil national de l'aide personnalisée au logement est institué auprès du ministre responsable du logement.
-
-Ce conseil est chargé de suivre la mise en place de l'aide personnalisée au logement ; il est consulté sur le barême de
-l'aide, sur sa revision annuelle et, d'une façon générale, sur toute mesure relative aux modalités de son financement et de
-son versement.
-
-Il est également consulté sur toutes mesures destinées à lutter contre la ségrégation ou à réhabiliter l'habitat existant.
-
-Il est composé notamment de représentants de l'administration, des collectivités locales, des constructeurs et gestionnaires
-de logements, des organismes d'allocations familiales et des usagers.
-
-La composition, les modes de désignation, les modalités de fonctionnement de ce conseil sont fixés par décret.
-
-Son président adresse au Parlement avant le 1er octobre de chaque année un compte rendu des travaux de ce conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1 du 3 janvier 1977 - art. 6, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 141 () JORF 14 décembre 2000
-
-	**Cité par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 19 (V)
-	  - Code de la construction et de l'habitation. - art. R361-11 (Ab)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 13 () JORF 9 juin 2005
-
-
-#### Chapitre II : Conseil national de l'accession à la propriété.
-
-###### Article L362-1
-
-Il est institué un conseil national de l'accession à la propriété auprès du ministre chargé de la construction et de
-l'habitation, en vue de promouvoir toutes mesures destinées à favoriser et développer la constitution d'un patrimoine
-immobilier familial   . 
-
-Sa composition, ses attributions et son fonctionnement sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1 du 3 janvier 1977 - art. 20, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 141 () JORF 14 décembre 2000
-
-	**Cité par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 19 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 13 () JORF 9 juin 2005
-
-
-###### Article L362-2
-
-Le conseil national de l'accession à la propriété est consulté sur la revision annuelle du barème de l'aide personnalisée au
-logement prévue au sixième alinéa de l'article L. 351-3 et, d'une façon générale, sur toute modification des régimes d'aides
-directes ou indirectes de l'Etat à l'accession à la propriété.
-
-Il est également consulté sur toutes mesures destinées à lutter contre la ségrégation ou à réhabiliter l'habitat existant
-[*attributions*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1 du 3 janvier 1977 - art. 21, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 141 () JORF 14 décembre 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 13 () JORF 9 juin 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L351-3 (M)
-
-
-#### Chapitre III : Dispositions communes.
-
-###### Article L363-1
-
-La coordination des missions du conseil national de l'aide personnalisée au logement et du conseil national de l'accession à
-la propriété est précisée par décret.
-
-La fusion de ces conseils est réalisée dans un délai de quatre ans à compter du 4 janvier 1977.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1 1977-01-03 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 141 () JORF 14 décembre 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 13 () JORF 9 juin 2005
-
 
 #### Chapitre IV : Comité régional de l'habitat.
 
@@ -27094,58 +27899,47 @@ cette matière connaissent de la légitimité du motif invoqué par le bénéfic
 
 ###### Article L631-7
 
-Dans les communes définies à l'article 10-7 de la loi n° 48-1360 du 1er septembre 1948 modifiée :
+Dans les communes de plus de 200 000 habitants et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du
+Val-de-Marne, le changement d'usage des locaux destinés à l'habitation est soumis à autorisation préalable.
 
-1° Les locaux à usage d'habitation ne peuvent être, ni affectés à un autre usage, ni transformés en meublés, hôtels, pensions
-de famille ou autres établissements similaires dont l'exploitant exerce la profession de loueur en meublé au sens du premier
-alinéa de l'article 2 de la loi n° 49-458 du 2 avril 1949 modifiée, accordant le bénéfice du maintien dans les lieux à
-certains clients des hôtels, pensions de famille et meublés ; les présentes dispositions n'étant pas applicables aux
-locations en meublé mentionnées au deuxième alinéa dudit article 2 ;
+Constituent des locaux destinés à l'habitation toutes catégories de logements et leurs annexes, y compris les logements-
+foyers, logements de gardien, chambres de service, logements de fonction, logements inclus dans un bail commercial, locaux
+meublés donnés en location dans les conditions de l'article L. 632-1.
 
-2° Les locaux à usage professionnel ou administratif ainsi que les meublés, hôtels, pensions de famille ou établissements
-similaires ne peuvent, s'ils ne conservent pas leur destination primitive, être affectés à un usage autre que l'habitation ;
+Pour l'application du présent chapitre, un local est réputé à usage d'habitation s'il était affecté à cet usage au 1er
+janvier 1970. Cette affectation peut être établie par tout mode de preuve. Les locaux construits postérieurement au 1er
+janvier 1970 sont réputés avoir l'usage pour lequel la construction a été autorisée.
 
-3° Les garages et remises mentionnés à l'article 2 de la loi n° 48-1360 du 1er septembre 1948 précitée ne peuvent être
-affectés à un usage commercial, industriel ou artisanal.
+Toutefois, lorsqu'une autorisation administrative subordonnée à une compensation a été accordée après la date de référence
+pour changer l'usage d'un local mentionné à l'alinéa précédent, le local autorisé à changer d'usage et le local ayant servi
+de compensation sont réputés avoir l'usage résultant de l'autorisation.
 
-Il ne peut être dérogé à ces interdictions que par autorisation administrative préalable et motivée, après avis du maire et,
-à Paris, Marseille et Lyon, aprés avis du maire d'arrondissement.
+Sont nuls de plein droit tous accords ou conventions conclus en violation du présent article.
 
-Le représentant de l'Etat dans le département peut autoriser l'exercice, sous certaines conditions, dans une partie d'un
-local d'habitation, d'une profession qui ne puisse à aucun moment revêtir un caractère commercial si ce local constitue en
-même temps la résidence du demandeur.
-
-Ces dérogations et autorisations sont accordées à titre personnel. Cependant, les bénéficiaires membres d'une profession
-libérale réglementée, qui rendent à l'habitation le local qui était devenu totalement ou partiellement professionnel, peuvent
-être autorisés à transformer un autre local d'habitation en local professionnel pour une surface équivalente.
-
-La dérogation et l'autorisation cessent de produire effet lorsqu'il est mis fin, à titre définitif, pour quelque raison que
-ce soit, à l'exercice professionnel du bénéficiaire.
-
-Sont nuls de plein droit, tous accords ou conventions conclus en violation du présent article. Toutefois le locataire ou
-occupant d'un local d'habitation irrégulièrement transformé en meublé et réaffecté à la location nue bénéficie de plein
-droit, quelle que soit la date de son entrée dans les lieux, du maintien dans les lieux dans les conditions prévues aux
-chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
-
-**Nota:**
-
-Nota : Voir l'article 81 I et II de la loi 2003-1312 du 30 décembre 2003 finances rectificative pour 2003.
+Les dispositions du présent article ne sont pas applicables aux locaux appartenant à une personne publique, affectés à un
+autre usage que l'habitation à la date de leur cession et dont le produit de la cession donne lieu au versement d'une recette
+non fiscale au profit du budget de l'Etat. Elles demeurent inapplicables aux locaux qui auront fait l'objet d'une telle
+cession.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
 	**Cité par**:
 
-	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
-	  - Code de l'urbanisme - art. L425-9 (V)
-	  - Code de l'urbanisme - art. R421-11 (M)
-	  - Code de l'urbanisme - art. R520-3 (V)
 	  - Loi n°86-1290 du 23 décembre 1986 - art. 57 (Ab)
 	  - Loi n°2000-642 du 10 juillet 2000 - art. 51 (VT)
 	  - Loi - art. 81 (V)
 	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 29 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 13 (V)
+	  - Arrêté du 31 août 2010 - art. Annexe 1 (VT)
+	  - Code de l'urbanisme - art. L425-9 (V)
 	  - Code de l'urbanisme - art. R*421-36 (Ab)
+	  - Code de l'urbanisme - art. R421-11 (M)
 	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Code de l'urbanisme - art. R520-3 (V)
 	  - Code de la construction et de l'habitation. - art. L443-11 (V)
 	  - Code de la construction et de l'habitation. - art. L631-10 (Ab)
 	  - Code de la construction et de l'habitation. - art. L631-7-1 (VT)
@@ -27161,46 +27955,37 @@ Nota : Voir l'article 81 I et II de la loi 2003-1312 du 30 décembre 2003 financ
 	  - Code du tourisme. - art. L324-1-1 (V)
 	  - Code du tourisme. - art. L324-2-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code de la construction L631-8
-	  - TXT_ASSOCIE: Code de la construction L631-9
-	  - TXT_ASSOCIE: Code de la construction L651-2
-	  - TXT_ASSOCIE: Code de la construction R631-4
-	  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 81 Finances rectificative pour 2003 :
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 24 () JORF 9 juin 2005
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 340
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01 art. 10-7, art. 2
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 2 (V)
-	  - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 24 () JORF 28 février 2002
+	  - Code de la construction et de l'habitation. - art. L632-1 (M)
 
 
 ###### Article L631-7-1
 
-Les locaux régulièrement affectés à un usage autre que l'habitation peuvent être temporairement affectés à l'habitation pour
-une durée n'excédant pas treize ans. Ce délai commence à courir à compter de la déclaration d'affectation temporaire des
-locaux.
+L'autorisation préalable au changement d'usage est délivrée, après avis du maire et, à Paris, Marseille et Lyon, après avis
+du maire d'arrondissement, par le préfet du département dans lequel est situé l'immeuble. Elle peut être subordonnée à une
+compensation sous la forme de la transformation concomitante en habitation de locaux ayant un autre usage.
 
-Jusqu'à l'expiration du délai mentionné à l'alinéa précédent, les locaux peuvent, nonobstant les dispositions de l'article L.
-631-7, retrouver leur affectation antérieure sur simple déclaration. Les locaux qui, à l'expiration de ce délai, demeurent
-affectés à l'habitation sont régis par les dispositions applicables aux locaux à usage d'habitation.
+L'autorisation de changement d'usage est accordée à titre personnel. Elle cesse de produire effet lorsqu'il est mis fin, à
+titre définitif, pour quelque raison que ce soit, à l'exercice professionnel du bénéficiaire. Toutefois, lorsque
+l'autorisation est subordonnée à une compensation, le titre est attaché au local et non à la personne. Les locaux offerts en
+compensation sont mentionnés dans l'autorisation qui est publiée au fichier immobilier ou inscrite au livre foncier.
 
-Les déclarations mentionnées au présent article sont adressées conjointement au maire et au préfet.
+L'usage des locaux définis à l'article L. 631-7 n'est en aucun cas affecté par la prescription trentenaire prévue par
+l'article 2262 du code civil.
 
-En cas de location d'un local temporairement affecté à l'habitation en application du présent article, le contrat doit
-mentionner le caractère temporaire de cette affectation. Sous cette réserve, le retour des locaux à leur usage primitif est
-un motif légitime et sérieux au sens de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
-locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Il ne constitue pas un événement au sens de
-l'article 11 de cette même loi.
+Dans chaque département où l'article L. 631-7 est applicable, le préfet prend un arrêté fixant les conditions dans lesquelles
+sont délivrées les autorisations et déterminées les compensations par quartier et, le cas échéant, par arrondissement, au
+regard des objectifs de mixité sociale, en fonction notamment des caractéristiques des marchés de locaux d'habitation et de
+la nécessité de ne pas aggraver la pénurie de logements.
 
 **Liens relatifs à cet article**
 
@@ -27208,14 +27993,9 @@ l'article 11 de cette même loi.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°86-1290 1986-12-23
-	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 25 () JORF 9 juin 2005
 
 	**Cité par**:
 
@@ -27229,8 +28009,16 @@ l'article 11 de cette même loi.
 
 ###### Article L631-7-2
 
-Sur requête de tout intéressé, le représentant de l'Etat dans le département délivre, après avis du maire et dans le délai de
-deux mois, un certificat indiquant si le local peut être régulièrement ou non affecté à l'usage mentionné dans la demande.
+Dans des conditions fixées par l'arrêté prévu à l'article L. 631-7-1, le préfet peut autoriser, dans une partie d'un local
+d'habitation utilisé par le demandeur comme sa résidence principale, l'exercice d'une profession à la condition que celle-ci
+ne revête à aucun moment un caractère commercial.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 JORF du 5 août 2008 art. 13 X : Les modifications de l'article L631-7-2 du code de la
+construction et de l'habitation, induites par la loi n° 2008-776, entrent en vigueur à compter du 1er janvier 2009 sous
+réserve de l'entrée en vigueur des dispositions, relevant de la loi de finances, prévoyant la compensation des charges
+assumées par les communes du fait du transfert de compétences prévu par les mêmes I à X de cette même loi.
 
 **Liens relatifs à cet article**
 
@@ -27240,7 +28028,11 @@ deux mois, un certificat indiquant si le local peut être régulièrement ou non
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 26 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-7-1 (M)
 
 	**Cité par**:
 
@@ -27250,11 +28042,19 @@ deux mois, un certificat indiquant si le local peut être régulièrement ou non
 
 ###### Article L631-7-3
 
-Par dérogation aux dispositions de l'article L. 631-7, l'exercice d'une activité professionnelle, y compris commerciale, est
-autorisé dans une partie d'un local à usage d'habitation, dès lors que l'activité considérée n'est exercée que par le ou les
-occupants ayant leur résidence principale dans ce local et ne conduit à y recevoir ni clientèle ni marchandises.
+Par dérogation aux dispositions des articles L. 631-7 et L. 631-7-2, l'exercice d'une activité professionnelle, y compris
+commerciale, est autorisé dans une partie d'un local à usage d'habitation, dès lors que l'activité considérée n'est exercée
+que par le ou les occupants ayant leur résidence principale dans ce local et ne conduit à y recevoir ni clientèle ni
+marchandises.
 
 Les dispositions du présent article sont applicables aux représentants légaux des personnes morales.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 JORF du 5 août 2008 art. 13 X : Les modifications de l'article L631-7-3 du code de la
+construction et de l'habitation, induites par la loi n° 2008-776, entrent en vigueur à compter du 1er janvier 2009 sous
+réserve de l'entrée en vigueur des dispositions, relevant de la loi de finances, prévoyant la compensation des charges
+assumées par les communes du fait du transfert de compétences prévu par les mêmes I à X de cette même loi.
 
 **Liens relatifs à cet article**
 
@@ -27264,11 +28064,12 @@ Les dispositions du présent article sont applicables aux représentants légaux
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 7 () JORF 5 août 2003
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 27 () JORF 9 juin 2005
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+	  - Code de la construction et de l'habitation. - art. L631-7-2 (M)
 
 	**Cité par**:
 
@@ -27277,9 +28078,10 @@ Les dispositions du présent article sont applicables aux représentants légaux
 
 ###### Article L631-8
 
-Les dispositions de l'article précédent ne sont pas applicables dans les stations balnéaires, climatiques ou thermales,
-classées ou en voie de classement, aux locaux qui, avant le 2 septembre 1939 [*date*], étaient habituellement affectés à la
-location saisonnière ou occupés pendant la saison par leur propriétaire.
+Lorsque le changement d'usage fait l'objet de travaux entrant dans le champ d'application du permis de construire, la demande
+de permis de construire ou la déclaration de travaux vaut demande de changement d'usage.
+
+Ces travaux ne peuvent être exécutés qu'après l'obtention de l'autorisation mentionnée à l'article L. 631-7.
 
 **Liens relatifs à cet article**
 
@@ -27289,11 +28091,11 @@ location saisonnière ou occupés pendant la saison par leur propriétaire.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 28 () JORF 9 juin 2005
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 340-1 (Ordonnance 58-1441 1958-12-31)
+	  - Code de l'urbanisme 340-1
 
 	**Cite**:
 
