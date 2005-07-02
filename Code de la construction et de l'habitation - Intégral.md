@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-06-28
+Version Consolidée au 2005-07-03
 
 # Partie législative
 
@@ -81840,6 +81840,165 @@ ce contrat de prêt.
 
 	  - Code de la construction et de l'habitation. - art. L351-2-2 (V)
 	  - Code de la construction et de l'habitation. - art. L452-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
+
+
+###### Article R452-25-2
+
+Lorsque le contrôle des cotisations mentionnées aux articles L. 452-4 et L. 452-4-1 a lieu sur place, il est effectué par la
+mission interministérielle d'inspection du logement social dans les conditions prévues aux articles R. 451-1 à R. 451-6 sous
+réserve des dispositions ci-après.
+
+Avant le début de l'intervention sur place, un avis est adressé au redevable soit par pli recommandé adressé au siège social
+de l'organisme avec demande d'avis de réception postal, soit par remise à ce siège contre récépissé. L'avis mentionne les
+années sur lesquelles porte le contrôle et indique que le redevable a la faculté de se faire assister par un conseil de son
+choix.
+
+Les opérations de contrôle sur place ne peuvent être engagées qu'à l'expiration d'un délai de huit jours ayant pour point de
+départ le lendemain du jour soit de la remise contre récépissé du pli contenant l'avis soit, en cas de pli recommandé, de la
+réception de ce pli ou, à défaut, de l'expiration du délai de mise en instance prévu par la réglementation postale.
+
+Les agents de la mission interministérielle consignent leurs constatations dans un rapport particulier. Après avoir recueilli
+les observations de l'organisme contrôlé selon les modalités prévues à l'article R. 451-5, ils rédigent un rapport définitif
+de contrôle dans la forme prévue au premier alinéa de l'article R. 451-6 et le transmettent à la caisse qui lui donne la
+suite utile. Ce rapport contient l'ensemble des éléments nécessaires, en droit et en fait, pour permettre à la caisse
+d'adresser à cet organisme une proposition de rectification. La mission transmet toute information utile à la caisse, en
+particulier lorsque celle-ci est partie à une procédure contentieuse consécutive à un contrôle sur place.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L452-4, L452-4-1, R451-1 à R451-6, R451-5
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
+	  - Code de la construction et de l'habitation. - art. R451-5 (M)
+
+
+###### Article R452-25-3
+
+Lorsque la procédure prévue à l'article L. 57 du livre des procédures fiscales est mise en oeuvre, la proposition de
+rectification des cotisations mentionnées aux articles L. 452-4 et L. 452-4-1 ainsi que la réponse aux observations de
+l'organisme contrôlé sont signées par le directeur général de la caisse ou, par délégation, par un agent de la caisse, dûment
+habilité, appartenant à un corps de catégorie A de la fonction publique de l'Etat ou de niveau équivalent.
+
+Lorsque l'organisme n'a pas déposé dans le délai légal la déclaration prévue à l'article L. 452-5 et n'a pas régularisé sa
+situation dans les trente jours de la notification d'une première mise en demeure, il est taxé d'office aux cotisations
+mentionnées aux articles L. 452-4 et L. 452-4-1 selon les modalités prévues à l'article L. 76 du livre des procédures
+fiscales. La notification est signée par le directeur général de la caisse ou, par délégation, par un agent de la caisse,
+dûment habilité, appartenant à un corps de catégorie A de la fonction publique de l'Etat ou de niveau équivalent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L57 (M)
+	  - Livre des procédures fiscales - art. L76 (M)
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
+	  - Code de la construction et de l'habitation. - art. L452-5 (V)
+
+
+###### Article R452-25-4
+
+Le droit de reprise de la caisse s'exerce dans les conditions prévues à l'article L. 176 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L176 (V)
+
+
+###### Article R452-25-5
+
+Les cotisations supplémentaires et les pénalités correspondantes prévues aux articles 1727 et suivants du code général des
+impôts sont recouvrées au moyen d'un titre rendu exécutoire par le directeur général de la caisse ou, par délégation, par un
+agent de la caisse, dûment habilité, appartenant à un corps de catégorie A de la fonction publique de l'Etat ou de niveau
+équivalent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1727 (VT)
+
+
+###### Article R452-25-6
+
+Les réclamations relatives aux cotisations mentionnées aux articles L. 452-4 et L. 452-4-1 sont présentées et instruites
+comme en matière de taxe sur la valeur ajoutée sous réserve des dispositions ci-après.
+
+Les réclamations relatives à l'assiette des cotisations sont adressées au directeur général de la caisse.
+
+Les réclamations relatives à leur recouvrement sont adressées à l'agent comptable de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
+	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
+
+
+###### Article R452-25-7
+
+Les contestations relatives aux cotisations mentionnées aux articles L. 452-4 et L. 452-4-1 sont portées devant le tribunal
+administratif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-741 du 1 juillet 2005 - art. 1 () JORF 3 juillet 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L452-4 (MMN)
 	  - Code de la construction et de l'habitation. - art. L452-4-1 (M)
 
 
