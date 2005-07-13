@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-07-03
+Version Consolidée au 2005-07-14
 
 # Partie législative
 
@@ -725,13 +725,23 @@ section dans les départements d'outre-mer.
 	  - Loi n°91-663 du 13 juillet 1991 - art. 5 () JORF 19 juillet 1991
 
 
-##### Section 4 : Caractéristiques thermiques.
+##### Section 4 : Caractéristiques thermiques et performance énergétique.
 
 ###### Article L111-9
 
-Les règles de construction et d'aménagement applicables aux ouvrages et locaux de toute nature quant à leurs caractéristiques
-thermiques et les catégories d'ouvrages et locaux qui sont soumis en tout ou partie aux dispositions du présent article sont
-fixées par des décrets en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine :
+
+- les caractéristiques thermiques et la performance énergétique des constructions nouvelles, en fonction des catégories de
+bâtiments considérées ;
+
+- les catégories de bâtiments qui font l'objet, avant leur construction, d'une étude de faisabilité technique et économique.
+Cette étude évalue ou envisage obligatoirement pour certaines catégories de bâtiments les diverses solutions
+d'approvisionnement en énergie de la nouvelle construction, dont celles qui font appel aux énergies renouvelables, aux
+productions combinées de chaleur et d'énergie, aux systèmes de chauffage ou de refroidissement urbain ou collectif s'ils
+existent, aux pompes à chaleur performantes en termes d'efficacité énergétique ou aux chaudières à condensation gaz, sans
+préjudice des décisions des autorités compétentes pour les services publics de distribution d'énergie ;
+
+- le contenu et les modalités de réalisation de cette  étude.
 
 **Liens relatifs à cet article**
 
@@ -767,19 +777,35 @@ fixées par des décrets en Conseil d'Etat.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 A (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 26 () JORF 14 juillet 2005
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
+
 
 ###### Article L111-10
 
-Les nouvelles règles de construction et d'aménagement fixées par les décrets prévus à l'article L. 111-9 peuvent être rendues
-applicables aux locaux existants qui font l'objet de travaux donnant lieu à autorisation ou déclaration préalable ou réalisés
-avec l'aide financière de l'Etat, d'une collectivité publique ou d'un organisme assurant une mission de service public.
+Un décret en Conseil d'Etat détermine :
 
-Les conditions de cette application sont déterminées par des décrets en Conseil d'Etat dans les formes définies à l'article
-L. 111-9.
+- les caractéristiques thermiques et la performance énergétique des bâtiments ou parties de bâtiments existants qui font
+l'objet de travaux, en fonction des catégories de bâtiments, du type de travaux envisagés ainsi que du rapport entre le coût
+de ces travaux et la valeur du bâtiment au-delà de laquelle ces dispositions s'appliquent ;
 
-Ces mêmes décrets déterminent enfin les conditions d'application du présent article et, notamment, les délais d'exécution des
-travaux prescrits, ainsi que les cas et conditions dans lesquels il peut être dérogé à l'obligation d'exécuter ces travaux,
-en raison d'une impossibilité technique ou d'un coût excessif.
+- les catégories de bâtiments ou parties de bâtiments existants qui font l'objet, avant le début des travaux, d'une étude de
+faisabilité technique et économique. Cette étude évalue les diverses solutions d'approvisionnement en énergie, dont celles
+qui font appel aux énergies renouvelables ;
+
+- le contenu et les modalités de réalisation de cette  étude ;
+
+- les caractéristiques thermiques que doivent respecter les nouveaux équipements, ouvrages ou installations mis en place dans
+des bâtiments existants, en fonction des catégories de bâtiments considérées ;
+
+- les catégories d'équipements, d'ouvrages ou d'installations visés par le précédent alinéa.
+
+Les mesures visant à améliorer les caractéristiques thermiques et la performance énergétique des bâtiments existants ainsi
+que leur impact sur les loyers, les charges locatives et le coût de la construction sont évalués dans un délai de cinq ans à
+compter de la publication de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique
+énergétique.
 
 **Liens relatifs à cet article**
 
@@ -790,6 +816,15 @@ en raison d'une impossibilité technique ou d'un coût excessif.
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Cite**:
+
+	  - Loi n°2005-781 2005-07-13
+
+	**Modifié par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 26 () JORF 14 juillet 2005
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
 
 	**Cité par**:
 
@@ -803,9 +838,38 @@ en raison d'une impossibilité technique ou d'un coût excessif.
 	  - Code du travail - art. R4213-9 (VD)
 	  - Code général des impôts, CGI. - art. 1391 E (V)
 
+
+###### Article L111-10-1
+
+Le préfet, le maire de la commune d'implantation des bâtiments et le président de l'établissement public de coopération
+intercommunale compétent en matière de logement peuvent demander communication des études visées aux articles L. 111-9 et L.
+111-10. Ces études doivent être communiquées dans le mois qui suit la demande. Leur refus de communication est passible des
+poursuites et sanctions prévues par les articles L. 152-1 à L. 152-10.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°74-908 1974-10-29 art. 5 II al. 1, al. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
+
 	**Cite**:
 
+	  - Code de la construction et de l'habitation L111-9, L111-10, L152-1 à L152-10
+	  - Code de la construction et de l'habitation. - art. L111-10 (M)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L152-1 (V)
+	  - Code de la construction et de l'habitation. - art. L152-4 (V)
 
 
 ##### Section 5 : Caractéristiques acoustiques.
@@ -4257,21 +4321,17 @@ mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement 
 
 ###### Article L152-1
 
-Les infractions aux dispositions des articles L. 111-4, L. 111-7 à L. 111-7-4, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L.
-131-4, sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de
-l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre chargé de la construction et de
-l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés par ces agents font loi jusqu'à
-preuve du contraire.
+Les infractions aux dispositions des articles L. 111-4, L. 111-7 à L. 111-7-4, L. 111-8, L. 111-9, L. 111-10, L.-111-10-1, L.
+112-17, L. 125-3 et L. 131-4, sont constatées par tous officiers ou agents de police judiciaire ainsi que par tous les
+fonctionnaires et agents de l'Etat et des collectivités publiques commissionnés à cet effet par le maire ou le ministre
+chargé de la construction et de l'habitation suivant l'autorité dont ils relèvent et assermentés. Les procès-verbaux dressés
+par ces agents font loi jusqu'à preuve du contraire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -4282,13 +4342,18 @@ preuve du contraire.
 	  - Code de la construction et de l'habitation. - art. R152-3 (V)
 	  - Code de procédure pénale - art. 398-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 101
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L111-4, L111-7 à L111-7-4, L111-8, L111-9, L112-17, L125-3, L131-4
+	  - Code de la construction et de l'habitation L111-4, L111-7 à L111-7-4, L111-8, L111-9, L111-10, L111-10-1, L112-17, L125-3, L131-4
+	  - Code de la construction et de l'habitation. - art. L111-10 (M)
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-9 (M)
@@ -4384,9 +4449,9 @@ les personnes mentionnées au premier alinéa de l'article L. 152-4.
 
 Est puni d'une amende de 45 000 euros le fait, pour les utilisateurs du sol, les bénéficiaires des travaux, les architectes,
 les entrepreneurs ou toute autre personne responsable de l'exécution de travaux, de méconnaître les obligations imposées par
-les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L. 125-3 et L. 131-4, par les règlements pris pour leur
-application ou par les autorisations délivrées en conformité avec leurs dispositions. En cas de récidive, la peine est portée
-à six mois d'emprisonnement et 75 000 euros d'amende.
+les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 111-10, L. 111-10-1, L. 112-17, L. 125-3 et L. 131-4, par les
+règlements pris pour leur application ou par les autorisations délivrées en conformité avec leurs dispositions. En cas de
+récidive, la peine est portée à six mois d'emprisonnement et 75 000 euros d'amende.
 
 Les peines prévues à l'alinéa précédent sont également applicables :
 
@@ -4428,7 +4493,7 @@ code.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
 
 	**Cité par**:
 
@@ -4449,6 +4514,8 @@ code.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-48 (V)
 	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de la construction et de l'habitation. - art. L111-10 (M)
+	  - Code de la construction et de l'habitation. - art. L111-10-1 (V)
 	  - Code de la construction et de l'habitation. - art. L111-4 (M)
 	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 	  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
