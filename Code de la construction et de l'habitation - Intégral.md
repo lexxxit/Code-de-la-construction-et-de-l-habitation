@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -12008,6 +12008,9 @@ g) De compensations versées aux entreprises d'assurance de dommages qui propose
 contre le risque de loyers impayés respectant un cahier des charges social établi par l'Union d'économie sociale du logement
 et approuvé par décret.
 
+(Les dispositions du cinquième alinéa de l'article L. 620-10 du code du travail s'appliquent au calcul de l'effectif
+mentionné au présent article) (1).
+
 Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux
 organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même caractère.
 
@@ -12030,6 +12033,11 @@ de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours d
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
 au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
+
+**Nota:**
+
+NOTA (1) : Par décision n° 283892, 284472, 284555, 284718 en date du 6 juillet 2007, le Conseil d'Etat statuant au
+contentieux a annulé l'ordonnance n° 2005-892 du 2 août 2005 qui modifie le présent article.
 
 **Liens relatifs à cet article**
 
@@ -12138,14 +12146,19 @@ au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 	**Cite**:
 
 	  - CGI 231
+	  - Code du travail - art. L620-10 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 32 () JORF 27 juillet 2005
+	  - Ordonnance n°2005-892 du 2 août 2005 - art. 4 () JORF 3 août 2005 en vigueur jusqu'au 31 décembre 2007
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 272
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°283892, 284472, 284555, 284718 2007-07-06
 
 
 ###### Article L313-2
