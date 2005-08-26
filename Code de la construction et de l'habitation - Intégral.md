@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-08-27
 
 # Partie législative
 
@@ -53403,6 +53403,8 @@ représentant de l'Etat dans le département.
 
 L'octroi de la subvention est subordonné à la passation d'une convention telle que définie au 3° de l'article L. 351-2.
 
+La conclusion de la convention intervient au plus tard lors du versement du premier acompte prévu à l'article R. 323-9.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -53411,15 +53413,12 @@ L'octroi de la subvention est subordonné à la passation d'une convention telle
 
 	**Modifié par**:
 
-	  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+	  - Décret n°2005-1030 du 25 août 2005 - art. 1 () JORF 27 août 2005
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R323-9 (M)
 
 	**Cité par**:
 
@@ -53499,14 +53498,20 @@ cinq ans d'une décision de subvention prévue à l'article R. 321-2.
 ###### Article R323-5
 
 La décision de subvention qui vaut décision favorable au sens des dispositions du a du 7° bis de l'article 257 du code
-général des impôts est prise par le représentant de l'Etat dans le département. Elle est accordée au vu d'un programme de
-travaux joint à la demande.
+général des impôts est prise par le représentant de l'Etat dans le département. Elle est accordée au vu d'un dossier joint à
+la demande et dont la composition est fixée par un arrêté conjoint des ministres chargés du logement et des finances.
+
+Lorsque les maîtres d'ouvrage mentionnés aux 1° et 5° de l'article R. 323-1 présentent une demande portant sur tout ou partie
+de leur programme annuel correspondant à des travaux mentionnés à l'article R. 323-3, une décision unique de subvention peut
+être prise par le représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 257
+	  - Code de la construction et de l'habitation. - art. R323-1 (M)
+	  - Code de la construction et de l'habitation. - art. R323-3 (M)
 
 	**Codifié par**:
 
@@ -53514,7 +53519,7 @@ travaux joint à la demande.
 
 	**Modifié par**:
 
-	  - Décret n°97-1262 du 29 décembre 1997 - art. 1 () JORF 30 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°2005-1030 du 25 août 2005 - art. 2 () JORF 27 août 2005
 
 	**Cité par**:
 
@@ -54564,7 +54569,13 @@ représentant de l'Etat dans le département.
 ###### Article R331-6
 
 L'instruction de la demande de décision favorable prévue à l'article R. 331-3 est assurée par le directeur départemental de
-l'équipement ; la décision est prise par le représentant de l'Etat dans le département et notifiée au demandeur.
+l'équipement au vu d'un dossier joint à la demande et dont la composition est fixée par un arrêté conjoint des ministres
+chargés du logement et des finances ; la décision est prise par le représentant de l'Etat dans le département et notifiée au
+demandeur.
+
+Lorsque les maîtres d'ouvrage mentionnés aux 1° et 2° de l'article R. 331-14 présentent une demande portant sur tout ou
+partie de leur programme annuel d'investissement correspondant à des opérations mentionnées à l'article R. 331-1, une
+décision unique de subvention peut être prise par le représentant de l'Etat dans le département.
 
 Lorsqu'une réponse du représentant de l'Etat dans le département n'est pas intervenue dans un délai maximum de quatre mois à
 compter de la date de la demande de décision favorable, cette demande est réputée rejetée.
@@ -54585,7 +54596,7 @@ excéder la limite qui lui a été notifiée par le ministre chargé du logement
 
 	**Modifié par**:
 
-	  - Décret n°2001-336 du 18 avril 2001 - art. 5 () JORF 19 avril 2001
+	  - Décret n°2005-1030 du 25 août 2005 - art. 3 () JORF 27 août 2005
 
 	**Cité par**:
 
@@ -54613,6 +54624,7 @@ excéder la limite qui lui a été notifiée par le ministre chargé du logement
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. R331-1 (M)
 	  - Code de la construction et de l'habitation. - art. R331-15 (M)
 	  - Code de la construction et de l'habitation. - art. R331-16 (M)
 
@@ -55366,7 +55378,8 @@ l'être qu'aux organismes mentionnés aux 1° et 2° de l'article R. 331-14.
 
 L'octroi du prêt est subordonné à l'obtention de la décision favorable prise dans les conditions prévues aux articles R.
 331-3 et R. 331-6 et à la passation par le demandeur d'une convention prévue aux 3° ou 5° de l'article L. 351-2 dont la durée
-est au moins égale à la durée initiale du prêt, sans pouvoir être inférieure à quinze ans ni supérieure à trente ans.
+est au moins égale à la durée initiale du prêt, sans pouvoir être inférieure à quinze ans ni supérieure à trente ans. La
+conclusion de la convention intervient au plus tard lors de la signature du contrat de prêt.
 
 Le dépôt de la demande de prêt doit être effectué auprès de l'établissement prêteur dans un délai maximum de six mois après
 la date de la décision favorable précitée, faute de quoi ladite décision est frappée de caducité.
@@ -55379,7 +55392,7 @@ la date de la décision favorable précitée, faute de quoi ladite décision est
 
 	**Modifié par**:
 
-	  - Décret n°2001-207 du 6 mars 2001 - art. 1 () JORF 7 mars 2001
+	  - Décret n°2005-1030 du 25 août 2005 - art. 4 () JORF 27 août 2005
 
 	**Cité par**:
 
@@ -55681,6 +55694,36 @@ Un arrêté des ministres précités fixe les conditions d'application du prése
 
 	  - Code de la construction et de l'habitation. - art. R331-1 (V)
 	  - Code de la construction et de l'habitation. - art. R331-6 (V)
+
+
+##### Sous-section 5 : Sanctions.
+
+###### Article R331-26
+
+Le remboursement de la subvention peut être exigé si l'une des conditions définies par la présente section n'est pas
+respectée.
+
+Le reversement est exigé de plein droit s'il s'avère que l'aide a été obtenue à la suite de fausses déclarations ou de
+manoeuvres frauduleuses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Arrêté du 31 août 1979 - art. 6 (Ab)
+	  - Arrêté du 9 janvier 1980 - art. 2 (Ab)
+	  - Arrêté du 9 janvier 1980 - art. 3 (Ab)
+	  - Arrêté du 9 janvier 1980 - art. 4 (Ab)
+	  - Arrêté du 9 janvier 1980 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1030 du 25 août 2005 - art. 5 () JORF 27 août 2005
 
 
 ##### Sous-section 6 : Départements d'outre-mer.
