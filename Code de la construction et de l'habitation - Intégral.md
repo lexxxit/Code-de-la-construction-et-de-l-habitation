@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-08-30
+Version Consolidée au 2005-09-01
 
 # Partie législative
 
@@ -21028,8 +21028,9 @@ caisse des dépôts et consignations consenti en application du 3° de l'article
 
 ###### Article L433-1
 
-Les contrats conclus par les organismes privés d'habitations à loyer modéré sont soumis aux principes de publicité, de mise
-en concurrence et d'exécution prévus par le code des marchés publics dans des conditions fixées par décret en Conseil d'Etat.
+Les marchés conclus par les organismes privés d'habitation à loyer modéré sont soumis aux dispositions de l'ordonnance n°
+2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des
+marchés publics.
 
 **Liens relatifs à cet article**
 
@@ -21037,9 +21038,13 @@ en concurrence et d'exécution prévus par le code des marchés publics dans des
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 48 (Ab) JORF 30 janvier 1993
+	  - Ordonnance 2005-649 2005-06-06
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 41 () JORF 15 mai 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -26217,9 +26222,9 @@ les logements faisant l'objet des conventions régies par le chapitre III du tit
 
 ###### Article L481-4
 
-Les contrats conclus par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements
-sociaux sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par le code des marchés publics
-dans des conditions fixées par décret en Conseil d'Etat.
+Les marchés conclus par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements
+sociaux sont soumis aux dispositions de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
+personnes publiques ou privées non soumises au code des marchés publics.
 
 **Liens relatifs à cet article**
 
@@ -26227,9 +26232,13 @@ dans des conditions fixées par décret en Conseil d'Etat.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 48 (Ab) JORF 30 janvier 1993
+	  - Ordonnance 2005-649 2005-06-06
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 41 () JORF 15 mai 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
