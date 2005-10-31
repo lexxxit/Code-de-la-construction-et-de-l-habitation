@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-09-02
+Version Consolidée au 2005-11-01
 
 # Partie législative
 
@@ -274,6 +274,41 @@ collectives ainsi que des équipements communs et de sécurité.
 	**Abrogé par**:
 
 	  - Loi n°2014-366 du 24 mars 2014 - art. 58 (V)
+
+
+##### Sous-section 3 : Accès des opérateurs de services postaux et des porteurs de presse aux boîtes aux lettres particulières.
+
+###### Article L111-6-3
+
+Pour l'application de l'article L. 5-10 du code des postes et des communications électroniques, les propriétaires ou, en cas
+de copropriété, le syndicat représenté par le syndic permettent au prestataire du service universel postal et aux opérateurs
+titulaires de l'autorisation prévue à l'article L. 3 du même code d'accéder, selon des modalités identiques, aux boîtes aux
+lettres particulières. 
+
+Les porteurs et les vendeurs colporteurs de presse inscrits auprès du Conseil supérieur des messageries de presse, agissant
+pour le compte d'une entreprise de presse ou d'une société de portage de presse, titulaire de l'autorisation prévue à
+l'article L. 3 du code des postes et des communications électroniques, ont accès aux boîtes aux lettres particulières selon
+les mêmes modalités que les agents chargés de la distribution au domicile agissant pour le compte des opérateurs visés à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2005-516 2005-05-20 art. 18 : date d'application
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L3 (V)
+	  - Code des postes et des communications électroni... - art. L5-10 (V)
 
 
 ##### Section 3 : Personnes handicapées ou à mobilité réduite.
