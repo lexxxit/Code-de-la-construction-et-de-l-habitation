@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-01
+Version Consolidée au 2005-11-04
 
 # Partie législative
 
@@ -54164,6 +54164,36 @@ respectée.
 	  - Code de la construction et de l'habitation. - art. R323-30 (Ab)
 
 
+###### Article R323-22
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par la présente section
+concernant les logements et les immeubles situés dans le périmètre de la convention de délégation. Cette convention prévoit
+si l'instruction des demandes de subvention est assurée par la direction départementale de l'équipement en application de
+l'article 112 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13 art. 112
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°2005-1373 du 27 octobre 2005 - art. 1 () JORF 4 novembre 2005
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R323-30 (Ab)
+
+
 #### Chapitre V : Restauration immobilière.
 
 ###### Article R*325-1
@@ -68139,6 +68169,38 @@ la date de demande de décision favorable, cette demande est réputée rejetée.
 	  - Code de la construction et de l'habitation. - art. R372-6 (V)
 
 
+###### Article R372-4-1
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par le présent chapitre
+concernant la réalisation de logements ou d'immeubles situés dans le périmètre de la convention de délégation. Cette
+convention prévoit si l'instruction des demandes de décision favorable mentionnée à l'article R. 372-4 est assurée par la
+direction départementale de l'équipement en application de l'article 112 de la loi n° 2004-809 du 13 août 2004 relative aux
+libertés et responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13 art. 112
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+	  - Code de la construction et de l'habitation. - art. R372-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-1373 du 27 octobre 2005 - art. 2 () JORF 4 novembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2010-1315 du 2 novembre 2010 - art. 1 (Ab)
+
+
 ###### Article R372-5
 
 Pour pouvoir faire l'objet d'une décision favorable, les demandeurs de subventions et de prêts doivent s'engager à ce que,
@@ -68377,7 +68439,10 @@ Le montant de la majoration de subvention de l'Etat ne peut en aucun cas être s
 
 ###### Article R372-12
 
-La subvention est versée par l'Etat à l'organisme bénéficiaire dans les conditions suivantes :
+La subvention est versée par l'Etat ou, pour les logements et les immeubles situés dans le périmètre d'une convention de
+délégation de compétence signée en application des articles L. 301-5-1 et L. 301-5-2, par l'établissement public de
+coopération intercommunale délégataire ou le conseil général délégataire à l'organisme bénéficiaire dans les conditions
+suivantes :
 
 - un acompte peut, dans la limite de 30 % de son montant, être versé aux organismes bénéficiaires, après passation des
 marchés et sur constatation du commencement d'exécution des travaux ;
@@ -68396,12 +68461,14 @@ montant recalculé conformément à la modification de l'assiette prévue à l'a
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
+	  - Décret n°2005-1373 du 27 octobre 2005 - art. 3 () JORF 4 novembre 2005
 
 	**Cite**:
 
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 	  - Code de la construction et de l'habitation. - art. R372-10 (V)
 
 
