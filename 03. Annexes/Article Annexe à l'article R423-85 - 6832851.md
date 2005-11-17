@@ -41,7 +41,7 @@ réalisations ;
 (1) La clause prévue au 5° ne peut être insérée dans les statuts que lorsque la société a été spécialement agréée dans les
 conditions fixées à l'article R. 423-87 du code de la construction et de l'habitation.
 
-(2) Ne mentionner que celles des compétences énumérées aux alinéas troisième et suivants de l'article L. 422-2 du code de la
+(2) Ne mentionner que celles des compétences énumérées aux alinéas quatrième et suivants de l'article L. 422-2 du code de la
 construction et de l'habitation et qui sont communes aux organismes publics et aux sociétés anonymes d'habitations à loyer
 modéré pour l'exercice desquelles la société a été spécialement agréée.
 
@@ -132,6 +132,6 @@ Les statuts de la société sont transmis au préfet du département du siège d
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 5 () JORF 7 septembre 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 4 () JORF 18 novembre 2005

@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-04
+Version Consolidée au 2005-11-18
 
 # Partie législative
 
@@ -71579,84 +71579,90 @@ assemblée générale extraordinaire tenue après la publication desdites dispos
 
 ###### Article R*422-1-1
 
-I. - Dans les assemblées générales des sociétés anonymes d'habitations à loyer modéré, le total des voix dont disposent les
-actionnaires est égal à dix fois le nombre des actions de la société.
+I.-Dans les assemblées générales des sociétés anonymes d'habitations à loyer modéré, le total des voix dont disposent les
+actionnaires est égal à dix fois le nombre des actions de la société. 
 
-II. - L'actionnaire de référence mentionné au 1° du I de l'article L. 422-2-1 et les actionnaires mentionnés au 4° du même I
-disposent ensemble des deux tiers des voix moins une, arrondis le cas échéant à l'entier inférieur.
+II.-L'actionnaire de référence mentionné au 1° du I de l'article L. 422-2-1 et les actionnaires mentionnés au 4° du même I
+disposent ensemble des deux tiers des voix moins une, arrondis le cas échéant à l'entier inférieur. 
 
 Il est attribué à chacune des deux catégories un nombre de voix, arrondi le cas échéant à l'entier inférieur, proportionnel
 au capital détenu par les actionnaires qui la constituent. Les voix restantes sont attribuées selon la règle du plus fort
 reste. En cas d'égalité des restes, il est procédé à un tirage au sort par huissier. Toutefois, le nombre des voix attribuées
-à l'actionnaire de référence ne peut être inférieur à la moitié plus une du total des voix mentionné au I du présent article.
+à l'actionnaire de référence ne peut être inférieur à la moitié plus une du total des voix mentionné au I du présent
+article. 
 
 Dans chacune des deux catégories, les voix sont attribuées à chaque actionnaire proportionnellement à la fraction du capital
 qu'il détient, le nombre de voix attribuées étant, le cas échéant, arrondi à l'entier inférieur. Les voix restantes sont
-attribuées selon la règle du plus fort reste. En cas d'égalité de restes, il est procédé à un tirage au sort par huissier.
+attribuées selon la règle du plus fort reste. En cas d'égalité de restes, il est procédé à un tirage au sort par huissier. 
 
 Lorsque l'une des deux catégories ne comporte aucun actionnaire, les voix sont attribuées aux actionnaires de l'autre
-catégorie selon les modalités définies à l'alinéa précédent.
+catégorie selon les modalités définies à l'alinéa précédent. 
 
-III. - Les collectivités territoriales et établissements publics mentionnés au 2° du I de l'article L. 422-2-1 et les
+III.-Les collectivités territoriales et établissements publics mentionnés au 2° du I de l'article L. 422-2-1 et les
 représentants des locataires mentionnés au 3° du même I disposent ensemble du tiers des voix plus une, arrondi le cas échéant
-à l'entier supérieur.
+à l'entier supérieur. 
 
 Les voix sont réparties entre les deux catégories par les statuts, sans que le nombre de voix attribuées à chacune soit
-inférieur au dixième du total des voix, arrondi le cas échéant à l'entier supérieur.
+inférieur au dixième du total des voix, arrondi le cas échéant à l'entier supérieur. 
 
 Lorsque l'une des deux catégories ne comporte aucun actionnaire, les voix sont attribuées aux actionnaires de l'autre
-catégorie. Lorsqu'il n'existe d'actionnaire dans aucune des deux catégories, les voix ne sont pas attribuées.
+catégorie. Lorsqu'il n'existe d'actionnaire dans aucune des deux catégories, les voix ne sont pas attribuées. 
 
-IV. - Au sein de la catégorie mentionnée au 2° du I de l'article L. 422-2-1, un quart des voix, arrondi le cas échéant à
+IV.-Au sein de la catégorie mentionnée au 2° du I de l'article L. 422-2-1, un quart des voix, arrondi le cas échéant à
 l'entier supérieur, est attribué au groupe formé par les régions et le reste au groupe formé par les départements et les
-établissements publics.
+établissements publics. 
 
 Lorsqu'il n'existe aucun actionnaire de l'un de ces groupes, les voix sont attribuées à l'autre groupe et réparties selon les
-règles propres à ce dernier groupe.
+règles propres à ce dernier groupe. 
 
 Deux mois avant la tenue de l'assemblée générale, la société communique aux collectivités et établissements intéressés les
 informations nécessaires pour arrêter l'état de répartition et les conditions de sa révision périodique en fonction des
-évolutions du patrimoine de la société et des changements intervenus dans son actionnariat.
+évolutions du patrimoine de la société et des changements intervenus dans son actionnariat. 
 
-V. - Au sein du groupe formé par les régions, les voix sont réparties entre ces collectivités en tenant compte de
+V.-Au sein du groupe formé par les régions, les voix sont réparties entre ces collectivités en tenant compte de
 l'implantation géographique des logements et des lits de logements-foyers détenus par la société, chaque région actionnaire
 disposant d'au moins une voix. La répartition est arrêtée par décisions concordantes des présidents des conseils régionaux
 intéressés. Ces présidents désignent un mandataire qui notifie le résultat de la répartition au président du conseil
-d'administration ou de surveillance de la société.
+d'administration ou de surveillance de la société. 
 
-A défaut de notification, dans les conditions prévues aux articles 667 à 669 du nouveau code de procédure civile, de l'état
-de répartition cinq jours avant la date de l'assemblée générale, il est procédé à cette répartition selon les modalités
-suivantes. Il est attribué en premier lieu une voix à chaque région. Les voix restantes sont ensuite réparties entre les
-régions en attribuant à chacune un nombre de voix, arrondi le cas échéant à l'entier inférieur, proportionnel au nombre de
-logements et de lits de logements-foyers situés sur son territoire, un lit de logement-foyer comptant pour le tiers d'un
-logement. Enfin les voix non encore affectées sont attribuées selon la règle du plus fort reste et, en cas d'égalité des
-restes, par tirage au sort effectué par huissier. Le président du conseil d'administration proclame au début de l'assemblée
-générale les résultats de cette répartition.
+Faute pour le président du conseil d'administration ou de surveillance d'avoir reçu notification de cette répartition, par
+lettre recommandée avec avis de réception, cinq jours avant la date de l'assemblée générale, il est procédé à cette
+répartition selon les modalités suivantes. Il est attribué en premier lieu une voix à chaque région. Les voix restantes sont
+ensuite réparties entre les régions en attribuant à chacune un nombre de voix, arrondi le cas échéant à l'entier inférieur,
+proportionnel au nombre de logements et de lits de logements-foyers situés sur son territoire, un lit de logement-foyer
+comptant pour le tiers d'un logement. Enfin les voix non encore affectées sont attribuées selon la règle du plus fort reste
+et, en cas d'égalité des restes, par tirage au sort effectué par huissier. Le président du conseil d'administration ou de
+surveillance proclame au début de l'assemblée générale les résultats de cette répartition. 
 
-VI. - Au sein du groupe des départements et des établissements publics, les voix sont réparties en tenant compte de
+VI.-Au sein du groupe des départements et des établissements publics, les voix sont réparties en tenant compte de
 l'implantation géographique des logements et logements-foyers détenus par la société, chaque actionnaire ayant au moins une
 voix. Pour les départements, sont pris en compte les logements et les lits de logements-foyers situés à l'intérieur de leurs
 limites territoriales à l'exclusion de ceux qui sont implantés dans le ressort territorial des établissements publics
-actionnaires mentionnés au 2° du I de l'article L. 422-2-1.
+actionnaires mentionnés au 2° du I de l'article L. 422-2-1. 
 
 La répartition est arrêtée par décisions concordantes des présidents des conseils généraux et des établissements publics.
 Ceux-ci désignent un mandataire chargé de notifier le résultat de la répartition au président du conseil d'administration ou
-de surveillance de la société.
+de surveillance de la société. 
 
-A défaut de notification, dans les conditions prévues aux articles 667 à 669 du nouveau code de procédure civile, de l'état
-de répartition cinq jours avant la date de l'assemblée générale, il est procédé à cette répartition selon les modalités
-suivantes. Il est attribué en premier lieu une voix à chaque département et à chaque établissement public. Les voix restantes
-sont réparties en attribuant à chacun des actionnaires un nombre de voix, arrondi le cas échéant à l'entier inférieur,
-proportionnel, pour un établissement public, au nombre de logements et de lits de logements-foyers situés dans son ressort
-territorial et, pour un département, au nombre de logements et de lits de logements-foyers situés à l'intérieur de ses
-limites territoriales à l'exclusion de ceux situés dans le ressort territorial des établissements publics actionnaires. Un
-lit de logement-foyer compte pour le tiers d'un logement. Enfin les voix non encore affectées sont attribuées selon la règle
-du plus fort reste et, en cas d'égalité de restes, par tirage au sort effectué par huissier. Le président du conseil
-d'administration proclame au début de l'assemblée générale les résultats de cette répartition.
+Faute pour le président du conseil d'administration ou de surveillance d'avoir reçu notification de cette répartition, par
+lettre recommandée avec avis de réception, cinq jours avant la date de l'assemblée générale, il est procédé à cette
+répartition selon les modalités suivantes. Il est attribué en premier lieu une voix à chaque département et à chaque
+établissement public. Les voix restantes sont réparties en attribuant à chacun des actionnaires un nombre de voix, arrondi le
+cas échéant à l'entier inférieur, proportionnel, pour un établissement public, au nombre de logements et de lits de
+logements-foyers situés dans son ressort territorial et, pour un département, au nombre de logements et de lits de logements-
+foyers situés à l'intérieur de ses limites territoriales à l'exclusion de ceux situés dans le ressort territorial des
+établissements publics actionnaires. Un lit de logement-foyer compte pour le tiers d'un logement. Enfin les voix non encore
+affectées sont attribuées selon la règle du plus fort reste et, en cas d'égalité de restes, par tirage au sort effectué par
+huissier. Le président du conseil d'administration ou de surveillance proclame au début de l'assemblée générale les résultats
+de cette répartition. 
 
-VII. - Les voix attribuées à la catégorie des représentants des locataires sont réparties par parts égales, arrondies le cas
+VII.-Les voix attribuées à la catégorie des représentants des locataires sont réparties par parts égales, arrondies le cas
 échéant à l'entier inférieur, entre chacun des représentants des locataires. Les voix restantes sont attribuées au
 représentant le mieux placé sur la liste ayant obtenu le plus de suffrages.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -71664,13 +71670,9 @@ représentant le mieux placé sur la liste ayant obtenu le plus de suffrages.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-641 2004-07-01 art. 11 I : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-641 du 1 juillet 2004 - art. 1 () JORF 3 juillet 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 1 () JORF 18 novembre 2005
 
 	**Cité par**:
 
@@ -71678,8 +71680,7 @@ représentant le mieux placé sur la liste ayant obtenu le plus de suffrages.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
-	  - Nouveau code de procédure civile 667 à 669
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (V)
 
 
 ###### Article R*422-1-2
@@ -93851,66 +93852,90 @@ sociétés civiles immobilières ayant pour objet la réalisation d'immeubles à
 d'habitation destinés à des accédants dont les ressources n'excèdent pas les plafonds fixés en application de l'article R.
 443-34 du code de la construction et de l'habitation ;
 
-8° De construire, acquérir, réaliser des travaux, gérer des immeubles à usage d'habitation ou à usage professionnel et
+8° Après avoir souscrit ou acquis des parts d'une société civile immobilière ayant pour objet la réalisation d'immeubles à
+usage d'habitation ou à usage professionnel et d'habitation destinés à des accédants dont les ressources n'excèdent pas les
+plafonds fixés en application de l'article R. 443-34 du code de la construction et de l'habitation, d'être syndic de
+copropriété ou d'exercer les fonctions d'administrateur de biens de ces immeubles ;
+
+9° De construire, acquérir, réaliser des travaux, gérer des immeubles à usage d'habitation ou à usage professionnel et
 d'habitation en vue de leur location-accession ;
 
-9° De réaliser, pour le compte d'associations ou d'organismes agréés dans le domaine du logement social, des prestations de
+10° De réaliser, pour le compte d'associations ou d'organismes agréés dans le domaine du logement social, des prestations de
 services pour des opérations ou des actions de nature à favoriser l'insertion sociale des personnes et la mixité urbaine et
 sociale des villes et des quartiers ;
 
-10° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+11° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
 entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
 
-11° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté et les donner en
+12° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté et les donner en
 location à des organismes agréés par le préfet du département du lieu de situation de ces hôtels ;
 
-12° D'intervenir comme prestataire de services de sociétés d'économie mixte pour la réalisation d'opérations d'aménagement,
-après y avoir été spécialement agréée dans les conditions de l'article R. 422-4 du code de la construction et de
-l'habitation ;
+13° D'intervenir comme prestataire de services de sociétés d'économie mixte pour la réalisation d'opérations d'aménagement,
+après y avoir été spécialement agréée dans les conditions de l'article R. 422-4 du code de la construction et de l'habitation
+(1) ;
 
-13° Avec l'accord du maire de la commune d'implantation et celui du préfet donnés dans les conditions fixées à l'article R.
+14° Avec l'accord du maire de la commune d'implantation et celui du préfet donnés dans les conditions fixées à l'article R.
 442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
-dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés (1) ;
+dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-14° Dans des copropriétés mentionnées au 13 ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article L.
+15° Dans des copropriétés mentionnées au 13 ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article L.
 615-1 du code de la construction et de l'habitation, acquérir des lots en vue de leur revente, y effectuer tous travaux et
 les louer provisoirement. Les dispositions du 7° de l'article R. 421-4 du même code sont applicables aux conditions de
 revente et de location de ces lots ;
 
-15° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-1, R. 421-4
+16° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles faisant l'objet d'un
+plan de sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ;
+
+17° Avec l'accord du maire de la commune d'implantation, d'être syndic de copropriétés situées dans le périmètre d'une
+opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
+l'habitation et qui satisfont aux caractéristiques de décence mentionnées à l'article L. 442-11 ;
+
+18° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction
+et de l'habitation ;
+
+19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du même code ;
+
+20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements appartenant à des
+personnes privées et vacants depuis plus d'un an ;
+
+21° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-1, R. 421-4
 (6°) et R. 421-4-1 du code de la construction et de l'habitation ;
 
-16° De se voir confier par convention la réalisation d'une opération de restructuration urbaine qui peut comprendre toutes
+22° De se voir confier par convention la réalisation d'une opération de restructuration urbaine qui peut comprendre toutes
 opérations ou actions ou tous aménagements ou équipements de nature à favoriser une politique de développement social urbain
 telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance
 pour la ville. La convention peut inclure des actions d'insertion professionnelle et sociale en faveur des habitants des
 grands ensembles ou des quartiers d'habitat dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire ;
 
-17° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
+23° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
 fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
 
-18° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
+24° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
 construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association, des immeubles à usage principal d'habitation destinés à la location ;
 
-19° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de
+25° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de
 développement à caractère social d'intérêt direct pour les habitants des quartiers d'habitat social, dans le cadre des
 contrats de ville conclus en application de l'article 27 de la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement
 et le développement durable du territoire ;
 
-20° De réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-
+26° De réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-
 sociaux pour les besoins d'un établissement public de santé dans les conditions fixées par l'article L. 6148-7 du code de la
 santé publique ;
 
-21° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
+27° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
 finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont détenues à 99
 % au moins par cette association ;
 
-22° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
+28° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
 
-23° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
+29° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
 habilitées par les textes législatifs s'y rapportant.
 
 4. Compétence territoriale - Siège social.
@@ -94104,25 +94129,39 @@ L'article 6 du décret n° 2005-1416 du 16 novembre 2005 reporte cette date au 3
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°67-236 1967-03-23
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+	  - Loi n°99-533 du 25 juin 1999 - art. 27 (V)
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Décret n°2004-641 2004-07-01
+	  - Code de commerce. - art. L232-11 (M)
+	  - Code de la santé publique - art. L6148-7 (V)
+	  - Code de la construction et de l'habitation L443-14, R443-34, R422-4, R442-23, L615-1, R421-4, L303-1, L442-11, L444-1, L261-1 à L261-22, L424-2, L443-15, L423-5, L423-4, L422-2-1, R421-56, R422-1-1, L441-2, R422-2, R441-9, R422-2-1, 11, R422-1
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L424-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-15 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+	  - Code de la construction et de l'habitation. - art. R443-34 (Ab)
+
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 annexe JORF 8 juin 1978
-
 	**Modifié par**:
 
-	  - Décret n°83-754 1983-08-05 annexe JORF 17 août 1983
-	  - Décret n°87-158 1987-03-09 annexe JORF 10 mars 1987
-	  - Décret n°91-385 1991-04-23 annexe JORF 24 avril 1991
-	  - Décret n°92-726 1992-07-29 annexe JORF 30 juillet 1992
-	  - Décret n°93-747 1993-03-27 annexe JORF 30 mars 1993
-	  - Décret n°98-783 du 28 août 1998 - art. 1 () JORF 4 septembre 1998
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 5 () JORF 14 septembre 2002
-	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
-	  - Décret n°2004-641 du 1 juillet 2004 - art. 10 () JORF 3 juillet 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 2 () JORF 18 novembre 2005
 
 
 ## Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.
@@ -94207,7 +94246,7 @@ logement ou de personnes physiques ;
 442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
 dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-15° D'acquérir des lots dans des copropriétés mentionnées au 13° ci-dessus qui font l'objet d'un plan de sauvegarde en
+15° D'acquérir des lots dans des copropriétés mentionnées au 14° ci-dessus qui font l'objet d'un plan de sauvegarde en
 application de l'article L. 615-1 du code de la construction et de l'habitation. La revente de ces lots n'est pas soumise aux
 dispositions du chapitre III du titre IV du livre IV de ce code mais requiert l'avis préalable du service des domaines. La
 location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du livre IV du même code,
@@ -94217,30 +94256,49 @@ plafonds de loyers fixés en application du troisième alinéa du g du 1° du I 
 outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux contrats de location
 qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur ;
 
-16° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+16° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles faisant l'objet d'un
+plan de sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ;
+
+17° Avec l'accord du maire de la commune d'implantation, d'être syndic de copropriétés situées dans le périmètre d'une
+opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
+l'habitation et qui satisfont aux caractéristiques de décence mentionnées à l'article L. 442-11 ;
+
+18° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction
+et de l'habitation ;
+
+19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du même code ;
+
+20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements appartenant à des
+personnes privées et vacants depuis plus d'un an ;
+
+22° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
 entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
 
-17° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
+23° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
 gestion ou pour les populations logées dans le patrimoine d'autres organismes d'habitations à loyer modéré ;
 
-18° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
+24° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
 
-19° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
+25° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
 fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
 
-20° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
+26° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
 et l'aménagement de terrains qu'elle pourra ultérieurement céder à ces personnes ;
 
-21° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
+27° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
 construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
 2001-1275 du 28 décembre 2001), ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association, des immeubles à usage principal d'habitation destinés à la location ;
 
-22° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
+28° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
 finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association ;
 
-23° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
+29° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
 modéré sont ou seront habilitées par les textes législatifs s'y rapportant.
 
 4. Compétence territoriale - Siège social.
@@ -94299,24 +94357,24 @@ La société ne peut procéder à l'amortissement de son capital.
 
 6. Retraits - Exclusions.
 
-Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés ou
-d'actionnaires. Le retrait ou l'exclusion d'associés ou d'actionnaires ne peut avoir pour effet de réduire le capital
-effectif, ni à un montant inférieur au minimum légal, ni en dessous de ... p. 100 du capital le plus élevé de la société
-depuis sa constitution. Il ne peut en outre avoir pour effet de réduire le nombre des actionnaires à moins de sept.
+Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou
+l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni
+en dessous de ... % du capital le plus élevé de la société depuis sa constitution. Il ne peut en outre avoir pour effet de
+réduire le nombre des associés à moins de sept.
 
-Le retrait d'associés ou d'actionnaires n'ayant pas recours aux services de la société ou dont la société n'utilise pas le
-travail ne peut être réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en ait été
-informé par pli recommandé avec avis de réception.
+Le retrait d'associés n'ayant pas recours aux services de la société ou dont la société n'utilise pas le travail ne peut être
+réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en a été informé par pli
+recommandé avec avis de réception.
 
-L'exclusion d'associés ou d'actionnaires ne peut être prononcée que par une décision d'assemblée générale prise dans les
-conditions de quorum et de majorité d'une assemblée générale extraordinaire.
+L'exclusion d'associés ne peut être prononcée que par décision d'assemblée générale prise dans les conditions de quorum et de
+majorité d'une assemblée générale extraordinaire.
 
 L'exclusion est notifiée à l'intéressé par la société, par pli recommandé avec demande d'avis de réception ; il dispose d'un
-délai de six mois à compter de cette notification pour céder ses actions dans les conditions fixées par la clause 7 des
-présents statuts.
+délai de six mois à compter de cette notification pour céder ses parts sociales dans les conditions fixées par la clause 7
+des présents statuts.
 
-Les actionnaires ou associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les
-tiers de toutes les obligations existant au jour de leur retrait ou de leur exclusion.
+Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes
+les obligations existant au jour de leur retrait ou de leur exclusion.
 
 7. Cession de parts sociales.
 
@@ -94368,31 +94426,28 @@ conditions prévues à l'article R. 421-56.
 
 10. Expression des voix aux assemblées.
 
-Chaque associé ou actionnaire mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix,
-quel que soit le nombre des actions qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres
-actionnaires, plus de dix voix dans les assemblées, la sienne comprise.
+Chaque associé mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix, quel que soit le
+nombre des parts sociales qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres associés, plus
+de dix voix dans les assemblées, la sienne comprise.
 
-Les associés visés aux alinéas 5 à 8 de la clause n° 5 des présents statuts disposent de droits de vote correspondant au
-nombre des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5.
+Les associés mentionnés aux cinquième et huitième alinéas de la clause 5 disposent de droits de vote correspondant au nombre
+des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5.
 
 11. Année sociale.
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre.
 
-12. Contrats.
+12. Commission d'attribution
 
-En dehors des cas où la société utilise les contrats prévus en application des articles L. 222-1 et L. 231-1 du code de la
-construction et de l'habitation, les contrats de prestation de services qui seront conclus par la société avec des sociétés
-coopératives de construction, des personnes physiques ou des sociétés coopératives, dans le cadre de la clause 3 des présents
-statuts, seront conformes à des modèles types établis par arrêté du ministre chargé du logement et du ministre chargé du
-Trésor.
+La ou les commissions d'attribution des logements locatifs prévues en application de l'article L. 441-2 du code de la
+construction et de l'habitation sont constituées et fonctionnent conformément à l'article R. 441-9 du même code.
 
 13. Documents transmis à l'administration.
 
 Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article L. 225-100 du
 code de commerce, la société adresse au préfet du département de son siège, à la Caisse des dépôts et consignations et au
-ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale des
-actionnaires, ainsi que le compte rendu de celle-ci.
+ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale, ainsi que
+le compte rendu de celle-ci.
 
 En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
 adressée dans les même conditions.
@@ -94428,20 +94483,43 @@ la moitié du capital social que dans les conditions prévues par le code de la 
 
 Les statuts de la société sont transmis au préfet du département du siège de la société après chaque modification.
 
-18. Révision comptable.
+18. Révision coopérative.
 
 La société fait procéder périodiquement à l'examen analytique de sa situation financière et de sa gestion, conformément à
 l'article L. 422-3 du code de la construction et de l'habitation.
 
-19. Commission d'attribution (1).
-
-La (ou les) commission(s) d'attribution des logements locatifs prévue(s) en application de l'article L. 441-1-1 du code de la
-construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conformément à l'article R. 441-18 du même code.
-
-(1) Cette clause ne doit figurer que dans les statuts des sociétés bénéficiant de l'autorisation mentionnée à l'article L.
-422-3-2 du code de la construction et de l'habitation.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - Loi n°47-1775 1947-09-10 art. 27, art. 27 bis, art. 3 bis, art. 14
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 27 (M)
+	  - Décret n°67-236 1967-03-23
+	  - Loi n°84-595 1984-07-12
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 1989-07-06 art. 40, art. 15
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de commerce. - art. L225-100 (M)
+	  - Code de commerce. - art. L232-12 (V)
+	  - Code de la construction et de l'habitation R443-34, R422-9-2 à R422-9-5, L421-1, R422-9, L443-14, L451-5, R442-23, L615-1, L303-1, L442-11, L443-15, L444-1, L261-1 à L261-22, L423-5, L423-4, L422-3, R421-56, L441-2, R441-9, L422-13
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-13 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-15 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
+	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+	  - Code de la construction et de l'habitation. - art. R443-34 (Ab)
 
 	**Anciens textes**:
 
@@ -94451,9 +94529,9 @@ construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conf
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 3 () JORF 18 novembre 2005
 
 
 ## Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.
@@ -94464,12 +94542,21 @@ Les clauses types des statuts des sociétés anonymes coopératives d'intérêt 
 identiques à celles des statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré, à l'exception
 des clauses suivantes :
 
-2° Dénomination.
+1. Forme
+
+Il est formé, entre les propriétaires des parts sociales créées ci-après et de toutes celles qui le seraient ultérieurement,
+une société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré, société à capital variable régie par les
+dispositions du livre IV du code de la construction et de l'habitation, ainsi que par les dispositions non contraires de la
+loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, du code civil et du code de commerce,
+notamment des articles L. 231-1 à L. 231-8, et par celles du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés
+commerciales et du décret n° 2002-241 du 21 février 2002 relatif à la société coopérative d'intérêt collectif.
+
+2. Dénomination.
 
 La dénomination de la société est : ...  société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré,
 société à capital variable.
 
-5° Capital social.
+5. Capital social.
 
 Le capital est variable et entièrement libéré lors de la souscription de parts sociales.
 
@@ -94495,7 +94582,7 @@ et de l'habitation doivent être réalisées dans le respect des conditions fix�
 
 La société ne peut procéder à l'amortissement de son capital.
 
-6° Retraits - Exclusions.
+6. Retraits - Exclusions.
 
 Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou
 l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni
@@ -94516,14 +94603,14 @@ des présents statuts.
 Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes
 les obligations existant au jour de leur retrait ou de leur exclusion.
 
-9° Situation des administrateurs et membres du conseil de surveillance.
+9. Situation des administrateurs et membres du conseil de surveillance.
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
 conditions prévues à l'article R. 421-56 du code de la construction et de l'habitation. Toutefois, tout associé salarié de la
 société peut être nommé en qualité de membre du conseil d'administration ou du conseil de surveillance sans perdre le
 bénéfice de son contrat de travail.
 
-10° Expression des voix aux assemblées.
+10. Expression des voix aux assemblées.
 
 A chaque catégorie d'associés correspond un même collège d'associés. Les associés d'un même collège peuvent être répartis en
 sections délibérant séparément.
@@ -94547,7 +94634,7 @@ Le collège des salariés ne peut détenir plus de 15 % des droits de vote.
 
 (1) A compléter par la société.
 
-15° Réserves.
+15. Réserves.
 
 Conformément à l'article L. 423-5 du code de la construction et de l'habitation et sous réserve des exceptions prévues par
 cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporés au capital.
@@ -94558,7 +94645,7 @@ sociétés coopératives d'HLM, et la répartition éventuelle de dividendes dan
 présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la
 société et à parer aux éventualités.
 
-16° Attribution de l'actif.
+16. Attribution de l'actif.
 
 Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur
 la liquidation décidera, après extinction du passif et remboursement du capital effectivement versé, d'attribuer l'actif net
@@ -94566,21 +94653,13 @@ subsistant soit à d'autres coopératives ou unions de coopératives, soit à de
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°47-1775 1947-09-10 art. 27, art. 13, art. 19 octies
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 13 (M)
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 27 (M)
-	  - Code de la construction et de l'habitation L423-5, R421-56
-	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 11 () JORF 15 octobre 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 5 () JORF 18 novembre 2005
 
 
 ## Statuts types des sociétés anonymes de crédit immobilier.
@@ -95300,7 +95379,7 @@ réalisations ;
 (1) La clause prévue au 5° ne peut être insérée dans les statuts que lorsque la société a été spécialement agréée dans les
 conditions fixées à l'article R. 423-87 du code de la construction et de l'habitation.
 
-(2) Ne mentionner que celles des compétences énumérées aux alinéas troisième et suivants de l'article L. 422-2 du code de la
+(2) Ne mentionner que celles des compétences énumérées aux alinéas quatrième et suivants de l'article L. 422-2 du code de la
 construction et de l'habitation et qui sont communes aux organismes publics et aux sociétés anonymes d'habitations à loyer
 modéré pour l'exercice desquelles la société a été spécialement agréée.
 
@@ -95391,9 +95470,9 @@ Les statuts de la société sont transmis au préfet du département du siège d
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 5 () JORF 7 septembre 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 4 () JORF 18 novembre 2005
 
 
 ## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.

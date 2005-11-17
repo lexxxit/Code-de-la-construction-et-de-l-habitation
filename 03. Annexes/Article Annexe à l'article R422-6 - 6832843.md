@@ -78,7 +78,7 @@ logement ou de personnes physiques ;
 442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
 dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-15° D'acquérir des lots dans des copropriétés mentionnées au 13° ci-dessus qui font l'objet d'un plan de sauvegarde en
+15° D'acquérir des lots dans des copropriétés mentionnées au 14° ci-dessus qui font l'objet d'un plan de sauvegarde en
 application de l'article L. 615-1 du code de la construction et de l'habitation. La revente de ces lots n'est pas soumise aux
 dispositions du chapitre III du titre IV du livre IV de ce code mais requiert l'avis préalable du service des domaines. La
 location des lots en attente de leur revente est, par dérogation aux dispositions du titre IV du livre IV du même code,
@@ -88,30 +88,49 @@ plafonds de loyers fixés en application du troisième alinéa du g du 1° du I 
 outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux contrats de location
 qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur ;
 
-16° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+16° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles faisant l'objet d'un
+plan de sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ;
+
+17° Avec l'accord du maire de la commune d'implantation, d'être syndic de copropriétés situées dans le périmètre d'une
+opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
+l'habitation et qui satisfont aux caractéristiques de décence mentionnées à l'article L. 442-11 ;
+
+18° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction
+et de l'habitation ;
+
+19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du même code ;
+
+20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements appartenant à des
+personnes privées et vacants depuis plus d'un an ;
+
+22° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
 entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
 
-17° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
+23° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine dont elle assure la
 gestion ou pour les populations logées dans le patrimoine d'autres organismes d'habitations à loyer modéré ;
 
-18° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
+24° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
 
-19° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
+25° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
 fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
 
-20° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
+26° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et de contracter des emprunts pour l'acquisition
 et l'aménagement de terrains qu'elle pourra ultérieurement céder à ces personnes ;
 
-21° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
+27° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
 construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
 2001-1275 du 28 décembre 2001), ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association, des immeubles à usage principal d'habitation destinés à la location ;
 
-22° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
+28° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
 finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association ;
 
-23° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
+29° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
 modéré sont ou seront habilitées par les textes législatifs s'y rapportant.
 
 4. Compétence territoriale - Siège social.
@@ -170,24 +189,24 @@ La société ne peut procéder à l'amortissement de son capital.
 
 6. Retraits - Exclusions.
 
-Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés ou
-d'actionnaires. Le retrait ou l'exclusion d'associés ou d'actionnaires ne peut avoir pour effet de réduire le capital
-effectif, ni à un montant inférieur au minimum légal, ni en dessous de ... p. 100 du capital le plus élevé de la société
-depuis sa constitution. Il ne peut en outre avoir pour effet de réduire le nombre des actionnaires à moins de sept.
+Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou
+l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni
+en dessous de ... % du capital le plus élevé de la société depuis sa constitution. Il ne peut en outre avoir pour effet de
+réduire le nombre des associés à moins de sept.
 
-Le retrait d'associés ou d'actionnaires n'ayant pas recours aux services de la société ou dont la société n'utilise pas le
-travail ne peut être réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en ait été
-informé par pli recommandé avec avis de réception.
+Le retrait d'associés n'ayant pas recours aux services de la société ou dont la société n'utilise pas le travail ne peut être
+réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en a été informé par pli
+recommandé avec avis de réception.
 
-L'exclusion d'associés ou d'actionnaires ne peut être prononcée que par une décision d'assemblée générale prise dans les
-conditions de quorum et de majorité d'une assemblée générale extraordinaire.
+L'exclusion d'associés ne peut être prononcée que par décision d'assemblée générale prise dans les conditions de quorum et de
+majorité d'une assemblée générale extraordinaire.
 
 L'exclusion est notifiée à l'intéressé par la société, par pli recommandé avec demande d'avis de réception ; il dispose d'un
-délai de six mois à compter de cette notification pour céder ses actions dans les conditions fixées par la clause 7 des
-présents statuts.
+délai de six mois à compter de cette notification pour céder ses parts sociales dans les conditions fixées par la clause 7
+des présents statuts.
 
-Les actionnaires ou associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les
-tiers de toutes les obligations existant au jour de leur retrait ou de leur exclusion.
+Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes
+les obligations existant au jour de leur retrait ou de leur exclusion.
 
 7. Cession de parts sociales.
 
@@ -239,31 +258,28 @@ conditions prévues à l'article R. 421-56.
 
 10. Expression des voix aux assemblées.
 
-Chaque associé ou actionnaire mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix,
-quel que soit le nombre des actions qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres
-actionnaires, plus de dix voix dans les assemblées, la sienne comprise.
+Chaque associé mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix, quel que soit le
+nombre des parts sociales qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres associés, plus
+de dix voix dans les assemblées, la sienne comprise.
 
-Les associés visés aux alinéas 5 à 8 de la clause n° 5 des présents statuts disposent de droits de vote correspondant au
-nombre des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5.
+Les associés mentionnés aux cinquième et huitième alinéas de la clause 5 disposent de droits de vote correspondant au nombre
+des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5.
 
 11. Année sociale.
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre.
 
-12. Contrats.
+12. Commission d'attribution
 
-En dehors des cas où la société utilise les contrats prévus en application des articles L. 222-1 et L. 231-1 du code de la
-construction et de l'habitation, les contrats de prestation de services qui seront conclus par la société avec des sociétés
-coopératives de construction, des personnes physiques ou des sociétés coopératives, dans le cadre de la clause 3 des présents
-statuts, seront conformes à des modèles types établis par arrêté du ministre chargé du logement et du ministre chargé du
-Trésor.
+La ou les commissions d'attribution des logements locatifs prévues en application de l'article L. 441-2 du code de la
+construction et de l'habitation sont constituées et fonctionnent conformément à l'article R. 441-9 du même code.
 
 13. Documents transmis à l'administration.
 
 Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article L. 225-100 du
 code de commerce, la société adresse au préfet du département de son siège, à la Caisse des dépôts et consignations et au
-ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale des
-actionnaires, ainsi que le compte rendu de celle-ci.
+ministre chargé du logement l'ensemble des documents comptables et les rapports présentés à l'assemblée générale, ainsi que
+le compte rendu de celle-ci.
 
 En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
 adressée dans les même conditions.
@@ -299,20 +315,43 @@ la moitié du capital social que dans les conditions prévues par le code de la 
 
 Les statuts de la société sont transmis au préfet du département du siège de la société après chaque modification.
 
-18. Révision comptable.
+18. Révision coopérative.
 
 La société fait procéder périodiquement à l'examen analytique de sa situation financière et de sa gestion, conformément à
 l'article L. 422-3 du code de la construction et de l'habitation.
 
-19. Commission d'attribution (1).
-
-La (ou les) commission(s) d'attribution des logements locatifs prévue(s) en application de l'article L. 441-1-1 du code de la
-construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conformément à l'article R. 441-18 du même code.
-
-(1) Cette clause ne doit figurer que dans les statuts des sociétés bénéficiant de l'autorisation mentionnée à l'article L.
-422-3-2 du code de la construction et de l'habitation.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - Loi n°47-1775 1947-09-10 art. 27, art. 27 bis, art. 3 bis, art. 14
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 27 (M)
+	  - Décret n°67-236 1967-03-23
+	  - Loi n°84-595 1984-07-12
+	  - Loi n°86-1290 1986-12-23
+	  - Loi n°89-462 1989-07-06 art. 40, art. 15
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Code de commerce. - art. L225-100 (M)
+	  - Code de commerce. - art. L232-12 (V)
+	  - Code de la construction et de l'habitation R443-34, R422-9-2 à R422-9-5, L421-1, R422-9, L443-14, L451-5, R442-23, L615-1, L303-1, L442-11, L443-15, L444-1, L261-1 à L261-22, L423-5, L423-4, L422-3, R421-56, L441-2, R441-9, L422-13
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-13 (M)
+	  - Code de la construction et de l'habitation. - art. L422-3 (M)
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-15 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
+	  - Code de la construction et de l'habitation. - art. L451-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+	  - Code de la construction et de l'habitation. - art. R443-34 (Ab)
 
 	**Anciens textes**:
 
@@ -322,6 +361,6 @@ construction et de l'habitation est (sont) contituée(s) et fonctionne(ent) conf
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 3 () JORF 18 novembre 2005

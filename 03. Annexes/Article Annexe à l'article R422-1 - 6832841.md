@@ -50,66 +50,90 @@ sociétés civiles immobilières ayant pour objet la réalisation d'immeubles à
 d'habitation destinés à des accédants dont les ressources n'excèdent pas les plafonds fixés en application de l'article R.
 443-34 du code de la construction et de l'habitation ;
 
-8° De construire, acquérir, réaliser des travaux, gérer des immeubles à usage d'habitation ou à usage professionnel et
+8° Après avoir souscrit ou acquis des parts d'une société civile immobilière ayant pour objet la réalisation d'immeubles à
+usage d'habitation ou à usage professionnel et d'habitation destinés à des accédants dont les ressources n'excèdent pas les
+plafonds fixés en application de l'article R. 443-34 du code de la construction et de l'habitation, d'être syndic de
+copropriété ou d'exercer les fonctions d'administrateur de biens de ces immeubles ;
+
+9° De construire, acquérir, réaliser des travaux, gérer des immeubles à usage d'habitation ou à usage professionnel et
 d'habitation en vue de leur location-accession ;
 
-9° De réaliser, pour le compte d'associations ou d'organismes agréés dans le domaine du logement social, des prestations de
+10° De réaliser, pour le compte d'associations ou d'organismes agréés dans le domaine du logement social, des prestations de
 services pour des opérations ou des actions de nature à favoriser l'insertion sociale des personnes et la mixité urbaine et
 sociale des villes et des quartiers ;
 
-10° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+11° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
 entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
 
-11° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté et les donner en
+12° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté et les donner en
 location à des organismes agréés par le préfet du département du lieu de situation de ces hôtels ;
 
-12° D'intervenir comme prestataire de services de sociétés d'économie mixte pour la réalisation d'opérations d'aménagement,
-après y avoir été spécialement agréée dans les conditions de l'article R. 422-4 du code de la construction et de
-l'habitation ;
+13° D'intervenir comme prestataire de services de sociétés d'économie mixte pour la réalisation d'opérations d'aménagement,
+après y avoir été spécialement agréée dans les conditions de l'article R. 422-4 du code de la construction et de l'habitation
+(1) ;
 
-13° Avec l'accord du maire de la commune d'implantation et celui du préfet donnés dans les conditions fixées à l'article R.
+14° Avec l'accord du maire de la commune d'implantation et celui du préfet donnés dans les conditions fixées à l'article R.
 442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
-dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés (1) ;
+dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-14° Dans des copropriétés mentionnées au 13 ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article L.
+15° Dans des copropriétés mentionnées au 13 ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article L.
 615-1 du code de la construction et de l'habitation, acquérir des lots en vue de leur revente, y effectuer tous travaux et
 les louer provisoirement. Les dispositions du 7° de l'article R. 421-4 du même code sont applicables aux conditions de
 revente et de location de ces lots ;
 
-15° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-1, R. 421-4
+16° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles faisant l'objet d'un
+plan de sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ;
+
+17° Avec l'accord du maire de la commune d'implantation, d'être syndic de copropriétés situées dans le périmètre d'une
+opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
+l'habitation et qui satisfont aux caractéristiques de décence mentionnées à l'article L. 442-11 ;
+
+18° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la construction
+et de l'habitation ;
+
+19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements situés dans le
+périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à l'article L. 303-1 du même code ;
+
+20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité d'administrateurs de biens et dans les
+conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements appartenant à des
+personnes privées et vacants depuis plus d'un an ;
+
+21° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-1, R. 421-4
 (6°) et R. 421-4-1 du code de la construction et de l'habitation ;
 
-16° De se voir confier par convention la réalisation d'une opération de restructuration urbaine qui peut comprendre toutes
+22° De se voir confier par convention la réalisation d'une opération de restructuration urbaine qui peut comprendre toutes
 opérations ou actions ou tous aménagements ou équipements de nature à favoriser une politique de développement social urbain
 telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance
 pour la ville. La convention peut inclure des actions d'insertion professionnelle et sociale en faveur des habitants des
 grands ensembles ou des quartiers d'habitat dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire ;
 
-17° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
+23° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions
 fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
 
-18° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
+24° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
 construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
 association, des immeubles à usage principal d'habitation destinés à la location ;
 
-19° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de
+25° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de
 développement à caractère social d'intérêt direct pour les habitants des quartiers d'habitat social, dans le cadre des
 contrats de ville conclus en application de l'article 27 de la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement
 et le développement durable du territoire ;
 
-20° De réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-
+26° De réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-
 sociaux pour les besoins d'un établissement public de santé dans les conditions fixées par l'article L. 6148-7 du code de la
 santé publique ;
 
-21° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
+27° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
 finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont détenues à 99
 % au moins par cette association ;
 
-22° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
+28° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
 
-23° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
+29° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
 habilitées par les textes législatifs s'y rapportant.
 
 4. Compétence territoriale - Siège social.
@@ -303,22 +327,36 @@ L'article 6 du décret n° 2005-1416 du 16 novembre 2005 reporte cette date au 3
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°67-236 1967-03-23
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+	  - Loi n°99-533 du 25 juin 1999 - art. 27 (V)
+	  - Loi n°2001-1275 2001-12-28 art. 116 Finances pour 2002
+	  - Décret n°2004-641 2004-07-01
+	  - Code de commerce. - art. L232-11 (M)
+	  - Code de la santé publique - art. L6148-7 (V)
+	  - Code de la construction et de l'habitation L443-14, R443-34, R422-4, R442-23, L615-1, R421-4, L303-1, L442-11, L444-1, L261-1 à L261-22, L424-2, L443-15, L423-5, L423-4, L422-2-1, R421-56, R422-1-1, L441-2, R422-2, R441-9, R422-2-1, 11, R422-1
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L424-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L443-14 (M)
+	  - Code de la construction et de l'habitation. - art. L443-15 (M)
+	  - Code de la construction et de l'habitation. - art. L444-1 (M)
+	  - Code de la construction et de l'habitation. - art. L615-1 (M)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+	  - Code de la construction et de l'habitation. - art. R443-34 (Ab)
+
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 annexe JORF 8 juin 1978
-
 	**Modifié par**:
 
-	  - Décret n°83-754 1983-08-05 annexe JORF 17 août 1983
-	  - Décret n°87-158 1987-03-09 annexe JORF 10 mars 1987
-	  - Décret n°91-385 1991-04-23 annexe JORF 24 avril 1991
-	  - Décret n°92-726 1992-07-29 annexe JORF 30 juillet 1992
-	  - Décret n°93-747 1993-03-27 annexe JORF 30 mars 1993
-	  - Décret n°98-783 du 28 août 1998 - art. 1 () JORF 4 septembre 1998
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 5 () JORF 14 septembre 2002
-	  - Décret n°2003-319 du 1 avril 2003 - art. 1 () JORF 8 avril 2003
-	  - Décret n°2004-641 du 1 juillet 2004 - art. 10 () JORF 3 juillet 2004
+	  - Décret n°2005-1416 du 16 novembre 2005 - art. 2 () JORF 18 novembre 2005
