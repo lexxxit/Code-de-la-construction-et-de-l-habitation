@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-18
+Version Consolidée au 2005-11-23
 
 # Partie législative
 
@@ -69524,7 +69524,16 @@ livre IV du présent code, soumise aux règles mentionnées à l'article 40 de l
 améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du
 loyer ne peut excéder les plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de l'article 31 du code
 général des impôts. En outre, les dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux
-contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur.
+contrats de location qui prennent fin au plus tard à la revente des lots, lorsque le congé émane du bailleur ;
+
+8° Etre syndic de copropriété d'immeubles réalisés par les sociétés civiles immobilières dont ils ont souscrit ou acquis des
+parts en application de l'article R. 423-15-1 (4°) et exercer les fonctions d'administrateur de biens pour les mêmes
+immeubles ;
+
+9° Gérer, en qualité de syndic de copropriété et d'administrateur de biens, après accord du maire de la commune
+d'implantation et dans les conditions fixées par l'article L. 442-11, des logements situés dans le périmètre défini pour une
+opération programmée d'amélioration de l'habitat visée à l'article L. 303-1 ainsi que des logements appartenant à des
+personnes privées et vacants depuis plus d'un an.
 
 **Liens relatifs à cet article**
 
@@ -69539,10 +69548,12 @@ contrats de location qui prennent fin au plus tard à la revente des lots, lorsq
 	  - Code de l'urbanisme - art. L300-1 (M)
 	  - Code de l'urbanisme - art. L313-3 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de la construction et de l'habitation L411-1, L351-2, L423-4 à L423-6, L421-1
+	  - Code de la construction et de l'habitation L411-1, L351-2, L423-4 à L423-6, L421-1, R423-15-1, L442-11, L303-1
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 	  - Code de la construction et de l'habitation. - art. L421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
 
 	**Codifié par**:
 
@@ -69550,7 +69561,7 @@ contrats de location qui prennent fin au plus tard à la revente des lots, lorsq
 
 	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 6 () JORF 7 septembre 2004
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 	**Cité par**:
 
@@ -73402,19 +73413,23 @@ Les offices publics d'aménagement et de construction placent leurs fonds dans l
 
 ###### Article R*423-15-1
 
-Les offices publics d'aménagement et de construction peuvent souscrire ou acquérir des parts ou actions émises par :
+Les offices publics d'aménagement et de construction peuvent souscrire ou acquérir des parts ou actions émises par : 
 
 1° Des sociétés d'habitations à loyer modéré, les parts détenues par l'office devant obligatoirement représenter plus de 50 %
-du capital de la société ;
+du capital de la société ; 
 
-2° Des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré ;
+2° Des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré ; 
 
-3° Des sociétés d'économie mixte.
+3° Des sociétés d'économie mixte ; 
 
-Les souscriptions, acquisitions et cessions doivent être autorisées par le conseil d'administration.
+4° Des sociétés civiles immobilières ayant pour objet la réalisation d'immeubles à usage d'habitation ou à usage
+professionnel et d'habitation destinés à des accédants dont les ressources n'excèdent pas les plafonds fixés en application
+de l'article R. 443-34. 
 
-Les souscriptions ou acquisitions de parts ou d'actions de sociétés anonymes d'habitations à loyer modéré ne peuvent être
-effectuées qu'après accord de la collectivité locale de rattachement de l'office.
+Les souscriptions, acquisitions et cessions doivent être autorisées par le conseil d'administration. 
+
+Les souscriptions ou acquisitions de parts ou d'actions de sociétés anonymes d'habitations à loyer modéré et de sociétés
+civiles immobilières ne peuvent être effectuées qu'après accord de la collectivité locale de rattachement de l'office.
 
 **Liens relatifs à cet article**
 
@@ -73422,9 +73437,18 @@ effectuées qu'après accord de la collectivité locale de rattachement de l'off
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 2 () JORF 7 septembre 2004
+	  - Décret n°2005-1439 2005-11-22 art. 1 II, III JORF 23 novembre 2005
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R443-34 (V)
 
 
 ###### Article R*423-16
@@ -75114,6 +75138,15 @@ modéré, de sociétés anonymes de coordination d'organismes d'habitations à l
 de sociétés ou d'organismes à caractère mutualiste ou coopératif susceptibles de faciliter leur action dans le cadre de la
 réglementation sur les HLM.
 
+Les sociétés anonymes d'habitations à loyer modéré peuvent souscrire ou acquérir des parts de sociétés civiles immobilières
+ayant pour objet la réalisation d'immeubles à usage d'habitation ou à usage professionnel et d'habitation destinés à des
+accédants dont les ressources n'excèdent pas les plafonds fixés en application de l'article R. 443-34 du code de la
+construction et de l'habitation.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -75122,7 +75155,7 @@ réglementation sur les HLM.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1087 du 14 octobre 2004 - art. 9 () JORF 15 octobre 2004
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 	**Anciens textes**:
 
@@ -75131,6 +75164,10 @@ réglementation sur les HLM.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-14 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R443-34 (Ab)
 
 
 ###### Article R423-76
@@ -75594,9 +75631,12 @@ logements faisant l'objet du mandat ;
 3° Du maire de la commune où sont situés les logements à attribuer, ou son représentant, avec voix délibérative, pour
 l'attribution de ces logements. Il dispose d'une voix prépondérante en cas d'égalité des voix.
 
-Les présidents des établissements publics de coordination intercommunale compétents en matière de programme local de
-l'habitat ou leurs représentants participent à titre consultatif aux séances de la commission pour l'attribution des
-logements situés sur le territoire relevant de leur compétence.
+Un représentant des associations menant des actions d'insertion ou en faveur du logement des personnes défavorisées participe
+avec voix consultative aux séances de la commission. Ce représentant est désigné dans des conditions prévues par décret.
+
+Les présidents des établissements publics de coopération intercommunale compétents en matière de programme local de l'habitat
+ou leurs représentants participent à titre consultatif aux séances de la commission pour l'attribution des logements situés
+sur le territoire relevant de leur compétence.
 
 En outre, les maires d'arrondissement des communes de Paris, Marseille et Lyon participent à titre consultatif aux séances de
 la commission pour ce qui concerne les logements à attribuer dans leur arrondissement.
@@ -75623,9 +75663,9 @@ an.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 3 () JORF 7 septembre 2004
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 	**Cité par**:
 
@@ -78086,6 +78126,54 @@ maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre priv�
 
 ##### Section 1 : Conditions d'attribution des logements et plafonds de ressources.
 
+###### Article R*441-3
+
+Les commissions d'attribution prévues à l'article L. 441-2 procèdent à l'examen des demandes en tenant compte notamment de la
+composition, du niveau de ressources et des conditions de logement actuelles du ménage. Elles tiennent compte en outre de
+l'éloignement des lieux de travail et de la proximité des équipements répondant aux besoins des demandeurs.
+
+En veillant à la mixité sociale des villes et des quartiers, elles attribuent les logements disponibles par priorité aux
+personnes privées de logement ou dont la demande présente un caractère d'urgence en raison de la précarité ou de
+l'insalubrité du logement qu'elles occupent, ainsi qu'aux personnes cumulant des difficultés économiques et sociales
+mentionnées à l'accord collectif départemental prévu par l'article L. 441-1-2 et à celles hébergées ou logées temporairement
+dans des établissements et logements de transition.
+
+Les autres demandes de logement social sont satisfaites par priorité au bénéfice de catégories de personnes définies par le
+règlement départemental prévu à l'article L. 441-1-1 dans le respect des orientations définies par les conférences
+intercommunales prévues à l'article L. 441-1-5, lorsqu'elles existent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*422-21 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-5 (M)
+	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-14 (M)
+	  - Code de la construction et de l'habitation. - art. R353-195 (V)
+	  - Code de la construction et de l'habitation. - art. R353-69 (M)
+	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
+	  - Code de la construction et de l'habitation. - art. R441-28 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-30 (Ab)
+	  - Code de la construction et de l'habitation. - art. R441-4 (M)
+	  - Code de la construction et de l'habitation. - art. R441-8 (M)
+
+
 ###### Article R441-1
 
 Les organismes d'habitations à loyer modéré attribuent les logements visés à l'article L. 441-1 aux bénéficiaires suivants :
@@ -78462,53 +78550,6 @@ d) Rejet de la demande par l'organisme compétent.
 	  - Code de la construction et de l'habitation. - art. L441-2-1 (M)
 
 
-###### Article R441-3
-
-Les commissions d'attribution prévues à l'article L. 441-2 procèdent à l'examen des demandes en tenant compte notamment de la
-composition, du niveau de ressources et des conditions de logement actuelles du ménage. Elles tiennent compte en outre de
-l'éloignement des lieux de travail et de la proximité des équipements répondant aux besoins des demandeurs.
-
-En veillant à la mixité sociale des villes et des quartiers, elles attribuent les logements disponibles par priorité aux
-personnes privées de logement ou dont la demande présente un caractère d'urgence en raison de la précarité ou de
-l'insalubrité du logement qu'elles occupent, ainsi qu'aux personnes cumulant des difficultés économiques et sociales
-mentionnées à l'accord collectif départemental prévu par l'article L. 441-1-2.
-
-Les autres demandes de logement social sont satisfaites par priorité au bénéfice de catégories de personnes définies par le
-règlement départemental prévu à l'article L. 441-1-1 dans le respect des orientations définies par les conférences
-intercommunales prévues à l'article L. 441-1-5, lorsqu'elles existent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°99-836 du 22 septembre 1999 - art. 2 () JORF 25 septembre 1999
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
-	  - Code de la construction et de l'habitation. - art. L441-1-5 (M)
-	  - Code de la construction et de l'habitation. - art. L441-2 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*422-21 (V)
-	  - Code de la construction et de l'habitation. - art. R*441-5 (M)
-	  - Code de la construction et de l'habitation. - art. R331-25-1 (V)
-	  - Code de la construction et de l'habitation. - art. R353-14 (M)
-	  - Code de la construction et de l'habitation. - art. R353-195 (V)
-	  - Code de la construction et de l'habitation. - art. R353-69 (M)
-	  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
-	  - Code de la construction et de l'habitation. - art. R441-28 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-30 (Ab)
-	  - Code de la construction et de l'habitation. - art. R441-4 (M)
-	  - Code de la construction et de l'habitation. - art. R441-8 (M)
-
-
 ###### Article R441-4
 
 Les logements construits ou aménagés en vue de leur occupation par des personnes handicapées sont attribués à celles-ci ou, à
@@ -78703,55 +78744,74 @@ autre membre dans les conditions prévues par le règlement intérieur.
 
 ###### Article R441-9
 
-La composition et le fonctionnement de la commission d'attribution prévue à l'article L. 441-2 et mentionnée aux articles R.
-421-23, R. 421-63, R. 422-2, R. 422-9-1 et R. 481-1 obéissent aux règles suivantes :
+La création, la composition et le fonctionnement de la commission d'attribution prévue à l'article L. 441-2 et mentionnée aux
+articles R. 421-23, R. 421-63, R. 422-2, R. 422-9-1 et R. 481-1 obéissent aux règles suivantes :
 
-I. - Le conseil d'administration ou de surveillance de l'organisme constitue une commission d'attribution des logements,
-comprenant six membres. Cette commission est composée :
+I. - Lorsque l'office ou la société dispose de plus de 2 000 logements locatifs sociaux sur le territoire d'une commune ou
+d'un établissement public de coopération intercommunale compétent en matière de programme local de l'habitat, le conseil
+d'administration ou de surveillance crée, à la demande de cette commune ou de cet établissement public, une commission
+d'attribution compétente sur ce territoire.
 
-- s'il s'agit d'un office public d'aménagement et de construction ou d'un office public d'habitations à loyer modéré, de deux
-administrateurs représentant la collectivité locale ou l'établissement public de rattachement, de deux des administrateurs
-désignés par le préfet, d'un des administrateurs représentant les locataires et de l'administrateur désigné par les conseils
-d'administration des caisses d'allocations familiales ;
+En outre, si la dispersion géographique de son parc locatif le justifie, le conseil d'administration ou de surveillance peut
+décider de créer plusieurs commissions d'attribution dont il détermine le ressort territorial de compétence.
+
+II. - La commission, ainsi que, le cas échéant, les commissions créées en application du I, sont composées :
+
+1° De six membres désignés par le conseil d'administration ou de surveillance dans les conditions fixées au III. Ils élisent
+en leur sein à la majorité absolue le président de la commission. En cas de partage égal des voix, le candidat le plus âgé
+est élu ;
+
+2° Du maire de la commune où sont situés les logements à attribuer, ou de son représentant, avec voix délibérative, pour
+l'attribution de ces logements. Il dispose d'une voix prépondérante en cas de partage égal des voix ;
+
+3° S'il y lieu, pour l'attribution des logements faisant l'objet d'un mandat de gérance conclu en application de l'article L.
+442-9 et comprenant l'attribution des logements, du président de la commission d'attribution de l'organisme mandant ou son
+représentant, avec voix délibérative ;
+
+4° Avec voix consultative :
+
+- d'un représentant des associations menant des actions d'insertion ou en faveur du logement des personnes défavorisées,
+désigné dans les conditions prévues par décret ;
+
+- pour l'attribution des logements situés sur le territoire relevant de leur compétence, des présidents des établissements
+publics de coopération intercommunale compétents en matière de programme local de l'habitat ou leurs représentants ;
+
+- à Paris, Marseille et Lyon, des maires d'arrondissement ou de leurs représentants, pour ce qui concerne les logements à
+attribuer dans leur arrondissement.
+
+Le président de la commission peut appeler à siéger, à titre consultatif, un représentant des centres communaux d'action
+sociale ou un représentant du service chargé de l'action sanitaire et sociale du département du lieu d'implantation des
+logements.
+
+Le préfet du département du siège de l'office ou de la société, ou l'un de ses représentants membre du corps préfectoral,
+assiste, sur sa demande, à toute réunion de la commission.
+
+III. - Dans le cas d'une commission unique, les six membres mentionnés au 1° du II sont :
+
+- s'il s'agit d'un office public d'aménagement et de construction ou d'un office public d'habitations à loyer modéré : deux
+des administrateurs désignés par la collectivité territoriale ou l'établissement public de rattachement, deux des
+administrateurs désignés par le préfet, l'administrateur désigné par les conseils d'administration des caisses d'allocations
+familiales et un des administrateurs représentant les locataires ;
 
 - s'il s'agit d'une société anonyme d'habitations à loyer modéré, d'une société anonyme coopérative de production
-d'habitations à loyer modéré, d'une société d'économie mixte gérant des logements sociaux, de cinq administrateurs ou membres
-du conseil de surveillance de la société et d'un administrateur ou membre du conseil de surveillance représentant les
-locataires ;
+d'habitations à loyer modéré, d'une société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré : cinq
+administrateurs ou membres du conseil de surveillance de la société et un administrateur ou membre du conseil de surveillance
+représentant les locataires.
 
-Si la dispersion géographique de son parc locatif le justifie, le conseil d'administration ou de surveillance peut décider de
-créer plusieurs commissions d'attribution, de chacune six membres, dont il fixe le nombre en même temps qu'il détermine le
-ressort de leur compétence. Ces commissions comprennent des représentants des différentes catégories de membres du conseil
-d'administration ou de surveillance visées aux alinéas précédents, en proportions identiques à celles mentionnées auxdits
+En cas de pluralité de commissions, ces six membres sont des représentants des différentes catégories de membres du conseil
+d'administration ou de surveillance mentionnées aux alinéas précédents, en nombres identiques à ceux mentionnés aux-dits
 alinéas. Ces représentants sont désignés par le conseil d'administration ou de surveillance sur proposition, pour chaque
 catégorie d'entre eux, des membres correspondants dudit conseil. Ces représentants ne sont pas nécessairement membres de ce
-conseil ;
+conseil.
 
-Lorsque l'attribution des logements figure au nombre des missions confiées par un mandat de gérance conclu en application de
-l'article L. 442-9, le président de la commission d'attribution de l'organisme mandant participe, avec voix délibérative, aux
-séances de la commission d'attribution du mandataire pour l'attribution des logements faisant l'objet du mandat.
+IV. - Le conseil d'administration ou de surveillance définit les orientations applicables à l'attribution des logements. Il
+établit le règlement intérieur de la commission, qui fixe les règles d'organisation et de fonctionnement de la commission et
+précise, notamment, les règles de quorum qui régissent ses délibérations. Ce règlement s'applique, le cas échéant, aux
+commissions créées en application du I du présent article.
 
-II. - Le conseil d'administration ou de surveillance de l'organisme définit les orientations qui guident l'attribution des
-logements et sont communes aux commissions s'il en est constitué plusieurs. Il établit également un règlement intérieur pour
-la ou les commissions. Le règlement fixe les règles d'organisation et de fonctionnement de la ou des commissions. Il précise
-en outre les règles de quorum applicables en matière de validité des délibérations de la ou des commissions.
+La commission se réunit au moins une fois tous les deux mois.
 
-Les six membres de la commission, ainsi que ceux de chacune des commissions s'il en est constitué plusieurs, élisent en leur
-sein à la majorité absolue un président. En cas de partage égal des voix, le candidat le plus âgé est élu. Le président
-dispose, lors des séances, d'une voix prépondérante en cas de partage égal des voix.
-
-Le maire de la commune où sont situés les logements à attribuer, ou son représentant, participe avec voix délibérative aux
-séances pour ce qui concerne l'attribution de ces logements. En outre, les maires d'arrondissement des communes de Paris,
-Marseille et Lyon participent à titre consultatif aux séances pour ce qui concerne les logements attribués dans leur
-arrondissement.
-
-Le président peut appeler à siéger, à titre consultatif, un représentant des centres communaux d'action sociale, ou un
-représentant du service chargé de l'action sanitaire et sociale du département du lieu d'implantation des logements.
-
-La commission d'attribution et chacune des commissions, s'il en est constitué plusieurs, se réunissent au moins une fois tous
-les deux mois.
-
-La ou les commissions rendent compte de leur activité au conseil d'administration de l'organisme, au moins une fois par an.
+La commission rend compte de son activité au conseil d'administration ou de surveillance au moins une fois par an.
 
 **Liens relatifs à cet article**
 
@@ -78761,7 +78821,7 @@ La ou les commissions rendent compte de leur activité au conseil d'administrati
 
 	**Modifié par**:
 
-	  - Décret n°2003-155 du 24 février 2003 - art. 1 () JORF 27 février 2003
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 	**Cité par**:
 
@@ -78783,6 +78843,95 @@ La ou les commissions rendent compte de leur activité au conseil d'administrati
 	  - Code de la construction et de l'habitation L441-2, R421-23, R421-63, R422-2, R422-9-1, R481-1, L442-9
 	  - Code de la construction et de l'habitation. - art. L441-2 (M)
 	  - Code de la construction et de l'habitation. - art. L442-9 (M)
+
+
+###### Article R441-9-1
+
+Peuvent être agréées dans un département au titre de l'article L. 441-2 les associations qui y mènent de façon significative
+des actions d'insertion ou en faveur du logement des personnes défavorisées.
+
+L'agrément est accordé par le préfet pour une durée de quatre ans renouvelable. Il peut être retiré à tout moment si
+l'association ne satisfait plus aux conditions de l'agrément ou en cas de manquements graves ou répétés de celle-ci à ses
+obligations. La décision de retrait ne peut intervenir qu'après que l'association en cause ait été mise à même de présenter
+ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1440 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*421-6 (V)
+	  - Code de la construction et de l'habitation. - art. R441-9-3 (Ab)
+
+
+###### Article R441-9-2
+
+Le dossier de demande d'agrément est adressé par lettre recommandée avec demande d'avis de réception. Il comporte les
+éléments suivants :
+
+- une demande signée par le représentant légal de l'association ;
+
+- les statuts en vigueur de l'association ;
+
+- la composition nominative des instances dirigeantes de l'association ;
+
+- le dernier rapport moral et financier ;
+
+- le compte de résultat des deux derniers exercices ;
+
+- le dernier rapport d'activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1440 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1684 du 30 décembre 2009 - art. 2
+
+
+###### Article R441-9-3
+
+Le représentant siégeant à la commission d'attribution mentionnée à l'article R. 441-9 est désigné par les associations
+préalablement agréées dans les conditions prévues à l'article R. 441-9-1. Il ne peut appartenir à une association qui gère ou
+donne en location des logements destinés à des personnes défavorisées dans le ressort de compétence de la commission.
+
+A défaut d'accord entre les associations agréées pour désigner un représentant, celui-ci est désigné par le représentant de
+l'Etat dans le département par tirage au sort parmi les personnes proposées par ces associations.
+
+Le mandat de ce représentant ne peut excéder quatre ans. Il est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1440 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R441-9 (M)
+	  - Code de la construction et de l'habitation. - art. R441-9-1 (V)
 
 
 ###### Article R441-10
@@ -79429,7 +79578,7 @@ ministre chargé des finances agissant par décision conjointe.
 	  - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
-###### Article R442-5-1
+###### Article R442-4
 
 Les logements-foyers mentionnés au troisième alinéa de l'article L. 442-8 sont les résidences sociales prévues au 2 de
 l'article R. 351-55.
@@ -79440,23 +79589,51 @@ l'article R. 351-55.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°95-496 du 19 avril 1995 - art. 1 () JORF 2 mai 1995
+	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V)
+	  - Arrêté du 2 novembre 1955 - art. 1 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L442-8 (M)
-	  - Code de la construction et de l'habitation. - art. R351-55 (M)
+	  - Code de la construction et de l'habitation. - art. L442-8 (V)
+	  - Code de la construction et de l'habitation. - art. R351-55 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la construction et de l'habitation. - art. R442-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. R442-4 (V)
+	  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
+
+
+###### Article R442-5
+
+Le loyer applicable aux logements pris en gérance par les organismes d'habitations à loyer modéré dans les cas mentionnés à
+l'article L. 442-11 ne peut excéder le plafond prévu au deuxième alinéa de l'article L. 444-5. Ces logements sont donnés en
+location à des personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, n'excède pas le plafond fixé pour
+l'attribution d'un logement financé à l'aide d'un prêt prévu à l'article R. 331-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Décret n°2003-154 du 24 février 2003 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L442-12 (V)
+	  - Code de la construction et de l'habitation. - art. L444-5 (V)
+	  - Code de la construction et de l'habitation. - art. R331-17 (V)
 
 
 ##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.
@@ -80859,7 +81036,7 @@ l'article 5 de la loi n° 65-557 du 10 juillet 1965 sur la copropriété.
 ###### Article R443-34
 
 I. - Les logements produits par les organismes d'habitations à loyer modéré dans les conditions définies aux articles L.
-421-1 (7e al.), L. 422-2 (4e al.) et L. 422-3 (3e al.) sont vendus soit à des acquéreurs qui destinent le logement à leur
+421-1 (7e al.), L. 422-2 (5e al.) et L. 422-3 (3e al.) sont vendus soit à des acquéreurs qui destinent le logement à leur
 occupation personnelle dans les conditions du II ci-dessous, soit à des acquéreurs qui le louent dans le cadre des
 dispositions du quatrième et du septième alinéa du e ainsi que du h de l'article 31 (I, 1°) du code général des impôts. Les
 logements produits dans les conditions prévues au h précité doivent être destinés à être occupés par des personnes dont
@@ -80871,7 +81048,7 @@ peut être dépassé par les acquéreurs occupants pour les opérations réalis�
 et L. 422-2 du code de la construction et de l'habitation.
 
 III. - Cet arrêté détermine également le prix de vente maximum des logements produits dans les conditions définies aux
-articles L. 421-1 (7e alinéa), L. 422-2 (4e alinéa) et L. 422-3 (3e alinéa) du même code.
+articles L. 421-1 (7e alinéa), L. 422-2 (5e alinéa) et L. 422-3 (3e alinéa) du même code.
 
 **Liens relatifs à cet article**
 
@@ -80900,7 +81077,7 @@ articles L. 421-1 (7e alinéa), L. 422-2 (4e alinéa) et L. 422-3 (3e alinéa) d
 
 	**Modifié par**:
 
-	  - Décret n°2004-1275 du 26 novembre 2004 - art. 1 () JORF 27 novembre 2004
+	  - Décret n°2005-1439 du 22 novembre 2005 - art. 1 () JORF 23 novembre 2005
 
 
 ### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.
