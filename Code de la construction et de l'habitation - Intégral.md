@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-23
+Version Consolidée au 2005-11-26
 
 # Partie législative
 
@@ -42678,6 +42678,206 @@ territoriales. Il est effectué par neuvième à partir du mois de mars et jusqu
 
 ##### Section 6 : Dispositions particulières à certaines agglomérations.
 
+###### Article R302-20
+
+Les ressources des fonds d'aménagement urbain institués dans chaque région par l'article L. 302-7 sont constituées par le
+produit des prélèvements opérés, en application de cet article, sur les ressources fiscales des communes de la région qui y
+sont assujetties en vertu de l'article L. 302-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-34 (T)
+
+
+###### Article R302-21
+
+I. - Chaque fonds d'aménagement urbain est administré par un comité de gestion ainsi composé :
+
+- le préfet de région, ou son représentant, président ;
+
+- trois représentants des communes de la région désignés, ainsi que leurs suppléants, par l'Association des maires de France
+(AMF), après consultation des associations départementales ;
+
+- trois représentants des groupements de collectivités territoriales de la région désignés, ainsi que leurs suppléants, par
+la délégation régionale de l'Assemblée des communautés de France (ACDF).
+
+Le trésorier-payeur général de région et le directeur régional de l'équipement ou leurs représentants assistent aux séances
+du comité avec voix consultative, ainsi que les préfets de département ou leurs représentants pour l'examen des projets qui
+les concernent.
+
+II. - Les membres du comité de gestion et leurs suppléants sont nommés pour trois ans par arrêté du préfet de région.
+
+Le mandat est renouvelable. Il prend fin si le membre du comité de gestion perd la qualité au titre de laquelle il a été
+nommé.
+
+En cas de vacance d'un siège de titulaire ou de suppléant, un nouveau membre est nommé dans les mêmes conditions pour la
+durée du mandat restant à courir, dans un délai de deux mois à compter de la vacance.
+
+III. - Le comité est réuni au moins une fois par an à l'initiative de son président. Son secrétariat est assuré par la
+direction régionale de l'équipement qui instruit les dossiers de demande de subvention.
+
+IV. - Le comité adopte son règlement intérieur. Ce règlement détermine notamment les règles de quorum et de majorité, fixe
+les taux des subventions applicables à chaque type d'opération et, le cas échéant, leur montant maximum.
+
+V. - Le comité établit chaque année un rapport d'activité qu'il adresse au ministre chargé du logement, au ministre chargé de
+la ville et au ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-35 (T)
+
+
+###### Article R302-22
+
+Le préfet de région est l'ordonnateur du fonds.
+
+Le trésorier-payeur général de région en est le comptable assignataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-36 (T)
+
+
+###### Article R302-23
+
+I. - Peuvent seules bénéficier des concours financiers des fonds d'aménagement urbain les communes dont la population est au
+moins égale à 1 500 habitants dans la région d'Ile-de-France et 3 500 habitants dans les autres régions lorsque ces communes
+sont comprises, au sens du recensement général de la population, dans des agglomérations de plus de 50 000 habitants
+comprenant au moins une commune de plus de 15 000 habitants, et les établissements publics de coopération intercommunale dont
+ces communes sont membres.
+
+II. - Peuvent être subventionnées par les fonds d'aménagement urbain les actions foncières et immobilières en faveur du
+logement locatif social au sens de l'article L. 302-5, réalisées ou financées pour tout ou partie par ces communes et
+établissements publics de coopération intercommunale.
+
+Ces actions comprennent notamment les acquisitions foncières et immobilières destinées à la réalisation de tels logements,
+les opérations de restructuration foncière et urbaine de grands ensembles de logements sociaux, ainsi que les actions
+relatives au logement locatif social réalisées dans le cadre d'opérations menées en application de l'article L. 300-1 du code
+de l'urbanisme.
+
+III. - La dépense subventionnable est égale au montant des dépenses prévisionnelles d'investissement hors taxes prises en
+charge par la commune ou l'établissement public de coopération intercommunale, directement ou par voie de subvention.
+
+IV. - La subvention consentie par le fonds ne peut avoir pour effet de porter le montant total des aides publiques directes
+perçues par la commune ou l'établissement public de coopération intercommunale au titre d'un projet à plus de 80 % du montant
+prévisionnel de la dépense subventionnable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-37 (T)
+
+
+###### Article R302-24
+
+I. - La demande de subvention est faite au fonds d'aménagement urbain par une délibération du conseil municipal de la commune
+ou de l'organe compétent de l'établissement public de coopération intercommunale, qui indique l'objet de la dépense.
+
+Le dossier de demande comporte la désignation du projet, ses caractéristiques, son plan de financement, la nature et le
+montant maximum prévisionnel de la dépense subventionnable, le calendrier prévisionnel de l'opération ainsi que ses modalités
+d'exécution.
+
+II. - L'attribution des subventions est décidée par le comité régional de gestion.
+
+La décision attributive fixe le montant maximum de la subvention en appliquant à la dépense prévisionnelle le taux de
+subvention applicable au projet en vertu du règlement intérieur.
+
+Elle comporte en outre la désignation du projet, ses caractéristiques, la nature et le montant prévisionnel de la dépense
+subventionnable, le calendrier prévisionnel et les modalités d'exécution de l'opération ainsi que les modalités de versement
+de la subvention.
+
+III. - La subvention est liquidée par le préfet de région, en appliquant le taux fixé par la décision d'attribution au
+montant de la dépense réelle, dans la limite du montant de la subvention.
+
+La subvention est versée sur justification de la réalisation du projet et de sa conformité aux caractéristiques prévues dans
+la décision attributive.
+
+Une avance peut être versée lors du commencement d'exécution du projet : elle ne peut excéder 30 % du montant de la
+subvention prévue.
+
+Des acomptes peuvent être versés au fur et à mesure de l'avancement du projet.
+
+Le montant total des acomptes et de l'avance versés ne peuvent excéder 80 % du montant total de la subvention prévue.
+
+IV. - Si, à l'expiration d'un délai de deux ans à compter de la notification par le préfet de région de la décision
+attributive de subvention, le projet au titre duquel la subvention a été accordée n'a reçu aucun commencement d'exécution, le
+comité de gestion constate la caducité de sa décision. Il peut toutefois, exceptionnellement, proroger la validité de sa
+décision pour une période qui ne peut excéder un an.
+
+V. - Le comité de gestion demande le reversement total ou partiel de la subvention versée si l'objet de la subvention ou
+l'affectation de l'investissement subventionné ont été modifiés et ne correspondent plus aux actions prévues au II de
+l'article R. 302-37 ; ou s'il apparaît que le montant total des aides publiques directes perçues par la commune ou
+l'établissement public de coopération intercommunale au titre d'un projet a dépassé 80 % du montant prévisionnel de la
+dépense subventionnable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R302-37 (T)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R302-38 (T)
+
+
 ###### Article R302-28
 
 L'inventaire prévu à l'article L. 302-6 est établi pour chaque bâtiment par la personne morale propriétaire, à défaut par la
@@ -42835,236 +43035,6 @@ urbain.
 	  - Code de la construction et de l'habitation. - art. R302-18 (M)
 	  - Code de la construction et de l'habitation. - art. R302-31 (T)
 	  - Code de la construction et de l'habitation. - art. R302-32 (T)
-
-
-###### Article R302-34
-
-Les ressources des fonds d'aménagement urbain institués dans chaque région par l'article L. 302-7 sont constituées par le
-produit des prélèvements opérés, en application de cet article, sur les ressources fiscales des communes de la région qui y
-sont assujetties en vertu de l'article L. 302-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
-
-	**Transféré par**:
-
-	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. L302-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-20 (M)
-
-
-###### Article R302-35
-
-I. - Chaque fonds d'aménagement urbain est administré par un comité de gestion ainsi composé :
-
-- le préfet de région, ou son représentant, président ;
-
-- trois représentants des communes de la région désignés, ainsi que leurs suppléants, par l'Association des maires de France
-(AMF), après consultation des associations départementales ;
-
-- trois représentants des groupements de collectivités territoriales de la région désignés, ainsi que leurs suppléants, par
-la délégation régionale de l'Assemblée des communautés de France (ACDF).
-
-Le trésorier-payeur général de région et le directeur régional de l'équipement ou leurs représentants assistent aux séances
-du comité avec voix consultative, ainsi que les préfets de département ou leurs représentants pour l'examen des projets qui
-les concernent.
-
-II. - Les membres du comité de gestion et leurs suppléants sont nommés pour trois ans par arrêté du préfet de région.
-
-Le mandat est renouvelable. Il prend fin si le membre du comité de gestion perd la qualité au titre de laquelle il a été
-nommé.
-
-En cas de vacance d'un siège de titulaire ou de suppléant, un nouveau membre est nommé dans les mêmes conditions pour la
-durée du mandat restant à courir, dans un délai de deux mois à compter de la vacance.
-
-III. - Le comité est réuni au moins une fois par an à l'initiative de son président. Son secrétariat est assuré par la
-direction régionale de l'équipement qui instruit les dossiers de demande de subvention.
-
-IV. - Le comité adopte son règlement intérieur. Ce règlement détermine notamment les règles de quorum et de majorité, fixe
-les taux des subventions applicables à chaque type d'opération et, le cas échéant, leur montant maximum.
-
-V. - Le comité établit chaque année un rapport d'activité qu'il adresse au ministre chargé du logement, au ministre chargé de
-la ville et au ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
-
-	**Transféré par**:
-
-	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-21 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-21 (M)
-
-
-###### Article R302-36
-
-Le préfet de région est l'ordonnateur du fonds.
-
-Le trésorier-payeur général de région en est le comptable assignataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
-
-	**Transféré par**:
-
-	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-22 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-22 (M)
-
-
-###### Article R302-37
-
-I. - Peuvent seules bénéficier des concours financiers des fonds d'aménagement urbain les communes dont la population est au
-moins égale à 1 500 habitants dans la région d'Ile-de-France et 3 500 habitants dans les autres régions lorsque ces communes
-sont comprises, au sens du recensement général de la population, dans des agglomérations de plus de 50 000 habitants
-comprenant au moins une commune de plus de 15 000 habitants, et les établissements publics de coopération intercommunale dont
-ces communes sont membres.
-
-II. - Peuvent être subventionnées par les fonds d'aménagement urbain les actions foncières et immobilières en faveur du
-logement locatif social au sens de l'article L. 302-5, réalisées ou financées pour tout ou partie par ces communes et
-établissements publics de coopération intercommunale.
-
-Ces actions comprennent notamment les acquisitions foncières et immobilières destinées à la réalisation de tels logements,
-les opérations de restructuration foncière et urbaine de grands ensembles de logements sociaux, ainsi que les actions
-relatives au logement locatif social réalisées dans le cadre d'opérations menées en application de l'article L. 300-1 du code
-de l'urbanisme.
-
-III. - La dépense subventionnable est égale au montant des dépenses prévisionnelles d'investissement hors taxes prises en
-charge par la commune ou l'établissement public de coopération intercommunale, directement ou par voie de subvention.
-
-IV. - La subvention consentie par le fonds ne peut avoir pour effet de porter le montant total des aides publiques directes
-perçues par la commune ou l'établissement public de coopération intercommunale au titre d'un projet à plus de 80 % du montant
-prévisionnel de la dépense subventionnable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
-
-	**Transféré par**:
-
-	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-1 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-23 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-23 (M)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R302-24 (V)
-	  - Code de la construction et de l'habitation. - art. R302-38 (T)
-
-
-###### Article R302-38
-
-I. - La demande de subvention est faite au fonds d'aménagement urbain par une délibération du conseil municipal de la commune
-ou de l'organe compétent de l'établissement public de coopération intercommunale, qui indique l'objet de la dépense.
-
-Le dossier de demande comporte la désignation du projet, ses caractéristiques, son plan de financement, la nature et le
-montant maximum prévisionnel de la dépense subventionnable, le calendrier prévisionnel de l'opération ainsi que ses modalités
-d'exécution.
-
-II. - L'attribution des subventions est décidée par le comité régional de gestion.
-
-La décision attributive fixe le montant maximum de la subvention en appliquant à la dépense prévisionnelle le taux de
-subvention applicable au projet en vertu du règlement intérieur.
-
-Elle comporte en outre la désignation du projet, ses caractéristiques, la nature et le montant prévisionnel de la dépense
-subventionnable, le calendrier prévisionnel et les modalités d'exécution de l'opération ainsi que les modalités de versement
-de la subvention.
-
-III. - La subvention est liquidée par le préfet de région, en appliquant le taux fixé par la décision d'attribution au
-montant de la dépense réelle, dans la limite du montant de la subvention.
-
-La subvention est versée sur justification de la réalisation du projet et de sa conformité aux caractéristiques prévues dans
-la décision attributive.
-
-Une avance peut être versée lors du commencement d'exécution du projet : elle ne peut excéder 30 % du montant de la
-subvention prévue.
-
-Des acomptes peuvent être versés au fur et à mesure de l'avancement du projet.
-
-Le montant total des acomptes et de l'avance versés ne peuvent excéder 80 % du montant total de la subvention prévue.
-
-IV. - Si, à l'expiration d'un délai de deux ans à compter de la notification par le préfet de région de la décision
-attributive de subvention, le projet au titre duquel la subvention a été accordée n'a reçu aucun commencement d'exécution, le
-comité de gestion constate la caducité de sa décision. Il peut toutefois, exceptionnellement, proroger la validité de sa
-décision pour une période qui ne peut excéder un an.
-
-V. - Le comité de gestion demande le reversement total ou partiel de la subvention versée si l'objet de la subvention ou
-l'affectation de l'investissement subventionné ont été modifiés et ne correspondent plus aux actions prévues au II de
-l'article R. 302-37 ; ou s'il apparaît que le montant total des aides publiques directes perçues par la commune ou
-l'établissement public de coopération intercommunale au titre d'un projet a dépassé 80 % du montant prévisionnel de la
-dépense subventionnable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Créé par**:
-
-	  - Décret n°2004-940 du 3 septembre 2004 - art. 1 () JORF 5 septembre 2004
-
-	**Transféré par**:
-
-	  - Décret n°2005-1449 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de la construction et de l'habitation. - art. R302-24 (Ab)
-	  - Code de la construction et de l'habitation. - art. R302-24 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R302-37 (T)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.
@@ -52285,38 +52255,68 @@ l'emprunteur, notamment en cas de changement de situation.
 
 ###### Article R*321-4
 
-L'agence est gérée par un conseil d'administration composé, outre son président nommé par arrêté conjoint du ministre chargé
-du logement et du ministre chargé des finances, de treize membres :
+I. - L'agence est gérée par un conseil d'administration qui comprend, outre son président nommé par arrêté conjoint du
+ministre chargé du logement et du ministre chargé des finances, les vingt membres suivants :
 
-1° Deux représentants du ministre chargé du logement ;
+1° Un représentant du ministre chargé du logement ;
 
-2° Deux représentants du ministre chargé des finances ;
+2° Un représentant du ministre chargé de la ville ;
 
-3° Cinq représentants des propriétaires ;
+3° Deux représentants du ministre chargé des finances ;
 
-4° Deux représentants des locataires ;
+4° Un représentant du ministre chargé de l'équipement ;
 
-5° Une personne qualifiée pour ses compétences dans le domaine du logement ;
+5° Un représentant du ministre chargé de la santé ;
 
-6° Une personne qualifiée pour ses compétences dans le domaine social.
+6° Un représentant du ministre chargé des collectivités locales ;
 
-Les membres ainsi qu'un nombre égal de suppléants sont nommés par arrêté du ministre chargé du logement, à l'exception des
-membres mentionnés au 2° ainsi que leurs suppléants qui sont nommés par arrêté du ministre chargé des finances.
+7° Un représentant des maires sur proposition de l'Association des maires de France ;
 
-Le mandat du président et des membres titulaires et suppléants est d'une durée de trois ans. Il est renouvelable.
+8° Un représentant des présidents d'établissements publics de coopération intercommunale, sur proposition de l'Assemblée des
+communautés de France ;
+
+9° Un représentant des présidents de conseils généraux, sur proposition de l'Assemblée des départements de France ;
+
+10° Cinq représentants des propriétaires ;
+
+11° Deux représentants des locataires ;
+
+12° Un représentant des professionnels de l'immobilier ;
+
+13° Une personne qualifiée pour ses compétences dans le domaine du logement ;
+
+14° Une personne qualifiée pour ses compétences dans le domaine social.
+
+Ces membres ainsi qu'un nombre égal de suppléants sont nommés par arrêté du ministre chargé du logement, sur proposition,
+s'agissant des membres énumérés aux 2° à 6° ci-dessus, des ministres intéressés.
+
+Le mandat du président et des membres titulaires et suppléants est de trois ans. Il est renouvelable.
 
 Le conseil d'administration est réuni sur convocation de son président au moins deux fois par an et de plein droit à la
 demande de la majorité des membres du conseil ou d'un des ministres de tutelle dans le mois suivant la demande. Le directeur
-général de l'agence, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix
+général de l'agence, le représentant de l'autorité chargée du contrôle financier et l'agent comptable assistent avec voix
 consultative aux séances du conseil d'administration et, le cas échéant, à celles du comité restreint mentionné ci-après.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
 Un comité restreint, composé du président du conseil d'administration, d'un représentant du ministre chargé du logement, d'un
 représentant du ministre chargé des finances, d'un représentant des propriétaires et d'un représentant des locataires,
-siégeant au conseil d'administration, assure la permanence des relations entre le conseil d'administration et le directeur
-général entre les séances du conseil. Le conseil d'administration peut donner au comité restreint délégation pour statuer sur
-les matières mentionnées à l'article R. 321-5, à l'exception de celles figurant aux 1°, 2° et 3° du même article.
+siégeant en qualité de titulaire ou de suppléant au conseil d'administration, assure la permanence des relations entre le
+conseil d'administration et le directeur général entre les séances du conseil. Le conseil d'administration peut donner au
+comité restreint délégation pour statuer sur des matières mentionnées à l'article R. 321-5, à l'exception de celles figurant
+aux 1°, 2°, 3° du même article.
+
+II. - Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Ils peuvent bénéficier, pour leur
+participation aux séances du conseil et du comité restreint, du remboursement de leurs frais dans les conditions prévues par
+la réglementation applicable aux fonctionnaires de l'Etat.
+
+Ils ne peuvent en aucun cas prêter leur concours à l'agence à titre onéreux.
+
+Ils ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils ont un intérêt personnel.
+
+Ils sont tenus de garder une discrétion absolue sur les délibérations auxquelles ils participent.
+
+La même obligation s'impose à toute personne assistant aux séances du conseil d'administration et du comité restreint.
 
 **Liens relatifs à cet article**
 
@@ -52326,7 +52326,7 @@ les matières mentionnées à l'article R. 321-5, à l'exception de celles figur
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -52363,7 +52363,14 @@ logement ;
 8° Il statue sur le rapport annuel d'activités ;
 
 9° Il examine le rapport annuel relatif à la mise en oeuvre des délégations de compétence et à la réalisation des objectifs
-de l'agence.
+de l'agence ;
+
+10° Il donne un avis sur la répartition prévisionnelle entre les régions du montant des aides publiques en faveur de la
+rénovation de l'habitat privé, y compris de celles susceptibles d'être déléguées en application de l'article L. 301-3 ;
+
+11° Il approuve les transactions et autorise le directeur général à les signer ;
+
+12° Il délibère sur les contrats d'objectifs entre l'agence et l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -52373,7 +52380,7 @@ de l'agence.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -52392,7 +52399,8 @@ de l'agence.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-11, R321-15, R321-17, R321-21
+	  - Code de la construction et de l'habitation R321-11, R321-15, R321-17, R321-21, L301-3
+	  - Code de la construction et de l'habitation. - art. L301-3 (M)
 	  - Code de la construction et de l'habitation. - art. R321-21 (M)
 
 
@@ -52452,6 +52460,12 @@ conseil d'administration et le transmet, après approbation du conseil, aux mini
 
 Il nomme aux emplois de l'agence et a autorité sur le personnel.
 
+Il est la personne responsable des marchés de l'établissement au sens de l'article 20 du code des marchés publics. Il conclut
+les conventions mentionnées au 7° de l'article R. 321-5. Il peut déléguer sa signature à des agents de l'agence. Il peut
+déléguer ses pouvoirs aux délégués locaux mentionnés à l'article R. 321-11, dans des limites qu'il détermine, pour prendre
+tout acte nécessaire à l'exercice de leurs attributions, notamment ses pouvoirs d'ordonnateur et de personne responsable des
+marchés dans les conditions prévues par le code des marchés publics.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -52460,16 +52474,17 @@ Il nomme aux emplois de l'agence et a autorité sur le personnel.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-11, R321-10, L321-1-1, L312-2-1, L301-3, L301-5-1, L301-5-2
+	  - Code de la construction et de l'habitation R321-11, R321-10, L321-1-1, L312-2-1, L301-3, L301-5-1, L301-5-2, R321-5
 	  - Code de la construction et de l'habitation. - art. L301-3 (M)
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
 	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
 	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
+	  - Code des marchés publics 20
 
 
 ###### Article R*321-8
@@ -52525,13 +52540,9 @@ L'agence est soumise au contrôle de l'inspection générale du ministère charg
 
 ###### Article R*321-9
 
-I. - Une convention passée entre le ministre chargé du logement et l'agence fixe les conditions dans lesquelles les services
-du ministère apportent leur concours à l'agence, notamment pour l'instruction et le traitement des dossiers soumis à la
+Une convention passée entre le ministre chargé du logement et l'agence fixe les conditions dans lesquelles les services du
+ministère apportent leur concours à l'agence, notamment pour l'instruction et le traitement des dossiers soumis à la
 commission prévue à l'article R. 321-10.
-
-II. - Les conditions d'intervention et de rémunération des organismes d'assistance administrative et technique agissant pour
-le compte de l'agence sont fixées, après avis du conseil d'administration, par arrêté conjoint du ministre chargé du logement
-et du ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
@@ -52541,7 +52552,7 @@ et du ministre chargé des finances.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cite**:
 
@@ -52584,7 +52595,8 @@ Dans le cadre de sa mission définie à l'article L. 321-1, l'agence apporte son
 bénéficiaires mentionnés aux articles R. 321-12 et R. 321-13 ou de dotations aux établissements publics de coopération
 intercommunale ainsi qu'aux départements ayant conclu la convention prévue à l'article L. 321-1-1. Elle peut se voir confier
 la gestion des aides des collectivités territoriales et des établissements publics de coopération intercommunale mentionnées
-aux articles L. 312-2-1 et L. 321-1-1.
+aux articles L. 312-2-1 et L. 321-1-1 ainsi que, à titre accessoire, celle d'aides ayant le même objet, non régies par le
+présent code, pour le compte d'autres personnes morales de droit public.
 
 **Liens relatifs à cet article**
 
@@ -52602,11 +52614,11 @@ aux articles L. 312-2-1 et L. 321-1-1.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 292 AL. 1
+	  - Code de l'urbanisme 292 al. 1
 
 	**Cite**:
 
@@ -52807,9 +52819,6 @@ proposition par le directeur général. Dans les territoires non couverts par le
 301-5-1 et L. 301-5-2, le délégué local décide de l'attribution des subventions aux prestations d'ingénierie permettant la
 mise en oeuvre des opérations mentionnées à l'article R. 321-16.
 
-Par délégation de pouvoir du directeur général, le délégué local prescrit l'exécution des dépenses d'intervention prévues à
-l'article R. 321-12 et l'exécution des recettes résultant de l'application de l'article R. 321-21.
-
 Dans le délai de quinze jours suivant la réunion de la commission, le délégué local peut déférer au conseil d'administration
 de l'agence les décisions prises en application des 1° et 2° du I de l'article R. 321-10, qui ne deviennent exécutoires
 qu'après leur approbation par le conseil d'administration ou le comité restreint. A défaut d'approbation, la décision du
@@ -52825,16 +52834,15 @@ Le directeur général peut autoriser le délégué local à déléguer sa signa
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R321-10, L301-5-1, L301-5-2, L312-2-1, L321-1-1, R321-16, R321-12, R321-21
+	  - Code de la construction et de l'habitation R321-10, L301-5-1, L301-5-2, L312-2-1, L321-1-1, R321-16
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
 	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 	  - Code de la construction et de l'habitation. - art. L312-2-1 (M)
 	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. R321-21 (M)
 
 	**Cité par**:
 
@@ -52847,10 +52855,11 @@ Le directeur général peut autoriser le délégué local à déléguer sa signa
 
 ###### Article R*321-12
 
-L'agence peut accorder des subventions :
+I. L'agence peut accorder des subventions :
 
-1° Aux propriétaires bailleurs ou à tout autre titulaire d'un droit réel conférant l'usage des locaux pour des logements
-qu'ils donnent à bail et qui sont occupés dans les conditions prévues à l'article R. 321-20 ;
+1° Aux propriétaires ou à tout autre titulaire d'un droit réel conférant l'usage des locaux pour des logements qu'ils donnent
+à bail ou, dans des conditions fixées par le règlement général de l'agence, qu'ils mettent à disposition d'autrui et qui sont
+occupés dans les conditions prévues à l'article R. 321-20 ;
 
 2° Aux propriétaires ou à tout autre titulaire d'un droit réel conférant l'usage des locaux pour les logements qu'ils
 occupent eux-mêmes dans les conditions prévues à l'article R. 321-20 ;
@@ -52860,14 +52869,13 @@ l'article R. 321-20 par leurs ascendants ou descendants ou ceux de leur conjoint
 du code civil ou du cosignataire d'un pacte civil de solidarité défini à l'article 515-1 du code civil lorsque ces derniers
 ont la qualité de propriétaires ou de titulaires d'un droit réel conférant l'usage des locaux ;
 
-4° Aux communes ou à leurs groupements qui se substituent aux propriétaires défaillants et effectuent d'office des travaux en
-application des articles L. 1331-28 et L. 1331-29 du code de la santé publique ou des articles L. 511-2 et L. 511-3 du
-présent code. Le propriétaire est alors tenu, à l'achèvement des travaux, de rembourser à l'agence les sommes versées au
-titre de la subvention à moins de conclure une convention avec l'agence, si celle-ci la lui propose, par laquelle il s'engage
-à ce que le logement soit occupé dans les conditions prévues à l'article R. 321-20 ;
+4° Aux communes ou à leurs groupements qui se substituent aux propriétaires ou exploitants défaillants pour les mesures
+qu'ils exécutent en leur lieu et place sur l'immeuble en application des articles L. 1331-29 du code de la santé publique et
+L. 123-3, L. 129-2 et L. 511-2 du présent code, dans les conditions fixées par le règlement général de l'agence ;
 
 5° Aux locataires qui effectuent des travaux en application des articles 1er et 4 de la loi n° 67-561 du 12 juillet 1967
-modifiée relative à l'amélioration de l'habitat ;
+modifiée relative à l'amélioration de l'habitat ou qui effectuent, avec l'accord exprès de leur bailleur, des travaux
+d'accessibilité ou d'adaptation au handicap de leur logement ;
 
 6° Aux organismes agréés dans les conditions prévues aux articles L. 252-1 et L. 442-8-1 ;
 
@@ -52876,6 +52884,20 @@ en copropriété faisant l'objet du plan de sauvegarde prévu à l'article L. 61
 programmée d'amélioration de l'habitat prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée visant la mise en
 oeuvre du droit au logement, l'attribution de la subvention excluant les copropriétaires à titre personnel du bénéfice de
 l'aide pour les mêmes travaux.
+
+Ces dispositions s'appliquent également lorsqu'un arrêté d'insalubrité pris en application des articles L. 1331-26 et
+suivants du code de la santé publique, une notification de travaux prise en application de l'article L. 1334-2 du même code,
+un arrêté de péril pris en application des articles L. 511-1 et suivants du présent code, ou un arrêté pris en application
+des articles L. 129-1 et suivants a été notifié au syndicat de copropriétaires et pour l'ensemble des mesures prescrites sur
+l'immeuble par lesdits arrêtés, ou lorsque les travaux portant sur les parties communes et équipements communs tendent à
+permettre l'accessibilité de l'immeuble.
+
+8° Aux syndicats de copropriétaires lorsqu'un administrateur provisoire a été désigné par le président du tribunal de grande
+instance, conformément aux dispositions de l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 fixant statut de la
+copropriété, pour le financement des travaux nécessaires au fonctionnement normal de la copropriété ;
+
+9° Aux maîtres d'ouvrage, personnes physiques ou morales, publiques ou privées, pour la participation au financement des
+prestations prévues à l'article R. 321-16.
 
 Pour l'application du présent article, sont assimilés aux propriétaires les titulaires d'un contrat leur donnant vocation à
 l'attribution à terme de la propriété du logement ainsi que les porteurs de parts ou d'actions de sociétés donnant vocation à
@@ -52888,21 +52910,28 @@ chaque année par l'agence en fonction de l'évolution de l'indice des prix à l
 ressources sont également applicables aux personnes mentionnées au 3° qui, supportant la charge des travaux à effectuer dans
 des logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
 
+II. - L'agence peut également accorder, à titre exceptionnel et dans des conditions fixées par le règlement général de
+l'agence, des subventions portant sur des travaux réalisés dans des locaux à usage d'habitation inclus dans un bail
+commercial, soit au titulaire de ce bail commercial, soit au propriétaire des murs.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-1 (M)
 	  - Loi n°67-561 du 12 juillet 1967 - art. 1 (V)
 	  - Loi n°67-561 du 12 juillet 1967 - art. 4 (V)
 	  - Loi n°90-449 1990-05-31 art. 6
 	  - Code civil - art. 515-1 (AbD)
 	  - Code civil - art. 515-8 (AbD)
-	  - Code de la santé publique - art. L1331-28 (M)
+	  - Code de la santé publique - art. L1331-26 (M)
 	  - Code de la santé publique - art. L1331-29 (M)
+	  - Code de la santé publique - art. L1334-2 (M)
+	  - Code de la construction et de l'habitation R321-20, L252-1, L442-8-1, L615-1, L511-1, L129-1, R321-16
+	  - Code de la construction et de l'habitation. - art. L129-1 (M)
 	  - Code de la construction et de l'habitation. - art. L252-1 (M)
 	  - Code de la construction et de l'habitation. - art. L442-8-1 (M)
-	  - Code de la construction et de l'habitation. - art. L511-2 (M)
-	  - Code de la construction et de l'habitation. - art. L511-3 (M)
+	  - Code de la construction et de l'habitation. - art. L511-1 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 	**Codifié par**:
@@ -52911,7 +52940,7 @@ des logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -52955,7 +52984,7 @@ des logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
 Sous réserve de l'application des dispositions du 4° de l'article R. 321-12 et exception faite de l'établissement public de
 gestion immobilière de Nord - Pas-de-Calais institué par l'article 191 de la loi n° 2000-1208 du 13 décembre 2000 relative à
 la solidarité et au renouvellement urbains, les collectivités publiques et leurs établissements publics ne peuvent bénéficier
-de l'aide de l'agence.
+de l'aide de l'agence. Cette disposition ne s'applique pas aux participations prévues à l'article R. 321-16.
 
 Les établissements publics d'aménagement prévus à l'article L. 321-1 du code de l'urbanisme, les organismes d'habitations à
 loyer modéré mentionnés à l'article L. 411-2 du présent code et les sociétés d'économie mixte ayant pour objet statutaire la
@@ -52976,7 +53005,7 @@ des locaux définies à l'article R. 321-20.
 
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 191 (M)
 	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de la construction et de l'habitation R321-12, L411-2, L615-1, L321-1-1, R321-20
+	  - Code de la construction et de l'habitation R321-12, R321-16, L411-2, L615-1, L321-1-1, R321-20
 	  - Code de la construction et de l'habitation. - art. L321-1-1 (M)
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
@@ -52984,7 +53013,7 @@ des locaux définies à l'article R. 321-20.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 
 ###### Article R*321-14
@@ -53033,12 +53062,15 @@ sur la liste dressée par le conseil d'administration.
 Ne peuvent faire l'objet d'aucune aide de l'agence les travaux destinés exclusivement à l'embellissement des locaux et les
 travaux de petit entretien au sens de l'article 1er du décret n° 98-331 du 30 avril 1998 relatif à la nature des travaux
 d'amélioration, de transformation ou d'aménagement de logements locatifs sociaux soumis au taux réduit de taxe sur la valeur
-ajoutée et modifiant le code de la construction et de l'habitation. Sont également exclus de l'aide les travaux de
-réhabilitation lourde qui, ayant pour effet d'apporter une modification importante au gros oeuvre ou d'accroître sensiblement
-le volume ou la surface habitable des locaux d'habitation, équivalent à des travaux de construction ou de reconstruction, à
-moins qu'ils ne soient réalisés sur un immeuble faisant l'objet d'un arrêté d'insalubrité pris en application des articles L.
-1331-26 et suivants du code la santé publique ou d'un arrêté de péril pris en application des articles L. 511-1 et suivants
-du présent code ou qu'ils constituent la transformation en logements de locaux affectés à un autre usage.
+ajoutée et modifiant le code de la construction et de l'habitation. Toutefois, la totalité des mesures prescrites sur un
+immeuble par un arrêté pris en application des articles L. 1331-26 et suivants et L. 1334-1 et suivants du code de la santé
+publique, ou des articles L. 123-3, L. 129-1 et suivants et L. 511-1 et suivants du présent code peuvent faire l'objet d'une
+subvention de l'agence. Sont également exclus de l'aide les travaux de réhabilitation lourde qui, ayant pour effet d'apporter
+une modification importante au gros oeuvre ou d'accroître sensiblement le volume ou la surface habitable des locaux
+d'habitation, équivalent à des travaux de construction ou de reconstruction, à moins qu'ils ne soient réalisés sur un
+immeuble faisant l'objet d'un arrêté d'insalubrité pris en application des articles L. 1331-26 et suivants du code la santé
+publique ou d'un arrêté de péril pris en application des articles L. 511-1 et suivants du présent code ou qu'ils constituent
+la transformation en logements de locaux affectés à un autre usage.
 
 **Liens relatifs à cet article**
 
@@ -53049,13 +53081,16 @@ du présent code ou qu'ils constituent la transformation en logements de locaux 
 	**Cite**:
 
 	  - Décret n°98-331 du 30 avril 1998 - art. 1 ()
-	  - Code de la construction et de l'habitation L321-1, L1331-26, L511-1
+	  - Code de la santé publique - art. L1331-26 (M)
+	  - Code de la santé publique - art. L1334-1 (M)
+	  - Code de la construction et de l'habitation. - art. L123-3 (M)
+	  - Code de la construction et de l'habitation. - art. L129-1 (M)
 	  - Code de la construction et de l'habitation. - art. L321-1 (M)
 	  - Code de la construction et de l'habitation. - art. L511-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53072,7 +53107,9 @@ du présent code ou qu'ils constituent la transformation en logements de locaux 
 L'agence peut participer, sous forme de subventions ou par voie de convention, à des diagnostics préalables, à des études
 pré-opérationnelles, à l'animation et au suivi nécessaires à la mise en oeuvre des opérations programmées d'amélioration de
 l'habitat mentionnées à l'article L. 303-1 et au 7° de l'article R. 321-12, des plans de sauvegarde prévus à l'article L.
-615-1, des programmes d'intérêt général et des programmes sociaux thématiques concourant à l'amélioration de l'habitat.
+615-1, des programmes d'intérêt général mentionnés à l'article R. 327-1 et des programmes sociaux thématiques concourant à
+l'amélioration de l'habitat. Les modalités et conditions de cette participation, et notamment les conditions d'attribution et
+de versement des subventions, sont fixées par le règlement général de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -53082,7 +53119,7 @@ l'habitat mentionnées à l'article L. 303-1 et au 7° de l'article R. 321-12, d
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53091,7 +53128,7 @@ l'habitat mentionnées à l'article L. 303-1 et au 7° de l'article R. 321-12, d
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L303-1, R321-12, L615-1
+	  - Code de la construction et de l'habitation L303-1, R321-12, L615-1, R327-1
 	  - Code de la construction et de l'habitation. - art. L303-1 (M)
 	  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
@@ -53099,13 +53136,13 @@ l'habitat mentionnées à l'article L. 303-1 et au 7° de l'article R. 321-12, d
 ###### Article R321-17
 
 Le montant de la subvention versée par l'agence ne peut avoir pour effet de porter le montant des aides publiques directes à
-plus de 80 % du montant prévisionnel de la dépense subventionnable, sauf cas exceptionnels répondant à des critères fixés par
-le règlement général de l'agence.
+plus de 80 % coût global de l'opération d'amélioration, sauf cas exceptionnels répondant à des critères fixés par le
+règlement général de l'agence.
 
 Le conseil d'administration fixe le montant maximum de la subvention par application d'un taux déterminé à la dépense
-subventionnable ou de manière forfaitaire. Il définit les conditions dans lesquelles la dépense subventionnable peut être
-plafonnée ou celles dans lesquelles la subvention peut être modulée en fonction de critères de ressources des demandeurs, de
-critères géographiques ou de conditions spécifiques de location.
+subventionnable ou de manière forfaitaire. Il définit les conditions dans lesquelles les travaux subventionnables peuvent
+être plafonnés ou celles dans lesquelles la subvention peut être modulée en fonction de critères de ressources des
+demandeurs, de critères géographiques ou de conditions spécifiques de location.
 
 Ne donnent pas lieu au bénéfice de subventions les travaux qui ont fait l'objet depuis moins de dix ans ou font l'objet des
 concours financiers prévus par la réglementation relative aux aides de l'Etat pour la construction, l'acquisition et
@@ -53117,9 +53154,9 @@ l'amélioration des logements en accession à la propriété et celles relatives
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53142,19 +53179,25 @@ notification des décisions.
 Seuls les travaux commencés après le dépôt de la demande de subvention peuvent bénéficier d'une aide de l'agence. Toutefois
 la commission d'amélioration de l'habitat ou par le président de l'établissement public de coopération intercommunale ou du
 conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 peut, à titre exceptionnel, accorder une
-subvention lorsque le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en cas d'application de
-l'article L. 125-1 du code des assurances relatif aux dommages causés par des catastrophes naturelles ou de l'article L.
-122-7 du même code relatif aux dommages causés par les effets du vent dû aux tempêtes, ouragans et cyclones.
+subvention lorsque le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en cas de travaux réalisés
+d'office par la commune ou l'Etat en application des articles L. 1331-29 et L. 1334-2 du code de la santé publique, ou des
+articles L. 129-2 et L. 511-2 et suivant du présent code et en cas d'application de l'article L. 125-1 du code des assurances
+relatif aux dommages causés par des catastrophes naturelles ou de l'article L. 122-7 du même code relatif aux dommages causés
+par les effets du vent dû aux tempêtes, ouragans et cyclones.
 
-La décision d'octroi de subvention mentionne le montant prévisionnel, le calendrier et les caractéristiques des travaux ainsi
-que le montant de la subvention, les conditions de son versement et les dispositions relatives à son reversement éventuel.
+La décision d'octroi de subvention mentionne les caractéristiques principales du projet, le montant de la subvention, les
+conditions de son versement et les dispositions relatives à son reversement éventuel ainsi que le comptable assignataire.
 Toute demande qui n'a pas donné lieu à la notification d'une décision, au sens du présent article, dans un délai de quatre
 mois à compter de la réception du dossier complet est réputée rejetée.
 
-Le versement de la subvention est effectué, sur déclaration d'achèvement des travaux, après vérification de la conformité de
-la réalisation du projet avec les caractéristiques mentionnées dans la décision d'octroi de subvention. La subvention est
-versée sur présentation des factures des entreprises, sauf cas exceptionnels dus, notamment, à la défaillance de l'entreprise
-chargée des travaux.
+La subvention est versée, sur déclaration d'achèvement des travaux, après vérification de la conformité des travaux réalisés
+avec les caractéristiques du projet sur lesquelles la décision d'attribution a été fondée. La subvention est versée sur
+présentation des factures des entreprises, sauf cas exceptionnels dus, notamment, à la défaillance de l'entreprise chargée
+des travaux.
+
+Par exception aux dispositions du présent article, des travaux définis par le conseil d'administration de l'agence peuvent
+être réalisés par les propriétaires occupants, sous réserve d'un encadrement technique des travaux durant leur exécution et
+de la production de justificatifs des dépenses engagées, dans des conditions définies par le règlement général de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -53164,8 +53207,7 @@ chargée des travaux.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 2005-05-03 art. 1 X, XII JORF 5 mai 2005
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53197,11 +53239,11 @@ immeubles mentionnés au deuxième alinéa de l'article R. 321-14, le bénéfici
 l'achèvement des travaux sous peine d'annulation de la décision d'octroi de la subvention et du remboursement des sommes déjà
 perçues.
 
-Une prolongation de ces délais peut, selon des critères fixés par le règlement général de l'agence et dans la limite d'un an,
-être accordée par la commission d'amélioration de l'habitat ou par le président de l'établissement public de coopération
-intercommunale ou du conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 sur demande dûment motivée
-du bénéficiaire de la subvention, notamment lorsque des circonstances extérieures à la volonté de l'intéressé ont fait
-obstacle à la réalisation des travaux.
+Une prolongation de ces délais peut, selon des critères, et dans des limites et des conditions fixés par le règlement général
+de l'agence, être accordée par la commission d'amélioration de l'habitat ou par le président de l'établissement public de
+coopération intercommunale ou du conseil général ayant conclu la convention mentionnée à l'article L. 321-1-1 sur demande
+dûment motivée du bénéficiaire de la subvention, notamment lorsque des circonstances extérieures à la volonté de l'intéressé
+ont fait obstacle à la réalisation des travaux.
 
 **Liens relatifs à cet article**
 
@@ -53211,7 +53253,7 @@ obstacle à la réalisation des travaux.
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53225,19 +53267,18 @@ obstacle à la réalisation des travaux.
 
 ###### Article R321-20
 
-Les locaux pour lesquels la subvention est accordée doivent être occupés pendant une période de neuf ans à compter de la
-déclaration d'achèvement des travaux mentionnée à l'article R. 321-18, sauf cas particuliers relatifs, notamment, à des
-modifications de la situation familiale ou professionnelle et selon des critères fixés par le règlement général de l'agence.
-Le logement doit être occupé à titre de résidence principale, au moins huit mois par an, sauf obligation professionnelle,
-raison de santé ou cas de force majeure.
+Les locaux pour lesquels la subvention est accordée doivent être occupés pendant une durée et selon des critères déterminés
+par le règlement général de l'agence. Le logement doit être occupé à titre de résidence principale, au moins huit mois par
+an, sauf obligation professionnelle, raison de santé ou cas de force majeure.
 
 Tout changement d'occupation ou d'utilisation des logements ou toute mutation de propriété des logements intervenant pendant
-la période de neuf ans mentionnée au présent article, doit être déclaré par le bénéficiaire de la subvention au délégué local
-dans un délai de deux mois suivant l'événement. En outre, à l'occasion d'une mutation de propriété, les cédants, les
-donataires ou leurs ayants droit sont tenus d'informer le notaire de l'octroi de la subvention.
+la période mentionnée au premier alinéa, doit être déclaré par le bénéficiaire de la subvention au délégué local dans un
+délai de deux mois suivant l'événement. En outre, à l'occasion d'une mutation de propriété, les cédants, les donataires ou
+leurs ayants droit sont tenus d'informer le notaire de l'octroi de la subvention.
 
 Le règlement général de l'agence précise les modalités selon lesquelles les intéressés justifient que le logement est occupé
-conformément aux dispositions de la présente section.
+conformément aux dispositions de la présente section. Il fixe également les conditions particulières applicables aux locaux
+visés au II de l'article R. 321-12.
 
 **Liens relatifs à cet article**
 
@@ -53245,9 +53286,9 @@ conformément aux dispositions de la présente section.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -53263,7 +53304,7 @@ conformément aux dispositions de la présente section.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R321-18 (M)
+	  - Code de la construction et de l'habitation R321-12
 
 
 ###### Article R321-21
@@ -53271,12 +53312,12 @@ conformément aux dispositions de la présente section.
 Le reversement est de plein droit exigé s'il s'avère que l'aide a été obtenue à la suite de fausses déclarations ou de
 manoeuvres frauduleuses.
 
+Le conseil d'administration ou, sur délégation, le comité restreint exerce le pouvoir de sanction prévu à l'article L. 321-2.
+Il peut, notamment, prononcer une sanction pécuniaire en cas de fausses déclarations ou de manoeuvres frauduleuses.
+
 I. - Lorsque aucune convention de délégation de compétence mentionnée aux articles L. 301-5-1 et L. 301-5-2 n'a été signée et
 sans préjudice de poursuites judiciaires, le reversement total ou partiel de l'aide est prononcé par la commission
 d'amélioration de l'habitat en cas de méconnaissance des prescriptions de la présente section.
-
-Le conseil d'administration ou, sur délégation, le comité restreint exerce le pouvoir de sanction prévu à l'article L. 321-2.
-Il peut, notamment, prononcer une sanction pécuniaire en cas de fausses déclarations ou de manoeuvre frauduleuses.
 
 II. - Lorsque a été signée une convention de délégation de compétence mentionnée aux articles L. 301-5-1 et L. 301-5-2 du
 présent code et sans préjudice de poursuites judiciaires, le reversement total ou partiel de l'aide est prononcé par le
@@ -53301,7 +53342,7 @@ l'assemblée délibérante de la collectivité territoriale ou de l'établisseme
 
 	**Modifié par**:
 
-	  - Décret n°2005-416 du 3 mai 2005 - art. 1 () JORF 5 mai 2005
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005
 
 	**Cité par**:
 
@@ -54321,6 +54362,45 @@ de l'habitation et du ministre chargé des finances.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+
+#### Chapitre VII : Programme d'intérêt.
+
+###### Article R*327-1
+
+Le représentant de l'Etat dans le département ou, lorsqu'une convention de délégation de compétence a été signée en
+application des articles L. 301-5-1 ou L. 301-5-2, le président de l'autorité délégataire peut décider le lancement d'un
+programme d'intérêt général d'amélioration de l'habitat, dont il définit la durée et le périmètre d'intervention, qui a pour
+objectif l'amélioration des conditions d'habitat dans des ensembles d'immeubles ou de logements. Le programme peut comprendre
+des mesures de nature technique et des interventions à caractère social.
+
+La mise en oeuvre du programme d'intérêt général peut faire l'objet d'une convention entre l'Etat, l'Agence nationale pour
+l'amélioration de l'habitat et une ou plusieurs collectivités territoriales ou établissement public de coopération
+intercommunale compétent en matière d'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Créé par**:
+
+	  - Décret n°2005-1449 du 25 novembre 2005 - art. 2 () JORF 26 novembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
+	  - Arrêté du 6 septembre 2010 - art. (Ab)
+	  - Décret n°2013-610 du 10 juillet 2013 - art. (Ab)
+	  - Code de la construction et de l'habitation. - art. R313-7 (V)
+	  - Code de la construction et de l'habitation. - art. R321-11 (V)
+	  - Code de la construction et de l'habitation. - art. R321-5 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L301-5-1 (M)
+	  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
 
 
 ### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.
