@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-26
+Version Consolidée au 2005-11-29
 
 # Partie législative
 
@@ -73587,12 +73587,9 @@ Sous réserve des dispositions de l'article R. 423-32-3, les comptabilités sont
 
 ###### Article R*423-21
 
-Sous réserve des dispositions de l'article R. 423-25 ci-après, les immobilisations sont comptabilisées soit pour leur prix de
-revient, soit pour leur coût d'acquisition, soit, en cas de donation, pour leur valeur vénale.
-
-Le prix de revient des immobilisations comprend les dépenses d'acquisition ainsi que le montant des travaux de construction,
-d'agrandissement et d'amélioration, à l'exclusion des travaux de grosses réparations et d'entretien. Les frais d'architecte
-sont compris dans le prix de revient des immobilisations.
+Sous réserve des dispositions de l'article R. 423-25, les immobilisations sont comptabilisées soit pour leur valeur d'apport,
+soit pour leur coût d'acquisition, soit pour leur coût de production, soit, en cas d'échange ou de donation, pour leur valeur
+vénale.
 
 **Liens relatifs à cet article**
 
@@ -73602,18 +73599,13 @@ sont compris dans le prix de revient des immobilisations.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 5 () JORF 15 septembre 1988
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R423-25
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 1 () JORF 29 novembre 2005
 
 
 ###### Article R*423-22
 
 Les dotations de l'exercice aux comptes d'amortissement des immobilisations doivent permettre l'amortissement intégral de la
-valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée de vie économique.
+valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée probable d'utilisation.
 
 Pendant cette période, les dotations globales cumulées aux comptes d'amortissement des immobilisations seront au moins égales
 au montant cumulé des remboursements des emprunts contractés pour le financement de celles-ci. La faculté donnée de différer
@@ -73621,11 +73613,11 @@ le remboursement du capital de certains emprunts ne dispense pas les offices de 
 d'amortissements des immobilisations correspondantes.
 
 Sous réserve des dispositions ci-dessus, le conseil d'administration fixe le rythme d'amortissement des immobilisations en
-fonction de la durée de vie économique de celles-ci. A l'issue du remboursement des emprunts correspondants, une dotation est
-constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
+fonction de la durée probable d'utilisation de celles-ci. A l'issue du remboursement des emprunts correspondants, une
+dotation est constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
 
-Si, en cours d'amortissement, des dépréciations particulières apparaissent, des dotations complémentaires aux comptes
-d'amortissement sont effectuées.
+Si des dépréciations irréversibles sont constatées en cours d'amortissement, des dotations complémentaires aux comptes
+d'amortissement sont opérées par le moyen d'une dotation aux amortissements exceptionnels.
 
 **Liens relatifs à cet article**
 
@@ -73635,8 +73627,7 @@ d'amortissement sont effectuées.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 2 () JORF 29 novembre 2005
 
 	**Cité par**:
 
@@ -73655,10 +73646,6 @@ un an, les sommes dues sont provisionnées selon les taux et dans les conditions
 l'article R. 423-30. Le calcul de ces provisions s'effectue sur la base des créances échues et non recouvrées au 31 décembre,
 exception faite du quittancement de décembre.
 
-La dotation annuelle à la provision pour grosses réparations peut varier, selon les besoins et les possibilités de l'office,
-sans jamais pouvoir être inférieure à une fraction de la valeur brute actualisée des immobilisations fixée en application des
-instructions mentionnées ci-dessus.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -73667,8 +73654,7 @@ instructions mentionnées ci-dessus.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 6 () JORF 15 septembre 1988
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 3 () JORF 29 novembre 2005
 
 	**Cité par**:
 
@@ -74258,28 +74244,6 @@ dues à l'office.
 	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
-###### Article R423-38
-
-Le comptable de l'office est placé sous la surveillance du receveur particulier des finances.
-
-La gestion des comptables est, lorsqu'ils sont à la fois receveurs percepteurs ou percepteurs, placée sous la responsabilité
-des receveurs particuliers des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1460 du 28 novembre 2005 - art. 4 () JORF 29 novembre 2005
-
-
 ###### Article R423-40
 
 Le cadre comptable et la tenue des comptes sont fixés par des instructions conjointes du ministre chargé de la construction
@@ -74312,12 +74276,9 @@ et de l'habitation et du ministre chargé des finances.
 
 ###### Article R423-41
 
-Sous réserve des dispositions de l'article R. 423-45 ci-après, les immobilisations sont comptabilisées soit pour leur prix de
-revient, soit pour leur coût d'acquisition, soit, en cas de donation, pour leur valeur vénale.
-
-Le prix de revient des immobilisations comprend les dépenses d'acquisition ainsi que le montant des travaux de construction,
-d'agrandissement et d'amélioration, à l'exclusion des travaux de grosses réparations et d'entretien. Les frais d'architecte
-sont compris dans le prix de revient des immobilisations.
+Sous réserve des dispositions de l'article R. 423-45, les immobilisations sont comptabilisées soit pour leur valeur d'apport,
+soit pour leur coût d'acquisition, soit pour leur coût de production, soit, en cas d'échange ou de donation, pour leur valeur
+vénale.
 
 **Liens relatifs à cet article**
 
@@ -74327,17 +74288,21 @@ sont compris dans le prix de revient des immobilisations.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 5 () JORF 29 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-45 (V)
+	  - Code de la construction et de l'habitation. - art. R423-45
 
 
 ###### Article R423-42
 
 Les dotations de l'exercice aux comptes d'amortissement des immobilisations doivent permettre l'amortissement intégral de la
-valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée de vie économique.
+valeur des immobilisations, terrains exclus, sur une période correspondant à leur durée probable d'utilisation.
 
 Pendant cette période, les dotations globales cumulées aux comptes d'amortissement des immobilisations seront au moins égales
 au montant cumulé des remboursements des emprunts contractés pour le financement de celles-ci. La faculté donnée de différer
@@ -74345,11 +74310,11 @@ le remboursement du capital de certains emprunts ne dispense pas les offices de 
 d'amortissement des immobilisations correspondantes.
 
 Sous réserve des dispositions ci-dessus, le conseil d'administration fixe le rythme d'amortissement des immobilisations en
-fonction de la durée de vie économique de celles-ci. A l'issue du remboursement des emprunts correspondants, une dotation est
-constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
+fonction de la durée probable d'utilisation de celles-ci. A l'issue du remboursement des emprunts correspondants, une
+dotation est constituée pour l'amortissement complémentaire jusqu'à l'amortissement complet des immobilisations.
 
-Si, en cours d'amortissement, des dépréciations particulières apparaissent, des dotations complémentaires aux comptes
-d'amortissement sont effectuées.
+Si des dépréciations irréversibles sont constatées en cours d'amortissement, des dotations complémentaires aux comptes
+d'amortissement sont opérées par le moyen d'une dotation aux amortissements exceptionnels.
 
 **Liens relatifs à cet article**
 
@@ -74359,7 +74324,11 @@ d'amortissement sont effectuées.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 6 () JORF 29 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
 ###### Article R423-43
@@ -74368,10 +74337,6 @@ Les instructions prévues à l'article R. 423-40 fixent notamment les conditions
 détermine les dotations annuelles aux provisions pour risques et pour dépréciation ainsi que les dotations annuelles aux
 amortissements des charges à répartir sur plusieurs exercices.
 
-La dotation annuelle à la provision pour grosses réparations peut varier, selon les besoins et les possibilités de l'office,
-sans jamais pouvoir être inférieure à une fraction de la valeur brute actualisée des immobilisations fixée en application des
-instructions mentionnées ci-dessus.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -74380,11 +74345,15 @@ instructions mentionnées ci-dessus.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 13 () JORF 15 septembre 1988
+	  - Décret n°2005-1460 du 28 novembre 2005 - art. 7 () JORF 29 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R423-40 (V)
+	  - Code de l'urbanisme - art. R*423-40 (V)
 
 
 ###### Article R423-44
