@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-12-03
+Version Consolidée au 2005-12-16
 
 # Partie législative
 
@@ -197,7 +197,10 @@ Sont interdites :
 
 - toute division par appartements d'immeubles qui sont frappés d'une interdiction d'habiter, ou d'un arrêté de péril, ou sont
 déclarés insalubres, ou comportent pour le quart au moins de leur superficie totale des logements loués ou occupés classés
-dans la catégorie IV visée par la loi n° 48-1360 du 1er septembre 1948 précitée ;
+dans la catégorie IV visée par la loi n° 48-1360 du 1er septembre 1948 précitée. La division d'un immeuble bâti ou d'un
+groupe d'immeubles bâtis, entre plusieurs personnes, par lots comprenant chacun une partie privative et une quote-part de
+parties communes est néanmoins autorisée lorsqu'il s'agit d'y réaliser des travaux de restauration immobilière déclarés
+d'utilité publique en application de l'article L. 313-4 du code de l'urbanisme ;
 
 - toute division d'immeuble en vue de créer des locaux à usage d'habitation d'une superficie et d'un volume habitables
 inférieurs respectivement à 14 m2 et à 33 m3 ou qui ne sont pas pourvus d'une installation d'alimentation en eau potable,
@@ -226,6 +229,7 @@ aux 2°, 4° et 9° de l'article 131-39 du même code.
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code de la santé publique - art. L1311-1 (M)
 	  - Code de la santé publique - art. L1334-5 (M)
+	  - Code de l'urbanisme - art. L313-4 (M)
 
 	**Codifié par**:
 
@@ -240,7 +244,7 @@ aux 2°, 4° et 9° de l'article 131-39 du même code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 11 () JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -2701,10 +2705,15 @@ procéder d'office aux travaux nécessaires pour mettre fin à la situation d'in
 l'exploitant à lui verser une provision à valoir sur le coût des travaux. En cas de litige sur les conditions d'entrée dans
 l'immeuble, le juge des référés statue.
 
-Les dépenses des travaux à la charge de l'exploitant sont recouvrées comme en matière de contributions directes.
+Lorsque la commune procède d'office aux travaux, elle agit en lieu et place des propriétaires, pour leur compte et à leurs
+frais. Sa créance est recouvrée comme en matière de contributions directes.
 
-Le relogement éventuel des occupants est réalisé dans les conditions fixées aux articles L. 521-1 et suivants du présent
-code.
+Le maire peut également prononcer une interdiction temporaire d'habiter ou d'utiliser les lieux applicable jusqu'à la
+réalisation des mesures prescrites.
+
+Si une interdiction temporaire d'habiter ou d'utiliser les lieux est décidée ou si l'état des locaux impose une fermeture
+définitive de l'établissement, l'hébergement ou le relogement des occupants est assuré dans les conditions fixées aux
+articles L. 521-1 et suivants du présent code.
 
 **Liens relatifs à cet article**
 
@@ -2750,9 +2759,9 @@ code.
 	  - Code général des collectivités territoriales - art. L3642-2 (V)
 	  - Code général des collectivités territoriales - art. L5211-9-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 178 () JORF 14 décembre 2000
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 12 () JORF 16 décembre 2005
 
 
 ###### Article L123-4
@@ -16933,17 +16942,17 @@ ceux appartenant aux collectivités locales et gérés par lesdits organismes.
 
 ###### Article L353-15
 
-Par dérogation à l'article L. 442-6, seules les dispositions des chapitres Ier, à l'exclusion de l'article 11, V, VI, des
+I. Par dérogation à l'article L. 442-6, seules les dispositions des chapitres Ier, à l'exclusion de l'article 11, V, VI, des
 premier et deuxième alinéas de l'article 32 bis et de l'alinéa premier de l'article 78 de la loi n° 48-1360 du 1er septembre
 1948 modifiée, sont applicables aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14.
 
-Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
+II. Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
 portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par un locataire
 d'un logement mentionné à l'article L. 353-14 qui bénéficie de l'attribution dans le parc du même bailleur d'un autre
 logement mentionné au même article est ramené à un mois. Ce délai est de deux mois si les deux logements appartiennent à des
 bailleurs différents.
 
-Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a obtenu du préfet l'autorisation de démolir un
+III. Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a obtenu du préfet l'autorisation de démolir un
 immeuble afin d'en construire un nouveau, d'une surface habitable supérieure et contenant plus de logements que l'immeuble
 démoli, ou de restructurer le quartier dans le cadre d'un projet de renouvellement urbain.
 
@@ -16953,8 +16962,12 @@ peuvent être réoccupés avant le début des travaux.
 Le relogement doit être assuré dans des conditions conformes aux dispositions prévues par l'article 13 bis de la loi n°
 48-1360 du 1er septembre 1948 précitée.
 
-A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation contraire, les charges récupérables sont
+IV.  A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation contraire, les charges récupérables sont
 exigibles dans les conditions prévues à l'article L. 442-3.
+
+V. N'ont pas droit au maintien dans les lieux les personnes bénéficiant d'un hébergement en application des articles L.
+521-3-1 et L. 521-3-2 si elles refusent de réintégrer leur logement à l'issue des travaux ou si elles refusent une offre de
+relogement correspondant à leurs besoins et à leurs possibilités.
 
 **Liens relatifs à cet article**
 
@@ -16964,10 +16977,12 @@ exigibles dans les conditions prévues à l'article L. 442-3.
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
 	  - Loi n°86-1290 1986-12-23
 	  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
-	  - Code de la construction et de l'habitation L442-6, 11, 32 bis, L353-14, L442-3
+	  - Code de la construction et de l'habitation L442-6, 11, 32 bis, L353-14, L442-3, L521-3-1, L521-3-2
 	  - Code de la construction et de l'habitation. - art. L353-14 (M)
 	  - Code de la construction et de l'habitation. - art. L442-3 (M)
 	  - Code de la construction et de l'habitation. - art. L442-6 (M)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (M)
 
 	**Codifié par**:
 
@@ -16983,7 +16998,7 @@ exigibles dans les conditions prévues à l'article L. 442-3.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 180 () JORF 14 décembre 2000
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 9 () JORF 16 décembre 2005
 
 
 ###### Article L353-15-1
@@ -22857,12 +22872,12 @@ l'investissement locatif, l'accession à la propriété de logements sociaux et 
 
 ###### Article L442-6
 
-Les dispositions des chapitres Ier, à l'exclusion de l'article 11, II, IV, V, VI et VIII du titre Ier, des alinéas 1,2,3,4,
-et 8 de l'article 70, de l'article 74, des alinéas 1, 2 et 3 de l'article 75 et de l'alinéa 1er de l'article 78 de la loi n.
-48-1360 du 1er septembre 1948 précitée sont applicables aux habitations à loyer modéré sous réserve des dispositions du
-présent livre, notamment des articles L. 411-1, alinéa 1er, et L. 442-8.
+I. Les dispositions des chapitres Ier, à l'exclusion de l'article 11, II, IV, V, VI et VIII du titre Ier, des alinéas
+1,2,3,4, et 8 de l'article 70, de l'article 74, des alinéas 1, 2 et 3 de l'article 75 et de l'alinéa 1er de l'article 78 de
+la loi n. 48-1360 du 1er septembre 1948 précitée sont applicables aux habitations à loyer modéré sous réserve des
+dispositions du présent livre, notamment des articles L. 411-1, alinéa 1er, et L. 442-8.
 
-Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a obtenu du préfet l'autorisation de démolir un
+II. Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a obtenu du préfet l'autorisation de démolir un
 immeuble afin d'en construire un nouveau, d'une surface habitable supérieure et contenant plus de logements que l'immeuble
 démoli, ou de restructurer le quartier dans le cadre d'un projet de renouvellement urbain.
 
@@ -22872,14 +22887,20 @@ peuvent être réoccupés avant le début des travaux.
 Le relogement doit être assuré dans des conditions conformes aux dispositions prévues par l'article 13 bis de la loi n°
 48-1360 du 1er septembre 1948 précitée.
 
+III. - N'ont pas droit au maintien dans les lieux les personnes bénéficiant d'un hébergement en application des articles L.
+521-3-1 et L. 521-3-2 si elles refusent de réintégrer leur logement à l'issue des travaux ou si elles refusent une offre de
+relogement correspondant à leurs besoins et à leurs possibilités.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°48-1360 1948-09-01 art. 78, art. 13 bis
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
-	  - Code de la construction et de l'habitation 11, 70, 74, 75, L411-1
+	  - Code de la construction et de l'habitation 11, 70, 74, 75, L411-1, L521-3-1, L521-3-2
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (M)
 
 	**Codifié par**:
 
@@ -22887,7 +22908,7 @@ Le relogement doit être assuré dans des conditions conformes aux dispositions 
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 180 () JORF 14 décembre 2000
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 9 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -26315,13 +26336,15 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 Le maire peut prescrire la réparation ou la démolition des murs, bâtiments ou édifices quelconques lorsqu'ils menacent ruine
 et qu'ils pourraient, par leur effondrement, compromettre la sécurité ou lorsque, d'une façon générale, ils n'offrent pas les
-garanties de solidité nécessaires au maintien de la sécurité publique.
+garanties de solidité nécessaires au maintien de la sécurité publique, dans les conditions prévues à l'article L. 511-2.
+Toutefois, si leur état fait courir un péril imminent, le maire ordonne préalablement les mesures provisoires indispensables
+pour écarter ce péril, dans les conditions prévues à l'article L. 511-3.
 
 Il peut faire procéder à toutes visites qui lui paraîtront utiles à l'effet de vérifier l'état de solidité de tout mur,
-bâtiment et édifice.
+bâtiment et édifice. 
 
-Toute personne ayant connaissance de faits révélant l'insécurité d'un immeuble est tenue de [*obligation*] signaler ces faits
-au maire, qui peut recourir à la procédure des articles ci-après.
+Toute personne ayant connaissance de faits révélant l'insécurité d'un immeuble est tenue de signaler ces faits au maire, qui
+peut recourir à la procédure des articles ci-après.
 
 **Liens relatifs à cet article**
 
@@ -26361,19 +26384,27 @@ au maire, qui peut recourir à la procédure des articles ci-après.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 4 () JORF 16 décembre 2005
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 303
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L511-3 (V)
+
 
 ###### Article L511-1-1
 
-L'arrêté prescrivant la réparation ou la démolition du bâtiment menaçant ruine est notifié aux propriétaires et aux
-titulaires de droits réels immobiliers sur les locaux, tels qu'ils figurent au fichier immobilier de la conservation des
-hypothèques. Il est également notifié, pour autant qu'ils sont connus, aux titulaires de parts donnant droit à l'attribution
-ou à la jouissance en propriété des locaux, aux occupants et, si l'immeuble est à usage total ou partiel d'hébergement, à
-l'exploitant. Lorsque les travaux prescrits ne concernent que les parties communes d'un immeuble en copropriété, la
-notification aux copropriétaires est valablement faite au seul syndicat de la copropriété.
+Tout arrêté de péril pris en application de l'article L. 511-1 est notifié aux propriétaires et aux titulaires de droits
+réels immobiliers sur les locaux, tels qu'ils figurent au fichier immobilier de la conservation des hypothèques. Il est
+également notifié, pour autant qu'ils sont connus, aux titulaires de parts donnant droit à l'attribution ou à la jouissance
+en propriété des locaux, aux occupants et, si l'immeuble est à usage total ou partiel d'hébergement, à l'exploitant. Lorsque
+les travaux prescrits ne concernent que les parties communes d'un immeuble en copropriété, la notification aux
+copropriétaires est valablement faite au seul syndicat de la copropriété.
 
 A défaut de connaître l'adresse actuelle des personnes visées au premier alinéa ou de pouvoir les identifier, la notification
 les concernant est valablement effectuée par affichage à la mairie de la commune ou, à Paris, Marseille et Lyon, de
@@ -26382,7 +26413,7 @@ l'arrondissement où est situé l'immeuble ainsi que par affichage sur la façad
 Cet arrêté reproduit le premier alinéa de l'article L. 521-2.
 
 A la demande du maire, l'arrêté prescrivant la réparation ou la démolition de l'immeuble menaçant ruine est publié à la
-conservation des hypothèques dont dépend l'immeuble pour chacun des locaux aux frais du propriétaire. ;
+conservation des hypothèques ou au livre foncier dont dépend l'immeuble pour chacun des locaux aux frais du propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -26390,9 +26421,13 @@ conservation des hypothèques dont dépend l'immeuble pour chacun des locaux aux
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 179
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 4 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L511-1 (M)
 
 	**Cité par**:
 
@@ -26633,11 +26668,15 @@ du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, su
 
 ###### Article L511-5
 
-Les contrats à usage d'habitation en cours à la date de l'arrêté portant interdiction d'habiter sont soumis aux règles
-définies à l'article L. 521-2.
+Lorsque les locaux sont frappés d'une interdiction définitive ou temporaire d'habiter ou d'utiliser ou lorsque les travaux
+nécessaires pour remédier au danger les rendent temporairement inhabitables, le propriétaire est tenu d'assurer le relogement
+ou l'hébergement des occupants dans les conditions prévues aux articles L. 521-1 à L. 521-3. 
 
-A compter de la notification de l'arrêté portant interdiction d'habiter et d'utiliser les locaux mentionnés à l'article L.
-511-2, les locaux vacants ne peuvent être ni loués ni mis à disposition pour quelque usage que ce soit.
+Les contrats à usage d'habitation en cours à la date de l'arrêté de péril sont soumis aux règles définies à l'article L.
+521-2.
+
+A compter de la notification de l'arrêté de péril, les locaux vacants ne peuvent être ni loués ni mis à disposition pour
+quelque usage que ce soit. 
 
 Les dispositions de l'alinéa précédent cessent d'être applicables à compter de l'arrêté prononçant la cessation du péril et
 la mainlevée de l'interdiction d'habiter et d'utiliser.
@@ -26648,14 +26687,9 @@ la mainlevée de l'interdiction d'habiter et d'utiliser.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 179
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L511-2 (M)
-	  - Code de la construction et de l'habitation. - art. L521-2 (M)
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -26665,27 +26699,55 @@ la mainlevée de l'interdiction d'habiter et d'utiliser.
 	  - Code général des collectivités territoriales - art. L3642-2 (V)
 	  - Code général des collectivités territoriales - art. L5211-9-2 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L521-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-2 (V)
+
 
 ###### Article L511-6
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 75 000 euros le fait de détruire, dégrader ou détériorer des
-locaux ayant fait l'objet de l'arrêté prévu aux articles L. 511-1 et L. 511-2, dans le but de faire quitter les lieux aux
-occupants.
+I. - Est puni d'un d'emprisonnement d'un an et d'une amende de 50 000 euros :
 
-Le fait de contrevenir à l'interdiction édictée au deuxième alinéa de l'article L. 511-5 est puni des mêmes peines.
+- le refus délibéré et sans motif légitime, constaté après mise en demeure, d'exécuter les travaux prescrits en application
+des articles L. 511-2 et L. 511-3.
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies au présent article.
+II. - Est puni d'un emprisonnement de trois ans et d'une amende de 100 000 euros :
+
+- le fait de dégrader, détériorer, détruire des locaux ou de les rendre impropres à l'habitation de quelque façon que ce soit
+dans le but d'en faire partir les occupants lorsque ces locaux sont visés par un arrêté de péril ;
+
+- le fait, de mauvaise foi, de ne pas respecter une interdiction d'habiter et d'utiliser des locaux prise en application de
+l'article L. 511-2 et l'interdiction de les louer ou mettre à disposition prévue par l'article L. 511-5.
+
+III. - Les personnes physiques encourent également les peines complémentaires suivantes :
+
+1° La confiscation du fonds de commerce ou de l'immeuble destiné à l'hébergement des personnes et ayant servi à commettre
+l'infraction ;
+
+2° L'interdiction pour une durée de cinq ans au plus d'exercer une activité professionnelle ou sociale dès lors que les
+facilités que procure cette activité ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette interdiction
+n'est toutefois pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales.
+
+IV. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2
+du code pénal, des infractions définies au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- les peines complémentaires prévues aux 2°, 4°, 8° et 9° de l'article 131-39 du code pénal. La confiscation mentionnée au 8°
+de cet article porte sur le fonds de commerce ou l'immeuble destiné à l'hébergement des personnes et ayant servi à commettre
+l'infraction.
+
+V. - Lorsque les poursuites sont engagées à l'encontre d'exploitants de fonds de commerce aux fins d'hébergement, il est fait
+application des dispositions de l'article L. 651-10 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -26696,16 +26758,17 @@ pénal, des infractions définies au présent article.
 	  - Code général des collectivités territoriales - art. L2573-20 (V)
 	  - Code pénal - art. 434-41 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 7 () JORF 16 décembre 2005
+
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
-	  - Code de la construction et de l'habitation. - art. L511-1 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la construction et de l'habitation. - art. L511-3 (M)
 	  - Code de la construction et de l'habitation. - art. L511-5 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Titre II : Bâtiments insalubres.
@@ -26714,19 +26777,27 @@ pénal, des infractions définies au présent article.
 
 ###### Article L521-1
 
-Lorsqu'un immeuble fait l'objet d'un arrêté d'insalubrité assorti d'une interdiction d'habiter temporaire ou définitive pris
-en application des articles L. 1331-23, L. 1331-28 et L. 1337-3 du code de la santé publique ou d'un arrêté portant
-interdiction d'habiter, en cas de péril, en application de l'article L. 511-2, le propriétaire est tenu, sans préjudice des
-actions dont il dispose à l'encontre des personnes auxquelles l'état d'insalubrité ou de péril serait en tout ou partie
-imputable, d'assurer le relogement ou l'hébergement des occupants et de contribuer au coût correspondant dans les conditions
-prévues à l'article L. 521-3.
-
-Ces dispositions sont applicables lorsque les travaux nécessaires pour remédier à l'insalubrité ou au péril rendent
-temporairement inhabitable un logement.
-
 Pour l'application du présent chapitre, l'occupant est le titulaire d'un droit réel conférant l'usage, le locataire, le sous-
 locataire ou l'occupant de bonne foi des locaux à usage d'habitation et de locaux d'hébergement constituant son habitation
-principale.
+principale. 
+
+Le propriétaire ou l'exploitant est tenu d'assurer le relogement ou l'hébergement des occupants ou de contribuer au coût
+correspondant dans les conditions prévues à l'article L. 521-3-1 dans les cas suivants :
+
+- lorsqu'un immeuble fait l'objet d'une déclaration d'insalubrité, d'une mise en demeure ou d'une injonction prise en
+application des articles L. 1331-22, L. 1331-23, L. 1331-24, L. 1331-25, L. 1331-26-1 et L. 1331-28 du code de la santé
+publique, si elle est assortie d'une interdiction d'habiter temporaire ou définitive ou si les travaux nécessaires pour
+remédier à l'insalubrité rendent temporairement le logement inhabitable ;
+
+- lorsqu'un immeuble fait l'objet d'un arrêté de péril en application de l'article L. 511-1 du présent code, si l'arrêté
+ordonne l'évacuation du bâtiment ou s'il est assorti d'une interdiction d'habiter ou encore si les travaux nécessaires pour
+mettre fin au péril rendent temporairement le logement inhabitable ;
+
+- lorsqu'un établissement recevant du public utilisé aux fins d'hébergement fait l'objet de mesures destinées à faire cesser
+une situation d'insécurité en application de l'article L. 123-3. 
+
+Cette obligation est faite sans préjudice des actions dont dispose le propriétaire ou l'exploitant à l'encontre des personnes
+auxquelles l'état d'insalubrité ou de péril serait en tout ou partie imputable.
 
 **Liens relatifs à cet article**
 
@@ -26764,35 +26835,60 @@ principale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1087 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1331-23 (M)
-	  - Code de la santé publique - art. L1337-3 (Ab)
-	  - Code de la construction et de l'habitation. - art. L521-3 (T)
+	  - Code de la santé publique - art. L1331-22 (V)
+	  - Code de la construction et de l'habitation. - art. L511-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
 
 
 ###### Article L521-2
 
-Dans les locaux faisant l'objet d'un arrêté d'insalubrité ou de péril, le loyer en principal ou toute autre somme versée en
-contrepartie de l'occupation du logement cesse d'être dû à compter du premier jour du mois qui suit l'envoi de la
-notification de l'arrêté d'insalubrité ou de péril, ou dans les cas prévus au deuxième alinéa de l'article L. 1331-28-1 du
-code de la santé publique ou au deuxième alinéa de l'article L. 511-1-1 du présent code, à compter du premier jour de
-l'affichage de l'arrêté à la mairie et sur la porte de l'immeuble, jusqu'au premier jour du mois qui suit la date
-d'achèvement des travaux constatée par l'arrêté prévu au premier alinéa de l'article L. 1331-28-3 du code de la santé
-publique ou à l'article L. 511-2 du présent code.
+I. - Le loyer en principal ou toute autre somme versée en contrepartie de l'occupation cesse d'être dû pour les locaux qui
+font l'objet d'une mise en demeure prise en application de l'article L. 1331-22 du code de la santé publique à compter de
+l'envoi de la notification de cette mise en demeure.
 
-Dans les locaux frappés d'une interdiction temporaire d'habiter et d'utiliser les lieux, la durée résiduelle du bail à la
-date du premier jour du mois qui suit celle de l'achèvement des travaux constatée dans l'arrêté d'insalubrité ou de péril est
-celle qui restait à courir au premier jour du mois suivant l'envoi de la notification de l'arrêté d'insalubrité ou de péril
-ou de son affichage.
+Il en va de même lorsque les locaux font l'objet d'une mise en demeure ou d'une injonction prise en application des articles
+L. 1331-23 et L. 1331-24 du code de la santé publique ou de mesures décidées en application de l'article L. 123-3. Les loyers
+ou redevances sont à nouveau dus à compter du premier jour du mois qui suit le constat de la réalisation des mesures
+prescrites.
+
+Pour les locaux visés par une déclaration d'insalubrité prise en application des articles L. 1331-25 et L. 1331-28 du code de
+la santé publique ou par un arrêté de péril pris en application de l'article L. 511-1, le loyer en principal ou toute autre
+somme versée en contrepartie de l'occupation du logement cesse d'être dû à compter du premier jour du mois qui suit l'envoi
+de la notification de l'arrêté ou de son affichage à la mairie et sur la façade de l'immeuble, jusqu'au premier jour du mois
+qui suit l'envoi de la notification ou l'affichage de l'arrêté de mainlevée.
+
+Dans le cas où des locaux ont fait l'objet d'une mise en demeure prononcée en application de l'article L. 1331-26-1 du code
+de la santé publique suivie d'une déclaration d'insalubrité prise en application de l'article L. 1331-28 du même code, le
+loyer ou toute autre somme versée en contrepartie de l'occupation du logement cesse d'être dû à compter du premier jour du
+mois qui suit l'envoi de la notification de la mise en demeure ou son affichage jusqu'au premier jour du mois qui suit
+l'envoi de la notification ou l'affichage de l'arrêté de mainlevée de l'insalubrité.
+
+Les loyers ou toutes autres sommes versées en contrepartie de l'occupation du logement indûment perçus par le propriétaire,
+l'exploitant ou la personne ayant mis à disposition les locaux sont restitués à l'occupant ou déduits des loyers dont il
+devient à nouveau redevable.
+
+II. - Dans les locaux visés au I, la durée résiduelle du bail à la date du premier jour du mois suivant l'envoi de la
+notification de la mainlevée de l'arrêté d'insalubrité ou de péril ou du constat de la réalisation des mesures prescrites, ou
+leur affichage, est celle qui restait à courir au premier jour du mois suivant l'envoi de la notification de l'arrêté
+d'insalubrité ou de péril, de l'injonction, de la mise en demeure ou des prescriptions, ou leur affichage.
 
 Ces dispositions s'appliquent sans préjudice des dispositions du dernier alinéa de l'article 1724 du code civil.
 
-Dans les locaux frappés d'une interdiction définitive d'habiter et d'utiliser, les baux et contrats d'occupation ou
-d'hébergement poursuivent de plein droit leurs effets jusqu'au départ des occupants ou jusqu'à leur terme et au plus tard
-jusqu'à la date limite fixée dans l'arrêté d'insalubrité ou de péril.
+III. - Lorsque les locaux sont frappés d'une interdiction définitive d'habiter et d'utiliser, les baux et contrats
+d'occupation ou d'hébergement poursuivent de plein droit leurs effets, exception faite de l'obligation de paiement du loyer
+ou de toute somme versée en contrepartie de l'occupation, jusqu'à leur terme ou jusqu'au départ des occupants et au plus tard
+jusqu'à la date limite fixée par la déclaration d'insalubrité ou l'arrêté de péril.
+
+Une déclaration d'insalubrité, un arrêté de péril ou la prescription de mesures destinées à faire cesser une situation
+d'insécurité ne peut entraîner la résiliation de plein droit des baux et contrats d'occupation ou d'hébergement, sous réserve
+des dispositions du VII de l'article L. 521-3-2.
+
+Les occupants qui sont demeurés dans les lieux faute d'avoir reçu une offre de relogement conforme aux dispositions du II de
+l'article L. 521-3-1 sont des occupants de bonne foi qui ne peuvent être expulsés.
 
 **Liens relatifs à cet article**
 
@@ -26800,16 +26896,20 @@ jusqu'à la date limite fixée dans l'arrêté d'insalubrité ou de péril.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 181
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
 
 	**Cite**:
 
 	  - Code civil - art. 1724 (V)
-	  - Code de la santé publique - art. L1331-28-1 (M)
-	  - Code de la santé publique - art. L1331-28-3 (M)
-	  - Code de la construction et de l'habitation. - art. L511-2 (M)
+	  - Code de la santé publique - art. L1331-25 (M)
+	  - Code de la santé publique - art. L1331-26-1 (M)
+	  - Code de la santé publique - art. L1331-28 (M)
+	  - Code de la construction et de l'habitation. - art. L123-3 (M)
+	  - Code de la construction et de l'habitation. - art. L511-1 (M)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (M)
 
 	**Cité par**:
 
@@ -26825,32 +26925,29 @@ jusqu'à la date limite fixée dans l'arrêté d'insalubrité ou de péril.
 	  - Code de la sécurité sociale. - art. L831-4-1 (V)
 
 
-###### Article L521-3
+###### Article L521-3-1
 
-I. - En cas d'interdiction temporaire d'habiter et d'utiliser les lieux, le propriétaire ou, lorsque l'interdiction porte sur
-un immeuble à usage total ou partiel d'hébergement, l'exploitant est tenu d'assurer l'hébergement décent des occupants,
-lequel doit correspondre à leurs besoins. A défaut, le représentant de l'Etat dans le département prend les dispositions
-nécessaires pour assurer leur hébergement provisoire.
+I.-Lorsqu'un immeuble fait l'objet d'une interdiction temporaire d'habiter ou d'utiliser ou que son évacuation est ordonnée
+en application de l'article L. 511-3, le propriétaire ou l'exploitant est tenu d'assurer aux occupants un hébergement décent
+correspondant à leurs besoins. 
 
-Le coût de cet hébergement est mis à la charge du propriétaire ou de l'exploitant. La créance est recouvrée comme en matière
-de contributions directes et garantie par une hypothèque légale sur l'immeuble ou, s'il s'agit d'un immeuble relevant des
-dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut des copropriétés des immeubles bâtis, sur le ou les lots
-concernés.
+A défaut, l'hébergement est assuré dans les conditions prévues à l'article L. 521-3-2. Son coût est mis à la charge du
+propriétaire ou de l'exploitant. 
 
-II. - En cas d'interdiction définitive d'habiter et d'utiliser les lieux, le propriétaire ou l'exploitant doit assurer le
-relogement des occupants. Cette obligation est satisfaite par la présentation à l'occupant de l'offre d'un logement
-correspondant à ses besoins et à ses possibilités. En cas de défaillance du propriétaire ou de l'exploitant, la collectivité
-publique à l'initiative de laquelle la procédure d'insalubrité ou de péril a été engagée prend les dispositions nécessaires
-pour les reloger.
+Si un logement qui a fait l'objet d'une déclaration d'insalubrité au titre du II de l'article L. 1331-28 du code de la santé
+publique est manifestement suroccupé, le propriétaire ou l'exploitant est tenu d'assurer l'hébergement des occupants jusqu'au
+terme des travaux prescrits pour remédier à l'insalubrité. A l'issue, leur relogement incombe au préfet ou au maire dans les
+conditions prévues à l'article L. 521-3-2. En cas de défaillance du propriétaire ou de l'exploitant, le coût de l'hébergement
+est mis à sa charge. 
 
-Le propriétaire ou l'exploitant est tenu de verser à l'occupant évincé une indemnité d'un montant égal à trois mois de son
-nouveau loyer et destinée à couvrir ses frais de réinstallation. Lorsque la collectivité publique a procédé au relogement, le
-propriétaire ou l'exploitant lui verse, à titre d'indemnité, une somme comprise entre 2 000 F et 4 000 F par personne
-relogée.
+II.-Lorsqu'un immeuble fait l'objet d'une interdiction définitive d'habiter, ainsi qu'en cas d'évacuation à caractère
+définitif, le propriétaire ou l'exploitant est tenu d'assurer le relogement des occupants. Cette obligation est satisfaite
+par la présentation à l'occupant de l'offre d'un logement correspondant à ses besoins et à ses possibilités. Le propriétaire
+ou l'exploitant est tenu de verser à l'occupant évincé une indemnité d'un montant égal à trois mois de son nouveau loyer et
+destinée à couvrir ses frais de réinstallation. 
 
-La créance résultant du non-respect de cette obligation est recouvrée comme en matière de contributions directes et garantie
-par une hypothèque légale sur l'immeuble ou chaque lot de copropriété concerné d'un immeuble soumis à la loi n° 65-557 du 10
-juillet 1965 précitée.
+En cas de défaillance du propriétaire ou de l'exploitant, le relogement des occupants est assuré dans les conditions prévues
+à l'article L. 521-3-2. 
 
 Le propriétaire est tenu au respect de ces obligations si le bail est résilié par le locataire en application des
 dispositions du dernier alinéa de l'article 1724 du code civil ou s'il expire entre la date de la notification des arrêtés
@@ -26858,10 +26955,99 @@ portant interdiction définitive d'habiter et la date d'effet de cette interdict
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 4 (M)
+	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L353-15 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6 (M)
+	  - Code de la construction et de l'habitation. - art. L511-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L521-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-2 (V)
+	  - Code de la construction et de l'habitation. - art. L542-1 (V)
+	  - Code de la santé publique - art. L1331-22 (V)
+	  - Code de la santé publique - art. L1331-23 (V)
+	  - Code de la santé publique - art. L1331-24 (V)
+	  - Code de la santé publique - art. L1331-28-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
+
 	**Cite**:
 
-	  - Loi n°65-557 1965-07-10
 	  - Code civil - art. 1724 (V)
+	  - Code de la santé publique - art. L1331-28 (V)
+	  - Code de la construction et de l'habitation. - art. L511-3 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L521-3 (T)
+
+
+###### Article L521-3-2
+
+I. - Lorsqu'un arrêté de péril pris en application de l'article L. 511-1 ou des prescriptions édictées en application de
+l'article L. 123-3 sont accompagnés d'une interdiction temporaire ou définitive d'habiter et que le propriétaire ou
+l'exploitant n'a pas assuré l'hébergement ou le relogement des occupants, le maire prend les dispositions nécessaires pour
+les héberger ou les reloger.
+
+II. - Lorsqu'une déclaration d'insalubrité, une mise en demeure ou une injonction prise sur le fondement des articles L.
+1331-22, L. 1331-23, L. 1331-24, L. 1331-25, L. 1331-26-1 et L. 1331-28 du code de la santé publique est assortie d'une
+interdiction temporaire ou définitive d'habiter et que le propriétaire ou l'exploitant n'a pas assuré l'hébergement ou le
+relogement des occupants, le préfet, ou le maire s'il est délégataire de tout ou partie des réservations de logements en
+application de l'article L. 441-1, prend les dispositions nécessaires pour héberger ou reloger les occupants, sous réserve
+des dispositions du III.
+
+III. - Lorsque la déclaration d'insalubrité vise un immeuble situé dans une opération programmée d'amélioration de l'habitat
+prévue par l'article L. 303-1 ou dans une opération d'aménagement au sens de l'article L. 300-1 du code de l'urbanisme et que
+le propriétaire ou l'exploitant n'a pas assuré l'hébergement ou le relogement des occupants, la personne publique qui a pris
+l'initiative de l'opération prend les dispositions nécessaires à l'hébergement ou au relogement des occupants.
+
+IV. - Lorsqu'une personne publique, un organisme d'habitations à loyer modéré, une société d'économie mixte ou un organisme à
+but non lucratif a assuré le relogement, le propriétaire ou l'exploitant lui verse une indemnité représentative des frais
+engagés pour le relogement, dans la limite d'une somme égale à un an du loyer prévisionnel.
+
+V. - Si la commune assure, de façon occasionnelle ou en application d'une convention passée avec l'Etat, les obligations
+d'hébergement ou de relogement qui sont faites à celui-ci en cas de défaillance du propriétaire, elle est subrogée dans les
+droits de l'Etat pour le recouvrement de sa créance.
+
+VI. - La créance résultant de la substitution de la collectivité publique aux propriétaires ou exploitants qui ne se
+conforment pas aux obligations d'hébergement et de relogement qui leur sont faites par le présent article est recouvrée soit
+comme en matière de contributions directes par la personne publique créancière, soit par l'émission par le maire ou le préfet
+d'un titre exécutoire au profit de l'organisme ayant assuré l'hébergement ou le relogement.
+
+Cette créance est garantie par une hypothèque légale sur l'immeuble ou, s'il s'agit d'un immeuble en copropriété, sur le ou
+les lots en cause.
+
+VII. - Si l'occupant a refusé trois offres de relogement qui lui ont été faites au titre des I, II ou III, le juge peut être
+saisi d'une demande tendant à la résiliation du bail ou du droit d'occupation et à l'autorisation d'expulser l'occupant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (VT)
+	  - Code civil - art. 2374 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L511-7 (VD)
+	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L353-15 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-4 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6 (V)
+	  - Code de la construction et de l'habitation. - art. L521-2 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-3 (M)
+	  - Code de la construction et de l'habitation. - art. L531-3 (V)
+	  - Code de la construction et de l'habitation. - art. L541-1 (M)
+	  - Code de la santé publique - art. L1331-22 (V)
+	  - Code de la santé publique - art. L1331-23 (V)
+	  - Code de la santé publique - art. L1331-24 (V)
 
 	**Codifié par**:
 
@@ -26869,32 +27055,57 @@ portant interdiction définitive d'habiter et la date d'effet de cette interdict
 
 	**Créé par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 181
-
-	**Cité par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 74 (V)
-	  - Code de la construction et de l'habitation. - art. L521-1 (M)
-
-	**Transféré par**:
-
 	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la construction et de l'habitation L521-3-12
-	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
-	  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+	  - Code de la santé publique - art. L1331-25 (M)
+	  - Code de la santé publique - art. L1331-26-1 (M)
+	  - Code de la santé publique - art. L1331-28 (M)
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de la construction et de l'habitation. - art. L123-3 (M)
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1 (M)
+	  - Code de la construction et de l'habitation. - art. L511-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. L521-3 (T)
 
 
 ###### Article L521-4
 
-Toute menace ou tout acte d'intimidation à l'égard d'un occupant visé au dernier alinéa de l'article L. 521-1, en vue de le
-contraindre à renoncer aux droits qu'il détient en application des articles L. 521-1 à L. 521-3, est puni de deux ans
-d'emprisonnement et de 75 000 euros d'amende.
+I. - Est puni de trois ans d'emprisonnement et d'une amende de 100 000 euros le fait :
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des mêmes infractions.
+- en vue de contraindre un occupant à renoncer aux droits qu'il détient en application des articles L. 521-1 à L. 521-3-1, de
+le menacer, de commettre à son égard tout acte d'intimidation ou de rendre impropres à l'habitation les lieux qu'il occupe ;
+
+- de percevoir un loyer ou toute autre somme en contrepartie de l'occupation du logement, y compris rétroactivement, en
+méconnaissance du I de l'article L. 521-2 ;
+
+- de refuser de procéder à l'hébergement ou au relogement de l'occupant, bien qu'étant en mesure de le faire.
+
+II. - Les personnes physiques encourent également les peines complémentaires suivantes :
+
+1° La confiscation du fonds de commerce ou des locaux mis à bail ;
+
+2° L'interdiction pour une durée de cinq ans au plus d'exercer une activité professionnelle ou sociale dès lors que les
+facilités que procure cette activité ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette interdiction
+n'est toutefois pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales.
+
+III. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2
+du code pénal, des infractions définies au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- les peines complémentaires prévues aux 2°, 4°, 8° et 9° de l'article 131-39 du code pénal.
+
+La confiscation mentionnée au 8° de cet article porte sur le fonds de commerce ou les locaux mis à bail.
+
+Lorsque les poursuites sont effectuées à l'encontre d'exploitants de fonds de commerce aux fins d'hébergement, il est fait
+application des dispositions de l'article L. 651-10 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -26902,24 +27113,21 @@ pénal, des mêmes infractions.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Loi n°2005-32 du 18 janvier 2005 - art. 122 (V)
 	  - Code de la construction et de l'habitation. - art. L651-10 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
+
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
-	  - Code de la construction et de l'habitation L521-1 à L521-3
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la construction et de l'habitation. - art. L521-2 (M)
 
 
 #### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.
@@ -30021,13 +30229,14 @@ L. 631-7 à L. 631-9, L. 641-1 à L. 641-10, L. 651-1 à L. 651-4, L. 651-6 à L
 
 ###### Article L651-10
 
-I. - Lorsqu'à l'occasion de poursuites exercées sur le fondement de l'article 225-14 du code pénal il est avéré que la
-continuation de l'exploitation d'un établissement d'hébergement des personnes est contraire aux prescriptions du règlement
-sanitaire départemental ou est susceptible de porter atteinte à la dignité humaine ou à la santé publique, l'autorité
-administrative compétente peut saisir sur requête le président du tribunal de grande instance ou le magistrat du siège
-délégué par lui, aux fins de faire désigner un administrateur provisoire pour toute la durée de la procédure ; les organismes
-intervenant dans le domaine de l'insertion par le logement agréés à cette fin par le représentant de l'Etat dans le
-département peuvent être désignés en qualité d'administrateur provisoire.
+I. - Lorsqu'à l'occasion de poursuites exercées sur le fondement de l'article 225-14 du code pénal, des articles L. 1337-4 du
+code de la santé publique et L. 511-6 et L. 521-4 du présent code, il est avéré que la continuation de l'exploitation d'un
+établissement d'hébergement des personnes est contraire aux prescriptions du règlement sanitaire départemental ou est
+susceptible de porter atteinte à la dignité humaine ou à la santé publique, l'autorité administrative compétente peut saisir
+sur requête le président du tribunal de grande instance ou le magistrat du siège délégué par lui, aux fins de faire désigner
+un administrateur provisoire pour toute la durée de la procédure ; les organismes intervenant dans le domaine de l'insertion
+par le logement agréés à cette fin par le représentant de l'Etat dans le département peuvent être désignés en qualité
+d'administrateur provisoire.
 
 II. - Le ministère public porte à la connaissance du propriétaire de l'immeuble et du propriétaire du fonds dans lequel est
 exploité l'établissement visé au I l'engagement des poursuites ainsi que les décisions de désignation d'un administrateur
@@ -30052,9 +30261,9 @@ confisqué et emporte subrogation de l'Etat dans tous les droits du propriétair
 
 	  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
+	  - Ordonnance n°2005-1566 du 15 décembre 2005 - art. 13 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -30069,8 +30278,8 @@ confisqué et emporte subrogation de l'Etat dans tous les droits du propriétair
 	**Cite**:
 
 	  - Code pénal - art. 225-14 (M)
+	  - Code pénal - art. 225-16 (M)
 	  - Code pénal - art. 225-19 (M)
-	  - Code de la construction et de l'habitation 225-16
 
 
 ### Titre VI : Dispositions relatives à l'outre-mer.
