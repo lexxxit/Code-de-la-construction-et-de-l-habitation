@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-12-20
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -11577,14 +11577,20 @@ des prêts à long terme au moment de la consolidation et celui en vigueur lors 
 joue que si le taux d'intérêt en vigueur lors du prêt de consolidation est supérieur à un maximum fixé par décision
 administrative.
 
-La garantie de l'Etat peut être également accordée, dans les conditions fixées par décret, aux prêts consentis pour la
-construction, l'acquisition ou l'amélioration d'immeubles à usage principale d'habitation par tout établissement de crédit
-adhérant à un fonds, appelé " Fonds de garantie de l'accession sociale à la propriété", chargé de gérer cette garantie pour
-le compte de l'Etat. Ce fonds, qui est financé par l'Etat et les établissements de crédit y adhérant, n'a pas la personnalité
-morale et est géré par une société dont sont actionnaires ces établissements de crédit. Les statuts de cette société sont
-approuvés par décret et le président de son conseil d'administration est nommé par arrêté. Des commissaires du Gouvernement
-assistent au conseil d'administration de cette société et ont le droit de véto sur toute décision de nature a affecter
-l'engagement financier de l'Etat lié à sa contribution financière au fonds et à sa garantie.
+A compter du 1er janvier 2006, la garantie de l'Etat peut également être accordée aux prêts consentis pour la construction,
+l'acquisition ou l'amélioration d'immeubles à usage principal d'habitation, destinés à l'accession sociale à la propriété et
+attribués aux personnes physiques dont les revenus sont inférieurs à des plafonds de ressources fixés par décret. La garantie
+de l'Etat peut être accordée aux avances remboursables ne portant pas intérêt mentionnées au dernier alinéa du I de l'article
+1384 A du code général des impôts, dans les mêmes conditions. L'Etat est garant en dernier ressort de ces prêts.
+
+L'octroi de la garantie de l'Etat est subordonné à une participation financière des établissements de crédit qui cotisent à
+un dispositif de fonds de garantie de nature privée dont ils assurent la gestion.
+
+Ces prêts peuvent être distribués par tout établissement de crédit ayant signé à cet effet une convention avec l'Etat et avec
+une société de gestion agissant pour son compte. Les statuts de cette société sont approuvés par décret et le président de
+son conseil d'administration est nommé par arrêté. Des commissaires du Gouvernement assistent au conseil d'administration de
+cette société et ont le droit de veto sur toute décision de nature à affecter l'engagement financier de l'Etat lié à sa
+contribution à la société et à sa garantie.
 
 **Liens relatifs à cet article**
 
@@ -11628,13 +11634,13 @@ l'engagement financier de l'Etat lié à sa contribution financière au fonds et
 	  - Arrêté du 15 septembre 2014 - art. 1 (V)
 	  - Arrêté du 15 septembre 2014 - art. 3 (V)
 	  - Arrêté du 30 septembre 2014 (V)
+	  - Arrêté du 16 octobre 2015 (V)
 	  - Décret n°2015-28 du 15 janvier 2015 (V)
 	  - Décret n°2015-28 du 15 janvier 2015 - art. (V)
 	  - Décret n°2015-28 du 15 janvier 2015 - art. 1 (V)
 	  - Décret n°2015-28 du 15 janvier 2015 - art. 2 (V)
 	  - Décret n°2015-28 du 15 janvier 2015 - art. 3 (V)
 	  - Loi n°2015-990 du 6 août 2015 - art. 140
-	  - Arrêté du 16 octobre 2015 (V)
 	  - Décret n°2016-512 du 26 avril 2016 - art. 1 (V)
 	  - Décret n°2016-512 du 26 avril 2016 - art. 2 (VD)
 	  - Décret n°2016-512 du 26 avril 2016 - art. 3 (VD)
@@ -11712,11 +11718,14 @@ l'engagement financier de l'Etat lié à sa contribution financière au fonds et
 
 	  - TXT_SOURCE: Arrêté du 25 août 2003
 	  - TXT_SOURCE: Arrêté du 25 août 2003 - art. 1 (V)
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 34 (V) JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - CGI 1384 A
 
 	**Anciens textes**:
 
@@ -14089,14 +14098,7 @@ Loi 2002-1575 2002-12-30 finances art. 80 II : les présentes dispositions s'app
 Les intérêts et la prime d'épargne versés aux titulaires de comptes d'épargne-logement ne sont pas pris en compte pour le
 calcul de l'allocation de logement.
 
-Conformément à l'article 157, 9° bis, du code général des impôts, ces intérêts et cette prime ne sont pas pris en compte pour
-la détermination du revenu net global.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 157 9° bis
 
 	**Anciens textes**:
 
@@ -14108,7 +14110,7 @@ la détermination du revenu net global.
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 10 () JORF 3 JUIN 1983
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 7 (V) JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -17804,16 +17806,27 @@ loyer modéré ;
 Les organismes d'habitations à loyer modéré mentionnés aux alinéas précédents bénéficient d'exonérations fiscales et d'aides
 spécifiques de l'Etat au titre du service d'intérêt général défini comme :
 
-- la construction, l'acquisition, l'amélioration, l'attribution et la gestion de logements locatifs à loyers plafonnés,
-lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à des plafonds fixés par l'autorité
-administrative ;
+- la construction, l'acquisition, l'amélioration, l'attribution, la gestion et la cession de logements locatifs à loyers
+plafonnés, lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs aux plafonds maximum fixés par
+l'autorité administrative pour l'attribution des logements locatifs conventionnés dans les conditions définies à l'article L.
+351-2 et dont l'accès est soumis à des conditions de ressources. Font toutefois partie du service d'intérêt général les
+opérations susmentionnées destinées à des personnes de revenu intermédiaire dont les ressources ne dépassent pas les plafonds
+fixés au titre IX du livre III, lorsque les logements correspondants représentent moins de 10 % des logements locatifs
+sociaux mentionnés à l'article L. 302-5 détenus par l'organisme ;
 
-- la réalisation d'opérations d'accession à la propriété assorties de garanties pour l'accédant selon des conditions fixées
-par décret en Conseil d'Etat ou lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à des plafonds
-fixés par l'autorité administrative ;
+- la réalisation d'opérations d'accession à la propriété destinées à des personnes dont les revenus sont inférieurs aux
+plafonds maximum fixés par l'autorité administrative pour l'attribution des logements locatifs conventionnés dans les
+conditions définies à l'article L. 351-2 et dont l'accès est soumis à des conditions de ressources. Font toutefois partie du
+service d'intérêt général, dans la limite de 25 % des logements vendus par l'organisme, les opérations destinées à des
+personnes de revenu intermédiaire dont les ressources dépassent les plafonds maximum susmentionnés sans excéder les plafonds
+fixés au titre IX du livre III, lorsque l'ensemble des opérations sont assorties de garanties pour l'accédant dans des
+conditions fixées par décret en Conseil d'Etat ;
 
-- les aliénations des éléments de patrimoine immobilier réalisées en application des articles L. 443-7 à L. 443-14 ainsi que
-la gestion des copropriétés issues de ces aliénations ;
+- la gestion, avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le département, de
+logements situés dans des copropriétés connaissant des difficultés importantes de fonctionnement ou faisant l'objet d'une
+opération programmée d'amélioration de l'habitat visée à l'article L. 303-1 ainsi que, pour une période maximale de dix ans à
+compter de la première cession, la gestion des copropriétés issues de la cession des logements locatifs mentionnés au
+neuvième alinéa tant que l'organisme vendeur y demeure propriétaire de plus de la moitié des lots de la copropriété.
 
 - les services accessoires aux opérations susmentionnées.
 
@@ -17992,7 +18005,7 @@ services prévues par les textes qui les régissent.
 
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 21 () JORF 11 août 2004
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 44 (V) JORF 31 décembre 2005
 
 	**Anciens textes**:
 
@@ -18000,7 +18013,9 @@ services prévues par les textes qui les régissent.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L443-7 à L443-14
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L303-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
 ###### Article L411-3
@@ -25164,6 +25179,41 @@ l'équivalent de dix-huit mois du loyer en principal du ou des logements concern
 
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article L451-3
+
+L'administration chargée du contrôle prévu à l'article L. 451-1 peut communiquer à l'administration fiscale, spontanément ou
+sur sa demande, sans que puisse être opposée l'obligation au secret professionnel, tous les renseignements et documents
+recueillis dans le cadre de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-621 du 31 mai 1978
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 4 septembre 1986 - art. 3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L451-4 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*431-31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*431-32 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*431-38 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*431-41 (Ab)
+	  - Livre des procédures fiscales - art. L83 C (VT)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L451-1
 
 
 ###### Article L451-5
@@ -50424,9 +50474,9 @@ ministre chargé des postes et télécommunications.
 
 ###### Article R315-69
 
-Les comptes d'épargne-construction ouverts par les caisses d'épargne ordinaires ou par la caisse nationale d'épargne
-fonctionnent dans les conditions prévues par les textes régissant ces organismes en tout ce qui n'est pas contraire aux
-dispositions des articles L. 315-19 à L. 315-32 et de la présente sous-section.
+Les comptes d'épargne-construction ouverts par les caisses d'épargne ordinaires fonctionnent dans les conditions prévues par
+les textes régissant ces organismes en tout ce qui n'est pas contraire aux dispositions des articles L. 315-19 à L. 315-32 et
+de la présente sous-section.
 
 Les dispositions particulières, nécessaires en ce qui concerne les comptes ouverts auprès des organismes avec lesquels la
 caisse des dépôts et consignations a conclu un accord, sont réglées par cet accord.
@@ -50444,6 +50494,10 @@ revalorisables conformément à l'article L. 315-26 pour un montant fixé chaque
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 16 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -58191,9 +58245,6 @@ sociale à la propriété (SGFGAS) agissant pour le compte de l'Etat une convent
 par arrêté du ministre chargé de l'économie et reproduite en annexe du présent code, sont habilités à consentir des prêts
 conventionnés.
 
-La Caisse nationale d'épargne est également habilitée à consentir des prêts conventionnés dans des conditions conformes à
-celles fixées par la convention type mentionnée à l'alinéa précédent.
-
 La SGFGAS est substituée dans les droits et obligations du Crédit foncier de France au titre des conventions conclues
 antérieurement à la date de publication du décret n° 2000-711 du 27 juillet 2000 relatif aux prêts conventionnés et modifiant
 l'article R. 331-65 du code de la construction et de l'habitation avec les établissements de crédit consentant des prêts
@@ -58213,24 +58264,23 @@ conventionnés, y compris sur les prêts accordés antérieurement.
 	  - Code de la construction et de l'habitation. - art. R331-76-6 (V)
 	  - Code de la construction et de l'habitation. - art. R331-77 (V)
 
-	**Cite**:
-
-	  - Code de la construction et de l'habitation annexe, R331-65
-	  - Décret n°2000-711 2000-07-27
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°2000-711 du 27 juillet 2000 - art. 1 () JORF 30 juillet 2000
+	  - Décret n°2000-711 2000-07-27
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2000-711 du 27 juillet 2000 - art. 2 ()
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 16 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article R331-66
@@ -67951,8 +68001,56 @@ logement.
 
 ###### Article R371-1
 
-Les dispositions de la section 1 du chapitre II du titre VI du livre III sont applicables aux départements d'outre-mer, à
-l'exclusion du dernier alinéa de l'article R. 362-2 ainsi que de l'article R. 362-7.
+Le conseil départemental de l'habitat émet chaque année, sur la base d'un rapport présenté par le préfet de département, un
+avis sur :
+
+1° La satisfaction des besoins en logement des différentes catégories de population ;
+
+2° Les orientations de la politique de l'habitat dans le département et des actions engagées par l'Etat et les collectivités
+territoriales ;
+
+3° La programmation annuelle des différentes aides publiques au logement dans le département et la coordination de ces
+financements, en particulier ceux de l'Etat, de ses établissements publics, des collectivités territoriales et de leurs
+groupements et de la participation des employeurs à l'effort de construction ;
+
+4° Les modalités d'application dans le département des principes qui régissent l'attribution des logements locatifs sociaux ;
+
+5° Les politiques menées dans le département en faveur du logement des populations défavorisées et des populations immigrées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+
+###### Article R371-1-1
+
+Le conseil départemental de l'habitat est également consulté :
+
+1° Sur le projet de répartition des crédits publics entre les établissements publics de coopération intercommunale et le
+département en application du troisième alinéa de l'article L. 301-3, établi chaque année par le préfet ;
+
+2° Sur les projets de programmes locaux de l'habitat établis en application de l'article L. 302-2 ;
+
+3° Au vu des bilans triennaux prévus à l'article L. 302-9, sur les projets d'arrêtés prévus à l'article L. 302-9-1 ;
+
+4° Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou
+demandant à être autorisés à exercer leur activité dans le département. Toutefois, l'avis du comité n'est requis ni pour le
+retrait temporaire d'une ou plusieurs compétences décidé en application des articles L. 422-7, R. 421-13 ou R. 421-60, ni
+pour la dissolution prononcée en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
+
+5° Sur les projets de règlements départementaux prévus à l'article L. 441-1-1, les projets d'accords collectifs prévus à
+l'article L. 441-1-2, et les projets de délimitations des bassins d'habitat prévus à l'article L. 441-1-4 ;
+
+6° Sur les projets de plans départementaux d'action pour le logement des personnes défavorisées.
+
+Le conseil départemental de l'habitat peut déléguer tout ou partie des compétences prévues aux 2° à 6° du présent article à
+son bureau ou aux commissions spécialisées mentionnées à l'article R. 371-9.
 
 **Liens relatifs à cet article**
 
@@ -67962,12 +68060,22 @@ l'exclusion du dernier alinéa de l'article R. 362-2 ainsi que de l'article R. 3
 
 	**Créé par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R362-2 (M)
-	  - Code de la construction et de l'habitation. - art. R362-7 (M)
+	  - Code de la construction et de l'habitation L301-3, L302-2, L302-9, L302-9-1, L422-7, R421-13, R421-60, L422-8, L422-9, L441-1-1, L441-1-2, L441-1-4, R371-9
+	  - Code de la construction et de l'habitation. - art. L301-3 (M)
+	  - Code de la construction et de l'habitation. - art. L302-2 (M)
+	  - Code de la construction et de l'habitation. - art. L302-9 (M)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
+	  - Code de la construction et de l'habitation. - art. L422-7 (M)
+	  - Code de la construction et de l'habitation. - art. L422-8 (M)
+	  - Code de la construction et de l'habitation. - art. L422-9 (AbD)
+	  - Code de la construction et de l'habitation. - art. L441-1-1 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-2 (M)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. R371-9 (T)
 
 
 ###### Article R371-2
@@ -67990,47 +68098,6 @@ bilan général de l'allocation de logement attribuée dans le département.
 
 ###### Article R371-3
 
-Les dispositions de la section II du chapitre II du titre VI du livre III sont applicables aux départements d'outre-mer, à
-l'exclusion des articles R. 362-9, R. 362-10, R. 362-11, R. 362-12, R. 362-14, R. 362-15, R. 362-18 pour son deuxième alinéa,
-R. 362-18-1 pour ses deuxième et troisième alinéas, R. 362-19, et R. 362-20 pour son premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2001-1183 du 11 décembre 2001 - art. 1 () JORF 13 décembre 2001
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-10 (M)
-	  - Code de la construction et de l'habitation. - art. R362-11 (M)
-	  - Code de la construction et de l'habitation. - art. R362-12 (M)
-	  - Code de la construction et de l'habitation. - art. R362-14 (M)
-	  - Code de la construction et de l'habitation. - art. R362-15 (M)
-	  - Code de la construction et de l'habitation. - art. R362-18 (M)
-	  - Code de la construction et de l'habitation. - art. R362-19 (M)
-	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-	  - Code de la construction et de l'habitation. - art. R362-9 (M)
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. R371-4 (T)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R371-4 (V)
-	  - Code de la construction et de l'habitation. - art. R371-5 (VT)
-	  - Code de la construction et de l'habitation. - art. R371-7 (M)
-	  - Code de la construction et de l'habitation. - art. R371-8 (V)
-	  - Code de la construction et de l'habitation. - art. R371-9 (M)
-
-
-###### Article R371-4
-
 Le conseil départemental de l'habitat institué dans les départements d'outre-mer est présidé par le président du conseil
 général. Il est composé, outre son président, de trente-six membres nommés par arrêté préfectoral et répartis en trois
 groupes de même importance, à savoir :
@@ -68039,7 +68106,7 @@ groupes de même importance, à savoir :
 département désignés dans les conditions fixées à l'article R. 371-5 ;
 
 2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
-mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-13, dont un
+mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 371-4, dont un
 représentant du comité économique et social, un représentant du comité de la culture, de l'éducation et de l'environnement et
 un représentant de la caisse d'allocation familiale compétente, désignés, chacun en ce qui le concerne, par le président de
 ces organismes ;
@@ -68054,6 +68121,46 @@ Des suppléants peuvent être nommés dans les mêmes conditions que les titulai
 
 Le préfet assiste de droit aux séances du conseil départemental de l'habitat.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Anciens textes**:
+
+	  - Code de la construction et de l'habitation. - art. R371-4 (M)
+	  - Code de la construction et de l'habitation. - art. R371-4 (T)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R371-4 (V)
+	  - Code de la construction et de l'habitation. - art. R371-5 (VT)
+	  - Code de la construction et de l'habitation. - art. R371-7 (M)
+	  - Code de la construction et de l'habitation. - art. R371-8 (V)
+	  - Code de la construction et de l'habitation. - art. R371-9 (M)
+
+
+###### Article R371-4
+
+Le préfet établit la liste des catégories de professionnels à représenter et le nombre de représentants par catégorie en
+fonction de la situation de l'habitat et de l'importance de l'activité exercée par ces professionnels dans le département.
+
+Sur proposition, le cas échéant, des organisations professionnelles correspondantes, il arrête la liste des membres du groupe
+des professionnels.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -68067,15 +68174,7 @@ Le préfet assiste de droit aux séances du conseil départemental de l'habitat.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1183 du 11 décembre 2001 - art. 2 () JORF 13 décembre 2001
-
-	**Transféré par**:
-
 	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-13 (M)
 
 	**Cité par**:
 
@@ -68088,7 +68187,6 @@ Le préfet assiste de droit aux séances du conseil départemental de l'habitat.
 
 	**Nouveaux textes**:
 
-	  - Code de la construction et de l'habitation. - art. R371-3 (M)
 	  - Code de la construction et de l'habitation. - art. R371-3 (V)
 
 
@@ -68135,9 +68233,9 @@ modalités d'application du présent alinéa.
 
 ###### Article R371-6
 
-Le mandat des membres du conseil mentionnés à l'article R. 371-4 est de trois ans. Il peut être renouvelé. Il prend fin si
-son titulaire perd la qualité au titre de laquelle il a été désigné. Celui-ci est alors remplacé dans un délai de trois mois
-pour la durée du mandat restant à courir.
+Le mandat des membres du conseil mentionnés à l'article R. 371-4 est de six ans. Il peut être renouvelé. Il prend fin si son
+titulaire perd la qualité au titre de laquelle il a été désigné. Celui-ci est alors remplacé dans un délai de trois mois pour
+la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
@@ -68145,9 +68243,9 @@ pour la durée du mandat restant à courir.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 
 ###### Article R371-7
@@ -68183,9 +68281,21 @@ vigueur : date indéterminée).
 
 ###### Article R371-8
 
-Dans les départements d'outre-mer, le comité prévu au premier alinéa de l'article R. 362-18-1 est présidé par le président du
-conseil général et est composé de deux membres de chacun des groupes définis à l'article R. 371-4, désignés par le préfet.
-Des suppléants sont désignés dans les mêmes conditions que les titulaires.
+Dans les deux mois qui suivent la désignation de ses membres, le conseil est réuni à l'initiative de son président et procède
+à la désignation de son bureau. Celui-ci comprend le président du conseil départemental de l'habitat et six membres élus à
+raison de deux au sein de chacun des groupes définis à l'article R. 371-4. Le préfet, ou son représentant, assiste de droit
+aux réunions du bureau.
+
+Le bureau organise les travaux du conseil et, le cas échéant, des commissions définies à l'article R. 371-9, fixe l'ordre du
+jour des réunions et propose au conseil un règlement intérieur.
+
+Le président, le bureau du conseil départemental de l'habitat ou le préfet peuvent saisir le conseil de toute question
+entrant dans ses compétences définies à la section I.
+
+Le bureau rend compte de son activité au conseil départemental de l'habitat.
+
+Le secrétariat du conseil, du bureau et des commissions est assuré par les services de l'Etat compétents en matière de
+logement.
 
 **Liens relatifs à cet article**
 
@@ -68195,12 +68305,12 @@ Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1183 du 11 décembre 2001 - art. 4 () JORF 13 décembre 2001
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R362-18-1 (M)
 	  - Code de la construction et de l'habitation. - art. R371-4 (M)
+	  - Code de la construction et de l'habitation. - art. R371-9 (T)
 
 	**Anciens textes**:
 
@@ -68209,18 +68319,25 @@ Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 
 ###### Article R371-9
 
-Dans les deux mois qui suivent la désignation de ses membres, le conseil est réuni à l'initiative de son président et procède
-à la désignation de son bureau. Celui-ci comprend le président du conseil départemental de l'habitat et six membres élus à
-raison de deux au sein de chacun des groupes définis à l'article R. 371-4. Le préfet, ou son représentant, assiste de droit
-aux réunions du bureau.
+Le conseil départemental de l'habitat peut créer en son sein des commissions spécialisées. Il en fixe les attributions, qui
+peuvent porter sur un ou plusieurs domaines de compétence ou sur un territoire déterminé, la durée, la composition et les
+règles de fonctionnement.
 
-Le bureau organise les travaux du conseil et, le cas échéant, des commissions définies à l'article R. 362-18, fixe l'ordre du
-jour des réunions et propose au conseil un règlement intérieur.
+Chaque commission spécialisée comprend au moins deux membres de chacun des groupes définis à l'article R. 371-3. Des
+suppléants sont désignés dans les mêmes conditions que les titulaires. Des personnes qualifiées extérieures au comité
+départemental de l'habitat peuvent être entendues.
 
-Le président, le bureau du conseil départemental de l'habitat ou le préfet peuvent saisir le conseil de toute question
-entrant dans ses compétences définies à la section I.
+Les commissions sont présidées par le président du conseil général ou par le membre du conseil général qu'il désigne pour le
+représenter.
 
-Le secrétariat du bureau est assuré dans les conditions définies à l'article R. 362-16.
+Les représentants des organisations professionnelles de bailleurs, de locataires et de gestionnaires nommés au comité
+départemental de l'habitat au titre du 2° et du 3° de l'article R. 371-3 forment la commission spécialisée des rapports
+locatifs.
+
+La conclusion des accords collectifs de location négociés par secteur locatif, entre une ou plusieurs organisations de
+bailleurs et de locataires, s'opère au sein de la commission spécialisée des rapports locatifs.
+
+La commission rend compte de son activité au conseil départemental de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -68228,19 +68345,9 @@ Le secrétariat du bureau est assuré dans les conditions définies à l'article
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°2001-1183 du 11 décembre 2001 - art. 5 () JORF 13 décembre 2001, rectificatif JORF du 27 avril 2002
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-16 (M)
-	  - Code de la construction et de l'habitation. - art. R362-18 (M)
-	  - Code de la construction et de l'habitation. - art. R371-4 (M)
 
 	**Cité par**:
 
@@ -68248,39 +68355,13 @@ Le secrétariat du bureau est assuré dans les conditions définies à l'article
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R371-8 (V)
 
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de la construction et de l'habitation. - art. R371-8 (M)
-
-
-###### Article R371-10
-
-Dans les départements d'outre-mer, chaque commission spécialisée prévue à l'article R. 362-18 comprend au moins deux membres
-de chacun des groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les mêmes conditions que les
-titulaires.
-
-Les représentants des organisations professionnelles de bailleurs, de locataires et de gestionnaires nommés au conseil
-départemental de l'habitat au titre du 2° et du 3° de l'article R. 371-4 forment la commission spécialisée des rapports
-locatifs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°2001-1183 du 11 décembre 2001 - art. 6 () JORF 13 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R362-18 (M)
-	  - Code de la construction et de l'habitation. - art. R371-4 (M)
 
 
 #### Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.
@@ -77539,79 +77620,6 @@ ministre chargé de la construction et de l'habitation en ce qui concerne les op
 
 ##### Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré.
 
-###### Article R*433-1
-
-Les offices publics et sociétés d'habitations à loyer modéré sont autorisés à se grouper dans le cadre départemental, soit
-entre eux, soit avec d'autres organismes publics ou privés, en vue de coordonner pour certains projets de construction, les
-études, la préparation des marchés et l'exécution des travaux afin d'obtenir une réduction des prix de revient et des délais.
-
-A cet effet, il peuvent désigner un mandataire commun dont le choix est soumis à l'approbation du préfet.
-
-Des dispositions analogues peuvent être prises dans un cadre plus large que le cadre départemental, avec l'autorisation du
-ministre chargé de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-846 1953-09-18 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R*431-7 (V)
-
-
-###### Article R*433-2
-
-Les offices publics et sociétés d'habitations à loyer modéré peuvent constituer avec l'autorisation du ministre chargé de la
-construction et de l'habitation qui y délègue un représentant, des commissions spécialisées qui étudient et préparent la
-passation de commandes groupées, notamment pour la fourniture de certains éléments et, à cet effet, procèdent à l'unification
-des documents contractuels et à la consultation des entreprises, dans le cadre de la règlementation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-846 1953-09-18 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-
-###### Article R*433-3
-
-L'inobservation des dispositions du chapitre III du présent titre peut entrainer à l'encontre de l'organisme défaillant le
-remboursement immédiat de la quote-part des concours financiers alloués par l'Etat correspondant aux prestations auxquelles
-se rapporte l'infraction constatée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 1 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-
 ###### Article R*433-4
 
 Les marchés des offices publics d'habitations à loyer modéré sont soumis aux règles fixées pour les collectivités locales et
@@ -77628,20 +77636,42 @@ leurs établissements publics et, notamment, par le livre III du code des march�
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
+###### Article R433-1
+
+Les organismes privés d'habitation à loyer modéré et les sociétés d'économie mixte exerçant une activité de construction ou
+de gestion de logements sociaux peuvent se grouper pour procéder à des achats, selon des modalités qu'ils déterminent
+librement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-846 1953-09-18 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 50 1° JORF 31 décembre 2005
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 50
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R*431-7 (V)
+
+
 ##### Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux.
 
 ###### Article R433-5
 
-Sont soumis aux dispositions de la présente section les contrats définis aux articles L. 433-1 et L. 481-4 dont le montant
-est supérieur au seuil visé au 10° du I de l'article 104 du code des marchés publics, passés pour leur propre compte par les
-organismes privés d'habitations à loyer modéré et par les sociétés d'économie mixte de construction et de gestion de
-logements sociaux :
-
-Aucun projet de contrat ne peut être scindé en vue de le soustraire aux obligations découlant de la présente section.
-
-Les contrats définis aux trois premiers alinéas du présent article sont soumis, sous réserve des dispositions prévus à la
-section IV du présent chapitre pour les contrats que cette section concerne, aux règles de publicité, de mise en concurrence
-et d'exécution prévues aux articles R. 433-6 à R. 433-19.
+Les marchés définis aux articles L. 433-1 et L. 481-4 passés par les organismes privés d'habitations à loyer modéré et par
+les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux sont soumis aux
+dispositions du décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par les pouvoirs
+adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
+personnes publiques ou privées non soumises au code des marchés publics, sous réserve des dispositions prévues aux articles
+R. 433-6, R. 433-10, R. 433-18 et R. 433-20 à R. 433-23.
 
 **Liens relatifs à cet article**
 
@@ -77649,17 +77679,18 @@ et d'exécution prévues aux articles R. 433-6 à R. 433-19.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-	  - Conseil d'Etat n°148414 1998-03-13
-
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L433-1, L481-4, R433-6 à R433-19
-	  - Code de la construction et de l'habitation. - art. L433-1 (M)
-	  - Code de la construction et de l'habitation. - art. L481-4 (M)
-	  - Code des marchés publics 104
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3 (V)
+	  - Décret n°2005-1742 du 30 décembre 2005 (V)
+	  - Code de la construction et de l'habitation. - art. L433-1 (V)
+	  - Code de la construction et de l'habitation. - art. L481-4 (V)
+	  - Code de la construction et de l'habitation. - art. R433-20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1742 2005-12-30 art. 50 2° JORF 31 décembre 2005
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 50
 
 	**Cité par**:
 
@@ -77678,17 +77709,17 @@ et d'exécution prévues aux articles R. 433-6 à R. 433-19.
 
 ###### Article R433-6
 
-Les contrats entrant dans le champ d'application défini à l'article R. 433-5 sont des contrats écrits. Les prestations qui
-font l'objet des contrats doivent répondre exclusivement à la nature et à l'étendue des besoins à satisfaire. Les
-spécifications et la consistance technique de ces prestations doivent être déterminées aussi exactement que possible avant
-tout appel à la concurrence ou négociation.
+Les organismes privés d'habitation à loyer modéré et les sociétés d'économie mixte exerçant une activité de construction ou
+de gestion de logements sociaux constituent une commission d'appel d'offres dont ils déterminent la composition, les
+modalités de fonctionnement et les pouvoirs. La commission examine les candidatures et les offres reçues lors de la passation
+des marchés dont le montant est supérieur aux seuils mentionnés à l'article 7 du décret n° 2005-1742 du 30 décembre 2005
+fixant les règles applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n°
+2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des
+marchés publics. 
 
-Les prestations sont définies par référence aux normes homologuées ou à d'autres normes applicables en France en vertu
-d'accords internationaux, dans les conditions prévues au décret n° 84-74 du 26 janvier 1984 modifié fixant le statut de la
-normalisation. Il peut être dérogé aux normes dans les conditions prévues à ce décret.
-
-Les contrats doivent être conclus avant tout début d'exécution. Ils comportent au moins un acte d'engagement et un cahier des
-charges, qui en forment les pièces constitutives.
+Ces mêmes marchés font en outre l'objet d'un rapport annuel sur leur exécution transmis au conseil d'administration ou de
+surveillance de l'organisme ou de la société d'économie mixte. Ce rapport comporte pour chaque marché le montant initial du
+contrat, le montant total des sommes effectivement versées et, le cas échéant, les raisons de l'écart constaté.
 
 **Liens relatifs à cet article**
 
@@ -77698,46 +77729,18 @@ charges, qui en forment les pièces constitutives.
 
 	**Cite**:
 
-	  - Décret n°84-74 1984-01-26
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3 (V)
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 7 (V)
 
 	**Modifié par**:
 
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+	  - Décret n°2005-1742 2005-12-30 art. 50 3° JORF 31 décembre 2005
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 50
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-17 (Ab)
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
-
-
-###### Article R433-7
-
-Toute personne physique ou morale peut se porter candidate aux contrats entrant dans le champ d'application défini à
-l'article R. 433-5. Les candidats bénéficient d'une égalité de traitement dans l'examen de leurs candidatures ou de leurs
-offres. Toutefois les dispositions législatives et réglementaires excluant des marchés publics certaines personnes physiques
-ou morales sont applicables aux contrats visés par le présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
 
 
 ###### Article R433-8
@@ -77831,37 +77834,10 @@ inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux
 
 ###### Article R433-10
 
-Les contrats entrant dans le champ d'application défini à l'article R. 433-5 sous réserve des exceptions prévues à l'article
-R. 433-14 sont passés après appel d'offres. Les appels d'offres peuvent être précédés d'un appel public de candidatures
-soumis aux règles prévues par l'article R. 433-11. Dans ce cas, l'organisme arrête la liste des candidats admis à présenter
-des offres en tenant compte des garanties professionnelles et financières présentées par chacun des candidats, ainsi que, le
-cas échéant, de critères supplémentaires, justifiés par l'objet du contrat ou ses conditions d'exécution, mentionnés dans
-l'avis d'appel public à candidatures.
-
-Sont passés sur concours les contrats de maîtrise d'oeuvre entrant dans le champ d'application défini à l'article R. 433-5
-dont le montant est supérieur aux seuils fixés par arrêté conjoint du ministre chargé de l'économie et des finances et du
-ministre chargé du logement, respectivement pour les programmes d'accession à la propriété et pour les programmes locatifs :
-
-- soit dans les conditions définies au II de l'article R. 433-12 ;
-
-- soit, pour ceux de ces contrats entrant dans le champ d'application de la loi n° 85-704 du 12 juillet 1985 modifiée
-relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, dans les conditions fixées par
-la section 4 du présent chapitre.
-
-Pour les contrats de maîtrise d'oeuvre entrant dans le champ d'application défini à l'article R. 433-5 dont le montant est
-inférieur aux seuils cités ci-dessus, l'organisme peut engager librement les discussions qui lui paraissent utiles avec les
-candidats de son choix et attribuer librement le contrat au candidat de son choix. L'organisme est toutefois tenu, après une
-consultation écrite au moins sommaire, d'engager la négociation avec au moins trois candidats. Ces contrats peuvent en outre
-être passés sans mise en concurrence préalable dans les cas suivants :
-
-1. Lorsque les besoins ne peuvent être satisfaits que par une prestation nécessitant l'emploi d'un brevet d'invention, d'une
-licence ou de droits exclusifs détenus par un seul prestataire ;
-
-2. Pour les prestations qui sont exécutées à titre de recherches, d'essais, d'expérimentation ou de mise au point ;
-
-3. Lorsque les besoins ne peuvent être satisfaits que par une prestation qui, à cause de nécessités techniques,
-d'investissements préalables importants, d'installations spéciales ou de savoir-faire, ne peut être confiée qu'à un
-prestataire déterminé.
+Pour les marchés ayant à la fois pour objet la construction et l'exploitation ou la maintenance d'un ouvrage, si l'organisme
+choisit de recourir à un marché alloti, la construction fait obligatoirement l'objet d'un lot séparé. S'il choisit de
+recourir à un marché global, celui-ci fait obligatoirement apparaître de manière séparée les prix respectifs de la
+construction et de l'exploitation ou de la maintenance.
 
 **Liens relatifs à cet article**
 
@@ -77869,317 +77845,15 @@ prestataire déterminé.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°85-704 1985-07-12
-	  - Code de la construction et de l'habitation. - art. R433-12 (M)
-	  - Code de la construction et de l'habitation. - art. R433-14 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
+	  - Décret n°2005-1742 2005-12-30 art. 50 4° JORF 31 décembre 2005
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 50
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-11 (Ab)
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
-
-
-###### Article R433-11
-
-I. - Les avis d'appel public à la concurrence, ainsi que les avis de concours à l'exception de ceux lancés pour des contrats
-visés par la section 4 du présent chapitre, mentionnent au moins :
-
-1. L'identification de l'organisme contractant ;
-
-2. L'objet du ou des contrats ;
-
-3. La procédure de passation ;
-
-4. Les justifications à produire quant aux qualités et aux capacités du candidat ;
-
-5. La date limite de réception des candidatures ou des offres ;
-
-6. Pour les avis d'appel d'offres et de concours, le lieu où l'on peut retirer le dossier de consultation ;
-
-7. Pour les concours, les modalités d'indemnisation des concurrents.
-
-II. - Dans un délai de trente jours à compter de la conclusion du contrat, l'organisme porte à la connaissance du public le
-nom du titulaire ainsi que le montant du contrat par un avis d'attribution.
-
-III. - Les avis mentionnés au I et au II du présent article sont au moins insérés dans une publication habilitée à recevoir
-des annonces légales.
-
-Dans tous les cas d'appel public à la concurrence ou de concours, le délai de remise des candidatures ou des offres est fixé
-selon la nature des prestations et ne peut être inférieur à quinze jours à compter de la publication de l'avis mentionné à
-l'article R. 433-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-
-
-###### Article R433-12
-
-I. - Les contrats entrant dans le champ d'application défini à l'article R. 433-5 passés sur appel d'offres font l'objet d'un
-règlement de consultation, qui mentionne au moins :
-
-1. L'objet du contrat ;
-
-2. La date limite de réception des offres ;
-
-3. Le délai de validité des offres ;
-
-4. Les justifications à produire quant aux qualités et aux capacités des candidats ;
-
-5. Les conditions dans lesquelles les variantes sont admises ;
-
-6. Les modalités de transmission des offres, qui doivent assurer la confidentialité des informations et l'égalité de
-traitement des candidats ;
-
-7. Le mode de règlement du contrat ;
-
-8. Le ou les critères de jugement des offres pris en compte lors de l'attribution du contrat.
-
-Ces critères, qui permettent à l'organisme de choisir l'offre qu'il juge la plus intéressante, sont justifiés par l'objet du
-contrat et ses conditions d'exécution, et sont notamment : le prix des prestations, leur coût d'utilisation, leur valeur
-technique, les garanties professionnelles, financières et de qualité présentées par chacun des candidats et le délai
-d'exécution des prestations.
-
-II. Lorsqu'il est procédé à un concours, y compris lorsqu'il s'agit d'un concours de maîtrise d'oeuvre, exception faite de
-concours visés par la section IV du présent chapitre, le règlement du concours doit comporter notamment, outre les mentions
-citées au I du présent article, l'indication sommaire des prestations qui seront à fournir par les participants, la
-composition du jury, qui doit comporter, par dérogation à l'article R. 433-13, un tiers au moins de maîtres d'oeuvre
-compétents eu égard à l'ouvrage à réaliser et à la nature des prestations à fournir au titre du contrat de maîtrise d'oeuvre,
-les conditions dans lesquelles ils peuvent être entendus par celui-ci, les critères de jugement des projets présentés et les
-modalités d'indemnisation des candidats ayant remis des prestations.
-
-III. - L'établissement du règlement de consultation ou de concours est facultatif si toutes les mentions prévues au I ou II
-ci-dessus ont été insérés dans l'avis d'appel d'offres, d'adjudication, d'appel public à candidatures ou de concours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-13 (M)
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
-
-
-###### Article R433-13
-
-La composition et le fonctionnement de la commission d'appel d'offres, ou ceux du jury de concours sont fixés, sous les
-réserves prévues à la section IV du présent chapitre pour les contrats visés par cette section, par le conseil
-d'administration ou de surveillance de l'organisme. Le directeur départemental de l'équipement ou son représentant, ainsi
-qu'un représentant du directeur général de la concurrence, de la consommation et de la répression des fraudes assistent aux
-réunions de cette commission ou de ce jury avec voix consultatives ; ils peuvent respectivement exiger que leur avis soit
-porté au procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-12 (Ab)
-
-
-###### Article R433-14
-
-L'organisme peut engager librement les discussions qui lui paraissent utiles avec les candidats de son choix et attribuer
-librement le contrat au candidat de son choix, l'organisme étant toutefois tenu, après une consultation écrite au moins
-sommaire, d'engager la négociation avec au moins trois candidats, dans les cas suivants :
-
-1. Lorsque les prestations n'ont fait l'objet d'aucune soumission ou offre ou n'ont donné lieu qu'à des soumissions ou offres
-inacceptables ;
-
-2. Dans les cas d'urgence pour les travaux, fournitures ou services que l'organisme doit faire exécuter aux lieu et place de
-l'entrepreneur ou du fournisseur défaillant ;
-
-3. Dans les cas d'urgence impérieuse motivée par des circonstances imprévisibles.
-
-II. Les contrats peuvent en outre être passés sans mise en concurrence préalable lorsque les prestations ne peuvent être
-réalisées que par un prestataire déterminé. Il en est ainsi dans les cas suivants :
-
-1. Lorsque les besoins ne peuvent être satisfaits que par une prestation nécessitant l'emploi d'un brevet d'invention, d'une
-licence ou de droits exclusifs ;
-
-2. Lorsque les prestations sont exécutées à titre de recherches, d'essais, d'expérimentation ou de mise au point ;
-
-3. Lorsque les besoins ne peuvent être satisfaits que par une prestation qui, à cause de nécessités techniques,
-d'investissements préalables importants, d'installations spéciales ou de savoir-faire, ne peut être confiée qu'à un
-prestataire déterminé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-	  - Code de la construction et de l'habitation. - art. R433-15 (Ab)
-
-
-###### Article R433-15
-
-Un procès-verbal est établi pour chaque contrat entrant dans le champ d'application défini à l'article R. 433-5. Il comporte
-au moins :
-
-1° Le nom et l'adresse de l'organisme ;
-
-2° L'objet et le montant du contrat ;
-
-3° Le nom des candidats retenus et la justification de leur choix ;
-
-4° Le nom des candidats exclus et les motifs de rejet de leur candidature ou de leur offre ;
-
-5° Le nom du titulaire et la justification du choix de son offre ;
-
-6° La justification du recours à l'un des cas de procédures négociée prévue à l'article R. 433-14.
-
-Ce procès-verbal est communiqué aux membres du conseil d'administration ou de surveillance de l'organisme contractant dans un
-délai d'un mois à compter de la conclusion du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-14 (M)
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
-
-
-###### Article R433-16
-
-L'organisme contractant communique à tout candidat qui en fait la demande les motifs de rejet de sa candidature ou de son
-offre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993 rectificatif JORF 28 août 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-
-###### Article R433-17
-
-Le cahier des charges prévu à l'article R. 433-6 détermine, pour tous les contrats entrant dans le champ d'application défini
-à l'article R. 433-5, les conditions d'exécution du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
-	  - Code de la construction et de l'habitation. - art. R433-6 (M)
 
 
 ###### Article R433-18
@@ -78216,41 +77890,6 @@ l'ensemble des modalités relatives à celle-ci.
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
-
-
-###### Article R433-19
-
-Un rapport annuel est transmis au conseil d'administration ou de surveillance de l'organisme sur l'exécution de chaque
-contrat entrant dans le champ d'application défini à l'article R. 433-5.
-
-Ce rapport comporte pour chaque contrat le montant initial du contrat, le montant total des sommes effectivement versées et,
-le cas échéant, les raisons de l'écart constaté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1742 2005-12-30 art. 51 3° JORF 31 décembre 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-1742 du 30 décembre 2005 - art. 51 (VT)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
 
 
 ##### Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte.
@@ -80328,12 +79967,13 @@ Toutefois, les dispositions du présent article ne s'appliquent pas au mandatair
 
 Lorsque le mandant est doté d'un comptable public, s'appliquent les dispositions suivantes :
 
-I. - Le mandant transmet l'ampliation du mandat dès sa conclusion à son comptable public.
+I. - Le comptable public du mandant est consulté sur le projet de mandat.A l'expiration d'un délai d'un mois il est réputé
+avoir rendu son avis. Le mandant lui transmet l'ampliation du mandat dès sa conclusion.
 
 II. - Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier alinéa de l'article R. 442-19, le compte est
-ouvert auprès de l'Etat, de La Poste, de la Caisse des dépôts et consignations, de la Banque de France ou auprès d'un
-établissement de crédit ayant obtenu un agrément en vertu des dispositions applicables dans les Etats membres de la
-Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen.
+ouvert auprès de l'Etat, de la Caisse des dépôts et consignations, de la Banque de France ou auprès d'un établissement de
+crédit ayant obtenu un agrément en vertu des dispositions applicables dans les Etats membres de la Communauté européenne ou
+les autres Etats parties à l'accord sur l'Espace économique européen.
 
 III. - Lorsque le mandat stipule que le mandataire dispose d'une avance permanente, l'ordonnateur du mandant fixe le montant
 de cette avance dans la limite du plafond prévu par le mandat.
@@ -80373,13 +80013,18 @@ irrécouvrable.
 
 	**Cite**:
 
-	  - Loi n°91-650 1991-07-09 art. 3
-	  - Code général des collectivités territoriales - art. D1617-19 (M)
-	  - Code de la construction et de l'habitation R442-19
+	  - Loi n°91-650 du 9 juillet 1991
+	  - Code général des collectivités territoriales - art. D1617-19
+	  - Code de la construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Décret n°2004-943 du 2 septembre 2004 - art. 12 () JORF 7 septembre 2004
+	  - Décret n°2005-1068 du 30 août 2005 - art. 16 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+	  - Décret n°2009-1686 du 30 décembre 2009 - art. 9 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 11
 
 
 ###### Article R*442-21
