@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -7155,52 +7155,52 @@ l'alinéa premier de cet article ne s'applique pas lorsque celui qui procure ind
 
 ###### Article L231-6
 
-I. - La garantie de livraison prévue au k de l'article L. 231-2 couvre le maître de l'ouvrage, à compter de la date
-d'ouverture du chantier, contre les risques d'inexécution ou de mauvaise exécution des travaux prévus au contrat, à prix et
-délais convenus.
+I.-La garantie de livraison prévue au k de l'article L. 231-2 couvre le maître de l'ouvrage, à compter de la date d'ouverture
+du chantier, contre les risques d'inexécution ou de mauvaise exécution des travaux prévus au contrat, à prix et délais
+convenus. 
 
-En cas de défaillance du constructeur, le garant prend à sa charge :
+En cas de défaillance du constructeur, le garant prend à sa charge : 
 
 a) Le coût des dépassements du prix convenu dès lors qu'ils sont nécessaires à l'achèvement de la construction, la garantie
-apportée à ce titre pouvant être assortie d'une franchise n'excédant pas 5 p. 100 du prix convenu ;
+apportée à ce titre pouvant être assortie d'une franchise n'excédant pas 5 % du prix convenu ; 
 
-b) Les conséquences du fait du constructeur ayant abouti à un paiement anticipé ou à un supplément de prix ;
+b) Les conséquences du fait du constructeur ayant abouti à un paiement anticipé ou à un supplément de prix ; 
 
 c) Les pénalités forfaitaires prévues au contrat en cas de retard de livraison excédant trente jours, le montant et le seuil
-minimum de ces pénalités étant fixés par décret.
+minimum de ces pénalités étant fixés par décret. 
 
 La garantie est constituée par une caution solidaire donnée par un établissement de crédit ou une entreprise d'assurance
-agréés à cet effet.
+agréés à cet effet. 
 
-II. - Dans le cas où le garant constate que le délai de livraison n'est pas respecté ou que les travaux nécessaires à la
-levée des réserves formulées à la réception ne sont pas réalisés, il met en demeure sans délai le constructeur soit de livrer
+II.-Dans le cas où le garant constate que le délai de livraison n'est pas respecté ou que les travaux nécessaires à la levée
+des réserves formulées à la réception ne sont pas réalisés, il met en demeure sans délai le constructeur soit de livrer
 l'immeuble, soit d'exécuter les travaux. Le garant est tenu à la même obligation lorsqu'il est informé par le maître de
-l'ouvrage des faits susindiqués.
+l'ouvrage des faits susindiqués. 
 
 Quinze jours après une mise en demeure restée infructueuse, le garant procède à l'exécution de ses obligations dans les
-conditions prévues au paragraphe III du présent article.
+conditions prévues au paragraphe III du présent article. 
 
-Au cas où, en cours d'exécution des travaux, le constructeur fait l'objet de la procédure de redressement judiciaire prévue
-par la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le garant
-peut mettre en demeure l'administrateur de se prononcer sur l'exécution du contrat conformément à l'article 37 de ladite loi.
-A défaut de réponse dans le délai d'un mois et sans que ce délai puisse être prorogé pour quelque raison que ce soit, le
-garant procède à l'exécution de ses obligations. Il y procède également dans le cas où, malgré sa réponse positive,
-l'administrateur ne poursuit pas l'exécution du contrat dans les quinze jours qui suivent sa réponse.
+Au cas où, en cours d'exécution des travaux, le constructeur fait l'objet des procédures de sauvegarde et de redressement
+judiciaire prévues par le code de commerce, le garant peut mettre en demeure l'administrateur de se prononcer sur l'exécution
+du contrat conformément à l'article L. 621-28 dudit code. A défaut de réponse dans le délai d'un mois et sans que ce délai
+puisse être prorogé pour quelque raison que ce soit, le garant procède à l'exécution de ses obligations. Il y procède
+également dans le cas où, malgré sa réponse positive, l'administrateur ne poursuit pas l'exécution du contrat dans les quinze
+jours qui suivent sa réponse. 
 
-III. - Dans les cas prévus au paragraphe II ci-dessus et faute pour le constructeur ou l'administrateur de procéder à
-l'achèvement de la construction, le garant doit désigner sous sa responsabilité la personne qui terminera les travaux.
+III.-Dans les cas prévus au paragraphe II ci-dessus et faute pour le constructeur ou l'administrateur de procéder à
+l'achèvement de la construction, le garant doit désigner sous sa responsabilité la personne qui terminera les travaux. 
 
 Toutefois, et à condition que l'immeuble ait atteint le stade du hors d'eau, le garant peut proposer au maître de l'ouvrage
 de conclure lui-même des marchés de travaux avec des entreprises qui se chargeront de l'achèvement. Si le maître de l'ouvrage
 l'accepte, le garant verse directement aux entreprises les sommes dont il est redevable au titre du paragraphe I du présent
-article.
+article. 
 
 En cas de défaillance du constructeur, le garant est en droit d'exiger de percevoir directement les sommes correspondant aux
-travaux qu'il effectue ou fait effectuer dans les conditions prévues au e de l'article L. 231-2.
+travaux qu'il effectue ou fait effectuer dans les conditions prévues au e de l'article L. 231-2. 
 
-IV. - La garantie cesse lorsque la réception des travaux a été constatée par écrit et, le cas échéant, à l'expiration du
-délai de huit jours prévu à l'article L. 231-8 pour dénoncer les vices apparents ou, si des réserves ont été formulées,
-lorsque celles-ci ont été levées.
+IV.-La garantie cesse lorsque la réception des travaux a été constatée par écrit et, le cas échéant, à l'expiration du délai
+de huit jours prévu à l'article L. 231-8 pour dénoncer les vices apparents ou, si des réserves ont été formulées, lorsque
+celles-ci ont été levées.
 
 **Liens relatifs à cet article**
 
@@ -7208,19 +7208,9 @@ lorsque celles-ci ont été levées.
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Cite**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 37 (M)
-	  - Code de la construction et de l'habitation. - art. L231-2 (M)
-	  - Code de la construction et de l'habitation. - art. L231-8 (V)
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8
-
-	**Créé par**:
-
-	  - Loi n°90-1129 du 19 décembre 1990 - art. 1 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
 
 	**Cité par**:
 
@@ -7230,6 +7220,15 @@ lorsque celles-ci ont été levées.
 	  - Code de la construction et de l'habitation. - art. L232-2 (V)
 	  - Code de la construction et de l'habitation. - art. L241-8 (VD)
 	  - Code de la construction et de l'habitation. - art. R*231-10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+	  - Code de la construction et de l'habitation. - art. L231-8 (V)
 
 
 ###### Article L231-7
@@ -19696,11 +19695,11 @@ Pendant cette durée et par dérogation aux dispositions du livre II du code de 
 225-204 et L. 228-23, toute augmentation ou réduction du capital social ou toute cession d'action est soumise à l'agrément de
 l'administrateur provisoire, à peine de nullité.
 
-Lorsque la société fait l'objet d'un plan de redressement approuvé par le conseil d'administration de la Caisse de garantie
-du logement social, l'administrateur provisoire peut soumettre à l'assemblée générale extraordinaire tout projet
-d'augmentation du capital social rendu nécessaire par le plan de redressement. En cas de refus de l'assemblée générale
-extraordinaire, la décision de procéder à l'augmentation de capital est prise par le conseil d'administration de la Caisse de
-garantie du logement social.
+Lorsque la société fait l'objet de plans de sauvegarde ou de redressement approuvés par le conseil d'administration de la
+Caisse de garantie du logement social, l'administrateur provisoire peut soumettre à l'assemblée générale extraordinaire tout
+projet d'augmentation du capital social rendu nécessaire par les plans de sauvegarde ou de redressement. En cas de refus de
+l'assemblée générale extraordinaire, la décision de procéder à l'augmentation de capital est prise par le conseil
+d'administration de la Caisse de garantie du logement social.
 
 Pendant la durée de l'administration provisoire, l'assemblée générale ne peut désigner un nouveau conseil d'administration ou
 conseil de surveillance. A l'issue de la mission de l'administrateur provisoire, il est procédé soit à la désignation d'un
@@ -19720,15 +19719,15 @@ l'expiration de son mandat, réunir une assemblée générale en vue de procéde
 d'administration ou d'un nouveau conseil de surveillance. A défaut de cette désignation, il sera procédé à la dissolution et
 à la liquidation de l'organisme.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 149
 
 	**Cité par**:
 
@@ -19738,6 +19737,10 @@ d'administration ou d'un nouveau conseil de surveillance. A défaut de cette dé
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 	  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. R422-17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -28578,10 +28581,10 @@ Le locataire peut résilier le contrat à tout moment sous réserve du respect d
 
 Lorsque le bailleur, propriétaire ou gérant du fonds doit, pour quelque motif que ce soit, cesser son activité, il en informe
 les locataires titulaires du contrat mentionné à l'article L. 632-1 trois mois au moins avant la date à laquelle la cessation
-d'activité est prévue. Sauf cas de force majeure ou de mise en oeuvre de la procédure de redressement judiciaire prévue par
-la loi n° 85-98 du 25 janvier 1985, la cessation d'activité ne peut avoir lieu avant l'expiration des contrats en cours de
-validité ou avant le relogement des locataires titulaires desdits contrats. Si, en dépit de la cessation d'activité du
-bailleur, les locaux gardent leur destination première, le contrat de bail est tacitement reconduit. Si, en revanche, la
+d'activité est prévue. Sauf cas de force majeure ou de mise en oeuvre des procédures de sauvegarde ou de redressement
+judiciaire prévues par le code de commerce, la cessation d'activité ne peut avoir lieu avant l'expiration des contrats en
+cours de validité ou avant le relogement des locataires titulaires desdits contrats. Si, en dépit de la cessation d'activité
+du bailleur, les locaux gardent leur destination première, le contrat de bail est tacitement reconduit. Si, en revanche, la
 cessation d'activité est due à une opération d'urbanisme ou d'aménagement, les occupants doivent être relogés aux frais de
 l'opérateur dans les conditions prévues aux articles L. 314-1 et L. 314-2 du code de l'urbanisme.
 
@@ -28591,16 +28594,15 @@ l'opérateur dans les conditions prévues aux articles L. 314-1 et L. 314-2 du c
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Loi n°85-98 1985-01-25
 	  - Code de l'urbanisme - art. L314-1 (M)
 	  - Code de l'urbanisme - art. L314-2 (M)
 	  - Code de la construction et de l'habitation. - art. L632-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
 
 
 ###### Article L632-3
@@ -59345,11 +59347,11 @@ Les dispositions de la présente section ne sont pas applicables aux départemen
 	  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
-### Titre V : Aide personnalisée au logement
+### Titre V : Aide personnalisée au logement - Fonds national d'aide au logement.
 
-#### Chapitre Ier : Dispositions générales
+#### Chapitre Ier : Dispositions générales.
 
-##### Section 1 : Aide personnalisée
+##### Section 1 : Aide personnalisée.
 
 ##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.
 
@@ -59398,7 +59400,7 @@ de l'aide.
 
 	**Modifié par**:
 
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 1 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -59423,9 +59425,9 @@ prévu à l'article R. 351-1.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-677 1981-06-29 ART. 1 JORF 30 JUIN 1981
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -59463,11 +59465,7 @@ arrêté, lorsque les deux membres d'un couple poursuivent des études.
 
 	**Modifié par**:
 
-	  - Décret n°2003-579 du 27 juin 2003 - art. 2 () JORF 29 juin 2003 en vigueur le 1er juillet 2003
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R351-5 à R351-7
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-2
@@ -59510,7 +59508,7 @@ cas de chômage, contractées par le bénéficiaire en garantie de l'exécution 
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 2 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -59563,7 +59561,7 @@ alinéa de l'article R. 331-59-16 et au II de l'article R. 331-76-5-1 du code de
 
 	**Modifié par**:
 
-	  - Décret n°2004-286 du 26 mars 2004 - art. 3 () JORF 27 mars 2004
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -59612,7 +59610,7 @@ conforme aux stipulations du contrat d'amélioration, à compter du premier jour
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 4 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -59635,31 +59633,25 @@ lesquels le droit est ouvert.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 2 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
-
 	**Cité par**:
 
 	  - Décret n°2005-1511 du 7 décembre 2005 - art. 1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-5 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation R351-7, R351-10 à R351-16 bis, R351-17-1
-	  - Code de la construction et de l'habitation. - art. R351-17-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-4-1
 
 En application du dernier alinéa de l'article L. 351-3-1 et par dérogation aux dispositions des articles R. 351-2, R. 351-2-1
 et R. 351-3, en cas de déménagement, de conclusion ou de résiliation des conventions mentionnées à l'article L. 351-2, le
-droit à l'aide personnalisée peut être ouvert, dans des conditions fixées par directive du Fonds national de l'habitation, à
-compter du premier jour du mois civil au cours duquel les conditions d'ouverture du droit sont réunies ; il peut être éteint
-dans les mêmes conditions le dernier jour du mois civil au cours duquel les conditions d'ouverture du droit cessent d'être
-réunies.
+droit à l'aide personnalisée peut être ouvert, dans des conditions fixées par directive du Fonds national d'aide au logement,
+à compter du premier jour du mois civil au cours duquel les conditions d'ouverture du droit sont réunies ; il peut être
+éteint dans les mêmes conditions le dernier jour du mois civil au cours duquel les conditions d'ouverture du droit cessent
+d'être réunies.
 
 **Liens relatifs à cet article**
 
@@ -59669,7 +59661,8 @@ réunies.
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 5 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -59744,10 +59737,6 @@ Soit enfants du bénéficiaire ou de son conjoint.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
 	**Cité par**:
 
 	  - Arrêté du 3 juillet 1978 - art. 1 bis (Ab)
@@ -59794,9 +59783,13 @@ Soit enfants du bénéficiaire ou de son conjoint.
 	  - Code de la construction et de l'habitation R351-4, R351-6, R351-7-1, R351-7-2, R351-10 à R351-14-1, R351-7, 83
 	  - Code de la construction et de l'habitation. - art. R351-4 (M)
 
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
 	**Modifié par**:
 
-	  - Décret n°2005-1053 du 29 août 2005 - art. 4 () JORF 30 août 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-6
@@ -59815,6 +59808,7 @@ allocations familiales en vigueur au 31 décembre de ladite année.
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 (M)
+	  - SPEC_APPLI: Décret n°88-516 du 3 mai 1988 - art. 3 (V)
 
 	**Cité par**:
 
@@ -59826,7 +59820,7 @@ allocations familiales en vigueur au 31 décembre de ladite année.
 
 	**Modifié par**:
 
-	  - Décret n°88-516 1988-05-03 art. 2 1. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-7
@@ -59903,15 +59897,9 @@ l'évaluation forfaitaire prévue au II ci-dessus est égale à neuf fois la ré
 	  - Code de la construction et de l'habitation. - art. R351-61 (M)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
-	**Cite**:
-
-	  - CGI 158, 83
-	  - Code de la sécurité sociale. - art. L821-1 (M)
-	  - Code de l'action sociale et des familles - art. L262-3 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2003-579 du 27 juin 2003 - art. 1 () JORF 29 juin 2003 en vigueur le 1er juillet 2003
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-7-1
@@ -59944,9 +59932,9 @@ l'allocation aux adultes handicapés ou de l'allocation compensatrice.
 
 **Nota:**
 
-[*NOTA : Décret 2000-635 2000-07-07 art. 7 : les dispositions du présent décret sont applicables à compter du 1er juillet
-2000, à l'exception des dispositions du 1° de l'article 4 (les mots : prises en compte dans la limite de la mensualité de
-référence prévue à l'article R. 351-18 sont suprimés) qui entreront en vigueur le 1er octobre 2000.*]
+Décret 2000-635 2000-07-07 art. 7 : les dispositions du présent décret sont applicables à compter du 1er juillet 2000, à
+l'exception des dispositions du 1° de l'article 4 (les mots : prises en compte dans la limite de la mensualité de référence
+prévue à l'article R. 351-18 sont suprimés) qui entreront en vigueur le 1er octobre 2000.
 
 **Liens relatifs à cet article**
 
@@ -59959,6 +59947,7 @@ référence prévue à l'article R. 351-18 sont suprimés) qui entreront en vigu
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 1 ter (M)
 	  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 quater (M)
 	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 10 (Ab)
+	  - SPEC_APPLI: Décret n°2000-635 du 7 juillet 2000 - art. 7 (V)
 
 	**Cité par**:
 
@@ -59971,7 +59960,7 @@ référence prévue à l'article R. 351-18 sont suprimés) qui entreront en vigu
 
 	**Modifié par**:
 
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60009,8 +59998,8 @@ la sécurité sociale en vigueur au 31 décembre de l'année de référence.
 
 **Nota:**
 
-[*NOTA : Décret 2000-395 2000-05-09 art. 2 : les dispositions de l'article 1er sont applicables à compter du 1er janvier
-2000, pour les enfants nés à compter du 1er janvier 1980.*]
+*NOTA : Décret 2000-395 2000-05-09 art. 2 : les dispositions de l'article 1er sont applicables à compter du 1er janvier 2000,
+pour les enfants nés à compter du 1er janvier 1980.*
 
 **Liens relatifs à cet article**
 
@@ -60018,14 +60007,14 @@ la sécurité sociale en vigueur au 31 décembre de l'année de référence.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°2000-395 du 9 mai 2000 - art. 1 () JORF 11 mai 2000
-
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°2000-395 du 9 mai 2000 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000
-	  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60062,7 +60051,7 @@ la non-présentation avant la date fixée par ledit arrêté entraine la suspens
 
 	**Modifié par**:
 
-	  - Décret n°86-982 1986-08-22 art. 3 JORF 26 août 1986
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -60089,7 +60078,7 @@ Lorsque le bénéficiaire ou son conjoint apporte la preuve de sa cessation d'ac
 la période de paiement et de son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une rente d'accident de
 travail ou de l'allocation aux adultes handicapés ou de l'allocation compensatrice, les ressources déterminées dans les
 conditions prévues à l'article R. 351-5 et perçues par l'intéressé au cours de l'année civile de référence sont affectées
-d'un abattement égal à 30 p. 100 des revenus d'activité professionnelle et des indemnités de chômage.
+d'un abattement égal à 30 % des revenus d'activité professionnelle et des indemnités de chômage.
 
 Cette mesure s'applique à partir du premier jour du mois civil suivant celui au cours duquel survient le changement de
 situation et, sous réserve des dispositions de l'alinéa 2, tant que les ressources perçues par l'intéressé au cours de
@@ -60103,6 +60092,7 @@ est supprimé à partir du premier jour du mois civil au cours duquel intervient
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la construction R351-29
+	  - SPEC_APPLI: Décret n°88-516 du 3 mai 1988 - art. 3 (V)
 
 	**Codifié par**:
 
@@ -60119,7 +60109,7 @@ est supprimé à partir du premier jour du mois civil au cours duquel intervient
 
 	**Modifié par**:
 
-	  - Décret n°88-516 1988-05-03 art. 2 2. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-11
@@ -60157,7 +60147,7 @@ l'agriculture et du logement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 2 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60205,6 +60195,7 @@ reprend une activité professionnelle.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la construction R351-29
+	  - SPEC_APPLI: Décret n°2004-705 2004-07-15 art. 4 : date d'entrée en vigueur
 
 	**Codifié par**:
 
@@ -60218,7 +60209,7 @@ reprend une activité professionnelle.
 
 	**Modifié par**:
 
-	  - Décret n°2004-705 du 15 juillet 2004 - art. 2 () JORF 17 juillet 2004 en vigueur le 1er août 2004
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-13
@@ -60255,9 +60246,13 @@ Il appartient au bénéficiaire de justifier que les conditions prévues par le 
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-705 2004-07-15 art. 4 : date d'entrée en vigueur
+
 	**Modifié par**:
 
-	  - Décret n°2004-705 du 15 juillet 2004 - art. 3 () JORF 17 juillet 2004 en vigueur le 1er août 2004
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60282,9 +60277,9 @@ fin.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-880 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60343,18 +60338,9 @@ cesse d'être due.
 	  - Code de la construction et de l'habitation. - art. R351-28-1 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
-	**Cite**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 4 (Ab)
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L351-8 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-
 	**Modifié par**:
 
-	  - Décret n°94-817 du 19 septembre 1994 - art. 2 () JORF 21 septembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-14-1
@@ -60373,9 +60359,13 @@ titre des articles R. 351-13 et R. 351-14 précédents, le bénéfice de ces dis
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°94-817 du 19 septembre 1994 - art. 3 () JORF 21 septembre 1994
+	  - SPEC_APPLI: Décret n°94-817 du 19 septembre 1994 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60406,9 +60396,9 @@ convention, un nouveau loyer est notifié.
 	  - Décret n°82-715 du 13 août 1982 - art. 4 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-932 1985-08-30 art. 4 JORF 3 septembre 1985
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-16
@@ -60429,7 +60419,7 @@ suit le décès ou le premier jour du mois civil au cours duquel survient le dé
 
 	**Modifié par**:
 
-	  - Décret n°2000-635 du 7 juillet 2000 - art. 5 () JORF 8 juillet 2000 en vigueur le 1er juillet 2000
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -60462,7 +60452,7 @@ l'article R. 331-75.
 
 	**Modifié par**:
 
-	  - Décret n°85-932 1985-08-30 art. 5 JORF 3 septembre 1985
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60516,7 +60506,7 @@ familles, l'aide personnalisée peut être accordée à chacune de ces personnes
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 6 () JORF 19 juillet 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60531,8 +60521,8 @@ familles, l'aide personnalisée peut être accordée à chacune de ces personnes
 ###### Article R351-17-1
 
 Lorsque la séparation prévue à l'article R. 351-17 (4e alinéa) intervient en cours de période de paiement, le droit à l'aide
-personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation et la révision du droit prend effet [*date*]
-le premier jour du mois civil suivant celui au cours duquel la séparation a eu lieu.
+personnalisée du bénéficiaire est réexaminé en fonction de la nouvelle situation et la révision du droit prend effet le
+premier jour du mois civil suivant celui au cours duquel la séparation a eu lieu.
 
 **Liens relatifs à cet article**
 
@@ -60542,7 +60532,7 @@ le premier jour du mois civil suivant celui au cours duquel la séparation a eu 
 
 	**Modifié par**:
 
-	  - Décret n°83-176 1983-03-07 ART. 9 JORF 11 MARS 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60555,44 +60545,7 @@ le premier jour du mois civil suivant celui au cours duquel la séparation a eu 
 	  - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement
-
-###### Article R351-20
-
-Les loyers et mensualités de référence ainsi que le montant forfaitaire des charges sont fixés par arrêté conjoint des
-ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-Les zones géographiques à l'intérieur desquelles sont déterminés les loyers et mensualités de référence sont fixées par
-arrêté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 ter (M)
-	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
-	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
-	  - Arrêté du 14 août 1987 - art. 13 (T)
-	  - Arrêté du 18 juillet 1990 - art. 1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
-
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.
 
 ##### Paragraphe 1 : Dispositions relatives aux locataires.
 
@@ -60619,8 +60572,7 @@ participation personnelle du ménage.
 
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 2 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-17-3
@@ -60647,9 +60599,9 @@ personnes ou ménages concernés.
 	  - Arrêté du 3 juillet 1978 - art. 2 bis (M)
 	  - Arrêté du 3 juillet 1978 - art. 2 ter (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60670,8 +60622,8 @@ Les ressources sont appréciées conformément à l'article R. 351-5 et arrondie
 
 **Nota:**
 
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
+Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues à
+compter du mois de juillet 2002.
 
 **Liens relatifs à cet article**
 
@@ -60687,7 +60639,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60720,7 +60672,7 @@ en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1273 du 26 décembre 2000 - art. 2 () JORF 28 décembre 2000
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60762,10 +60714,13 @@ tenu des ressources déterminées conformément à l'article R. 351-5 et de la c
 	  - Code de la construction et de l'habitation. - art. R351-22 (V)
 	  - Code de la construction et de l'habitation. - art. R351-7-1 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-843 du 15 novembre 1989 - art. 6 (V)
+
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 7 () JORF 29 mars 1997 en en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60819,8 +60774,8 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 **Nota:**
 
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
+Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues à
+compter du mois de juillet 2002.
 
 **Liens relatifs à cet article**
 
@@ -60846,7 +60801,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-20-1
@@ -60864,7 +60819,7 @@ améliorés à l'aide d'un prêt conventionné.
 
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60896,8 +60851,8 @@ l'intervalle dans lequel se situent les ressources appréciées conformément à
 
 **Nota:**
 
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
+Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues à
+compter du mois de juillet 2002.
 
 **Liens relatifs à cet article**
 
@@ -60918,7 +60873,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -60964,7 +60919,7 @@ montant mensuel de l'aide personnalisée un abattement égal à la différence c
 
 	**Modifié par**:
 
-	  - Décret n°99-541 du 28 juin 1999 - art. 3 () JORF 29 juin 1999 en vigueur le 1er juillet 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61018,8 +60973,7 @@ la sécurité sociale et de l'agriculture.
 
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 13 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61049,10 +61003,9 @@ prévu à l'article R. 351-22-1 qui correspondent à sa situation familiale.
 
 	  - Arrêté du 3 juillet 1978 - art. 11 ter (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 14 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 6 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61082,7 +61035,7 @@ construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61114,10 +61067,9 @@ sécurité sociale et de l'agriculture.
 	  - Code de la construction et de l'habitation. - art. R351-18 (V)
 	  - Code de la construction et de l'habitation. - art. R351-21-4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-289 du 28 mars 1997 - art. 15 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-	  - Décret n°97-289 du 28 mars 1997 - art. 16 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Sous-section 5 : Prime de déménagement.
@@ -61140,7 +61092,7 @@ d'emménagement même lorsqu'en application de l'article R. 351-22 il n'est pas 
 
 	**Modifié par**:
 
-	  - Décret n°88-966 du 10 octobre 1988 - art. 6 () JORF 13 octobre 1988 en vigueur le 1er juin 1988
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61166,6 +61118,10 @@ laquelle ouvre droit l'aide personnalisée, la différence est versée par l'org
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R351-25
 
@@ -61182,7 +61138,7 @@ de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Sous-section 6 : Modalités de liquidation et de versement.
@@ -61213,6 +61169,10 @@ payeur est la caisse de mutualité sociale agricole compétente.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61286,7 +61246,7 @@ prêt entrant dans le champ d'application de l'article R. 351-2.
 
 	**Modifié par**:
 
-	  - Décret n°90-880 du 28 septembre 1990 - art. 5 () JORF 30 septembre 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61316,7 +61276,7 @@ la même périodicité que le paiement de la redevance.
 
 	**Modifié par**:
 
-	  - Décret n°84-1160 1984-12-21 art. 7 JORF 22 décembre 1984
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61404,31 +61364,9 @@ civile précédente, par arrêté conjoint des ministres chargés de la sécurit
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 156
-	  - Décret n°88-1111 du 12 décembre 1988 - art. 29 (M)
-	  - Code de la sécurité sociale. - art. R821-13 (M)
-	  - Code de la sécurité sociale. - art. R821-14 (M)
-	  - Code de la sécurité sociale. - art. R821-8 (M)
-	  - Code de la construction et de l'habitation. - art. L351-11 (M)
-	  - Code de la construction et de l'habitation. - art. R351-10 (M)
-	  - Code de la construction et de l'habitation. - art. R351-12 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code de la construction et de l'habitation. - art. R351-13-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-14-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-4 (M)
-	  - Code de la construction et de l'habitation. - art. R351-5 (M)
-	  - Code de la construction et de l'habitation. - art. R351-7 (M)
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Modifié par**:
-
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -61439,6 +61377,10 @@ civile précédente, par arrêté conjoint des ministres chargés de la sécurit
 	  - Arrêté du 30 décembre 2010 - art. 4 (V)
 	  - Code de la construction et de l'habitation. - art. R351-28-2 (Ab)
 	  - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-28-2
@@ -61456,13 +61398,9 @@ bases.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-815 du 16 septembre 1999 - art. 2 () JORF 18 septembre 1999
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. R351-28-1 (M)
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Sous-section 7 : Dispositions diverses.
@@ -61575,7 +61513,7 @@ jour de ses obligations.
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R*351-30-1
@@ -61624,7 +61562,7 @@ objectifs de la politique d'aide au logement visés à l'article L. 365-1 du cod
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R*351-31
@@ -61670,7 +61608,7 @@ au I.
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61702,7 +61640,7 @@ un pacte civil de solidarité.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 4 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61733,23 +61671,27 @@ ainsi qu'aux Français établis hors de France.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Section 2 : Fonds national de l'habitation.
+##### Section 2 : Fonds national d'aide au logement.
 
 ###### Article R351-33
 
-Le fonds national de l'habitation, institué par l'article L. 351-6, est doté de l'autonomie financière.
+Le fonds national d'aide au logement, institué par l'article L. 351-6, est doté de l'autonomie financière.
 
 Il est administré par un conseil de gestion assisté d'un secrétariat qui est placé sous l'autorité du ministre chargé de la
 construction et de l'habitation.
 
 La caisse des dépôts et consignations, agissant pour le compte du Trésor public, assure la gestion financière du fonds
-national de l'habitation dans les conditions fixées par un protocole passé entre le fonds national de l'habitation et la
-caisse des dépôts et consignations, après décision du conseil de gestion, et approuvé par le ministre chargé des finances.
+national d'aide au logement dans les conditions fixées par un protocole passé entre le fonds national d'aide au logement et
+la caisse des dépôts et consignations, après décision du conseil de gestion, et approuvé par le ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
@@ -61761,9 +61703,10 @@ caisse des dépôts et consignations, après décision du conseil de gestion, et
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. L351-6 (M)
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61774,7 +61717,7 @@ caisse des dépôts et consignations, après décision du conseil de gestion, et
 
 ###### Article R351-34
 
-Le conseil de gestion du Fonds national de l'habitation est constitué comme suit :
+Le conseil de gestion du Fonds national d'aide au logement est constitué comme suit :
 
 - trois représentants du ministre chargé du logement ;
 
@@ -61806,7 +61749,8 @@ Il est présidé par l'un des représentants du ministre chargé du logement.
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 7 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-35
@@ -61823,7 +61767,7 @@ Il établit son règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 8 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Sous-section 2 : Attributions.
@@ -61837,15 +61781,15 @@ auxquels l'aide est versée.
 
 Le conseil de gestion peut faire toutes propositions relatives à l'application et à l'adaptation de la réglementation.
 
-Ces directives ainsi que la décision [*concernant le protocole sur la gestion financière passé avec la caisse des dépôts et
-consignations*] prévue au dernier alinéa de l'article R. 351-33 doivent faire l'objet d'une approbation de la part des
-ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+Ces directives ainsi que la décision prévue au dernier alinéa de l'article R. 351-33 doivent faire l'objet d'une approbation
+de la part des ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité
+sociale.
 
-L'approbation [*tacite*] d'un ministre est réputée acquise si celui-ci ne fait pas d'observation dans un délai d'un mois à
-compter de la date à laquelle les projets de directives ou de décision lui ont été transmis.
+L'approbation d'un ministre est réputée acquise si celui-ci ne fait pas d'observation dans un délai d'un mois à compter de la
+date à laquelle les projets de directives ou de décision lui ont été transmis.
 
-Les directives du fonds national de l'habitation sont adressées aux organismes concernés par l'intermédiaire du ministre de
-tutelle compétent.
+Les directives du fonds national d'aide au logement sont adressées aux organismes concernés par l'intermédiaire du ministre
+de tutelle compétent.
 
 **Liens relatifs à cet article**
 
@@ -61857,13 +61801,19 @@ tutelle compétent.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R351-37
 
 Le conseil de gestion est consulté par le président sur les conventions et les accords particuliers prévus par l'article L.
 351-8, alinéas 2 et 3.
 
-Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée.
+Il peut être saisi de toute question relative à la gestion et au financement de l'aide personnalisée et de l'allocation de
+logement relevant du titre III du livre VIII du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -61873,7 +61823,8 @@ Il peut être saisi de toute question relative à la gestion et au financement d
 
 	**Modifié par**:
 
-	  - Décret n°95-638 du 6 mai 1995 - art. 7 () JORF 7 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61897,7 +61848,7 @@ obligations de toute nature incombant au fonds ;
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 9 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -61921,19 +61872,19 @@ de la réeception des documents afférents à l'état prévisionnel.
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 10 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Sous-section 3 : Dispositions financières.
 
 ###### Article R351-40
 
-Pour la gestion financière du fonds national de l'habitation, la Caisse des dépôts et consignations ouvre dans ses écritures
-un compte particulier où elle enregistre les opérations de dépense et de recettes du fonds.
+Pour la gestion financière du fonds national d'aide au logement, la Caisse des dépôts et consignations ouvre dans ses
+écritures un compte particulier où elle enregistre les opérations de dépense et de recettes du fonds.
 
 Elle assure la gestion des fonds qui lui sont confiés à ce titre et met à la disposition des organismes payeurs, dans les
 conditions fixées par les conventions prévues à l'article L. 351-8, les fonds nécessaires au service et à la gestion de
-l'aide personnalisée.
+l'aide personnalisée et de l'allocation de logement relevant du titre III du livre VIII du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -61944,6 +61895,11 @@ l'aide personnalisée.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -61965,6 +61921,10 @@ permettant l'établissement des documents énumérés à l'article R. 351-38.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-38 (M)
@@ -61972,7 +61932,7 @@ permettant l'établissement des documents énumérés à l'article R. 351-38.
 
 ###### Article R351-42
 
-I - Les recettes du fonds national de l'habitation sont les suivantes :
+I - Les recettes du fonds national d'aide au logement les suivantes :
 
 1. La contribution de l'Etat ;
 
@@ -61980,23 +61940,23 @@ I - Les recettes du fonds national de l'habitation sont les suivantes :
 
 3. La contribution du régime des prestations familiales des non-salariés agricoles ;
 
-4. La contribution du fonds national d'aide au logement ;
+4. Le produit des prélèvements mis à la charge des employeurs mentionné au b de l'article L. 351-7 ;
 
-5. La contribution des bailleurs de logements conventionnés ;
+5. Les revenus des fonds placés ;
 
-6. Les revenus des fonds placés ;
-
-7. Les recettes accidentelles et diverses.
+6. Les recettes accidentelles et diverses.
 
 II - Les dépenses sont les suivantes :
 
 1. Les sommes versées au titre des prestations prévues par l'article L. 351-6 ;
 
-2. Les dépenses de gestion exposées pour liquider et payer les prestations pour le compte du fonds national de l'habitation ;
+2. Les dépenses de gestion exposées pour liquider et payer les prestations pour le compte du Fonds national d'aide au
+logement ainsi que pour le recouvrement du produit des prélèvements mis à la charge des employeurs mentionné au b de
+l'article L. 351-7 ;
 
-3. Les dépenses du conseil national de l'habitat;
+3. Les dépenses du conseil national de l'habitat ;
 
-4. Les frais de fonctionnement du fonds national de l'habitation ;
+4. Les frais de fonctionnement du fonds national d'aide au logement ;
 
 5. Les frais de procédure ;
 
@@ -62010,11 +61970,13 @@ II - Les dépenses sont les suivantes :
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 11 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-6 (M)
+	  - Code de la construction et de l'habitation. - art. L351-7 (M)
 
 	**Cité par**:
 
@@ -62024,8 +61986,8 @@ II - Les dépenses sont les suivantes :
 ###### Article R351-43
 
 La caisse nationale des allocations familiales, la caisse centrale d'allocations familiales mutuelles agricoles adressent au
-fonds national de l'habitation, au mois d'octobre de chaque année, un état prévisionnel des dépenses d'aide personnalisée au
-logement et un état prévisionnel des frais de gestion pour l'exercice suivant.
+fonds national d'aide au logement, au mois d'octobre de chaque année, un état prévisionnel des dépenses d'aide personnalisée
+au logement et un état prévisionnel des frais de gestion pour l'exercice suivant.
 
 **Liens relatifs à cet article**
 
@@ -62037,6 +61999,11 @@ logement et un état prévisionnel des frais de gestion pour l'exercice suivant.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 6 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-44 (V)
@@ -62044,15 +62011,17 @@ logement et un état prévisionnel des frais de gestion pour l'exercice suivant.
 
 ###### Article R351-44
 
-Le fonds national de l'habitation verse à la caisse nationale des allocations familiales ainsi qu'à la caisse centrale
-d'allocations familiales mutuelles agricoles sa contribution au financement des prestations que ces organismes règlent pour
-son compte ainsi que les frais de gestion à sa charge dans les conditions définies ci-après.
+Le Fonds national d'aide au logement verse à l'Agence centrale des organismes de sécurité sociale pour le compte de la Caisse
+nationale des allocations familiales, ainsi qu'à la Caisse centrale de la mutualité sociale agricole, sa contribution au
+financement des prestations que ces organismes règlent pour son compte ainsi que les frais de gestion à charge dans les
+conditions définies ci-après.
 
 Dans les quinze premiers jours de chaque mois et au plus tard le dernier jour ouvré précédant le 16 du mois, le fonds
-national de l'habitation verse un acompte égal à la différence entre :
+national d'aide au logement verse un acompte égal à la différence entre :
 
-- d'une part, le douzième des dépenses ressortant aux deux états prévisionnels prévus à l'article R. 351-43 tant en ce qui
-concerne l'aide personnalisée au logement qu'en ce qui concerne les frais de gestion ;
+- d'une part, le douzième des dépenses ressortant à l'état prévisionnel prévu à l'article R. 351-38 tant en ce qui concerne
+l'aide personnalisée au logement et l'allocation de logement relevant du titre III du livre VIII du code de la sécurité
+sociale qu'en ce qui concerne les frais de gestion ;
 
 - d'autre part, le douzième du montant prévisionnel des contributions prévues à l'article R. 351-42 I (2° et 3°)
 respectivement à la charge de la caisse nationale des allocations familiales et du régime des prestations familiales des non-
@@ -62062,7 +62031,7 @@ L'acompte mensuel pourra être revisé en cours d'année en cas d'accroissement 
 organismes payeurs dans des conditions et sur des bases définies par arrêté conjoint des ministres chargés des finances, de
 la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
 
-Une liquidation trimestrielle et annuelle des recettes et dépenses du fonds national de l'habitation est assurée par la
+Une liquidation trimestrielle et annuelle des recettes et dépenses du fonds national d'aide au logement est assurée par la
 caisse des dépôts et consignations au vu des états prévus à l'article R. 351-45.
 
 Le règlement du solde de liquidation en faveur ou à la charge soit de la caisse nationale des allocations familiales, soit de
@@ -62084,9 +62053,10 @@ sociale.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 7 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62102,13 +62072,15 @@ sociale.
 ###### Article R351-45
 
 La caisse nationale des allocations familiales et la caisse centrale d'allocations familiales mutuelles agricoles font
-connaître à la caisse des dépôts et consignations :
+connaître au fonds national d'aide au logement :
 
 1. Au cours des quinze premiers jours du deuxième mois de chaque trimestre, le montant des sommes effectivement payées au
-titre de l'aide personnalisée au logement au cours du trimestre précédent ;
+titre  de l'aide personnalisée au logement et de l'allocation de logement relevant du titre III du livre VIII du code de la
+sécurité sociale au cours du trimestre précédent ;
 
 2. Au cours du premier trimestre de chaque année, le montant total des sommes effectivement payées au cours de l'année
-précédente au titre de l'aide personnalisée et des frais de gestion exposés pendant la même période.
+précédente au titre de l'aide personnalisée et de l'allocation de logement relevant du titre III du livre VIII du code de la
+sécurité sociale, ainsi qu'au titre des frais de gestion exposés pendant la même période.
 
 **Liens relatifs à cet article**
 
@@ -62119,6 +62091,11 @@ précédente au titre de l'aide personnalisée et des frais de gestion exposés 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 8 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62141,6 +62118,14 @@ familiales.
 
 Son secrétariat est assuré par les services départementaux du ministère chargé du logement.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -62149,7 +62134,7 @@ Son secrétariat est assuré par les services départementaux du ministère char
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62181,22 +62166,25 @@ des bénéficiaires d'aide à la personne défaillants.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 3 () JORF 29 mai 2005
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-748 du 6 juin 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation L351-14, R351-49, R351-50 à R351-51
-	  - Code de la construction et de l'habitation. - art. L351-14 (M)
-	  - Code de la construction et de l'habitation. - art. R351-49 (M)
+	  - Code de la construction et de l'habitation.
+	  - Code de la construction et de l'habitation. - art. L351-14
+	  - Code de la construction et de l'habitation. - art. R351-49
 
 	**Cité par**:
 
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (VT)
 	  - Code de la construction et de l'habitation. - art. R351-54 (Ab)
 	  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
@@ -62220,13 +62208,17 @@ d'information nécessaire ou, à l'initiative de son président, auditionner tou
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-748 du 6 juin 2016 - art. 9
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
 	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-52 (M)
+	  - Code de la construction et de l'habitation. - art. R351-52 (VT)
 	  - Code de la construction et de l'habitation. - art. R362-19 (M)
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
@@ -62260,7 +62252,7 @@ réception de ce document.
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62294,7 +62286,7 @@ logement compétente ainsi que l'adresse du secrétariat de cette commission.
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62330,18 +62322,22 @@ publiques au logement dans les conditions fixées au premier alinéa de l'articl
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-748 du 6 juin 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R142-1 (M)
-	  - Code de la construction et de l'habitation. - art. R351-47 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-50 (M)
-	  - Code de la construction et de l'habitation. - art. R351-51 (M)
+	  - Code de la sécurité sociale. - art. R142-1
+	  - Code de la construction et de l'habitation. - art. R351-47 (VT)
+	  - Code de la construction et de l'habitation. - art. R351-50 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-51 (VD)
 
 	**Cité par**:
 
@@ -62350,7 +62346,7 @@ publiques au logement dans les conditions fixées au premier alinéa de l'articl
 	  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers
+##### Section 4 : Dispositions particulières aux logements-foyers.
 
 ##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.
 
@@ -62385,7 +62381,7 @@ l'objet d'une convention, prévue à l'article L. 353-2, signée avant le 1er ja
 
 	**Modifié par**:
 
-	  - Décret n°94-1130 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62454,7 +62450,7 @@ de la construction.
 
 	**Modifié par**:
 
-	  - Décret n°85-977 1985-09-12 art. 1 JORF 17 septembre 1985
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62487,6 +62483,10 @@ titre V, chapitre III, section VII du présent livre.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
@@ -62513,7 +62513,7 @@ prévues au titre V, chapitre III, section VII du présent livre.
 
 	**Modifié par**:
 
-	  - Décret n°90-906 du 1 octobre 1990 - art. 2 () JORF 10 octobre 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62535,7 +62535,7 @@ des travailleurs migrants mentionnés aux 2° et 3° du deuxième alinéa de l'a
 
 	**Modifié par**:
 
-	  - Décret n°95-709 du 9 mai 1995 - art. 12 () JORF 11 mai 1995
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62567,7 +62567,7 @@ d) E0 représente l'équivalence de loyer et de charges locatives minima, telle 
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62620,11 +62620,6 @@ Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentair
 
 Le coefficient K est arrondi à deux décimales par défaut.
 
-**Nota:**
-
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -62645,7 +62640,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62679,8 +62674,8 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 **Nota:**
 
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
+Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues à
+compter du mois de juillet 2002.
 
 **Liens relatifs à cet article**
 
@@ -62700,7 +62695,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62729,11 +62724,6 @@ L'équivalence de loyer et de charges minima est déterminée pour chaque interv
 l'article R. 351-61. Les pourcentages et le coefficient N prévus au premier alinéa du présent article sont appliqués à la
 limite supérieure de l'intervalle dans lequel se situent les ressources appréciées conformément à l'article R. 351-5.
 
-**Nota:**
-
-NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du présent décret sont applicables aux prestations dues
-à compter du mois de juillet 2002.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -62751,7 +62741,7 @@ NOTA : Décret 2002-1537 du 23 décembre 2002 art. 3 : les dispositions du prés
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62795,7 +62785,7 @@ limite supérieure de l'intervalle dans lequel se situent les ressources appréc
 
 	**Modifié par**:
 
-	  - Décret n°2002-1537 du 23 décembre 2002 - art. 1 () JORF 28 décembre 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62833,9 +62823,9 @@ forfaitaire, il est appliqué au montant mensuel de l'aide personnalisée un aba
 
 	  - Arrêté du 30 juin 1979 - art. 5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-906 du 1 octobre 1990 - art. 5 () JORF 10 octobre 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62850,14 +62840,19 @@ forfaitaire, il est appliqué au montant mensuel de l'aide personnalisée un aba
 ###### Article R351-63
 
 L'aide personnalisée est versée au gestionnaire du logement-foyer selon les modalités techniques prévues par un avenant à la
-convention conclue entre le fonds national de l'habitation, d'une part, la caisse nationale des allocations familiales et la
-caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
+convention conclue entre le fonds national d'aide au logement, d'une part, la caisse nationale des allocations familiales et
+la caisse centrale d'allocations familiales mutuelles agricoles, d'autre part.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 9 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R351-64
@@ -62892,7 +62887,7 @@ jour de ses obligations.
 
 	**Modifié par**:
 
-	  - Décret n°2005-588 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -62916,6 +62911,10 @@ familiales.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R351-11 (M)
@@ -62934,7 +62933,7 @@ applicables aux personnes résidant dans un logement foyer.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1037 du 5 novembre 2001 - art. 6 () JORF 11 novembre 2001 en vigueur le 1er décembre 2001
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -62973,7 +62972,7 @@ d'habitations à loyer modéré doivent être conformes à l'une des conventions
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63007,7 +63006,7 @@ destinée à favoriser leur insertion sociale et leur promotion dans un habitat 
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63027,7 +63026,7 @@ remplissent les conditions d'octroi de cette aide.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-4
@@ -63061,8 +63060,7 @@ définies par arrêté du ministre chargé du logement.
 
 	**Modifié par**:
 
-	  - Décret n°2002-844 2002-05-03 art. 1 I, II, III, IV JORF 5 mai 2002
-	  - Décret n°2002-844 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63084,7 +63082,7 @@ que celle des éventuels avenants, se fait à l'initiative de l'administration. 
 
 	**Modifié par**:
 
-	  - Décret n°2002-844 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-6
@@ -63105,7 +63103,7 @@ durée des conventions.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -63125,7 +63123,7 @@ IV du livre IV sont prévues par la convention visée à l'article R. 353-1.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63150,7 +63148,7 @@ logements conventionnés est réservée principalement au profit de personnes ou
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63169,9 +63167,9 @@ liquidation et au versement de celle-ci, dans les conditions définies par la co
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-10
@@ -63188,7 +63186,7 @@ meublé, sous réserve des dispositions des articles L. 442-8-1 à L. 442-8-4.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63212,7 +63210,7 @@ financé à l'aide d'un prêt prévu à l'article R. 331-17.
 
 	**Modifié par**:
 
-	  - Décret n°2002-848 du 3 mai 2002 - art. 6 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -63238,7 +63236,7 @@ conditions fixées par la convention.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63327,9 +63325,13 @@ dessus.
 	  - Code de la construction et de l'habitation. - art. R353-99 (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-840 du 3 mai 2002 - art. 2, v. init.
+
 	**Modifié par**:
 
-	  - Décret n°2002-840 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-17
@@ -63344,9 +63346,13 @@ fixées par la convention. Le nouveau loyer doit être notifié au locataire dan
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-708 du 9 mai 1995 - art. 4 (V)
+
 	**Modifié par**:
 
-	  - Décret n°95-708 du 9 mai 1995 - art. 2 () JORF 11 mai 1995 en vigueur le 1er juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-18
@@ -63361,7 +63367,7 @@ Le loyer est payable par fraction mensuelle à terme échu, sauf disposition tra
 
 	**Modifié par**:
 
-	  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-19
@@ -63387,9 +63393,13 @@ la notification du loyer. Ce décompte doit être également remis à tout nouve
 
 	  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-708 du 9 mai 1995 - art. 4 (V)
+
 	**Modifié par**:
 
-	  - Décret n°95-708 du 9 mai 1995 - art. 3 () JORF 11 mai 1995 en vigueur le 1er juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-20
@@ -63403,9 +63413,9 @@ la présente convention et de ses avenants éventuels.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 2 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -63428,7 +63438,7 @@ son représentant.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 2 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-22
@@ -63444,7 +63454,7 @@ l'impôt et aux domaines.
 
 	**Modifié par**:
 
-	  - Décret n°99-864 du 7 octobre 1999 - art. 2 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).
@@ -63465,9 +63475,9 @@ annexe au présent code.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -63498,9 +63508,9 @@ structure de l'immeuble, ne peuvent répondre à l'ensemble desdites normes.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-35
@@ -63518,15 +63528,15 @@ remplissent les conditions d'octroi de cette aide.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-36
 
-Les conventions, qui ont une durée d'au moins neuf ans, prennent effet [*entrée en vigueur*] à leur date de publication au
-fichier immobilier ou d'inscription au livre foncier.
+Les conventions, qui ont une durée d'au moins neuf ans, prennent effet à leur date de publication au fichier immobilier ou
+d'inscription au livre foncier.
 
 Les conventions sont renouvelées par tacite reconduction pour des périodes triennales sous réserve de dénonciation expresse
 par l'une ou l'autre partie.
@@ -63547,9 +63557,9 @@ nouvelle convention peut être conclue dans les conditions prévues par la prés
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-37
@@ -63567,7 +63577,7 @@ d'occupation suffisante telles que définies par l'article L. 621-2.
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63582,8 +63592,8 @@ Au moins quinze jours avant la date de signature du bail en cas de vacance du lo
 locataire une lettre portant réservation du logement pendant un délai minimum de quinze jours. Dans le cas où le logement est
 disponible à plus brève échéance, ce délai peut être ramené à huit jours francs.
 
-Le bailleur est tenu [*obligation*] de proproser un bail conforme à la convention auquel sont annexés une copie de ladite
-convention ainsi que des éléments du barème de l'aide personnalisée au logement.
+Le bailleur est tenu de proproser un bail conforme à la convention auquel sont annexés une copie de ladite convention ainsi
+que des éléments du barème de l'aide personnalisée au logement.
 
 **Liens relatifs à cet article**
 
@@ -63595,9 +63605,9 @@ convention ainsi que des éléments du barème de l'aide personnalisée au logem
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-39
@@ -63631,7 +63641,7 @@ nouveau locataire est substitué de plein droit à l'ancien locataire.
 
 	**Modifié par**:
 
-	  - Décret n°80-429 1980-06-16 art. 1 JORF 18 juin 1980
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63661,7 +63671,7 @@ application des articles R. 353-16 et R. 331-10.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1403 du 23 décembre 2004 - art. 1 () JORF 28 décembre 2004
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63703,7 +63713,7 @@ fixée dans la convention et des indices des trois trimestres qui la précèdent
 
 	**Modifié par**:
 
-	  - Décret n°2004-1403 du 23 décembre 2004 - art. 2 () JORF 28 décembre 2004
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -63732,17 +63742,13 @@ quittance ou un reçu des sommes versées.
 
 	  - Décret n°77-1131 1977-10-04 art. 11
 
-	**Créé par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 3 juin 1978 rectificatif JORF 31 janvier 1979
-
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 	**Modifié par**:
 
-	  - Décret n°80-429 1980-06-16 art. 4 JORF 18 juin 1980
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-43
@@ -63761,9 +63767,9 @@ celui-ci. Elles fixent également les conditions dans lesquelles ce cautionnemen
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-44
@@ -63792,9 +63798,9 @@ leur sont présentées.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-45
@@ -63812,9 +63818,9 @@ constat est établi dans les mêmes conditions.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-46
@@ -63839,9 +63845,9 @@ Le bail prend effet à compter de la date d'achèvement des travaux.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63873,9 +63879,9 @@ Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948 modifiée
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-48
@@ -63883,8 +63889,8 @@ Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948 modifiée
 Les bailleurs sont tenus envers les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement
 de fournir toutes les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au
 logement, ainsi qu'à la liquidation et aux versements de celle-ci, dans les conditions définies par les directives du conseil
-de gestion du fonds national de l'habitation, conformément aux dispositions de la convention nationale prévue à l'article L.
-351-8.
+de gestion du fonds national d'aide au logement, conformément aux dispositions de la convention nationale prévue à l'article
+L. 351-8.
 
 **Liens relatifs à cet article**
 
@@ -63892,9 +63898,10 @@ de gestion du fonds national de l'habitation, conformément aux dispositions de 
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978 rectificatif JORF 31 JANVIER 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 9 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-49
@@ -63914,9 +63921,9 @@ plafond déterminé conformément à l'article R. 331-20.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63939,9 +63946,9 @@ centre d'hébergement ; elles fixent également les conditions d'exonération de
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978 rectificatif JORF 31 JANVIER 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63965,9 +63972,9 @@ principale.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -63999,9 +64006,9 @@ conditions prévues par les articles 5 ou 6 du décret n° 55-22 du 4 janvier 19
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-53
@@ -64025,9 +64032,9 @@ du 12 juillet 1967 sur l'amélioration de l'habitat.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-54
@@ -64050,9 +64057,9 @@ répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-55
@@ -64069,9 +64076,9 @@ Les conventions peuvent être révisées tous les trois ans à la demande de l'u
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-56
@@ -64091,9 +64098,9 @@ Elles fixent également les sanctions encourues pour non-respect des engagements
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64116,9 +64123,9 @@ de l'aide personnalisée au logement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.
@@ -64137,7 +64144,7 @@ doivent être conformes à l'annexe de l'article R. 353-59.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64187,7 +64194,7 @@ et 3 du I de l'article 278 sexies du code général des impôts ;
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64211,7 +64218,7 @@ remplissent les conditions d'octroi de cette aide.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-61
@@ -64261,7 +64268,7 @@ des conditions définies par arrêté du ministre chargé du logement.
 
 	**Modifié par**:
 
-	  - Décret n°2002-845 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-62
@@ -64277,7 +64284,7 @@ IV du livre IV sont prévues par la convention visée à l'article R. 353-59.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64298,7 +64305,7 @@ liquidation et au versement de celle-ci, dans les conditions définies par la co
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-64
@@ -64315,7 +64322,7 @@ passé avec le locataire un contrat conforme à l'article L. 443-1 du code de l'
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64339,7 +64346,7 @@ titre III du présent livre.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64359,7 +64366,7 @@ respectivement un contrat de location ou de sous-location conforme à la convent
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64393,7 +64400,7 @@ postérieure à la date d'expiration de la convention.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64414,7 +64421,7 @@ bénéficiaires du droit au maintien dans les lieux.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64440,7 +64447,7 @@ R. 353-67 doit en outre reproduire, en caractères très apparents, le texte int
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-70
@@ -64470,7 +64477,7 @@ n'entraîne pas de modification des modalités de fixation de leur loyer.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64498,7 +64505,7 @@ l'article 17 c de la loi modifiée du 6 juillet 1989, dans la limite du loyer ma
 
 	**Modifié par**:
 
-	  - Décret n°2002-845 du 3 mai 2002 - art. 2 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-72
@@ -64517,7 +64524,7 @@ la présente convention et de ses avenants éventuels.
 
 	**Modifié par**:
 
-	  - Décret n°2002-845 du 3 mai 2002 - art. 3 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64537,7 +64544,7 @@ l'impôt et aux domaines.
 
 	**Modifié par**:
 
-	  - Décret n°99-865 du 7 octobre 1999 - art. 1 () JORF 8 octobre 1999
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64560,7 +64567,7 @@ conventions types annexées à l'article R. 353-90.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64624,8 +64631,7 @@ propriété de logements sociaux et le développement de l'offre foncière ;
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
-	  - Décret n°2002-846 du 3 mai 2002 - art. 2 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64651,7 +64657,7 @@ remplissent les conditions d'octroi de cette aide.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64699,7 +64705,7 @@ d'impôt en application de l'article 284 (2° et 3°) du code général des imp�
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 3 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-93
@@ -64715,7 +64721,7 @@ ressources annuelles n'excèdent pas le plafond déterminé dans les conditions 
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64744,9 +64750,9 @@ conditions définies par arrêté du ministre chargé du logement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 4 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-94
@@ -64763,7 +64769,7 @@ formulaire de demande d'aide personnalisée au logement sont annexés au contrat
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64796,7 +64802,7 @@ effet à la date d'expiration de la convention ou à la date d'expiration du bai
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64837,7 +64843,7 @@ convention au fichier immobilier ou son inscription au livre foncier.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 5 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-97
@@ -64859,7 +64865,7 @@ notification aux intéressés dans les conditions fixées par les conventions.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 6 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64886,7 +64892,7 @@ du 12 juillet 1967.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-99
@@ -64908,7 +64914,7 @@ répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64935,7 +64941,7 @@ en outre reproduire, en caractères très apparents, le texte intégral de l'art
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -64947,8 +64953,8 @@ en outre reproduire, en caractères très apparents, le texte intégral de l'art
 Les bailleurs sont tenus envers les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement,
 de fournir toutes les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au
 logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les directives du conseil
-de gestion du Fonds national de l'habitation, conformément aux dispositions de la convention nationale prévue à l'article L.
-351-8.
+de gestion du Fonds national d'aide au logement, conformément aux dispositions de la convention nationale prévue à l'article
+L. 351-8.
 
 **Liens relatifs à cet article**
 
@@ -64958,7 +64964,8 @@ de gestion du Fonds national de l'habitation, conformément aux dispositions de 
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 9 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -64983,7 +64990,7 @@ immobilier (ou d'une inscription au livre foncier).
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-103
@@ -64999,7 +65006,7 @@ l'impôt aux domaines.
 
 	**Modifié par**:
 
-	  - Décret n°2002-846 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65019,6 +65026,10 @@ conventionnés, d'autre part, doivent être conformes aux conventions types anne
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65044,6 +65055,10 @@ dont les travaux sont financés à titre principal par le prêt conventionné (a
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65072,6 +65087,10 @@ structure de l'immeuble ne pourront répondre à l'ensemble desdites normes.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-129
 
@@ -65083,6 +65102,10 @@ remplissent les conditions d'octroi de cette aide.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-130
@@ -65103,6 +65126,10 @@ dans les conditions du présent décret.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-131
 
@@ -65119,7 +65146,7 @@ d'occupation suffisante, telles que définies par l'article L.621-2 du code de l
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65142,6 +65169,10 @@ que les éléments du barème de l'aide personnalisée au logement.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-133
 
@@ -65156,9 +65187,9 @@ dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du c
 Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment, sous réserve d'un préavis de trois
 mois ramené à un mois en cas de changement de résidence pour raisons professionnelles ou familiales graves.
 
-Le congé est donné par lettre recommandée [*condition de forme*] , le préavis partant de la date d'envoi et le cachet de la
-poste faisant foi. Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le bail produit effet jusqu'au
-dernier jour du mois.
+Le congé est donné par lettre recommandée , le préavis partant de la date d'envoi et le cachet de la poste faisant foi.
+Lorsque le délai de préavis vient à expiration dans le courant d'un mois, le bail produit effet jusqu'au dernier jour du
+mois.
 
 Sous réserve des dispositions de l'article R. 353-147 ci-dessous, en cas de vacance intervenant au cours d'une période
 triennale, le nouveau locataire est substitué de plein droit à l'ancien locataire.
@@ -65172,6 +65203,10 @@ ladite date d'expiration sous réserve qu'une nouvelle convention ne soit pas co
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65206,7 +65241,7 @@ modalités de fixation de leur loyer.
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 11 () JORF 25 juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65239,7 +65274,7 @@ fixée dans la convention et des indices des trois trimestres qui la précèdent
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 11 () JORF 25 juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65264,6 +65299,10 @@ versement de l'aide personnalisée au bailleur, également celui de cette aide.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-137
 
@@ -65276,6 +65315,10 @@ celui-ci. Elles fixent également les conditions dans lesquelles ce cautionnemen
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-138
@@ -65300,6 +65343,10 @@ leur sont présentées.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-139
 
@@ -65311,6 +65358,10 @@ constat est établi dans les mêmes conditions.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-140
@@ -65333,6 +65384,10 @@ travaux.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978)
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L353-7 (M)
@@ -65352,14 +65407,18 @@ considérations de sécurité, de salubrité, ou de mise aux normes minimales d'
 concernés un projet de bail, conforme aux dispositions prévues à l'alinéa 1er de l'article R. 353-140 ci-dessus, et entrant
 en vigueur après l'achèvement des travaux.
 
-Ce projet de bail [*contenu*] reproduit en caractère très apparents le texte intégral de l'article L. 353-8 et fait l'objet
-d'une notification aux intéressés dans les conditions fixées par les conventions.
+Ce projet de bail reproduit en caractère très apparents le texte intégral de l'article L. 353-8 et fait l'objet d'une
+notification aux intéressés dans les conditions fixées par les conventions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65387,6 +65446,10 @@ dessus doit en outre reproduire, en caractères trés apparents, le texte intég
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-143
 
@@ -65405,6 +65468,10 @@ n. 67-561 du 12 juillet 1967 susvisée.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-144
 
@@ -65422,20 +65489,29 @@ répondant aux conditions prévues par l'article 13 bis de la loi n° 48-1360 du
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-145
 
 Les bailleurs sont tenus envers les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement,
 de fournir toutes les informations et justifications nécessaires à l'établissement du droit à l'aide personnalisée au
 logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les conditions définies par les directives du conseil
-de gestion du fonds national de l'habitation, conformément aux dispositions de la convention nationale prévue à l'article L.
-351-8 du code précité.
+de gestion du fonds national d'aide au logement, conformément aux dispositions de la convention nationale prévue à l'article
+L. 351-8 du code précité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 9 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65454,6 +65530,10 @@ descendants, à titre de résidence principale, les logements conventionnés.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65477,6 +65557,10 @@ par les articles 5 ou 6 du décret n° 55-22 du 4 janvier 1955 modifié.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R353-133 (V)
@@ -65498,6 +65582,10 @@ décembre 1975 et son décret d'application, dans les conditions définies par l
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65522,6 +65610,10 @@ régie par les articles L. 353-1 à L. 353-13 du code précité.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-150
 
@@ -65533,6 +65625,10 @@ la demande de l'une ou l'autre partie. Les frais de publication sont pris en cha
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65552,6 +65648,10 @@ Elles fixent également les sanctions encourues pour non-respect des engagements
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L353-6 (V)
@@ -65559,15 +65659,19 @@ Elles fixent également les sanctions encourues pour non-respect des engagements
 
 ###### Article R353-152
 
-Le ministre chargé du logement ou son représentant s'assure de la publication des conventions au fichier immobilier ou de
-leur inscription au livre foncier, et en informe les organismes chargés de la liquidation et du paiement de l'aide
-personnalisée au logement.
+Le ministre chargé du logement ou son représentant s'assure de la publication des conventions au fichier imobilier ou de leur
+inscription au livre foncier, et en informe les organismes chargés de la liquidation et du paiement de l'aide personnalisée
+au logement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°)
@@ -65588,7 +65692,7 @@ chapitre 1er du présent titre, sous réserve des dispositions de la présente s
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65622,7 +65726,7 @@ accessoire à un contrat de travail.
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65643,7 +65747,7 @@ logement, est assimilable au loyer et aux charges locatives.
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65673,7 +65777,7 @@ Elle est calculée sur la base de deux éléments équivalents l'un au loyer, l'
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65714,7 +65818,7 @@ civil.
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65740,7 +65844,7 @@ socio-éducative, au fonctionnement du centre de soins et au service de blanchis
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65767,7 +65871,7 @@ montant est établi en appliquant à la redevance un abattement forfaitaire dont
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65790,7 +65894,7 @@ La convention conclue par application de l'article L. 353-2 du code de la constr
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65813,7 +65917,7 @@ L'article L. 353-3 du code précité n'est pas applicable aux conventions conclu
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65835,7 +65939,7 @@ signature de celle-ci.
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-164
@@ -65859,7 +65963,7 @@ Cette disposition ne fait pas obstacle à la signature d'une nouvelle convention
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -65897,16 +66001,20 @@ convention s'appliquent de plein droit, sous réserve des contrats en cours.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L353-7 (M)
-	  - Code de la construction et de l'habitation. - art. L353-8 (V)
+	  - Code de la construction et de l'habitation. - art. L353-7
+	  - Code de la construction et de l'habitation. - art. L353-8
 
 	**Anciens textes**:
 
@@ -65929,7 +66037,7 @@ sous réserve des dispositions de la présente sous-section.
 
 	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65967,9 +66075,9 @@ conditions définies à l'article R. 353-165-10 ; il ne peut être accessoire à
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -65992,13 +66100,17 @@ article.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2
 
 	**Cité par**:
 
@@ -66020,9 +66132,13 @@ Elle est calculée sur la base de deux éléments équivalant l'un au loyer, l'a
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ###### Article R353-165-4
@@ -66077,20 +66193,24 @@ La liste de ces charges est fixée dans la convention type.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 1719 (M)
-	  - Code civil - art. 1720 (V)
-	  - Code civil - art. 1721 (V)
-	  - Code civil - art. 1754 (V)
-	  - Code civil - art. 1755 (V)
-	  - Code civil - art. 606 (V)
+	  - Code civil - art. 1719
+	  - Code civil - art. 1720
+	  - Code civil - art. 1721
+	  - Code civil - art. 1754
+	  - Code civil - art. 1755
+	  - Code civil - art. 606
 
 	**Cité par**:
 
@@ -66113,9 +66233,13 @@ modifications ne peuvent conduire à remettre en cause les engagements pris dans
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cité par**:
 
@@ -66137,9 +66261,13 @@ différents documents destinés au suivi de l'exécution de la convention, et me
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ###### Article R353-165-7
@@ -66152,13 +66280,17 @@ Les dispositions de l'article L. 353-17 sont applicables aux conventions conclue
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L353-17 (V)
+	  - Code de la construction et de l'habitation. - art. L353-17
 
 
 ###### Article R353-165-8
@@ -66171,9 +66303,13 @@ La convention conclue dans les conditions de la présente sous-section est commu
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ###### Article R353-165-9
@@ -66189,15 +66325,19 @@ est signé avec un nouveau gestionnaire bénéficiant d'un agrément.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R353-165-1 (M)
+	  - Code de la construction et de l'habitation. - art. R353-165-1
 
 
 ###### Article R353-165-10
@@ -66215,11 +66355,15 @@ dispositions de la convention s'appliquent de plein droit, sous réserve des con
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ###### Article R353-165-11
@@ -66239,9 +66383,13 @@ grave ou répété au règlement intérieur ;
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ###### Article R353-165-12
@@ -66261,11 +66409,15 @@ redevance applicable dès l'achèvement des travaux.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-622 du 31 mai 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
 
 
 ##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).
@@ -66281,6 +66433,10 @@ reproduite en annexe du présent code.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66299,6 +66455,10 @@ avant leur date d'expiration.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66323,7 +66483,7 @@ l'article R. 331-20.
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66356,6 +66516,10 @@ de location, le nouveau locataire est substitué de plein droit à l'ancien loca
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-41 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-170
 
@@ -66366,6 +66530,10 @@ Le locataire peut donner congé à tout moment, dans les conditions définies pa
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R353-171
@@ -66378,6 +66546,10 @@ ne peut être supérieur à deux mois de loyer en principal.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66395,6 +66567,10 @@ ainsi que les conditions de son évolution, sont fixés par la convention.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66419,6 +66595,10 @@ la convention et dans la limite des dispositions prises en application du titre 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. R331-41 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article R353-174
 
@@ -66429,6 +66609,10 @@ Le loyer est payable par fraction mensuelle à terme échu.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -66452,6 +66636,10 @@ au versement de celle-ci, dans les conditions définies par la convention.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
@@ -66468,6 +66656,10 @@ Les conventions peuvent être révisées à la demande de l'une ou l'autre parti
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
@@ -66483,6 +66675,10 @@ La convention fixe les sanctions encourues pour le non-respect des engagements c
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66502,7 +66698,7 @@ Le préfet s'assure de la publication des conventions au fichier immobilier ou d
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66527,6 +66723,10 @@ obtenu de la collectivité locale la garantie de l'équilibre d'exploitation du 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66553,6 +66753,10 @@ b) Soit pour leur acquisition et amélioration.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R353-189, R331-1 à R331-31
@@ -66576,6 +66780,10 @@ R. 353-83 à R. 353-88 sont applicables à la convention annexée à l'article R
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation R353-60 à R353-61, R353-66 à R353-68, R353-70 à R353-76, R353-79 à R353-81, R353-83 à R353-88, R353-190
@@ -66592,6 +66800,10 @@ prévues par la convention type annexée à l'article R. 353-190.
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66613,6 +66825,10 @@ de logement déposées à la mairie du domicile du demandeur ou auprès des bail
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R353-196 (V)
@@ -66628,6 +66844,10 @@ ressources sont inférieures à un montant déterminé par le préfet. Ce pource
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -66646,6 +66866,10 @@ annuelles n'excèdent pas le plafond déterminé dans les conditions prévues pa
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66672,6 +66896,10 @@ au plafond de ressources prévu à l'article R. 331-20.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. R331-20 (M)
@@ -66696,6 +66924,10 @@ Pour les logements mentionnés à l'article R. 353-190 b) le bail prend effet à
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66726,6 +66958,10 @@ notification aux intéressés dans les conditions fixées par les conventions.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de l'urbanisme 269
@@ -66751,6 +66987,10 @@ en outre, reproduire, en caractère très apparents, le texte intégral de l'art
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+	**Modifié par**:
+
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 
 ##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.
 
@@ -66772,9 +67012,9 @@ Les conventions ne peuvent être conclues que pour des logements vacants.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -66793,9 +67033,9 @@ avant leur date d'expiration.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66819,7 +67059,7 @@ l'article R. 331-42.
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -66838,9 +67078,9 @@ Le bailleur est tenu de proposer au locataire un contrat de location conforme à
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66871,9 +67111,9 @@ aux locataires.
 	  - Loi n°82-526 1982-06-22 art. 18
 	  - Code de la construction et de l'habitation. - art. L353-15 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66891,9 +67131,9 @@ conditions fixées par la convention.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66910,9 +67150,9 @@ Le locataire peut donner congé à tout moment, dans les conditions définies pa
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66930,9 +67170,9 @@ ne peut être supérieur à deux mois de loyer en principal.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66954,7 +67194,7 @@ convention.
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 13 () JORF 25 juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -66991,7 +67231,7 @@ fixées par la convention et dans la limite des dispositions prises en applicati
 
 	**Modifié par**:
 
-	  - Décret n°96-656 du 22 juillet 1996 - art. 13 () JORF 25 juillet 1996
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -67008,9 +67248,9 @@ Le loyer est payable par fraction mensuelle à terme échu.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -67029,9 +67269,9 @@ liquidation et au versement de celle-ci, dans les conditions définies par la co
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -67048,9 +67288,9 @@ Les conventions peuvent être révisées à la demande de l'une ou l'autre parti
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -67067,9 +67307,9 @@ La convention fixe les sanctions encourues pour le non-respect des engagements c
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
@@ -67086,17 +67326,58 @@ Le préfet s'assure de la publication des conventions au fichier immobilier ou d
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Créé par**:
-
-	  - Décret n°83-1001 1983-11-22 ART. 1 JORF 23 NOVEMBRE 1983
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2005-1733 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
+
+
+### Titre V : Aide personnalisée au logement
+
+#### Chapitre Ier : Dispositions générales
+
+##### Section 1 : Aide personnalisée
+
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement
+
+###### Article R351-20
+
+Les loyers et mensualités de référence ainsi que le montant forfaitaire des charges sont fixés par arrêté conjoint des
+ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+
+Les zones géographiques à l'intérieur desquelles sont déterminés les loyers et mensualités de référence sont fixées par
+arrêté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-784 1977-07-13 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 3 juillet 1978 - art. 10 ter (M)
+	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
+	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
+	  - Arrêté du 14 août 1987 - art. 13 (T)
+	  - Arrêté du 18 juillet 1990 - art. 1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
+	  - Code de la construction et de l'habitation. - art. R351-18 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
+
+	**Abrogé par**:
+
+	  - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
 ### Titre VI : Organismes consultatifs.
@@ -68214,15 +68495,26 @@ collège des maires du département, à la représentation proportionnelle à la
 correspondance. Le collège des maires est convoqué par le préfet. Un arrêté préfectoral règle dans chaque département les
 modalités d'application du présent alinéa.
 
+Le conseil départemental de l'habitat se réunit en séance plénière au moins une fois par an sur convocation de son président.
+
+Le président peut inviter à assister à toute séance toute personne dont l'audition lui paraît utile.
+
+En cas de partage égal des voix au sein du conseil départemental de l'habitat ou du bureau, la voix du président est
+prépondérante.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en mars 2015 à l’occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
+	  - Décret n°2005-1788 du 29 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -77741,95 +78033,6 @@ contrat, le montant total des sommes effectivement versées et, le cas échéant
 
 	  - Code de la construction et de l'habitation. - art. R433-17 (Ab)
 	  - Code de la construction et de l'habitation. - art. R433-5 (V)
-
-
-###### Article R433-8
-
-Les personnes physiques ou morales en état de liquidation judiciaire et les personnes physiques dont la faillite personnelle
-a été prononcée, ainsi que les personnes faisant l'objet d'une procédure équivalente régie par un droit étranger ne sont pas
-admises à soumissionner pour les contrats entrant dans le champ d'application défini à l'article R. 433-5. Aucun de ces
-contrats ne peut leur être attribué. Les personnes physiques ou morales admises au redressement judiciaire doivent justifier
-qu'elles ont été habilitées à poursuivre leur activité pendant la durée prévisible d'exécution du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Modifié par**:
-
-	  - Décret n°93-746 1993-03-27 art. 2, art. 3 JORF 30 mars 1993 en vigueur le 1er septembre 1993
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-9 (MMN)
-
-
-###### Article R433-9
-
-A l'appui des candidatures ou des offres pour les contrats entrant dans le champ d'application défini à l'article R. 433-5,
-il ne peut être exigé que :
-
-1° Des renseignements ou pièces relatives à la nature et aux conditions générales d'exploitation de l'entreprise, à ses
-moyens techniques, à ses références, aux pouvoirs de la personne habilitée pour l'engager ;
-
-2° Si le candidat est en redressement judiciaire, la copie du ou des jugements prononcés à cet effet ;
-
-3° La déclaration que le candidat ne tombe pas sous le coup des interdictions mentionnées à l'article R. 433-8, ou à
-l'article 50 de la loi n° 52-401 du 14 avril 1952, modifié par l'article 56 de la loi n° 78-753 du 17 juillet 1978, ou d'une
-interdiction équivalente prononcée dans un autre pays ;
-
-4° Les attestations des administrations comptables et organismes chargés de l'assiette et du recouvrement des impôts et
-cotisations concernées, permettant de justifier que le candidat a satisfait à l'ensemble des obligations définies à l'article
-39 de la loi n° 54-404 du 13 avril 1954, modifiée par l'article 56 de l'ordonnance n° 58-1372 du 29 décembre 1958 et par
-l'article 56 de la loi n° 78-753 du 17 juillet 1978 ;
-
-5° Les documents ou attestations figurant à l'article R. 324-4 du code du travail;
-
-6° L'attestation sur l'honneur que le candidat n'a pas fait l'objet, au cours des cinq dernières années, d'une condamnation
-inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L.
-125-1 et L. 125-3 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°52-401 du 14 avril 1952 - art. 50 (V)
-	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 56 ()
-	  - Loi n°78-753 1978-07-17 art. 56
-	  - Code du travail - art. L125-1 (M)
-	  - Code du travail - art. L125-3 (M)
-	  - Code du travail - art. L324-10 (M)
-	  - Code du travail - art. L324-9 (M)
-	  - Code du travail - art. L341-6 (M)
-	  - Code du travail - art. R324-4 (M)
-	  - Code de la construction et de l'habitation. - art. R433-5 (M)
-	  - Code de la construction et de l'habitation. - art. R433-8 (M)
-	  - Loi n°54-404 1954-04-13 art. 39
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°97-638 du 31 mai 1997 - art. 7 () JORF 1er juin 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-746 1993-03-27 art. 1er
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R433-10 (M)
-	  - Code de la construction et de l'habitation. - art. R433-11 (M)
-	  - Code de la construction et de l'habitation. - art. R433-23 (M)
-	  - Code de la construction et de l'habitation. - art. R433-37 (Ab)
 
 
 ###### Article R433-10
