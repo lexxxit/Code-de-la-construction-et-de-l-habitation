@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-02-02
 
 # Partie législative
 
@@ -51850,6 +51850,54 @@ réalisation.
 
 ##### Section 1 : Conditions d'attribution de l'avance.
 
+###### Article R318-4
+
+L'emprunteur doit, au moment de la demande d'avance, fournir les pièces justificatives attestant de son lieu de résidence
+principale et apporter la preuve qu'il n'en a pas été propriétaire au cours des deux dernières années précédant l'offre
+d'avance.
+
+L'attribution de l'avance est déterminée en fonction du montant total des ressources de l'ensemble des personnes destinées à
+occuper le logement financé, du nombre de ces personnes et de la localisation du logement selon les zones A, B ou C
+mentionnées aux articles 2 duodecies, 2 duodecies A et 2 terdecies A de l'annexe III au code général des impôts.
+
+Le montant total de ces ressources ne peut excéder les plafonds suivants :
+
+(Tableau non reproduit)
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 7 (Ab)
+	  - Arrêté du 6 août 1993 - art. 6 (Ab)
+	  - Arrêté du 29 avril 1997 - art. 2 (V)
+	  - Arrêté du 31 janvier 2005 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. *R318-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*318-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*318-15 (V)
+	  - Code de la construction et de l'habitation. - art. R318-25 (V)
+	  - Code de la construction et de l'habitation. - art. R318-26 (V)
+	  - Code de la construction et de l'habitation. - art. R318-29 (V)
+	  - Code de la construction et de l'habitation. - art. R318-5 (V)
+	  - Code de la construction et de l'habitation. - art. R318-7 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+	**Cite**:
+
+	  - CGIAN3 2 duodecies, 2 duodecies A, 2 terdecies A
+
+	**Modifié par**:
+
+	  - Décret n°2006-93 du 31 janvier 2006 - art. 1 () JORF 2 février 2006
+
+
 ###### Article R318-5
 
 Pour l'application des plafonds fixés à l'article R. 318-4, les ressources de l'emprunteur sont appréciées en prenant en
@@ -67333,51 +67381,6 @@ Le préfet s'assure de la publication des conventions au fichier immobilier ou d
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
-
-
-### Titre V : Aide personnalisée au logement
-
-#### Chapitre Ier : Dispositions générales
-
-##### Section 1 : Aide personnalisée
-
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement
-
-###### Article R351-20
-
-Les loyers et mensualités de référence ainsi que le montant forfaitaire des charges sont fixés par arrêté conjoint des
-ministres chargés des finances, de la construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-Les zones géographiques à l'intérieur desquelles sont déterminés les loyers et mensualités de référence sont fixées par
-arrêté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-784 1977-07-13 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Cité par**:
-
-	  - Arrêté du 3 juillet 1978 - art. 10 ter (M)
-	  - Arrêté du 3 juillet 1978 - art. 11 octies (M)
-	  - Décret n°86-172 du 5 février 1986 - art. 6 (V)
-	  - Arrêté du 14 août 1987 - art. 13 (T)
-	  - Arrêté du 18 juillet 1990 - art. 1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-17-2 (M)
-	  - Code de la construction et de l'habitation. - art. R351-18 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 14 août 1987 - art. 13 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
 ### Titre VI : Organismes consultatifs.
