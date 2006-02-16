@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-02-02
+Version Consolidée au 2006-02-17
 
 # Partie législative
 
@@ -34358,6 +34358,13 @@ fonctionnement.
 L'établissement doit être doté de dispositifs d'alarme et d'avertissement, d'un service de surveillance et de moyens de
 secours contre l'incendie appropriés aux risques.
 
+Les établissements situés, même partiellement, en infrastructure, quel que soit leur type, doivent permettre aux services
+publics qui concourent aux missions de sécurité civile d'assurer la continuité de leurs communications radioélectriques avec
+les moyens propres à ces services, en tout point de l'établissement.
+
+Les établissements ouverts au public à la date de publication du décret n° 2006-165 du 10 février 2006 doivent se conformer à
+cette obligation dans un délai de trois ans à compter de cette date.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -34370,6 +34377,14 @@ secours contre l'incendie appropriés aux risques.
 	  - Arrêté du 25 juin 1980 - art. MS 45 (VD)
 	  - Arrêté du 22 décembre 2008 (V)
 	  - Code de la construction et de l'habitation. - art. R*152-6 (V)
+
+	**Cite**:
+
+	  - Décret n°2006-165 2006-02-10
+
+	**Modifié par**:
+
+	  - Décret n°2006-165 du 10 février 2006 - art. 1 () JORF 17 février 2006
 
 	**Anciens textes**:
 
