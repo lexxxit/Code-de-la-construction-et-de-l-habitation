@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-03-23
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -8786,7 +8786,7 @@ laquelle le vendeur peut être déchargé des vices apparents."
 
 ###### Article L261-8
 
-Ainsi qu'il est dit à l'article 2108-1 du code civil :
+Ainsi qu'il est dit à l'article 2380 du code civil :
 
 "Dans le cas de vente d'un immeuble à construire conclue à terme conformément à l'article 1601-2, le privilège du vendeur ou
 celui du prêteur de deniers prend rang à la date de l'acte de vente si l'inscription est prise avant l'expiration d'un délai
@@ -8797,6 +8797,14 @@ de deux mois à compter de la constatation par acte authentique de l'achèvement
 	**Codifié par**:
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2380 (V)
 
 
 ###### Article L261-9
@@ -14425,11 +14433,11 @@ articles ci-dessus de la présente section.
 
 ###### Article L315-28
 
-Par dérogation aux articles 2132 et 2148 (4) du Code civil les hypothèques constituées pour la sûreté des prêts ou crédits
-revalorisables consentis dans les conditions prévues aux articles précédents garantissent, à tout moment, le montant intégral
-de la créance de l'établissement prêteur, sous réserve que l'inscription mentionne le montant originaire de la créance, ainsi
-que la clause de revalorisation contenue dans le contrat de prêt. L'inscription doit, en outre, préciser qu'elle est requise
-en vertu du présent article.
+Par dérogation aux articles 2132 (abrogé) et 2428 du Code civil les hypothèques constituées pour la sûreté des prêts ou
+crédits revalorisables consentis dans les conditions prévues aux articles précédents garantissent, à tout moment, le montant
+intégral de la créance de l'établissement prêteur, sous réserve que l'inscription mentionne le montant originaire de la
+créance, ainsi que la clause de revalorisation contenue dans le contrat de prêt. L'inscription doit, en outre, préciser
+qu'elle est requise en vertu du présent article.
 
 Les dispositions qui précèdent s'appliquent dans tous les cas où les prêts ou crédits consentis s'accompagnent d'une clause
 de revalorisation, à condition que l'inscription précise qu'elle a été prise en vertu du présent article.
@@ -14438,16 +14446,20 @@ de revalorisation, à condition que l'inscription précise qu'elle a été prise
 
 	**Codifié par**:
 
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+	  - Décret n°78-621 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 2132 (Ab)
-	  - Code civil 2148 4
+	  - Code civil - art. 2132
+	  - Code civil - art. 2428
 
 	**Anciens textes**:
 
@@ -29036,17 +29048,17 @@ prévues à l'article L. 651-3.
 
 Le montant de l'indemnité d'occupation est fixé, dans la limite du prix licite en matière de loyer, par accord amiable entre
 le bénéficiaire et le prestataire, ou à défaut d'un tel accord, selon la procédure prévue au chapitre V du titre Ier de la
-loi n. 48-1360 du 1er septembre 1948 précitée, à la requête de la partie la plus diligente.
+loi n° 48-1360 du 1er septembre 1948 précitée, à la requête de la partie la plus diligente. 
 
 L'indemnité d'occupation est réglée directement suivant les usages des lieux au prestataire par le bénéficiaire. Son
-recouvrement est garanti par le privilège de l'article 2102, 1er alinéa, du code civil.
+recouvrement est garanti par le privilège de l'article 2332, 1er alinéa, du code civil.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01
-	  - Code civil 2102 AL. 1
+	  - Loi n°48-1360 du 1 septembre 1948 (V)
+	  - Code civil - art. 2332 (V)
 
 	**Codifié par**:
 
@@ -29054,7 +29066,7 @@ recouvrement est garanti par le privilège de l'article 2102, 1er alinéa, du co
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -74750,7 +74762,7 @@ Il est qualifié pour recevoir tous exploits et significations concernant l'offi
 423-55.
 
 L'hypothèque légale attribuée aux droits et créances de l'établissement sur les biens du comptable par application de
-l'article 2121 du code civil est inscrite, le cas échéant, à la diligence du président du conseil d'administration.
+l'article 2400 du code civil est inscrite, le cas échéant, à la diligence du président du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -74760,12 +74772,16 @@ l'article 2121 du code civil est inscrite, le cas échéant, à la diligence du 
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 12 () JORF 15 septembre 1988
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 2121 (T)
-	  - Code de la construction et de l'habitation. - art. R423-55 (M)
+	  - Code civil - art. 2400
+	  - Code de la construction et de l'habitation. - art. R423-55
 
 	**Cité par**:
 
