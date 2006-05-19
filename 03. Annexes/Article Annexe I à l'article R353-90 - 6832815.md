@@ -3,7 +3,9 @@
 Convention type conclue entre l'Etat et ... (1) en application de l'article L. 351-2 (3°) du code de la construction et de
 l'habitation pour le programme de ....
 
-Le ministre de l'équipement, du logement, des transports et du tourisme, agissant au nom de l'Etat, représenté par le préfet,
+Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le préfet, ou, lorsqu'un établissement public de
+coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le
+président de l'établissement public de coopération intercommunale ou du conseil général,
 
 D'une part,
 
@@ -68,11 +70,12 @@ La présente convention ainsi que ses avenants éventuels prennent effet à la d
 Elle expire le 30 juin ....
 
 La convention est renouvelée par tacite reconduction par périodes triennales prenant effet à compter de leur date
-d'expiration, sauf résiliation expresse notifiée six mois avant cette date. La résiliation à l'initiative du bailleur est
-effectuée par acte authentique ou administratif ; la décision de résiliation de l'Etat est prise par arrêté préfectoral,
-notifiée au bailleur.
+d'expiration, sauf résiliation expresse notifiée six mois avant cette date. La résiliation à l'initiative de l'une des
+parties est effectuée par acte authentique ou par acte administratif.
 
-Quelle que soit la partie à l'initiative de la résiliation, le préfet publie la résiliation au fichier immobilier ou
+Quelle que soit la partie à l'initiative de la résiliation, le préfet, ou, lorsqu'un établissement public de coopération
+intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, le président de
+l'établissement public de coopération intercommunale ou du conseil général, publie la résiliation au fichier immobilier ou
 l'inscrit au livre foncier, par acte authentique ou administratif. Les frais correspondants sont à la charge du bailleur.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer l'opération ainsi que le reversement d'un complément
@@ -131,8 +134,9 @@ Si la gestion n'est pas directement assurée par le bailleur, celui-ci la fait a
 conditions définies par l'arrêté du 9 mars 1978 portant agrément des personnes ou organismes habilités à gérer des logements
 faisant l'objet d'une convention.
 
-Le bailleur informe le préfet, les organismes chargés de la liquidation et du paiement de l'APL pour le compte de l'Etat et
-les locataires de la mise en gestion du programme ou de tout changement de gestionnaire.
+Le bailleur informe le préfet, et, le cas échéant, le président de l'établissement public de coopération intercommunale ou le
+président du conseil général partie à la présente convention, les organismes chargés de la liquidation et du paiement de
+l'APL pour le compte de l'Etat et les locataires de la mise en gestion du programme ou de tout changement de gestionnaire.
 
 Article 7.
 
@@ -144,9 +148,8 @@ expiration.
 Les logements sont loués non meublés à des personnes physiques, à titre de résidence principale, et occupés au moins huit
 mois par an. Ils ne peuvent faire l'objet de sous-location, sauf dans les conditions prévues par l'article L. 353-20 du code
 de la construction et de l'habitation ainsi qu'au profit de personnes ayant passé avec le locataire un contrat conforme à
-l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre
-onéreux, de personnes âgées ou handicapées adultes. Ils ne peuvent être occupés à titre d'accessoire d'un contrat de travail
-ou en raison de l'exercice d'une fonction.
+l'article L. 442-1 du code de l'action sociale et des familles. Ils ne peuvent être occupés à titre d'accessoire d'un contrat
+de travail ou en raison de l'exercice d'une fonction.
 
 Ils ne peuvent être loués ou occupés à quelque titre que ce soit ni par les ascendants ou les descendants, ni par ceux du
 conjoint, ni par le conjoint du signataire de la convention.
@@ -210,10 +213,12 @@ Article 11.
 
 Information des locataires en cas de changement de propriétaire.
 
-En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du représentant de l'Etat dans le département, des
-locataires et des organismes liquidateurs de l'APL, le ou les nouveaux propriétaires leur font connaître leur identification
-dans les conditions conformes soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre
-recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
+En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet, ou, lorsqu'un établissement public de
+coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, du
+président de l'établissement public de coopération intercommunale ou du conseil général, des locataires et des organismes
+liquidateurs de l'APL, le ou les nouveaux propriétaires leur font connaître leur identification dans les conditions conformes
+soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée avec demande
+d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
 
 Article 12.
 
@@ -257,8 +262,8 @@ au locataire dans le délai d'un mois.
 
 En cas d'impayé de loyer, le bailleur doit poursuivre le recouvrement de sa créance en notifiant au locataire défaillant par
 lettre recommandée avec accusé de réception le montant de cette créance. Il doit également informer le locataire, lorsque
-celui-ci est bénéficiaire d'APL, de la saisine de la section des aides publiques au logement du conseil départemental de
-l'habitat visée à l'article 17 de la présente convention en cas de non-règlement de la dette.
+celui-ci est bénéficiaire d'APL, de la saisine de la commission départementale des aides publiques au logement visée à
+l'article 17 de la présente convention en cas de non-règlement de la dette.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière mentionnée à l'article 116 de la loi de finances pour
 2002 (loi n° 2001-1275 du 28 décembre 2001) ou à l'une de ses filiales, et que le locataire bénéficie de l'aide personnalisée
@@ -274,8 +279,8 @@ Dépôt de garantie.
 Le dépôt de garantie stipulé le cas échéant par le contrat de location pour garantir l'exécution de ses obligations locatives
 par le locataire ne peut être supérieur à deux mois de loyer en principal.
 
-IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'APL et à l'égard de la section des
-aides publiques au logement.
+IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'APL et à l'égard de la commission
+départementale des aides publiques au logement.
 
 Article 16.
 
@@ -292,25 +297,25 @@ année pour permettre le renouvellement des droits à l'APL qui a lieu à cette 
 
 Un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou le cas échéant la
 liste des bénéficiaires d'APL non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la
-date à laquelle la section des aides publiques au logement du conseil départemental de l'habitat prévue à l'article R. 351-47
-du CCH a été saisie en cas d'impayé constitué au sens de l'article R. 351-30 du même code.
+date à laquelle la commission départementale des aides publiques au logement prévue à l'article R. 351-47 du CCH a été saisie
+en cas d'impayé constitué au sens de l'article R. 351-30 du même code.
 
 3° En outre, il fait part dans un délai maximum d'un mois aux organismes liquidateurs de l'APL des modifications affectant la
 situation locative du bénéficiaire (notamment colocation, résiliation de bail, décès).
 
 Article 17.
 
-Obligations à l'égard de la section des aides publiques au logement du conseil départemental de l'habitat (SDAPL).
+Obligations à l'égard de la commission départementale des aides publiques au logement (CDAPL).
 
 Le bailleur percevant l'APL pour le compte du locataire saisit en application des articles R. 351-30 et R. 351-64 du code de
-la construction et de l'habitation la section des aides publiques au logement du conseil départemental de l'habitat (SDAPL)
-dès qu'un impayé de loyer est constitué en justifiant des démarches entreprises auprès du locataire défaillant. En outre, il
-lui communique le montant de l'impayé constitué au moment de la saisine.
+la construction et de l'habitation la commission départementale des aides publiques au logement (CDAPL) dès qu'un impayé de
+loyer est constitué en justifiant des démarches entreprises auprès du locataire défaillant. En outre, il lui communique le
+montant de l'impayé constitué au moment de la saisine.
 
-Il fournit également à la SDAPL copie du bail lorsque celle-ci le lui demande et l'informe lorsqu'une procédure d'expulsion
+Il fournit également à la CDAPL copie du bail lorsque celle-ci le lui demande et l'informe lorsqu'une procédure d'expulsion
 d'un bénéficiaire d'APL est engagée pour non-paiement du loyer.
 
-La SDAPL décide du maintien ou de la suspension de l'APL et en informe le bailleur et le bénéficiaire.
+La CDAPL décide du maintien ou de la suspension de l'APL et en informe le bailleur et le bénéficiaire.
 
 V. - Dispositions relatives à l'application des conventions.
 
@@ -383,11 +388,15 @@ Article 20.
 Publication.
 
 La publication de la convention, de ses éventuels avenants et de sa résiliation au fichier immobilier ou leur inscription au
-livre foncier incombe au préfet. Les frais de publication sont à la charge du bailleur.
+livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé
+une convention mentionnée aux articles L. 301-5-1 et L.301-5-2, au président de l'établissement public de coopération
+intercommunale ou du conseil général. Les frais de publication sont à la charge du bailleur.
 
-Le préfet transmet aux organismes chargés de la liquidation et du paiement de l'APL une photocopie de la présente convention,
-de ses avenants éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au fichier
-immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention
+mentionnée aux articles L. 301-5-1 et L. 301-5-2, le président de l'établissement public de coopération intercommunale ou du
+conseil général, transmet aux organismes chargés de la liquidation et du paiement de l'APL une photocopie de la présente
+convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au
+fichier immobilier (ou d'une inscription au livre foncier).
 
 Article 21.
 
@@ -398,7 +407,8 @@ d'avenant. Les frais de publication sont pris en charge par la partie qui sollic
 
 Fait en quatre originaux à ..., le ....
 
-Le bailleur (4), le préfet.
+Le bailleur (4), le préfet, le président de l'établissement public de coopération intercommunale ou le président du conseil
+général.
 
 Article 22.
 
@@ -425,11 +435,205 @@ l'article R. 353-16 :
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 
-Désignation des logements, surface habitable (article R. 111-2), surface réelle des annexes, surface utile (surface habitable
-augmentée de 50 % de la surface des annexes), loyer maximum en euros par mètre carré de surface utile (*), coefficient propre
-au logement, loyer maximum du logement en euros (colonne 4 x colonne 5 x colonne 6) (+). Total.
+<table>
+  <thead>
+    <tr>
+      <td width="65">
 
-(+) Les variations prévues à l'article 8 de la convention, selon les ressources des locataires, sont susceptibles de
+DÉSIGNATION des logements
+
+</td>
+      <td width="65">
+
+SURFACE habitable (article R. 111-2)
+
+</td>
+      <td width="65">
+
+SURFACE RÉELLE des annexes
+
+</td>
+      <td width="65">
+
+SURFACE UTILE (surface habitable augmentée de 50 % de la surface des annexes)
+
+</td>
+      <td width="65">
+
+LOYER MAXIMUM en euros par mètre carré de surface utile (*)
+
+</td>
+      <td width="65">
+
+COEFFICIENT propre au logement
+
+</td>
+      <td width="65">
+
+LOYER MAXIMUM du logement en euros (colonne 4 x colonne 5 x colonne 6) (*)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+
+Colonne 1
+
+</td>
+      <td valign="top">
+
+Colonne 2
+
+</td>
+      <td valign="top">
+
+Colonne 3
+
+</td>
+      <td valign="top">
+
+Colonne 4
+
+</td>
+      <td valign="top">
+
+Colonne 5
+
+</td>
+      <td valign="top">
+
+Colonne 6
+
+</td>
+      <td valign="top">
+
+Colonne 7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Total
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(*) Les variations prévues à l'article 8 de la convention, selon les ressources des locataires, sont susceptibles de
 s'appliquer à ces loyers.
 
 6. Nombre et liste des annexes susceptibles de donner lieu à perception d'un loyer accessoire :
@@ -437,7 +641,25 @@ s'appliquer à ces loyers.
 Ce sont les annexes ou parties d'annexes qui n'entrent pas dans le calcul de la surface utile, soit les emplacements réservés
 au stationnement des véhicules, les terrasses, cours et jardins faisant l'objet d'une jouissance exclusive :
 
-(Tableau non reproduit, voir Journal officiel).
+<table>
+    <thead>
+      <tr>
+        <th valign="middle" bgcolor="#efeff7" align="center" width="227">
+          **Type d'annexe définie à l'article R. 353-16, dernier alinéa du 2
+            <sup>o</sup>
+          **
+        </th>
+        <th bgcolor="#efeff7" align="center" width="227" valign="middle">
+          **Loyer maximum conventionné de l'annexe en F par mois**
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="middle" align="center"> </td>
+      </tr>
+    </tbody>
+  </table>
 
 Au cas où ces annexes ne trouveraient pas preneur auprès des locataires de l'immeuble ou de tout autre immeuble conventionné
 appartenant au même bailleur ou géré par lui, le bailleur peut louer l'annexe à toute autre personne. Dans ce cas, le loyer
@@ -491,12 +713,11 @@ décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité f
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°80-415 1980-06-10 annexe JONC 13 juin 1980
-
 	**Modifié par**:
 
-	  - Décret n°95-42 du 11 janvier 1995 - art. 4 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
-	  - Décret n°97-535 1997-05-28 annexe JORF 29 mai 1997
-	  - Décret n°2002-846 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+	  - Décret n°2006-569 du 17 mai 2006 - art. 14 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 15 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 16 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 17 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 6 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 9 () JORF 20 mai 2006

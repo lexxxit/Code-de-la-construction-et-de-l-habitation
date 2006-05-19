@@ -3,7 +3,9 @@
 Convention type conclue entre l'Etat et ... (1) en application de l'article L. 351-2 (2° ou 3°) du code de la construction et
 de l'habitation pour l'opération de ....
 
-Le ministre de l'équipement, des transports et du logement, agissant au nom de l'Etat, et représenté par le préfet,
+Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le préfet, ou, lorsqu'un établissement public de
+coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le
+président de l'établissement public de coopération intercommunale ou du conseil général,
 
 D'une part, et ... (1), ou et ... représentée par ... (2) dénommé(e) ci-après, le bailleur,
 
@@ -37,8 +39,10 @@ reconduction par périodes triennales prenant effet à compter de sa date d'expi
 
 Aucune résiliation de la part du bénéficiaire ne peut prendre effet avant cette date. Pour prendre effet à cette date, la
 résiliation doit être notifiée au moins six mois avant la date fixée pour son expiration. Si la résiliation intervient à
-l'initiative du bailleur, elle est effectuée par acte notarié ou par acte d'huissier de justice et notifiée à l'Etat par acte
-d'huissier de justice ou par décision administrative.
+l'initiative du bailleur, elle est effectuée par acte notarié ou par acte d'huissier de justice et notifiée au préfet, ou,
+lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles
+L. 301-5-1 et L. 301-5-2, au président de l'établissement public de coopération intercommunale ou du conseil général, par
+acte d'huissier de justice ou par décision administrative.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer l'opération, d'une subvention ou le reversement du
 complément d'impôt en application de l'article 284 du code général des impôts, sont sans effet sur la durée de la convention.
@@ -71,14 +75,17 @@ Réservations préfectorales des logements.
 
 Le bailleur s'engage, compte tenu des limites prévues à l'article R. 441-5 du code de la construction et de l'habitation à
 réserver ... % des logements faisant l'objet de la présente convention aux personnes et aux familles prioritaires désignées
-par le préfet, en tenant compte des besoins appréciés localement et dans les conditions fixées par la convention de
-réservation relative au contingent du préfet.
+par le préfet ou par son délégataire en application des dispositions de l'article L. 441-1, en tenant compte des besoins
+appréciés localement et dans les conditions fixées par la convention de réservation relative au contingent du préfet et, le
+cas échéant, par la convention de délégation du contingent préfectoral prise en application des dispositions de l'article L.
+441-1.
 
 Le bailleur s'engage à réserver, au bénéfice des fonctionnaires et agents de l'Etat, civils et militaires, des logements dans
 la proportion et selon les modalités définies par le livre IV titre IV, chapitre Ier, section I, du code de la construction
 et de l'habitation.
 
-Pour répondre à ces obligations, le bailleur s'engage à signaler aux services préfectoraux les logements devenus vacants.
+Pour répondre à ces obligations, le bailleur s'engage à signaler les logements devenus vacants aux services préfectoraux et,
+le cas échéant, aux délégataires des droits à réservation du préfet en application de l'article L. 441-1.
 
 II. - Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de location des logements.
 
@@ -86,9 +93,10 @@ Article 7.
 
 Mise en gérance des logements.
 
-Si la gestion n'est pas directement assurée par le bailleur, il informe le préfet, les organismes chargés de la liquidation
-et du paiement de l'aide personnalisée au logement pour le compte de l'Etat et les locataires de la mise en gérance de
-l'opération ou de tout changement de gestionnaire.
+Si la gestion n'est pas directement assurée par le bailleur, il informe le préfet, et, le cas échéant, le président de
+l'établissement public de coopération intercommunale ou le président du conseil général partie à la présente convention, les
+organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement pour le compte de l'Etat et les
+locataires de la mise en gérance de l'opération ou de tout changement de gestionnaire.
 
 Article 8.
 
@@ -234,7 +242,7 @@ Montants des loyers maximum et modalités de révision.
 Le montant du loyer maximum mentionné à l'article R. 353-16 est fixé à ... F le mètre carré par ... (mois ou année selon que
 la superficie est exprimée en surface utile ou en surface corrigée).
 
-Ce montant est majoré de 33 % pour les logements qui ont été attribués dans les conditions du dernier alinéa de l'article 8
+Ce montant est majoré de 33 % pour les logements qui ont été attribués dans les conditions du paragraphe III b de l'article 8
 ci-dessus.
 
 Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner lieu à la perception d'un loyer accessoire,
@@ -331,7 +339,9 @@ limitrophes de ce canton, si la commune est divisée en cantons ;
 Dans les autres cas sur le territoire de la même commune ou d'une commune limitrophe, sans pouvoir être éloigné de plus de
 cinq kilomètres.
 
-Les travaux font l'objet d'une attestation d'exécution conforme établie par le préfet.
+Les travaux font l'objet d'une attestation d'exécution conforme établie par le préfet ou, lorsqu'un établissement public de
+coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le
+président de l'établissement public de coopération intercommunale ou du conseil général.
 
 A compter de la date de signature de la convention ou de la date d'achèvement des travaux, le bailleur notifie, par lettre
 recommandée avec demande d'avis de réception ou par acte extrajudiciaire, aux locataires ou occupants de bonne foi dans les
@@ -343,11 +353,12 @@ Article 13.
 
 Information des locataires en cas de changement de propriétaire.
 
-En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet, des locataires et des organismes
-liquidateurs de l'aide personnalisée au logement, le ou les nouveaux propriétaires leur font connaître leur identification
-dans les conditions conformes soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par acte
-extrajudiciaire, lettre recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à
-compter de ladite mutation.
+En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet, et, le cas échéant, du président de
+l'établissement public de coopération intercommunale ou du président du conseil général partie à la présente convention, des
+locataires et des organismes liquidateurs de l'aide personnalisée au logement, le ou les nouveaux propriétaires leur font
+connaître leur identification dans les conditions conformes soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4
+janvier 1955 modifié, par acte extrajudiciaire, lettre recommandée avec demande d'avis de réception ou remise contre décharge
+dans un délai d'un mois à compter de ladite mutation.
 
 Article 14.
 
@@ -378,7 +389,7 @@ Le loyer est payé mensuellement à terme échu.
 Le bailleur indique sur la quittance le montant du loyer principal, du ou des loyers accessoires, des charges locatives et le
 cas échéant le montant de l'aide personnalisée au logement.
 
-Le bailleur s'engage à porter au plus tard le 31 octobre 2000 le montant du loyer maximum sur la quittance.
+Le bailleur s'engage à porter le montant du loyer maximum sur la quittance.
 
 En application de l'article L. 351-9 du code de la construction et de l'habitation, pour chaque appel de loyer, le bailleur
 déduit s'il y a lieu le montant de l'aide personnalisée au logement qu'il perçoit pour le compte du locataire du montant du
@@ -392,8 +403,8 @@ En cas de retard du locataire dans le paiement du loyer ou des charges locatives
 dispositions en vue de recouvrer sa créance.
 
 En cas d'impayé constitué au sens de l'article R. 351-30 du code de la construction et de l'habitation, le bailleur doit
-informer le locataire, lorsqu'il est bénéficiaire de l'aide personnalisée au logement, de la saisine de la section des aides
-publiques au logement du conseil départemental de l'habitat visée à l'article 19 de la présente convention.
+informer le locataire, lorsqu'il est bénéficiaire de l'aide personnalisée au logement, de la saisine de la commission
+départementale des aides publiques au logement visée à l'article 19 de la présente convention.
 
 Article 17.
 
@@ -402,8 +413,8 @@ Dépôt de garantie.
 Le dépôt de garantie stipulé le cas échéant par le contrat de location pour garantir l'exécution de ses obligations locatives
 par le locataire ne peut être supérieur à un mois de loyer en principal.
 
-IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'APL et à l'égard de la section des
-aides publiques au logement.
+IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'APL et à l'égard de la commission
+départementale des aides publiques au logement.
 
 Article 18.
 
@@ -422,28 +433,28 @@ année, pour permettre le renouvellement des droits à l'aide personnalisée au 
 
 Un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou, le cas échéant,
 la liste des bénéficiaires d'aide personnalisée au logement non à jour en certifiant que cette liste est exhaustive. Ce
-document mentionne également la date à laquelle la section des aides publiques au logement du conseil départemental de
-l'habitat prévue à l'article R. 351-47 du code de la construction et de l'habitation a été saisie en cas d'impayé constitué
-au sens de l'article R. 351-30 du même code.
+document mentionne également la date à laquelle la commission départementale des aides publiques au logement prévue à
+l'article R. 351-47 du code de la construction et de l'habitation a été saisie en cas d'impayé constitué au sens de l'article
+R. 351-30 du même code.
 
 3° En outre, il fait part dans un délai maximum d'un mois aux organismes liquidateurs de l'aide personnalisée au logement des
 modifications affectant la situation locative du bénéficiaire (notamment colocation, résiliation de bail, décès).
 
 Article 19.
 
-Obligations à l'égard de la section des aides publiques au logement du conseil départemental de l'habitat (SDAPL).
+Obligations à l'égard de la commission départementale des aides publiques au logement (CDAPL).
 
 Le bailleur percevant l'aide personnalisée au logement pour le compte du locataire, en application des articles R. 351-30 et
-R. 351-64 du code de la construction et de l'habitation, saisit la section des aides publiques au logement du conseil
-départemental de l'habitat (SDAPL) dès qu'un impayé est constitué au sens de l'article R. 351-30 du code de la construction
-et de l'habitation, en justifiant des démarches entreprises auprès du locataire défaillant. En outre, il lui communique le
-montant de l'impayé constitué au moment de la saisine.
+R. 351-64 du code de la construction et de l'habitation, saisit la commission départementale des aides publiques au logement
+(CDAPL) dès qu'un impayé est constitué au sens de l'article R. 351-30 du code de la construction et de l'habitation, en
+justifiant des démarches entreprises auprès du locataire défaillant. En outre, il lui communique le montant de l'impayé
+constitué au moment de la saisine.
 
-Il fournit également à la SDAPL copie du bail lorsque celle-ci le lui demande et l'informe, le cas échéant, lorsqu'une
+Il fournit également à la CDAPL copie du bail lorsque celle-ci le lui demande et l'informe, le cas échéant, lorsqu'une
 procédure d'expulsion d'un bénéficiaire d'aide personnalisée au logement est engagée pour non-paiement du loyer et des
 charges, au sens de l'article R. 351-30, et dans les conditions prévues par l'article L. 353-15-1.
 
-La SDAPL décide du maintien ou de la suspension de l'aide personnalisée au logement et en informe le bailleur et le
+La CDAPL décide du maintien ou de la suspension de l'aide personnalisée au logement et en informe le bailleur et le
 bénéficiaire.
 
 V. - Dispositions générales.
@@ -508,11 +519,15 @@ Article 24.
 Publication.
 
 La publication de la convention de sa résiliation et de ses éventuels avenants au fichier immobilier ou de leur inscription
-au livre foncier incombe au préfet. Les frais de publication sont à la charge de l'organisme.
+au livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a
+signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, au président de l'établissement public de coopération
+intercommunale ou du conseil général. Les frais de publication sont à la charge de l'organisme.
 
-Le préfet transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie
-de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet
-d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention
+mentionnée aux articles L. 301-5-1 et L. 301-5-2, le président de l'établissement public de coopération intercommunale ou du
+conseil général transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une
+photocopie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait
+l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
 
 Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.
 
@@ -601,7 +616,7 @@ Fait en quatre originaux à ..., le ....
 
 Le bailleur (5),
 
-Le préfet.
+Le préfet, le président de l'établissement public de coopération intercommunale ou le président du conseil général.
 
 (1) Nom de la personne physique ou morale identifiée conformément aux dispositions, selon le cas, des articles 5 ou 6 du
 décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
@@ -622,12 +637,14 @@ décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité f
 
 	  - Décret n°78-622 1978-05-31
 
-	**Créé par**:
-
-	  - Décret n°99-864 1999-10-07 art. 6, annexe JORF 8 octobre 1999
-	  - Décret n°99-864 du 7 octobre 1999 - art. 6 () JORF 8 octobre 1999
-
 	**Modifié par**:
 
-	  - Décret n°2002-844 du 3 mai 2002 - art. 6 () JORF 5 mai 2002
-	  - Décret n°2002-848 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
+	  - Décret n°2006-569 du 17 mai 2006 - art. 10 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 11 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 12 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 13 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 14 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 6 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 7 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 8 () JORF 20 mai 2006
+	  - Décret n°2006-569 du 17 mai 2006 - art. 9 () JORF 20 mai 2006
