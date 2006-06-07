@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-06-08
 
 # Partie législative
 
@@ -34315,7 +34315,7 @@ normalement la présence de moins d'une personne par 100 mètres carrés de surf
 ###### Article R122-4
 
 Un arrêté conjoint des ministres chargés de l'exécution des dispositions du présent chapitre, pris après avis de la
-commission technique interministérielle prévue à l'article R. 122-12 et portant règlement de sécurité, fixe pour les diverses
+Commission centrale de sécurité prévue par l'article R. 123-29 et portant règlement de sécurité, fixe pour les diverses
 classes d'immeubles de grande hauteur les mesures d'application des principes posés par le présent chapitre communes à ces
 diverses classes ou à certaines d'entre elles et les dispositions propres à chacune d'elles. Il fixe en outre les mesures qui
 doivent être prises par le constructeur pendant la réalisation des travaux pour limiter les risques d'incendie et faciliter
@@ -34337,6 +34337,10 @@ les arrêtés déterminent les conditions et délais d'application des dispositi
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Arrêté du 30 décembre 2011 - art. GH 1 (VD)
@@ -34348,7 +34352,7 @@ les arrêtés déterminent les conditions et délais d'application des dispositi
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R122-12 (M)
+	  - Code de la construction et de l'habitation. - art. R*123-29 (V)
 
 
 ###### Article R122-5
@@ -34644,17 +34648,17 @@ pas les constructeurs et installateurs des responsabilités qui leur incombent p
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 
 
-##### Section 3 : Commission technique interministérielle.
+##### Section 3 : Interventions de la Commission centrale de sécurité.
 
 ###### Article R122-12
 
-Une commission technique interministérielle des immeubles de grande hauteur donne son avis dans les cas prévus par le présent
-chapitre, ainsi que sur toutes les questions intéressant la sécurité dans les immeubles de grande hauteur qui sont soumises à
-son examen par les ministres intéressés.
+La Commission centrale de sécurité prévue par l'article R. 123-29 donne son avis dans les cas prévus par le présent chapitre,
+ainsi que sur toutes les questions intéressant la sécurité dans les immeubles de grande hauteur qui sont soumises à son
+examen par les ministres intéressés. 
 
-Les membres de la commission technique interministérielle dûment accrédités par le ministre de l'intérieur ont accès à toute
-heure dans les parties communes des immeubles de grande hauteur et dans les établissements recevant du public qui sont
-installés dans ces immeubles.
+Les membres permanents de la Commission centrale de sécurité dûment accrédités par le ministre de l'intérieur ont accès à
+toute heure aux parties communes des immeubles de grande hauteur et aux établissements recevant du public installés dans ces
+immeubles.
 
 **Liens relatifs à cet article**
 
@@ -34666,49 +34670,18 @@ installés dans ces immeubles.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 2006-06-07 art. 1, II, III JORF 8 juin 2006
+	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*123-29 (V)
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R122-4 (M)
-
-
-###### Article R122-13
-
-La commission technique interministérielle est présidée par le ministre de l'intérieur ou son représentant.
-
-Cette commission comprend :
-
-Trois représentants du ministre de l'intérieur (direction de la sécurité civile), dont deux remplissent les fonctions de
-secrétaire et de secrétaire adjoint ;
-
-Un représentant de chacun des ministres chargés respectivement de la construction et de l'habitation, des affaires
-culturelles (architecture), de la santé, du travail, des établissements classés et de l'industrie ;
-
-Le directeur du centre scientifique et technique du bâtiment ou son représentant ;
-
-Le général commandant la brigade des sapeurs-pompiers de Paris ou son représentant ;
-
-Le président de la fédération nationale des sapeurs-pompiers ou son représentant ;
-
-L'architecte en chef de la préfecture de police ou son représentant ;
-
-Le directeur du laboratoire central de la préfecture de police ou son représentant ;
-
-Le président peut appeler, le cas échéant, un représentant de tout ministre compétent en raison de la destination de
-l'immeuble et, à titre consultatif, toute personne qualifiée par sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1063 1967-11-15 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
 
 
 ##### Section 4 : Obligations relatives à l'occupation des locaux.
@@ -36079,12 +36052,18 @@ centrale et commissions locales de sécurité).
 
 ###### Article R*123-31
 
-La commission centrale de sécurité est appelée à donner son avis sur toutes les questions relatives à la protection contre
-l'incendie et la panique dans les établissements soumis au présent chapitre, sur les conditions d'application de ce texte,
-ainsi que sur toutes les questions que le ministre de l'intérieur soumet à son examen.
+La Commission centrale de sécurité est appelée à donner son avis sur toutes les questions relatives à la protection contre
+l'incendie et la panique dans les établissements soumis aux chapitres II et III du titre II du livre Ier ainsi que sur toutes
+les questions que le ministre de l'intérieur soumet à son examen. 
 
 Elle est obligatoirement consultée sur les projets de modification du règlement de sécurité ainsi que dans le cas prévu au
 troisième alinéa de l'article R. 123-15.
+
+**Nota:**
+
+Décret n° 2009-621 du 6 juin 2009 article 1: Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission
+centrale et commissions locales de sécurité).
 
 **Liens relatifs à cet article**
 
@@ -36096,9 +36075,13 @@ troisième alinéa de l'article R. 123-15.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R123-15
+	  - Code de la construction et de l'habitation. - art. R*123-15 (V)
 
 
 ###### Article R*123-32
@@ -48079,8 +48062,7 @@ contresigné par le ministre chargé du commerce lorsque l'agrément concerne un
 ministre chargé des affaires sociales lorsqu'il concerne une caisse d'allocations familiales.
 
 L'arrêté d'agrément est pris après avis de l'Agence nationale pour la participation des employeurs à l'effort de construction
-en ce qui concerne les associations, organismes et sociétés mentionnés au 2° (a, b et d) de l'article R. 313-9, et après avis
-du Comité national de la participation des employeurs en ce qui concerne les organismes mentionnés au 2° (c) du même article.
+en ce qui concerne les associations, organismes et sociétés mentionnés au 2° (a, b et d) de l'article R. 313-9.
 
 Les organismes mentionnés au 2° de l'article R. 313-9 doivent rendre compte chaque année à l'Agence nationale pour la
 participation des employeurs à l'effort de construction et au directeur départemental de l'équipement du lieu de leur siège
@@ -48108,11 +48090,6 @@ fixent.
 
 	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-	**Modifié par**:
-
-	  - Décret n°93-748 1993-03-27 art. 2 I, II, III JORF 30 mars 1993
-	  - Décret n°93-748 du 27 mars 1993 - art. 2 () JORF 30 mars 1993
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
@@ -48121,6 +48098,10 @@ fixent.
 	  - Code de la construction et de l'habitation. - art. R*313-34 (VD)
 	  - Code de la construction et de l'habitation. - art. R*313-35 (V)
 	  - Code rural - art. R716-35 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -49282,51 +49263,6 @@ leurs dispositions ne sont pas incompatibles avec les dispositions de celui-ci.
 	**Abrogé par**:
 
 	  - Décret n°2007-891 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
-
-
-###### Article R*313-45-1
-
-Il est créé un Comité national de la participation des employeurs à l'effort de construction présidé par le ministre chargé
-de la construction et de l'habitation ou son représentant.
-
-Ce comité est consulté sur tous les projets de textes relatifs à la réglementation de la participation des employeurs à
-l'effort de construction, à l'exception de ceux pris en application des articles L. 313-7 à L. 313-16 et L313-33 ; il peut
-faire toute proposition relative à l'application de cette réglementation.
-
-Ce comité est composé :
-
-a) Des représentants des employeurs et des salariés désignés par leurs organisations représentatives au plan national ;
-
-b) Des représentants des organismes collecteurs désignés par l'organisme qui fédère ces organismes au plan national ;
-
-c) De représentants des ministères intéressés ;
-
-d) De personnes qualifiées.
-
-Les modalités d'application du présent article sont définies par arrêté conjoint du ministre chargé de l'économie et des
-finances, du ministre chargé des affaires sociales, du ministre chargé de l'industrie, du ministre chargé du logement et du
-ministre chargé du commerce et de l'artisanat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-	**Modifié par**:
-
-	  - Décret n°88-313 du 28 mars 1988 - art. 16 () JORF 4 avril 1988
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-	  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 1 () JORF 8 juin 2006
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L313-7 à L313-16, L313-33
-	  - Code de la construction et de l'habitation. - art. L313-33 (V)
 
 
 ##### Section 7 : Dispositions transitoires maintenues pour les opérations entreprises avant le 10 novembre 1966.
