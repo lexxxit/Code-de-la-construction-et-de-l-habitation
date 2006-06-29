@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-30
 
 # Partie législative
 
@@ -37425,14 +37425,17 @@ mouvement peut causer un dommage à une personne ;
 - le système de commande de la porte doit être volontaire et personnalisé à moins que la conception de la porte ne permette
 que son utilisation, même anormale, ne crée aucun danger pour les personnes ;
 
-- le volume de débattement de la porte doit être correctement éclairé et l'aire de débattement doit faire l'objet d'un
-marquage au sol ;
+- l'aire de débattement de la porte doit être correctement éclairée et faire l'objet d'un marquage au sol ;
 
 - tout mouvement de la porte doit être signalé, tant à l'extérieur qu'à l'intérieur, par un feu orange clignotant visible de
 l'aire de débattement. La signalisation doit précéder le mouvement de la porte ;
 
 - la porte doit pouvoir être manoeuvrée de l'extérieur comme de l'intérieur pour permettre de dégager une personne
-accidentée.
+accidentée. La manoeuvre extérieure est facultative si la pression exercée par la porte est telle qu'elle ne fait pas
+obstacle au dégagement de la personne accidentée.
+
+Un arrêté du ministre chargé de la construction précise les conditions d'application des sixième et septième alinéas du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -37444,9 +37447,9 @@ accidentée.
 
 	  - SPEC_APPLI: Décret n°90-567 1990-07-05 art. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-567 du 5 juillet 1990 - art. 1 () JORF 7 juillet 1990 en vigueur le 7 janvier 1992
+	  - Décret n°2006-750 du 27 juin 2006 - art. 1 () JORF 30 juin 2006
 
 	**Cité par**:
 
@@ -37457,10 +37460,9 @@ accidentée.
 
 ###### Article R125-3-2
 
-Dans les bâtiments et groupes de bâtiments d'habitation, toute nouvelle porte automatique de garage conforme à la norme NF P
-25-362 (fermetures pour baies libres) ou à toute autre norme en vigueur dans un autre Etat membre de la Communauté économique
-européenne et justifiant d'une équivalence avec la norme française, installée conformément aux règles de l'art, est réputée
-satisfaire aux prescriptions définies à l'article R. 125-3-1.
+Dans les bâtiments et groupes de bâtiments d'habitation, toute nouvelle porte automatique de garage conforme à la norme NF EN
+13 241-1, installée conformément aux règles de l'art, est réputée satisfaire aux prescriptions des deuxième à cinquième et
+huitième alinéas de l'article R. 125-3-1.
 
 **Liens relatifs à cet article**
 
@@ -37472,19 +37474,19 @@ satisfaire aux prescriptions définies à l'article R. 125-3-1.
 
 	  - SPEC_APPLI: Décret n°90-567 1990-07-05 art. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-567 du 5 juillet 1990 - art. 1 () JORF 7 juillet 1990 en vigueur le 7 janvier 1992
+	  - Décret n°2006-750 du 27 juin 2006 - art. 2 () JORF 30 juin 2006
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R125-3-1 (M)
+	  - Code de la construction et de l'habitation. - art. R125-3-1 (V)
 
 
 ###### Article R125-4
 
-Dans les bâtiments et groupes de bâtiments d'habitation, les portes automatiques de garage installées avant l'entrée en
-vigueur des dispositions de l'article R. 125-3-1 doivent satisfaire aux prescriptions suivantes :
+Dans les bâtiments et groupes de bâtiments d'habitation, les portes automatiques de garage installées avant le 7 janvier 1992
+doivent satisfaire aux prescriptions suivantes :
 
 - la porte doit être équipée de systèmes permettant d'arrêter son mouvement, ou de limiter la force qu'elle exerce, en cas de
 présence d'une personne dans les zones de fin d'ouverture et de fin de fermeture. Un arrêté des ministres chargés de
@@ -37508,17 +37510,13 @@ visible de l'aire de débattement. La signalisation doit précéder le mouvement
 
 	  - SPEC_APPLI: Décret n°90-567 1990-07-05 art. 2
 
-	**Créé par**:
-
-	  - Décret n°90-567 du 5 juillet 1990 - art. 1 () JORF 7 juillet 1990 en vigueur le 1er janvier 1992
-
 	**Cité par**:
 
 	  - Arrêté du 1 février 1991 - art. 1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la construction et de l'habitation. - art. R125-3-1 (M)
+	  - Décret n°2006-750 du 27 juin 2006 - art. 3 () JORF 30 juin 2006
 
 
 ###### Article R125-5
