@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-06-30
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -24016,9 +24016,9 @@ Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne s'ap
 ###### Article L443-12
 
 Le prix de vente est fixé par l'organisme propriétaire. Sauf en cas de vente à un organisme d'habitations à loyer modéré ou à
-une société d'économie mixte, il ne peut être inférieur à l'évaluation faite par le service des domaines. Cette évaluation
-doit intervenir dans un délai d'un mois à compter de la demande. A titre exceptionnel, le représentant de l'Etat dans le
-département peut autoriser l'organisme à vendre à un prix inférieur.
+une société d'économie mixte, il ne peut être inférieur à l'évaluation faite par l'autorité compétente de l'Etat. Cette
+évaluation doit intervenir dans un délai d'un mois à compter de la demande. A titre exceptionnel, le représentant de l'Etat
+dans le département peut autoriser l'organisme à vendre à un prix inférieur.
 
 **Liens relatifs à cet article**
 
@@ -24030,13 +24030,9 @@ département peut autoriser l'organisme à vendre à un prix inférieur.
 
 	  - Décret n°78-621 1978-05-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25233,8 +25229,9 @@ recueillis dans le cadre de sa mission.
 
 ###### Article L451-5
 
-L'avis du service des domaines est requis par les organismes d'habitations à loyer modéré préalablement à leurs acquisitions
-ou cessions immobilières à l'exception de celles relatives aux opérations entreprises en vue de l'accession à la propriété.
+L'avis de l'autorité compétente de l'Etat est requis par les organismes d'habitations à loyer modéré préalablement à leurs
+acquisitions ou cessions immobilières à l'exception de celles relatives aux opérations entreprises en vue de l'accession à la
+propriété.
 
 **Liens relatifs à cet article**
 
@@ -25242,14 +25239,9 @@ ou cessions immobilières à l'exception de celles relatives aux opérations ent
 
 	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-127 1995-02-08 art. 11 IX JORF 9 Février 1995
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 162 I, II JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 162 () JORF 14 décembre 2000
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
