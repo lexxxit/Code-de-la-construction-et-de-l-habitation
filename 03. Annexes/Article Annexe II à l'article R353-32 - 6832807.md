@@ -67,4 +67,4 @@ Fait à ..., le ....
 
 	**Modifié par**:
 
-	  - Décret n°2004-1403 2004-12-23 art. 3 2° JORF 28 décembre 2004
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006

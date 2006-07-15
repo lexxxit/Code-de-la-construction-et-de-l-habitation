@@ -22,7 +22,7 @@ Art. 1 - Objet de la convention.
 La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L.
 353-13 pour le programme de ... décrit plus précisément dans le document à la présente convention et faisant l'objet de
 travaux d'amélioration financés sans aucune aide spécifique de l'Etat, ou bénéficiant de subventions octroyées par l'agence
-nationale pour l'amélioration de l'habitat.
+nationale de l'habitat.
 
 Dans le cas où les travaux font l'objet d'une demande d'aide de l'agence, ils seront réalisés sous réserve de l'obtention de
 cette aide.
@@ -96,8 +96,8 @@ Par dérogation aux dispositions de l'article 3 de l'annexe à la présente conv
 peuplement des logements lorsque le propriétaire est une personne physique, il peut occuper les logements vacants à titre
 personnel ou les faire occuper par son conjoint, ses ascendants ou descendants ou ceux de son conjoint. L'occupation doit
 être exclusivement à titre de résidence principale et, lorsque le programme bénéficie de subventions octroyées par l'agence
-nationale pour l'amélioration de l'habitat, porte aux maximum sur le nombre entier de logements immédiatement inférieur ...
-p. 100 du nombre total de logements conventionnés en la possession dudit propriétaire, soit ... logements.
+nationale de l'habitat, porte aux maximum sur le nombre entier de logements immédiatement inférieur ... p. 100 du nombre
+total de logements conventionnés en la possession dudit propriétaire, soit ... logements.
 
 Si ces logements deviennent à nouveau vacants avant la date d'expiration de la convention, le propriétaire bailleur qui a
 exercé son droit de reprise s'engage à les relouer dans les conditions définies par la présente convention pour la durée
@@ -139,4 +139,4 @@ annexée à l'article R. 353-32 dont il déclare avoir pris connaissance et reco
 
 	**Modifié par**:
 
-	  - Décret n°2004-1403 du 23 décembre 2004 - art. 3 () JORF 28 décembre 2004
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006
