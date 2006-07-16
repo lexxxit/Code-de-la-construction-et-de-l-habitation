@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-07-17
 
 # Partie législative
 
@@ -24986,41 +24986,6 @@ Un décret en Conseil d'Etat précise les conditions d'application de la présen
 
 ##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.
 
-###### Article L443-15-1
-
-Sans préjudice des dispositions du titre III du livre IV du code de l'urbanisme, un bâtiment à usage d'habitation appartenant
-à un organisme d'habitations à loyer modéré et construit avec l'aide de l'Etat ne peut être démoli sans l'accord préalable du
-représentant de l'Etat dans le département, de la commune d'implantation et des garants des prêts.
-
-Un décret en Conseil d'Etat fixe les conditions de remboursement des emprunts et des aides de l'Etat en cas de démolition
-totale ou partielle.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°67-223 du 17 mars 1967 - art. 28 (M)
-	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
-	  - Code de la construction et de l'habitation. - art. L353-15 (V)
-	  - Code de la construction et de l'habitation. - art. L442-6 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-8 (V)
-	  - Code de la construction et de l'habitation. - art. L481-3 (V)
-	  - Code de la construction et de l'habitation. - art. R443-17 (V)
-	  - Code général des impôts, CGI. - art. 1389 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
-	**Modifié par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
-
-
 ##### Sous-section 1 : Dispositions applicables aux éléments du patrimoine immobilier autres que les logements-foyers.
 
 ###### Article L443-7
@@ -25541,6 +25506,34 @@ l'organisme d'habitations à loyer modéré vendeur.
 
 	  - Loi n°2006-872 du 13 juillet 2006 - art. 29 () JORF 16 juillet 2006
 	  - Loi n°2006-872 du 13 juillet 2006 - art. 54 () JORF 16 juillet 2006
+
+
+###### Article L443-15-1
+
+Sans préjudice des règles du code de l'urbanisme applicables au permis de démolir, un bâtiment à usage d'habitation
+appartenant à un organisme d'habitations à loyer modéré ne peut être démoli sans l'accord préalable du représentant de l'Etat
+dans le département, de la commune d'implantation et des garants des prêts. 
+
+Un décret en Conseil d'Etat fixe les conditions de remboursement des emprunts et des aides de l'Etat en cas de démolition
+totale ou partielle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 28 (M)
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de la construction et de l'habitation. - art. L353-15 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6 (V)
+	  - Code de la construction et de l'habitation. - art. L472-1-8 (V)
+	  - Code de la construction et de l'habitation. - art. L481-3 (V)
+	  - Code de la construction et de l'habitation. - art. R443-17 (V)
+	  - Code général des impôts, CGI. - art. 1389 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 54
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 59
 
 
 ###### Article L443-15-2
