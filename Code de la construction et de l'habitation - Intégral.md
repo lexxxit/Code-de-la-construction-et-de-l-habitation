@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-08-26
+Version Consolidée au 2006-08-31
 
 # Partie législative
 
@@ -87341,14 +87341,17 @@ La décision administrative prévue au même article, alinéa 3, est prise par l
 
 ###### Article R631-5
 
-La décision d'extension à d'autres communes prévue à l'article L. 631-9 est prise par arrêté du ministre chargé de la
-construction et de l'habitation après avis du maire et du préfet.
+La décision d'extension à d'autres communes prévue à l'article L. 631-9 est prise par arrêté du préfet après avis du maire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2006-1090 du 30 août 2006 - art. 1 () JORF 31 août 2006
 
 	**Anciens textes**:
 
