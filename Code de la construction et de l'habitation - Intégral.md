@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-08-31
+Version Consolidée au 2006-09-01
 
 # Partie législative
 
@@ -76944,14 +76944,8 @@ l'office exerçant les fonctions de chef de service.
 
 ###### Article R*423-7
 
-Les marchés passés par l'office sont soumis aux dispositions du livre III du code des marchés publics, sous réserve des
-dispositions ci-après.
-
-Le directeur général peut être autorisé par le conseil d'administration à passer des marchés négociés pour l'achat de
-fournitures courantes dont la liste est arrêtée par le conseil d'administration. Il en est de même pour les travaux
-d'entretien dans les conditions et limites fixées par l'instruction prévue à l'article R. 423-30. Des dérogations aux
-dispositions en vigueur peuvent être accordées par arrêté conjoint du ministre chargé des finances et du ministre chargé de
-la construction et de l'habitation, pour favoriser l'innovation.
+Les marchés passés par l'office sont soumis aux règles fixées pour les collectivités territoriales et leurs établissements
+publics par le code des marchés publics.
 
 **Liens relatifs à cet article**
 
@@ -76961,12 +76955,7 @@ la construction et de l'habitation, pour favoriser l'innovation.
 
 	**Modifié par**:
 
-	  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-	  - Décret n°88-921 du 9 septembre 1988 - art. 9 () JORF 15 septembre 1988
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation R423-30
+	  - Décret n°2006-975 du 1 août 2006 - art. 3 () JORF 4 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -80840,8 +80829,8 @@ ministre chargé de la construction et de l'habitation en ce qui concerne les op
 
 ###### Article R*433-4
 
-Les marchés des offices publics d'habitations à loyer modéré sont soumis aux règles fixées pour les collectivités locales et
-leurs établissements publics et, notamment, par le livre III du code des marchés publics.
+Les marchés des offices publics d'habitations à loyer modéré sont soumis aux règles fixées pour les collectivités
+territoriales et leurs établissements publics par le code des marchés publics.
 
 **Liens relatifs à cet article**
 
@@ -80852,6 +80841,10 @@ leurs établissements publics et, notamment, par le livre III du code des march�
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2006-975 du 1 août 2006 - art. 3 () JORF 4 août 2006 en vigueur le 1er septembre 2006
 
 
 ###### Article R433-1
