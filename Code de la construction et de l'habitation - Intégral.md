@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-09-01
+Version Consolidée au 2006-09-07
 
 # Partie législative
 
@@ -43192,7 +43192,7 @@ En aucun cas, le remboursement des sommes versées en exécution des deuxième e
 
 En vue du cas où la garantie prévue à l'article précédent prend la forme d'une convention d'ouverture de crédit, le contrat
 de promotion immobilière peut prévoir que les règlements effectués par le maître de l'ouvrage ou pour son compte prennent la
-forme de chèques, de mandats ou de virements postaux établis à l'ordre de la personne ayant consenti l'ouverture de crédit.
+forme de chèques, de mandats ou de virements établis à l'ordre de la personne ayant consenti l'ouverture de crédit.
 
 **Liens relatifs à cet article**
 
@@ -43203,6 +43203,10 @@ forme de chèques, de mandats ou de virements postaux établis à l'ordre de la 
 	**Codifié par**:
 
 	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
 
 
 ###### Article R*222-11
@@ -51669,29 +51673,36 @@ ministre chargé du logement.
 ###### Article R313-62
 
 Les disponibilités financières du fonds d'intervention de l'Union d'économie sociale du logement en attente de l'emploi fixé
-par les conventions prévues au 2° de l'article L. 313-19 sont déposées à un compte de chèques postaux ou auprès du Trésor, de
-la Caisse des dépôts et consignations, de la Banque de France ou d'un établissement de crédit agréé en application de la loi
-n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
+par les conventions prévues au 2° de l'article L. 313-19 sont déposées auprès du Trésor, de la Caisse des dépôts et
+consignations, de la Banque de France ou d'un établissement de crédit agréé en application de la loi n° 84-46 du 24 janvier
+1984 relative à l'activité et au contrôle des établissements de crédit.
 
 Ces disponibilités sont placées en bons du Trésor ou valeurs assimilées, en rentes sur l'Etat ou en valeurs garanties par
 l'Etat. Elles peuvent en outre être placées en parts d'organismes de placement collectif en valeurs mobilières dits court
-terme monétaire prévus par l'article R. 214-26 du code monétaire et financier.
+terme monétaire prévus par l'article 13-1 du décret n° 89-623 du 6 septembre 1989 modifié pris en application de la loi n°
+88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des
+fonds communs de créances.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Cite**:
 
-	  - Loi n°84-46 1984-01-24
-	  - Code monétaire et financier - art. R214-26 (M)
-	  - Code de la construction et de l'habitation. - art. L313-19 (M)
+	  - Loi n°84-46 du 24 janvier 1984
+	  - Loi n°88-1201 du 23 décembre 1988
+	  - Décret n°89-623 du 6 septembre 1989
+	  - Code de la construction et de l'habitation. - art. L313-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-143 du 14 février 1997 - art. 1 () JORF 16 février 1997
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2012-721 du 9 mai 2012 - art. 5
 
 
 #### Chapitre IV : Logement des fonctionnaires.
