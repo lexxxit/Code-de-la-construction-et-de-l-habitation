@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-09-10
+Version Consolidée au 2006-09-15
 
 # Partie législative
 
@@ -40712,6 +40712,188 @@ pénal.
 	  - Code pénal - art. 131-41 (V)
 	  - Code pénal - art. 132-11 (M)
 	  - Code de la construction et de l'habitation R133-1
+
+
+#### Chapitre IV : Diagnostics techniques.
+
+##### Section 1 : Diagnostic de performance énergétique.
+
+###### Article R134-1
+
+La présente section s'applique à tout bâtiment ou partie de bâtiment clos et couvert, à l'exception des catégories
+suivantes :
+
+a) Les constructions provisoires prévues pour une durée d'utilisation égale ou inférieure à deux ans ;
+
+b) Les bâtiments indépendants dont la surface hors oeuvre brute au sens de l'article R. 112-2 du code de l'urbanisme est
+inférieure à 50 mètres carrés ;
+
+c) Les bâtiments à usage agricole, artisanal ou industriel, autres que les locaux servant à l'habitation, qui ne demandent
+qu'une faible quantité d'énergie pour le chauffage, la production d'eau chaude sanitaire ou le refroidissement ;
+
+d) Les bâtiments servant de lieux de culte ;
+
+e) Les monuments historiques classés ou inscrits à l'inventaire en application du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2006 - art. 1 (V)
+	  - Arrêté du 21 septembre 2007 (V)
+	  - Arrêté du 21 septembre 2007 - art. 1 (V)
+	  - Arrêté du 4 mai 2009 (Ab)
+	  - Arrêté du 18 avril 2012 - art. 1 (VD)
+
+
+###### Article R134-2
+
+Le diagnostic de performance énergétique comprend :
+
+a) Les caractéristiques pertinentes du bâtiment ou de la partie de bâtiment et un descriptif de ses équipements de chauffage,
+de production d'eau chaude sanitaire, de refroidissement, de ventilation et, dans certains types de bâtiments, de l'éclairage
+intégré des locaux en indiquant, pour chaque catégorie d'équipements, les conditions de leur utilisation et de leur gestion
+ayant des incidences sur les consommations énergétiques ;
+
+b) L'indication, pour chaque catégorie d'équipements, de la quantité annuelle d'énergie consommée ou estimée selon une
+méthode de calcul conventionnel ainsi qu'une évaluation des dépenses annuelles résultant de ces consommations ;
+
+c) L'évaluation de la quantité d'émissions de gaz à effet de serre liée à la quantité annuelle d'énergie consommée ou
+estimée ;
+
+d) L'évaluation de la quantité d'énergie d'origine renouvelable produite par les équipements installés à demeure et utilisée
+dans le bâtiment ou partie de bâtiment en cause ;
+
+e) Le classement du bâtiment ou de la partie de bâtiment en application d'une échelle de référence établie en fonction de la
+quantité annuelle d'énergie consommée ou estimée, pour le chauffage, la production d'eau chaude sanitaire et le
+refroidissement, rapportée à la surface du bâtiment ou de la partie du bâtiment ;
+
+f) Le classement du bâtiment ou de la partie de bâtiment en application d'une échelle de référence établie en fonction de la
+quantité d'émissions de gaz à effet de serre, pour le chauffage, la production d'eau chaude sanitaire et le refroidissement,
+rapportée à la surface du bâtiment ou de la partie du bâtiment ;
+
+g) Des recommandations visant à améliorer la performance énergétique du bâtiment ou de la partie de bâtiment, accompagnées
+d'une évaluation de leur coût et de leur efficacité ;
+
+h) Lorsque le bâtiment ou la partie de bâtiment est équipé d'une chaudière d'une puissance supérieure ou égale à 20
+kilowatts, le rapport d'inspection de la chaudière.
+
+**Nota:**
+
+Décret 2006-1147 du 14 septembre 2006 art. 2 : Les dispositions du dernier alinéa de l'article R. 134-2 ne sont applicables
+qu'à compter de l'entrée en vigueur des décrets prévus au 2° du II de l'article L. 224-1 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2006 - art. 12 (V)
+	  - Arrêté du 15 septembre 2006 - art. 15 (V)
+	  - Arrêté du 15 septembre 2006 - art. 3 (V)
+	  - Arrêté du 15 septembre 2006 - art. 6 (V)
+	  - Arrêté du 3 mai 2007 - art. 12 (V)
+	  - Arrêté du 3 mai 2007 - art. 15 (V)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 10 octobre 2016 - art. (V)
+	  - Code de la construction et de l'habitation. - art. *R134-5-1 (VD)
+	  - Code de la construction et de l'habitation. - art. *R134-5-2 (VD)
+	  - Code de la construction et de l'habitation. - art. *R134-5-3 (VD)
+	  - Code de la construction et de l'habitation. - art. R134-15 (V)
+	  - Code de la construction et de l'habitation. - art. R134-5 (V)
+
+
+###### Article R134-3
+
+Lorsque le diagnostic de performance énergétique porte sur un bâtiment ou une partie d'un bâtiment qui bénéficie d'un
+dispositif collectif de chauffage, de refroidissement ou de production d'eau chaude, le propriétaire du dispositif collectif,
+son mandataire ou le syndic de copropriété fournit à la personne qui demande le diagnostic et aux frais de cette dernière :
+
+a) La quantité annuelle d'énergie consommée pour ce bâtiment ou cette partie de bâtiment par le dispositif collectif ;
+
+b) Le calcul ou les modalités ayant conduit à la détermination de cette quantité à partir de la quantité totale d'énergie
+consommée par le dispositif collectif ;
+
+c) Une description des installations collectives de chauffage, de refroidissement ou de production d'eau chaude et de leur
+mode de gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
+
+###### Article R134-4
+
+Pour réaliser le diagnostic de performance énergétique, il est fait appel à une personne répondant aux conditions de
+l'article L. 271-6 et de ses textes d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 2006 - art. 2 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L271-6 (V)
+
+
+###### Article R134-5
+
+Un arrêté conjoint des ministres chargés de la construction et de l'industrie détermine les modalités d'application de la
+présente section. Il précise notamment, par catégorie de bâtiments, le contenu du diagnostic de performance énergétique, les
+éléments des méthodes de calcul conventionnel, les échelles de référence, le prix moyen de l'énergie servant à l'évaluation
+des dépenses annuelles mentionnée à l'article R. 134-2, les facteurs de conversion des quantités d'énergie finale en
+quantités d'émissions de gaz à effet de serre et les modalités selon lesquelles est prise en compte dans les calculs
+l'incidence positive de l'utilisation de sources d'énergie renouvelable ou d'éléments équivalents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+	**Créé par**:
+
+	  - Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2006 - art. 1 (V)
+	  - Arrêté du 3 mai 2007 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R134-2
 
 
 ### Titre IV : Dispositions relatives à l'industrie du bâtiment.
