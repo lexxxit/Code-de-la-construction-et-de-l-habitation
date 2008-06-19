@@ -33,8 +33,8 @@ la location-accession à la propriété immobilière, de construire, acquérir, 
 usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III
 de l'article R. 443-34 du code de la construction et de l'habitation ; 
 
-4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L. 421-1 du code de la
-construction et de l'habitation ; 
+4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues au 6° de l'article L. 421-3 du code
+de la construction et de l'habitation ; 
 
 5° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire des personnes en difficulté et les donner en
 location à des organismes agréés par le préfet de département du lieu de situation de ces hôtels ; 
@@ -150,7 +150,7 @@ provisoirement détenir l'usufruit selon les modalités définies aux articles L
 33° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
 modéré sont ou seront habilitées par les textes législatifs s'y rapportant. 
 
-**4. Compétence territoriale-Siège social. **
+**4. Compétence territoriale-Siège social.**
 
 L'activité de la société s'exerce sur le territoire de la région où est situé son siège social. Elle peut également
 intervenir sur le territoire des départements limitrophes à cette région, après accord de la commune d'implantation de
@@ -196,7 +196,7 @@ ci-dessus est portée à 49 % sans que les droits de vote de ceux de ces associ�
 des organismes d'habitations à loyer modéré puissent excéder la limite de 35 %. 
 
 Lorsque la part de capital que détiennent les associés définis au quatrième alinéa de la présente clause dépasse, selon le
-cas,35 p. 100 ou 49 % du total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due proportion. 
+cas, 35 p. 100 ou 49 % du total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due proportion. 
 
 Les réductions de capital effectuées dans les cas prévus au dernier alinéa de l'article L. 423-5 du code de la construction
 et de l'habitation ne peuvent être réalisées que dans le respect des conditions fixées par cet article. 
@@ -212,10 +212,10 @@ réduire le nombre des associés à moins de sept.
 
 Le retrait d'associés n'ayant pas recours aux services de la société ou dont la société n'utilise pas le travail ne peut être
 réalisé qu'à l'issue d'un délai d'un an après que le conseil d'administration de la société en a été informé par pli
-recommandé avec avis de réception. 
+recommandé avec avis de réception.
 
 L'exclusion d'associés ne peut être prononcée que par décision d'assemblée générale prise dans les conditions de quorum et de
-majorité d'une assemblée générale extraordinaire. 
+majorité d'une assemblée générale extraordinaire.
 
 L'exclusion est notifiée à l'intéressé par la société, par pli recommandé avec demande d'avis de réception ; il dispose d'un
 délai de six mois à compter de cette notification pour céder ses parts sociales dans les conditions fixées par la clause 7
@@ -270,7 +270,7 @@ en cette qualité.
 **9. Situation des administrateurs et membres du conseil de surveillance. **
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
-conditions prévues à l'article R. 421-56. 
+conditions prévues à l'article R. 421-10. 
 
 **10. Expression des voix aux assemblées. **
 
@@ -281,7 +281,7 @@ de dix voix dans les assemblées, la sienne comprise.
 Les associés mentionnés aux cinquième et huitième alinéas de la clause 5 disposent de droits de vote correspondant au nombre
 des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5. 
 
-**11. Année sociale. **
+**11. Année sociale.**
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre. 
 
@@ -305,7 +305,7 @@ adressée dans les même conditions.
 Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être
 distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la
 loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un
-premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point. 
+premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point. 
 
 **15. Réserves. **
 
@@ -314,7 +314,7 @@ cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent
 
 Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au
 profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation spécifique aux
-sociétés coopératives d'H. L. M., et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des
+sociétés coopératives d'H.L.M., et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des
 présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la
 société et à parer aux éventualités. 
 
@@ -338,6 +338,42 @@ l'article L. 422-3 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Décret n°67-236 du 23 mars 1967
+	  - Loi n°84-595 du 12 juillet 1984
+	  - Loi n°86-1290 du 23 décembre 1986
+	  - Loi n°89-462 du 6 juillet 1989 - art. 15
+	  - Loi n°89-462 du 6 juillet 1989 - art. 40
+	  - Loi n°2001-1275 du 28 décembre 2001  - art. 116
+	  - Code de commerce - art. L225-100
+	  - Code de commerce - art. L232-12
+	  - Code général des impôts, CGI. - art. 31
+	  - Code de la construction et de l'habitation. - art. L231-1
+	  - Code de la construction et de l'habitation. - art. L253-1
+	  - Code de la construction et de l'habitation. - art. L261-1
+	  - Code de la construction et de l'habitation. - art. L261-3
+	  - Code de la construction et de l'habitation. - art. L303-1
+	  - Code de la construction et de l'habitation. - art. L411-2
+	  - Code de la construction et de l'habitation. - art. L421-1
+	  - Code de la construction et de l'habitation. - art. L422-13
+	  - Code de la construction et de l'habitation. - art. L422-3
+	  - Code de la construction et de l'habitation. - art. L423-4
+	  - Code de la construction et de l'habitation. - art. L423-5
+	  - Code de la construction et de l'habitation. - art. L441-2
+	  - Code de la construction et de l'habitation. - art. L442-11
+	  - Code de la construction et de l'habitation. - art. L443-14
+	  - Code de la construction et de l'habitation. - art. L443-15
+	  - Code de la construction et de l'habitation. - art. L443-6-2
+	  - Code de la construction et de l'habitation. - art. L444-1
+	  - Code de la construction et de l'habitation. - art. L451-5
+	  - Code de la construction et de l'habitation. - art. L615-1
+	  - Code de la construction et de l'habitation. - art. L631-11
+	  - Code de la construction et de l'habitation. - art. R*442-23
+	  - Code de la construction et de l'habitation. - art. R441-9
+	  - Code de la construction et de l'habitation. - art. R443-34
+
 	**Modifié par**:
 
-	  - Décret n°2007-1840 du 24 décembre 2007 - art. 3
+	  - Décret n°2008-566 du 18 juin 2008 - art. 2

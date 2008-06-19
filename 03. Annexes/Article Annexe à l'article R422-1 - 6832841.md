@@ -89,10 +89,10 @@ l'habitation ;
 442-23 du code de la construction et de l'habitation, de gérer, en qualité d'administrateur de biens, des logements situés
 dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndic de ces copropriétés ; 
 
-18° Dans les copropriétés mentionnées au 1° ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article L.
-615-1 du code de la construction et de l'habitation ou d'une opération programmée d'amélioration de l'habitat prévue à
+18° Dans les copropriétés mentionnées au 17° ci-dessus qui font l'objet d'un plan de sauvegarde en application de l'article
+L. 615-1 du code de la construction et de l'habitation ou d'une opération programmée d'amélioration de l'habitat prévue à
 l'article L. 303-1 du même code et dédiée aux copropriétés dégradées, d'acquérir des lots en vue de leur revente, d'y
-effectuer tous travaux et de les louer provisoirement. Les dispositions du 7° de l'article R. 421-4 du même code sont
+effectuer tous travaux et de les louer provisoirement. Les dispositions du 3° de l'article R. 421-2 du même code sont
 applicables aux conditions de revente et de location de ces lots ; 
 
 19° De réaliser des prestations de services pour le compte de syndicats de copropriétaires d'immeubles faisant l'objet d'un
@@ -114,8 +114,8 @@ périmètre d'une opération programmée d'amélioration de l'habitat mentionné
 conditions fixées par l'article L. 442-11 du code de la construction et de l'habitation, des logements appartenant à des
 personnes privées et vacants depuis plus d'un an ; 
 
-24° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-1, R. 421-4
-(6°) et R. 421-4-1 du code de la construction et de l'habitation ; 
+24° De réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues aux articles L. 421-3 (6°) et R.
+421-2 (2°) du code de la construction et de l'habitation ; 
 
 25° De se voir confier par convention la réalisation d'une opération de restructuration urbaine qui peut comprendre toutes
 opérations ou actions ou tous aménagements ou équipements de nature à favoriser une politique de développement social urbain
@@ -162,7 +162,7 @@ finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou des sociétés civile
 35° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
 habilitées par les textes législatifs s'y rapportant. 
 
-**4. Compétence territoriale-Siège social. **
+**4. Compétence territoriale-Siège social.**
 
 L'activité de la société s'exerce sur le territoire de la région où est situé son siège social. Elle peut également
 intervenir sur le territoire des départements limitrophes à cette région, après accord de la commune d'implantation de
@@ -204,7 +204,7 @@ construction et de l'habitation, sauf dérogation accordée dans les conditions 
 2° Chaque communauté de communes de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants,
 communauté urbaine, communauté d'agglomération, syndicat d'agglomération nouvelle, département ou région sur le territoire
 duquel ou de laquelle la société possède des logements ou des logements-foyers, lorsqu'il ou elle n'est pas actionnaire de la
-société, est en droit d'acquérir une action de l'actionnaire de référence. L'acquisition se fait au prix symbolique de dix
+société, est en droit d'acquérir une action de l'actionnaire de référence.L'acquisition se fait au prix symbolique de dix
 centimes d'euro. 
 
 La cession est consentie par l'actionnaire de référence ou l'un quelconque des actionnaires le constituant dans les quinze
@@ -235,7 +235,7 @@ céder tout ou partie de ses actions peut demander leur rachat, à un prix qu'il
 résultant de l'application de l'article L. 423-4 du même code, par l'actionnaire de référence ou l'un des actionnaires qui le
 constituent. Celui-ci, à défaut de faire acquérir les actions soit par un autre actionnaire soit par une ou plusieurs
 personnes qu'il aura désignée (s), est tenu d'acquérir lui-même les actions, dans le délai de trois mois à compter de la
-réception de la demande. 
+réception de la demande.
 
 A défaut d'accord amiable sur le prix des actions à l'expiration du délai de trois mois mentionné à l'alinéa précédent, le
 juge fixe ce prix et prononce si nécessaire le transfert de propriété. 
@@ -267,7 +267,7 @@ derniers dans les conditions fixées au 3° du I du même article sont membres d
 **8. Situation des administrateurs et membres du conseil de surveillance. **
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
-conditions prévues à l'article R. 421-56 du code de la construction et de l'habitation. Il en est de même des fonctions de
+conditions prévues à l'article R. 421-10 du code de la construction et de l'habitation. Il en est de même des fonctions de
 direction générale ou de direction générale déléguée exercées par le président du conseil d'administration ou par tout
 administrateur. 
 
@@ -294,7 +294,7 @@ nominatifs tenus par la société au plus tard cinq jours avant la date de cette
 (2) A compléter par la société. La somme des nombres de voix attribuées à ces deux catégories doit être égale au tiers des
 voix plus une, arrondi le cas échéant à l'entier supérieur. 
 
-**10. Année sociale. **
+**10. Année sociale.**
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre. 
 
@@ -303,13 +303,13 @@ L'année sociale de la société débute le 1er janvier et finit le 31 décembre
 La société ne peut consentir des avances à une société d'habitations à loyer modéré que si elle en détient au moins 5 % du
 capital et après y avoir été autorisée par le ministre chargé de l'économie et le ministre chargé du logement. Ces avances
 sont rémunérées sans que le taux appliqué puisse excéder le taux d'intérêt servi au détenteur d'un premier livret de caisse
-d'épargne, majoré de 1,5 point. 
+d'épargne, majoré de 1, 5 point. 
 
 **12. Résultat de l'exercice. **
 
 Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-11 du code de commerce, il ne peut être
 distribué un dividende supérieur à un pourcentage de la valeur nominale des actions égal ou inférieur au taux d'intérêt servi
-au détenteur d'un premier livret d'une caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point. 
+au détenteur d'un premier livret d'une caisse d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point. 
 
 **13. Attribution de l'actif. **
 
@@ -346,6 +346,40 @@ composition du capital ayant un effet sur l'actionnaire de référence.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°67-236 du 23 mars 1967
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1
+	  - Loi n°2001-1275 du 28 décembre 2001  - art. 116
+	  - Code de commerce - art. L223-11
+	  - Code de la santé publique - art. L6148-7
+	  - Code de la construction et de l'habitation. - art. L253-1
+	  - Code de la construction et de l'habitation. - art. L261-1
+	  - Code de la construction et de l'habitation. - art. L261-3
+	  - Code de la construction et de l'habitation. - art. L303-1
+	  - Code de la construction et de l'habitation. - art. L421-1
+	  - Code de la construction et de l'habitation. - art. L422-2-1
+	  - Code de la construction et de l'habitation. - art. L423-4
+	  - Code de la construction et de l'habitation. - art. L423-5
+	  - Code de la construction et de l'habitation. - art. L441-2
+	  - Code de la construction et de l'habitation. - art. L442-11 (V)
+	  - Code de la construction et de l'habitation. - art. L443-14
+	  - Code de la construction et de l'habitation. - art. L443-6-2
+	  - Code de la construction et de l'habitation. - art. L444-1
+	  - Code de la construction et de l'habitation. - art. L615-1
+	  - Code de la construction et de l'habitation. - art. L631-11
+	  - Code de la construction et de l'habitation. - art. R*421-2
+	  - Code de la construction et de l'habitation. - art. R*421-4
+	  - Code de la construction et de l'habitation. - art. R*421-56
+	  - Code de la construction et de l'habitation. - art. R*422-1-1
+	  - Code de la construction et de l'habitation. - art. R*422-2
+	  - Code de la construction et de l'habitation. - art. R*422-4
+	  - Code de la construction et de l'habitation. - art. R*442-23
+	  - Code de la construction et de l'habitation. - art. R421-4-1
+	  - Code de la construction et de l'habitation. - art. R441-9
+	  - Code de la construction et de l'habitation. - art. R443-34
+
 	**Modifié par**:
 
-	  - Décret n°2007-1840 du 24 décembre 2007 - art. 2
+	  - Décret n°2008-566 du 18 juin 2008 - art. 2
