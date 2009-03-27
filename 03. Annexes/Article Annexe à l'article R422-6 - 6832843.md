@@ -59,14 +59,13 @@ usage commun ou des installations nécessaires à la vie économique et sociale 
 
 11° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un
 groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux,
-à des organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
-2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
-association ; 
+à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
+l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ; 
 
 12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par
 un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme
-sans but lucratif, l'association mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou une des sociétés
-civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ; 
+sans but lucratif, l'association mentionnée à l'article L. 313-34 du code de la construction et de l'habitation précitée ou
+une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ; 
 
 13° De réaliser des lotissements ; 
 
@@ -135,13 +134,13 @@ fixées par les articles L. 444-1 et suivants du code de la construction et de l
 et l'aménagement de terrains qu'elle pourra ultérieurement céder à ces personnes ; 
 
 30° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
-construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n°
-2001-1275 du 28 décembre 2001), ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
-association, des immeubles à usage principal d'habitation destinés à la location ; 
+construction et de l'habitation, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
+l'habitation, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association, des
+immeubles à usage principal d'habitation destinés à la location ; 
 
-31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de
-finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette
-association ; 
+31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article       l'article L.
+313-34 du code de la construction et de l'habitation précitée, ou des sociétés civiles immobilières dont les parts sont
+détenues à 99 % au moins par cette association ; 
 
 32° De réaliser en vue de leur vente, dans les conditions prévues à l'article L. 261-3 du code de la construction et de
 l'habitation, pour le compte de personnes publiques ou privées, des immeubles à usage principal d'habitation dont elle peut
@@ -376,4 +375,4 @@ l'article L. 422-3 du code de la construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Décret n°2008-566 du 18 juin 2008 - art. 2
+	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
