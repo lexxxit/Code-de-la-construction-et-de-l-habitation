@@ -205,9 +205,9 @@ du II de la même clause, ne s'applique pas aux cessions d'actions de ces établ
 
 A l'occasion et pour les besoins d'un contrôle ou d'une inspection de la ou des société(s) anonyme(s) de crédit immobilier
 détentrice(s) de leur capital, les sociétés dans lesquelles la société détient des participations peuvent être contrôlées par
-la commission bancaire en application de la loi du 24 janvier 1984 précitée, par l'administration en application de l'article
-L. 451-1 du code de la construction et de l'habitation, ou par la chambre syndicale des sociétés anonymes de crédit
-immobilier en application de la loi du 15 mai 1991 précitée.
+la l'Autorité de contrôle prudentiel en application de la loi du 24 janvier 1984 précitée, par l'administration en
+application de l'article L. 451-1 du code de la construction et de l'habitation, ou par la chambre syndicale des sociétés
+anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée.
 
 6. Compétence territoriale - Siège social.
 
@@ -278,7 +278,7 @@ sociétés anonymes de crédit immobilier :
 
 - par la société, en cas de transfert d'actions entre actionnaires ;
 
-- par le conseil d'administration (ou de surveillance), lorsqu'il a agréé une cession ou proposé l'acquisition  par un autre
+- par le conseil d'administration (ou de surveillance), lorsqu'il a agréé une cession ou proposé l'acquisition par un autre
 acheteur, en cas de cession à un tiers non actionnaire.
 
 Cette notification est effectuée dans les dix jours qui suivent :
@@ -442,15 +442,6 @@ immobilier et au préfet du département du siège de la société.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-622 1978-05-31
-
-	**Créé par**:
-
-	  - Décret n°92-529 1992-06-15 annexe JORF 17 juin 1992 rectificatif JORF 1er août 1992
-
 	**Modifié par**:
 
-	  - Décret n°93-747 1993-03-27 annexe JORF 30 mars 1993
-	  - Décret n°2002-1158 du 13 septembre 2002 - art. 8 () JORF 14 septembre 2002
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
