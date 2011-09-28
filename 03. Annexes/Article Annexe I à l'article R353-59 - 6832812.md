@@ -131,7 +131,7 @@ construction et de l'habitation pour l'attribution des logements sociaux. Cette 
 opérations comportant un seul logement.
 
 A l'entrée en service de l'immeuble, en sus des 30 % de logements ci-dessus mentionnés, le bailleur s'engage, compte tenu de
-la demande locale, que visent notamment  à satisfaire le plan d'action départemental pour le logement des personnes
+la demande locale, que visent notamment à satisfaire le plan d'action départemental pour le logement des personnes
 défavorisées, l'accord collectif départemental signé avec le bailleur et les chartes et conférences intercommunales du
 logement, à louer ... (5) autres logements à des ménages dont les ressources n'excèdent pas 60 % du plafond prévu au premier
 alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux. Le
@@ -248,7 +248,18 @@ mesure, dès le mois qui suit la présentation de ces justificatifs.
 Le loyer pratiqué applicable à chaque logement occupé par un locataire ou un occupant de bonne foi dont les ressources
 excèdent les plafonds de ressources prévus à l'article R. 331-12 du code de la construction et de l'habitation pour
 l'attribution des logements sociaux au moment de l'acquisition ou qui n'a pas fourni d'informations sur le niveau de ses
-ressources ne peut excéder le loyer maximum fixé à l'article 8 bis. 
+ressources ne peut excéder le loyer maximum fixé à l'article 8 bis.
+
+Article 9 ter.
+
+Conformément à l'arrêté préfectoral prévu à l'article R. 353-70-1 du code de la construction et de l'habitation, le loyer
+maximum peut être majoré dans les conditions de ce même article sans dépasser........ € par mètre carré et par mois. 
+
+Cette majoration de loyer s'applique pendant une durée de........ mois et concerne........ mètres carrés de logements. Le
+nombre de mètres carrés peut varier de plus ou moins 20 %. 
+
+Lorsque la majoration de loyer prévue aux alinéas précédents est appliquée, les stipulations du III de l'article 7 de la
+présente convention ne s'appliquent pas. 
 
 Article 10.
 
@@ -485,15 +496,8 @@ l'opération faisant l'objet de la présente convention.
 
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°2006-569 du 17 mai 2006 - art. 10 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 12 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 13 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 14 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 15 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 6 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 7 () JORF 20 mai 2006
-	  - Décret n°2006-569 du 17 mai 2006 - art. 8 () JORF 20 mai 2006
+	  - Décret n°2011-1191 du 26 septembre 2011 - art. 6
