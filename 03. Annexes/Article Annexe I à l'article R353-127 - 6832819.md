@@ -171,7 +171,7 @@ demeure par lettre recommandée ou acte extra-judiciaire, demeuré sans effet ap
 faisant l'objet de la présente convention.
 
 En cas de défaut de versement de la somme visée à l'alinéa 2 du présent article, leur recouvrement sera opéré dans les
-conditions prévues par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Article 8.
 
@@ -192,14 +192,15 @@ Fait à ..., le ....
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5
+	  - Décret n°2012-1246 du 7 novembre 2012
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31
-
-	**Créé par**:
-
-	  - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°96-656 1996-07-22 art. 12 JORF 25 juillet 1996
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 6

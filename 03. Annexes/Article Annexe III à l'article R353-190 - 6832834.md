@@ -85,7 +85,7 @@ obligations relatives, notamment, aux conditions particulières de réservation 
 d'occupation sociale du patrimoine, ainsi que des obligations à l'information des locataires ou des organismes chargés de la
 liquidation de l'aide personnalisée au logement et après mise en demeure par lettre recommandée demeurée sans effet pendant
 un délai de six mois. En cas de défaut de versement de cette somme, le recouvrement sera opéré dans les conditions prévues
-par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Article 7.
 
@@ -369,11 +369,26 @@ De faire connaître sur la quittance toute modification sur le montant de l'aide
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 du 1er septembre 1948
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 13 bis
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 14
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 22 bis
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6
+	  - Loi n°67-561 du 12 juillet 1967
+	  - Loi n°67-561 du 12 juillet 1967 - art. 2
+	  - Loi n°89-475 du 10 juillet 1989 - art. 6
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code civil - art. 1724
+	  - Code civil - art. 1728
+	  - Code civil - art. 1754
+	  - Code civil - art. 606
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
-	  - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 6

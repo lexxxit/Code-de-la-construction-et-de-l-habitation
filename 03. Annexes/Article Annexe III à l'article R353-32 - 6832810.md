@@ -86,7 +86,7 @@ de l'habitation une somme correspondante, pour chacun des logements indûment oc
 de l'infraction.
 
 En cas de défaut de versement de la somme visée aux alinéas 2 et 3 du présent article, leur recouvrement sera opéré dans les
-conditions prévues par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Article 7.
 
@@ -381,10 +381,25 @@ De faire apparaître sur la quittance toute modification sur le montant de l'aid
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°48-1360 du 1er septembre 1948
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 13 bis
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 14
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 22 bis
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6
+	  - Loi n°67-561 du 12 juillet 1967
+	  - Loi n°67-561 du 12 juillet 1967 - art. 2
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code civil - art. 1724
+	  - Code civil - art. 1728
+	  - Code civil - art. 1754
+	  - Code civil - art. 606
+
 	**Codifié par**:
 
-	  - Décret n°78-622 1978-05-31
+	  - Décret n°78-622 du 31 mai 1978
 
 	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 6
