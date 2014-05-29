@@ -167,8 +167,8 @@ Apport en nature :
 L'organisme d'HLM (ou la SEM) apporte à la société, sous les garanties ordinaires de droit et de fait, un immeuble situé à et
 évalué à la somme de € 
 
-(préciser désignation, contenance, pleine propriété, évaluation du service des domaines, charges et conditions particulières,
-publicité foncière, origine de propriété...). 
+(préciser désignation, contenance, pleine propriété, évaluation du directeur départemental ou, le cas échéant, régional des
+finances publiques, charges et conditions particulières, publicité foncière, origine de propriété...). 
 
 Article 6 
 
@@ -737,23 +737,23 @@ relativement aux affaires sociales, sera soumise au tribunal de grande instance 
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 (V)
-	  - Loi n°2006-872 du 13 juillet 2006 (V)
-	  - Code civil - art. 1844-1 (V)
-	  - Code civil - art. 1856 (V)
-	  - Code de la construction et de l'habitation. - art. L351-2 (V)
-	  - Code de la construction et de l'habitation. - art. L441-1 (V)
-	  - Code de la construction et de l'habitation. - art. L443-6-10 (V)
-	  - Code de la construction et de l'habitation. - art. L443-6-12 (V)
-	  - Code de la construction et de l'habitation. - art. L443-6-2 (V)
-	  - Code de la construction et de l'habitation. - art. L443-6-5 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-7 (V)
-	  - Code de la construction et de l'habitation. - art. L481-6 (V)
-	  - Code de la construction et de l'habitation. - art. R*443-9-1 (V)
+	  - Loi n°65-557 du 10 juillet 1965
+	  - Loi n°2006-872 du 13 juillet 2006
+	  - Code civil - art. 1844-1
+	  - Code civil - art. 1856
+	  - Code de la construction et de l'habitation. - art. L351-2
+	  - Code de la construction et de l'habitation. - art. L441-1
+	  - Code de la construction et de l'habitation. - art. L443-6-10
+	  - Code de la construction et de l'habitation. - art. L443-6-12
+	  - Code de la construction et de l'habitation. - art. L443-6-2
+	  - Code de la construction et de l'habitation. - art. L443-6-5
+	  - Code de la construction et de l'habitation. - art. L472-1-7
+	  - Code de la construction et de l'habitation. - art. L481-6
+	  - Code de la construction et de l'habitation. - art. R*443-9-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-98 du 26 janvier 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 8
 
 	**Cité par**:
 
