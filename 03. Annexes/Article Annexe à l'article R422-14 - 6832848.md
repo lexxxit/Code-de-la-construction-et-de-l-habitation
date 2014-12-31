@@ -206,8 +206,8 @@ du II de la même clause, ne s'applique pas aux cessions d'actions de ces établ
 A l'occasion et pour les besoins d'un contrôle ou d'une inspection de la ou des société (s) anonyme (s) de crédit immobilier
 détentrice (s) de leur capital, les sociétés dans lesquelles la société détient des participations peuvent être contrôlées
 par la l'Autorité de contrôle prudentiel et de résolution en application de la loi du 24 janvier 1984 précitée, par
-l'administration en application de l'article L. 451-1 du code de la construction et de l'habitation, ou par la chambre
-syndicale des sociétés anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée. 
+l'administration en application du b du 1° du I de l'article L. 342-2 du code de la construction et de l'habitation, ou par
+la chambre syndicale des sociétés anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée. 
 
 6. Compétence territoriale-Siège social. 
 
@@ -446,23 +446,23 @@ immobilier et au préfet du département du siège de la société.
 
 	**Cite**:
 
-	  - Loi n°66-537 du 24 juillet 1966 (Ab)
-	  - Loi n°84-46 du 24 janvier 1984 (V)
-	  - Décret n°92-529 du 15 juin 1992 (V)
-	  - Code de la construction et de l'habitation. - art. L222-6 (V)
-	  - Code de la construction et de l'habitation. - art. L411-1 (V)
-	  - Code de la construction et de l'habitation. - art. L422-4 (Ab)
-	  - Code de la construction et de l'habitation. - art. L422-4-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L422-4-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. L423-4 (V)
-	  - Code de la construction et de l'habitation. - art. L423-5 (V)
-	  - Code de la construction et de l'habitation. - art. L443-13 (V)
-	  - Code de la construction et de l'habitation. - art. L451-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*421-4 (V)
-	  - Code de la construction et de l'habitation. - art. R*422-10 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*422-13 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*423-75-1 (V)
+	  - Loi n°66-537 du 24 juillet 1966
+	  - Loi n°84-46 du 24 janvier 1984
+	  - Décret n°92-529 du 15 juin 1992
+	  - Code de la construction et de l'habitation. - art. L222-6
+	  - Code de la construction et de l'habitation. - art. L342-2
+	  - Code de la construction et de l'habitation. - art. L411-1
+	  - Code de la construction et de l'habitation. - art. L422-4
+	  - Code de la construction et de l'habitation. - art. L422-4-1
+	  - Code de la construction et de l'habitation. - art. L422-4-2
+	  - Code de la construction et de l'habitation. - art. L423-4
+	  - Code de la construction et de l'habitation. - art. L423-5
+	  - Code de la construction et de l'habitation. - art. L443-13
+	  - Code de la construction et de l'habitation. - art. R*421-4
+	  - Code de la construction et de l'habitation. - art. R*422-10
+	  - Code de la construction et de l'habitation. - art. R*422-13
+	  - Code de la construction et de l'habitation. - art. R423-75-1
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1596 du 23 décembre 2014 - art. 6
