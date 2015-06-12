@@ -54,7 +54,7 @@ départemental de l'équipement pouvant représenter le préfet ;
 - l'Association départementale des maires de France.
 
 Les membres adhérents sont des personnes morales légalement constituées intervenant dans le domaine du logement ou de
-l'habitat dans le département concerné.
+l'habitat dans le département concerné ou des personnalités qualifiées dans le domaine du logement ou de la statistique.
 
 La qualité de membre de droit peut également être conférée, à sa demande, à toute association départementale d'élus
 territoriaux.
@@ -66,6 +66,8 @@ Peuvent être membres adhérents, après décision du conseil d'administration :
 - des établissements publics de coopération intercommunale (EPCI) ;
 
 - des personnes morales légalement constituées ayant manifesté leur intérêt pour l'action de l'association.
+
+- des personnalités qualifiées dans le domaine du logement ou de la statistique.
 
 Direction.
 
@@ -94,16 +96,16 @@ serait pas conforme aux dispositions de cet article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-	**Créé par**:
-
-	  - Décret n°2007-1576 2007-11-06 annexe JORF 8 novembre 2007
+	  - Décret n°2015-650 du 10 juin 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L366-1 (V)
+	  - Code de la construction et de l'habitation. - art. L366-1
 	  - Décret n°1901-08-16
 	  - Loi n°1901-07-01
+
+	**Codifié par**:
+
+	  - Décret n°78-622 du 31 mai 1978
