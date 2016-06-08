@@ -22,12 +22,12 @@ interventions de ces derniers sur des immeubles qui leur appartiennent ou qu'ils
 
 2° De gérer des immeubles appartenant à ses actionnaires organismes d'habitations à loyer modéré ; 
 
-3° De gérer, dans les périmètres où ses actionnaires mettent en oeuvre des projets communs, des immeubles appartenant à
+3° De gérer, dans les périmètres où ses actionnaires mettent en œuvre des projets communs, des immeubles appartenant à
 d'autres organismes d'habitations à loyer modéré et de gérer des immeubles à usage principal d'habitation appartenant à
-l'Etat, aux collectivités territoriales ou à leurs groupements, à des sociétés d'économie mixte de construction et de gestion
-de logements locatifs sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34
-du code de la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99
-% par cette association ; 
+l'Etat, aux collectivités territoriales ou à leurs groupements, à des sociétés d'économie mixte agréées en application de
+l'article L. 481-1, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de
+la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ; 
 
 4° De réaliser, pour le compte de ses actionnaires et dans le cadre d'une convention passée par la société avec la ou les
 collectivités territoriales ou le ou les établissements publics de coopération intercommunale compétents sur le ou les
@@ -138,4 +138,4 @@ Les statuts de la société sont transmis au préfet du département du siège d
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+	  - Décret n°2016-751 du 6 juin 2016 - art. 2

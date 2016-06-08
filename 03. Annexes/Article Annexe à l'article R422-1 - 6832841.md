@@ -1,17 +1,17 @@
 # Article Annexe à l'article R422-1
 
-**1. Forme. **
+1. Forme. 
 
 Il est formé, entre les propriétaires des actions créées ci-après et de toutes celles qui le seraient ultérieurement, une
 société anonyme d'habitations à loyer modéré régie par les lois et règlements en vigueur, notamment par les dispositions du
 livre IV du code de la construction et de l'habitation ainsi que par les dispositions non contraires du code civil, du code
 de commerce et du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales. 
 
-**2. Dénomination. **
+2. Dénomination. 
 
 La dénomination de la société est :... Société anonyme d'habitations à loyer modéré. 
 
-**3. Objet social. **
+3. Objet social. 
 
 La société a pour objet : 
 
@@ -23,8 +23,8 @@ un ensemble, des locaux à usage commun ou des installations nécessaires à la 
 2° De gérer les immeubles appartenant à d'autres organismes d'habitations à loyer modéré ; 
 
 3° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un
-groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux,
-à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
+groupement de collectivités territoriales, à une société d'économie mixte agréées en application de l'article L. 481-1, à des
+organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
 l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ; 
 
 4° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine qu'elle gère ou, à
@@ -66,9 +66,8 @@ entrant dans l'objet social et la compétence territoriale desdits organismes et
 
 12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par
 un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme
-sans but lucratif, l'association mentionnée à l'article       l'article L. 313-34 du code de la construction et de
-l'habitation précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette
-association ; 
+sans but lucratif, l'association mentionnée à l'article l'article L. 313-34 du code de la construction et de l'habitation
+précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ; 
 
 13° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2 du code de la construction et de
 l'habitation et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de vente d'immeuble à construire
@@ -128,9 +127,9 @@ d'orientation pour l'aménagement et le développement du territoire ;
 fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ; 
 
 27° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la
-construction et de l'habitation, à l'association agréée mentionnée à l'article       l'article L. 313-34 du code de la
-construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont
-détenues à 99 % au moins par cette association, des immeubles à usage principal d'habitation destinés à la location ; 
+construction et de l'habitation, à l'association agréée mentionnée à l'article l'article L. 313-34 du code de la construction
+et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99
+% au moins par cette association, des immeubles à usage principal d'habitation destinés à la location ; 
 
 28° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de
 développement à caractère social d'intérêt direct pour les habitants des quartiers d'habitat social, dans le cadre des
@@ -153,16 +152,16 @@ fonctionnaires de la police et de la gendarmerie nationales, des services dépar
 services pénitentiaires, ainsi que les locaux accessoires à ces immeubles et les locaux nécessaires au fonctionnement des
 gendarmeries ; 
 
-33° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article       l'article L.
-313-34 du code de la construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières
-dont les parts sont détenues à 99 % au moins par cette association ; 
+33° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article l'article L. 313-34
+du code de la construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières dont
+les parts sont détenues à 99 % au moins par cette association ; 
 
 34° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ; 
 
 35° De réaliser toutes opérations pour lesquelles les sociétés anonymes d'habitations à loyer modéré sont ou seront
 habilitées par les textes législatifs s'y rapportant. 
 
-**4. Compétence territoriale-Siège social.**
+4. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce sur le territoire de la région où est situé son siège social. Elle peut également
 intervenir sur le territoire des départements limitrophes à cette région, après accord de la commune d'implantation de
@@ -175,7 +174,7 @@ Le siège social de la société est fixé à :...
 
 Il pourra être transféré à l'intérieur de la région ou des régions où s'exerce la compétence de la société. 
 
-**5. Composition et modification du capital social. **
+5. Composition et modification du capital social. 
 
 Le capital social de la société est composé de... actions nominatives de... euros chacune, entièrement libérées. 
 
@@ -196,7 +195,7 @@ construction et de l'habitation.
 
 La société ne peut procéder à l'amortissement de son capital. 
 
-**6. Cession d'actions. **
+6. Cession d'actions. 
 
 1° Le prix de cession des actions ne peut dépasser celui qui est fixé en application de l'article L. 423-4 du code de la
 construction et de l'habitation, sauf dérogation accordée dans les conditions prévues par cet article ; 
@@ -242,9 +241,9 @@ juge fixe ce prix et prononce si nécessaire le transfert de propriété.
 
 (1) Rayer la mention inutile. 
 
-**(Version applicable aux sociétés dotées d'un conseil d'administration) (1) : **
+(Version applicable aux sociétés dotées d'un conseil d'administration) (1) : 
 
-**7. Conseil d'administration **
+7. Conseil d'administration 
 
 La société est administrée par un conseil d'administration, dans les conditions prévues à la sous-section 1 de la section 2
 du chapitre V du titre II du livre II du code de commerce. Le conseil d'administration comprend trois administrateurs nommés
@@ -252,9 +251,9 @@ sur proposition des établissements publics et collectivités territoriales ment
 code de la construction et de l'habitation. Les trois actionnaires représentant les locataires et élus par ces derniers dans
 les conditions fixées au 3° du I du même article sont administrateurs. 
 
-**(Version applicable aux sociétés dotées d'un conseil de surveillance et d'un directoire) (1) : **
+(Version applicable aux sociétés dotées d'un conseil de surveillance et d'un directoire) (1) : 
 
-**7. Conseil de surveillance et directoire **
+7. Conseil de surveillance et directoire 
 
 La société est administrée par un conseil de surveillance et un directoire, dans les conditions prévues à la sous-section 2
 de la section 2 du chapitre V du titre II du livre II du code de commerce. Le conseil de surveillance comprend trois membres
@@ -264,14 +263,14 @@ derniers dans les conditions fixées au 3° du I du même article sont membres d
 
 (1) La société devra opter pour l'une de ces deux versions. 
 
-**8. Situation des administrateurs et membres du conseil de surveillance. **
+8. Situation des administrateurs et membres du conseil de surveillance. 
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
 conditions prévues à l'article R. 421-10 du code de la construction et de l'habitation. Il en est de même des fonctions de
 direction générale ou de direction générale déléguée exercées par le président du conseil d'administration ou par tout
 administrateur. 
 
-**9. Participation aux assemblées et répartition des voix **
+9. Participation aux assemblées et répartition des voix 
 
 Dans les assemblées générales de la société, le nombre total des voix dont disposent les actionnaires est égal à dix fois le
 nombre des actions de la société, soit... voix (1). 
@@ -294,40 +293,40 @@ nominatifs tenus par la société au plus tard cinq jours avant la date de cette
 (2) A compléter par la société. La somme des nombres de voix attribuées à ces deux catégories doit être égale au tiers des
 voix plus une, arrondi le cas échéant à l'entier supérieur. 
 
-**10. Année sociale.**
+10. Année sociale.
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre. 
 
-**11. Avances. **
+11. Avances. 
 
 La société ne peut consentir des avances à une société d'habitations à loyer modéré que si elle en détient au moins 5 % du
 capital et après y avoir été autorisée par le ministre chargé de l'économie et le ministre chargé du logement. Ces avances
 sont rémunérées sans que le taux appliqué puisse excéder le taux d'intérêt servi au détenteur d'un premier livret de caisse
 d'épargne, majoré de 1, 5 point. 
 
-**12. Résultat de l'exercice. **
+12. Résultat de l'exercice. 
 
 Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-11 du code de commerce, il ne peut être
 distribué un dividende supérieur à un pourcentage de la valeur nominale des actions égal ou inférieur au taux d'intérêt servi
 au détenteur d'un premier livret d'une caisse d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point. 
 
-**13. Attribution de l'actif. **
+13. Attribution de l'actif. 
 
 Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur
 la liquidation ne pourra, après paiement du passif et remboursement du capital, attribuer la portion d'actif qui excéderait
 la moitié du capital social que dans les conditions prévues par le code de la construction et de l'habitation. 
 
-**14. Transmission des statuts. **
+14. Transmission des statuts. 
 
 Les statuts de la société sont transmis au préfet du département du siège de la société après chaque modification. 
 
-**15. Commission d'attribution. **
+15. Commission d'attribution. 
 
 La (ou les) commission (s) d'attribution des logements prévue (s) en application de l'article L. 441-2 du code de la
 construction et de l'habitation est (sont) constituée (s) et fonctionne (nt) conformément aux articles R. 422-2 et R. 441-9
 du même code. 
 
-**16. Représentation des locataires. **
+16. Représentation des locataires. 
 
 La représentation des locataires aux assemblées générales et au conseil (d'administration) (de surveillance) (1) de la
 société est assurée dans les conditions définies aux articles L. 422-2-1, R. 422-1-1 et R. 422-2-1 du code de la construction
@@ -335,7 +334,7 @@ et de l'habitation.
 
 (1) Rayer la mention inutile. 
 
-**17. Pacte d'actionnaire. **
+17. Pacte d'actionnaire. 
 
 Tout pacte d'actionnaire ayant pour effet de constituer l'actionnaire de référence au sens de l'article L. 422-2-1 du code de
 la construction et de l'habitation est, dès sa conclusion, communiqué par le représentant légal de la société à chacun des
@@ -369,7 +368,7 @@ composition du capital ayant un effet sur l'actionnaire de référence.
 	  - Code de la construction et de l'habitation. - art. L444-1
 	  - Code de la construction et de l'habitation. - art. L615-1
 	  - Code de la construction et de l'habitation. - art. L631-11
-	  - Code de la construction et de l'habitation. - art. R*421-2
+	  - Code de la construction et de l'habitation. - art. R*421-2 (V)
 	  - Code de la construction et de l'habitation. - art. R*421-4
 	  - Code de la construction et de l'habitation. - art. R*421-56
 	  - Code de la construction et de l'habitation. - art. R*422-1-1
@@ -382,4 +381,4 @@ composition du capital ayant un effet sur l'actionnaire de référence.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 8 (V)
+	  - Décret n°2016-751 du 6 juin 2016 - art. 2

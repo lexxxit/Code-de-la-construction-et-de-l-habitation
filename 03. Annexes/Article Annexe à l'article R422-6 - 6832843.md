@@ -1,6 +1,6 @@
 # Article Annexe à l'article R422-6
 
-**1. Forme. **
+1. Forme. 
 
 Il est formé entre les propriétaires des parts sociales créées ci-après et de toutes celles qui le seraient ultérieurement
 une société anonyme coopérative de production d'habitations à loyer modéré, société à capital variable régie par les
@@ -8,12 +8,12 @@ dispositions du livre IV du code de la construction et de l'habitation, ainsi qu
 n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, du code civil et du code de commerce, notamment
 des articles L. 231-1 à L. 231-8, et celles du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales. 
 
-**2. Dénomination. **
+2. Dénomination. 
 
 La dénomination de la société est :... Société anonyme coopérative de production d'habitations à loyer modéré, société à
 capital variable. 
 
-**3. Objet social. **
+3. Objet social. 
 
 La société a pour objet : 
 
@@ -58,8 +58,8 @@ usage commun ou des installations nécessaires à la vie économique et sociale 
 10° De gérer les immeubles à usage principal d'habitation appartenant à d'autres organismes d'habitations à loyer modéré ; 
 
 11° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un
-groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux,
-à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
+groupement de collectivités territoriales, à une société d'économie mixte agréées en application de l'article L. 481-1, à des
+organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de
 l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ; 
 
 12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par
@@ -150,7 +150,7 @@ provisoirement détenir l'usufruit selon les modalités définies aux articles L
 33° De réaliser toutes opérations pour lesquelles les sociétés anonymes coopératives de production d'habitations à loyer
 modéré sont ou seront habilitées par les textes législatifs s'y rapportant. 
 
-**4. Compétence territoriale-Siège social.**
+4. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce sur le territoire de la région où est situé son siège social. Elle peut également
 intervenir sur le territoire des départements limitrophes à cette région, après accord de la commune d'implantation de
@@ -161,7 +161,7 @@ logement peut étendre la compétence territoriale de la société.
 
 Le siège social de la société est fixé à :.... 
 
-**5. Capital social. **
+5. Capital social. 
 
 Le capital est variable, et entièrement libéré lors de la souscription de parts. 
 
@@ -203,7 +203,7 @@ et de l'habitation ne peuvent être réalisées que dans le respect des conditio
 
 La société ne peut procéder à l'amortissement de son capital. 
 
-**6. Retraits-Exclusions. **
+6. Retraits-Exclusions. 
 
 Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou
 l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni
@@ -224,7 +224,7 @@ des présents statuts.
 Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes
 les obligations existant au jour de leur retrait ou de leur exclusion. 
 
-**7. Cession de parts sociales. **
+7. Cession de parts sociales. 
 
 Le prix de cession des parts sociales ne peut dépasser celui qui est fixé en application de l'article L. 423-4 du code de la
 construction et de l'habitation, sauf dérogation accordée dans les conditions prévues par cet article. 
@@ -246,9 +246,9 @@ délai par décision de justice à la demande de la société.
 
 (1) Rayer la mention inutile. 
 
-**8. Organes dirigeants de la société. **
+8. Organes dirigeants de la société. 
 
-**Version applicable aux sociétés dotées d'un conseil d'administration (1) : **
+Version applicable aux sociétés dotées d'un conseil d'administration (1) : 
 
 La société est administrée par un conseil d'administration. 
 
@@ -256,7 +256,7 @@ Lorsque la société exerce une activité de gestion locative telle que prévue 
 et de l'habitation, le conseil d'administration comprend au moins un représentant des coopérateurs locataires désigné par
 l'assemblée générale. La perte de la qualité de locataire met un terme au mandat de l'administrateur nommé en cette qualité. 
 
-**Version applicable aux sociétés dotées d'un directoire et d'un conseil de surveillance (1) : **
+Version applicable aux sociétés dotées d'un directoire et d'un conseil de surveillance (1) : 
 
 La société est administrée par un directoire et un conseil de surveillance. 
 
@@ -267,12 +267,12 @@ en cette qualité.
 
 (1) La société devra opter pour l'une de ces deux versions. 
 
-**9. Situation des administrateurs et membres du conseil de surveillance. **
+9. Situation des administrateurs et membres du conseil de surveillance. 
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les
 conditions prévues à l'article R. 421-10. 
 
-**10. Expression des voix aux assemblées. **
+10. Expression des voix aux assemblées. 
 
 Chaque associé mentionné au quatrième alinéa de la clause 5 ne dispose pour lui-même que d'une seule voix, quel que soit le
 nombre des parts sociales qu'il détient. Il ne peut exprimer, lorsqu'il agit en qualité de mandataire d'autres associés, plus
@@ -281,16 +281,16 @@ de dix voix dans les assemblées, la sienne comprise.
 Les associés mentionnés aux cinquième et huitième alinéas de la clause 5 disposent de droits de vote correspondant au nombre
 des actions qu'ils détiennent, dans les limites et proportions précisées par ladite clause 5. 
 
-**11. Année sociale.**
+11. Année sociale.
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre. 
 
-**12. Commission d'attribution **
+12. Commission d'attribution 
 
 La ou les commissions d'attribution des logements locatifs prévues en application de l'article L. 441-2 du code de la
 construction et de l'habitation sont constituées et fonctionnent conformément à l'article R. 441-9 du même code. 
 
-**13. Documents transmis à l'administration. **
+13. Documents transmis à l'administration. 
 
 Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale réunie en application de l'article L. 225-100 du
 code de commerce, la société adresse au préfet du département de son siège, à la Caisse des dépôts et consignations et au
@@ -300,14 +300,14 @@ le compte rendu de celle-ci.
 En cas de report de l'assemblée générale des actionnaires, la décision de justice accordant un délai supplémentaire doit être
 adressée dans les même conditions. 
 
-**14. Résultats de l'exercice. **
+14. Résultats de l'exercice. 
 
 Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être
 distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la
 loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un
 premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point. 
 
-**15. Réserves. **
+15. Réserves. 
 
 Conformément à l'article L. 423-5 du code de la construction et de l'habitation, et sous réserve des exceptions prévues par
 cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporées au capital. 
@@ -321,17 +321,17 @@ société et à parer aux éventualités.
 Des transferts de réserves peuvent être réalisés par la société dans les conditions définies à l'article L. 422-13 du code de
 la construction et de l'habitation. 
 
-**16. Attribution de l'actif. **
+16. Attribution de l'actif. 
 
 Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur
 la liquidation ne pourra, après paiement du passif et remboursement du capital, attribuer la portion d'actif qui excéderait
 la moitié du capital social que dans les conditions prévues par le code de la construction et de l'habitation. 
 
-**17. Transmission des statuts. **
+17. Transmission des statuts. 
 
 Les statuts de la société sont transmis au préfet du département du siège de la société après chaque modification. 
 
-**18. Révision coopérative. **
+18. Révision coopérative. 
 
 La société fait procéder périodiquement à l'examen analytique de sa situation financière et de sa gestion, conformément à
 l'article L. 422-3 du code de la construction et de l'habitation.
@@ -376,4 +376,4 @@ l'article L. 422-3 du code de la construction et de l'habitation.
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 8
+	  - Décret n°2016-751 du 6 juin 2016 - art. 2
