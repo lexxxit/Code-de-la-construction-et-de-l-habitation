@@ -18,7 +18,7 @@ avec le propriétaire ;
 Vu l'objet du logement-foyer tel que défini en annexe ;
 
 Vu l'autorisation délivrée au gestionnaire par le président du conseil général ou par l'autorité compétente de l'Etat, au
-titre de l'article L. 313-3 du code de l'action sociale et des familles, en date du ... ; 
+titre de l'article L. 313-3 du code de l'action sociale et des familles, en date du ... ;
 
 [Le cas échéant] Vu la convention de location, jointe à la présente convention, en date du .......... conclue entre le
 propriétaire et le gestionnaire ;
@@ -146,9 +146,9 @@ construction et de l'habitation [rayer la mention inutile] :
 
 Par ailleurs :
 
-- les modalités de gestion de ces réservations sont les suivantes : 
+- les modalités de gestion de ces réservations sont les suivantes :
 
-- les modalités de choix des personnes accueillies sont les suivantes : 
+- les modalités de choix des personnes accueillies sont les suivantes :
 
 Le gestionnaire s'engage à ce qu'au moins 90 % des ménages entrant dans les lieux disposent de ressources annuelles
 n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions susmentionnées.
@@ -286,9 +286,7 @@ Le gestionnaire s'engage à tenir à la disposition des résidents ou des entran
 
 Article 10
 
-Maxima applicables à la part de la redevance
-
-assimilable au loyer et aux charges locatives récupérables
+Maxima applicables à la part de la redevance assimilable au loyer et aux charges locatives récupérables
 
 La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et
 aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12,
@@ -297,14 +295,15 @@ III de l'annexe à la présente convention.
 
 Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé, en
 application de l'article L. 353-9-2 du code de la construction et de l'habitation, au 1er janvier de chaque année en fonction
-de l'indice de référence des loyers (IRL) prévu au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 modifiée. La date
-de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
+de l'indice de référence des loyers (IRL) prévu au I de l'article 17-1 de la loi n° 89-462 du 6 juillet 1989  modifiée. La
+date de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
 
 La redevance pratiquée peut, dans la limite de la redevance maximum et de l'IRL, être réactualisée au 1er janvier de chaque
 année, dans les conditions prévues à l'article L. 353-9-3 du code de la construction et de l'habitation.
 
-Cette redevance peut, en outre, dans la limite de la redevance maximum précitée, après que le gestionnaire aura recueilli
-l'avis du préfet, être réajustée chaque année le 1er janvier en cas d'amélioration notable du service rendu.
+Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'IRL, dans la limite de la redevance
+maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de
+l'habitation.
 
 Article 11
 
@@ -375,19 +374,19 @@ doivent être affichés dans l'établissement.
 Les prestations obligatoirement intégrées dans la redevance et non prises en compte pour le calcul de l'APL, et de ce fait
 non prises en compte au titre des charges récupérables, sont les suivantes :
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 Les prestations facultatives à la demande du résident facturées séparément sont les suivantes :
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 Article 13
 
@@ -548,7 +547,7 @@ Annexe à la convention n° 1annexée au III de l'article R. 353-159 du code de 
 
 Descriptif du programme
 
-I. - Nom et adresse du logement-foyer : 
+I. - Nom et adresse du logement-foyer :
 
 II. - Nature du programme conventionné :
 
@@ -567,47 +566,47 @@ de la construction et de l'habitation.
 
 III. - Composition du programme :
 
-Surface habitable totale : 
+Surface habitable totale :
 
-Locaux auxquels s'applique la présente convention : 
+Locaux auxquels s'applique la présente convention :
 
-Surface habitable totale : mètres carrés, dont : 
+Surface habitable totale : mètres carrés, dont :
 
 Surface habitable totale des parties privatives :
 
 mètres carrés ;
 
-Se décomposant comme suit : 
+Se décomposant comme suit :
 
-Nombre total de logements : 
+Nombre total de logements :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-TYPES DE LOGEMENT (*) 
+TYPES DE LOGEMENT (*)
 
 (une ligne par logement)
 
 </th>
       <th>
 
-SURFACE HABITABLE 
+SURFACE HABITABLE
 
 par local
 
 </th>
       <th>
 
-NUMÉRO 
+NUMÉRO
 
 du logement
 
 </th>
       <th colspan="6">
 
-REDEVANCE MAXIMALE 
+REDEVANCE MAXIMALE
 
 par logement prise en compte
 
@@ -618,9 +617,7 @@ pour le calcul de l'APL
     <tr>
       <td align="center">
 
-Logement T 1'
-
-</td>
+Logement T 1'</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -628,9 +625,7 @@ Logement T 1'
     <tr>
       <td align="center">
 
-Logement T 2
-
-</td>
+Logement T 2</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -638,9 +633,7 @@ Logement T 2
     <tr>
       <td align="center">
 
-Logement T 3
-
-</td>
+Logement T 3</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -648,9 +641,7 @@ Logement T 3
     <tr>
       <td align="center">
 
-Logement T 4
-
-</td>
+Logement T 4</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -658,9 +649,7 @@ Logement T 4
     <tr>
       <td align="center">
 
-Logement T 5
-
-</td>
+Logement T 5</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -668,9 +657,7 @@ Logement T 5
     <tr>
       <td align="center">
 
-Logement T 6
-
-</td>
+Logement T 6</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -678,9 +665,7 @@ Logement T 6
     <tr>
       <td align="center">
 
-Logement T 7
-
-</td>
+Logement T 7</td>
       <td align="center">
       </td><td align="center">
       </td><td align="center">
@@ -688,9 +673,7 @@ Logement T 7
     <tr>
       <td colspan="9">
 
-(*) Normes des typologies définies par l'arrêté du 10 juin 1996.
-
-</td>
+(*) Normes des typologies définies par l'arrêté du 10 juin 1996.</td>
     </tr>
   </tbody>
 </table>
@@ -702,19 +685,13 @@ Surface totale des locaux à usage collectif : ........ mètres carrés de surfa
     <tr>
       <th>
 
-TYPE DE LOCAL
-
-</th>
+TYPE DE LOCAL</th>
       <th>
 
-SURFACE HABITABLE
-
-</th>
+SURFACE HABITABLE</th>
       <th colspan="7">
 
-NOMBRE
-
-</th>
+NOMBRE</th>
     </tr>
     <tr>
       <td align="center">
@@ -725,41 +702,41 @@ NOMBRE
   </tbody>
 </table>
 
-Dépendances (nombre et surface) : 
+Dépendances (nombre et surface) :
 
-Garages et/ou parking (nombre) : 
+Garages et/ou parking (nombre) :
 
 Locaux auxquels ne s'applique pas la convention [Exemple : logement de fonction, logement d'accueil temporaire et espaces
 hors hébergement dédiés aux soins, à de la balnéothérapie...]
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 IV. - Renseignements administratifs :
 
-A. - Origine de propriété [Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité] : 
+A. - Origine de propriété [Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité] :
 
-B. - Permis de construire ou déclaration préalable de construction [selon la nature des travaux] : 
+B. - Permis de construire ou déclaration préalable de construction [selon la nature des travaux] :
 
 C. - Modalités de financement de l'opération [Renseignements à compléter dès que les décisions de financements sont
 intervenues] :
 
-Financement principal : 
+Financement principal :
 
-Date d'octroi du prêt : 
+Date d'octroi du prêt :
 
-Numéro du prêt : 
+Numéro du prêt :
 
-Durée : 
+Durée :
 
-Financement complémentaire : 
+Financement complémentaire :
 
-Date d'achèvement de la construction ou certificat de conformité : 
+Date d'achèvement de la construction ou certificat de conformité :
 
-D. - Historique des financements publics dont le programme a bénéficié depuis sa construction : 
+D. - Historique des financements publics dont le programme a bénéficié depuis sa construction :
 
 Fait à , le
 
@@ -811,4 +788,4 @@ Fait à , le
 
 	**Modifié par**:
 
-	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+	  - Décret n°2017-922 du 9 mai 2017 - art. 1
